@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Guidelines for monitoring response in culture-negative typhoid cases, emphasizing clinical improvement, reassessment, and step-down therapy for hospitalized children.",
+  "learning_objectives": [
+    "Understand the clinical indicators of response to therapy in culture-negative typhoid cases.",
+    "Learn the appropriate steps for reassessment in cases of poor response or clinical deterioration.",
+    "Identify when to transition from parenteral to oral therapy and the total duration of treatment.",
+    "Recognize the role of follow-up and the limited utility of routine 'test of cure' cultures."
+  ],
+  "key_facts": [
+    "Defervescence may take 4\u20137 days, especially with cephalosporins.",
+    "Persistent fever in the first week is not necessarily treatment failure if clinical improvement is evident.",
+    "Reassessment is warranted by day 5\u20137 if there is minimal improvement in fever and overall condition.",
+    "Culture-negative illness is common after prior antibiotics or late presentation.",
+    "Step-down to oral therapy is recommended once the child is stable, to complete a total of 10\u201314 days of treatment.",
+    "Routine 'test of cure' cultures are not needed in uncomplicated recovery."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Typhoid Fever",
+    "Enteric Fever",
+    "Antibiotic Therapy",
+    "Culture-Negative Infections",
+    "Cephalosporins",
+    "Clinical Monitoring",
+    "Reassessment",
+    "Bone Marrow Culture"
+  ],
+  "tags_custom": [
+    "culture-negative typhoid",
+    "treatment response",
+    "step-down therapy",
+    "pediatric infectious diseases"
+  ],
+  "reference_quote": "Persistent fever alone in the first treatment week is not equivalent to failure if the child is clearly less toxic and is eating and drinking better.",
+  "document_key_topics": [
+    "Monitoring response in typhoid fever",
+    "Management of culture-negative cases",
+    "Reassessment and follow-up",
+    "Step-down therapy and treatment duration"
+  ],
+  "chunk_heading": "TYPHOID AND ENTERIC FEVER;MONITORING RESPONSE, CULTURE-NEGATIVE",
+  "topic": "TYPHOID AND ENTERIC FEVER",
+  "subtopic": "MONITORING RESPONSE, CULTURE-NEGATIVE",
+  "sub_subtopic": null,
+  "heading_path": "TYPHOID AND ENTERIC FEVER;MONITORING RESPONSE, CULTURE-NEGATIVE",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1k"
+}

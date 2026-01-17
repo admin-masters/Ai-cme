@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "Salmonella Typhi invades the intestinal mucosa, survives intracellularly, and disseminates systemically, causing prolonged fever, systemic symptoms, and intestinal damage. Early antibiotic treatment reduces complications and mortality.",
+  "learning_objectives": [
+    "Understand the pathogenesis of typhoid and enteric fever, including Salmonella Typhi's survival mechanisms.",
+    "Identify the clinical progression and complications of untreated typhoid fever.",
+    "Recognize the importance of early antibiotic intervention in reducing mortality and complications.",
+    "Learn the role of the Vi capsular antigen in immune evasion and disease progression."
+  ],
+  "key_facts": [
+    "Salmonella Typhi survives gastric acidity and invades Peyer\u2019s patches in the terminal ileum.",
+    "Incubation period is typically 1-2 weeks but varies with inoculum size and host factors.",
+    "Secondary bacteremia drives prolonged fever and systemic symptoms.",
+    "Vi capsular antigen reduces opsonization and dampens early intestinal inflammation.",
+    "Untreated disease can lead to intestinal ulceration, bleeding, or perforation in the second to third week.",
+    "Chronic carriage is rare in children but significant for outbreak propagation."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Typhoid Fever",
+    "Salmonella Infections",
+    "Pathogenesis",
+    "Bacteremia",
+    "Peyer\u2019s Patches",
+    "Vi Capsular Antigen",
+    "Antibiotic Therapy",
+    "Intestinal Ulceration"
+  ],
+  "tags_custom": [
+    "Salmonella pathogenesis",
+    "Enteric fever complications",
+    "Antibiotic impact",
+    "Pediatric typhoid",
+    "Systemic dissemination"
+  ],
+  "reference_quote": "Salmonella Typhi expresses a Vi capsular antigen that reduces opsonization and dampens early intestinal inflammation, contributing to the insidious onset. (StatPearls, NCBI Bookshelf)",
+  "document_key_topics": [
+    "Salmonella Typhi pathogenesis",
+    "Clinical progression of typhoid fever",
+    "Complications of untreated enteric fever",
+    "Role of antibiotics in disease management"
+  ],
+  "chunk_heading": "TYPHOID AND ENTERIC FEVER;ETIOLOGY AND PATHOGENESIS",
+  "topic": "TYPHOID AND ENTERIC FEVER",
+  "subtopic": "ETIOLOGY AND PATHOGENESIS",
+  "sub_subtopic": null,
+  "heading_path": "TYPHOID AND ENTERIC FEVER;ETIOLOGY AND PATHOGENESIS",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1c"
+}

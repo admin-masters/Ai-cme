@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "India faces a high burden of typhoid and enteric fever, driven by poor sanitation, contaminated water, and crowded living conditions. Children and adolescents are disproportionately affected, with urban areas showing higher incidence rates. Prevention through WASH and vaccination is critical, especially given rising antimicrobial resistance.",
+  "learning_objectives": [
+    "Understand the epidemiology and transmission dynamics of typhoid and enteric fever in India.",
+    "Identify key risk factors and vulnerable populations for typhoid in urban and rural settings.",
+    "Evaluate the role of WASH interventions and typhoid conjugate vaccines in disease prevention.",
+    "Recognize the impact of antimicrobial resistance on typhoid management."
+  ],
+  "key_facts": [
+    "Annual incidence in dense urban areas can exceed 1,000 cases per 100,000 population.",
+    "Children and adolescents are the most affected, with school-age children commonly impacted.",
+    "Salmonella Typhi is the dominant pathogen, while Salmonella Paratyphi A causes a minority of cases.",
+    "Typhoid conjugate vaccines (TCVs) do not protect against Paratyphi A, emphasizing the need for WASH interventions.",
+    "Humans are the only reservoir, with transmission driven by acutely infected individuals and chronic carriers.",
+    "Antimicrobial resistance is a growing challenge, increasing the importance of prevention strategies."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Typhoid Fever",
+    "Enteric Fever",
+    "Epidemiology",
+    "Salmonella Infections",
+    "Waterborne Diseases",
+    "Antimicrobial Resistance",
+    "Vaccination",
+    "Public Health"
+  ],
+  "tags_custom": [
+    "India-specific epidemiology",
+    "WASH interventions",
+    "Pediatric typhoid",
+    "Urban-rural health disparities",
+    "Typhoid vaccines"
+  ],
+  "reference_quote": "\"Population surveillance from Indian cities has reported very high annual incidence among children (often in the hundreds to over a thousand cases per 100,000 in dense urban settlements).\" (Source: Typhoid fever: control & challenges in India, PMC)",
+  "document_key_topics": [
+    "Epidemiology of typhoid in India",
+    "Transmission pathways and risk factors",
+    "Role of WASH and vaccination in prevention",
+    "Impact of antimicrobial resistance on typhoid control"
+  ],
+  "chunk_heading": "TYPHOID AND ENTERIC FEVER;EPIDEMIOLOGY AND TRANSMISSION IN INDIA",
+  "topic": "TYPHOID AND ENTERIC FEVER",
+  "subtopic": "EPIDEMIOLOGY AND TRANSMISSION IN INDIA",
+  "sub_subtopic": null,
+  "heading_path": "TYPHOID AND ENTERIC FEVER;EPIDEMIOLOGY AND TRANSMISSION IN INDIA",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1b"
+}

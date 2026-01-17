@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "Clinical vignettes highlight decision-making in typhoid and enteric fever, focusing on outpatient vs inpatient care, severe disease management, treatment reassessment, and vaccine-related considerations.",
+  "learning_objectives": [
+    "Differentiate between outpatient and inpatient management of typhoid fever based on clinical severity and follow-up reliability.",
+    "Recognize and manage severe enteric fever with complications such as shock or encephalopathy.",
+    "Evaluate treatment failure and reassess antibiotic therapy in persistent febrile cases.",
+    "Understand the implications of vaccination in diagnosing and managing enteric fever."
+  ],
+  "key_facts": [
+    "Outpatient treatment with cefixime or azithromycin is reasonable for stable patients without danger signs, with follow-up in 48 hours.",
+    "Severe disease (e.g., lethargy, delayed capillary refill, abdominal distension) requires parenteral ceftriaxone, aggressive fluids, and close monitoring.",
+    "High-dose dexamethasone is recommended if shock or encephalopathy is present.",
+    "Persistent fever on day 6 of oral cefixime warrants reassessment, including adherence, dosing, and alternative diagnoses like malaria or dengue.",
+    "Vaccinated individuals can still develop enteric fever; cultures are essential to confirm diagnosis and guide treatment."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Typhoid Fever",
+    "Enteric Fever",
+    "Antimicrobial Therapy",
+    "Pediatrics",
+    "Vaccination",
+    "Drug Resistance, Microbial",
+    "Sepsis",
+    "Splenomegaly"
+  ],
+  "tags_custom": [
+    "clinical decision-making",
+    "antibiotic stewardship",
+    "pediatric infectious diseases",
+    "vaccine considerations"
+  ],
+  "reference_quote": "Outpatient treatment with cefixime or azithromycin is reasonable for stable patients without danger signs, with review in 48 hours and clear return precautions. (National Treatment Guidelines for Antimicrobial Use in Infectious Diseases, India)",
+  "document_key_topics": [
+    "Outpatient vs inpatient management of typhoid fever",
+    "Management of severe enteric fever and complications",
+    "Reassessment of treatment failure in typhoid fever",
+    "Role of vaccination in enteric fever diagnosis and management"
+  ],
+  "chunk_heading": "TYPHOID AND ENTERIC FEVER;CLINICAL VIGNETTES AND DECISION POINTS",
+  "topic": "TYPHOID AND ENTERIC FEVER",
+  "subtopic": "CLINICAL VIGNETTES AND DECISION POINTS",
+  "sub_subtopic": null,
+  "heading_path": "TYPHOID AND ENTERIC FEVER;CLINICAL VIGNETTES AND DECISION POINTS",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1s"
+}

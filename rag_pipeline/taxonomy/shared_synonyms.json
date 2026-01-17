@@ -1,0 +1,6 @@
+{
+    "diagnosis":    ["work-up", "evaluation", "testing"],
+    "management":   ["therapy", "rx", "drug", "dosage"],
+    "prevention":   ["prophylaxis", "immunoprophylaxis"],
+    "complication": ["adverse outcome", "late effect"]
+  }

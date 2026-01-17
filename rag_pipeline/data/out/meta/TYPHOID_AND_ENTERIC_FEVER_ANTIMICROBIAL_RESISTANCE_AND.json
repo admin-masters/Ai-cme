@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "Antimicrobial stewardship in typhoid fever focuses on managing resistance, optimizing empiric therapy, and preserving drug efficacy through culture-guided treatment and de-escalation strategies.",
+  "learning_objectives": [
+    "Understand the role of antimicrobial stewardship in managing typhoid and enteric fever in India.",
+    "Identify resistance patterns and appropriate empiric therapy adjustments for children with typhoid fever.",
+    "Learn the importance of culture-guided therapy and de-escalation to narrow-spectrum agents.",
+    "Recognize the need to avoid unnecessary treatment of non-typhoidal fevers."
+  ],
+  "key_facts": [
+    "Resistance should be suspected if no clinical improvement occurs by day 5\u20137 despite appropriate therapy.",
+    "Fluoroquinolone resistance is common; empiric fluoroquinolones are generally avoided in children.",
+    "Azithromycin is preferred for ceftriaxone-reduced susceptibility in clinically stable children.",
+    "Carbapenems like meropenem (40 mg/kg every 8 hours) are reserved for severe or extensively drug-resistant typhoid.",
+    "De-escalation to the narrowest effective oral agent is recommended once culture results confirm susceptibility.",
+    "Full-course completion is essential to reduce relapse and transmission."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Typhoid Fever",
+    "Enteric Fever",
+    "Antimicrobial Resistance",
+    "Drug Resistance, Bacterial",
+    "Fluoroquinolones",
+    "Ceftriaxone",
+    "Azithromycin",
+    "Carbapenems"
+  ],
+  "tags_custom": [
+    "antimicrobial stewardship",
+    "pediatric typhoid management",
+    "drug resistance trends",
+    "empiric therapy",
+    "culture-guided treatment"
+  ],
+  "reference_quote": "Fluoroquinolone resistance and reduced susceptibility are common, so empiric fluoroquinolones are generally avoided in children. (Source: National Treatment Guidelines for Antimicrobial Use in Infectious Diseases, India)",
+  "document_key_topics": [
+    "Antimicrobial resistance in typhoid fever",
+    "Empiric and culture-guided therapy",
+    "Stewardship strategies to preserve drug efficacy",
+    "Management of extensively drug-resistant typhoid"
+  ],
+  "chunk_heading": "TYPHOID AND ENTERIC FEVER;ANTIMICROBIAL RESISTANCE AND STEWARDSHIP",
+  "topic": "TYPHOID AND ENTERIC FEVER",
+  "subtopic": "ANTIMICROBIAL RESISTANCE AND STEWARDSHIP",
+  "sub_subtopic": null,
+  "heading_path": "TYPHOID AND ENTERIC FEVER;ANTIMICROBIAL RESISTANCE AND STEWARDSHIP",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1l"
+}

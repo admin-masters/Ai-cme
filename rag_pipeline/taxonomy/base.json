@@ -1,0 +1,8 @@
+{
+    "epidemiology":  ["epidemiology", "incidence", "prevalence", "burden"],
+    "pathogenesis":  ["pathogenesis", "etiology", "mechanism"],
+    "diagnosis":     ["diagnosis", "investigation", "laboratory", "clinical feature"],
+    "management":    ["management", "therapy", "treatment", "antimicrobial"],
+    "prevention":    ["prevention", "vaccine", "immunisation", "sanitation"],
+    "complication":  ["complication", "sequelae", "prognosis"]
+  }

@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "Typhoid conjugate vaccine (TCV) is recommended in India for children from 6 months, with a single dose typically at 9\u201312 months. It offers longer protection than older vaccines and can be coadministered with other vaccines. Public health schedules guide implementation alongside WASH measures.",
+  "learning_objectives": [
+    "Understand the role of typhoid conjugate vaccine (TCV) in preventing typhoid fever in children.",
+    "Identify the recommended age and dosing schedule for TCV in India.",
+    "Differentiate between TCV, Vi polysaccharide vaccine, and Ty21a oral vaccine in terms of efficacy and usage.",
+    "Recognize the importance of integrating immunization with WASH measures for comprehensive prevention."
+  ],
+  "key_facts": [
+    "Typhoid conjugate vaccine (TCV) is recommended from 6 months of age, with a single dose typically given at 9\u201312 months.",
+    "TCV provides T-cell\u2013dependent immunity and longer protection compared to Vi polysaccharide vaccines.",
+    "Vi polysaccharide vaccine is not immunogenic in children under 2 years and requires repeat dosing.",
+    "TCV can be coadministered with other routine childhood vaccines at separate sites.",
+    "Vaccination does not protect against Salmonella Paratyphi A, necessitating WASH measures.",
+    "National advisory groups (e.g., NTAGI) recommend phased public schedule implementation."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Typhoid Fever",
+    "Vaccination",
+    "Typhoid-Paratyphoid Vaccines",
+    "Immunization Schedule",
+    "Child Health",
+    "Public Health",
+    "Water Supply",
+    "Sanitation"
+  ],
+  "tags_custom": [
+    "Typhoid prevention",
+    "TCV guidelines",
+    "Pediatric immunization",
+    "WASH integration",
+    "India-specific policies"
+  ],
+  "reference_quote": "The preferred product for children is the typhoid conjugate vaccine (TCV), which can be given from 6 months of age and produces T-cell\u2013dependent immunity with longer protection than older polysaccharide vaccines. (Source: IAP ACVIP guidance)",
+  "document_key_topics": [
+    "Typhoid conjugate vaccine (TCV) recommendations",
+    "Comparison of typhoid vaccine types",
+    "Integration of immunization with WASH measures",
+    "Public health implementation in India"
+  ],
+  "chunk_heading": "TYPHOID AND ENTERIC FEVER;PREVENTION I: IMMUNIZATION",
+  "topic": "TYPHOID AND ENTERIC FEVER",
+  "subtopic": "PREVENTION I: IMMUNIZATION",
+  "sub_subtopic": null,
+  "heading_path": "TYPHOID AND ENTERIC FEVER;PREVENTION I: IMMUNIZATION",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1q"
+}

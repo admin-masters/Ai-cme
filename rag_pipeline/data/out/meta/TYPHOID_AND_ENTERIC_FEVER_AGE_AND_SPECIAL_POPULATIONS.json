@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "This section discusses how age and special populations influence the presentation, management, and admission thresholds in typhoid and enteric fever, with specific considerations for neonates, children, and adolescents, as well as those with comorbidities or social challenges.",
+  "learning_objectives": [
+    "Understand the age-specific clinical presentations of typhoid and enteric fever.",
+    "Identify management strategies for neonates, children, and adolescents with typhoid fever.",
+    "Recognize the impact of comorbidities and social factors on treatment and outcomes.",
+    "Learn the appropriate use of antibiotics, including third-generation cephalosporins, in special populations."
+  ],
+  "key_facts": [
+    "Neonatal typhoid is rare and may present as nonspecific sepsis; cefotaxime is preferred over ceftriaxone due to bilirubin safety concerns.",
+    "Infants and toddlers often present with diarrhea and dehydration, requiring a lower threshold for admission due to rapid deterioration risk.",
+    "Preschool and school-age children may show classic typhoid signs like abdominal pain and hepatosplenomegaly; outpatient care is possible with assured follow-up.",
+    "Adolescents resemble adult patterns but are at risk for late complications if diagnosis is delayed.",
+    "Children with severe acute malnutrition (SAM), immunocompromise, or hemoglobinopathies may require prolonged therapy and closer monitoring.",
+    "Social factors, such as poor follow-up ability, should lower the threshold for admission or supervised therapy.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Typhoid Fever",
+    "Enteric Fever",
+    "Pediatrics",
+    "Neonatal Sepsis",
+    "Hepatosplenomegaly",
+    "Immunocompromised Host",
+    "Antibiotic Therapy",
+    "Hemoglobinopathies"
+  ],
+  "tags_custom": [
+    "Age-specific management",
+    "Special populations",
+    "Pediatric infectious diseases",
+    "Social determinants of health"
+  ],
+  "reference_quote": "Neonatal typhoid is exceedingly rare but may present as nonspecific sepsis with poor feeding, abdominal distension, or shock; manage in hospital with sepsis protocols and a third-generation cephalosporin such as cefotaxime rather than ceftriaxone in early infancy because of bilirubin-related safety concerns.",
+  "document_key_topics": [
+    "Age-specific clinical presentations of typhoid fever",
+    "Management of typhoid in neonates, children, and adolescents",
+    "Impact of comorbidities on typhoid outcomes",
+    "Role of social factors in treatment decisions"
+  ],
+  "chunk_heading": "TYPHOID AND ENTERIC FEVER;AGE AND SPECIAL POPULATIONS",
+  "topic": "TYPHOID AND ENTERIC FEVER",
+  "subtopic": "AGE AND SPECIAL POPULATIONS",
+  "sub_subtopic": null,
+  "heading_path": "TYPHOID AND ENTERIC FEVER;AGE AND SPECIAL POPULATIONS",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1o"
+}

@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "This section outlines the clinical workflow for typhoid and enteric fever, including case definitions, severity stratification, and management guidelines for outpatient and inpatient care.",
+  "learning_objectives": [
+    "Understand the clinical workflow for diagnosing and managing typhoid and enteric fever.",
+    "Differentiate between mild and severe cases based on clinical presentation and danger signs.",
+    "Learn criteria for outpatient management versus hospital admission in children with suspected typhoid.",
+    "Recognize the importance of early supportive care and empiric antibiotic initiation."
+  ],
+  "key_facts": [
+    "A suspected case involves fever for 3\u20135 days in a typhoid-endemic area with no clear focus and symptoms like hepatosplenomegaly or gastrointestinal issues.",
+    "A confirmed case requires laboratory isolation of *Salmonella* (commonly from blood culture).",
+    "Mild illness includes stable vitals, good oral intake, and no significant dehydration, while severe illness involves toxemia, altered mental status, or gastrointestinal complications.",
+    "Outpatient management is suitable only if the child can tolerate oral antibiotics, with follow-up in 24\u201348 hours and clear return precautions.",
+    "Hospital admission is advised for infants, children with toxic appearance, neurological symptoms, or suspected perforation.",
+    "Empiric antibiotics should be initiated after cultures are drawn, alongside supportive care like fluids, antipyretics, and close monitoring."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Typhoid Fever",
+    "Enteric Fever",
+    "Salmonella Infections",
+    "Fever of Unknown Origin",
+    "Pediatric Infectious Diseases",
+    "Antibiotic Therapy",
+    "Clinical Triage",
+    "Disease Severity"
+  ],
+  "tags_custom": [
+    "typhoid management",
+    "pediatric care",
+    "clinical workflow",
+    "severity stratification",
+    "empiric antibiotics"
+  ],
+  "reference_quote": "A suspected case is a child in a typhoid-endemic setting with fever for at least 3\u20135 days without another clear focus, especially with gastrointestinal symptoms, hepatosplenomegaly, or a typical 'typhoidal' appearance. (Source: National Treatment Guidelines for Antimicrobial Use in Infectious Diseases, India)",
+  "document_key_topics": [
+    "Case definition for typhoid and enteric fever",
+    "Severity stratification and clinical triage",
+    "Outpatient versus inpatient management",
+    "Supportive care and empiric antibiotic therapy"
+  ],
+  "chunk_heading": "TYPHOID AND ENTERIC FEVER;CLINICAL WORKFLOW, CASE DEFINITION, AND",
+  "topic": "TYPHOID AND ENTERIC FEVER",
+  "subtopic": "CLINICAL WORKFLOW, CASE DEFINITION, AND",
+  "sub_subtopic": null,
+  "heading_path": "TYPHOID AND ENTERIC FEVER;CLINICAL WORKFLOW, CASE DEFINITION, AND",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1e"
+}

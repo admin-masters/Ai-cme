@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section provides an overview of enteric fever, emphasizing guideline-based management, antimicrobial resistance awareness, and prevention strategies in Indian pediatric practice.",
+  "learning_objectives": [
+    "Understand the clinical presentation and diagnostic approach for enteric fever in children.",
+    "Learn the recommended antimicrobial therapies and resistance considerations in India.",
+    "Recognize the importance of blood cultures and the limitations of serological tests like the Widal test.",
+    "Explore prevention strategies, including typhoid conjugate vaccination and sanitation measures."
+  ],
+  "key_facts": [
+    "Enteric fever is caused by *Salmonella enterica* serovar Typhi and, less commonly, serovars Paratyphi A, B, or C.",
+    "In children, fever lasting 3\u20135 days with gastrointestinal symptoms or hepatosplenomegaly warrants suspicion of enteric fever.",
+    "Empiric fluoroquinolones are avoided in Indian children due to high resistance and safety concerns.",
+    "Third-generation cephalosporins and azithromycin are the primary therapies for enteric fever in India.",
+    "Blood cultures should be obtained before starting antibiotics whenever feasible.",
+    "Prevention includes typhoid conjugate vaccination and water, sanitation, and hygiene (WASH) measures."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Typhoid Fever",
+    "Enteric Fever",
+    "Salmonella Infections",
+    "Antimicrobial Resistance",
+    "Pediatrics",
+    "Vaccination",
+    "Water Supply",
+    "Hygiene"
+  ],
+  "tags_custom": [
+    "Indian guidelines",
+    "Pediatric infectious diseases",
+    "Antibiotic stewardship",
+    "Typhoid prevention"
+  ],
+  "reference_quote": "Management should be guideline-led and antimicrobial-resistance aware, using national recommendations (such as those from NCDC and ICMR) and pediatric consensus statements where available.",
+  "document_key_topics": [
+    "Clinical presentation and diagnosis of enteric fever",
+    "Antimicrobial therapy and resistance patterns",
+    "Role of blood cultures and limitations of serology",
+    "Prevention through vaccination and sanitation"
+  ],
+  "chunk_heading": "TYPHOID AND ENTERIC FEVER;OVERVIEW AND GUIDELINE FRAME",
+  "topic": "TYPHOID AND ENTERIC FEVER",
+  "subtopic": "OVERVIEW AND GUIDELINE FRAME",
+  "sub_subtopic": null,
+  "heading_path": "TYPHOID AND ENTERIC FEVER;OVERVIEW AND GUIDELINE FRAME",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1a"
+}

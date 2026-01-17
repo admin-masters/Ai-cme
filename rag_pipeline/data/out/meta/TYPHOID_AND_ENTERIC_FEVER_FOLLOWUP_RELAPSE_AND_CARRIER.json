@@ -1,0 +1,47 @@
+{
+  "chunk_summary": "Follow-up for typhoid and enteric fever focuses on recovery, relapse prevention, and carrier management, emphasizing full antibiotic courses, targeted stool cultures, and public health measures for confirmed carriers.",
+  "learning_objectives": [
+    "Understand the clinical follow-up process for typhoid and enteric fever, including relapse detection and prevention.",
+    "Learn the management strategies for relapse and chronic Salmonella carriage in pediatric and adolescent patients.",
+    "Identify public health measures to reduce household and community transmission during recovery."
+  ],
+  "key_facts": [
+    "Relapse typically occurs within 1\u20133 weeks after completing therapy and presents with milder symptoms.",
+    "Persistent Salmonella shedding in stool is transient during convalescence; chronic carriage is rare in children.",
+    "Routine stool cultures are not recommended for well pediatric patients but may be targeted in outbreaks or food handlers.",
+    "Children can return to school once afebrile, clinically well, and able to participate normally.",
+    "Strict hand hygiene and safe water practices are essential to reduce household transmission during recovery."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Typhoid Fever",
+    "Enteric Fever",
+    "Salmonella Infections",
+    "Carrier State",
+    "Antibiotic Therapy",
+    "Disease Relapse",
+    "Public Health",
+    "Pediatric Infectious Diseases"
+  ],
+  "tags_custom": [
+    "relapse management",
+    "carrier detection",
+    "pediatric follow-up",
+    "infection control",
+    "antibiotic adherence"
+  ],
+  "reference_quote": "Relapse should be managed as a new episode: obtain culture if possible, review prior adherence and antibiotic choice, and treat with a full course guided by susceptibility. (Source: StatPearls, NCBI Bookshelf)",
+  "document_key_topics": [
+    "Follow-up after typhoid treatment",
+    "Relapse detection and management",
+    "Salmonella carrier state and public health measures"
+  ],
+  "chunk_heading": "TYPHOID AND ENTERIC FEVER;FOLLOW-UP, RELAPSE, AND CARRIER",
+  "topic": "TYPHOID AND ENTERIC FEVER",
+  "subtopic": "FOLLOW-UP, RELAPSE, AND CARRIER",
+  "sub_subtopic": null,
+  "heading_path": "TYPHOID AND ENTERIC FEVER;FOLLOW-UP, RELAPSE, AND CARRIER",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1p"
+}

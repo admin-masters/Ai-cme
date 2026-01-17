@@ -1,0 +1,4236 @@
+--- a/studyplanapp1/generateSubtopics/__init__.py
++++ b/studyplanapp1/generateSubtopics/__init__.py
+@@ -1,516 +1,898 @@
+-# studyplan-pipeline/generateSubtopics/__init__.py
+-from __future__ import annotations
+-import logging, os, json, re, unicodedata, uuid
+-from typing import List, Dict, Any
+-
+-import azure.functions as func
+-import pyodbc
+-
+-from openai import AzureOpenAI
+-from azure.storage.queue import QueueClient
+-from azure.core.credentials import AzureKeyCredential
+-from azure.search.documents import SearchClient
+-
+-# ───────────────────────── Azure/OpenAI config (env only) ─────────────────────────
+-AZURE_OAI_ENDPOINT = "https://azure1405.openai.azure.com/"
+-AZURE_OAI_KEY = "CzrrWvXbsmYcNguU1SqBpE9HDhhbfYsbkq3UedythCYCV9zNQ4mLJQQJ99BEACHYHv6XJ3w3AAABACOGiIPm"
+-DEPLOYMENT = "gpt-4o"
+-AZURE_OAI_API_VERSION = "2024-02-15-preview"
+-
+-oai_client = AzureOpenAI(
+-    api_key=AZURE_OAI_KEY,
+-    azure_endpoint=AZURE_OAI_ENDPOINT,
+-    api_version=AZURE_OAI_API_VERSION,
+-)
+-
+-# ───────────────────────── Azure Cognitive Search ─────────────────────────
+-SEARCH_ENDPOINT = "https://basic-rag-sandbox.search.windows.net"
+-SEARCH_ADMIN_KEY = "tuqRZ8A374Aw3wXKSTzOY6SEu6Ra8rOyhPgFEtcLpSAzSeBOByQL"
+-INDEX_NAME = "pubert-demo-new"
+-SEARCH_API_VERSION = "2025-05-01-preview"
+-
+-search_cli = SearchClient(
+-    endpoint=SEARCH_ENDPOINT,
+-    index_name=INDEX_NAME,
+-    credential=AzureKeyCredential(SEARCH_ADMIN_KEY),
+-    api_version=SEARCH_API_VERSION,
+-)
+-
+-# ───────────────────────── knobs (min/max; coverage) ─────────────────────
+-MIN_SUBTOPICS = int(os.getenv("MIN_SUBTOPICS", "22"))  # ← default 22
+-MAX_SUBTOPICS = int(os.getenv("MAX_SUBTOPICS", "40"))  # ← unchanged
+-COVERAGE_MIN_CHARS = int(os.getenv("COVERAGE_MIN_CHARS", "1200"))
+-BLOCK_ON_LOW_COVERAGE = os.getenv("BLOCK_ON_LOW_COVERAGE", "0") == "0"
+-
+-AUDIENCE_DEFAULT = os.getenv(
+-    "AUDIENCE_DEFAULT",
+-    "Clinical practitioners and final-year medical students focusing on practical decision-making.",
+-)
+-OBJECTIVE_DEFAULT = os.getenv(
+-    "OBJECTIVE_DEFAULT",
+-    "Ensure practice-ready diagnosis, management, complications prevention, and counselling.",
+-)
+-
+-# ───────────────────────── helpers: text / canon / dedupe ─────────────────
+-_ADULT_BAN = re.compile(r"\b(pregnan\w*|lactat\w*|maternal|fetus)\b", re.I)
+-
+-def _norm(s: str) -> str:
+-    return unicodedata.normalize("NFKD", s or "").encode("ascii", "ignore").decode()
+-
+-def _canon_title(t: str) -> str:
+-    s = _norm(t).lower()
+-    s = re.sub(r"\b(for\s+(paediatr(ic)?|pediatric)[^)]*)$", "", s).strip()
+-    s = re.sub(r"\b(in\s+children|in\s+paediatrics|p(a)ediatric)\b", "", s).strip()
+-    s = re.sub(r"\s+", " ", s)
+-    return s
+-
+-def _dedupe_titles(titles: List[str]) -> List[str]:
+-    seen = set()
+-    out = []
+-    for t in titles:
+-        if not t or not str(t).strip():
+-            continue
+-        if _ADULT_BAN.search(t):  # global paeds guardrail
+-            continue
+-        k = _canon_title(t)
+-        if k and k not in seen:
+-            seen.add(k)
+-            out.append(t.strip())
+-    return out
+-
+-# ───────────────────────── Search coverage (pre‑verify) ───────────────────
+-def _estimate_coverage(topic_name: str, sub_title: str) -> int:
+-    query = f"{topic_name} {sub_title}"
+-    try:
+-        results = search_cli.search(search_text=query, top=10)
+-        total = 0
+-        for doc in results:
+-            body = (doc.get("content") or "")
+-            total += len(body)
+-        return total
+-    except Exception:
+-        return 0
+-
+-def _coverage_stats(topic: str, titles: List[str]) -> List[Dict[str, Any]]:
+-    return [{"title": t, "coverage_chars": _estimate_coverage(topic, t)} for t in titles]
+-
+-# ───────────────────────── merge/top‑up (keep ≤MAX, ≥MIN) ─────────────────
+-def _coalesce_titles_gpt(topic: str, titles: List[str], max_n: int = MAX_SUBTOPICS) -> List[str]:
+-    """
+-    Ask GPT to merge closely related items to fit into <= max_n without losing scope.
+-    """
+-    prompt = {
+-        "role": "user",
+-        "content": (
+-            f"Merge or bundle closely related pediatric sub-topics for '{topic}' so that the final list "
+-            f"has at most {max_n} items. Combine only when defensible pedagogically and keep single‑purpose "
+-            f"clarity where clinically important. Return JSON {{\"subtopics\": [\"...\"]}}.\n"
+-            f"INPUT={json.dumps(titles, ensure_ascii=False)}"
+-        )
+-    }
+-    try:
+-        rsp = oai_client.chat.completions.create(
+-            model=DEPLOYMENT,
+-            messages=[{"role": "system", "content": "You are a curriculum editor. Return JSON only."}, prompt],
+-            temperature=0.2, max_tokens=800, response_format={"type": "json_object"},
+-        )
+-        data = json.loads(rsp.choices[0].message.content)
+-        merged = [t for t in (data.get("subtopics") or []) if str(t).strip()]
+-        return merged[:max_n]
+-    except Exception:
+-        # deterministic fallback below
+-        return []
+-
+-def _coalesce_titles_heuristic(titles: List[str], max_n: int = MAX_SUBTOPICS) -> List[str]:
+-    """
+-    Greedy Jaccard merge of non-protected titles, forming 'A / B' labels.
+-    """
+-    protect = re.compile(
+-        r"(triage|admission|escalation|persistent|relapse|mdr|xdr|vaccine|carrier|"
+-        r"household|outbreak|follow[-]?up|defervesc|counsel)",
+-        re.I,
+-    )
+-
+-
+-    def normset(t: str) -> set[str]:
+-        s = re.sub(r"[^a-z0-9 ]+", " ", (_norm(t) or "").lower())
+-        return {w for w in s.split() if len(w) > 2}
+-
+-    items = [{"t": t, "p": bool(protect.search(t))} for t in titles]
+-    while len(items) > max_n:
+-        best = None
+-        for i in range(len(items)):
+-            if items[i]["p"]:
+-                continue
+-            for j in range(i + 1, len(items)):
+-                if items[j]["p"]:
+-                    continue
+-                a, b = normset(items[i]["t"]), normset(items[j]["t"])
+-                if not a or not b:
+-                    continue
+-                jacc = len(a & b) / len(a | b)
+-                sub = items[i]["t"].lower() in items[j]["t"].lower() or items[j]["t"].lower() in items[i]["t"].lower()
+-                score = jacc + (0.15 if sub else 0.0)
+-                if (best is None) or (score > best[0]):
+-                    best = (score, i, j)
+-        if best is None:
+-            break
+-        _, i, j = best
+-        items[i]["t"] = f"{items[i]['t']} / {items[j]['t']}"
+-        items.pop(j)
+-    return [x["t"] for x in items][:max_n]
+-
+-def _topup_titles_gpt(topic: str, titles: List[str], min_n: int = MIN_SUBTOPICS, rubric: Dict[str, Any] | None = None) -> List[str]:
+-    """
+-    Ask GPT to add missing but essential pediatric sub-topics (no duplicates) to reach >= min_n,
+-    guided by the rubric if available.
+-    """
+-    content = {
+-        "role": "user",
+-        "content": (
+-            f"Given this pediatric sub-topic list for '{topic}', add any missing essential items "
+-            f"so the total is at least {min_n}. Avoid duplicates and overly generic items. Prefer "
+-            f"decision/technique/criteria nodes. If a rubric is provided, cover all its dimensions.\n"
+-            f"Prefer adding concrete workflow nodes from the care‑pathway primitives above where "
+-            f"they are applicable to the topic kind (avoid local policy, brand names, or region‑specific details)."
+-            f"RUBRIC={json.dumps(rubric or {}, ensure_ascii=False)}\n"
+-            f"INPUT={json.dumps(titles, ensure_ascii=False)}"
+-        ),
+-    }
+-    try:
+-        rsp = oai_client.chat.completions.create(
+-            model=DEPLOYMENT,
+-            messages=[{"role": "system", "content": "Return JSON only as {\"subtopics\": [\"...\"]}."}, content],
+-            temperature=0.25, max_tokens=600, response_format={"type": "json_object"},
+-        )
+-        data = json.loads(rsp.choices[0].message.content)
+-        return [t for t in (data.get("subtopics") or []) if str(t).strip()]
+-    except Exception:
+-        return []
+-
+-def _enforce_count(topic: str, titles: List[str], rubric: Dict[str, Any] | None = None) -> List[str]:
+-    """
+-    Ensure final list size MIN_SUBTOPICS..MAX_SUBTOPICS with logical merges or top-ups.
+-    """
+-    titles = [t for t in titles if str(t).strip()]
+-    if len(titles) > MAX_SUBTOPICS:
+-        merged = _coalesce_titles_gpt(topic, titles, MAX_SUBTOPICS) or _coalesce_titles_heuristic(titles, MAX_SUBTOPICS)
+-        titles = merged
+-    if len(titles) < MIN_SUBTOPICS:
+-        extra = _topup_titles_gpt(topic, titles, MIN_SUBTOPICS, rubric)
+-        titles = titles + [t for t in extra if t not in titles]
+-    return titles
+-# generateSubtopics/__init__.py
+-
+-# generateSubtopics/__init__.py
+-
+-def _strip_ellipses(s: str) -> str:
+-    # prevent literal '...' or '…' creeping into titles
+-    return re.sub(r'[.…]+$', '', (s or '').strip())
+-
+-def _apply_verification(titles: List[str], verdict: Dict[str, Any]) -> List[str]:
+-    """
+-    Apply drops, merges, additions, and rewording from verifier output.
+-    Ensures merges *replace* originals (A,B) with a single "A / B", preserves order,
+-    and sanitizes titles (no ellipses).
+-    """
+-    drops = set((_canon_title(x) for x in (verdict.get("drop") or [])))
+-    keep = [t for t in titles if _canon_title(t) not in drops]
+-
+-    # MERGES: replace A and B with "A / B"
+-    for pair in verdict.get("merge") or []:
+-        pair = [p for p in pair if p and str(p).strip()]
+-        if len(pair) < 2:
+-            continue
+-        a, b = pair[:2]
+-        canon_targets = {_canon_title(a), _canon_title(b)}
+-        # earliest index of A or B (if present)
+-        idxs = [i for i, t in enumerate(keep) if _canon_title(t) in canon_targets]
+-        insert_at = min(idxs) if idxs else len(keep)
+-        # drop existing A/B entries
+-        keep = [t for t in keep if _canon_title(t) not in canon_targets]
+-        keep.insert(insert_at, f"{a} / {b}")
+-
+-    # REWORD
+-    for rw in (verdict.get("reword") or []):
+-        src = (rw.get("from") or "").strip()
+-        dst = (rw.get("to") or "").strip()
+-        if src and dst:
+-            try:
+-                idx = next(i for i, t in enumerate(keep) if _canon_title(t) == _canon_title(src))
+-                keep[idx] = dst
+-            except StopIteration:
+-                keep.append(dst)
+-
+-    # MISSING additions
+-    for m in (verdict.get("missing") or []):
+-        if m and str(m).strip():
+-            keep.append(m)
+-
+-    # sanitize & dedupe
+-    keep = [_strip_ellipses(t) for t in keep]
+-    return _dedupe_titles(keep)
+-
+-# ───────────────────────── rubric / draft / verify ─────────────────────────
+-
+-
+-def _draft_subtopics(topic: str, rubric: Dict[str, Any], audience: str, objective: str) -> List[str]:
+-    """
+-    Over-generate 30–50 draft subtopics guided by the rubric (no hard-coded inclusions).
+-    """
+-    schema = "{\"subtopics\": [\"...\"]}"
+-    ask = {
+-        "role": "user",
+-        "content": (
+-            f"Design 30–50 concise, single‑purpose pediatric sub‑topics for '{topic}'. "
+-            f"Use this rubric to ensure breadth and avoid omissions: {json.dumps(rubric, ensure_ascii=False)}. "
+-            f"Audience: {audience}. Objective: {objective}. "
+-            "Prefer decision/technique/criteria/data‑interpretation nodes. Avoid duplicates, avoid trivial variants. "
+-            f"Return JSON only as {schema}."
+-            f"Where relevant for this topic kind, make sure the list includes practice‑critical, "
+-            f"decision‑oriented nodes such as: triage/admission/discharge criteria; time‑phase or "
+-            f"week‑of‑illness diagnostic algorithms (how work‑up changes over time); specimen "
+-            f"handling/volumes/pre‑treatment sampling; outpatient vs inpatient review plans; "
+-            f"non‑response/treatment‑failure and escalation algorithms; imaging/ procedure thresholds "
+-            f"for complications; contact/household management and return‑to‑school/day‑care advice; "
+-            f"follow‑up and expected time‑to‑improvement/defervescence; recurrence/relapse vs "
+-            f"reinfection distinctions; special populations; systems/implementation and psychosocial support. "
+-            f"Only include those that truly fit THIS topic kind; avoid disease‑specific details or local policies."
+-        )
+-    }
+-    rsp = oai_client.chat.completions.create(
+-        model=DEPLOYMENT,
+-        messages=[{"role": "system", "content": "You are a paediatrics curriculum designer. Return JSON only."}, ask],
+-        temperature=0.4, max_tokens=900, response_format={"type": "json_object"},
+-    )
+-    data = json.loads(rsp.choices[0].message.content)
+-    return [t for t in (data.get("subtopics") or []) if str(t).strip()]
+-
+-# --- generateSubtopics/__init__.py  (replace _make_rubric) -----------------
+-def _make_rubric(topic_name: str, audience: str, objective: str) -> Dict[str, Any]:
+-    """
+-    Build a topic-kind rubric with neutral 'dimensions'.
+-    Each dimension has: name, why, required (bool), weight (1-5).
+-    """
+-    sys = {
+-        "role": "system",
+-        "content": (
+-            'Return JSON only as {"topic_kind":"...",'
+-            '"dimensions":[{"name":"...","why":"...","required":true|false,"weight":1-5}]}.'
+-        ),
+-    }
+-    user = {
+-        "role": "user",
+-        "content": f"""
+-Classify this paediatrics topic and list 8–12 universal coverage DIMENSIONS
+-(no example subtopics). Add fields:
+-- required=true for safety-critical / decision-centric dimensions for THIS topic kind (e.g.,
+-  triage/disposition, diagnostic approach & data interpretation, treatment protocols incl. step‑down,
+-  treatment‑failure/escalation/rescue, complications recognition & imaging/procedure thresholds,
+-  follow‑up & counselling, special populations). Mark them required ONLY where applicable.
+-- weight=1..5 indicating importance for the declared topic_kind.
+-
+-Topic: {topic_name}
+-Audience: {audience}
+-Objective: {objective}
+-Output ONLY the JSON schema described above.
+-""".strip(),
+-    }
+-    try:
+-        rsp = oai_client.chat.completions.create(
+-            model=DEPLOYMENT, messages=[sys, user],
+-            temperature=0.3, max_tokens=700, response_format={"type": "json_object"},
+-        )
+-        out = json.loads(rsp.choices[0].message.content)
+-        out["topic_kind"] = (out.get("topic_kind") or "other").strip()
+-        dims = out.get("dimensions") or []
+-        # Defensive shaping
+-        cleaned = []
+-        for d in dims:
+-            if not isinstance(d, dict) or not d.get("name"):
+-                continue
+-            d["required"] = bool(d.get("required", False))
+-            try:
+-                w = int(d.get("weight", 3))
+-            except Exception:
+-                w = 3
+-            d["weight"] = max(1, min(5, w))
+-            cleaned.append(d)
+-        out["dimensions"] = cleaned
+-        return out
+-    except Exception:
+-        # Minimal neutral fallback
+-        return {
+-            "topic_kind": "other",
+-            "dimensions": [
+-                {"name": "clinical_workflow", "why": "practical decisions", "required": True, "weight": 5},
+-                {"name": "core_science", "why": "foundational", "required": False, "weight": 2},
+-                {"name": "safety_quality", "why": "prevent harm", "required": True, "weight": 4},
+-            ],
+-        }
+-
+-
+-# --- generateSubtopics/__init__.py  (replace _verify_subtopics) ------------
+-def _verify_subtopics(topic: str, rubric: Dict[str, Any], titles: List[str],
+-                      coverage: List[Dict[str, Any]], audience: str, objective: str) -> Dict[str, Any]:
+-    """
+-    Ask GPT to check completeness vs rubric + flag missing/merge/drop/edit.
+-    Coverage may guide merges between near-duplicates, but MUST NOT veto required dimensions.
+-    """
+-    schema = {
+-        "complete": True,
+-        "missing": ["..."],               # titles to add
+-        "drop": ["..."],                  # titles to drop
+-        "merge": [["...","..."]],         # pairs to merge
+-        "reword": [{"from": "...", "to": "..."}],
+-        "notes": "..."                    # optional free-text for debug
+-    }
+-    ask = {
+-        "role": "user",
+-        "content": (
+-            f"Verify completeness of this paediatric sub-topic list for '{topic}' against the rubric.\n"
+-            f"Audience: {audience}. Objective: {objective}.\n"
+-            "Rules:\n"
+-            "• Treat RUBRIC.dimensions where required=true as MUST-COVER for THIS topic kind—even if corpus coverage is low.\n"
+-            "• Use COVERAGE only to decide which near-duplicates to MERGE; do NOT drop required dimensions due to low coverage.\n"
+-            "• Prefer single-purpose, decision-centric nodes for triage/admission/escalation, treatment-failure, complications rescue.\n"
+-            "• Propose concise titles; keep ≤ MAX if needed by merging low-importance clusters (epi/burden; prevention/education; systems).\n"
+-            "Return JSON only in this schema: " + json.dumps(schema, ensure_ascii=False) + "\n\n"
+-            "RUBRIC=" + json.dumps(rubric, ensure_ascii=False) + "\n"
+-            "TITLES=" + json.dumps(titles, ensure_ascii=False) + "\n"
+-            "COVERAGE=" + json.dumps(coverage, ensure_ascii=False)
+-        ),
+-    }
+-    try:
+-        rsp = oai_client.chat.completions.create(
+-            model=DEPLOYMENT,
+-            messages=[{"role": "system", "content": "Return JSON only."}, ask],
+-            temperature=0.2, max_tokens=900, response_format={"type": "json_object"},
+-        )
+-        return json.loads(rsp.choices[0].message.content)
+-    except Exception:
+-        return {"complete": True, "missing": [], "drop": [], "merge": [], "reword": [], "notes": ""}
+-
+-
+-def _apply_verification(titles: List[str], verdict: Dict[str, Any]) -> List[str]:
+-    """
+-    Apply drops, merges, additions, and rewording from verifier output.
+-    """
+-    drops = set((_canon_title(x) for x in (verdict.get("drop") or [])))
+-    keep = [t for t in titles if _canon_title(t) not in drops]
+-
+-    # merges: [["A","B"], ...]  -> "A / B"
+-    for pair in verdict.get("merge") or []:
+-        pair = [p for p in pair if p and str(p).strip()]
+-        if len(pair) >= 2:
+-            keep.append(" / ".join(pair[:2]))
+-
+-    # reword
+-    for rw in (verdict.get("reword") or []):
+-        src = (rw.get("from") or "").strip()
+-        dst = (rw.get("to") or "").strip()
+-        if src and dst:
+-            try:
+-                idx = next(i for i, t in enumerate(keep) if _canon_title(t) == _canon_title(src))
+-                keep[idx] = dst
+-            except StopIteration:
+-                keep.append(dst)
+-
+-    # missing additions
+-    for m in (verdict.get("missing") or []):
+-        if m and str(m).strip():
+-            keep.append(m)
+-
+-    return _dedupe_titles(keep)
+-
+-# ───────────────────────── main entry ───────────────────────────
+-def main(msg: func.QueueMessage) -> None:
+-    logging.info("generateSubtopics triggered")
+-    try:
+-        topic_id = json.loads(msg.get_body().decode())["topic_id"]
+-    except Exception:
+-        logging.error("Bad queue message – expected JSON with topic_id")
+-        return
+-
+-    conn_str = "DRIVER={ODBC Driver 18 for SQL Server};SERVER=20.171.24.17;DATABASE=CME2;UID=new_root;PWD=japl@bJBYV77;Encrypt=no;TrustServerCertificate=yes;"
+-
+-    #— B) fetch topic & queued placeholders
+-    with pyodbc.connect(conn_str) as conn:
+-        cur = conn.cursor()
+-        cur.execute("SELECT topic_name FROM cme.topics WHERE topic_id = ?", topic_id)
+-        row = cur.fetchone()
+-        if not row:
+-            logging.error("Topic %s not found", topic_id)
+-            return
+-        topic_name = row.topic_name
+-
+-        cur.execute("""
+-        SELECT subtopic_id
+-        FROM cme.subtopics
+-        WHERE topic_id = ? AND status = 'queued'
+-        ORDER BY sequence_no
+-        """, topic_id)
+-        queued_sub_ids = [r.subtopic_id for r in cur.fetchall()]
+-
+-    #— C) rubric → draft → verify/repair
+-    audience = AUDIENCE_DEFAULT
+-    objective = OBJECTIVE_DEFAULT
+-    rubric = _make_rubric(topic_name, audience, objective)
+-    draft = _draft_subtopics(topic_name, rubric, audience, objective)
+-    draft = _dedupe_titles(draft)
+-    titles = _enforce_count(topic_name, draft, rubric)
+-    for _ in range(2):
+-        cov = _coverage_stats(topic_name, titles)
+-        verdict = _verify_subtopics(topic_name, rubric, titles, cov, audience, objective)
+-        if bool(verdict.get("complete", False)): break
+-        titles = _apply_verification(titles, verdict)
+-        titles = _dedupe_titles(titles)
+-        titles = _enforce_count(topic_name, titles, rubric)
+-    logging.info("Final outline size after verify/repair: %d", len(titles))
+-
+-    #— D) update placeholders & insert extras
+-    affected_ids: List[str] = []
+-    with pyodbc.connect(conn_str) as conn:
+-        cur = conn.cursor()
+-        for i, sub_id in enumerate(queued_sub_ids):
+-            title = titles[i] if i < len(titles) else f"Placeholder {i+1}"
+-            cur.execute("""
+-            UPDATE cme.subtopics
+-            SET title = ?, status = 'refs_pending', sequence_no = ?
+-            WHERE subtopic_id = ?
+-            """, title, i + 1, sub_id)
+-            affected_ids.append(sub_id)
+-
+-        for seq, title in enumerate(titles[len(queued_sub_ids):], start=len(queued_sub_ids) + 1):
+-            new_id = str(uuid.uuid4())
+-            cur.execute("""
+-            INSERT INTO cme.subtopics
+-            (subtopic_id, topic_id, title, sequence_no, status)
+-            VALUES (?, ?, ?, ?, 'refs_pending')
+-            """, new_id, topic_id, title, seq)
+-            affected_ids.append(new_id)
+-        conn.commit()
+-
+-    #— E) compute coverage & tag insufficiency
+-    with pyodbc.connect(conn_str) as conn:
+-        cur = conn.cursor()
+-        for sub_id in affected_ids:
+-            cur.execute("SELECT title, topic_id FROM cme.subtopics WHERE subtopic_id=?", sub_id)
+-            row = cur.fetchone()
+-            if not row: continue
+-            title, t_id = row.title, row.topic_id
+-            score = _estimate_coverage(topic_name, title)
+-            status = 'ok' if score >= COVERAGE_MIN_CHARS else 'insufficient'
+-            note = None if status == 'ok' else f"Coverage < {COVERAGE_MIN_CHARS} chars in search corpus"
+-            cur.execute("""
+-            UPDATE cme.subtopics
+-            SET coverage_score = ?, content_status = ?, coverage_note = ?
+-            WHERE subtopic_id = ?""", score, status, note, sub_id)
+-            if status != 'ok':
+-                cur.execute("""
+-                INSERT INTO cme.content_gaps (topic_id, subtopic_id, subtopic_title, coverage_score, reason)
+-                VALUES (?, ?, ?, ?, ?)""", t_id, sub_id, title, score, note)
+-        conn.commit()
+-
+-    #— F) REMOVED: no enqueuing to 'subtopic-queue' in App 1
+-    logging.info("Sub-topic list for %s updated → refs_pending (no queue in App 1)", topic_name)
++# studyplan-pipeline/generateSubtopics/__init__.py
++from __future__ import annotations
++import logging, os, json, re, unicodedata, uuid
++from typing import List, Dict, Any
++
++import azure.functions as func
++import pyodbc
++
++from openai import AzureOpenAI
++from azure.storage.queue import QueueClient
++from azure.core.credentials import AzureKeyCredential
++from azure.search.documents import SearchClient
++
++# ───────────────────────── Azure/OpenAI config (env only) ─────────────────────────
++AZURE_OAI_ENDPOINT = "https://azure1405.openai.azure.com/"
++AZURE_OAI_KEY = "CzrrWvXbsmYcNguU1SqBpE9HDhhbfYsbkq3UedythCYCV9zNQ4mLJQQJ99BEACHYHv6XJ3w3AAABACOGiIPm"
++DEPLOYMENT = "gpt-4o"
++AZURE_OAI_API_VERSION = "2024-02-15-preview"
++
++oai_client = AzureOpenAI(
++    api_key=AZURE_OAI_KEY,
++    azure_endpoint=AZURE_OAI_ENDPOINT,
++    api_version=AZURE_OAI_API_VERSION,
++)
++
++# ───────────────────────── Azure Cognitive Search ─────────────────────────
++SEARCH_ENDPOINT = "https://basic-rag-sandbox.search.windows.net"
++SEARCH_ADMIN_KEY = "tuqRZ8A374Aw3wXKSTzOY6SEu6Ra8rOyhPgFEtcLpSAzSeBOByQL"
++INDEX_NAME = "pubert-demo-new"
++SEARCH_API_VERSION = "2025-05-01-preview"
++
++search_cli = SearchClient(
++    endpoint=SEARCH_ENDPOINT,
++    index_name=INDEX_NAME,
++    credential=AzureKeyCredential(SEARCH_ADMIN_KEY),
++    api_version=SEARCH_API_VERSION,
++)
++
++# ───────────────────────── knobs (min/max; coverage) ─────────────────────
++MIN_SUBTOPICS = int(os.getenv("MIN_SUBTOPICS", "22"))  # ← default 22
++MAX_SUBTOPICS = int(os.getenv("MAX_SUBTOPICS", "40"))  # ← unchanged
++COVERAGE_MIN_CHARS = int(os.getenv("COVERAGE_MIN_CHARS", "1200"))
++BLOCK_ON_LOW_COVERAGE = os.getenv("BLOCK_ON_LOW_COVERAGE", "0") == "0"
++
++AUDIENCE_DEFAULT = os.getenv(
++    "AUDIENCE_DEFAULT",
++    "Clinical practitioners and final-year medical students focusing on practical decision-making.",
++)
++OBJECTIVE_DEFAULT = os.getenv(
++    "OBJECTIVE_DEFAULT",
++    "Ensure practice-ready diagnosis, management, complications prevention, and counselling.",
++)
++
++# ───────────────────────── helpers: text / canon / dedupe ─────────────────
++_ADULT_BAN = re.compile(r"\b(pregnan\w*|lactat\w*|maternal|fetus)\b", re.I)
++
++def _norm(s: str) -> str:
++    return unicodedata.normalize("NFKD", s or "").encode("ascii", "ignore").decode()
++
++def _canon_title(t: str) -> str:
++    s = _norm(t).lower()
++    s = re.sub(r"\b(for\s+(paediatr(ic)?|pediatric)[^)]*)$", "", s).strip()
++    s = re.sub(r"\b(in\s+children|in\s+paediatrics|p(a)ediatric)\b", "", s).strip()
++    s = re.sub(r"\s+", " ", s)
++    return s
++
++def _dedupe_titles(titles: List[str]) -> List[str]:
++    seen = set()
++    out = []
++    for t in titles:
++        if not t or not str(t).strip():
++            continue
++        if _ADULT_BAN.search(t):  # global paeds guardrail
++            continue
++        k = _canon_title(t)
++        if k and k not in seen:
++            seen.add(k)
++            out.append(t.strip())
++    return out
++
++# ───────────────────────── Search coverage (pre‑verify) ───────────────────
++def _estimate_coverage(topic_name: str, sub_title: str) -> int:
++    query = f"{topic_name} {sub_title}"
++    try:
++        results = search_cli.search(search_text=query, top=10)
++        total = 0
++        for doc in results:
++            body = (doc.get("content") or "")
++            total += len(body)
++        return total
++    except Exception:
++        return 0
++
++def _coverage_stats(topic: str, titles: List[str]) -> List[Dict[str, Any]]:
++    return [{"title": t, "coverage_chars": _estimate_coverage(topic, t)} for t in titles]
++
++
++# ───────────────────────── NEW: Outline from Azure Search index (hierarchical docs) ─────────────────────────
++SUBTOPIC_SOURCE = os.getenv("SUBTOPIC_SOURCE", "index").lower()  # 'index' (default) or 'gpt'
++
++_VIGNETTE_PAT = re.compile(r"\b(vignett|vignettes|case\s+vignette|case\s+stud(y|ies)|case\s+based)\b", re.I)
++_SEQ_RE = re.compile(r"^(\d+)([a-zA-Z]?)(?:\.(\d+))?$")
++
++
++def _escape_odata(s: str) -> str:
++    return (s or "").replace("'", "''")
++
++
++def _letter_rank(ch: str) -> int:
++    if not ch:
++        return 0
++    c = ch.lower()
++    if 'a' <= c <= 'z':
++        return ord(c) - ord('a') + 1
++    return 0
++
++
++def _sequence_key(seq: str) -> tuple:
++    s = (seq or '').strip()
++    m = _SEQ_RE.match(s)
++    if not m:
++        return (10**9, 10**9, 10**9, s)
++    major = int(m.group(1))
++    letter = _letter_rank(m.group(2) or '')
++    minor = int(m.group(3) or 0)
++    return (major, letter, minor, s)
++
++
++def _search_all_index(*, search_text: str, **kwargs) -> list[dict]:
++    out: list[dict] = []
++    skip = 0
++    top = int(kwargs.pop("top", 1000) or 1000)
++    while True:
++        results = search_cli.search(search_text=search_text, top=top, skip=skip, **kwargs)
++        batch = list(results)
++        if not batch:
++            break
++        out.extend(batch)
++        if len(batch) < top:
++            break
++        skip += len(batch)
++        if skip > 100000:
++            break
++    return out
++
++
++def _resolve_topic_in_index(topic_name: str) -> str:
++    """Map DB topic_name to the most frequent matching index 'topic'."""
++    try:
++        docs = _search_all_index(search_text=topic_name, select=["topic"], top=50)
++    except Exception:
++        docs = []
++    freq: dict[str, int] = {}
++    for d in docs:
++        t = (d.get("topic") or "").strip()
++        if t:
++            freq[t] = freq.get(t, 0) + 1
++    if not freq:
++        return topic_name
++    return max(freq.items(), key=lambda kv: kv[1])[0]
++
++
++def _outline_from_index(topic_name: str) -> tuple[str, list[dict], list[dict]]:
++    """Return (resolved_topic, outline_rows, vignette_docs).
++
++    outline_rows: [{subtopic, sequence, coverage_chars}]
++    vignette_docs: index docs for vignette-only subtopics (include content for case extraction)
++    """
++    resolved = _resolve_topic_in_index(topic_name)
++
++    # 1) enumerate all subtopics for resolved topic using metadata only
++    docs = _search_all_index(
++        search_text='*',
++        filter=f"topic eq '{_escape_odata(resolved)}'",
++        select=["subtopic", "sequence", "char_count"],
++        top=1000,
++    )
++
++    by_sub: dict[str, dict] = {}
++    vignette_subtopics: set[str] = set()
++
++    for d in docs:
++        st = (d.get("subtopic") or "").strip()
++        if not st:
++            continue
++        seq = (d.get("sequence") or "").strip()
++        cc = int(d.get("char_count") or 0)
++
++        if _VIGNETTE_PAT.search(st):
++            vignette_subtopics.add(st)
++            continue
++
++        row = by_sub.get(st)
++        if not row:
++            by_sub[st] = {
++                "subtopic": st,
++                "sequence": seq,
++                "coverage_chars": cc,
++                "seq_key": _sequence_key(seq),
++            }
++        else:
++            row["coverage_chars"] += cc
++            # keep earliest sequence by key
++            if _sequence_key(seq) < row["seq_key"]:
++                row["sequence"] = seq
++                row["seq_key"] = _sequence_key(seq)
++
++    outline = list(by_sub.values())
++    outline.sort(key=lambda r: (r["seq_key"], r["subtopic"].lower()))
++
++    # 2) fetch vignette docs with content (small subset)
++    vignette_docs: list[dict] = []
++    for vs in sorted(vignette_subtopics):
++        vdocs = _search_all_index(
++            search_text='*',
++            filter=f"topic eq '{_escape_odata(resolved)}' and subtopic eq '{_escape_odata(vs)}'",
++            select=["id", "content", "sequence", "chunk_index", "heading_path", "subtopic"],
++            top=1000,
++        )
++        vignette_docs.extend(vdocs)
++
++    return resolved, outline, vignette_docs
++
++
++def _stitch_vignette_text(vignette_docs: list[dict], max_chars: int = 18000) -> str:
++    if not vignette_docs:
++        return ""
++
++    def k(d: dict):
++        return (_sequence_key(d.get("sequence") or ""), int(d.get("chunk_index") or 0), d.get("heading_path") or "")
++
++    parts: list[str] = []
++    used = 0
++    for d in sorted(vignette_docs, key=k):
++        c = (d.get("content") or "").strip()
++        if not c:
++            continue
++        if used + len(c) > max_chars:
++            parts.append(c[: max(0, max_chars - used)])
++            break
++        parts.append(c)
++        used += len(c)
++
++    return "\n\n".join(parts).strip()
++
++
++def _extract_cases_gpt(topic: str, vignette_text: str) -> list[dict]:
++    """Extract structured case studies from vignette sections."""
++    if not vignette_text.strip():
++        return []
++
++    schema = {
++        "cases": [
++            {
++                "case_title": "string",
++                "vignette": "string",
++                "learning_objective": "string"
++            }
++        ]
++    }
++
++    prompt = {
++        "role": "user",
++        "content": (
++            "Extract DISTINCT paediatric case vignettes from the SOURCE text.\n"
++            "- Do NOT invent facts; only restructure.\n"
++            "- Keep each vignette 90-220 words, with age, setting, time course, key symptoms, focused exam, and <=2 objective data.\n"
++            "- Do NOT include diagnosis or management in the vignette text.\n"
++            "Return JSON only with schema: " + json.dumps(schema) + "\n\n"
++            f"TOPIC: {topic}\n\nSOURCE:\n{vignette_text}\n"
++        )
++    }
++
++    try:
++        rsp = oai_client.chat.completions.create(
++            model=DEPLOYMENT,
++            messages=[{"role": "system", "content": "You are a medical editor. Return JSON only."}, prompt],
++            temperature=0.2,
++            max_tokens=1800,
++            response_format={"type": "json_object"},
++        )
++        out = json.loads(rsp.choices[0].message.content)
++        cases = out.get("cases") or []
++        if not isinstance(cases, list):
++            return []
++        cleaned = []
++        for c in cases:
++            if not isinstance(c, dict):
++                continue
++            vign = (c.get("vignette") or "").strip()
++            if len(vign) < 80:
++                continue
++            cleaned.append({
++                "case_title": (c.get("case_title") or "").strip()[:255] or "Clinical case",
++                "vignette": vign,
++                "learning_objective": (c.get("learning_objective") or "").strip()[:255],
++            })
++        return cleaned
++    except Exception:
++        logging.exception("Case extraction failed")
++        return []
++
++
++def _assign_cases_to_subtopics_gpt(topic: str, subtopics: list[dict], cases: list[dict]) -> list[dict]:
++    """Map each case to the most logical subtopic_id."""
++    if not subtopics or not cases:
++        return []
++
++    schema = {
++        "assignments": [
++            {
++                "case_index": 0,
++                "subtopic_id": "uuid",
++                "reason": "short"
++            }
++        ]
++    }
++
++    prompt = {
++        "role": "user",
++        "content": (
++            "Assign each CASE to exactly one SUBTOPIC where it fits best pedagogically.\n"
++            "If a case does not fit any, omit it (do not guess).\n"
++            "Return JSON only with schema: " + json.dumps(schema) + "\n\n"
++            f"TOPIC: {topic}\n\nSUBTOPICS (id,title):\n" + json.dumps(subtopics, ensure_ascii=False) + "\n\n"
++            f"CASES (indexed from 0):\n" + json.dumps(cases, ensure_ascii=False)
++        )
++    }
++
++    try:
++        rsp = oai_client.chat.completions.create(
++            model=DEPLOYMENT,
++            messages=[{"role": "system", "content": "Return JSON only."}, prompt],
++            temperature=0.2,
++            max_tokens=1400,
++            response_format={"type": "json_object"},
++        )
++        out = json.loads(rsp.choices[0].message.content)
++        assigns = out.get("assignments") or []
++        if not isinstance(assigns, list):
++            return []
++        cleaned = []
++        valid_ids = {s["subtopic_id"] for s in subtopics}
++        for a in assigns:
++            if not isinstance(a, dict):
++                continue
++            idx = a.get("case_index")
++            sid = (a.get("subtopic_id") or "").strip()
++            if not isinstance(idx, int) or idx < 0 or idx >= len(cases):
++                continue
++            if sid not in valid_ids:
++                continue
++            cleaned.append({"case_index": idx, "subtopic_id": sid, "reason": (a.get("reason") or "")[:200]})
++        return cleaned
++    except Exception:
++        logging.exception("Case assignment failed")
++        return []
++
++
++def _ingest_vignette_cases(topic_id: str, topic_name: str, vignette_docs: list[dict], conn_str: str) -> int:
++    """Extract vignette cases, map to subtopics, insert into cme.cases, and enqueue case-mcq-queue."""
++    vign_text = _stitch_vignette_text(vignette_docs)
++    cases = _extract_cases_gpt(topic_name, vign_text)
++    if not cases:
++        return 0
++
++    with pyodbc.connect(conn_str) as conn:
++        cur = conn.cursor()
++        cur.execute("SELECT subtopic_id, title FROM cme.subtopics WHERE topic_id=? ORDER BY sequence_no", topic_id)
++        subs = [{"subtopic_id": r.subtopic_id, "title": r.title} for r in cur.fetchall()]
++
++    assignments = _assign_cases_to_subtopics_gpt(topic_name, subs, cases)
++    if not assignments:
++        return 0
++
++    inserted = 0
++    q = None
++    try:
++        q = QueueClient.from_connection_string(os.environ["AzureWebJobsStorage"], "case-mcq-queue")
++    except Exception:
++        q = None
++
++    with pyodbc.connect(conn_str) as conn:
++        cur = conn.cursor()
++        for a in assignments:
++            c = cases[a["case_index"]]
++            sid = a["subtopic_id"]
++            title = c["case_title"]
++            vign = c["vignette"]
++            lo = c.get("learning_objective") or ""
++
++            # de-dupe by exact vignette text under same subtopic
++            cur.execute("""
++                IF NOT EXISTS (SELECT 1 FROM cme.cases WHERE subtopic_id=? AND vignette=?)
++                BEGIN
++                    INSERT INTO cme.cases (case_id, subtopic_id, title, vignette, word_count, learning_objective)
++                    VALUES (NEWID(), ?, ?, ?, ?, ?)
++                END
++            """, sid, vign, sid, title, vign, len(re.findall(r"\b\w+\b", vign)), lo)
++
++            # find inserted case_id (or existing) for queueing
++            cur.execute("SELECT TOP 1 case_id FROM cme.cases WHERE subtopic_id=? AND vignette=? ORDER BY created_utc DESC", sid, vign)
++            row = cur.fetchone()
++            if row:
++                case_id = row.case_id
++                inserted += 1
++                # mark subtopic as case-bearing
++                cur.execute("""
++                    UPDATE cme.subtopics
++                    SET case_amenable=1,
++                        case_status = CASE WHEN case_status IN ('verified','failed') THEN case_status ELSE 'pending' END
++                    WHERE subtopic_id=?
++                """, sid)
++                if q:
++                    try:
++                        q.send_message(json.dumps({"case_id": case_id}))
++                    except Exception:
++                        pass
++
++        conn.commit()
++
++    return inserted
++
++# ───────────────────────── merge/top‑up (keep ≤MAX, ≥MIN) ─────────────────
++def _coalesce_titles_gpt(topic: str, titles: List[str], max_n: int = MAX_SUBTOPICS) -> List[str]:
++    """
++    Ask GPT to merge closely related items to fit into <= max_n without losing scope.
++    """
++    prompt = {
++        "role": "user",
++        "content": (
++            f"Merge or bundle closely related pediatric sub-topics for '{topic}' so that the final list "
++            f"has at most {max_n} items. Combine only when defensible pedagogically and keep single‑purpose "
++            f"clarity where clinically important. Return JSON {{\"subtopics\": [\"...\"]}}.\n"
++            f"INPUT={json.dumps(titles, ensure_ascii=False)}"
++        )
++    }
++    try:
++        rsp = oai_client.chat.completions.create(
++            model=DEPLOYMENT,
++            messages=[{"role": "system", "content": "You are a curriculum editor. Return JSON only."}, prompt],
++            temperature=0.2, max_tokens=800, response_format={"type": "json_object"},
++        )
++        data = json.loads(rsp.choices[0].message.content)
++        merged = [t for t in (data.get("subtopics") or []) if str(t).strip()]
++        return merged[:max_n]
++    except Exception:
++        # deterministic fallback below
++        return []
++
++def _coalesce_titles_heuristic(titles: List[str], max_n: int = MAX_SUBTOPICS) -> List[str]:
++    """
++    Greedy Jaccard merge of non-protected titles, forming 'A / B' labels.
++    """
++    protect = re.compile(
++        r"(triage|admission|escalation|persistent|relapse|mdr|xdr|vaccine|carrier|"
++        r"household|outbreak|follow[-]?up|defervesc|counsel)",
++        re.I,
++    )
++
++
++    def normset(t: str) -> set[str]:
++        s = re.sub(r"[^a-z0-9 ]+", " ", (_norm(t) or "").lower())
++        return {w for w in s.split() if len(w) > 2}
++
++    items = [{"t": t, "p": bool(protect.search(t))} for t in titles]
++    while len(items) > max_n:
++        best = None
++        for i in range(len(items)):
++            if items[i]["p"]:
++                continue
++            for j in range(i + 1, len(items)):
++                if items[j]["p"]:
++                    continue
++                a, b = normset(items[i]["t"]), normset(items[j]["t"])
++                if not a or not b:
++                    continue
++                jacc = len(a & b) / len(a | b)
++                sub = items[i]["t"].lower() in items[j]["t"].lower() or items[j]["t"].lower() in items[i]["t"].lower()
++                score = jacc + (0.15 if sub else 0.0)
++                if (best is None) or (score > best[0]):
++                    best = (score, i, j)
++        if best is None:
++            break
++        _, i, j = best
++        items[i]["t"] = f"{items[i]['t']} / {items[j]['t']}"
++        items.pop(j)
++    return [x["t"] for x in items][:max_n]
++
++def _topup_titles_gpt(topic: str, titles: List[str], min_n: int = MIN_SUBTOPICS, rubric: Dict[str, Any] | None = None) -> List[str]:
++    """
++    Ask GPT to add missing but essential pediatric sub-topics (no duplicates) to reach >= min_n,
++    guided by the rubric if available.
++    """
++    content = {
++        "role": "user",
++        "content": (
++            f"Given this pediatric sub-topic list for '{topic}', add any missing essential items "
++            f"so the total is at least {min_n}. Avoid duplicates and overly generic items. Prefer "
++            f"decision/technique/criteria nodes. If a rubric is provided, cover all its dimensions.\n"
++            f"Prefer adding concrete workflow nodes from the care‑pathway primitives above where "
++            f"they are applicable to the topic kind (avoid local policy, brand names, or region‑specific details)."
++            f"RUBRIC={json.dumps(rubric or {}, ensure_ascii=False)}\n"
++            f"INPUT={json.dumps(titles, ensure_ascii=False)}"
++        ),
++    }
++    try:
++        rsp = oai_client.chat.completions.create(
++            model=DEPLOYMENT,
++            messages=[{"role": "system", "content": "Return JSON only as {\"subtopics\": [\"...\"]}."}, content],
++            temperature=0.25, max_tokens=600, response_format={"type": "json_object"},
++        )
++        data = json.loads(rsp.choices[0].message.content)
++        return [t for t in (data.get("subtopics") or []) if str(t).strip()]
++    except Exception:
++        return []
++
++def _enforce_count(topic: str, titles: List[str], rubric: Dict[str, Any] | None = None) -> List[str]:
++    """
++    Ensure final list size MIN_SUBTOPICS..MAX_SUBTOPICS with logical merges or top-ups.
++    """
++    titles = [t for t in titles if str(t).strip()]
++    if len(titles) > MAX_SUBTOPICS:
++        merged = _coalesce_titles_gpt(topic, titles, MAX_SUBTOPICS) or _coalesce_titles_heuristic(titles, MAX_SUBTOPICS)
++        titles = merged
++    if len(titles) < MIN_SUBTOPICS:
++        extra = _topup_titles_gpt(topic, titles, MIN_SUBTOPICS, rubric)
++        titles = titles + [t for t in extra if t not in titles]
++    return titles
++# generateSubtopics/__init__.py
++
++# generateSubtopics/__init__.py
++
++def _strip_ellipses(s: str) -> str:
++    # prevent literal '...' or '…' creeping into titles
++    return re.sub(r'[.…]+$', '', (s or '').strip())
++
++def _apply_verification(titles: List[str], verdict: Dict[str, Any]) -> List[str]:
++    """
++    Apply drops, merges, additions, and rewording from verifier output.
++    Ensures merges *replace* originals (A,B) with a single "A / B", preserves order,
++    and sanitizes titles (no ellipses).
++    """
++    drops = set((_canon_title(x) for x in (verdict.get("drop") or [])))
++    keep = [t for t in titles if _canon_title(t) not in drops]
++
++    # MERGES: replace A and B with "A / B"
++    for pair in verdict.get("merge") or []:
++        pair = [p for p in pair if p and str(p).strip()]
++        if len(pair) < 2:
++            continue
++        a, b = pair[:2]
++        canon_targets = {_canon_title(a), _canon_title(b)}
++        # earliest index of A or B (if present)
++        idxs = [i for i, t in enumerate(keep) if _canon_title(t) in canon_targets]
++        insert_at = min(idxs) if idxs else len(keep)
++        # drop existing A/B entries
++        keep = [t for t in keep if _canon_title(t) not in canon_targets]
++        keep.insert(insert_at, f"{a} / {b}")
++
++    # REWORD
++    for rw in (verdict.get("reword") or []):
++        src = (rw.get("from") or "").strip()
++        dst = (rw.get("to") or "").strip()
++        if src and dst:
++            try:
++                idx = next(i for i, t in enumerate(keep) if _canon_title(t) == _canon_title(src))
++                keep[idx] = dst
++            except StopIteration:
++                keep.append(dst)
++
++    # MISSING additions
++    for m in (verdict.get("missing") or []):
++        if m and str(m).strip():
++            keep.append(m)
++
++    # sanitize & dedupe
++    keep = [_strip_ellipses(t) for t in keep]
++    return _dedupe_titles(keep)
++
++# ───────────────────────── rubric / draft / verify ─────────────────────────
++
++
++def _draft_subtopics(topic: str, rubric: Dict[str, Any], audience: str, objective: str) -> List[str]:
++    """
++    Over-generate 30–50 draft subtopics guided by the rubric (no hard-coded inclusions).
++    """
++    schema = "{\"subtopics\": [\"...\"]}"
++    ask = {
++        "role": "user",
++        "content": (
++            f"Design 30–50 concise, single‑purpose pediatric sub‑topics for '{topic}'. "
++            f"Use this rubric to ensure breadth and avoid omissions: {json.dumps(rubric, ensure_ascii=False)}. "
++            f"Audience: {audience}. Objective: {objective}. "
++            "Prefer decision/technique/criteria/data‑interpretation nodes. Avoid duplicates, avoid trivial variants. "
++            f"Return JSON only as {schema}."
++            f"Where relevant for this topic kind, make sure the list includes practice‑critical, "
++            f"decision‑oriented nodes such as: triage/admission/discharge criteria; time‑phase or "
++            f"week‑of‑illness diagnostic algorithms (how work‑up changes over time); specimen "
++            f"handling/volumes/pre‑treatment sampling; outpatient vs inpatient review plans; "
++            f"non‑response/treatment‑failure and escalation algorithms; imaging/ procedure thresholds "
++            f"for complications; contact/household management and return‑to‑school/day‑care advice; "
++            f"follow‑up and expected time‑to‑improvement/defervescence; recurrence/relapse vs "
++            f"reinfection distinctions; special populations; systems/implementation and psychosocial support. "
++            f"Only include those that truly fit THIS topic kind; avoid disease‑specific details or local policies."
++        )
++    }
++    rsp = oai_client.chat.completions.create(
++        model=DEPLOYMENT,
++        messages=[{"role": "system", "content": "You are a paediatrics curriculum designer. Return JSON only."}, ask],
++        temperature=0.4, max_tokens=900, response_format={"type": "json_object"},
++    )
++    data = json.loads(rsp.choices[0].message.content)
++    return [t for t in (data.get("subtopics") or []) if str(t).strip()]
++
++# --- generateSubtopics/__init__.py  (replace _make_rubric) -----------------
++def _make_rubric(topic_name: str, audience: str, objective: str) -> Dict[str, Any]:
++    """
++    Build a topic-kind rubric with neutral 'dimensions'.
++    Each dimension has: name, why, required (bool), weight (1-5).
++    """
++    sys = {
++        "role": "system",
++        "content": (
++            'Return JSON only as {"topic_kind":"...",'
++            '"dimensions":[{"name":"...","why":"...","required":true|false,"weight":1-5}]}.'
++        ),
++    }
++    user = {
++        "role": "user",
++        "content": f"""
++Classify this paediatrics topic and list 8–12 universal coverage DIMENSIONS
++(no example subtopics). Add fields:
++- required=true for safety-critical / decision-centric dimensions for THIS topic kind (e.g.,
++  triage/disposition, diagnostic approach & data interpretation, treatment protocols incl. step‑down,
++  treatment‑failure/escalation/rescue, complications recognition & imaging/procedure thresholds,
++  follow‑up & counselling, special populations). Mark them required ONLY where applicable.
++- weight=1..5 indicating importance for the declared topic_kind.
++
++Topic: {topic_name}
++Audience: {audience}
++Objective: {objective}
++Output ONLY the JSON schema described above.
++""".strip(),
++    }
++    try:
++        rsp = oai_client.chat.completions.create(
++            model=DEPLOYMENT, messages=[sys, user],
++            temperature=0.3, max_tokens=700, response_format={"type": "json_object"},
++        )
++        out = json.loads(rsp.choices[0].message.content)
++        out["topic_kind"] = (out.get("topic_kind") or "other").strip()
++        dims = out.get("dimensions") or []
++        # Defensive shaping
++        cleaned = []
++        for d in dims:
++            if not isinstance(d, dict) or not d.get("name"):
++                continue
++            d["required"] = bool(d.get("required", False))
++            try:
++                w = int(d.get("weight", 3))
++            except Exception:
++                w = 3
++            d["weight"] = max(1, min(5, w))
++            cleaned.append(d)
++        out["dimensions"] = cleaned
++        return out
++    except Exception:
++        # Minimal neutral fallback
++        return {
++            "topic_kind": "other",
++            "dimensions": [
++                {"name": "clinical_workflow", "why": "practical decisions", "required": True, "weight": 5},
++                {"name": "core_science", "why": "foundational", "required": False, "weight": 2},
++                {"name": "safety_quality", "why": "prevent harm", "required": True, "weight": 4},
++            ],
++        }
++
++
++# --- generateSubtopics/__init__.py  (replace _verify_subtopics) ------------
++def _verify_subtopics(topic: str, rubric: Dict[str, Any], titles: List[str],
++                      coverage: List[Dict[str, Any]], audience: str, objective: str) -> Dict[str, Any]:
++    """
++    Ask GPT to check completeness vs rubric + flag missing/merge/drop/edit.
++    Coverage may guide merges between near-duplicates, but MUST NOT veto required dimensions.
++    """
++    schema = {
++        "complete": True,
++        "missing": ["..."],               # titles to add
++        "drop": ["..."],                  # titles to drop
++        "merge": [["...","..."]],         # pairs to merge
++        "reword": [{"from": "...", "to": "..."}],
++        "notes": "..."                    # optional free-text for debug
++    }
++    ask = {
++        "role": "user",
++        "content": (
++            f"Verify completeness of this paediatric sub-topic list for '{topic}' against the rubric.\n"
++            f"Audience: {audience}. Objective: {objective}.\n"
++            "Rules:\n"
++            "• Treat RUBRIC.dimensions where required=true as MUST-COVER for THIS topic kind—even if corpus coverage is low.\n"
++            "• Use COVERAGE only to decide which near-duplicates to MERGE; do NOT drop required dimensions due to low coverage.\n"
++            "• Prefer single-purpose, decision-centric nodes for triage/admission/escalation, treatment-failure, complications rescue.\n"
++            "• Propose concise titles; keep ≤ MAX if needed by merging low-importance clusters (epi/burden; prevention/education; systems).\n"
++            "Return JSON only in this schema: " + json.dumps(schema, ensure_ascii=False) + "\n\n"
++            "RUBRIC=" + json.dumps(rubric, ensure_ascii=False) + "\n"
++            "TITLES=" + json.dumps(titles, ensure_ascii=False) + "\n"
++            "COVERAGE=" + json.dumps(coverage, ensure_ascii=False)
++        ),
++    }
++    try:
++        rsp = oai_client.chat.completions.create(
++            model=DEPLOYMENT,
++            messages=[{"role": "system", "content": "Return JSON only."}, ask],
++            temperature=0.2, max_tokens=900, response_format={"type": "json_object"},
++        )
++        return json.loads(rsp.choices[0].message.content)
++    except Exception:
++        return {"complete": True, "missing": [], "drop": [], "merge": [], "reword": [], "notes": ""}
++
++
++def _apply_verification(titles: List[str], verdict: Dict[str, Any]) -> List[str]:
++    """
++    Apply drops, merges, additions, and rewording from verifier output.
++    """
++    drops = set((_canon_title(x) for x in (verdict.get("drop") or [])))
++    keep = [t for t in titles if _canon_title(t) not in drops]
++
++    # merges: [["A","B"], ...]  -> "A / B"
++    for pair in verdict.get("merge") or []:
++        pair = [p for p in pair if p and str(p).strip()]
++        if len(pair) >= 2:
++            keep.append(" / ".join(pair[:2]))
++
++    # reword
++    for rw in (verdict.get("reword") or []):
++        src = (rw.get("from") or "").strip()
++        dst = (rw.get("to") or "").strip()
++        if src and dst:
++            try:
++                idx = next(i for i, t in enumerate(keep) if _canon_title(t) == _canon_title(src))
++                keep[idx] = dst
++            except StopIteration:
++                keep.append(dst)
++
++    # missing additions
++    for m in (verdict.get("missing") or []):
++        if m and str(m).strip():
++            keep.append(m)
++
++    return _dedupe_titles(keep)
++
++# ───────────────────────── main entry ───────────────────────────
++
++
++# ───────────────────────── main entry ───────────────────────────
++def main(msg: func.QueueMessage) -> None:
++    logging.info("generateSubtopics triggered")
++    try:
++        topic_id = json.loads(msg.get_body().decode())["topic_id"]
++    except Exception:
++        logging.error("Bad queue message - expected JSON with topic_id")
++        return
++
++    conn_str = "DRIVER={ODBC Driver 18 for SQL Server};SERVER=20.171.24.17;DATABASE=CME2;UID=new_root;PWD=japl@bJBYV77;Encrypt=no;TrustServerCertificate=yes;"
++
++    # B) fetch topic & queued placeholders
++    with pyodbc.connect(conn_str) as conn:
++        cur = conn.cursor()
++        cur.execute("SELECT topic_name FROM cme.topics WHERE topic_id = ?", topic_id)
++        row = cur.fetchone()
++        if not row:
++            logging.error("Topic %s not found", topic_id)
++            return
++        topic_name = row.topic_name
++
++        cur.execute("""
++        SELECT subtopic_id
++        FROM cme.subtopics
++        WHERE topic_id = ? AND status = 'queued'
++        ORDER BY sequence_no
++        """, topic_id)
++        queued_sub_ids = [r.subtopic_id for r in cur.fetchall()]
++
++    use_index = (SUBTOPIC_SOURCE != 'gpt')
++
++    # C) Build outline
++    vignette_docs: list[dict] = []
++    cov_map: dict[str, int] = {}
++
++    if use_index:
++        resolved_topic, outline, vignette_docs = _outline_from_index(topic_name)
++        titles = [r["subtopic"] for r in outline if r.get("subtopic")]
++        cov_map = {r["subtopic"]: int(r.get("coverage_chars") or 0) for r in outline}
++
++        # Align DB topic_name with index topic if they differ
++        if resolved_topic and resolved_topic.strip() and resolved_topic.strip() != topic_name:
++            with pyodbc.connect(conn_str) as conn:
++                cur = conn.cursor()
++                cur.execute("UPDATE cme.topics SET topic_name=? WHERE topic_id=?", resolved_topic, topic_id)
++                conn.commit()
++            topic_name = resolved_topic
++
++        logging.info("Index outline size (excluding vignette sections): %d", len(titles))
++
++        # If outline is empty, fall back to GPT to avoid stalling the pipeline
++        if not titles:
++            use_index = False
++
++    if not use_index:
++        # legacy GPT-driven outline (kept for fallback)
++        audience = AUDIENCE_DEFAULT
++        objective = OBJECTIVE_DEFAULT
++        rubric = _make_rubric(topic_name, audience, objective)
++        draft = _draft_subtopics(topic_name, rubric, audience, objective)
++        draft = _dedupe_titles(draft)
++        titles = _enforce_count(topic_name, draft, rubric)
++        for _ in range(2):
++            cov = _coverage_stats(topic_name, titles)
++            verdict = _verify_subtopics(topic_name, rubric, titles, cov, audience, objective)
++            if bool(verdict.get("complete", False)):
++                break
++            titles = _apply_verification(titles, verdict)
++            titles = _dedupe_titles(titles)
++            titles = _enforce_count(topic_name, titles, rubric)
++        logging.info("Final outline size after verify/repair: %d", len(titles))
++
++    # D) update placeholders, delete extras, insert additions
++    affected_ids: List[str] = []
++    with pyodbc.connect(conn_str) as conn:
++        cur = conn.cursor()
++        # Update existing placeholders up to available titles
++        for i, sub_id in enumerate(queued_sub_ids[:len(titles)]):
++            title = titles[i]
++            cur.execute("""
++                UPDATE cme.subtopics
++                SET title = ?, status = 'refs_pending', sequence_no = ?
++                WHERE subtopic_id = ?
++            """, title, i + 1, sub_id)
++            affected_ids.append(sub_id)
++
++        # Delete surplus placeholders if any
++        for sub_id in queued_sub_ids[len(titles):]:
++            cur.execute("DELETE FROM cme.subtopics WHERE subtopic_id = ?", sub_id)
++
++        # Insert additional subtopics if titles exceed placeholders
++        for seq, title in enumerate(titles[len(queued_sub_ids):], start=len(queued_sub_ids) + 1):
++            new_id = str(uuid.uuid4())
++            cur.execute("""
++                INSERT INTO cme.subtopics
++                (subtopic_id, topic_id, title, sequence_no, status)
++                VALUES (?, ?, ?, ?, 'refs_pending')
++            """, new_id, topic_id, title, seq)
++            affected_ids.append(new_id)
++
++        conn.commit()
++
++    # E) compute coverage & tag insufficiency
++    with pyodbc.connect(conn_str) as conn:
++        cur = conn.cursor()
++        for sub_id in affected_ids:
++            cur.execute("SELECT title, topic_id FROM cme.subtopics WHERE subtopic_id=?", sub_id)
++            row = cur.fetchone()
++            if not row:
++                continue
++            title, t_id = row.title, row.topic_id
++
++            # Index-driven coverage when available; else, fallback search-estimate
++            score = int(cov_map.get(title) or 0)
++            if score <= 0:
++                score = _estimate_coverage(topic_name, title)
++
++            status = 'ok' if score >= COVERAGE_MIN_CHARS else 'insufficient'
++            note = None if status == 'ok' else f"Coverage < {COVERAGE_MIN_CHARS} chars in search corpus"
++
++            cur.execute("""
++                UPDATE cme.subtopics
++                SET coverage_score = ?, content_status = ?, coverage_note = ?
++                WHERE subtopic_id = ?
++            """, score, status, note, sub_id)
++
++            if status != 'ok':
++                cur.execute("""
++                    INSERT INTO cme.content_gaps (topic_id, subtopic_id, subtopic_title, coverage_score, reason)
++                    VALUES (?, ?, ?, ?, ?)
++                """, t_id, sub_id, title, score, note)
++
++        conn.commit()
++
++    # F) NEW: Ingest vignette sections (if any) and queue case-MCQ generation
++    try:
++        if vignette_docs:
++            n_cases = _ingest_vignette_cases(topic_id, topic_name, vignette_docs, conn_str)
++            logging.info("Ingested %d case(s) from vignette sections", n_cases)
++    except Exception:
++        logging.exception("Vignette ingestion failed")
++
++    logging.info("Sub-topic list for %s updated -> refs_pending", topic_name)
+--- a/studyplanapp2/harvestReferences/__init__.py
++++ b/studyplanapp2/harvestReferences/__init__.py
+@@ -1,272 +1,200 @@
+-from __future__ import annotations
+-import logging, os, json, uuid
+-from textwrap import shorten
+-import azure.functions as func
+-import pyodbc
+-from azure.core.credentials import AzureKeyCredential
+-from azure.search.documents import SearchClient
+-from azure.storage.queue import QueueClient
+-
+-# ─────────────────────────────── Azure Search
+-SEARCH_ENDPOINT = "https://basic-rag-sandbox.search.windows.net"
+-SEARCH_ADMIN_KEY = "tuqRZ8A374Aw3wXKSTzOY6SEu6Ra8rOyhPgFEtcLpSAzSeBOByQL"
+-INDEX_NAME = "pubert-demo-new"
+-SEARCH_API_VERSION = "2025-05-01-preview"
+-SEARCH_TOP_K = 12
+-
+-# **ONLY THE FIELDS THAT EXIST IN THE INDEX**
+-SEARCH_FIELDS = ["content", "blob_url"]
+-
+-search_cli = SearchClient(
+-    endpoint=SEARCH_ENDPOINT,
+-    index_name=INDEX_NAME,
+-    credential=AzureKeyCredential(SEARCH_ADMIN_KEY),
+-    api_version=SEARCH_API_VERSION,
+-)
+-
+-# ─────────────────────────────── SQL Server
+-DB_CONN = "DRIVER={ODBC Driver 18 for SQL Server};SERVER=20.171.24.17;DATABASE=CME2;UID=new_root;PWD=japl@bJBYV77;Encrypt=no;TrustServerCertificate=yes;"
+-
+-import re
+-
+-PED_POS = re.compile(r"\b(paediat|pediatr|child|children|adolesc|teen|year[-\s]?old|mg/kg)\b", re.I)
+-ADULT_NEG = re.compile(r"\b(pregnan\w*|lactat\w*|maternal|fetus|obstet\w*)\b", re.I)
+-IS_INFECT = re.compile(r"\b(typhoid|malaria|dengue|tb|tuberculo\w*|pneumon\w*|influenza)\b", re.I)
+-
+-# ── NEW: generic, sub‑topic aware filtering helpers ─────────────────────────
+-STOPWORDS = {"and","or","the","a","an","to","of","for","in","on","with","by","as","from","into","using","use","vs","vs."}
+-def _norm(txt: str) -> str:
+-    return re.sub(r"[^a-z0-9]+", " ", (txt or "").lower()).strip()
+-def _kw(txt: str) -> list[str]:
+-    return [t for t in _norm(txt).split() if len(t) >= 3 and t not in STOPWORDS]
+-def _count_hits(haystack: str, needles: set[str]) -> int:
+-    h = " " + _norm(haystack) + " "
+-    return sum(1 for n in needles if f" {n} " in h)
+-
+-# tunables (env‑configurable across all pediatric topics)
+-SUBTOK_MIN_HITS = int(os.getenv("SUBTOK_MIN_HITS", "2"))      # ≥2 sub‑topic tokens must appear
+-PED_REQUIRED     = os.getenv("PED_REQUIRED", "1") == "1"       # require pediatric signal
+-
+-# add near the other imports
+-import re, os, logging
+-from urllib.parse import urlparse
+-from azure.storage.blob import BlobServiceClient
+-from azure.core.exceptions import ResourceNotFoundError
+-import os, re, time, logging, unicodedata
+-from urllib.parse import urlparse, quote
+-
+-
+-# -------------------- Blob config (reuse the same storage account) --------------------
+-_BLOB_CONN = os.getenv("BLOB_CONNECTION_STRING") or os.getenv("AzureWebJobsStorage")
+-_BLOB_CONTAINER = os.getenv("BLOB_CONTAINER_NAME", "typhoidnew")
+-
+-# derive account URL from connection string
+-def _account_url_from_conn_str(conn: str) -> str:
+-    parts = dict(p.split("=", 1) for p in conn.split(";") if "=" in p)
+-    scheme = parts.get("DefaultEndpointsProtocol", "https")
+-    name = parts.get("AccountName")
+-    suffix = parts.get("EndpointSuffix", "core.windows.net")
+-    return f"{scheme}://{name}.blob.{suffix}"
+-
+-_ACCOUNT_URL = _account_url_from_conn_str(_BLOB_CONN)
+-_blob_service = BlobServiceClient.from_connection_string(_BLOB_CONN)
+-_container = _blob_service.get_container_client(_BLOB_CONTAINER)
+-
+-# Dash-like characters to treat as '-'
+-_DASH_MAP = str.maketrans({c: '-' for c in "\u2010\u2011\u2012\u2013\u2014\u2015\u2212"})
+-
+-def _norm_key(s: str) -> str:
+-    """
+-    Normalization used for matching: NFKC, unify dashes, uppercase,
+-    drop extension, drop all non [A-Z0-9], keep trailing _NN index.
+-    """
+-    s = unicodedata.normalize("NFKC", s or "")
+-    s = s.translate(_DASH_MAP)
+-    s = s.upper()
+-    s = re.sub(r"\.PDF$", "", s)
+-    return re.sub(r"[^A-Z0-9_]", "", s)
+-
+-def _split_suffix(name: str) -> tuple[str, int | None]:
+-    m = re.search(r"_(\d+)$", name)
+-    if m:
+-        return name[: m.start()], int(m.group(1))
+-    return name, None
+-
+-# In-memory cache of container names (refresh every 10 min)
+-
+-
+-# existing helper (kept as-is, but reuse its logic)
+-def build_blob_url(document_id: str) -> str:
+-    def pad_number(m): return f"_{int(m.group(1)):02d}"
+-    padded_id = re.sub(r'_(\d+)$', pad_number, document_id)
+-    return f"{_ACCOUNT_URL}/{_BLOB_CONTAINER}/{padded_id}.pdf"
+-
+-# NEW helpers
+-
+-# ─────────────────────────────── Function entry point
+-def main(msg: func.QueueMessage) -> None:
+-    logging.info("harvestReferences triggered")
+-    try:
+-        subtopic_id = json.loads(msg.get_body().decode())["subtopic_id"]
+-    except (KeyError, json.JSONDecodeError):
+-        logging.error("Bad queue payload – expected {'subtopic_id': …}")
+-        return
+-    
+-    # DEBUG: Create debug log file path
+-    debug_file = f"/tmp/debug_refs_{subtopic_id}.json"
+-    debug_data = {
+-        "subtopic_id": subtopic_id,
+-        "search_results": [],
+-        "filtered_refs": [],
+-        "final_refs": []
+-    }
+-    
+-    # ① Look-up sub-topic title → query string
+-    with pyodbc.connect(DB_CONN) as cx:
+-        cur = cx.cursor()
+-        cur.execute("""
+-            SELECT s.title, s.topic_id, t.topic_name
+-            FROM cme.subtopics AS s
+-            JOIN cme.topics AS t ON t.topic_id = s.topic_id
+-            WHERE s.subtopic_id = ?
+-        """, subtopic_id)
+-        
+-        row = cur.fetchone()
+-        if not row:
+-            logging.error("Sub-topic %s not found", subtopic_id)
+-            return
+-        
+-        sub_title, topic_id, topic_name = row.title, row.topic_id, row.topic_name
+-    
+-    debug_data["sub_title"] = sub_title
+-    debug_data["topic_name"] = topic_name
+-    
+-    # ② Search Azure Cognitive Search (bias toward pediatric)
+-    base_q = f"{topic_name} {sub_title}"
+-    query = base_q + (" pediatric child mg/kg" if IS_INFECT.search(topic_name.lower()) else "")  # e.g. "Typhoid Fever Long‑term Sequelae"
+-    debug_data["search_query"] = query
+-    
+-    results = search_cli.search(
+-        search_text=query,
+-        search_fields=SEARCH_FIELDS,
+-        top=SEARCH_TOP_K,
+-        select=["id", "content", "blob_url"],
+-        order_by=["search.score() desc", "id asc"]
+-    )
+-    
+-    # DEBUG: Log all search results BEFORE filtering
+-    all_results = list(results)  # Convert to list to iterate multiple times
+-    for doc in all_results:
+-        debug_data["search_results"].append({
+-            "id": doc["id"],
+-            "blob_url": doc.get("blob_url", ""),
+-            "content_preview": doc.get("content", "")[:100] + "..." if doc.get("content") else ""
+-        })
+-    
+-    logging.info(f"DEBUG: Search returned {len(all_results)} total results for query: {query}")
+-    for i, doc in enumerate(all_results):
+-        logging.info(f"DEBUG: Result {i}: ID={doc['id']}, blob_url={doc.get('blob_url', 'MISSING')}")
+-    
+-    topic_tokens = set(_kw(topic_name))
+-    sub_tokens   = set(_kw(sub_title))
+-    refs: list[dict] = []
+-    effective_min_hits = min(SUBTOK_MIN_HITS, max(1, len(sub_tokens)))
+-
+-    for doc in all_results:
+-        body = (doc.get("content", "") or "")
+-        sid  = (doc.get("id") or "")
+-        doc_text = f"{sid}\n{body}"
+-        # topic must match at least one topic token
+-        topic_ok = any(t in _norm(doc_text) for t in topic_tokens)
+-        # sub‑topic must hit ≥ N tokens
+-        sub_hits = _count_hits(doc_text, sub_tokens)
+-        # pediatric signal required (configurable)
+-        ped_ok = (not PED_REQUIRED) or bool(PED_POS.search(doc_text))
+-        # exclude adult/pregnancy heavy docs (unless sub‑topic explicitly about pregnancy)
+-        adultish = bool(ADULT_NEG.search(doc_text)) and ("pregnan" not in sub_title.lower())
+-
+-        logging.info(f"DEBUG: Filtering {sid}: topic_ok={topic_ok}, sub_hits={sub_hits}, ped_ok={ped_ok}, adultish={adultish}")
+-        if not topic_ok or sub_hits < effective_min_hits or not ped_ok or adultish:
+-            continue
+-        
+-        source_id = doc["id"]  # primary key in your index
+-        citation_link = (doc.get("blob_url") or "").strip()
+-        
+-        # DEBUG: Log what we're storing
+-        logging.info(f"DEBUG: ACCEPTED {source_id} with citation_link: '{citation_link}'")
+-        
+-        if not citation_link:
+-            logging.warning("No blob_url for doc_id=%s; leaving citation_link empty", source_id)
+-        
+-        ref_data = {
+-            "source_id": source_id,
+-            "citation_link": citation_link,
+-            "excerpt": shorten(doc.get("content", ""), 400),
+-        }
+-        
+-        refs.append(ref_data)
+-        debug_data["filtered_refs"].append(ref_data)
+-    
+-
+-    
+-    debug_data["final_refs"] = refs
+-    
+-    
+-    logging.info("Found %d references for '%s'", len(refs), sub_title)
+-    
+-    # DEBUG: Log final refs being stored
+-    for ref in refs:
+-        logging.info(f"DEBUG: STORING source_id={ref['source_id']}, citation_link='{ref['citation_link']}'")
+-    
+-    # ③ Persist into local SQL Server
+-    with pyodbc.connect(DB_CONN) as cx:
+-        cur = cx.cursor()
+-
+-        if not refs:
+-            cur.execute("""
+-                UPDATE cme.subtopics
+-                SET status = 'refs_missing', coverage_note = COALESCE(coverage_note, 'No references after strict sub‑topic filter')
+-                WHERE subtopic_id = ?
+-            """, subtopic_id)
+-            cx.commit()
+-            logging.warning("No references after strict filter for '%s' → refs_missing", sub_title)
+-            return
+-
+-        
+-        for ref in refs:
+-            # a. upsert into cme.references
+-            cur.execute("""
+-                IF NOT EXISTS (SELECT 1 FROM cme.[references] WHERE source_id = ?)
+-                    INSERT INTO cme.[references] (reference_id, source_id, citation_link, excerpt)
+-                    VALUES (?, ?, ?, ?);
+-            """, ref["source_id"],
+-                str(uuid.uuid4()), ref["source_id"], ref["citation_link"], ref["excerpt"])
+-            
+-            # b. link sub-topic → reference (junction)
+-            cur.execute("""
+-                IF NOT EXISTS (
+-                    SELECT 1 FROM cme.subtopic_references sr
+-                    JOIN cme.[references] r ON sr.reference_id = r.reference_id
+-                    WHERE sr.subtopic_id = ? AND r.source_id = ?
+-                )
+-                    INSERT INTO cme.subtopic_references (subtopic_id, reference_id)
+-                    SELECT ?, reference_id
+-                    FROM cme.[references]
+-                    WHERE source_id = ?;
+-            """, subtopic_id, ref["source_id"],
+-                subtopic_id, ref["source_id"])
+-        
+-        # ④ Update state & queue next stage
+-        cur.execute("""
+-            UPDATE cme.subtopics
+-            SET status = 'concept_pending'
+-            WHERE subtopic_id = ?
+-        """, subtopic_id)
+-        cx.commit()
+-    
+-    # message for Stage 3
+-    queue = QueueClient.from_connection_string(
+-        os.environ["AzureWebJobsStorage"], "concept-queue")
+-    queue.send_message(json.dumps({"subtopic_id": subtopic_id}))
+-    
+-    logging.info("Sub-topic %s → concept_pending", subtopic_id)
+\ No newline at end of file
++from __future__ import annotations
++import logging, os, json, uuid, hashlib, re
++from textwrap import shorten
++
++import azure.functions as func
++import pyodbc
++from azure.core.credentials import AzureKeyCredential
++from azure.search.documents import SearchClient
++from azure.storage.queue import QueueClient
++
++# ─────────────────────────────── Azure Search
++SEARCH_ENDPOINT = os.environ.get("SEARCH_ENDPOINT", "https://basic-rag-sandbox.search.windows.net")
++SEARCH_ADMIN_KEY = os.environ.get("SEARCH_ADMIN_KEY", "tuqRZ8A374Aw3wXKSTzOY6SEu6Ra8rOyhPgFEtcLpSAzSeBOByQL")
++INDEX_NAME = os.environ.get("SEARCH_INDEX", "pubert-demo-new")
++SEARCH_API_VERSION = os.environ.get("SEARCH_API_VERSION", "2025-05-01-preview")
++
++# ─────────────────────────────── SQL Server
++DB_CONN = os.getenv("DB") or os.getenv("DB_CONN") or     "DRIVER={ODBC Driver 18 for SQL Server};SERVER=20.171.24.17;DATABASE=CME2;UID=new_root;PWD=japl@bJBYV77;Encrypt=no;TrustServerCertificate=yes;"
++
++search_cli = SearchClient(
++    endpoint=SEARCH_ENDPOINT,
++    index_name=INDEX_NAME,
++    credential=AzureKeyCredential(SEARCH_ADMIN_KEY),
++    api_version=SEARCH_API_VERSION,
++)
++
++# ────────────────────────── helpers ──────────────────────────
++_URL_MD = re.compile(r"\]\((https?://[^)\s]+)\)", re.I)
++_URL_ANY = re.compile(r"(https?://[^\s\)]+)", re.I)
++
++def _escape_odata(s: str) -> str:
++    return (s or "").replace("'", "''")
++
++def _clean_url(url: str) -> str:
++    u = (url or "").strip()
++    if not u:
++        return ""
++    # fix common spacing artefacts seen in your manifests (e.g., 'http s://')
++    u = re.sub(r"(?i)\bhttp\s+s://", "https://", u)
++    u = re.sub(r"(?i)\bhttps\s*://", "https://", u)
++    u = re.sub(r"(?i)\bhttp\s*://", "http://", u)
++    u = re.sub(r"\s+", "", u)
++    return u
++
++def _extract_url(ref: str) -> str:
++    s = (ref or "").strip()
++    if not s:
++        return ""
++    m = _URL_MD.search(s)
++    if m:
++        return _clean_url(m.group(1))
++    m2 = _URL_ANY.search(s)
++    if m2:
++        return _clean_url(m2.group(1))
++    return ""
++
++def _search_all(*, search_text: str, **kwargs) -> list[dict]:
++    out: list[dict] = []
++    skip = 0
++    page_size = int(kwargs.pop("top", 1000) or 1000)
++    while True:
++        results = search_cli.search(search_text=search_text, top=page_size, skip=skip, **kwargs)
++        batch = list(results)
++        if not batch:
++            break
++        out.extend(batch)
++        if len(batch) < page_size:
++            break
++        skip += len(batch)
++        if skip > 100000:
++            break
++    return out
++
++def _fetch_index_references(topic_name: str, sub_title: str) -> list[str]:
++    """Return unique bibliography reference strings from Azure Search index for topic+subtopic."""
++    select = ["references", "topic", "subtopic"]
++    filt = f"topic eq '{_escape_odata(topic_name)}' and subtopic eq '{_escape_odata(sub_title)}'"
++    docs = _search_all(search_text="*", filter=filt, select=select, top=1000)
++
++    # Fallback: if topic mismatch, try subtopic-only and pick the most common topic in results
++    if not docs:
++        filt2 = f"subtopic eq '{_escape_odata(sub_title)}'"
++        docs2 = _search_all(search_text=topic_name, filter=filt2, select=select, top=200)
++        if docs2:
++            freq: dict[str, int] = {}
++            for d in docs2:
++                t = (d.get("topic") or "").strip()
++                if t:
++                    freq[t] = freq.get(t, 0) + 1
++            if freq:
++                best = max(freq.items(), key=lambda x: x[1])[0]
++                filt3 = f"topic eq '{_escape_odata(best)}' and subtopic eq '{_escape_odata(sub_title)}'"
++                docs = _search_all(search_text="*", filter=filt3, select=select, top=1000)
++
++    seen: set[str] = set()
++    out: list[str] = []
++    for d in docs:
++        for r in (d.get("references") or []):
++            rs = (r or "").strip()
++            if not rs:
++                continue
++            # normalise obvious whitespace artefacts to improve dedupe
++            rs_norm = re.sub(r"\s+", " ", rs).strip()
++            if rs_norm in seen:
++                continue
++            seen.add(rs_norm)
++            out.append(rs_norm)
++    return out
++
++# ─────────────────────────────── Function entry point
++def main(msg: func.QueueMessage) -> None:
++    logging.info("harvestReferences triggered")
++
++    try:
++        subtopic_id = json.loads(msg.get_body().decode())["subtopic_id"]
++    except (KeyError, json.JSONDecodeError):
++        logging.error("Bad queue payload – expected {'subtopic_id': …}")
++        return
++
++    # ① Look-up sub-topic title + topic
++    with pyodbc.connect(DB_CONN) as cx:
++        cur = cx.cursor()
++        cur.execute("""
++            SELECT s.title, s.topic_id, t.topic_name
++            FROM cme.subtopics AS s
++            JOIN cme.topics AS t ON t.topic_id = s.topic_id
++            WHERE s.subtopic_id = ?
++        """, subtopic_id)
++        row = cur.fetchone()
++        if not row:
++            logging.error("Sub-topic %s not found", subtopic_id)
++            return
++        sub_title, topic_id, topic_name = row.title, row.topic_id, row.topic_name
++
++    # ② Fetch bibliography references from Azure Search index (NO chunk sources)
++    ref_strings = _fetch_index_references(topic_name, sub_title)
++
++    if not ref_strings:
++        with pyodbc.connect(DB_CONN) as cx:
++            cur = cx.cursor()
++            cur.execute("""
++                UPDATE cme.subtopics
++                SET status = 'refs_missing',
++                    coverage_note = COALESCE(coverage_note, 'No bibliography references found in index for topic+subtopic')
++                WHERE subtopic_id = ?
++            """, subtopic_id)
++            cx.commit()
++        logging.warning("No references found in index for topic='%s' subtopic='%s' → refs_missing", topic_name, sub_title)
++        return
++
++    refs: list[dict] = []
++    for rs in ref_strings:
++        source_id = "ref:" + hashlib.sha1(rs.encode("utf-8")).hexdigest()
++        refs.append({
++            "source_id": source_id,
++            "citation_link": _extract_url(rs),
++            "excerpt": shorten(rs, 400),
++        })
++
++    logging.info("Found %d bibliography reference(s) for '%s'", len(refs), sub_title)
++
++    # ③ Persist into SQL Server
++    with pyodbc.connect(DB_CONN) as cx:
++        cur = cx.cursor()
++        for ref in refs:
++            # upsert into cme.references
++            cur.execute("""
++                IF NOT EXISTS (SELECT 1 FROM cme.[references] WHERE source_id = ?)
++                    INSERT INTO cme.[references] (reference_id, source_id, citation_link, excerpt)
++                    VALUES (?, ?, ?, ?);
++            """, ref["source_id"],
++                str(uuid.uuid4()), ref["source_id"], ref["citation_link"], ref["excerpt"])
++
++            # link sub-topic → reference
++            cur.execute("""
++                IF NOT EXISTS (
++                    SELECT 1 FROM cme.subtopic_references sr
++                    JOIN cme.[references] r ON sr.reference_id = r.reference_id
++                    WHERE sr.subtopic_id = ? AND r.source_id = ?
++                )
++                    INSERT INTO cme.subtopic_references (subtopic_id, reference_id)
++                    SELECT ?, reference_id
++                    FROM cme.[references]
++                    WHERE source_id = ?;
++            """, subtopic_id, ref["source_id"],
++                subtopic_id, ref["source_id"])
++
++        # update state
++        cur.execute("""
++            UPDATE cme.subtopics
++            SET status = 'concept_pending'
++            WHERE subtopic_id = ?
++        """, subtopic_id)
++        cx.commit()
++
++    # ④ queue next stage
++    queue = QueueClient.from_connection_string(os.environ["AzureWebJobsStorage"], "concept-queue")
++    queue.send_message(json.dumps({"subtopic_id": subtopic_id}))
++
++    logging.info("Sub-topic %s → concept_pending", subtopic_id)
+--- a/studyplanapp2/generateConcept/__init__.py
++++ b/studyplanapp2/generateConcept/__init__.py
+@@ -1,628 +1,734 @@
+-from __future__ import annotations
+-import logging, os, json, textwrap, unicodedata, re
+-import azure.functions as func
+-import pyodbc
+-from openai import AzureOpenAI
+-from azure.storage.queue import QueueClient
+-from azure.core.credentials import AzureKeyCredential
+-from azure.search.documents import SearchClient
+-
+-SEARCH_ENDPOINT = "https://basic-rag-sandbox.search.windows.net"
+-SEARCH_ADMIN_KEY = "tuqRZ8A374Aw3wXKSTzOY6SEu6Ra8rOyhPgFEtcLpSAzSeBOByQL"
+-INDEX_NAME = "pubert-demo-new"
+-SEARCH_API_VERSION = "2025-05-01-preview"
+-SEARCH_TOP_K = 12  # ↑ give GPT more material
+-MAX_CHARS = 4500  # ↑ allow ~1.5× more source text
+-DUP_SIM_THRESHOLD = float(os.getenv("CONCEPT_DUP_SIM_THRESHOLD", "0.92"))
+-SUBTOK_MIN_HITS   = int(os.getenv("SUBTOK_MIN_HITS", "2"))
+-conn = "DRIVER={ODBC Driver 18 for SQL Server};SERVER=20.171.24.17;DATABASE=CME2;UID=new_root;PWD=japl@bJBYV77;Encrypt=no;TrustServerCertificate=yes;"
+-
+-search_cli = SearchClient(
+-    endpoint=os.environ.get("SEARCH_ENDPOINT", SEARCH_ENDPOINT),
+-    index_name=os.environ.get("SEARCH_INDEX", INDEX_NAME),
+-    credential=AzureKeyCredential(os.environ.get("SEARCH_ADMIN_KEY", SEARCH_ADMIN_KEY)),
+-    api_version=os.environ.get("SEARCH_API_VERSION", SEARCH_API_VERSION),
+-)
+-
+-
+-def _compose_concept(source_ids: list[str], max_chars=MAX_CHARS) -> str:
+-    parts = []
+-    for sid in source_ids[:12]:  # allow more chunks but same corpus
+-        try:
+-            doc = search_cli.get_document(sid)
+-            if (txt := (doc.get("content") or "").strip()):
+-                parts.append(txt)
+-        except Exception:
+-            pass
+-        if sum(len(p) for p in parts) >= max_chars:
+-            break
+-    return ("\n\n".join(parts))[:max_chars].strip()
+-def _mark_insufficient(subtopic_id: str, reason: str = "Insufficient source text") -> None:
+-    with pyodbc.connect(conn) as sql:
+-        cur = sql.cursor()
+-        cur.execute("""
+-            UPDATE cme.subtopics
+-            SET status='concept_skipped', case_amenable=0, case_status='skipped'
+-            WHERE subtopic_id=?
+-        """, subtopic_id)
+-        sql.commit()
+-    logging.info("Subtopic %s marked skipped: %s", subtopic_id, reason)
+-# ── NEW: generic relevance + duplicate helpers ─────────────────────────────
+-STOPWORDS = {"and","or","the","a","an","to","of","for","in","on","with","by","as","from","into","using","use","vs","vs."}
+-def _norm(txt: str) -> str:
+-    return re.sub(r"[^a-z0-9]+", " ", (txt or "").lower()).strip()
+-def _kw(txt: str) -> list[str]:
+-    return [t for t in _norm(txt).split() if len(t) >= 3 and t not in STOPWORDS]
+-def _has_min_hits(text: str, sub_title: str, min_hits: int) -> bool:
+-    needles = set(_kw(sub_title))
+-    min_hits = min(min_hits, max(1, len(needles)))
+-    h = " " + _norm(text) + " "
+-    return sum(1 for n in needles if f" {n} " in h) >= min_hits
+-def _shingles(text: str, n: int = 5) -> set[str]:
+-    toks = _norm(text).split()
+-    return {" ".join(toks[i:i+n]) for i in range(len(toks)-n+1)} if len(toks) >= n else set()
+-def _jaccard(a: set[str], b: set[str]) -> float:
+-    return (len(a & b) / len(a | b)) if a and b else 0.0
+-
+-AZURE_OAI_ENDPOINT = "https://azure1405.openai.azure.com/"
+-AZURE_OAI_KEY = "CzrrWvXbsmYcNguU1SqBpE9HDhhbfYsbkq3UedythCYCV9zNQ4mLJQQJ99BEACHYHv6XJ3w3AAABACOGiIPm"
+-DEPLOYMENT = "gpt-4o"
+-AZURE_OAI_API_VERSION = "2024-02-15-preview"
+-
+-# ─────────────────── Azure-OpenAI client ────────────────────
+-oai = AzureOpenAI(
+-    api_key=AZURE_OAI_KEY,
+-    azure_endpoint=AZURE_OAI_ENDPOINT,
+-    api_version=AZURE_OAI_API_VERSION,
+-)
+-
+-
+-# ─────────────────── Helpers ────────────────────────────────
+-def _norm(txt: str) -> str:  # ASCII-fold to help GPT tokens
+-    return unicodedata.normalize("NFKD", txt).encode("ascii", "ignore").decode()
+-
+-
+-def _make_outline(subtopic_title: str) -> str:
+-    k = (subtopic_title or "").lower()
+-    
+-    # infection-specific slots
+-    if any(w in k for w in ("triage", "admission", "escalat")):
+-        return ("Admission & escalation criteria (vitals, dehydration, neuro, bleed); "
+-                "initial labs; stabilization steps; thresholds for PICU; discharge & review triggers")
+-    
+-    if any(w in k for w in ("persistent", "relapse", "failure", "deferv", "day 3", "day 5")):
+-        return ("Expected defervescence timeline; when treatment failure is suspected; "
+-                "stepwise work‑up (cultures/sensitivity/imaging); switch/extend therapy; follow‑up")
+-    
+-    if any(w in k for w in ("carrier", "clearance", "food handler")):
+-        return ("When to suspect carriage; stool culture schedule & clearance criteria; "
+-                "household/school precautions; public‑health reporting")
+-    
+-    if any(w in k for w in ("household", "outbreak", "contact")):
+-        return ("Who to screen/test; prophylaxis/vaccination guidance; sanitation & food/water hygiene; "
+-                "return precautions; community/outbreak reporting")
+-    
+-    if "complication" in k:
+-        return ("Early vs late complications; red-flag warning signs; "
+-                "pathophysiology in brief; bedside monitoring & escalation; "
+-                "definitive management and follow-up")
+-    
+-    if "diagnos" in k:
+-        return ("Core clinical features; key differentials; definitive tests "
+-                "(with typical sensitivity/specificity where stated); "
+-                "sampling pitfalls; interpretation dos & don'ts")
+-    
+-    if "treat" in k or "therap" in k:
+-        return ("First-line regimen with exact doses and durations as stated; "
+-                "alternatives for allergy/intolerance; MDR/XDR protocols; "
+-                "monitoring & adverse effects")
+-    
+-    if "vaccin" in k or "immun" in k:
+-        return ("Licensed vaccines (India); schedules; efficacy & waning; "
+-                "contraindications; catch-up and special groups")
+-    
+-    if "epidemiolog" in k or "burden" in k:
+-        return ("Burden; transmission; risk factors; sanitation/prevention "
+-                "messages for caregivers")
+-    
+-    # generic fallback
+-    return ("Key facts specific to this sub-topic only; practical points "
+-            "for bedside decision-making")
+-
+-
+-def _looks_clipped(txt: str) -> bool:
+-    """Heuristic: last char must be terminal punctuation; no hanging list markers/parentheses."""
+-    if txt and len(txt.strip()) < 400:
+-        return True
+-    
+-    t = txt.strip()
+-    if t[-1] not in ".!?":
+-        return True
+-    
+-    # obvious truncation patterns
+-    if re.search(r"(,\s*)?$", t[-3:]):
+-        return True
+-    
+-    if t.count("(") != t.count(")"):
+-        return True
+-    
+-    return False
+-
+-CASE_AMENABLE_MIN_CONF = int(os.getenv("CASE_AMENABLE_MIN_CONF", "55"))
+-CASE_MAX_FRACTION = float(os.getenv("CASE_MAX_FRACTION", "0.5"))  # ≤ half
+-CASE_BUDGET_STATUSES = ("pending", "ready", "verified")            # consume budget
+-CASE_REBALANCE_MAX_CANDIDATES = int(os.getenv("CASE_REBALANCE_MAX_CANDIDATES", "28"))
+-
+-def _coerce_confidence(x) -> int:
+-    """
+-    Coerce model 'confidence' into an int 0–100.
+-    Accepts ints, floats, '79', '79%', or '0.79' (interpreted as 79).
+-    """
+-    try:
+-        if isinstance(x, (int, float)):
+-            val = float(x)
+-        elif isinstance(x, str):
+-            import re
+-            m = re.search(r"(\d+(?:\.\d+)?)", x)
+-            if not m:
+-                return 0
+-            val = float(m.group(1))
+-        else:
+-            return 0
+-        if 0 <= val <= 1:
+-            val *= 100.0
+-        val = int(round(val))
+-        return max(0, min(100, val))
+-    except Exception:
+-        return 0
+-    
+-def _case_budget_limits(cur, topic_id: str) -> tuple[int, int]:
+-    """Return (cap, pinned_used) where 'pinned' = ready|verified."""
+-    cur.execute("SELECT COUNT(*) FROM cme.subtopics WHERE topic_id=?", topic_id)
+-    total = cur.fetchone()[0] or 0
+-    cap = max(0, int(total * CASE_MAX_FRACTION))
+-    cur.execute("""
+-        SELECT COUNT(*) FROM cme.subtopics
+-        WHERE topic_id=? AND case_status IN ('ready','verified')
+-    """, topic_id)
+-    pinned = cur.fetchone()[0] or 0
+-    return cap, pinned
+-
+-
+-def _rank_case_candidates_gpt(topic: str, items: list[dict], slots: int) -> list[str]:
+-    """
+-    items = [{"id": "...", "title": "...", "snippet": "first 350 chars of concept"}]
+-    Return list of subtopic_ids (length ≤ slots) in DESC priority.
+-    """
+-    schema = {"pick": ["..."], "why": "short note"}
+-    ask = {
+-        "role": "user",
+-        "content": (
+-            "Select up to N items that gain the MOST from a clinical case vignette.\n"
+-            "Prioritise decision-impact (apply/interpret): triage/disposition thresholds; diagnostic "
+-            "approach & data interpretation; treatment-failure & escalation; complications recognition "
+-            "& rescue; imaging/procedure thresholds; nuanced counselling.\n"
+-            "Down-rank static science (pathophysiology), basic epidemiology, generic prevention/education "
+-            "unless the snippet shows concrete decision points.\n"
+-            f"N={slots}\nITEMS=" + json.dumps(items, ensure_ascii=False) + "\n\n"
+-            "Return JSON only as " + json.dumps(schema)
+-        ),
+-    }
+-    if slots <= 0 or not items:
+-        return []
+-    try:
+-        rsp = oai.chat.completions.create(
+-            model=DEPLOYMENT,
+-            messages=[{"role": "system", "content": "Return JSON only."}, ask],
+-            temperature=0.2, max_tokens=700, response_format={"type": "json_object"},
+-        )
+-        out = json.loads(rsp.choices[0].message.content)
+-        picks = [p for p in (out.get("pick") or []) if isinstance(p, str)]
+-        return picks[:slots]
+-    except Exception:
+-        return []
+-
+-
+-def _rebalance_case_budget(topic_id: str, topic_name: str) -> list[str]:
+-    """
+-    Promote top-K amenable candidates to 'pending' based on ranked decision impact.
+-    Demote excess 'pending' (not ready/verified) back to 'candidate'.
+-    Returns list of subtopic_ids that were just promoted (caller will queue them).
+-    """
+-    promoted_now: list[str] = []
+-    with pyodbc.connect(conn) as sql:
+-        cur = sql.cursor()
+-
+-        # Limits
+-        cap, pinned = _case_budget_limits(cur, topic_id)
+-        avail = max(0, cap - pinned)
+-        if avail <= 0:
+-            # Demote any stray 'pending' not pinned
+-            cur.execute("""
+-                UPDATE cme.subtopics
+-                SET case_status='candidate'
+-                WHERE topic_id=? AND case_status='pending'
+-            """, topic_id)
+-            sql.commit()
+-            return []
+-
+-        # Gather pool: amenable candidates + pending (but not 'ready'/'verified')
+-        cur.execute("""
+-            SELECT s.subtopic_id, s.title
+-            FROM cme.subtopics s
+-            WHERE s.topic_id=? AND s.case_amenable=1 AND s.case_status IN ('candidate','pending')
+-        """, topic_id)
+-        rows = cur.fetchall()
+-        pool = [{"id": r.subtopic_id, "title": r.title} for r in rows]
+-
+-        # Attach short concept snippets
+-        items = []
+-        for p in pool[:CASE_REBALANCE_MAX_CANDIDATES]:
+-            cur.execute("""
+-                SELECT TOP 1 content FROM cme.concepts WHERE subtopic_id=? ORDER BY concept_id
+-            """, p["id"])
+-            crow = cur.fetchone()
+-            snippet = ((crow.content if crow else "") or "")[:350]
+-            items.append({"id": p["id"], "title": p["title"], "snippet": snippet})
+-
+-        winners = set(_rank_case_candidates_gpt(topic_name, items, avail))
+-
+-        # Promote winners; demote losers (only those not pinned/ready/verified)
+-        for p in pool:
+-            sid = p["id"]
+-            cur.execute("SELECT case_status FROM cme.subtopics WHERE subtopic_id=?", sid)
+-            status = (cur.fetchone()[0] or "").lower()
+-            if sid in winners:
+-                if status == "candidate":
+-                    cur.execute("UPDATE cme.subtopics SET case_status='pending' WHERE subtopic_id=?", sid)
+-                    promoted_now.append(sid)
+-            else:
+-                if status == "pending":
+-                    cur.execute("UPDATE cme.subtopics SET case_status='candidate' WHERE subtopic_id=?", sid)
+-
+-        sql.commit()
+-    return promoted_now
+-
+-def _case_budget_allows(cur, topic_id: str) -> tuple[bool, int, int]:
+-    """
+-    Return (allowed_now, used, cap) for the topic's case-study budget.
+-    used = count of subtopics already consuming the budget
+-    cap  = floor(total_subtopics * CASE_MAX_FRACTION)
+-    """
+-    # total subtopics for this topic
+-    cur.execute("SELECT COUNT(*) FROM cme.subtopics WHERE topic_id = ?", topic_id)
+-    total = cur.fetchone()[0] or 0
+-    cap = max(0, int(total * CASE_MAX_FRACTION))
+-
+-    # how many already consuming budget (i.e., not skipped)
+-    placeholders = ",".join("?" * len(CASE_BUDGET_STATUSES))
+-    cur.execute(f"""
+-        SELECT COUNT(*)
+-        FROM cme.subtopics
+-        WHERE topic_id = ?
+-          AND case_status IN ({placeholders})
+-    """, topic_id, *CASE_BUDGET_STATUSES)
+-    used = cur.fetchone()[0] or 0
+-
+-    return (used < cap), used, cap
+-
+-def _assess_case_amenable_gpt(topic: str, subtopic_title: str, concept_text: str) -> tuple[bool, int, dict]:
+-    """
+-    Use the LLM to decide if a short clinical case vignette adds learning value
+-    for THIS subtopic + concept. Returns (amenable: bool, confidence: 0-100, raw_json: dict).
+-
+-    Decision principle (model sees these rules):
+-    - TRUE if the subtopic benefits from applied reasoning: triage/disposition thresholds,
+-      algorithms, differential diagnosis, test interpretation, escalation/rescue, recognition of complications,
+-      dose/route adjustments, MDR/XDR branching, counselling with context, or any scenario where
+-      clinical data change the decision.
+-    - FALSE if static knowledge dominates: pure definitions, etiology/classification lists without actions,
+-      background epidemiology only, lab technique without patient context, product lists/schedules with no branching,
+-      admin/policy summaries, generic prevention messages without patient‑level decisions.
+-    - FALSE if concept text is too thin to support a meaningful, self‑contained vignette.
+-    """
+-
+-    ask = {
+-        "role": "user",
+-        "content": f"""
+-        Decide if a brief paediatric clinical case vignette would ADD learning value for this sub‑topic.
+-        Return ONLY a JSON object with these keys (no extra keys, no prose):
+-        "amenable": true|false,
+-        "confidence": integer 0–100 (NO "%" sign),
+-        "why": string ≤200 characters on learning gain/applicability,
+-        "suggested_case_focus": array of short strings (e.g., ["triage thresholds","data interpretation"])
+-
+-        Context
+-        ───────
+-        Topic: {topic}
+-        Sub‑topic: {subtopic_title}
+-        Concept (for context; do not invent new facts):
+-        {(concept_text or '')[:2500]}
+-        """.strip()
+-            }
+-
+-    try:
+-        rsp = oai.chat.completions.create(
+-            model=DEPLOYMENT,
+-            messages=[
+-                {"role": "system", "content": "You are a paediatrics curriculum editor. Return JSON only."},
+-                ask
+-            ],
+-            temperature=0.2,
+-            max_tokens=400,
+-            response_format={"type": "json_object"},
+-        )
+-        data = json.loads(rsp.choices[0].message.content)
+-        amen = True if data.get("amenable") is True else False
+-        conf = _coerce_confidence(data.get("confidence", 0))
+-        return amen, conf, data
+-    except Exception:
+-        import logging
+-        logging.exception("Case amenability check failed")
+-        # Be conservative and skip.
+-        return False, 0, {"amenable": False, "confidence": 0, "why": "AI call failed", "suggested_case_focus": []}
+-
+-def _call_gpt(topic: str, subtopic: str, snippets: list[str], disambiguation_hint: str = "") -> str:
+-    joined = "\n".join(snippets)[:MAX_CHARS]
+-    outline = _make_outline(subtopic)
+-    
+-    disambig_instruction = ""
+-    if disambiguation_hint:
+-        disambig_instruction = f"\n• DISAMBIGUATION: {disambiguation_hint}\n"
+-    
+-    user = f"""
+-Rewrite the SOURCE into a single coherent paragraph (≈250–350 words)
+-for paediatric post-graduates. You MUST:
+-• Preserve every named threshold, dose, duration, sensitivity/specificity value, and timing window verbatim if present.
+-• Remove bullets/odd markers; write complete sentences only.
+-• Organise content as: {outline}.
+-• Stay strictly within the sub-topic "{subtopic}"; no off-topic drift.
+-• Keep the framing strictly paediatric; exclude pregnancy/lactation/adult-only contexts unless explicitly present in the sub-topic title.
+-• If a required element in the outline is not present in SOURCE, write "Not specified in source." Do not invent content.
+-• Do NOT invent facts not present in source.{disambig_instruction}
+-— SOURCE TEXT —
+-{joined}
+-— END SOURCE —
+-""".strip()
+-    
+-    rsp = oai.chat.completions.create(
+-        model=DEPLOYMENT,
+-        temperature=0.35,
+-        max_tokens=900,
+-        messages=[
+-            {"role": "system", "content": "You are an expert paediatric writer."},
+-            {"role": "user", "content": user},
+-        ],
+-    )
+-    
+-    return rsp.choices[0].message.content.strip()
+-
+-NEIGHBOR_WINDOW = int(os.getenv("NEIGHBOR_WINDOW", "1"))
+-
+-def _expand_neighbors(source_ids: list[str]) -> list[str]:
+-    # collect ±1 neighbors of chunk-suffixed ids like "base_07"
+-    extra = []
+-    for sid in source_ids:
+-        m = re.match(r"^(.*?)[_\-](\d{2,})$", sid)
+-        if not m:
+-            continue
+-        base, idx = m.group(1), int(m.group(2))
+-        for d in range(-NEIGHBOR_WINDOW, NEIGHBOR_WINDOW + 1):
+-            if d == 0:
+-                continue
+-            j = idx + d
+-            if j >= 0:
+-                extra.append(f"{base}_{j:02d}")
+-    # keep originals first, then neighbors (dedup, preserve order)
+-    seen, out = set(), []
+-    for x in list(source_ids) + extra:
+-        if x not in seen:
+-            out.append(x); seen.add(x)
+-    return out
+-
+-# ─────────────────── Main entry ─────────────────────────────
+-# ─────────────────── Main entry ─────────────────────────────
+-def main(msg: func.QueueMessage) -> None:
+-    logging.info("generateConcept triggered")
+-    
+-    try:
+-        subtopic_id = json.loads(msg.get_body().decode())["subtopic_id"]
+-    except Exception:
+-        logging.error("Bad queue payload – expected {{'subtopic_id': …}}")
+-        return
+-    
+-    conn = "DRIVER={ODBC Driver 18 for SQL Server};SERVER=20.171.24.17;DATABASE=CME2;UID=new_root;PWD=japl@bJBYV77;Encrypt=no;TrustServerCertificate=yes;"
+-    
+-    # ① fetch titles + reference snippets
+-    with pyodbc.connect(conn) as sql:
+-        cur = sql.cursor()
+-        cur.execute("""
+-            SELECT t.topic_name, s.title, s.topic_id
+-            FROM cme.subtopics AS s
+-            JOIN cme.topics AS t ON t.topic_id = s.topic_id
+-            WHERE s.subtopic_id = ?
+-        """, subtopic_id)
+-        
+-        row = cur.fetchone()
+-        if not row:
+-            logging.error("Sub-topic %s not found", subtopic_id)
+-            return
+-        
+-        topic_name, sub_title, topic_id = row
+-        
+-        cur.execute("""
+-            SELECT TOP 5
+-                r.source_id,
+-                r.excerpt
+-            FROM cme.subtopic_references AS sr
+-            JOIN cme.[references] AS r ON r.reference_id = sr.reference_id
+-            WHERE sr.subtopic_id = ?
+-            ORDER BY sr.reference_id
+-        """, subtopic_id)
+-        
+-        rows = cur.fetchall()
+-        source_ids = [row.source_id for row in rows]
+-        excerpts = [ (row.excerpt or "").strip() for row in rows if getattr(row, "excerpt", None) ]
+-    
+-    # ② GPT call
+-    # ②A pull raw snippets (existing helper)
+-    raw_txt = _compose_concept(source_ids)
+-    MIN_SOURCE_CHARS = int(os.getenv("MIN_SOURCE_CHARS", "400"))
+-    SOFT_MIN_SOURCE_CHARS = int(os.getenv("SOFT_MIN_SOURCE_CHARS", "250"))  # ← NEW
+-    if not raw_txt or len(raw_txt) < MIN_SOURCE_CHARS:
+-        # try one *data* retry (neighbors)
+-        raw_txt2 = _compose_concept(_expand_neighbors(source_ids), max_chars=MAX_CHARS)
+-        if raw_txt2 and len(raw_txt2) > len(raw_txt or ""):
+-            raw_txt = raw_txt2
+-    # NEW: fall back to stitched DB excerpts if still short
+-    if (not raw_txt or len(raw_txt) < MIN_SOURCE_CHARS) and excerpts:
+-        stitched = "\n\n".join([e for e in excerpts if e])[:MAX_CHARS]
+-        if len(stitched) > len(raw_txt or ""):
+-            raw_txt = stitched
+-    # SOFT fallback: proceed if ≥ SOFT_MIN_SOURCE_CHARS; otherwise mark insufficient
+-    if not raw_txt or len(raw_txt) < SOFT_MIN_SOURCE_CHARS:
+-        _mark_insufficient(subtopic_id, reason=f"Source text < {SOFT_MIN_SOURCE_CHARS} chars (after fallbacks)")
+-        return
+-        
+-    # ②B ask GPT‑4o to rewrite cleanly
+-    paragraph = _call_gpt(topic_name, sub_title, [raw_txt])
+-    
+-    # ②C clipped? give GPT one more try to finish cleanly
+-    if _looks_clipped(paragraph):
+-        logging.warning("Concept looks clipped → retrying once with finish instruction")
+-        paragraph = _call_gpt(
+-            topic_name,
+-            sub_title,
+-            [raw_txt + "\n\n(Ensure the rewrite ends with a complete sentence and no hanging lists.)"],
+-        )
+-
+-    # ②D STRICT: if model failed → mark insufficient (no raw paste)
+-    if not paragraph or len(paragraph) < 400:
+-        logging.error("GPT rewrite failed for %s", subtopic_id)
+-        _mark_insufficient(subtopic_id, reason="Model rewrite too short")
+-        return
+-
+-    # ②E Relevance lint: ensure paragraph actually talks about the sub‑topic
+-    if not _has_min_hits(paragraph, sub_title, SUBTOK_MIN_HITS):
+-        logging.warning("Concept failed relevance lint for %s", subtopic_id)
+-        _mark_insufficient(subtopic_id, reason="Low lexical overlap with sub‑topic tokens")
+-        return
+-
+-    # ②F Near‑duplicate guard within same topic with regeneration attempt
+-    dup_of_subtopic_id = None
+-    with pyodbc.connect(conn) as sql_dups:
+-        cur2 = sql_dups.cursor()
+-        cur2.execute("""
+-         SELECT s.subtopic_id, s.title, c.content
+-         FROM cme.concepts c
+-         JOIN cme.subtopics s ON s.subtopic_id = c.subtopic_id
+-         WHERE s.topic_id = ? AND s.subtopic_id <> ?
+-     """, topic_id, subtopic_id)
+-        
+-        target_fp = _shingles(paragraph, n=5)
+-        closest_siblings = []
+-        
+-        for sib_id, sib_title, sib_text in cur2.fetchall():
+-            sim = _jaccard(target_fp, _shingles(sib_text or "", n=5))
+-            if sim >= DUP_SIM_THRESHOLD:
+-                closest_siblings.append((sim, sib_id, sib_title))
+-        
+-        if closest_siblings:
+-            # Sort by similarity (highest first) and take top 1-2
+-            closest_siblings.sort(reverse=True, key=lambda x: x[0])
+-            top_siblings = closest_siblings[:2]
+-            
+-            logging.warning(
+-                "Concept near‑duplicate detected (%.2f with '%s') → attempting disambiguation",
+-                top_siblings[0][0], top_siblings[0][2]
+-            )
+-            
+-            # Build disambiguation hint
+-            sibling_titles = ", ".join([f"'{sib[2]}'" for sib in top_siblings])
+-            unique_aspects = f"the unique aspects specific to '{sub_title}'"
+-            disambig_hint = f"Avoid overlap with {sibling_titles}; emphasize {unique_aspects} that distinguish this sub-topic from its siblings."
+-            
+-            # Regenerate with disambiguation
+-            paragraph_v2 = _call_gpt(topic_name, sub_title, [raw_txt], disambiguation_hint=disambig_hint)
+-            
+-            # Check if regeneration resolved the issue
+-            target_fp_v2 = _shingles(paragraph_v2, n=5)
+-            still_duplicate = False
+-            for sim_orig, sib_id, sib_title in top_siblings:
+-                cur2.execute("SELECT content FROM cme.concepts WHERE subtopic_id=?", sib_id)
+-                sib_row = cur2.fetchone()
+-                if sib_row:
+-                    sim_v2 = _jaccard(target_fp_v2, _shingles(sib_row.content or "", n=5))
+-                    if sim_v2 >= DUP_SIM_THRESHOLD:
+-                        still_duplicate = True
+-                        dup_of_subtopic_id = sib_id
+-                        logging.warning(
+-                            "After disambiguation, still near-duplicate (%.2f) with '%s' → storing with dup marker",
+-                            sim_v2, sib_title
+-                        )
+-                        break
+-            
+-            # Use the regenerated version regardless
+-            paragraph = paragraph_v2
+-            
+-            if not still_duplicate:
+-                logging.info("Disambiguation successful → no longer duplicate")
+-    
+-    # ③ insert + status update + next-queue(s)
+-    with pyodbc.connect(conn) as sql:
+-        cur = sql.cursor()
+-        
+-        # Store the concept with optional dup_of marker
+-        if dup_of_subtopic_id:
+-            # Option 1: Store in coverage_note
+-            cur.execute("""
+-                INSERT INTO cme.concepts (concept_id, subtopic_id, content, token_count, coverage_note, created_utc)
+-                VALUES (NEWID(), ?, ?, 0, ?, SYSUTCDATETIME())
+-            """, subtopic_id, paragraph, f"dup_of:{dup_of_subtopic_id}")
+-        else:
+-            cur.execute("""
+-                INSERT INTO cme.concepts (concept_id, subtopic_id, content, token_count, created_utc)
+-                VALUES (NEWID(), ?, ?, 0, SYSUTCDATETIME())
+-            """, subtopic_id, paragraph)
+-
+-        concept_text = paragraph
+-        
+-        # Decide case amenability via AI
+-        amen_raw, conf, details = _assess_case_amenable_gpt(topic_name, sub_title, concept_text)
+-        amen = bool(amen_raw and (conf >= CASE_AMENABLE_MIN_CONF))
+-        
+-        # Update subtopic with case amenability status
+-        if amen:
+-            cur.execute("""
+-                UPDATE cme.subtopics
+-                SET status='mcq_pending', case_amenable=1, case_status='candidate'
+-                WHERE subtopic_id=?
+-            """, subtopic_id)
+-        else:
+-            cur.execute("""
+-                UPDATE cme.subtopics
+-                SET status='mcq_pending', case_amenable=0, case_status='skipped'
+-                WHERE subtopic_id=?
+-            """, subtopic_id)
+-        
+-        # Commit DB writes before we enqueue follow-on work
+-        sql.commit()
+-    
+-    # ④ Rebalance case budget and queue messages
+-    promoted = _rebalance_case_budget(topic_id, topic_name)
+-    
+-    try:
+-        q = QueueClient.from_connection_string(os.environ["AzureWebJobsStorage"], "mcq-queue")
+-        q.send_message(json.dumps({"subtopic_id": subtopic_id}))
+-        
+-        if promoted:
+-            cq = QueueClient.from_connection_string(os.environ["AzureWebJobsStorage"], "case-queue")
+-            for sid in promoted:
+-                cq.send_message(json.dumps({"subtopic_id": sid}))
+-        
+-        if dup_of_subtopic_id:
+-            logging.info("Concept saved → mcq_pending; marked as duplicate of %s; case candidates rebalanced", dup_of_subtopic_id)
+-        else:
+-            logging.info("Concept saved → mcq_pending; case candidates rebalanced")
+-    except Exception as e:
+-        logging.error("Could not queue next tasks: %s", e)
+\ No newline at end of file
++from __future__ import annotations
++import logging, os, json, textwrap, unicodedata, re
++import azure.functions as func
++import pyodbc
++from openai import AzureOpenAI
++from azure.storage.queue import QueueClient
++from azure.core.credentials import AzureKeyCredential
++from azure.search.documents import SearchClient
++
++SEARCH_ENDPOINT = "https://basic-rag-sandbox.search.windows.net"
++SEARCH_ADMIN_KEY = "tuqRZ8A374Aw3wXKSTzOY6SEu6Ra8rOyhPgFEtcLpSAzSeBOByQL"
++INDEX_NAME = "pubert-demo-new"
++SEARCH_API_VERSION = "2025-05-01-preview"
++SEARCH_TOP_K = 12  # ↑ give GPT more material
++MAX_CHARS = 4500  # ↑ allow ~1.5× more source text
++DUP_SIM_THRESHOLD = float(os.getenv("CONCEPT_DUP_SIM_THRESHOLD", "0.92"))
++SUBTOK_MIN_HITS   = int(os.getenv("SUBTOK_MIN_HITS", "2"))
++conn = "DRIVER={ODBC Driver 18 for SQL Server};SERVER=20.171.24.17;DATABASE=CME2;UID=new_root;PWD=japl@bJBYV77;Encrypt=no;TrustServerCertificate=yes;"
++
++search_cli = SearchClient(
++    endpoint=os.environ.get("SEARCH_ENDPOINT", SEARCH_ENDPOINT),
++    index_name=os.environ.get("SEARCH_INDEX", INDEX_NAME),
++    credential=AzureKeyCredential(os.environ.get("SEARCH_ADMIN_KEY", SEARCH_ADMIN_KEY)),
++    api_version=os.environ.get("SEARCH_API_VERSION", SEARCH_API_VERSION),
++)
++
++
++
++
++# ───────────────────────── Azure Search (hierarchical fetch) ─────────────────────────
++_SEQ_RE = re.compile(r"^(\d+)([a-zA-Z]?)(?:\.(\d+))?$")
++
++
++def _escape_odata(s: str) -> str:
++    return (s or "").replace("'", "''")
++
++
++def _letter_rank(ch: str) -> int:
++    if not ch:
++        return 0
++    c = ch.lower()
++    if 'a' <= c <= 'z':
++        return ord(c) - ord('a') + 1
++    return 0
++
++
++def _sequence_key(seq: str) -> tuple:
++    s = (seq or '').strip()
++    m = _SEQ_RE.match(s)
++    if not m:
++        return (10**9, 10**9, 10**9, s)
++    major = int(m.group(1))
++    letter = _letter_rank(m.group(2) or '')
++    minor = int(m.group(3) or 0)
++    return (major, letter, minor, s)
++
++
++def _search_all(*, search_text: str, **kwargs) -> list[dict]:
++    """Collect all results for a query (paginated by skip/top)."""
++    out: list[dict] = []
++    skip = 0
++    top = int(kwargs.pop('top', 1000) or 1000)
++    while True:
++        results = search_cli.search(search_text=search_text, top=top, skip=skip, **kwargs)
++        batch = list(results)
++        if not batch:
++            break
++        out.extend(batch)
++        if len(batch) < top:
++            break
++        skip += len(batch)
++        if skip > 100000:
++            break
++    return out
++
++
++def _fetch_index_docs(topic_name: str, sub_title: str) -> list[dict]:
++    """Fetch ALL chunks for (topic, subtopic) from Azure Search, including sub-subtopics."""
++    select = [
++        'id', 'content', 'topic', 'subtopic', 'sub_subtopic',
++        'heading_path', 'sequence', 'chunk_index', 'total_chunks'
++    ]
++    filt = f"topic eq '{_escape_odata(topic_name)}' and subtopic eq '{_escape_odata(sub_title)}'"
++    docs = _search_all(search_text='*', filter=filt, select=select, top=1000)
++
++    # Fallback if DB topic_name differs from index casing or wording
++    if not docs:
++        filt2 = f"subtopic eq '{_escape_odata(sub_title)}'"
++        docs2 = _search_all(search_text=topic_name, filter=filt2, select=select, top=250)
++        if docs2:
++            freq: dict[str, int] = {}
++            for d in docs2:
++                t = (d.get('topic') or '').strip()
++                if t:
++                    freq[t] = freq.get(t, 0) + 1
++            if freq:
++                best_topic = max(freq.items(), key=lambda kv: kv[1])[0]
++                filt3 = f"topic eq '{_escape_odata(best_topic)}' and subtopic eq '{_escape_odata(sub_title)}'"
++                docs = _search_all(search_text='*', filter=filt3, select=select, top=1000)
++
++    # Stable ordering: sequence, heading_path, sub_subtopic, chunk_index
++    def doc_key(d: dict):
++        return (
++            _sequence_key(d.get('sequence') or ''),
++            (d.get('heading_path') or ''),
++            (d.get('sub_subtopic') or ''),
++            int(d.get('chunk_index') or 0),
++            (d.get('id') or '')
++        )
++    docs.sort(key=doc_key)
++    return docs
++
++
++def _compose_concept_from_index(docs: list[dict], max_chars: int = MAX_CHARS) -> str:
++    """Merge hierarchical chunks into a single raw source string for GPT rewriting."""
++    if not docs:
++        return ''
++
++    # group by sub_subtopic (empty grouped first)
++    grouped: dict[str, list[str]] = {}
++    for d in docs:
++        key = (d.get('sub_subtopic') or '').strip()
++        grouped.setdefault(key, []).append((d.get('content') or '').strip())
++
++    blocks: list[str] = []
++    # Keep empty group first, then alpha
++    keys = sorted(grouped.keys(), key=lambda k: (1 if k else 0, k.lower()))
++    for k in keys:
++        parts = [p for p in grouped[k] if p]
++        if not parts:
++            continue
++        joined = "\n\n".join(parts)
++        if k:
++            blocks.append(f"SUB-SUBTOPIC: {k}\n{joined}")
++        else:
++            blocks.append(joined)
++
++    out = "\n\n".join(blocks).strip()
++    return out[:max_chars]
++def _compose_concept(source_ids: list[str], max_chars=MAX_CHARS) -> str:
++    parts = []
++    for sid in source_ids[:12]:  # allow more chunks but same corpus
++        try:
++            doc = search_cli.get_document(sid)
++            if (txt := (doc.get("content") or "").strip()):
++                parts.append(txt)
++        except Exception:
++            pass
++        if sum(len(p) for p in parts) >= max_chars:
++            break
++    return ("\n\n".join(parts))[:max_chars].strip()
++def _mark_insufficient(subtopic_id: str, reason: str = "Insufficient source text") -> None:
++    with pyodbc.connect(conn) as sql:
++        cur = sql.cursor()
++        cur.execute("""
++            UPDATE cme.subtopics
++            SET status='concept_skipped', case_amenable=0, case_status='skipped'
++            WHERE subtopic_id=?
++        """, subtopic_id)
++        sql.commit()
++    logging.info("Subtopic %s marked skipped: %s", subtopic_id, reason)
++# ── NEW: generic relevance + duplicate helpers ─────────────────────────────
++STOPWORDS = {"and","or","the","a","an","to","of","for","in","on","with","by","as","from","into","using","use","vs","vs."}
++def _norm(txt: str) -> str:
++    return re.sub(r"[^a-z0-9]+", " ", (txt or "").lower()).strip()
++def _kw(txt: str) -> list[str]:
++    return [t for t in _norm(txt).split() if len(t) >= 3 and t not in STOPWORDS]
++def _has_min_hits(text: str, sub_title: str, min_hits: int) -> bool:
++    needles = set(_kw(sub_title))
++    min_hits = min(min_hits, max(1, len(needles)))
++    h = " " + _norm(text) + " "
++    return sum(1 for n in needles if f" {n} " in h) >= min_hits
++def _shingles(text: str, n: int = 5) -> set[str]:
++    toks = _norm(text).split()
++    return {" ".join(toks[i:i+n]) for i in range(len(toks)-n+1)} if len(toks) >= n else set()
++def _jaccard(a: set[str], b: set[str]) -> float:
++    return (len(a & b) / len(a | b)) if a and b else 0.0
++
++AZURE_OAI_ENDPOINT = "https://azure1405.openai.azure.com/"
++AZURE_OAI_KEY = "CzrrWvXbsmYcNguU1SqBpE9HDhhbfYsbkq3UedythCYCV9zNQ4mLJQQJ99BEACHYHv6XJ3w3AAABACOGiIPm"
++DEPLOYMENT = "gpt-4o"
++AZURE_OAI_API_VERSION = "2024-02-15-preview"
++
++# ─────────────────── Azure-OpenAI client ────────────────────
++oai = AzureOpenAI(
++    api_key=AZURE_OAI_KEY,
++    azure_endpoint=AZURE_OAI_ENDPOINT,
++    api_version=AZURE_OAI_API_VERSION,
++)
++
++
++# ─────────────────── Helpers ────────────────────────────────
++def _ascii_fold(txt: str) -> str:  # ASCII-fold to help GPT tokens
++    return unicodedata.normalize("NFKD", txt).encode("ascii", "ignore").decode()
++
++
++def _make_outline(subtopic_title: str) -> str:
++    k = (subtopic_title or "").lower()
++    
++    # infection-specific slots
++    if any(w in k for w in ("triage", "admission", "escalat")):
++        return ("Admission & escalation criteria (vitals, dehydration, neuro, bleed); "
++                "initial labs; stabilization steps; thresholds for PICU; discharge & review triggers")
++    
++    if any(w in k for w in ("persistent", "relapse", "failure", "deferv", "day 3", "day 5")):
++        return ("Expected defervescence timeline; when treatment failure is suspected; "
++                "stepwise work‑up (cultures/sensitivity/imaging); switch/extend therapy; follow‑up")
++    
++    if any(w in k for w in ("carrier", "clearance", "food handler")):
++        return ("When to suspect carriage; stool culture schedule & clearance criteria; "
++                "household/school precautions; public‑health reporting")
++    
++    if any(w in k for w in ("household", "outbreak", "contact")):
++        return ("Who to screen/test; prophylaxis/vaccination guidance; sanitation & food/water hygiene; "
++                "return precautions; community/outbreak reporting")
++    
++    if "complication" in k:
++        return ("Early vs late complications; red-flag warning signs; "
++                "pathophysiology in brief; bedside monitoring & escalation; "
++                "definitive management and follow-up")
++    
++    if "diagnos" in k:
++        return ("Core clinical features; key differentials; definitive tests "
++                "(with typical sensitivity/specificity where stated); "
++                "sampling pitfalls; interpretation dos & don'ts")
++    
++    if "treat" in k or "therap" in k:
++        return ("First-line regimen with exact doses and durations as stated; "
++                "alternatives for allergy/intolerance; MDR/XDR protocols; "
++                "monitoring & adverse effects")
++    
++    if "vaccin" in k or "immun" in k:
++        return ("Licensed vaccines (India); schedules; efficacy & waning; "
++                "contraindications; catch-up and special groups")
++    
++    if "epidemiolog" in k or "burden" in k:
++        return ("Burden; transmission; risk factors; sanitation/prevention "
++                "messages for caregivers")
++    
++    # generic fallback
++    return ("Key facts specific to this sub-topic only; practical points "
++            "for bedside decision-making")
++
++
++def _looks_clipped(txt: str) -> bool:
++    """Heuristic: last char must be terminal punctuation; no hanging list markers/parentheses."""
++    if txt and len(txt.strip()) < 400:
++        return True
++    
++    t = txt.strip()
++    if t[-1] not in ".!?":
++        return True
++    
++    # obvious truncation patterns
++    if re.search(r"(,\s*)?$", t[-3:]):
++        return True
++    
++    if t.count("(") != t.count(")"):
++        return True
++    
++    return False
++
++CASE_AMENABLE_MIN_CONF = int(os.getenv("CASE_AMENABLE_MIN_CONF", "55"))
++CASE_MAX_FRACTION = float(os.getenv("CASE_MAX_FRACTION", "0.5"))  # ≤ half
++CASE_BUDGET_STATUSES = ("pending", "ready", "verified")            # consume budget
++CASE_REBALANCE_MAX_CANDIDATES = int(os.getenv("CASE_REBALANCE_MAX_CANDIDATES", "28"))
++
++def _coerce_confidence(x) -> int:
++    """
++    Coerce model 'confidence' into an int 0–100.
++    Accepts ints, floats, '79', '79%', or '0.79' (interpreted as 79).
++    """
++    try:
++        if isinstance(x, (int, float)):
++            val = float(x)
++        elif isinstance(x, str):
++            import re
++            m = re.search(r"(\d+(?:\.\d+)?)", x)
++            if not m:
++                return 0
++            val = float(m.group(1))
++        else:
++            return 0
++        if 0 <= val <= 1:
++            val *= 100.0
++        val = int(round(val))
++        return max(0, min(100, val))
++    except Exception:
++        return 0
++    
++def _case_budget_limits(cur, topic_id: str) -> tuple[int, int]:
++    """Return (cap, pinned_used).
++
++    Pinned means:
++    - subtopics already marked ready/verified, OR
++    - subtopics that already have at least one case row (e.g., vignette-ingested)
++
++    This prevents the case-budget rebalance from demoting or re-selecting subtopics
++    that already carry case content.
++    """
++    cur.execute("SELECT COUNT(*) FROM cme.subtopics WHERE topic_id=?", topic_id)
++    total = cur.fetchone()[0] or 0
++    cap = max(0, int(total * CASE_MAX_FRACTION))
++
++    cur.execute("""
++        SELECT COUNT(DISTINCT s.subtopic_id)
++        FROM cme.subtopics s
++        LEFT JOIN cme.cases cs ON cs.subtopic_id = s.subtopic_id
++        WHERE s.topic_id=?
++          AND (s.case_status IN ('ready','verified') OR cs.case_id IS NOT NULL)
++    """, topic_id)
++    pinned = cur.fetchone()[0] or 0
++    return cap, pinned
++
++
++def _rank_case_candidates_gpt(topic: str, items: list[dict], slots: int) -> list[str]:
++    """
++    items = [{"id": "...", "title": "...", "snippet": "first 350 chars of concept"}]
++    Return list of subtopic_ids (length ≤ slots) in DESC priority.
++    """
++    schema = {"pick": ["..."], "why": "short note"}
++    ask = {
++        "role": "user",
++        "content": (
++            "Select up to N items that gain the MOST from a clinical case vignette.\n"
++            "Prioritise decision-impact (apply/interpret): triage/disposition thresholds; diagnostic "
++            "approach & data interpretation; treatment-failure & escalation; complications recognition "
++            "& rescue; imaging/procedure thresholds; nuanced counselling.\n"
++            "Down-rank static science (pathophysiology), basic epidemiology, generic prevention/education "
++            "unless the snippet shows concrete decision points.\n"
++            f"N={slots}\nITEMS=" + json.dumps(items, ensure_ascii=False) + "\n\n"
++            "Return JSON only as " + json.dumps(schema)
++        ),
++    }
++    if slots <= 0 or not items:
++        return []
++    try:
++        rsp = oai.chat.completions.create(
++            model=DEPLOYMENT,
++            messages=[{"role": "system", "content": "Return JSON only."}, ask],
++            temperature=0.2, max_tokens=700, response_format={"type": "json_object"},
++        )
++        out = json.loads(rsp.choices[0].message.content)
++        picks = [p for p in (out.get("pick") or []) if isinstance(p, str)]
++        return picks[:slots]
++    except Exception:
++        return []
++
++
++def _rebalance_case_budget(topic_id: str, topic_name: str) -> list[str]:
++    """Promote top-K amenable candidates to 'pending' based on ranked decision impact.
++
++    IMPORTANT: subtopics that already have any case rows (e.g., vignette-ingested) are
++    treated as pinned and are excluded from both promotion and demotion.
++
++    Returns list of subtopic_ids that were just promoted (caller will queue them).
++    """
++    promoted_now: list[str] = []
++    with pyodbc.connect(conn) as sql:
++        cur = sql.cursor()
++
++        cap, pinned = _case_budget_limits(cur, topic_id)
++        avail = max(0, cap - pinned)
++        if avail <= 0:
++            # Demote any stray 'pending' that do not already have cases
++            cur.execute("""
++                UPDATE s
++                SET s.case_status='candidate'
++                FROM cme.subtopics s
++                WHERE s.topic_id=?
++                  AND s.case_status='pending'
++                  AND NOT EXISTS (SELECT 1 FROM cme.cases cs WHERE cs.subtopic_id = s.subtopic_id)
++            """, topic_id)
++            sql.commit()
++            return []
++
++        # Candidate pool: amenable candidates/pending WITHOUT existing cases
++        cur.execute("""
++            SELECT s.subtopic_id, s.title
++            FROM cme.subtopics s
++            WHERE s.topic_id=?
++              AND s.case_amenable=1
++              AND s.case_status IN ('candidate','pending')
++              AND NOT EXISTS (SELECT 1 FROM cme.cases cs WHERE cs.subtopic_id = s.subtopic_id)
++        """, topic_id)
++        rows = cur.fetchall()
++        pool = [{"id": r.subtopic_id, "title": r.title} for r in rows]
++
++        # Attach short concept snippets
++        items = []
++        for p in pool[:CASE_REBALANCE_MAX_CANDIDATES]:
++            cur.execute("""
++                SELECT TOP 1 content FROM cme.concepts WHERE subtopic_id=? ORDER BY concept_id
++            """, p["id"])
++            crow = cur.fetchone()
++            snippet = ((crow.content if crow else "") or "")[:350]
++            items.append({"id": p["id"], "title": p["title"], "snippet": snippet})
++
++        winners = set(_rank_case_candidates_gpt(topic_name, items, avail))
++
++        # Promote winners; demote losers (only those without existing cases)
++        for p in pool:
++            sid = p["id"]
++            cur.execute("SELECT case_status FROM cme.subtopics WHERE subtopic_id=?", sid)
++            status = (cur.fetchone()[0] or "").lower()
++            if sid in winners:
++                if status == "candidate":
++                    cur.execute("UPDATE cme.subtopics SET case_status='pending' WHERE subtopic_id=?", sid)
++                    promoted_now.append(sid)
++            else:
++                if status == "pending":
++                    cur.execute("UPDATE cme.subtopics SET case_status='candidate' WHERE subtopic_id=?", sid)
++
++        sql.commit()
++    return promoted_now
++
++
++def _case_budget_allows(cur, topic_id: str) -> tuple[bool, int, int]:
++    """
++    Return (allowed_now, used, cap) for the topic's case-study budget.
++    used = count of subtopics already consuming the budget
++    cap  = floor(total_subtopics * CASE_MAX_FRACTION)
++    """
++    # total subtopics for this topic
++    cur.execute("SELECT COUNT(*) FROM cme.subtopics WHERE topic_id = ?", topic_id)
++    total = cur.fetchone()[0] or 0
++    cap = max(0, int(total * CASE_MAX_FRACTION))
++
++    # how many already consuming budget (i.e., not skipped)
++    placeholders = ",".join("?" * len(CASE_BUDGET_STATUSES))
++    cur.execute(f"""
++        SELECT COUNT(*)
++        FROM cme.subtopics
++        WHERE topic_id = ?
++          AND case_status IN ({placeholders})
++    """, topic_id, *CASE_BUDGET_STATUSES)
++    used = cur.fetchone()[0] or 0
++
++    return (used < cap), used, cap
++
++def _assess_case_amenable_gpt(topic: str, subtopic_title: str, concept_text: str) -> tuple[bool, int, dict]:
++    """
++    Use the LLM to decide if a short clinical case vignette adds learning value
++    for THIS subtopic + concept. Returns (amenable: bool, confidence: 0-100, raw_json: dict).
++
++    Decision principle (model sees these rules):
++    - TRUE if the subtopic benefits from applied reasoning: triage/disposition thresholds,
++      algorithms, differential diagnosis, test interpretation, escalation/rescue, recognition of complications,
++      dose/route adjustments, MDR/XDR branching, counselling with context, or any scenario where
++      clinical data change the decision.
++    - FALSE if static knowledge dominates: pure definitions, etiology/classification lists without actions,
++      background epidemiology only, lab technique without patient context, product lists/schedules with no branching,
++      admin/policy summaries, generic prevention messages without patient‑level decisions.
++    - FALSE if concept text is too thin to support a meaningful, self‑contained vignette.
++    """
++
++    ask = {
++        "role": "user",
++        "content": f"""
++        Decide if a brief paediatric clinical case vignette would ADD learning value for this sub‑topic.
++        Return ONLY a JSON object with these keys (no extra keys, no prose):
++        "amenable": true|false,
++        "confidence": integer 0–100 (NO "%" sign),
++        "why": string ≤200 characters on learning gain/applicability,
++        "suggested_case_focus": array of short strings (e.g., ["triage thresholds","data interpretation"])
++
++        Context
++        ───────
++        Topic: {topic}
++        Sub‑topic: {subtopic_title}
++        Concept (for context; do not invent new facts):
++        {(concept_text or '')[:2500]}
++        """.strip()
++            }
++
++    try:
++        rsp = oai.chat.completions.create(
++            model=DEPLOYMENT,
++            messages=[
++                {"role": "system", "content": "You are a paediatrics curriculum editor. Return JSON only."},
++                ask
++            ],
++            temperature=0.2,
++            max_tokens=400,
++            response_format={"type": "json_object"},
++        )
++        data = json.loads(rsp.choices[0].message.content)
++        amen = True if data.get("amenable") is True else False
++        conf = _coerce_confidence(data.get("confidence", 0))
++        return amen, conf, data
++    except Exception:
++        import logging
++        logging.exception("Case amenability check failed")
++        # Be conservative and skip.
++        return False, 0, {"amenable": False, "confidence": 0, "why": "AI call failed", "suggested_case_focus": []}
++
++def _call_gpt(topic: str, subtopic: str, snippets: list[str], disambiguation_hint: str = "") -> str:
++    joined = "\n".join(snippets)[:MAX_CHARS]
++    outline = _make_outline(subtopic)
++    
++    disambig_instruction = ""
++    if disambiguation_hint:
++        disambig_instruction = f"\n• DISAMBIGUATION: {disambiguation_hint}\n"
++    
++    user = f"""
++Rewrite the SOURCE into a single coherent paragraph (≈250–350 words)
++for paediatric post-graduates. You MUST:
++• Preserve every named threshold, dose, duration, sensitivity/specificity value, and timing window verbatim if present.
++• Remove bullets/odd markers; write complete sentences only.
++• Organise content as: {outline}.
++• Stay strictly within the sub-topic "{subtopic}"; no off-topic drift.
++• Keep the framing strictly paediatric; exclude pregnancy/lactation/adult-only contexts unless explicitly present in the sub-topic title.
++• If a required element in the outline is not present in SOURCE, write "Not specified in source." Do not invent content.
++• Do NOT invent facts not present in source.{disambig_instruction}
++— SOURCE TEXT —
++{joined}
++— END SOURCE —
++""".strip()
++    
++    rsp = oai.chat.completions.create(
++        model=DEPLOYMENT,
++        temperature=0.35,
++        max_tokens=900,
++        messages=[
++            {"role": "system", "content": "You are an expert paediatric writer."},
++            {"role": "user", "content": user},
++        ],
++    )
++    
++    return rsp.choices[0].message.content.strip()
++
++NEIGHBOR_WINDOW = int(os.getenv("NEIGHBOR_WINDOW", "1"))
++
++def _expand_neighbors(source_ids: list[str]) -> list[str]:
++    # collect ±1 neighbors of chunk-suffixed ids like "base_07"
++    extra = []
++    for sid in source_ids:
++        m = re.match(r"^(.*?)[_\-](\d{2,})$", sid)
++        if not m:
++            continue
++        base, idx = m.group(1), int(m.group(2))
++        for d in range(-NEIGHBOR_WINDOW, NEIGHBOR_WINDOW + 1):
++            if d == 0:
++                continue
++            j = idx + d
++            if j >= 0:
++                extra.append(f"{base}_{j:02d}")
++    # keep originals first, then neighbors (dedup, preserve order)
++    seen, out = set(), []
++    for x in list(source_ids) + extra:
++        if x not in seen:
++            out.append(x); seen.add(x)
++    return out
++
++# ─────────────────── Main entry ─────────────────────────────
++# ─────────────────── Main entry ─────────────────────────────
++def main(msg: func.QueueMessage) -> None:
++    logging.info("generateConcept triggered")
++
++    try:
++        subtopic_id = json.loads(msg.get_body().decode())["subtopic_id"]
++    except Exception:
++        logging.error("Bad queue payload - expected {'subtopic_id': ...}")
++        return
++
++    # 1) fetch titles
++    with pyodbc.connect(conn) as sql:
++        cur = sql.cursor()
++        cur.execute("""
++            SELECT t.topic_name, s.title, s.topic_id
++            FROM cme.subtopics AS s
++            JOIN cme.topics AS t ON t.topic_id = s.topic_id
++            WHERE s.subtopic_id = ?
++        """, subtopic_id)
++        row = cur.fetchone()
++        if not row:
++            logging.error("Sub-topic %s not found", subtopic_id)
++            return
++        topic_name, sub_title, topic_id = row
++
++        cur.execute("SELECT COUNT(*) FROM cme.cases WHERE subtopic_id=?", subtopic_id)
++        existing_case_count = cur.fetchone()[0] or 0
++
++    # 2) Pull raw hierarchical content from Azure Search by (topic, subtopic)
++    docs = _fetch_index_docs(topic_name, sub_title)
++    raw_txt = _compose_concept_from_index(docs, max_chars=MAX_CHARS)
++
++    MIN_SOURCE_CHARS = int(os.getenv("MIN_SOURCE_CHARS", "400"))
++    SOFT_MIN_SOURCE_CHARS = int(os.getenv("SOFT_MIN_SOURCE_CHARS", "250"))
++
++    if (not raw_txt or len(raw_txt) < SOFT_MIN_SOURCE_CHARS):
++        _mark_insufficient(subtopic_id, reason=f"Source text < {SOFT_MIN_SOURCE_CHARS} chars (index fetch)")
++        return
++
++    # 3) Ask GPT to rewrite cleanly
++    paragraph = _call_gpt(topic_name, sub_title, [raw_txt])
++
++    if _looks_clipped(paragraph):
++        logging.warning("Concept looks clipped -> retrying once with finish instruction")
++        paragraph = _call_gpt(
++            topic_name,
++            sub_title,
++            [raw_txt + "\n\n(Ensure the rewrite ends with a complete sentence and no hanging lists.)"],
++        )
++
++    if not paragraph or len(paragraph) < 400:
++        logging.error("GPT rewrite failed for %s", subtopic_id)
++        _mark_insufficient(subtopic_id, reason="Model rewrite too short")
++        return
++
++    # 4) Relevance lint
++    if not _has_min_hits(paragraph, sub_title, SUBTOK_MIN_HITS):
++        logging.warning("Concept failed relevance lint for %s", subtopic_id)
++        _mark_insufficient(subtopic_id, reason="Low lexical overlap with sub-topic tokens")
++        return
++
++    # 5) Near-duplicate guard within same topic with regeneration attempt
++    dup_of_subtopic_id = None
++    with pyodbc.connect(conn) as sql_dups:
++        cur2 = sql_dups.cursor()
++        cur2.execute("""
++            SELECT s.subtopic_id, s.title, c.content
++            FROM cme.concepts c
++            JOIN cme.subtopics s ON s.subtopic_id = c.subtopic_id
++            WHERE s.topic_id = ? AND s.subtopic_id <> ?
++        """, topic_id, subtopic_id)
++
++        target_fp = _shingles(paragraph, n=5)
++        closest_siblings = []
++
++        for sib_id, sib_title, sib_text in cur2.fetchall():
++            sim = _jaccard(target_fp, _shingles(sib_text or "", n=5))
++            if sim >= DUP_SIM_THRESHOLD:
++                closest_siblings.append((sim, sib_id, sib_title))
++
++        if closest_siblings:
++            closest_siblings.sort(reverse=True, key=lambda x: x[0])
++            top_siblings = closest_siblings[:2]
++
++            logging.warning(
++                "Concept near-duplicate detected (%.2f with '%s') -> attempting disambiguation",
++                top_siblings[0][0], top_siblings[0][2]
++            )
++
++            sibling_titles = ", ".join([f"'{sib[2]}'" for sib in top_siblings])
++            disambig_hint = (
++                f"Avoid overlap with {sibling_titles}; emphasize the unique aspects specific to '{sub_title}'."
++            )
++
++            paragraph_v2 = _call_gpt(topic_name, sub_title, [raw_txt], disambiguation_hint=disambig_hint)
++
++            target_fp_v2 = _shingles(paragraph_v2, n=5)
++            still_duplicate = False
++            for sim_orig, sib_id, sib_title in top_siblings:
++                cur2.execute("SELECT content FROM cme.concepts WHERE subtopic_id=?", sib_id)
++                sib_row = cur2.fetchone()
++                if sib_row:
++                    sim_v2 = _jaccard(target_fp_v2, _shingles(sib_row.content or "", n=5))
++                    if sim_v2 >= DUP_SIM_THRESHOLD:
++                        still_duplicate = True
++                        dup_of_subtopic_id = sib_id
++                        logging.warning(
++                            "After disambiguation, still near-duplicate (%.2f) with '%s'",
++                            sim_v2, sib_title
++                        )
++                        break
++
++            paragraph = paragraph_v2
++
++    # 6) insert + status update + next-queue(s)
++    with pyodbc.connect(conn) as sql:
++        cur = sql.cursor()
++
++        if dup_of_subtopic_id:
++            cur.execute("""
++                INSERT INTO cme.concepts (concept_id, subtopic_id, content, token_count, coverage_note, created_utc)
++                VALUES (NEWID(), ?, ?, 0, ?, SYSUTCDATETIME())
++            """, subtopic_id, paragraph, f"dup_of:{dup_of_subtopic_id}")
++        else:
++            cur.execute("""
++                INSERT INTO cme.concepts (concept_id, subtopic_id, content, token_count, created_utc)
++                VALUES (NEWID(), ?, ?, 0, SYSUTCDATETIME())
++            """, subtopic_id, paragraph)
++
++        concept_text = paragraph
++
++        # Case-amenability: preserve vignette-ingested cases
++        if existing_case_count > 0:
++            cur.execute("""
++                UPDATE cme.subtopics
++                SET status='mcq_pending', case_amenable=1,
++                    case_status = CASE
++                        WHEN case_status IN ('ready','verified','failed','skipped') THEN case_status
++                        ELSE 'pending'
++                    END
++                WHERE subtopic_id=?
++            """, subtopic_id)
++        else:
++            amen_raw, conf, details = _assess_case_amenable_gpt(topic_name, sub_title, concept_text)
++            amen = bool(amen_raw and (conf >= CASE_AMENABLE_MIN_CONF))
++
++            if amen:
++                cur.execute("""
++                    UPDATE cme.subtopics
++                    SET status='mcq_pending', case_amenable=1, case_status='candidate'
++                    WHERE subtopic_id=?
++                """, subtopic_id)
++            else:
++                cur.execute("""
++                    UPDATE cme.subtopics
++                    SET status='mcq_pending', case_amenable=0, case_status='skipped'
++                    WHERE subtopic_id=?
++                """, subtopic_id)
++
++        sql.commit()
++
++    # 7) Rebalance case budget and queue messages
++    promoted = _rebalance_case_budget(topic_id, topic_name)
++
++    try:
++        q = QueueClient.from_connection_string(os.environ["AzureWebJobsStorage"], "mcq-queue")
++        q.send_message(json.dumps({"subtopic_id": subtopic_id}))
++
++        if promoted:
++            cq = QueueClient.from_connection_string(os.environ["AzureWebJobsStorage"], "case-queue")
++            for sid in promoted:
++                cq.send_message(json.dumps({"subtopic_id": sid}))
++
++        if dup_of_subtopic_id:
++            logging.info("Concept saved -> mcq_pending; marked duplicate of %s; case candidates rebalanced", dup_of_subtopic_id)
++        else:
++            logging.info("Concept saved -> mcq_pending; case candidates rebalanced")
++    except Exception as e:
++        logging.error("Could not queue next tasks: %s", e)
+--- a/studyplanapp2/generateCase/__init__.py
++++ b/studyplanapp2/generateCase/__init__.py
+@@ -1,136 +1,164 @@
+-# studyplan-pipeline/generateCase/__init__.py
+-from __future__ import annotations
+-import json, logging, os, re, uuid
+-import azure.functions as func
+-import pyodbc
+-from openai import AzureOpenAI
+-from azure.storage.queue import QueueClient
+-
+-DB = "DRIVER={ODBC Driver 18 for SQL Server};SERVER=20.171.24.17;DATABASE=CME2;UID=new_root;PWD=japl@bJBYV77;Encrypt=no;TrustServerCertificate=yes;"
+-
+-AZURE_OAI_ENDPOINT = "https://azure1405.openai.azure.com/"
+-AZURE_OAI_KEY = "CzrrWvXbsmYcNguU1SqBpE9HDhhbfYsbkq3UedythCYCV9zNQ4mLJQQJ99BEACHYHv6XJ3w3AAABACOGiIPm"
+-DEPLOYMENT = "gpt-4o"
+-AZURE_OAI_API_VERSION = "2024-02-15-preview"
+-
+-# ─────────────────── Azure-OpenAI client ────────────────────
+-oai = AzureOpenAI(
+-    api_key=AZURE_OAI_KEY,
+-    azure_endpoint=AZURE_OAI_ENDPOINT,
+-    api_version=AZURE_OAI_API_VERSION,
+-)
+-
+-DEPLOYMENT = os.environ.get("DEPLOYMENT", "gpt-4o")
+-
+-def _wc(s: str) -> int:
+-    return len(re.findall(r"\b\w+\b", s or ""))
+-
+-def main(msg: func.QueueMessage) -> None:
+-    logging.info("generateCase triggered")
+-    
+-    try:
+-        subtopic_id = json.loads(msg.get_body().decode())["subtopic_id"]
+-    except Exception:
+-        logging.error("Bad queue payload – expected {'subtopic_id': ...}")
+-        return
+-
+-    with pyodbc.connect(DB) as con:
+-        cur = con.cursor()
+-        cur.execute("SELECT case_status FROM cme.subtopics WHERE subtopic_id=?", subtopic_id)
+-        cstat = (cur.fetchone()[0] or "").lower()
+-        if cstat != "pending":
+-            logging.info("Case generation skipped: subtopic %s is no longer pending (status=%s)",
+-                        subtopic_id, cstat)
+-            return
+-        cur.execute("""
+-            SELECT t.topic_name, s.title, s.case_amenable
+-            FROM cme.subtopics s
+-            JOIN cme.topics t ON t.topic_id = s.topic_id
+-            WHERE s.subtopic_id = ?""", subtopic_id)
+-        
+-        row = cur.fetchone()
+-        if not row:
+-            logging.error("Subtopic not found")
+-            return
+-        
+-        topic, sub, caseable = row
+-
+-        # Pull concept text as grounding (short)
+-        cur.execute("""
+-            SELECT TOP 1 content
+-            FROM cme.concepts
+-            WHERE subtopic_id=?
+-            ORDER BY concept_id""", subtopic_id)
+-        
+-        crow = cur.fetchone()
+-        concept = (crow.content if crow else "")[:1800]
+-
+-    if not caseable:
+-        logging.info("Subtopic marked non-caseable; skipping")
+-        return
+-
+-    prompt = f"""
+-Create ONE realistic clinical vignette for paediatrics under:
+-• Topic: {topic}
+-• Sub-topic: {sub}
+-
+-Constraints:
+-• 100–200 words. Realistic India/LMIC context if relevant.
+-• Include age/setting, time course, key symptoms, focused exam, and 0–2 objective data (e.g., vitals or one key lab).
+-• Do NOT include the diagnosis or management in the vignette text.
+-• Must be answerable from the sub-topic's concept below (no new facts).
+-• Provide a short learning objective (≤20 words).
+-• Prefer situations that test triage/admission thresholds, persistent fever on day 3–5 of therapy, or acute complications (e.g., GI bleed, ileal perforation, encephalopathy) when relevant to the subtopic.
+-
+-Return JSON with fields:
+-{{
+-    "title": "string",
+-    "vignette": "string",
+-    "learning_objective": "string"
+-}}
+-
+-Concept (context only):
+-{concept}
+-""".strip()
+-
+-    rsp = oai.chat.completions.create(
+-        model=DEPLOYMENT,
+-        messages=[{"role": "system", "content": "You are a paediatrics case writer."},
+-                 {"role": "user", "content": prompt}],
+-        temperature=0.5,
+-        max_tokens=400,
+-        response_format={"type": "json_object"},
+-    )
+-
+-    data = json.loads(rsp.choices[0].message.content)
+-    title = (data.get("title") or "").strip()[:255] or sub
+-    vignette = (data.get("vignette") or "").strip()
+-    lo = (data.get("learning_objective") or "").strip()[:255]
+-
+-    wc = _wc(vignette)
+-    if wc < 100 or wc > 220:
+-        logging.warning("Vignette word count %d out of range; proceeding but will be verified", wc)
+-
+-    case_id = str(uuid.uuid4())
+-
+-    with pyodbc.connect(DB) as con:
+-        cur = con.cursor()
+-        cur.execute("""
+-            INSERT INTO cme.cases
+-            (case_id, subtopic_id, title, vignette, word_count, learning_objective)
+-            VALUES (?, ?, ?, ?, ?, ?)""",
+-            case_id, subtopic_id, title, vignette, wc, lo)
+-        
+-        cur.execute("""
+-            UPDATE cme.subtopics
+-            SET case_status='pending'
+-            WHERE subtopic_id=?""", subtopic_id)
+-        
+-        con.commit()
+-
+-    try:
+-        q = QueueClient.from_connection_string(
+-            os.environ["AzureWebJobsStorage"], "case-mcq-queue")
+-        q.send_message(json.dumps({"case_id": case_id}))
+-    except Exception as e:
++# studyplan-pipeline/generateCase/__init__.py
++from __future__ import annotations
++import json, logging, os, re, uuid
++import azure.functions as func
++import pyodbc
++from openai import AzureOpenAI
++from azure.storage.queue import QueueClient
++
++DB = "DRIVER={ODBC Driver 18 for SQL Server};SERVER=20.171.24.17;DATABASE=CME2;UID=new_root;PWD=japl@bJBYV77;Encrypt=no;TrustServerCertificate=yes;"
++
++AZURE_OAI_ENDPOINT = "https://azure1405.openai.azure.com/"
++AZURE_OAI_KEY = "CzrrWvXbsmYcNguU1SqBpE9HDhhbfYsbkq3UedythCYCV9zNQ4mLJQQJ99BEACHYHv6XJ3w3AAABACOGiIPm"
++DEPLOYMENT = "gpt-4o"
++AZURE_OAI_API_VERSION = "2024-02-15-preview"
++
++# ─────────────────── Azure-OpenAI client ────────────────────
++oai = AzureOpenAI(
++    api_key=AZURE_OAI_KEY,
++    azure_endpoint=AZURE_OAI_ENDPOINT,
++    api_version=AZURE_OAI_API_VERSION,
++)
++
++DEPLOYMENT = os.environ.get("DEPLOYMENT", "gpt-4o")
++
++def _wc(s: str) -> int:
++    return len(re.findall(r"\b\w+\b", s or ""))
++
++def main(msg: func.QueueMessage) -> None:
++    logging.info("generateCase triggered")
++    
++    try:
++        subtopic_id = json.loads(msg.get_body().decode())["subtopic_id"]
++    except Exception:
++        logging.error("Bad queue payload – expected {'subtopic_id': ...}")
++        return
++
++    with pyodbc.connect(DB) as con:
++        cur = con.cursor()
++        cur.execute("SELECT case_status FROM cme.subtopics WHERE subtopic_id=?", subtopic_id)
++        cstat = (cur.fetchone()[0] or "").lower()
++        if cstat != "pending":
++            logging.info("Case generation skipped: subtopic %s is no longer pending (status=%s)",
++                        subtopic_id, cstat)
++            return
++        cur.execute("""
++            SELECT t.topic_name, s.title, s.case_amenable
++            FROM cme.subtopics s
++            JOIN cme.topics t ON t.topic_id = s.topic_id
++            WHERE s.subtopic_id = ?""", subtopic_id)
++        
++        row = cur.fetchone()
++        if not row:
++            logging.error("Subtopic not found")
++            return
++        
++        topic, sub, caseable = row
++
++        # Pull concept text as grounding (short)
++        cur.execute("""
++            SELECT TOP 1 content
++            FROM cme.concepts
++            WHERE subtopic_id=?
++            ORDER BY concept_id""", subtopic_id)
++        
++        crow = cur.fetchone()
++        concept = (crow.content if crow else "")[:1800]
++
++        # If vignette cases are already ingested for this subtopic, do NOT generate a new case.
++        # Instead, queue case-MCQ generation for any case rows missing MCQs.
++        cur.execute("""
++            SELECT cs.case_id
++            FROM cme.cases cs
++            WHERE cs.subtopic_id=?
++              AND NOT EXISTS (SELECT 1 FROM cme.questions q WHERE q.case_id = cs.case_id)
++            ORDER BY cs.created_utc
++        """, subtopic_id)
++        existing_missing = [r.case_id for r in (cur.fetchall() or [])]
++
++        cur.execute("SELECT COUNT(*) FROM cme.cases WHERE subtopic_id=?", subtopic_id)
++        existing_total = cur.fetchone()[0] or 0
++
++    if existing_total > 0:
++        logging.info("Subtopic %s already has %d case(s); skipping new case generation", subtopic_id, existing_total)
++        if existing_missing:
++            try:
++                q = QueueClient.from_connection_string(os.environ["AzureWebJobsStorage"], "case-mcq-queue")
++                for cid in existing_missing:
++                    q.send_message(json.dumps({"case_id": cid}))
++                logging.info("Queued %d existing case(s) for case-MCQ generation", len(existing_missing))
++            except Exception as e:
++                logging.error("Queue push failed for existing cases: %s", e)
++        else:
++            logging.info("All existing cases already have MCQs; nothing to do")
++        return
++
++    if not caseable:
++        logging.info("Subtopic marked non-caseable; skipping")
++        return
++
++    prompt = f"""
++Create ONE realistic clinical vignette for paediatrics under:
++• Topic: {topic}
++• Sub-topic: {sub}
++
++Constraints:
++• 100–200 words. Realistic India/LMIC context if relevant.
++• Include age/setting, time course, key symptoms, focused exam, and 0–2 objective data (e.g., vitals or one key lab).
++• Do NOT include the diagnosis or management in the vignette text.
++• Must be answerable from the sub-topic's concept below (no new facts).
++• Provide a short learning objective (≤20 words).
++• Prefer situations that test triage/admission thresholds, persistent fever on day 3–5 of therapy, or acute complications (e.g., GI bleed, ileal perforation, encephalopathy) when relevant to the subtopic.
++
++Return JSON with fields:
++{{
++    "title": "string",
++    "vignette": "string",
++    "learning_objective": "string"
++}}
++
++Concept (context only):
++{concept}
++""".strip()
++
++    rsp = oai.chat.completions.create(
++        model=DEPLOYMENT,
++        messages=[{"role": "system", "content": "You are a paediatrics case writer."},
++                 {"role": "user", "content": prompt}],
++        temperature=0.5,
++        max_tokens=400,
++        response_format={"type": "json_object"},
++    )
++
++    data = json.loads(rsp.choices[0].message.content)
++    title = (data.get("title") or "").strip()[:255] or sub
++    vignette = (data.get("vignette") or "").strip()
++    lo = (data.get("learning_objective") or "").strip()[:255]
++
++    wc = _wc(vignette)
++    if wc < 100 or wc > 220:
++        logging.warning("Vignette word count %d out of range; proceeding but will be verified", wc)
++
++    case_id = str(uuid.uuid4())
++
++    with pyodbc.connect(DB) as con:
++        cur = con.cursor()
++        cur.execute("""
++            INSERT INTO cme.cases
++            (case_id, subtopic_id, title, vignette, word_count, learning_objective)
++            VALUES (?, ?, ?, ?, ?, ?)""",
++            case_id, subtopic_id, title, vignette, wc, lo)
++        
++        cur.execute("""
++            UPDATE cme.subtopics
++            SET case_status='pending'
++            WHERE subtopic_id=?""", subtopic_id)
++        
++        con.commit()
++
++    try:
++        q = QueueClient.from_connection_string(
++            os.environ["AzureWebJobsStorage"], "case-mcq-queue")
++        q.send_message(json.dumps({"case_id": case_id}))
++    except Exception as e:
+         logging.error("Queue push failed: %s", e)
+\ No newline at end of file
+--- a/studyplanapp2/generateCaseMcq/__init__.py
++++ b/studyplanapp2/generateCaseMcq/__init__.py
+@@ -1,163 +1,213 @@
+-# studyplan-pipeline/generateCaseMcq/__init__.py
+-from __future__ import annotations
+-import json, logging, os, uuid, textwrap, random
+-import azure.functions as func
+-import pyodbc
+-from openai import AzureOpenAI
+-from azure.storage.queue import QueueClient
+-
+-DB = "DRIVER={ODBC Driver 18 for SQL Server};SERVER=20.171.24.17;DATABASE=CME2;UID=new_root;PWD=japl@bJBYV77;Encrypt=no;TrustServerCertificate=yes;"
+-AZURE_OAI_ENDPOINT = "https://azure1405.openai.azure.com/"
+-AZURE_OAI_KEY = "CzrrWvXbsmYcNguU1SqBpE9HDhhbfYsbkq3UedythCYCV9zNQ4mLJQQJ99BEACHYHv6XJ3w3AAABACOGiIPm"
+-DEPLOYMENT = "gpt-4o"
+-AZURE_OAI_API_VERSION = "2024-02-15-preview"
+-
+-# ─────────────────── Azure-OpenAI client ────────────────────
+-oai = AzureOpenAI(
+-    api_key=AZURE_OAI_KEY,
+-    azure_endpoint=AZURE_OAI_ENDPOINT,
+-    api_version=AZURE_OAI_API_VERSION,
+-)
+-
+-DEPLOYMENT = os.environ.get("DEPLOYMENT", "gpt-4o")
+-
+-def _save_case_mcq(cur, case_id: str, sub_id: str, block: dict):
+-    qid = str(uuid.uuid4())
+-    cur.execute("""
+-        INSERT INTO cme.questions (question_id, subtopic_id, case_id, stem, correct_choice, explanation)
+-        VALUES (?, ?, ?, ?, ?, ?)""",
+-        qid, sub_id, case_id, block["stem"],
+-        block["choices"][block["correct_index"]],
+-        block.get("explanation", ""))
+-    
+-    for i, choice in enumerate(block["choices"]):
+-        rationale = (block.get("rationales") or [""] * 4)[i]
+-        cur.execute("""
+-            INSERT INTO cme.choices (choice_id, question_id, choice_index, choice_text, rationale)
+-            VALUES (NEWID(), ?, ?, ?, ?)""", qid, i, choice, rationale)
+-    
+-    # reuse existing variants shape
+-    for v_no, vn in enumerate(("variant1", "variant2"), start=1):
+-        if vn in block and str(block[vn].get("stem", "")).strip():
+-            cur.execute("""
+-                INSERT INTO cme.variants (variant_id, question_id, variant_no, stem, correct_choice_index)
+-                VALUES (NEWID(), ?, ?, ?, ?)""",
+-                qid, v_no, block[vn]["stem"], block[vn]["correct_index"])
+-    
+-    # link question→same refs as sub-topic
+-    cur.execute("""
+-        INSERT INTO cme.question_references (question_id, reference_id)
+-        SELECT ?, reference_id FROM cme.subtopic_references WHERE subtopic_id=?""",
+-        qid, sub_id)
+-
+-def main(msg: func.QueueMessage) -> None:
+-    logging.info("generateCaseMcq triggered")
+-    try:
+-        case_id = json.loads(msg.get_body().decode())["case_id"]
+-    except Exception:
+-        logging.error("Bad payload")
+-        return
+-    
+-    with pyodbc.connect(DB) as con:
+-        cur = con.cursor()
+-        cur.execute("""
+-            SELECT cs.subtopic_id, t.topic_name, s.title, cs.vignette
+-            FROM cme.cases cs
+-            JOIN cme.subtopics s ON s.subtopic_id = cs.subtopic_id
+-            JOIN cme.topics t ON t.topic_id = s.topic_id
+-            WHERE cs.case_id = ?""", case_id)
+-        row = cur.fetchone()
+-        if not row:
+-            logging.error("Case not found")
+-            return
+-        
+-        sub_id, topic, sub, vignette = row
+-        cur.execute("""SELECT TOP 1 content FROM cme.concepts WHERE subtopic_id=? ORDER BY concept_id""", sub_id)
+-        crow = cur.fetchone()
+-        concept = (crow.content if crow else "")[:2000]
+-        
+-        schema = json.dumps({
+-            "mcqs": [{
+-                "stem": "string",
+-                "choices": ["string", "string", "string", "string"],
+-                "rationales": ["string", "string", "string", "string"],
+-                "correct_index": "int 0-3",
+-                "explanation": "string",
+-                "variant1": {"stem": "string", "correct_index": "int"},
+-                "variant2": {"stem": "string", "correct_index": "int"}
+-            }]
+-        }, indent=2)
+-        
+-        prompt = textwrap.dedent(f"""
+-            Create 1–2 single-best-answer MCQs *from the CASE ONLY* (no outside facts).
+-            Topic: {topic}
+-            Sub-topic: {sub}
+-            CASE
+-            ────
+-            {vignette}
+-            Rules
+-            ──
+-            1) 4 choices (≤6 words each) + 4 rationales (≤35 words each).
+-            2) If data are needed, they must be inferable from the case.
+-            3) Each item must be answerable and unambiguous.
+-            4) Provide 2 paraphrased stems (variant1, variant2). Correct choice may change.
+-            5) Prefer management/application questions (admit vs observe, next step on day‑5 persistent fever, rescue for complication) over single‑fact recall.
+-            Return JSON only, shape exactly:
+-            {schema}
+-            Concept (for guardrails; do not introduce new facts):
+-            {concept}
+-        """).strip()
+-        
+-        rsp = oai.chat.completions.create(
+-            model=DEPLOYMENT,
+-            messages=[{"role": "system", "content": "You are a paediatrics examiner."},
+-                     {"role": "user", "content": prompt}],
+-            temperature=0.45, max_tokens=900, response_format={"type": "json_object"},
+-        )
+-        
+-        data = json.loads(rsp.choices[0].message.content)
+-        blocks = data.get("mcqs") or []
+-        if not isinstance(blocks, list) or not blocks:
+-            logging.error("No MCQs returned for case %s", case_id)
+-            return
+-        
+-        # simple validation
+-        for i, b in enumerate(blocks, 1):
+-            assert len(b.get("choices", [])) == 4, f"MCQ {i}: need 4 choices"
+-            assert len(b.get("rationales", [])) == 4, f"MCQ {i}: need 4 rationales"
+-            assert b.get("correct_index") in (0, 1, 2, 3), f"MCQ {i}: bad correct_index"
+-            
+-            # shuffle choices to reduce patterning
+-            original = b["choices"][:]
+-            correct_text = original[b["correct_index"]]
+-            combined = list(zip(b["choices"], b["rationales"]))
+-            random.shuffle(combined)
+-            b["choices"], b["rationales"] = [c for c, _ in combined], [r for _, r in combined]
+-            b["correct_index"] = b["choices"].index(correct_text)
+-            
+-            # Remap variant indices to the new order using TEXT from pre-shuffle choices
+-            for vn in ("variant1", "variant2"):
+-                if vn in b and isinstance(b[vn], dict):
+-                    try:
+-                        old_idx = b[vn]["correct_index"]
+-                        # The correct text for the variant in the *original* order
+-                        variant_corr_text = original[old_idx]
+-                    except Exception:
+-                        # Fallback to stem's correct text if variant index was bad
+-                        variant_corr_text = correct_text
+-                    # New index in the shuffled order
+-                    b[vn]["correct_index"] = b["choices"].index(variant_corr_text)
+-        
+-        with pyodbc.connect(DB) as con:
+-            cur = con.cursor()
+-            for b in blocks:
+-                _save_case_mcq(cur, case_id, sub_id, b)
+-            cur.execute("""UPDATE cme.subtopics SET case_status='ready' WHERE subtopic_id=?""", sub_id)
+-            con.commit()
+-        
+-        # hand-off to verification
+-        try:
+-            q = QueueClient.from_connection_string(os.environ["AzureWebJobsStorage"], "verify-queue")
+-            q.send_message(json.dumps({"case_id": case_id}))
+-        except Exception as e:
++# studyplan-pipeline/generateCaseMcq/__init__.py
++from __future__ import annotations
++import json, logging, os, uuid, textwrap, random
++import azure.functions as func
++import pyodbc
++from openai import AzureOpenAI
++from azure.storage.queue import QueueClient
++
++DB = "DRIVER={ODBC Driver 18 for SQL Server};SERVER=20.171.24.17;DATABASE=CME2;UID=new_root;PWD=japl@bJBYV77;Encrypt=no;TrustServerCertificate=yes;"
++AZURE_OAI_ENDPOINT = "https://azure1405.openai.azure.com/"
++AZURE_OAI_KEY = "CzrrWvXbsmYcNguU1SqBpE9HDhhbfYsbkq3UedythCYCV9zNQ4mLJQQJ99BEACHYHv6XJ3w3AAABACOGiIPm"
++DEPLOYMENT = "gpt-4o"
++AZURE_OAI_API_VERSION = "2024-02-15-preview"
++
++# ─────────────────── Azure-OpenAI client ────────────────────
++oai = AzureOpenAI(
++    api_key=AZURE_OAI_KEY,
++    azure_endpoint=AZURE_OAI_ENDPOINT,
++    api_version=AZURE_OAI_API_VERSION,
++)
++
++DEPLOYMENT = os.environ.get("DEPLOYMENT", "gpt-4o")
++
++def _save_case_mcq(cur, case_id: str, sub_id: str, block: dict):
++    qid = str(uuid.uuid4())
++    cur.execute("""
++        INSERT INTO cme.questions (question_id, subtopic_id, case_id, stem, correct_choice, explanation)
++        VALUES (?, ?, ?, ?, ?, ?)""",
++        qid, sub_id, case_id, block["stem"],
++        block["choices"][block["correct_index"]],
++        block.get("explanation", ""))
++    
++    for i, choice in enumerate(block["choices"]):
++        rationale = (block.get("rationales") or [""] * 4)[i]
++        cur.execute("""
++            INSERT INTO cme.choices (choice_id, question_id, choice_index, choice_text, rationale)
++            VALUES (NEWID(), ?, ?, ?, ?)""", qid, i, choice, rationale)
++    
++    # reuse existing variants shape
++    for v_no, vn in enumerate(("variant1", "variant2"), start=1):
++        if vn in block and str(block[vn].get("stem", "")).strip():
++            cur.execute("""
++                INSERT INTO cme.variants (variant_id, question_id, variant_no, stem, correct_choice_index)
++                VALUES (NEWID(), ?, ?, ?, ?)""",
++                qid, v_no, block[vn]["stem"], block[vn]["correct_index"])
++    
++    # link question→same refs as sub-topic
++    cur.execute("""
++        INSERT INTO cme.question_references (question_id, reference_id)
++        SELECT ?, reference_id FROM cme.subtopic_references WHERE subtopic_id=?""",
++        qid, sub_id)
++
++def main(msg: func.QueueMessage) -> None:
++    logging.info("generateCaseMcq triggered")
++    try:
++        case_id = json.loads(msg.get_body().decode())["case_id"]
++    except Exception:
++        logging.error("Bad payload")
++        return
++    
++    with pyodbc.connect(DB) as con:
++        cur = con.cursor()
++        cur.execute("""
++            SELECT cs.subtopic_id, t.topic_name, s.title, cs.vignette
++            FROM cme.cases cs
++            JOIN cme.subtopics s ON s.subtopic_id = cs.subtopic_id
++            JOIN cme.topics t ON t.topic_id = s.topic_id
++            WHERE cs.case_id = ?""", case_id)
++        row = cur.fetchone()
++        if not row:
++            logging.error("Case not found")
++            return
++        
++        sub_id, topic, sub, vignette = row
++        cur.execute("""SELECT TOP 1 content FROM cme.concepts WHERE subtopic_id=? ORDER BY concept_id""", sub_id)
++        crow = cur.fetchone()
++        concept = (crow.content if crow else "")[:2000]
++
++        # If MCQs already exist for this case, avoid duplicating
++        cur.execute("SELECT COUNT(*) FROM cme.questions WHERE case_id=?", case_id)
++        existing_q = (cur.fetchone()[0] or 0)
++        if existing_q > 0:
++            # update subtopic case_status if all cases already have MCQs
++            cur.execute("""
++                SELECT COUNT(*)
++                FROM cme.cases cs
++                WHERE cs.subtopic_id=?
++                  AND NOT EXISTS (SELECT 1 FROM cme.questions q WHERE q.case_id = cs.case_id)
++            """, sub_id)
++            remaining = (cur.fetchone()[0] or 0)
++            if remaining == 0:
++                cur.execute("""
++                    UPDATE cme.subtopics
++                    SET case_status = CASE
++                        WHEN case_status IN ('verified','failed','skipped') THEN case_status
++                        ELSE 'ready'
++                    END
++                    WHERE subtopic_id=?
++                """, sub_id)
++                con.commit()
++            logging.info("Case MCQs already exist for %s (%d question(s)); skipping regeneration", case_id, existing_q)
++            return
++        
++        schema = json.dumps({
++            "mcqs": [{
++                "stem": "string",
++                "choices": ["string", "string", "string", "string"],
++                "rationales": ["string", "string", "string", "string"],
++                "correct_index": "int 0-3",
++                "explanation": "string",
++                "variant1": {"stem": "string", "correct_index": "int"},
++                "variant2": {"stem": "string", "correct_index": "int"}
++            }]
++        }, indent=2)
++        
++        prompt = textwrap.dedent(f"""
++            Create 1–2 single-best-answer MCQs *from the CASE ONLY* (no outside facts).
++            Topic: {topic}
++            Sub-topic: {sub}
++            CASE
++            ────
++            {vignette}
++            Rules
++            ──
++            1) 4 choices (≤6 words each) + 4 rationales (≤35 words each).
++            2) If data are needed, they must be inferable from the case.
++            3) Each item must be answerable and unambiguous.
++            4) Provide 2 paraphrased stems (variant1, variant2). Correct choice may change.
++            5) Prefer management/application questions (admit vs observe, next step on day‑5 persistent fever, rescue for complication) over single‑fact recall.
++            Return JSON only, shape exactly:
++            {schema}
++            Concept (for guardrails; do not introduce new facts):
++            {concept}
++        """).strip()
++        
++        rsp = oai.chat.completions.create(
++            model=DEPLOYMENT,
++            messages=[{"role": "system", "content": "You are a paediatrics examiner."},
++                     {"role": "user", "content": prompt}],
++            temperature=0.45, max_tokens=900, response_format={"type": "json_object"},
++        )
++        
++        data = json.loads(rsp.choices[0].message.content)
++        blocks = data.get("mcqs") or []
++        if not isinstance(blocks, list) or not blocks:
++            logging.error("No MCQs returned for case %s", case_id)
++            return
++        
++        # simple validation
++        for i, b in enumerate(blocks, 1):
++            assert len(b.get("choices", [])) == 4, f"MCQ {i}: need 4 choices"
++            assert len(b.get("rationales", [])) == 4, f"MCQ {i}: need 4 rationales"
++            assert b.get("correct_index") in (0, 1, 2, 3), f"MCQ {i}: bad correct_index"
++            
++            # shuffle choices to reduce patterning
++            original = b["choices"][:]
++            correct_text = original[b["correct_index"]]
++            combined = list(zip(b["choices"], b["rationales"]))
++            random.shuffle(combined)
++            b["choices"], b["rationales"] = [c for c, _ in combined], [r for _, r in combined]
++            b["correct_index"] = b["choices"].index(correct_text)
++            
++            # Remap variant indices to the new order using TEXT from pre-shuffle choices
++            for vn in ("variant1", "variant2"):
++                if vn in b and isinstance(b[vn], dict):
++                    try:
++                        old_idx = b[vn]["correct_index"]
++                        # The correct text for the variant in the *original* order
++                        variant_corr_text = original[old_idx]
++                    except Exception:
++                        # Fallback to stem's correct text if variant index was bad
++                        variant_corr_text = correct_text
++                    # New index in the shuffled order
++                    b[vn]["correct_index"] = b["choices"].index(variant_corr_text)
++        
++        with pyodbc.connect(DB) as con:
++            cur = con.cursor()
++            for b in blocks:
++                _save_case_mcq(cur, case_id, sub_id, b)
++            # Update subtopic case_status only when ALL cases under this subtopic have MCQs
++            cur.execute("""
++                SELECT COUNT(*)
++                FROM cme.cases cs
++                WHERE cs.subtopic_id=?
++                  AND NOT EXISTS (SELECT 1 FROM cme.questions q WHERE q.case_id = cs.case_id)
++            """, sub_id)
++            remaining = (cur.fetchone()[0] or 0)
++            if remaining == 0:
++                cur.execute("""
++                    UPDATE cme.subtopics
++                    SET case_status = CASE
++                        WHEN case_status IN ('verified','failed','skipped') THEN case_status
++                        ELSE 'ready'
++                    END
++                    WHERE subtopic_id=?
++                """, sub_id)
++            else:
++                cur.execute("""
++                    UPDATE cme.subtopics
++                    SET case_status = CASE
++                        WHEN case_status IN ('verified','failed','skipped') THEN case_status
++                        ELSE 'pending'
++                    END
++                    WHERE subtopic_id=?
++                """, sub_id)
++            con.commit()
++        
++        # hand-off to verification
++        try:
++            q = QueueClient.from_connection_string(os.environ["AzureWebJobsStorage"], "verify-queue")
++            q.send_message(json.dumps({"case_id": case_id}))
++        except Exception as e:
+             logging.error("Queue push failed: %s", e)
+\ No newline at end of file
+--- a/studyplanapp2/verifyCaseBundle/__init__.py
++++ b/studyplanapp2/verifyCaseBundle/__init__.py
+@@ -1,129 +1,163 @@
+-# studyplan-pipeline/verifyCaseBundle/__init__.py
+-from __future__ import annotations
+-import json, logging, os, uuid
+-import azure.functions as func
+-import pyodbc
+-from openai import AzureOpenAI
+-from azure.storage.queue import QueueClient
+-
+-DB = "DRIVER={ODBC Driver 18 for SQL Server};SERVER=20.171.24.17;DATABASE=CME2;UID=new_root;PWD=japl@bJBYV77;Encrypt=no;TrustServerCertificate=yes;"
+-AZURE_OAI_ENDPOINT = "https://azure1405.openai.azure.com/"
+-AZURE_OAI_KEY = "CzrrWvXbsmYcNguU1SqBpE9HDhhbfYsbkq3UedythCYCV9zNQ4mLJQQJ99BEACHYHv6XJ3w3AAABACOGiIPm"
+-DEPLOYMENT = "gpt-4o"
+-AZURE_OAI_API_VERSION = "2024-02-15-preview"
+-
+-# ─────────────────── Azure-OpenAI client ────────────────────
+-oai = AzureOpenAI(
+-    api_key=AZURE_OAI_KEY,
+-    azure_endpoint=AZURE_OAI_ENDPOINT,
+-    api_version=AZURE_OAI_API_VERSION,
+-)
+-
+-DEPLOYMENT = os.environ.get("DEPLOYMENT", "gpt-4o")
+-
+-def main(msg: func.QueueMessage) -> None:
+-    logging.info("verifyCaseBundle triggered")
+-    try:
+-        case_id = json.loads(msg.get_body().decode())["case_id"]
+-    except Exception:
+-        logging.error("Bad payload")
+-        return
+-    
+-    with pyodbc.connect(DB) as con:
+-        cur = con.cursor()
+-        cur.execute("""
+-            SELECT cs.subtopic_id, t.topic_id, t.topic_name, s.title, cs.vignette
+-            FROM cme.cases cs
+-            JOIN cme.subtopics s ON s.subtopic_id = cs.subtopic_id
+-            JOIN cme.topics t ON t.topic_id = s.topic_id
+-            WHERE cs.case_id = ?""", case_id)
+-        row = cur.fetchone()
+-        if not row: 
+-            return
+-        
+-        sub_id, topic_id, topic_name, sub_title, vignette = row
+-        
+-        # verifyCaseBundle/__init__.py (safe patch)
+-        cur.execute("""
+-            SELECT TOP 1 content
+-            FROM cme.concepts
+-            WHERE subtopic_id=? ORDER BY concept_id
+-        """, sub_id)
+-        row = cur.fetchone()
+-        concept = (row.content if row else "")[:2500]
+-        
+-        # gather linked MCQs
+-        cur.execute("""
+-            SELECT q.question_id, q.stem, q.correct_choice
+-            FROM cme.questions q WHERE q.case_id = ?
+-        """, case_id)
+-        qs = cur.fetchall() or []  # ← guard: no MCQs yet
+-        
+-        bundle = []
+-        for q in qs:
+-            qid, stem, correct = q
+-            cur.execute("""
+-                SELECT choice_index, choice_text, ISNULL(rationale, '') AS rationale
+-                FROM cme.choices
+-                WHERE question_id=? ORDER BY choice_index
+-            """, qid)
+-            ch = [{"choice_index": r[0], "choice_text": r[1], "rationale": r[2]} for r in (cur.fetchall() or [])]
+-            bundle.append({"question_id": qid, "stem": stem, "correct_choice": correct, "choices": ch})
+-        
+-        ask = {
+-            "role": "user",
+-            "content": f"""
+-You are a paediatrics QA checker. Verify the CASE MCQs against the CASE and CONCEPT.
+-Return JSON:
+-{{
+-"verdict": "pass" | "fail",
+-"issues": [ "short bullet ..." ],
+-"suggested_fixes": [{{ "question_id": "uuid", "stem": "new (optional)", "rationales": ["...","...","...","..."] }}]
+-}}
+-Rules:
+-- Each MCQ must be answerable solely from CASE text; do not require external facts.
+-- Correct choice must be unambiguous; rationales must be consistent and non-contradictory.
+-- Flag if vignette length is outside 100–200 words or contains diagnosis/management spoilers.
+-CASE:
+-{vignette}
+-CONCEPT (guardrails only):
+-{concept}
+-MCQS:
+-{json.dumps(bundle, ensure_ascii=False)}
+-""".strip()
+-        }
+-        
+-        rsp = oai.chat.completions.create(
+-            model=DEPLOYMENT,
+-            messages=[{"role": "system", "content": "Return JSON only."}, ask],
+-            temperature=0.2, max_tokens=600, response_format={"type": "json_object"},
+-        )
+-        
+-        out = json.loads(rsp.choices[0].message.content)
+-        verdict = (out.get("verdict") or "fail").lower()
+-        
+-        with pyodbc.connect(DB) as con:
+-            cur = con.cursor()
+-            cur.execute("""
+-                INSERT INTO cme.qa_reviews (qa_id, entity_type, entity_id, status, issues, suggested_fix)
+-                VALUES (?, 'case', ?, ?, ?, ?)""",
+-                str(uuid.uuid4()), case_id, verdict, json.dumps(out.get("issues", []), ensure_ascii=False),
+-                json.dumps(out.get("suggested_fixes", []), ensure_ascii=False))
+-            
+-            cur.execute("""UPDATE cme.cases SET verified = ? , qa_summary = ? WHERE case_id = ?""",
+-                1 if verdict == "pass" else 0,
+-                json.dumps(out, ensure_ascii=False),
+-                case_id)
+-            
+-            # propagate subtopic case_status
+-            cur.execute("""UPDATE cme.subtopics SET case_status = ? WHERE subtopic_id = ?""",
+-                'verified' if verdict == "pass" else 'failed',
+-                sub_id)
+-            con.commit()
+-        
+-        # nudge plan assembler
+-        try:
+-            q = QueueClient.from_connection_string(os.environ["AzureWebJobsStorage"], "plan-queue")
+-            q.send_message(json.dumps({"topic_id": topic_id}))
+-        except Exception: 
++# studyplan-pipeline/verifyCaseBundle/__init__.py
++from __future__ import annotations
++import json, logging, os, uuid
++import azure.functions as func
++import pyodbc
++from openai import AzureOpenAI
++from azure.storage.queue import QueueClient
++
++DB = "DRIVER={ODBC Driver 18 for SQL Server};SERVER=20.171.24.17;DATABASE=CME2;UID=new_root;PWD=japl@bJBYV77;Encrypt=no;TrustServerCertificate=yes;"
++AZURE_OAI_ENDPOINT = "https://azure1405.openai.azure.com/"
++AZURE_OAI_KEY = "CzrrWvXbsmYcNguU1SqBpE9HDhhbfYsbkq3UedythCYCV9zNQ4mLJQQJ99BEACHYHv6XJ3w3AAABACOGiIPm"
++DEPLOYMENT = "gpt-4o"
++AZURE_OAI_API_VERSION = "2024-02-15-preview"
++
++# ─────────────────── Azure-OpenAI client ────────────────────
++oai = AzureOpenAI(
++    api_key=AZURE_OAI_KEY,
++    azure_endpoint=AZURE_OAI_ENDPOINT,
++    api_version=AZURE_OAI_API_VERSION,
++)
++
++DEPLOYMENT = os.environ.get("DEPLOYMENT", "gpt-4o")
++
++def main(msg: func.QueueMessage) -> None:
++    logging.info("verifyCaseBundle triggered")
++    try:
++        case_id = json.loads(msg.get_body().decode())["case_id"]
++    except Exception:
++        logging.error("Bad payload")
++        return
++    
++    with pyodbc.connect(DB) as con:
++        cur = con.cursor()
++        cur.execute("""
++            SELECT cs.subtopic_id, t.topic_id, t.topic_name, s.title, cs.vignette
++            FROM cme.cases cs
++            JOIN cme.subtopics s ON s.subtopic_id = cs.subtopic_id
++            JOIN cme.topics t ON t.topic_id = s.topic_id
++            WHERE cs.case_id = ?""", case_id)
++        row = cur.fetchone()
++        if not row: 
++            return
++        
++        sub_id, topic_id, topic_name, sub_title, vignette = row
++        
++        # verifyCaseBundle/__init__.py (safe patch)
++        cur.execute("""
++            SELECT TOP 1 content
++            FROM cme.concepts
++            WHERE subtopic_id=? ORDER BY concept_id
++        """, sub_id)
++        row = cur.fetchone()
++        concept = (row.content if row else "")[:2500]
++        
++        # gather linked MCQs
++        cur.execute("""
++            SELECT q.question_id, q.stem, q.correct_choice
++            FROM cme.questions q WHERE q.case_id = ?
++        """, case_id)
++        qs = cur.fetchall() or []  # ← guard: no MCQs yet
++        
++        bundle = []
++        for q in qs:
++            qid, stem, correct = q
++            cur.execute("""
++                SELECT choice_index, choice_text, ISNULL(rationale, '') AS rationale
++                FROM cme.choices
++                WHERE question_id=? ORDER BY choice_index
++            """, qid)
++            ch = [{"choice_index": r[0], "choice_text": r[1], "rationale": r[2]} for r in (cur.fetchall() or [])]
++            bundle.append({"question_id": qid, "stem": stem, "correct_choice": correct, "choices": ch})
++        
++        ask = {
++            "role": "user",
++            "content": f"""
++You are a paediatrics QA checker. Verify the CASE MCQs against the CASE and CONCEPT.
++Return JSON:
++{{
++"verdict": "pass" | "fail",
++"issues": [ "short bullet ..." ],
++"suggested_fixes": [{{ "question_id": "uuid", "stem": "new (optional)", "rationales": ["...","...","...","..."] }}]
++}}
++Rules:
++- Each MCQ must be answerable solely from CASE text; do not require external facts.
++- Correct choice must be unambiguous; rationales must be consistent and non-contradictory.
++- Flag if vignette length is outside 100–200 words or contains diagnosis/management spoilers.
++CASE:
++{vignette}
++CONCEPT (guardrails only):
++{concept}
++MCQS:
++{json.dumps(bundle, ensure_ascii=False)}
++""".strip()
++        }
++        
++        rsp = oai.chat.completions.create(
++            model=DEPLOYMENT,
++            messages=[{"role": "system", "content": "Return JSON only."}, ask],
++            temperature=0.2, max_tokens=600, response_format={"type": "json_object"},
++        )
++        
++        out = json.loads(rsp.choices[0].message.content)
++        verdict = (out.get("verdict") or "fail").lower()
++        
++        with pyodbc.connect(DB) as con:
++            cur = con.cursor()
++            cur.execute("""
++                INSERT INTO cme.qa_reviews (qa_id, entity_type, entity_id, status, issues, suggested_fix)
++                VALUES (?, 'case', ?, ?, ?, ?)""",
++                str(uuid.uuid4()), case_id, verdict, json.dumps(out.get("issues", []), ensure_ascii=False),
++                json.dumps(out.get("suggested_fixes", []), ensure_ascii=False))
++            
++            cur.execute("""UPDATE cme.cases SET verified = ? , qa_summary = ? WHERE case_id = ?""",
++                1 if verdict == "pass" else 0,
++                json.dumps(out, ensure_ascii=False),
++                case_id)
++            
++            # propagate aggregated subtopic case_status (supports multiple cases per subtopic)
++            # 1) if any cases under this subtopic still lack MCQs -> keep pending
++            cur.execute("""
++                SELECT COUNT(*)
++                FROM cme.cases cs
++                WHERE cs.subtopic_id=?
++                  AND NOT EXISTS (SELECT 1 FROM cme.questions q WHERE q.case_id = cs.case_id)
++            """, sub_id)
++            remaining = (cur.fetchone()[0] or 0)
++
++            if remaining > 0:
++                new_status = 'pending'
++            else:
++                # 2) all cases have MCQs; summarise verification state
++                cur.execute("""
++                    SELECT
++                        SUM(CASE WHEN cs.verified=1 THEN 1 ELSE 0 END) AS pass_n,
++                        SUM(CASE WHEN cs.verified=0 THEN 1 ELSE 0 END) AS fail_n,
++                        SUM(CASE WHEN cs.verified IS NULL THEN 1 ELSE 0 END) AS null_n,
++                        COUNT(*) AS total_n
++                    FROM cme.cases cs
++                    WHERE cs.subtopic_id=?
++                """, sub_id)
++                pass_n, fail_n, null_n, total_n = cur.fetchone()
++                pass_n = pass_n or 0
++                fail_n = fail_n or 0
++                null_n = null_n or 0
++                total_n = total_n or 0
++
++                if fail_n > 0:
++                    new_status = 'failed'
++                elif total_n > 0 and pass_n == total_n:
++                    new_status = 'verified'
++                else:
++                    # MCQs exist for all cases, but at least one case is not yet verified
++                    new_status = 'ready'
++
++            cur.execute("""UPDATE cme.subtopics SET case_status = ? WHERE subtopic_id = ?""", new_status, sub_id)
++            con.commit()
++        
++        # nudge plan assembler
++        try:
++            q = QueueClient.from_connection_string(os.environ["AzureWebJobsStorage"], "plan-queue")
++            q.send_message(json.dumps({"topic_id": topic_id}))
++        except Exception: 
+             pass
+\ No newline at end of file

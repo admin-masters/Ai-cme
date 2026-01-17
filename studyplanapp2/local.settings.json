@@ -1,0 +1,33 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=cmetyphoid;AccountKey=2hk2g3+VvyKJ4jqyY0QQkVI953Yf0HbLFUbhGNFjLA+Egnh7S+vgWf6JE1iDBT0OYYUEt3uKO3Hu+ASt9SxsHg==;EndpointSuffix=core.windows.net",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "DB_CONN":  "DRIVER={ODBC Driver 18 for SQL Server};SERVER=20.171.24.17;DATABASE=CME2;UID=new_root;PWD=japl@bJBYV77;Encrypt=no;TrustServerCertificate=yes;",
+    "DB" :  "DRIVER={ODBC Driver 18 for SQL Server};SERVER=20.171.24.17;DATABASE=CME2;UID=new_root;PWD=japl@bJBYV77;Encrypt=no;TrustServerCertificate=yes;",
+    "SEARCH_ENDPOINT": "https://basic-rag-sandbox.search.windows.net",
+    "SEARCH_ADMIN_KEY":  "tuqRZ8A374Aw3wXKSTzOY6SEu6Ra8rOyhPgFEtcLpSAzSeBOByQL",
+    "SEARCH_INDEX": "pubert-demo-new",
+    "SEARCH_API_VERSION": "2025-05-01-preview",
+    "SUBTOPIC_MAX": "-1", 
+    "OUTLINE_MAX_ROUNDS": "2",
+    "COVERAGE_MIN_CHARS": "1200",
+    "MIN_SUBTOPICS": "20",
+    "MAX_SUBTOPICS": "40",
+    "ENABLE_MCQ_PLANNING": "1",
+    "MAX_MCQS_PER_SUBTOPIC": "3",
+    "CASE_MAX_FRACTION": "0.5",
+    "CASE_AMENABLE_MIN_CONF": "55",
+    "CASE_REBALANCE_MAX_CANDIDATES": "28",
+    "EVAL_REQUIRE_MCQS": "0",
+    "SUBTOK_MIN_HITS": "2",
+    "PED_REQUIRED": "1",
+    "BLOCK_ON_LOW_COVERAGE": "1",
+    "CONCEPT_DUP_SIM_THRESHOLD": "0.92",
+    "ASSEMBLE_DUP_SIM_THRESHOLD": "0.95",
+    "EVAL_MIN_CONCEPT_CHARS": "400",
+    "NEIGHBOR_WINDOW": "2",
+  "SOFT_MIN_SOURCE_CHARS": "250"
+
+  }
+}

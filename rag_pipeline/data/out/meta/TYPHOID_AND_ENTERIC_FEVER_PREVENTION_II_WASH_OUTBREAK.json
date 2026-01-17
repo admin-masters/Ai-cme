@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section discusses WASH strategies, outbreak response, and public health measures to prevent typhoid and enteric fever, emphasizing hygiene, water safety, and reactive interventions during outbreaks.",
+  "learning_objectives": [
+    "Understand the role of WASH (water, sanitation, and hygiene) in preventing typhoid and enteric fever.",
+    "Learn the steps for outbreak response, including notification, investigation, and control measures.",
+    "Recognize the importance of avoiding routine antibiotic prophylaxis and promoting targeted carrier management.",
+    "Explore the use of reactive typhoid conjugate vaccine (TCV) campaigns during outbreaks."
+  ],
+  "key_facts": [
+    "Enteric fever prevention relies on interrupting fecal\u2013oral transmission through WASH measures like boiling water and handwashing.",
+    "Outbreak response includes notifying public health authorities, testing water sources, and chlorinating supplies.",
+    "Routine antibiotic prophylaxis for contacts is discouraged to prevent resistance.",
+    "Targeted stool testing and treatment of adult carriers, especially food handlers, is critical for outbreak control.",
+    "Reactive TCV campaigns can reduce transmission during outbreaks when feasible.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Typhoid Fever",
+    "Enteric Fever",
+    "Water Supply",
+    "Sanitation",
+    "Hygiene",
+    "Disease Outbreaks",
+    "Vaccination",
+    "Antimicrobial Resistance"
+  ],
+  "tags_custom": [
+    "WASH strategies",
+    "outbreak response",
+    "public health measures",
+    "carrier management"
+  ],
+  "reference_quote": "Outbreak response typically includes confirmation with cultures from early cases, rapid assessment of common exposures, and inspection and testing of water sources and food handling sites. (Source: IDSP manual)",
+  "document_key_topics": [
+    "WASH strategies for typhoid prevention",
+    "Outbreak response and public health actions",
+    "Role of reactive TCV campaigns",
+    "Carrier management and antimicrobial resistance"
+  ],
+  "chunk_heading": "TYPHOID AND ENTERIC FEVER;PREVENTION II: WASH, OUTBREAK RESPONSE, AND",
+  "topic": "TYPHOID AND ENTERIC FEVER",
+  "subtopic": "PREVENTION II: WASH, OUTBREAK RESPONSE, AND",
+  "sub_subtopic": null,
+  "heading_path": "TYPHOID AND ENTERIC FEVER;PREVENTION II: WASH, OUTBREAK RESPONSE, AND",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1r"
+}

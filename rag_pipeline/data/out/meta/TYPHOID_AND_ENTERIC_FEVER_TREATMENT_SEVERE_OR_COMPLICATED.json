@@ -1,0 +1,46 @@
+{
+  "chunk_summary": "Severe or complicated inpatient enteric fever treatment involves parenteral antibiotics, supportive care, and tailored regimens based on clinical response, susceptibility, and complications like intestinal perforation or shock.",
+  "learning_objectives": [
+    "Understand the first-line and alternative antibiotic regimens for severe enteric fever in hospitalized children.",
+    "Recognize the role of adjunct therapies, including corticosteroids, in managing complications like shock or encephalopathy.",
+    "Identify supportive care measures and the importance of monitoring for complications such as intestinal perforation or organ dysfunction."
+  ],
+  "key_facts": [
+    "Ceftriaxone 100 mg/kg/day (max 4 g/day) IV for 10\u201314 days is a common first-line treatment.",
+    "Cefotaxime 150\u2013200 mg/kg/day in 3\u20134 divided doses is an alternative when ceftriaxone is unsuitable.",
+    "Azithromycin 20 mg/kg/day (oral or IV) may be added for suspected reduced cephalosporin susceptibility.",
+    "Dexamethasone 3 mg/kg loading dose, followed by 1 mg/kg every 6 hours for 48 hours, is reserved for shock or encephalopathy.",
+    "Broaden antibiotics to cover secondary intra-abdominal flora if intestinal perforation is suspected."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Typhoid Fever",
+    "Enteric Fever",
+    "Ceftriaxone",
+    "Cefotaxime",
+    "Azithromycin",
+    "Dexamethasone",
+    "Parenteral Antibiotics",
+    "Supportive Care"
+  ],
+  "tags_custom": [
+    "Severe enteric fever",
+    "Pediatric treatment",
+    "Antibiotic regimens",
+    "Complication management"
+  ],
+  "reference_quote": "A common first-line regimen for severe disease is ceftriaxone 100 mg/kg/day (maximum 4 g/day) given intravenously once daily or in divided doses for 10\u201314 days, tailored to clinical response and susceptibility results.",
+  "document_key_topics": [
+    "Parenteral antibiotic regimens for severe enteric fever",
+    "Management of complications like intestinal perforation and shock",
+    "Supportive care in hospitalized children with enteric fever"
+  ],
+  "chunk_heading": "TYPHOID AND ENTERIC FEVER;TREATMENT: SEVERE OR COMPLICATED INPATIENT",
+  "topic": "TYPHOID AND ENTERIC FEVER",
+  "subtopic": "TREATMENT: SEVERE OR COMPLICATED INPATIENT",
+  "sub_subtopic": null,
+  "heading_path": "TYPHOID AND ENTERIC FEVER;TREATMENT: SEVERE OR COMPLICATED INPATIENT",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1j"
+}

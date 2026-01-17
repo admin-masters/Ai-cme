@@ -1,0 +1,5 @@
+{
+    "prevention":  ["carrier state", "conjugate vaccine", "Vi-capsular"],
+    "management":  ["MDR typhoid", "XDR protocol", "azithromycin"],
+    "epidemiology":["hyper-endemic", "paratyphi A"]
+  }

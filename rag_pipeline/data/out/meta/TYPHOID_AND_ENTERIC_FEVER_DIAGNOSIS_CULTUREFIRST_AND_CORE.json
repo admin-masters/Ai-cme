@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "Blood culture is the preferred diagnostic test for enteric fever, with highest yield in the first week of illness. Bone marrow culture is reserved for difficult cases. Supportive tests and imaging are problem-driven.",
+  "learning_objectives": [
+    "Understand the role of blood culture as the primary diagnostic tool for enteric fever.",
+    "Identify the importance of early sampling and adequate blood volume for culture yield.",
+    "Recognize when to use bone marrow culture and supportive laboratory tests.",
+    "Learn the significance of antimicrobial susceptibility testing for Salmonella isolates."
+  ],
+  "key_facts": [
+    "Blood culture yield is highest in the first week of illness and requires 5\u201310 mL in older children.",
+    "Bone marrow culture has the highest sensitivity and remains positive even after antibiotics.",
+    "Antimicrobial susceptibility testing, including MIC values, is critical for treatment decisions.",
+    "Supportive tests like CBC may show low leukocyte count with eosinopenia and mild transaminase elevation.",
+    "Imaging (e.g., abdominal ultrasound) is indicated for worsening abdominal symptoms."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Typhoid Fever",
+    "Enteric Fever",
+    "Blood Culture",
+    "Bone Marrow Examination",
+    "Antimicrobial Susceptibility Testing",
+    "Salmonella Infections",
+    "Diagnostic Imaging",
+    "Complete Blood Count"
+  ],
+  "tags_custom": [
+    "diagnostic methods",
+    "culture techniques",
+    "antibiotic stewardship",
+    "clinical microbiology"
+  ],
+  "reference_quote": "Blood culture is the preferred diagnostic test for enteric fever and should be obtained before antibiotics whenever possible. (National Treatment Guidelines for Antimicrobial Use in Infectious Diseases, India)",
+  "document_key_topics": [
+    "Blood culture as the primary diagnostic tool",
+    "Bone marrow culture for difficult cases",
+    "Antimicrobial susceptibility testing",
+    "Supportive laboratory and imaging tests"
+  ],
+  "chunk_heading": "TYPHOID AND ENTERIC FEVER;DIAGNOSIS: CULTURE-FIRST AND CORE",
+  "topic": "TYPHOID AND ENTERIC FEVER",
+  "subtopic": "DIAGNOSIS: CULTURE-FIRST AND CORE",
+  "sub_subtopic": null,
+  "heading_path": "TYPHOID AND ENTERIC FEVER;DIAGNOSIS: CULTURE-FIRST AND CORE",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1g"
+}

@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "This section discusses diagnostic pitfalls in typhoid and enteric fever, emphasizing the limitations of serologic tests like Widal, the role of cultures, and the importance of stage-specific test selection.",
+  "learning_objectives": [
+    "Understand the limitations of serologic tests, including the Widal test, in diagnosing typhoid fever.",
+    "Identify appropriate diagnostic tests based on the stage of illness in typhoid and enteric fever.",
+    "Recognize the role of blood, bone marrow, stool, and urine cultures in typhoid diagnosis.",
+    "Evaluate the utility and limitations of molecular tests and rapid antibody kits."
+  ],
+  "key_facts": [
+    "The Widal test is prone to false positives in endemic areas and false negatives in early illness or post-antibiotic use.",
+    "National guidelines discourage using a single Widal result for diagnosis; paired rising titers are more meaningful but rarely inform acute decisions.",
+    "Blood culture is the preferred diagnostic test in the first week of illness and remains useful up to 14 days.",
+    "Bone marrow culture is recommended in cases of high suspicion with repeatedly negative blood cultures.",
+    "Stool and urine cultures are not first-line for acute diagnosis but are useful for outbreak investigations and carrier detection.",
+    "Molecular tests (e.g., PCR) are not yet standard due to cost, availability, and limited validation."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Typhoid Fever",
+    "Enteric Fever",
+    "Serologic Tests",
+    "Blood Culture",
+    "Bone Marrow Culture",
+    "Molecular Diagnostic Techniques",
+    "Widal Test",
+    "Carrier State"
+  ],
+  "tags_custom": [
+    "diagnostic pitfalls",
+    "test selection",
+    "culture methods",
+    "serology limitations",
+    "molecular diagnostics"
+  ],
+  "reference_quote": "National guidance discourages using a single Widal result to confirm or exclude typhoid; if serology is used at all because culture is unavailable, a paired, rising titer is more meaningful than a single sample.",
+  "document_key_topics": [
+    "Limitations of serologic tests in typhoid diagnosis",
+    "Stage-specific diagnostic test selection",
+    "Role of cultures in typhoid and enteric fever",
+    "Emerging molecular diagnostic techniques"
+  ],
+  "chunk_heading": "TYPHOID AND ENTERIC FEVER;DIAGNOSIS: WHAT NOT TO USE AND TEST",
+  "topic": "TYPHOID AND ENTERIC FEVER",
+  "subtopic": "DIAGNOSIS: WHAT NOT TO USE AND TEST",
+  "sub_subtopic": null,
+  "heading_path": "TYPHOID AND ENTERIC FEVER;DIAGNOSIS: WHAT NOT TO USE AND TEST",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1h"
+}

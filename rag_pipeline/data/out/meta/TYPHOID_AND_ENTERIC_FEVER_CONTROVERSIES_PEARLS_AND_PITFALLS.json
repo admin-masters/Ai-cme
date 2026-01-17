@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "This section discusses diagnostic and treatment pitfalls in typhoid and enteric fever, emphasizing proper antibiotic use, diagnostic accuracy, and the role of vaccination and WASH measures in prevention.",
+  "learning_objectives": [
+    "Understand the diagnostic challenges and limitations of serological tests like Widal in endemic areas.",
+    "Learn appropriate antibiotic stewardship practices, including de-escalation based on susceptibility data.",
+    "Recognize the indications for corticosteroid use in severe enteric fever cases.",
+    "Appreciate the role of vaccination and WASH measures in reducing typhoid incidence."
+  ],
+  "key_facts": [
+    "Fever may persist for up to 7 days on effective therapy, especially with cephalosporins.",
+    "Widal test results are unreliable in endemic areas and should not replace culture-based diagnosis.",
+    "Empiric fluoroquinolones are generally avoided in children due to resistance and safety concerns.",
+    "High-dose dexamethasone is reserved for enteric fever with shock or encephalopathy.",
+    "Vaccination reduces typhoid but not paratyphoid; WASH measures remain essential for prevention."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Typhoid Fever",
+    "Enteric Fever",
+    "Antibiotic Stewardship",
+    "Corticosteroids",
+    "Vaccination",
+    "Water Sanitation and Hygiene",
+    "Drug Resistance, Bacterial",
+    "Diagnostic Errors"
+  ],
+  "tags_custom": [
+    "antibiotic management",
+    "diagnostic pitfalls",
+    "vaccination strategies",
+    "pediatric infectious diseases"
+  ],
+  "reference_quote": "Fever may take up to a week to resolve on effective therapy, especially with cephalosporins; judge response by toxicity, intake, and hemodynamics, and change antibiotics early only when the child is worsening or clearly not improving by day 5\u20137. (Source: National Treatment Guidelines for Antimicrobial Use in Infectious Diseases, India)",
+  "document_key_topics": [
+    "Diagnostic pitfalls in typhoid and enteric fever",
+    "Antibiotic stewardship and resistance management",
+    "Role of vaccination and WASH in prevention",
+    "Indications for corticosteroid use in severe cases"
+  ],
+  "chunk_heading": "TYPHOID AND ENTERIC FEVER;CONTROVERSIES, PEARLS, AND PITFALLS",
+  "topic": "TYPHOID AND ENTERIC FEVER",
+  "subtopic": "CONTROVERSIES, PEARLS, AND PITFALLS",
+  "sub_subtopic": null,
+  "heading_path": "TYPHOID AND ENTERIC FEVER;CONTROVERSIES, PEARLS, AND PITFALLS",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "1s"
+}

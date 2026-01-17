@@ -1,0 +1,47 @@
+{
+  "chunk_summary": "This section discusses neurologic, hepatic, cardiac, and hyperinflammatory complications of typhoid and enteric fever, including management strategies for encephalopathy, myocarditis, hepatic involvement, and secondary hemophagocytic lymphohistiocytosis (HLH).",
+  "learning_objectives": [
+    "Understand the clinical presentation and management of typhoid encephalopathy, including dexamethasone dosing.",
+    "Recognize hepatic involvement in typhoid fever and differentiate it from other causes of jaundice.",
+    "Identify and manage rare complications such as myocarditis and secondary HLH in enteric fever."
+  ],
+  "key_facts": [
+    "Typhoid encephalopathy requires dexamethasone: 3 mg/kg loading dose followed by 1 mg/kg every 6 hours for 48 hours.",
+    "Hepatic involvement often presents with mild transaminase elevation and hepatomegaly; jaundice warrants evaluation for viral hepatitis or cholangitis.",
+    "Myocarditis is rare but potentially fatal; suspect it with persistent tachycardia, arrhythmia, or unexplained shock.",
+    "Secondary HLH is characterized by persistent fever, cytopenias, organomegaly, hyperferritinemia, or coagulopathy.",
+    "Management of HLH includes infection treatment and immunomodulatory therapy, often corticosteroids."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Typhoid Fever",
+    "Enteric Fever",
+    "Encephalopathy",
+    "Hepatitis",
+    "Myocarditis",
+    "Hemophagocytic Lymphohistiocytosis",
+    "Shock",
+    "Corticosteroids"
+  ],
+  "tags_custom": [
+    "Neurologic complications",
+    "Hepatic involvement",
+    "Cardiac complications",
+    "Hyperinflammatory syndromes"
+  ],
+  "reference_quote": "Typhoid encephalopathy presents with delirium, confusion, obtundation, or coma in a child with systemic toxicity and requires immediate escalation of care. Adjunct dexamethasone is recommended for severe disease with shock or encephalopathy using a short, high-dose regimen.",
+  "document_key_topics": [
+    "Neurologic complications in typhoid fever",
+    "Hepatic involvement in enteric fever",
+    "Cardiac complications such as myocarditis",
+    "Hyperinflammatory syndromes including secondary HLH"
+  ],
+  "chunk_heading": "TYPHOID AND ENTERIC FEVER;COMPLICATIONS II: NEUROLOGIC, HEPATIC,",
+  "topic": "TYPHOID AND ENTERIC FEVER",
+  "subtopic": "COMPLICATIONS II: NEUROLOGIC, HEPATIC,",
+  "sub_subtopic": null,
+  "heading_path": "TYPHOID AND ENTERIC FEVER;COMPLICATIONS II: NEUROLOGIC, HEPATIC,",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "1n"
+}

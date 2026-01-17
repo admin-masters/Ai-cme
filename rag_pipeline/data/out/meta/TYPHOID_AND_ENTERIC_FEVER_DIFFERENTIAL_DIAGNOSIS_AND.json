@@ -1,0 +1,51 @@
+{
+  "chunk_summary": "Differential diagnosis of typhoid and enteric fever emphasizes ruling out co-infections like malaria, dengue, scrub typhus, and tuberculosis, especially in atypical cases or failure to respond to therapy in endemic regions like India.",
+  "learning_objectives": [
+    "Understand the differential diagnosis process for typhoid and enteric fever in pediatric cases.",
+    "Identify key co-infections such as malaria, dengue, scrub typhus, and leptospirosis that mimic enteric fever.",
+    "Recognize clinical signs like eschar, conjunctival suffusion, or jaundice to differentiate conditions.",
+    "Learn when to reconsider diagnosis and evaluate for complications or chronic conditions."
+  ],
+  "key_facts": [
+    "Enteric fever is a common cause of prolonged pediatric fever in India.",
+    "Malaria and dengue can coexist with enteric fever and present with hepatosplenomegaly.",
+    "Scrub typhus mimics typhoid; look for eschar and use region-specific tests.",
+    "Leptospirosis is associated with conjunctival suffusion, myalgias, and flood-water exposure.",
+    "Persistent fever beyond two weeks may indicate tuberculosis, endocarditis, or malignancy.",
+    "Failure to improve on anti-typhoidal therapy warrants diagnostic reconsideration.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Typhoid Fever",
+    "Enteric Fever",
+    "Malaria",
+    "Dengue",
+    "Scrub Typhus",
+    "Leptospirosis",
+    "Tuberculosis",
+    "Differential Diagnosis"
+  ],
+  "tags_custom": [
+    "Pediatric fever",
+    "Co-infections",
+    "Diagnostic challenges",
+    "India-specific epidemiology",
+    "Prolonged fever evaluation"
+  ],
+  "reference_quote": "Malaria and dengue are high-priority exclusions in many regions; both can present with fever, headache, and hepatosplenomegaly, and both may coexist with enteric fever. (StatPearls, NCBI Bookshelf)",
+  "document_key_topics": [
+    "Differential diagnosis of typhoid and enteric fever",
+    "Co-infections mimicking enteric fever",
+    "Diagnostic reconsideration in atypical cases",
+    "Region-specific testing and clinical signs"
+  ],
+  "chunk_heading": "TYPHOID AND ENTERIC FEVER;DIFFERENTIAL DIAGNOSIS AND CO-INFECTIONS",
+  "topic": "TYPHOID AND ENTERIC FEVER",
+  "subtopic": "DIFFERENTIAL DIAGNOSIS AND CO-INFECTIONS",
+  "sub_subtopic": null,
+  "heading_path": "TYPHOID AND ENTERIC FEVER;DIFFERENTIAL DIAGNOSIS AND CO-INFECTIONS",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1f"
+}

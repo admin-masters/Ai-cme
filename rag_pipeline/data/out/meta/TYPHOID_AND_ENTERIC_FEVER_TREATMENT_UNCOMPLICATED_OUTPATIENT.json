@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "Outpatient management of uncomplicated enteric fever includes cefixime or azithromycin as first-line antibiotics, with supportive care and close monitoring for complications or resistance.",
+  "learning_objectives": [
+    "Understand the first-line antibiotic regimens for uncomplicated enteric fever in outpatient settings.",
+    "Recognize the importance of monitoring clinical response and danger signs in children with enteric fever.",
+    "Learn supportive care measures, including hydration, fever management, and nutritional support.",
+    "Identify when to escalate care for suspected complications or treatment failure."
+  ],
+  "key_facts": [
+    "Cefixime 20 mg/kg/day (divided twice daily) for 10\u201314 days is a practical first-line oral regimen.",
+    "Azithromycin 20 mg/kg once daily (max 1 g/day) for 7 days is an effective alternative.",
+    "Co-trimoxazole (trimethoprim 8 mg/kg/day, divided twice daily for 14 days) is a stewardship-friendly option if susceptibility allows.",
+    "Fever may persist for 4\u20137 days despite effective therapy; monitor overall condition and fever trends.",
+    "Reassessment within 48 hours is recommended, with urgent return advised for worsening symptoms.",
+    "Empiric fluoroquinolones are generally avoided in children due to resistance and safety concerns."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Typhoid Fever",
+    "Enteric Fever",
+    "Antibiotic Therapy",
+    "Cefixime",
+    "Azithromycin",
+    "Co-trimoxazole",
+    "Outpatient Care",
+    "Pediatric Infectious Diseases"
+  ],
+  "tags_custom": [
+    "uncomplicated enteric fever",
+    "antibiotic stewardship",
+    "pediatric management",
+    "outpatient treatment"
+  ],
+  "reference_quote": "Antibiotics should be started after blood culture is collected when feasible, but treatment should not be delayed in a strongly suspected case. (National Treatment Guidelines for Antimicrobial Use in Infectious Diseases, India)",
+  "document_key_topics": [
+    "Antibiotic regimens for uncomplicated enteric fever",
+    "Supportive care in outpatient management",
+    "Monitoring and reassessment guidelines"
+  ],
+  "chunk_heading": "TYPHOID AND ENTERIC FEVER;TREATMENT: UNCOMPLICATED OUTPATIENT",
+  "topic": "TYPHOID AND ENTERIC FEVER",
+  "subtopic": "TREATMENT: UNCOMPLICATED OUTPATIENT",
+  "sub_subtopic": null,
+  "heading_path": "TYPHOID AND ENTERIC FEVER;TREATMENT: UNCOMPLICATED OUTPATIENT",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1i"
+}
