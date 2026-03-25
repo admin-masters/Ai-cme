@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Risk-stratified follow-up for MAM involves baseline assessment, risk-based scheduling, and response evaluation to ensure effective outpatient care and prevent deterioration.",
+  "learning_objectives": [
+    "Understand the importance of baseline anthropometric and clinical assessments in MAM follow-up.",
+    "Learn to classify children into high-risk and standard-risk categories using WHO criteria.",
+    "Develop skills to assess response trajectories and adjust follow-up plans accordingly.",
+    "Recognize common programmatic failure points and strategies to address them."
+  ],
+  "key_facts": [
+    "Baseline assessment includes weight, height/length, oedema, and MUAC or WHZ/WLZ.",
+    "WHO risk criteria include MUAC 115\u2013119 mm, WAZ < -3, age < 24 months, relapse, comorbidity, or severe social adversity.",
+    "High-risk children should be reviewed within 7 days, while standard-risk children within 14 days.",
+    "Follow-up focuses on clinical well-being, dietary intake, and anthropometric improvement.",
+    "State models often recommend weekly or fortnightly visits during an 8-week active program period."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Malnutrition",
+    "Nutritional Support",
+    "Anthropometry",
+    "Child Nutrition Disorders",
+    "Risk Assessment",
+    "Follow-Up Studies",
+    "Feeding Behavior",
+    "Program Evaluation"
+  ],
+  "tags_custom": [
+    "MAM follow-up",
+    "risk-based care",
+    "supplementary feeding",
+    "response assessment",
+    "outpatient malnutrition care"
+  ],
+  "reference_quote": "Use WHO risk criteria (for example MUAC 115\u2013119 mm, WAZ < -3, age <24 months, relapse, comorbidity, or severe social adversity) to classify the child as high-risk versus standard-risk.",
+  "document_key_topics": [
+    "Baseline assessment in MAM care",
+    "Risk-stratified follow-up scheduling",
+    "Response assessment and program adjustments",
+    "Supplementary feeding pathways"
+  ],
+  "chunk_heading": "MODERATE ACUTE MALNUTRITION (MAM) AND SUPPLEMENTARY FEEDING;FOLLOW-UP ALGORITHMS AND ESCALATION PATHWAYS;RISK-STRATIFIED FOLLOW-UP SCHEDULING AND RESPONSE ASSESSMENT;",
+  "topic": "MODERATE ACUTE MALNUTRITION (MAM) AND SUPPLEMENTARY FEEDING",
+  "subtopic": "FOLLOW-UP ALGORITHMS AND ESCALATION PATHWAYS",
+  "sub_subtopic": "RISK-STRATIFIED FOLLOW-UP SCHEDULING AND RESPONSE ASSESSMENT",
+  "heading_path": "MODERATE ACUTE MALNUTRITION (MAM) AND SUPPLEMENTARY FEEDING;FOLLOW-UP ALGORITHMS AND ESCALATION PATHWAYS;RISK-STRATIFIED FOLLOW-UP SCHEDULING AND RESPONSE ASSESSMENT;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "3k1"
+}

@@ -1,0 +1,47 @@
+{
+  "chunk_summary": "This section outlines the importance of discharge phenotyping for preterm/LBW/ELBW infants to create tailored post-discharge nutrition plans, focusing on growth, disease, feeding, and medication phenotypes to optimize outcomes.",
+  "learning_objectives": [
+    "Understand the role of discharge phenotyping in post-discharge nutrition planning for preterm/LBW/ELBW infants.",
+    "Identify key phenotype elements such as growth, disease, feeding, and medication profiles for individualized care.",
+    "Learn how to document and operationalize phenotype data in discharge summaries and clinic notes."
+  ],
+  "key_facts": [
+    "Discharge phenotyping includes birth phenotype (e.g., GA, LBW, VLBW, ELBW, SGA, IUGR).",
+    "Growth phenotype includes weight, length, and head circumference z-scores, and EUGR or centile crossing.",
+    "Disease phenotype includes chronic respiratory morbidity, BPD, CHD, post-NEC, cholestasis, and neurodisability risk.",
+    "Feeding phenotype assesses breastfeeding type, transfer adequacy, and caloric density of formula.",
+    "Medication phenotype (e.g., diuretics, corticosteroids) impacts electrolyte, bone-mineral risk, and energy strategies.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Infant, Premature",
+    "Low Birth Weight Infant",
+    "Nutritional Support",
+    "Growth Disorders",
+    "Breast Feeding",
+    "Enteral Nutrition",
+    "Phenotype",
+    "Postnatal Care"
+  ],
+  "tags_custom": [
+    "discharge planning",
+    "nutrition phenotyping",
+    "preterm infant care",
+    "growth monitoring"
+  ],
+  "reference_quote": "Transitioning the breastfeeding preterm infant from the NICU to home requires careful planning to ensure adequate nutrition and growth support. (Academy of Breastfeeding Medicine, Clinical Protocol #12)",
+  "document_key_topics": [
+    "Discharge phenotyping for preterm/LBW/ELBW infants",
+    "Post-discharge nutrition planning",
+    "Growth and feeding phenotype documentation"
+  ],
+  "chunk_heading": "PRETERM/LBW/ELBW POST-DISCHARGE NUTRITION;CLINICAL BURDEN AND DISCHARGE PHENOTYPING FOR NUTRITION PLANS;DISCHARGE PHENOTYPE ELEMENTS FOR FEEDING PLANS;",
+  "topic": "PRETERM/LBW/ELBW POST-DISCHARGE NUTRITION",
+  "subtopic": "CLINICAL BURDEN AND DISCHARGE PHENOTYPING FOR NUTRITION PLANS",
+  "sub_subtopic": "DISCHARGE PHENOTYPE ELEMENTS FOR FEEDING PLANS",
+  "heading_path": "PRETERM/LBW/ELBW POST-DISCHARGE NUTRITION;CLINICAL BURDEN AND DISCHARGE PHENOTYPING FOR NUTRITION PLANS;DISCHARGE PHENOTYPE ELEMENTS FOR FEEDING PLANS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1c2"
+}

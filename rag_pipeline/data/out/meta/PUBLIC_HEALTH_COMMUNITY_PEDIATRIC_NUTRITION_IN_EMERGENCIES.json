@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "In emergencies like displacement or conflict, pediatric nutrition risks escalate due to malnutrition, dehydration, and unsafe feeding. Breastfeeding support, systematic screening for wasting, and safe feeding practices are critical interventions.",
+  "learning_objectives": [
+    "Understand the nutritional risks and priorities in pediatric emergencies, including malnutrition and dehydration.",
+    "Learn strategies to protect and promote breastfeeding during emergencies.",
+    "Identify and manage acute malnutrition using MUAC and edema checks.",
+    "Implement safe feeding and rehydration practices in resource-limited settings."
+  ],
+  "key_facts": [
+    "Acute malnutrition, dehydration, and unsafe infant feeding are dominant risks in emergencies.",
+    "Breastfeeding is the first-line emergency nutrition intervention; relactation and maternal support are critical.",
+    "Uncontrolled donations of breastmilk substitutes increase infection risks in disrupted WASH settings.",
+    "Screening for wasting should use MUAC and edema checks when weight/length tools are unavailable.",
+    "For children with diarrhea, prioritize ORS, zinc, and continued feeding; ensure safe water for rehydration solutions.",
+    "Emergency supplementary feeding should transition to routine systems like ICDS and PM POSHAN as soon as feasible.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Pediatric Nutrition",
+    "Acute Malnutrition",
+    "Breastfeeding",
+    "Diarrhea",
+    "Emergency Medical Services",
+    "Wasting Syndrome",
+    "Water, Sanitation, and Hygiene (WASH)",
+    "Humanitarian Assistance"
+  ],
+  "tags_custom": [
+    "nutrition emergencies",
+    "pediatric displacement",
+    "breastfeeding support",
+    "malnutrition screening"
+  ],
+  "reference_quote": "Protect breastfeeding as the first-line emergency nutrition intervention. Displacement often triggers perceived milk insufficiency and unnecessary formula introduction; this increases infection risk when water and sanitation are disrupted.",
+  "document_key_topics": [
+    "Pediatric nutrition in emergencies",
+    "Breastfeeding and infant feeding practices",
+    "Screening and management of acute malnutrition",
+    "Safe water, sanitation, and hygiene (WASH) in emergencies"
+  ],
+  "chunk_heading": "PUBLIC HEALTH & COMMUNITY PEDIATRIC NUTRITION;NUTRITION IN EMERGENCIES DISPLACEMENT AND HUMANITARIAN CONTEXTS;",
+  "topic": "PUBLIC HEALTH & COMMUNITY PEDIATRIC NUTRITION",
+  "subtopic": "NUTRITION IN EMERGENCIES DISPLACEMENT AND HUMANITARIAN CONTEXTS",
+  "sub_subtopic": null,
+  "heading_path": "PUBLIC HEALTH & COMMUNITY PEDIATRIC NUTRITION;NUTRITION IN EMERGENCIES DISPLACEMENT AND HUMANITARIAN CONTEXTS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u00a01"
+}

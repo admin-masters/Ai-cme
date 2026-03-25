@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "Emergency referral criteria for children with obesity focus on acute metabolic, cardiovascular, mental health, and orthopedic complications requiring immediate evaluation and stabilization.",
+  "learning_objectives": [
+    "Identify emergency comorbidities in pediatric obesity requiring same-day referral.",
+    "Understand triage criteria for acute metabolic decompensation and hypertensive emergencies.",
+    "Recognize mental health crises and eating disorder instability in obese children.",
+    "Assess orthopedic and neurologic red flags for urgent imaging and specialist referral."
+  ],
+  "key_facts": [
+    "Acute metabolic decompensation signs include polyuria, polydipsia, vomiting, Kussmaul breathing, and altered sensorium; refer immediately for suspected DKA.",
+    "Hypertensive emergency symptoms include severe headache, chest pain, dyspnea, neurologic deficits, or visual changes; confirmed very high BP requires urgent care.",
+    "Suicidal ideation with plan, self-harm, or severe depression mandates same-day psychiatric assessment.",
+    "Suspected SCFE (slipped capital femoral epiphysis) presents as acute hip/knee pain with limp or inability to bear weight; requires urgent imaging and non\u2013weight-bearing instructions.",
+    "Suspected IIH (idiopathic intracranial hypertension) with headache and visual symptoms or papilledema necessitates urgent neuroimaging and ophthalmology referral.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Obesity",
+    "Diabetic Ketoacidosis",
+    "Hypertension",
+    "Mental Health",
+    "Eating Disorders",
+    "Slipped Capital Femoral Epiphysis",
+    "Idiopathic Intracranial Hypertension",
+    "Emergency Medical Services"
+  ],
+  "tags_custom": [
+    "pediatric obesity emergencies",
+    "triage criteria",
+    "acute comorbidities",
+    "same-day referrals",
+    "structured outpatient care"
+  ],
+  "reference_quote": "Explicit triage criteria prevent delayed care for time-sensitive complications and reduce medicolegal risk. (Source: https://pubmed.ncbi.nlm.nih.gov/36250645/)",
+  "document_key_topics": [
+    "Emergency referral criteria for pediatric obesity complications",
+    "Acute metabolic and cardiovascular emergencies",
+    "Mental health crises and eating disorder instability",
+    "Orthopedic and neurologic red flags in obese children"
+  ],
+  "chunk_heading": "OVERNUTRITION & OBESITY MANAGEMENT;SEQUENCED OUTPATIENT PATHWAY AND FOLLOW-UP CADENCE;SAME-DAY REFERRAL CRITERIA FOR EMERGENCY COMORBIDITY PRESENTATIONS;",
+  "topic": "OVERNUTRITION & OBESITY MANAGEMENT",
+  "subtopic": "SEQUENCED OUTPATIENT PATHWAY AND FOLLOW-UP CADENCE",
+  "sub_subtopic": "SAME-DAY REFERRAL CRITERIA FOR EMERGENCY COMORBIDITY PRESENTATIONS",
+  "heading_path": "OVERNUTRITION & OBESITY MANAGEMENT;SEQUENCED OUTPATIENT PATHWAY AND FOLLOW-UP CADENCE;SAME-DAY REFERRAL CRITERIA FOR EMERGENCY COMORBIDITY PRESENTATIONS;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "1\u00902.1"
+}

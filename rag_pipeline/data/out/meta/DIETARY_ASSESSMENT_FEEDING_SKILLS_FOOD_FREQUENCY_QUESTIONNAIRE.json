@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "This section discusses the design, use, and limitations of food frequency questionnaires (FFQs) for dietary assessment, particularly in children, with a focus on cultural tailoring and clinical applications in India.",
+  "learning_objectives": [
+    "Understand the purpose and structure of food frequency questionnaires (FFQs) in dietary assessment.",
+    "Identify the clinical scenarios where FFQs are most appropriate, such as assessing habitual dietary patterns.",
+    "Recognize the limitations of FFQs, including memory bias, social desirability bias, and the need for local validation.",
+    "Learn how to adapt FFQs for specific populations, such as children or low-literacy settings."
+  ],
+  "key_facts": [
+    "FFQs estimate habitual diet over a reference period of 1\u20133 months.",
+    "Semi-quantitative FFQs include portion sizes but are primarily used for ranking intake rather than precise nutrient calculation.",
+    "In children under 7\u20138 years, caregiver reporting is required, which may miss foods eaten outside the home.",
+    "FFQs should be validated against repeated 24-hour recalls to ensure measurement validity.",
+    "In India, FFQs must be tailored to regional and seasonal dietary patterns, with pictorial or interviewer administration preferred in low-literacy settings.",
+    "Long recall windows in FFQs can amplify memory and social desirability bias."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Dietary Assessment",
+    "Food Frequency Questionnaires",
+    "Nutritional Status",
+    "Child Nutrition",
+    "Dietary Habits",
+    "Caregiver Reporting",
+    "India",
+    "Validation Studies"
+  ],
+  "tags_custom": [
+    "FFQ design",
+    "dietary patterns",
+    "pediatric nutrition",
+    "cultural tailoring",
+    "clinical nutrition tools"
+  ],
+  "reference_quote": "A FFQ estimates habitual diet by asking how often a child consumes a predefined list of foods or food groups over a reference period (typically 1\u20133 months).",
+  "document_key_topics": [
+    "Food frequency questionnaire design and use",
+    "Clinical applications of FFQs in pediatric nutrition",
+    "Limitations and biases in FFQ methodology",
+    "Cultural and regional tailoring of dietary assessment tools"
+  ],
+  "chunk_heading": "DIETARY ASSESSMENT & FEEDING SKILLS EVALUATION;FOOD FREQUENCY QUESTIONNAIRE DESIGN AND INTERPRETATION;",
+  "topic": "DIETARY ASSESSMENT & FEEDING SKILLS EVALUATION",
+  "subtopic": "FOOD FREQUENCY QUESTIONNAIRE DESIGN AND INTERPRETATION",
+  "sub_subtopic": null,
+  "heading_path": "DIETARY ASSESSMENT & FEEDING SKILLS EVALUATION;FOOD FREQUENCY QUESTIONNAIRE DESIGN AND INTERPRETATION;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1h"
+}

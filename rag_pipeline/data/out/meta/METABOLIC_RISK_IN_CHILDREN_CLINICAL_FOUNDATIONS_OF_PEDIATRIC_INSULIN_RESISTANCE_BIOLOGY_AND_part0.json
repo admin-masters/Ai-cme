@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section explores insulin resistance biology in children, emphasizing the adipose-muscle-liver axis, screening pitfalls, and clinical cues for early detection and management during puberty.",
+  "learning_objectives": [
+    "Understand the role of the adipose-muscle-liver axis in pediatric insulin resistance.",
+    "Identify clinical cues for insulin resistance, including central adiposity and acanthosis nigricans.",
+    "Evaluate the limitations of fasting insulin and HOMA-IR as screening tools.",
+    "Apply clinical guidelines for dysglycemia, dyslipidemia, and liver risk assessment in children."
+  ],
+  "key_facts": [
+    "Visceral and ectopic fat drive hepatic de novo lipogenesis and impair insulin signaling.",
+    "Puberty introduces physiologic insulin resistance, requiring earlier follow-up for borderline abnormalities.",
+    "High-yield clinical cues include central adiposity, acanthosis nigricans, elevated BP, and dyslipidemia (high triglycerides, low HDL-C).",
+    "Fasting insulin and HOMA-IR are unreliable for diagnosing prediabetes or T2DM due to variability.",
+    "Case vignette: A 12-year-old with central adiposity and acanthosis nigricans should undergo standardized anthropometry, BP measurement, and bundled screening for dysglycemia and liver risk."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Insulin Resistance",
+    "Pediatrics",
+    "Adiposity",
+    "Puberty",
+    "Dyslipidemia",
+    "Nonalcoholic Fatty Liver Disease",
+    "Type 2 Diabetes Mellitus",
+    "Metabolic Syndrome"
+  ],
+  "tags_custom": [
+    "pediatric metabolic risk",
+    "insulin resistance screening",
+    "puberty-related insulin resistance",
+    "clinical cues for dysglycemia",
+    "adipose-muscle-liver axis"
+  ],
+  "reference_quote": "Major guidance emphasizes that fasting insulin is highly variable and does not reliably diagnose prediabetes or T2DM, and its use can lead to false labeling and unnecessary anxiety. (Source: NASPGHAN Clinical Practice Guideline)",
+  "document_key_topics": [
+    "Insulin resistance biology in children",
+    "Screening pitfalls for pediatric metabolic risk",
+    "Clinical cues for early detection of dysglycemia",
+    "Impact of puberty on insulin resistance"
+  ],
+  "chunk_heading": "METABOLIC RISK IN CHILDREN;CLINICAL FOUNDATIONS OF PEDIATRIC METABOLIC RISK;INSULIN RESISTANCE BIOLOGY AND SCREENING PITFALLS;",
+  "topic": "METABOLIC RISK IN CHILDREN",
+  "subtopic": "CLINICAL FOUNDATIONS OF PEDIATRIC METABOLIC RISK",
+  "sub_subtopic": "INSULIN RESISTANCE BIOLOGY AND SCREENING PITFALLS",
+  "heading_path": "METABOLIC RISK IN CHILDREN;CLINICAL FOUNDATIONS OF PEDIATRIC METABOLIC RISK;INSULIN RESISTANCE BIOLOGY AND SCREENING PITFALLS;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1f4.1"
+}

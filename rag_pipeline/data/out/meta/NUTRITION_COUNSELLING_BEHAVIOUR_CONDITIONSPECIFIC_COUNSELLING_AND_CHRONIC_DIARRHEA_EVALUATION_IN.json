@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Chronic diarrhea in Indian practice requires a two-stage evaluation: stool characterization and targeted etiologic testing, alongside nutritional support and selective treatment based on specific triggers.",
+  "learning_objectives": [
+    "Understand the definition and stages of chronic diarrhea evaluation in Indian practice.",
+    "Learn nutritional strategies to prevent secondary malnutrition during chronic diarrhea.",
+    "Identify key diagnostic tests for stool characterization and common etiologies in India.",
+    "Recognize referral triggers for systemic or immunodeficiency-associated diarrhea."
+  ],
+  "key_facts": [
+    "Chronic diarrhea is defined as lasting more than 14 days.",
+    "ORS, zinc supplementation, and energy-dense feeding are essential during treatment.",
+    "Avoid routine antibiotics unless dysentery or systemic bacterial illness is suspected.",
+    "Stool pH and reducing substances can assess watery diarrhea in resource-limited settings.",
+    "Screen for celiac disease, parasitic infections, and TB in chronic diarrhea cases.",
+    "HIV testing is recommended for immunodeficiency-associated diarrhea with recurrent infections."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Diarrhea, Chronic",
+    "Nutrition Therapy",
+    "Malnutrition",
+    "Celiac Disease",
+    "Parasitic Diseases",
+    "Tuberculosis",
+    "HIV Infections",
+    "India"
+  ],
+  "tags_custom": [
+    "Indian pediatric practice",
+    "stool diagnostics",
+    "referral pathways",
+    "nutritional counseling",
+    "chronic diarrhea management"
+  ],
+  "reference_quote": "Persistent or chronic diarrhea should be evaluated in two stages: characterize the diarrhea type, then pursue targeted etiologic testing. Start treatment while evaluating: continue age-appropriate feeding, use ORS during episodes, give zinc, and increase energy density to prevent secondary malnutrition. (Indian Pediatrics Consensus Statement)",
+  "document_key_topics": [
+    "Chronic diarrhea evaluation and management",
+    "Nutritional strategies during diarrhea",
+    "Referral triggers for systemic or immunodeficiency-associated diarrhea"
+  ],
+  "chunk_heading": "NUTRITION COUNSELLING & BEHAVIOUR CHANGE SKILLS;CONDITION-SPECIFIC COUNSELLING AND ESCALATION PATHWAYS;CHRONIC DIARRHEA EVALUATION IN INDIAN PRACTICE AND REFERRAL TRIGGERS;",
+  "topic": "NUTRITION COUNSELLING & BEHAVIOUR CHANGE SKILLS",
+  "subtopic": "CONDITION-SPECIFIC COUNSELLING AND ESCALATION PATHWAYS",
+  "sub_subtopic": "CHRONIC DIARRHEA EVALUATION IN INDIAN PRACTICE AND REFERRAL TRIGGERS",
+  "heading_path": "NUTRITION COUNSELLING & BEHAVIOUR CHANGE SKILLS;CONDITION-SPECIFIC COUNSELLING AND ESCALATION PATHWAYS;CHRONIC DIARRHEA EVALUATION IN INDIAN PRACTICE AND REFERRAL TRIGGERS;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1~5"
+}

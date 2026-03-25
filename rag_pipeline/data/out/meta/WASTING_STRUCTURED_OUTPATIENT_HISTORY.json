@@ -1,0 +1,51 @@
+{
+  "chunk_summary": "Structured outpatient history and feeding observation for wasting focuses on assessing appetite, feeding function, illness drivers, and complications, alongside real-time feeding observation to guide management plans.",
+  "learning_objectives": [
+    "Understand the clinical assessment of moderate wasting beyond anthropometric measures.",
+    "Identify illness drivers and contextual constraints contributing to wasting.",
+    "Perform feeding observations to detect unsafe swallowing and caregiver-child interaction issues.",
+    "Recognize early complications and micronutrient deficiencies affecting follow-up intensity."
+  ],
+  "key_facts": [
+    "Moderate wasting should be assessed as a clinical syndrome, not just an anthropometric label.",
+    "Key disposition drivers include appetite, recent weight loss or falling MUAC, and danger signs (ETAT/IMNCI).",
+    "Feeding observation detects unsafe swallowing, inappropriate textures, and poor caregiver-child interaction.",
+    "Examination should prioritize hydration status, respiratory rate, pallor, and bilateral pitting oedema.",
+    "Micronutrient deficiencies like periorificial dermatitis, angular cheilitis, and Bitot spots should be documented.",
+    "Abdominal distension or hepatosplenomegaly may indicate chronic infection, TB, or malabsorption.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Wasting Syndrome",
+    "Malnutrition",
+    "Feeding Behavior",
+    "Micronutrient Deficiency",
+    "Anthropometry",
+    "Child Nutrition Disorders",
+    "Caregiver-Child Relations",
+    "Physical Examination"
+  ],
+  "tags_custom": [
+    "feeding observation",
+    "structured history",
+    "moderate wasting",
+    "clinical assessment",
+    "nutritional complications"
+  ],
+  "reference_quote": "Moderate wasting should be assessed as a clinical syndrome, not only an anthropometry label. (Reference 1)",
+  "document_key_topics": [
+    "Clinical assessment of moderate wasting",
+    "Feeding observation and caregiver interaction",
+    "Micronutrient deficiencies and complications",
+    "Illness drivers and contextual constraints"
+  ],
+  "chunk_heading": "WASTING;STRUCTURED OUTPATIENT HISTORY EXAMINATION AND FEEDING OBSERVATION;",
+  "topic": "WASTING",
+  "subtopic": "STRUCTURED OUTPATIENT HISTORY EXAMINATION AND FEEDING OBSERVATION",
+  "sub_subtopic": null,
+  "heading_path": "WASTING;STRUCTURED OUTPATIENT HISTORY EXAMINATION AND FEEDING OBSERVATION;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "3a"
+}

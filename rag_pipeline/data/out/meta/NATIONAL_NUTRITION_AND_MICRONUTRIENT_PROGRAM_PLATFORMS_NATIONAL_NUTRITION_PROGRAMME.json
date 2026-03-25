@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "The convergence model of India's national nutrition programs integrates governance, delivery platforms, interventions, and data systems to address pediatric nutrition, focusing on under-6 services, school meals, and health platforms while emphasizing clinical verification of digital records.",
+  "learning_objectives": [
+    "Understand the four-layer convergence model of India's national nutrition programs.",
+    "Identify key pediatric nutrition delivery platforms and their roles.",
+    "Analyze the gaps between reported service coverage and clinical outcomes using NFHS-5 data.",
+    "Differentiate between nutrition-specific and nutrition-sensitive interventions in clinical practice."
+  ],
+  "key_facts": [
+    "India's under-five stunting rate is 35.5%, wasting is 19.3%, and anaemia prevalence is 67.1% (NFHS-5).",
+    "99.2% of households report iodized salt coverage, but clinical outcomes show persistent malnutrition risks.",
+    "Pediatric nutrition services operate through Anganwadi (ICDS), NHM health platforms, school programs (PM POSHAN), and food-system regulation (FSSAI).",
+    "Saksham Anganwadi and POSHAN 2.0 focus on under-6 nutrition and early childhood services.",
+    "Digital records are proxies for service delivery but require clinical verification using growth charts, dose dates, and diet history."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Child Nutrition Disorders",
+    "Micronutrients",
+    "Nutrition Policy",
+    "Public Health Programs",
+    "Anemia, Iron-Deficiency",
+    "Growth Charts",
+    "Food Fortification",
+    "Health Services Accessibility"
+  ],
+  "tags_custom": [
+    "Pediatric Nutrition",
+    "Convergence Model",
+    "NFHS-5 Data",
+    "POSHAN 2.0",
+    "Clinical Verification"
+  ],
+  "reference_quote": "NFHS-5 highlights why: under-five stunting is 35.5%, wasting 19.3%, and anaemia 67.1% even while iodized salt coverage is reported at 99.2%, so 'benefits issued' does not equal 'risk resolved.'",
+  "document_key_topics": [
+    "Convergence architecture of national nutrition programs",
+    "Pediatric nutrition delivery platforms and interventions",
+    "Clinical verification of digital service records",
+    "NFHS-5 data on malnutrition and service gaps"
+  ],
+  "chunk_heading": "NATIONAL NUTRITION AND FORTIFICATION PROGRAMS IN INDIA;MICRONUTRIENT PROGRAM PLATFORMS AND PEDIATRIC TOUCHPOINTS;NATIONAL NUTRITION PROGRAMME ARCHITECTURE AND CONVERGENCE MENTAL MODEL;",
+  "topic": "NATIONAL NUTRITION AND FORTIFICATION PROGRAMS IN INDIA",
+  "subtopic": "MICRONUTRIENT PROGRAM PLATFORMS AND PEDIATRIC TOUCHPOINTS",
+  "sub_subtopic": "NATIONAL NUTRITION PROGRAMME ARCHITECTURE AND CONVERGENCE MENTAL MODEL",
+  "heading_path": "NATIONAL NUTRITION AND FORTIFICATION PROGRAMS IN INDIA;MICRONUTRIENT PROGRAM PLATFORMS AND PEDIATRIC TOUCHPOINTS;NATIONAL NUTRITION PROGRAMME ARCHITECTURE AND CONVERGENCE MENTAL MODEL;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1c2"
+}

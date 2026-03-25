@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Probabilistic diagnosis of pediatric food allergy involves suspicion, confirmation, avoidance, and planned de-labeling to prevent iatrogenic harm and ensure nutritional adequacy.",
+  "learning_objectives": [
+    "Understand the four stages of probabilistic diagnosis for pediatric food allergy.",
+    "Recognize the importance of planned de-labeling to prevent unnecessary dietary restrictions.",
+    "Learn how to document and manage elimination diets, including baseline symptoms and trial windows.",
+    "Identify strategies to prevent nutritional compromise during therapeutic elimination diets."
+  ],
+  "key_facts": [
+    "Probabilistic diagnosis includes four stages: suspicion, confirmation, avoidance, and planned reintroduction.",
+    "Skipping planned de-labeling can lead to iatrogenic harm, including feeding aversion and increased re-exposure risk.",
+    "Baseline symptoms and growth should be documented before starting an elimination diet.",
+    "Elimination diets should have a defined trial window and explicit stop rules if no improvement is observed.",
+    "For nutritionally central foods (e.g., cow\u2019s milk, egg, wheat), specify substitutes, supplementation, and follow-up within 2\u20134 weeks.",
+    "Every child on avoidance should have a documented reintroduction date and setting."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Food Hypersensitivity",
+    "Pediatrics",
+    "Dietary Therapy",
+    "Elimination Diet",
+    "Oral Food Challenge",
+    "Nutritional Status",
+    "Risk Assessment",
+    "Patient Safety"
+  ],
+  "tags_custom": [
+    "pediatric food allergy",
+    "planned de-labeling",
+    "therapeutic elimination diets",
+    "nutritional management"
+  ],
+  "reference_quote": "Skipping the final stage is a common source of iatrogenic harm: children remain labeled 'allergic,' diets stay unnecessarily narrow, feeding aversion can worsen, and risk may increase on re-exposure after prolonged avoidance because regular ingestion was not maintained. (Source: EAACI guidelines on the diagnosis of IgE-mediated food allergy)",
+  "document_key_topics": [
+    "Stages of probabilistic diagnosis for food allergy",
+    "Planned de-labeling to prevent iatrogenic harm",
+    "Management of elimination diets in children",
+    "Nutritional considerations for food allergy"
+  ],
+  "chunk_heading": "FOOD ALLERGY & THERAPEUTIC ELIMINATION DIETS;FOUNDATIONS AND RISK STRATIFICATION FOR PEDIATRIC FOOD ALLERGY;PROBABILISTIC DIAGNOSIS WITH PLANNED DE-LABELING;",
+  "topic": "FOOD ALLERGY & THERAPEUTIC ELIMINATION DIETS",
+  "subtopic": "FOUNDATIONS AND RISK STRATIFICATION FOR PEDIATRIC FOOD ALLERGY",
+  "sub_subtopic": "PROBABILISTIC DIAGNOSIS WITH PLANNED DE-LABELING",
+  "heading_path": "FOOD ALLERGY & THERAPEUTIC ELIMINATION DIETS;FOUNDATIONS AND RISK STRATIFICATION FOR PEDIATRIC FOOD ALLERGY;PROBABILISTIC DIAGNOSIS WITH PLANNED DE-LABELING;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1b1"
+}

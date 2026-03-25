@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section outlines an India-adapted algorithm for evaluating short stature in school-age children and adolescents, focusing on auxology, growth velocity, and cost-effective diagnostic tests for common etiologies like chronic undernutrition, systemic diseases, and endocrine disorders.",
+  "learning_objectives": [
+    "Understand the algorithmic approach to evaluating short stature in children and adolescents.",
+    "Identify key diagnostic tests for common etiologies such as coeliac disease, hypothyroidism, and chronic infections.",
+    "Learn referral thresholds based on height SDS, growth velocity, and red flags.",
+    "Recognize the importance of contextual tests like TB and HIV evaluations in India."
+  ],
+  "key_facts": [
+    "Height < -3 SD or declining centiles with low growth velocity warrants referral.",
+    "First-line tests include CBC, TSH with free T4, coeliac serology (tTG-IgA and total IgA), urinalysis, renal function, and ESR/CRP.",
+    "Growth velocity assessment requires monitoring over 6\u201312 months.",
+    "Bone age assessment helps differentiate delayed maturation from disease but does not replace growth velocity evaluation.",
+    "Contextual tests include TB evaluation for chronic cough or weight loss and HIV testing for risk factors."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Stunting",
+    "Growth Disorders",
+    "Chronic Undernutrition",
+    "Hypothyroidism",
+    "Coeliac Disease",
+    "Tuberculosis",
+    "HIV Infections",
+    "Auxology"
+  ],
+  "tags_custom": [
+    "Short stature evaluation",
+    "India-specific guidelines",
+    "Growth velocity monitoring",
+    "Referral thresholds",
+    "Diagnostic algorithms"
+  ],
+  "reference_quote": "An India-adapted evaluation pathway for a 'short child' starts with auxology and pattern recognition, then uses high-yield, low-cost tests aligned to common etiologies such as coeliac disease, hypothyroidism, anemia, chronic infection, and chronic kidney disease.",
+  "document_key_topics": [
+    "Algorithmic evaluation of short stature",
+    "Diagnostic tests for growth failure",
+    "Referral thresholds for short children",
+    "Contextual testing for TB and HIV in India"
+  ],
+  "chunk_heading": "STUNTING, CHRONIC UNDERNUTRITION & DETERMINANTS;SCHOOL  AGE AND ADOLESCENT LINEAR GROWTH FAILURE EVALUATION;ALGORITHMIC WORKUP AND REFERRAL THRESHOLDS FOR A SHORT CHILD;",
+  "topic": "STUNTING, CHRONIC UNDERNUTRITION & DETERMINANTS",
+  "subtopic": "SCHOOL  AGE AND ADOLESCENT LINEAR GROWTH FAILURE EVALUATION",
+  "sub_subtopic": "ALGORITHMIC WORKUP AND REFERRAL THRESHOLDS FOR A SHORT CHILD",
+  "heading_path": "STUNTING, CHRONIC UNDERNUTRITION & DETERMINANTS;SCHOOL  AGE AND ADOLESCENT LINEAR GROWTH FAILURE EVALUATION;ALGORITHMIC WORKUP AND REFERRAL THRESHOLDS FOR A SHORT CHILD;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "6x1"
+}

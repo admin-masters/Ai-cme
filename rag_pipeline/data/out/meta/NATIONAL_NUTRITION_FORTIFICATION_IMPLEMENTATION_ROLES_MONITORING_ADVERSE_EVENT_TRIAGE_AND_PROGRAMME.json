@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section outlines adverse event triage and reporting pathways for India's nutrition and fortification programs, focusing on clinical management, documentation, and escalation protocols for events like SAEs, cluster signals, and mild intolerance symptoms.",
+  "learning_objectives": [
+    "Understand the triage process for adverse events in national nutrition programs.",
+    "Learn the criteria for serious adverse events (SAEs) and cluster signals.",
+    "Familiarize with the minimum documentation dataset for adverse event reporting.",
+    "Recognize the importance of clinical care and quality escalation in event management."
+  ],
+  "key_facts": [
+    "Serious adverse events (SAEs) include fatal, life-threatening, disabling events, or those requiring hospitalization after albendazole intake.",
+    "Mild transient symptoms after Vitamin A supplementation (VAS) typically resolve within 24\u201348 hours.",
+    "Immediate triage categories: mild intolerance, potentially serious events, and cluster/rumor events.",
+    "Minimum documentation dataset includes child identifiers, product/dose details, timing, severity, and batch/pack details.",
+    "Cluster signals, such as multiple families reporting similar symptoms, require parallel clinical care and quality escalation."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Adverse Drug Reaction Reporting Systems",
+    "Nutrition Programs",
+    "Vitamin A Deficiency",
+    "Albendazole",
+    "Food Fortification",
+    "Triage",
+    "Clinical Documentation",
+    "Public Health Surveillance"
+  ],
+  "tags_custom": [
+    "adverse event management",
+    "nutrition program safety",
+    "clinical escalation",
+    "documentation standards",
+    "public health protocols"
+  ],
+  "reference_quote": "For NDD, serious adverse events (SAE) include events that are fatal, life-threatening, disabling, or result in hospitalization after albendazole intake.",
+  "document_key_topics": [
+    "Adverse event triage in nutrition programs",
+    "Serious adverse event (SAE) criteria and management",
+    "Cluster signal identification and escalation",
+    "Minimum documentation standards for adverse events"
+  ],
+  "chunk_heading": "NATIONAL NUTRITION & FORTIFICATION PROGRAMS IN INDIA;IMPLEMENTATION ROLES, MONITORING INDICATORS, AND CLINIC DOCUMENTATION;ADVERSE EVENT TRIAGE AND PROGRAMME REPORTING PATHWAYS;",
+  "topic": "NATIONAL NUTRITION & FORTIFICATION PROGRAMS IN INDIA",
+  "subtopic": "IMPLEMENTATION ROLES, MONITORING INDICATORS, AND CLINIC DOCUMENTATION",
+  "sub_subtopic": "ADVERSE EVENT TRIAGE AND PROGRAMME REPORTING PATHWAYS",
+  "heading_path": "NATIONAL NUTRITION & FORTIFICATION PROGRAMS IN INDIA;IMPLEMENTATION ROLES, MONITORING INDICATORS, AND CLINIC DOCUMENTATION;ADVERSE EVENT TRIAGE AND PROGRAMME REPORTING PATHWAYS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u00813"
+}

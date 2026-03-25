@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "Guidelines for managing vitamin D deficiency and rickets, including actionable 25(OH)D thresholds, treatment indications, and clinical decision-making pathways for children with suspected deficiency or related symptoms.",
+  "learning_objectives": [
+    "Understand the serum 25(OH)D thresholds for vitamin D deficiency, insufficiency, and sufficiency.",
+    "Identify clinical scenarios where vitamin D testing and treatment are warranted.",
+    "Differentiate between biochemical low vitamin D and clinically significant disease.",
+    "Develop structured treatment and reassessment plans for rickets and vitamin D deficiency."
+  ],
+  "key_facts": [
+    "Vitamin D deficiency is defined as 25(OH)D <12 ng/mL, insufficiency as 12\u201320 ng/mL, and sufficiency as >20 ng/mL.",
+    "Vitamin D toxicity is associated with 25(OH)D >100 ng/mL, often with hypercalcemia or hypercalciuria.",
+    "Testing for 25(OH)D should be reserved for high-probability cases where results will change management.",
+    "Clinical indications for treatment include bone pain, delayed milestones, fractures, or hypocalcemic symptoms, even without classic rickets deformities.",
+    "Routine screening of asymptomatic children is discouraged to avoid unnecessary high-dose regimens.",
+    "A structured reassessment checkpoint should be established at the start of therapy."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Vitamin D Deficiency",
+    "Rickets",
+    "Calcium",
+    "25-Hydroxyvitamin D",
+    "Hypercalcemia",
+    "Child Nutrition Disorders",
+    "Bone Diseases",
+    "Clinical Decision-Making"
+  ],
+  "tags_custom": [
+    "Vitamin D thresholds",
+    "Pediatric rickets",
+    "Nutritional guidelines",
+    "Clinical pathways",
+    "Reassessment protocols"
+  ],
+  "reference_quote": "Order 25(OH)D when the probability of deficiency is high and the result will change your plan: suspected rickets, hypocalcemic seizures, recurrent fractures, chronic kidney or liver disease, malabsorption, long-term steroid or antiepileptic therapy, or severe immobility (for example, cerebral palsy).",
+  "document_key_topics": [
+    "Vitamin D deficiency thresholds and treatment",
+    "Clinical decision-making for rickets",
+    "Indications for 25(OH)D testing",
+    "Structured reassessment in therapy"
+  ],
+  "chunk_heading": "MICRONUTRIENT NUTRITION;VITAMIN D, CALCIUM, AND RICKETS CLINICAL DECISION PATHWAYS;ACTIONABLE 25OHD THRESHOLDS AND WHEN TO TREAT;",
+  "topic": "MICRONUTRIENT NUTRITION",
+  "subtopic": "VITAMIN D, CALCIUM, AND RICKETS CLINICAL DECISION PATHWAYS",
+  "sub_subtopic": "ACTIONABLE 25OHD THRESHOLDS AND WHEN TO TREAT",
+  "heading_path": "MICRONUTRIENT NUTRITION;VITAMIN D, CALCIUM, AND RICKETS CLINICAL DECISION PATHWAYS;ACTIONABLE 25OHD THRESHOLDS AND WHEN TO TREAT;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u00841"
+}

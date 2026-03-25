@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Clinic counseling emphasizes the role of fortified staples like milk, oil, atta, and double fortified salt in preventing nutrient deficiencies, while clarifying their limitations in therapeutic contexts.",
+  "learning_objectives": [
+    "Understand the nutritional benefits of fortified staples such as milk, oil, atta, and double fortified salt.",
+    "Learn counseling strategies for families using fortified foods to prevent nutrient deficiencies.",
+    "Recognize the limitations of fortified staples in treating conditions like anaemia or thyroid disorders.",
+    "Identify risk groups and appropriate dietary recommendations for fortified food use."
+  ],
+  "key_facts": [
+    "Fortified milk and oil typically contain vitamins A and D, which support dietary adequacy but do not replace therapeutic dosing for conditions like measles or xerophthalmia.",
+    "Fortified atta and rice often include iron, folic acid, and vitamin B12, which improve population iron intake but do not rapidly correct moderate or severe anaemia.",
+    "Double fortified salt (DFS) combines iodine and iron, supporting prevention of iodine deficiency and anaemia but is not a standalone treatment for thyroid disease or anaemia.",
+    "Counsel families to store DFS in dry, covered conditions and add it toward the end of cooking to minimize iodine loss.",
+    "Children with transfusion-dependent hemoglobinopathies should avoid routine medicinal iron supplementation."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Food Fortification",
+    "Iodine Deficiency Disorders",
+    "Iron Deficiency Anemia",
+    "Vitamin A Deficiency",
+    "Dietary Counseling",
+    "Salt Iodization",
+    "Nutritional Support",
+    "Child Nutrition"
+  ],
+  "tags_custom": [
+    "fortified foods",
+    "clinical counseling",
+    "double fortified salt",
+    "nutritional prevention",
+    "risk group management"
+  ],
+  "reference_quote": "Fortified edible oil and milk are commonly fortified with vitamins A and D. This matters in young children because fat-soluble vitamins are delivered in small daily amounts through routine intake. (FSSAI, 2021)",
+  "document_key_topics": [
+    "Fortified staples and their nutrient composition",
+    "Counseling strategies for fortified food use",
+    "Limitations of fortified foods in therapeutic contexts",
+    "Storage and cooking practices for double fortified salt"
+  ],
+  "chunk_heading": "NATIONAL NUTRITION AND FORTIFICATION PROGRAMS IN INDIA;FORTIFIED STAPLES AND IODINE DEFICIENCY DISORDERS CONTROL;CLINIC COUNSELING FOR FORTIFIED MILK OIL ATTA AND DOUBLE FORTIFIED SALT;",
+  "topic": "NATIONAL NUTRITION AND FORTIFICATION PROGRAMS IN INDIA",
+  "subtopic": "FORTIFIED STAPLES AND IODINE DEFICIENCY DISORDERS CONTROL",
+  "sub_subtopic": "CLINIC COUNSELING FOR FORTIFIED MILK OIL ATTA AND DOUBLE FORTIFIED SALT",
+  "heading_path": "NATIONAL NUTRITION AND FORTIFICATION PROGRAMS IN INDIA;FORTIFIED STAPLES AND IODINE DEFICIENCY DISORDERS CONTROL;CLINIC COUNSELING FOR FORTIFIED MILK OIL ATTA AND DOUBLE FORTIFIED SALT;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "2\u00802"
+}

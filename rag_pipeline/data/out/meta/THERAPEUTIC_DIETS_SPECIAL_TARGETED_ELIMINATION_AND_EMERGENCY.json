@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "FPIES management involves targeted food elimination, emergency planning, and periodic tolerance reassessment to prevent dietary over-restriction and ensure proper growth and nutrition.",
+  "learning_objectives": [
+    "Understand the clinical presentation and diagnostic criteria for FPIES, including delayed vomiting and systemic symptoms.",
+    "Learn targeted elimination strategies for trigger foods while maintaining dietary diversity and micronutrient intake.",
+    "Develop emergency action plans for acute FPIES episodes, including IV fluid resuscitation and ondansetron use.",
+    "Recognize the importance of periodic oral food challenges to reassess tolerance and avoid unnecessary long-term avoidance."
+  ],
+  "key_facts": [
+    "FPIES is a non-IgE-mediated food allergy characterized by delayed vomiting 1\u20134 hours post-ingestion, with risks of hypovolemia and shock.",
+    "Emergency management includes IV fluid resuscitation and ondansetron for emesis, with caution for QT prolongation in vulnerable children.",
+    "Periodic reassessment of tolerance is recommended 12\u201318 months after the last reaction, often via medically supervised oral food challenges.",
+    "Epinephrine autoinjectors are not routinely recommended for isolated FPIES but may be considered if IgE-mediated allergy coexists.",
+    "Over-restriction of food categories can compromise dietary diversity, micronutrient intake, and growth; targeted elimination is preferred."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Food Hypersensitivity",
+    "Enterocolitis",
+    "Diet Therapy",
+    "Emergency Medical Services",
+    "Fluid Therapy",
+    "Ondansetron",
+    "Pediatric Nutrition",
+    "Oral Food Challenge"
+  ],
+  "tags_custom": [
+    "FPIES management",
+    "non-IgE-mediated allergy",
+    "trigger food elimination",
+    "acute care planning",
+    "dietary diversity"
+  ],
+  "reference_quote": "Management is not broad restriction but targeted elimination of the trigger food plus a clear emergency plan and a timeline for reassessing tolerance. (Source: International consensus guidelines for diagnosis and management of FPIES, 2017)",
+  "document_key_topics": [
+    "Targeted elimination of trigger foods in FPIES",
+    "Emergency planning for acute FPIES episodes",
+    "Periodic reassessment of food tolerance",
+    "Avoidance of dietary over-restriction in pediatric patients"
+  ],
+  "chunk_heading": "THERAPEUTIC DIETS & SPECIAL INTERVENTIONS;TARGETED ELIMINATION AND EMERGENCY PLANNING IN FOOD PROTEIN-INDUCED ENTEROCOLITIS SYNDROME;",
+  "topic": "THERAPEUTIC DIETS & SPECIAL INTERVENTIONS",
+  "subtopic": "TARGETED ELIMINATION AND EMERGENCY PLANNING IN FOOD PROTEIN-INDUCED ENTEROCOLITIS SYNDROME",
+  "sub_subtopic": null,
+  "heading_path": "THERAPEUTIC DIETS & SPECIAL INTERVENTIONS;TARGETED ELIMINATION AND EMERGENCY PLANNING IN FOOD PROTEIN-INDUCED ENTEROCOLITIS SYNDROME;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "1u"
+}

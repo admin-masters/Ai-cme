@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "This module outlines structured outpatient visits (two to four) for obesity management, emphasizing measurable progress, lifestyle modules, barrier-solving, and escalating care intensity based on outcomes.",
+  "learning_objectives": [
+    "Understand the importance of sequential outpatient visits in obesity management.",
+    "Learn how to deliver lifestyle modules with measurable actions and homework.",
+    "Identify and address barriers to treatment adherence effectively.",
+    "Apply escalating care intensity based on demonstrated progress and module fidelity."
+  ],
+  "key_facts": [
+    "Visits two to four focus on measurable outcomes, including weight, BMI trajectory, and BP monitoring.",
+    "Each visit includes one lifestyle module with 2-3 concrete actions and specific homework.",
+    "Progress is assessed by trajectory (e.g., weight maintenance with falling BMI in growing children).",
+    "Barriers such as exam schedules, unsafe spaces, or family habits require clinical problem-solving.",
+    "Escalation from prevention-plus to structured weight management occurs after foundational module fidelity is demonstrated."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Obesity",
+    "Overnutrition",
+    "Body Mass Index",
+    "Lifestyle",
+    "Behavior Therapy",
+    "Pediatric Obesity",
+    "Clinical Pathways",
+    "Follow-Up Studies"
+  ],
+  "tags_custom": [
+    "outpatient obesity care",
+    "barrier-solving strategies",
+    "lifestyle module delivery",
+    "pediatric weight management"
+  ],
+  "reference_quote": "Trajectory is more informative than a single value; affirm weight maintenance with falling BMI in growing children as meaningful progress. (AAP Clinical Practice Guideline, 2023)",
+  "document_key_topics": [
+    "Sequential outpatient visits for obesity management",
+    "Lifestyle module delivery and homework",
+    "Barrier identification and problem-solving",
+    "Escalating care intensity based on progress"
+  ],
+  "chunk_heading": "OVERNUTRITION & OBESITY MANAGEMENT;SEQUENCED OUTPATIENT PATHWAY AND FOLLOW-UP CADENCE;VISITS-TWO-THROUGH-FOUR MODULE DELIVERY AND BARRIER SOLVING;",
+  "topic": "OVERNUTRITION & OBESITY MANAGEMENT",
+  "subtopic": "SEQUENCED OUTPATIENT PATHWAY AND FOLLOW-UP CADENCE",
+  "sub_subtopic": "VISITS-TWO-THROUGH-FOUR MODULE DELIVERY AND BARRIER SOLVING",
+  "heading_path": "OVERNUTRITION & OBESITY MANAGEMENT;SEQUENCED OUTPATIENT PATHWAY AND FOLLOW-UP CADENCE;VISITS-TWO-THROUGH-FOUR MODULE DELIVERY AND BARRIER SOLVING;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1\u00913"
+}

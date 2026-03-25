@@ -1,0 +1,51 @@
+{
+  "chunk_summary": "Guidelines for writing safe day-one enteral feeding orders, focusing on numeric targets, clinical tolerance endpoints, and stepwise escalation during the acute phase of critical illness in children.",
+  "learning_objectives": [
+    "Understand the five key inputs required before prescribing day-one enteral nutrition.",
+    "Learn how to convert energy, protein, and fluid targets into actionable feeding plans.",
+    "Identify clinical tolerance endpoints to ensure safe enteral feeding in critically ill children.",
+    "Recognize the importance of avoiding overfeeding during the acute phase of illness."
+  ],
+  "key_facts": [
+    "Energy delivery should not exceed resting energy expenditure during the acute phase of critical illness.",
+    "Avoid adding 'stress factors' to predictive equations in the first days of enteral feeding.",
+    "Specify route and device (e.g., NG, OG, postpyloric) and caloric density in the feeding order.",
+    "Routine gastric residual volume (GRV) measurement is not recommended for critically ill children.",
+    "Tolerance endpoints include emesis, progressive distension, pain, hemodynamic deterioration, and new bilious output.",
+    "Start with full-strength, age-appropriate polymeric formula at a conservative dose.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Enteral Nutrition",
+    "Parenteral Nutrition",
+    "Critical Illness",
+    "Pediatrics",
+    "Energy Metabolism",
+    "Feeding Methods",
+    "Gastrointestinal Function",
+    "Nutrition Assessment"
+  ],
+  "tags_custom": [
+    "Day-one feeding orders",
+    "Pediatric critical care",
+    "Enteral feeding safety",
+    "Stepwise escalation",
+    "Tolerance endpoints"
+  ],
+  "reference_quote": "In the acute phase of critical illness, aim to avoid overfeeding; energy delivery should not exceed resting energy expenditure and 'stress factors' should not be added to predictive equations in the first days.",
+  "document_key_topics": [
+    "Safe day-one enteral feeding orders",
+    "Tolerance endpoints for enteral feeding",
+    "Avoiding overfeeding in critical illness",
+    "Stepwise escalation of enteral nutrition"
+  ],
+  "chunk_heading": "ENTERAL & PARENTERAL NUTRITION;NUMERIC ENTERAL PRESCRIPTION WITH DAY 0\u2013 3 ADVANCEMENT TARGETS;WRITING SAFE DAY-ONE ENTERAL FEEDING ORDERS;",
+  "topic": "ENTERAL & PARENTERAL NUTRITION",
+  "subtopic": "NUMERIC ENTERAL PRESCRIPTION WITH DAY 0\u2013 3 ADVANCEMENT TARGETS",
+  "sub_subtopic": "WRITING SAFE DAY-ONE ENTERAL FEEDING ORDERS",
+  "heading_path": "ENTERAL & PARENTERAL NUTRITION;NUMERIC ENTERAL PRESCRIPTION WITH DAY 0\u2013 3 ADVANCEMENT TARGETS;WRITING SAFE DAY-ONE ENTERAL FEEDING ORDERS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1j3"
+}

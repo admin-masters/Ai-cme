@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Guidelines for feeding preterm and low birth weight infants focus on early trophic feeds, human milk fortification, feeding transitions, discharge plans, and monitoring growth using corrected age charts.",
+  "learning_objectives": [
+    "Understand the importance of early trophic feeding in preterm infants and its benefits.",
+    "Learn protocols for human milk fortification to meet nutrient needs of very preterm infants.",
+    "Recognize feeding transitions and developmental milestones for preterm infants.",
+    "Develop discharge plans including feeding schedules, supplementation, and growth monitoring."
+  ],
+  "key_facts": [
+    "Minimal enteral feeds should start within 24\u201348 hours in stable preterm infants, advancing by 10\u201330 mL/kg/day.",
+    "Mother\u2019s own milk is preferred as it reduces necrotizing enterocolitis risk; donor human milk is second-line for VLBW infants.",
+    "Human milk fortification is recommended once enteral volume reaches ~100 mL/kg/day to support growth and bone mineralization.",
+    "Feeding transitions occur as suck\u2013swallow\u2013breathe coordination develops, typically around 32\u201334 weeks gestation.",
+    "Discharge plans should include feeding schedules, fortified milk or postdischarge formula, vitamin D and iron supplementation, and growth monitoring using corrected age charts."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Infant, Premature",
+    "Low Birth Weight Infant",
+    "Enteral Nutrition",
+    "Human Milk",
+    "Milk Fortifiers",
+    "Growth Charts",
+    "Kangaroo-Mother Care",
+    "Complementary Feeding"
+  ],
+  "tags_custom": [
+    "Preterm feeding protocols",
+    "Human milk fortification",
+    "Discharge planning",
+    "Corrected age monitoring",
+    "Nutritional supplementation"
+  ],
+  "reference_quote": "Mother\u2019s own milk is first-line because it reduces necrotizing enterocolitis risk and is better tolerated; if unavailable, pasteurized donor human milk is preferred over formula for VLBW infants. (WHO Reference 1)",
+  "document_key_topics": [
+    "Preterm feed advancement protocols",
+    "Human milk fortification strategies",
+    "Discharge planning for preterm infants",
+    "Corrected age growth monitoring"
+  ],
+  "chunk_heading": "INFANT & YOUNG CHILD FEEDING UNDER 2 YEARS;FEEDING PROTOCOLS FOR PRETERM  LOW BIRTH WEIGHT AND MALNOURISHED INFANTS;PRETERM FEED ADVANCEMENT  FORTIFICATION DISCHARGE PLANS AND CORRECTED AGE;",
+  "topic": "INFANT & YOUNG CHILD FEEDING UNDER 2 YEARS",
+  "subtopic": "FEEDING PROTOCOLS FOR PRETERM  LOW BIRTH WEIGHT AND MALNOURISHED INFANTS",
+  "sub_subtopic": "PRETERM FEED ADVANCEMENT  FORTIFICATION DISCHARGE PLANS AND CORRECTED AGE",
+  "heading_path": "INFANT & YOUNG CHILD FEEDING UNDER 2 YEARS;FEEDING PROTOCOLS FOR PRETERM  LOW BIRTH WEIGHT AND MALNOURISHED INFANTS;PRETERM FEED ADVANCEMENT  FORTIFICATION DISCHARGE PLANS AND CORRECTED AGE;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "4\u008a1"
+}

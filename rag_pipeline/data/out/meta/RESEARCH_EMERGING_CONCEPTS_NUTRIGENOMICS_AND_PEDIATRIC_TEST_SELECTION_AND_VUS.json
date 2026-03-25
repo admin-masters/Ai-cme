@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section discusses pediatric genetic test stewardship in nutrigenomics, emphasizing appropriate test selection and interpretation guardrails to avoid harmful dietary restrictions and mismanagement of variants of uncertain significance (VUS).",
+  "learning_objectives": [
+    "Understand the importance of selecting genetic tests based on clinical phenotype and differential diagnosis.",
+    "Learn the risks of misinterpreting variants of uncertain significance (VUS) in pediatric nutrigenomics.",
+    "Recognize the need for post-test counseling and re-interpretation plans in genetic testing.",
+    "Identify appropriate genetic testing strategies for complex or syndromic presentations."
+  ],
+  "key_facts": [
+    "Targeted single-variant testing is suitable for cascade testing or classic phenotypes with known pathogenic variants.",
+    "Focused gene panels, such as monogenic obesity panels, are recommended for defined differentials like severe early-onset obesity with hyperphagia.",
+    "Exome or genome sequencing is reserved for complex or syndromic cases after specialist evaluation.",
+    "Variants of uncertain significance (VUS) should not trigger restrictive diets due to risks of impaired growth and micronutrient deficiencies.",
+    "Polygenic risk scores and disease probabilities are considered low-actionability in routine pediatrics unless validated frameworks are used.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Nutrigenomics",
+    "Genetic Testing",
+    "Pediatrics",
+    "Variants of Uncertain Significance",
+    "Dietary Restriction",
+    "Exome Sequencing",
+    "Polygenic Risk Scores",
+    "Clinical Counseling"
+  ],
+  "tags_custom": [
+    "pediatric genetics",
+    "test stewardship",
+    "dietary impact",
+    "VUS management",
+    "clinical frameworks"
+  ],
+  "reference_quote": "AAP/ACMG policy statement (2013): 'Genetic testing and screening of children should prioritize the child\u2019s best interest, avoiding harm and ensuring ethical stewardship.'",
+  "document_key_topics": [
+    "Pediatric genetic test stewardship",
+    "Nutrigenomics and dietary impact",
+    "Interpretation of variants of uncertain significance (VUS)"
+  ],
+  "chunk_heading": "RESEARCH & EMERGING CONCEPTS;NUTRIGENOMICS AND PEDIATRIC GENETIC TEST STEWARDSHIP;TEST SELECTION AND VUS INTERPRETATION GUARDRAILS;",
+  "topic": "RESEARCH & EMERGING CONCEPTS",
+  "subtopic": "NUTRIGENOMICS AND PEDIATRIC GENETIC TEST STEWARDSHIP",
+  "sub_subtopic": "TEST SELECTION AND VUS INTERPRETATION GUARDRAILS",
+  "heading_path": "RESEARCH & EMERGING CONCEPTS;NUTRIGENOMICS AND PEDIATRIC GENETIC TEST STEWARDSHIP;TEST SELECTION AND VUS INTERPRETATION GUARDRAILS;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1}2"
+}

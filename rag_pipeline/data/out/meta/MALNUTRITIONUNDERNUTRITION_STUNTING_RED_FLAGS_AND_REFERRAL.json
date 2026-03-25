@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "This section outlines red flags and referral triggers for stunting in children, emphasizing a structured approach to identify underlying diseases and prevent mismanagement.",
+  "learning_objectives": [
+    "Understand the significance of stunting (HAZ < -2 SD) as a phenotype requiring etiologic evaluation.",
+    "Identify systemic red flags and their implications for underlying diseases in stunted children.",
+    "Learn to differentiate between normal variants and pathological causes of short stature using familial height tracking and clinical patterns.",
+    "Recognize the urgency of coexisting stunting and wasting (WaSt phenotype) or acute illness."
+  ],
+  "key_facts": [
+    "Stunting is defined as height-for-age Z-score (HAZ) < -2 SD.",
+    "A child tracking within the familial height range is more likely a normal variant.",
+    "Red flags include disproportionate short stature, dysmorphism, microcephaly/macrocephaly, chronic diarrhea, recurrent infections, and endocrine symptoms like pubertal delay.",
+    "Coexisting stunting and wasting (WaSt phenotype) or acute illness increases clinical urgency.",
+    "Clinical notes should explicitly state either 'stunting without red flags' or 'stunting with red flags' to guide management."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Stunting",
+    "Short Stature",
+    "Malnutrition",
+    "Growth Disorders",
+    "Pediatric Endocrinology",
+    "Nutritional Status",
+    "Child Development",
+    "Wasting Syndrome"
+  ],
+  "tags_custom": [
+    "Stunting red flags",
+    "Familial height tracking",
+    "WaSt phenotype",
+    "Pediatric malnutrition"
+  ],
+  "reference_quote": "A child who is short but proportionate, developing normally, and tracking consistently within the expected familial band is more likely a normal variant; a child who is far below the familial band or crossing down height centiles needs evaluation. (Source: IAP Growth Monitoring Guidelines)",
+  "document_key_topics": [
+    "Stunting and its clinical significance",
+    "Red flags for underlying diseases in stunted children",
+    "Differentiating normal variants from pathological short stature",
+    "Urgency in cases of coexisting stunting and wasting"
+  ],
+  "chunk_heading": "MALNUTRITION\u2014UNDERNUTRITION: SCREENING & CLASSIFICATION;STUNTING RED FLAGS AND REFERRAL TRIGGERS FOR UNDERLYING DISEASE;",
+  "topic": "MALNUTRITION\u2014UNDERNUTRITION: SCREENING & CLASSIFICATION",
+  "subtopic": "STUNTING RED FLAGS AND REFERRAL TRIGGERS FOR UNDERLYING DISEASE",
+  "sub_subtopic": null,
+  "heading_path": "MALNUTRITION\u2014UNDERNUTRITION: SCREENING & CLASSIFICATION;STUNTING RED FLAGS AND REFERRAL TRIGGERS FOR UNDERLYING DISEASE;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2z"
+}

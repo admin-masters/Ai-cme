@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "This section discusses anthropometry and growth interpretation in children with neurodisability, emphasizing alternative measurement methods, body composition proxies, and growth chart usage tailored to their unique needs.",
+  "learning_objectives": [
+    "Understand the limitations of traditional weight and height measurements in children with neurodisability.",
+    "Learn alternative methods for estimating stature, such as knee height and ulna length, and their clinical application.",
+    "Explore the use of mid-upper arm circumference (MUAC) and triceps skinfold as proxies for body composition.",
+    "Interpret growth charts and identify malnutrition risks in children with severe cerebral palsy."
+  ],
+  "key_facts": [
+    "Contractures, scoliosis, and altered body composition can misrepresent nutritional risk in children with neurodisability.",
+    "Segmental measures like knee height, tibial length, and ulna length can estimate stature using validated equations.",
+    "Mid-upper arm circumference (MUAC) and triceps skinfold are useful proxies for tracking fat and muscle stores.",
+    "WHO growth charts are appropriate up to 5 years when reliable height data is available; CP-specific charts can contextualize growth trajectories.",
+    "Persistent low weight or falling growth velocity should trigger active nutritional intervention regardless of the growth chart used."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Cerebral Palsy",
+    "Anthropometry",
+    "Growth Charts",
+    "Nutritional Assessment",
+    "Body Composition",
+    "Malnutrition",
+    "Child Development",
+    "Disability Evaluation"
+  ],
+  "tags_custom": [
+    "neurodisability feeding",
+    "growth monitoring",
+    "segmental measures",
+    "body composition proxies",
+    "CP-specific growth"
+  ],
+  "reference_quote": "Nutritional assessment in children with neurologic impairment should not rely on 'weight and height only,' because contractures, scoliosis, and altered body composition can misrepresent nutritional risk. (ESPGHAN Advice Guide)",
+  "document_key_topics": [
+    "Alternative anthropometric methods for children with neurodisability",
+    "Body composition proxies for nutritional assessment",
+    "Growth chart interpretation in cerebral palsy"
+  ],
+  "chunk_heading": "NEURODISABILITY AND FEEDING SUPPORT;NEURODISABILITY-SPECIFIC ANTHROPOMETRY AND GROWTH INTERPRETATION;",
+  "topic": "NEURODISABILITY AND FEEDING SUPPORT",
+  "subtopic": "NEURODISABILITY-SPECIFIC ANTHROPOMETRY AND GROWTH INTERPRETATION",
+  "sub_subtopic": null,
+  "heading_path": "NEURODISABILITY AND FEEDING SUPPORT;NEURODISABILITY-SPECIFIC ANTHROPOMETRY AND GROWTH INTERPRETATION;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1g"
+}

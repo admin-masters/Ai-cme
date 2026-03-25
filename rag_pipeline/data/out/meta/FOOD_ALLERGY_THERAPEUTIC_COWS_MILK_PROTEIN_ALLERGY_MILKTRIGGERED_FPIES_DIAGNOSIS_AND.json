@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "Milk-triggered FPIES is a non-IgE-mediated CMPA phenotype requiring supervised diagnosis and management, including tailored nutrition strategies and supervised oral food challenges (OFCs).",
+  "learning_objectives": [
+    "Understand the clinical presentation and diagnostic criteria for milk-triggered FPIES.",
+    "Learn appropriate acute and chronic management strategies for milk-triggered FPIES.",
+    "Identify safe nutritional alternatives and escalation protocols for formula-fed infants.",
+    "Plan supervised oral food challenges (OFCs) for tolerance assessment."
+  ],
+  "key_facts": [
+    "Milk-triggered FPIES presents with repetitive vomiting 1\u20134 hours post-ingestion, pallor, and lethargy, but without urticaria or wheeze.",
+    "Severe reactions can include hypotension and hypothermia, requiring supportive care with hydration and antiemetics, not IM epinephrine.",
+    "Chronic FPIES in formula-fed infants may cause intermittent emesis, watery diarrhea, and failure to thrive, improving after trigger removal.",
+    "For formula-fed infants, start with extensively hydrolyzed formula (eHF) and escalate to amino acid formula (AAF) if severe reactions persist.",
+    "Tolerance assessment is typically conducted via supervised OFC around 12 months after the last reaction, with individualized timing."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Food Hypersensitivity",
+    "Milk Hypersensitivity",
+    "Food Protein-Induced Enterocolitis Syndrome",
+    "Non-IgE-Mediated Allergy",
+    "Oral Food Challenge",
+    "Infant Nutrition",
+    "Hypotension",
+    "Diarrhea"
+  ],
+  "tags_custom": [
+    "FPIES management",
+    "CMPA nutrition",
+    "pediatric allergy",
+    "oral tolerance planning"
+  ],
+  "reference_quote": "The classic presentation is repetitive vomiting 1\u20134 hours after cow\u2019s milk ingestion with pallor and lethargy but without urticaria or wheeze; severe reactions can include hypotension and hypothermia. (AAAAI, 2017)",
+  "document_key_topics": [
+    "Milk-triggered FPIES diagnosis and symptoms",
+    "Acute and chronic management of FPIES",
+    "Nutritional strategies for CMPA",
+    "Supervised oral food challenges (OFCs)"
+  ],
+  "chunk_heading": "FOOD ALLERGY & THERAPEUTIC ELIMINATION DIETS;COWS MILK PROTEIN ALLERGY PHENOTYPE MANAGEMENT;MILK-TRIGGERED FPIES DIAGNOSIS AND TOLERANCE PLANNING;",
+  "topic": "FOOD ALLERGY & THERAPEUTIC ELIMINATION DIETS",
+  "subtopic": "COWS MILK PROTEIN ALLERGY PHENOTYPE MANAGEMENT",
+  "sub_subtopic": "MILK-TRIGGERED FPIES DIAGNOSIS AND TOLERANCE PLANNING",
+  "heading_path": "FOOD ALLERGY & THERAPEUTIC ELIMINATION DIETS;COWS MILK PROTEIN ALLERGY PHENOTYPE MANAGEMENT;MILK-TRIGGERED FPIES DIAGNOSIS AND TOLERANCE PLANNING;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "1}5"
+}

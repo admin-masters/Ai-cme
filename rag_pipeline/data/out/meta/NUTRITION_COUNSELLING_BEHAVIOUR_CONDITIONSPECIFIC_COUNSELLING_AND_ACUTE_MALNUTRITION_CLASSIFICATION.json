@@ -1,0 +1,46 @@
+{
+  "chunk_summary": "Guidelines for classifying acute malnutrition and determining outpatient versus inpatient care decisions based on severity, complications, and community-linked management strategies.",
+  "learning_objectives": [
+    "Understand the classification criteria for severe and moderate acute malnutrition (SAM and MAM).",
+    "Learn to differentiate uncomplicated versus complicated malnutrition for site-of-care decisions.",
+    "Explore community-linked outpatient management strategies for malnutrition in Indian practice."
+  ],
+  "key_facts": [
+    "Severe acute malnutrition (SAM) is classified as WLZ/WHZ < -3 SD, MUAC <115 mm, or bilateral pitting edema for children aged 6\u201359 months.",
+    "Moderate acute malnutrition (MAM) is classified as WLZ/WHZ between -3 and < -2 SD or MUAC 115\u2013124 mm without bilateral edema.",
+    "Infants under 6 months require weight-for-length, visible wasting, edema, and feeding risk assessments instead of MUAC thresholds.",
+    "Uncomplicated malnutrition is managed outpatient with structured nutrition rehabilitation and frequent monitoring.",
+    "Complicated malnutrition requires inpatient stabilization for conditions like poor appetite, severe edema, hypothermia, or altered sensorium."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Malnutrition",
+    "Severe Acute Malnutrition",
+    "Moderate Acute Malnutrition",
+    "Nutrition Therapy",
+    "Community Health Services",
+    "Child Nutrition Disorders",
+    "India"
+  ],
+  "tags_custom": [
+    "acute malnutrition",
+    "outpatient care",
+    "inpatient stabilization",
+    "community nutrition",
+    "Indian guidelines"
+  ],
+  "reference_quote": "For children aged 6\u201359 months, classify severe acute malnutrition (SAM) as WLZ/WHZ < -3 SD and/or MUAC <115 mm and/or bilateral pitting edema. (WHO Child Growth Standards)",
+  "document_key_topics": [
+    "Acute malnutrition classification",
+    "Outpatient versus inpatient care decisions",
+    "Community-linked nutrition management"
+  ],
+  "chunk_heading": "NUTRITION COUNSELLING & BEHAVIOUR CHANGE SKILLS;CONDITION-SPECIFIC COUNSELLING AND ESCALATION PATHWAYS;ACUTE MALNUTRITION CLASSIFICATION AND OUTPATIENT VERSUS INPATIENT DECISIONS;",
+  "topic": "NUTRITION COUNSELLING & BEHAVIOUR CHANGE SKILLS",
+  "subtopic": "CONDITION-SPECIFIC COUNSELLING AND ESCALATION PATHWAYS",
+  "sub_subtopic": "ACUTE MALNUTRITION CLASSIFICATION AND OUTPATIENT VERSUS INPATIENT DECISIONS",
+  "heading_path": "NUTRITION COUNSELLING & BEHAVIOUR CHANGE SKILLS;CONDITION-SPECIFIC COUNSELLING AND ESCALATION PATHWAYS;ACUTE MALNUTRITION CLASSIFICATION AND OUTPATIENT VERSUS INPATIENT DECISIONS;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1{2"
+}

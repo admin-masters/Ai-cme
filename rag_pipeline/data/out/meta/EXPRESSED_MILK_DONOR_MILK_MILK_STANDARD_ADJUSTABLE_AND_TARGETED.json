@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "This section discusses standard, adjustable, and targeted fortification methods for expressed and donor milk, focusing on protein delivery, nutrient precision, and practical endpoints for preterm infant nutrition in NICUs.",
+  "learning_objectives": [
+    "Understand the differences between standard, adjustable, and targeted fortification methods for human milk.",
+    "Learn how to interpret biochemical markers like BUN and creatinine to adjust fortification strategies.",
+    "Identify practical endpoints for de-escalation of fortification in preterm infants.",
+    "Explore post-discharge nutritional strategies for preterm infants to support growth and breastfeeding."
+  ],
+  "key_facts": [
+    "Standard fortification uses a fixed amount of fortifier, such as a sachet for 20\u201325 mL of milk, but may under-deliver protein due to milk composition variability.",
+    "Adjustable fortification relies on biochemical markers like BUN (<8\u201310 mg/dL indicates inadequate protein; >16\u201320 mg/dL suggests excess protein or dehydration).",
+    "Targeted fortification uses milk analyzers to measure fat and protein content, allowing precise nutrient adjustments but requiring specialized equipment and staff.",
+    "De-escalation endpoints include term-equivalent age, consistent catch-up growth, and stable weight trajectory (around 2.0\u20132.5 kg).",
+    "Post-discharge options for faltering growth include fortified expressed breast milk (EBM) or nutrient-enriched post-discharge formula under supervision."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Human Milk",
+    "Milk Banks",
+    "Infant, Premature",
+    "Nutritional Support",
+    "Protein-Energy Malnutrition",
+    "Breastfeeding",
+    "Dietary Proteins",
+    "Nutritional Requirements"
+  ],
+  "tags_custom": [
+    "milk fortification",
+    "preterm infant nutrition",
+    "NICU feeding strategies",
+    "post-discharge growth"
+  ],
+  "reference_quote": "Fortification of human milk for preterm infants: update and recommendations of the European Milk Bank Association Working Group on human milk fortification.",
+  "document_key_topics": [
+    "Standard fortification methods for human milk",
+    "Adjustable fortification using biochemical markers",
+    "Targeted fortification with milk analyzers",
+    "Post-discharge nutritional strategies for preterm infants"
+  ],
+  "chunk_heading": "EXPRESSED MILK, DONOR MILK & MILK BANKING;STANDARD ADJUSTABLE AND TARGETED FORTIFICATION METHODS;",
+  "topic": "EXPRESSED MILK, DONOR MILK & MILK BANKING",
+  "subtopic": "STANDARD ADJUSTABLE AND TARGETED FORTIFICATION METHODS",
+  "sub_subtopic": null,
+  "heading_path": "EXPRESSED MILK, DONOR MILK & MILK BANKING;STANDARD ADJUSTABLE AND TARGETED FORTIFICATION METHODS;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "2x"
+}

@@ -1,0 +1,47 @@
+{
+  "chunk_summary": "This section provides case-based decision pathways for managing dysglycemia and dyslipidemia in children with metabolic risk, focusing on diagnostic interpretation, lifestyle interventions, and treatment strategies based on clinical guidelines.",
+  "learning_objectives": [
+    "Understand the diagnostic challenges and management of discordant glycemia in children.",
+    "Learn to interpret and address insulin-resistance dyslipidemia patterns in pediatric patients.",
+    "Develop treatment plans for youth-onset diabetes and early kidney risk in children with T2DM."
+  ],
+  "key_facts": [
+    "HbA1c can be falsely elevated in cases of microcytic anemia; confirm prediabetes with fasting glucose or OGTT.",
+    "Insulin-resistance dyslipidemia is characterized by fasting triglycerides >350 mg/dL and low HDL-C, often linked to high sugar intake.",
+    "Diabetes-range glycemia with HbA1c \u22658.5% and no ketosis warrants basal insulin and metformin initiation.",
+    "Nephropathy screening in T2DM starts at diagnosis; confirm albumin/creatinine ratio >30 mg/g with two of three first-morning samples.",
+    "Lifestyle interventions, such as eliminating sugary drinks and adding protein-rich meals, are critical in managing pediatric dyslipidemia."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Dysglycemia",
+    "Dyslipidemias",
+    "Pediatric Obesity",
+    "Type 2 Diabetes Mellitus",
+    "Insulin Resistance",
+    "Glycated Hemoglobin A",
+    "Triglycerides",
+    "Albuminuria"
+  ],
+  "tags_custom": [
+    "pediatric metabolic risk",
+    "case-based learning",
+    "clinical decision-making",
+    "lifestyle interventions"
+  ],
+  "reference_quote": "\"Iron deficiency can falsely elevate HbA1c; treat anemia and confirm with repeat fasting glucose and, if still discordant, OGTT.\" \u2014 NGSP, Factors that interfere with HbA1c test results",
+  "document_key_topics": [
+    "Discordant glycemia and prediabetes diagnosis",
+    "Insulin-resistance dyslipidemia management",
+    "Youth-onset diabetes treatment",
+    "Early kidney risk in pediatric T2DM"
+  ],
+  "chunk_heading": "METABOLIC RISK IN CHILDREN;CASE-BASED DECISION PRACTICE IN METABOLIC RISK CLINICS;DYSGLYCEMIA AND DYSLIPIDEMIA CASE DECISION PATHWAYS;",
+  "topic": "METABOLIC RISK IN CHILDREN",
+  "subtopic": "CASE-BASED DECISION PRACTICE IN METABOLIC RISK CLINICS",
+  "sub_subtopic": "DYSGLYCEMIA AND DYSLIPIDEMIA CASE DECISION PATHWAYS",
+  "heading_path": "METABOLIC RISK IN CHILDREN;CASE-BASED DECISION PRACTICE IN METABOLIC RISK CLINICS;DYSGLYCEMIA AND DYSLIPIDEMIA CASE DECISION PATHWAYS;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "1\u00a21"
+}

@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section outlines India's community-to-facility workflow for screening, documenting, and referring children with severe acute malnutrition (SAM), emphasizing rapid linkage to facility-based care and minimizing delays in treatment.",
+  "learning_objectives": [
+    "Understand the workflow for identifying and referring children with SAM from community to facility-based care in India.",
+    "Learn the minimum dataset required for documentation during community-level screening of malnutrition.",
+    "Recognize the importance of rapid referral and transfer documentation for children with complicated SAM."
+  ],
+  "key_facts": [
+    "Children with SAM are identified at Anganwadi or outreach contacts and referred to primary care or Nutrition Rehabilitation Centres (NRCs).",
+    "Minimum dataset includes age, sex, weight, height/length, MUAC, oedema status, danger signs, feeding concerns, and recent illness episodes.",
+    "Poshan Tracker digital platform is used to reduce loss to follow-up and ensure continuity of care.",
+    "Medical evaluation at PHC/OPD includes confirming abnormal measurements, assessing vitals, hydration, and respiratory effort, and classifying SAM as complicated or uncomplicated.",
+    "Transfer documentation must include anthropometry, oedema results, feeding history, danger signs, and treatments already given.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Malnutrition",
+    "Severe Acute Malnutrition",
+    "Nutrition Assessment",
+    "Community Health Services",
+    "Referral and Consultation",
+    "Child Health",
+    "India",
+    "Nutrition Rehabilitation"
+  ],
+  "tags_custom": [
+    "SAM workflow",
+    "community screening",
+    "facility-based care",
+    "Poshan Tracker",
+    "referral documentation"
+  ],
+  "reference_quote": "Facility Based Care of Severe Acute Malnutrition \u2014 Participant Manual (MoHFW, Government of India): 'Operational guidelines emphasize rapid referral and documentation to prevent deterioration during intercurrent infection.'",
+  "document_key_topics": [
+    "Community-based screening for malnutrition",
+    "Referral workflow for severe acute malnutrition",
+    "Documentation standards for SAM cases",
+    "Facility-based care and stabilization for SAM"
+  ],
+  "chunk_heading": "MALNUTRITION\u2014UNDERNUTRITION: SCREENING & CLASSIFICATION;INDIA COMMUNITY TO FACILITY DOCUMENTATION AND REFERRAL WORKFLOW;",
+  "topic": "MALNUTRITION\u2014UNDERNUTRITION: SCREENING & CLASSIFICATION",
+  "subtopic": "INDIA COMMUNITY TO FACILITY DOCUMENTATION AND REFERRAL WORKFLOW",
+  "sub_subtopic": null,
+  "heading_path": "MALNUTRITION\u2014UNDERNUTRITION: SCREENING & CLASSIFICATION;INDIA COMMUNITY TO FACILITY DOCUMENTATION AND REFERRAL WORKFLOW;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "1g"
+}

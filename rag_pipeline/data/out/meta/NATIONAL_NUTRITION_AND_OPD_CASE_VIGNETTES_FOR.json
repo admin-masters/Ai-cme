@@ -1,0 +1,47 @@
+{
+  "chunk_summary": "This section provides OPD case vignettes for program-aligned decisions in India's nutrition and fortification programs, focusing on prophylaxis, therapeutic interventions, and counseling to prevent errors like missed doses or inappropriate advice.",
+  "learning_objectives": [
+    "Understand decision-making protocols for uncertain vitamin A supplementation history in children.",
+    "Learn therapeutic iron management for anemia in school-aged children on IFA prophylaxis.",
+    "Recognize appropriate responses to adverse events during deworming programs.",
+    "Counsel caregivers on adherence to zinc supplementation and ORS during diarrhea management."
+  ],
+  "key_facts": [
+    "Vitamin A supplementation should be deferred if a dose was possibly given within the last 6 months, and verification is required via sub-centre or ANM records.",
+    "Children with Hb 8.5 g/dL require therapeutic iron based on weight, with prophylactic IFA paused during therapy.",
+    "Fortified rice provides micro-doses for population prevention but is not a substitute for transfusion and chelation in thalassemia management.",
+    "Zinc supplementation must continue for 14 days during diarrhea management, even if stools improve.",
+    "Vomiting after albendazole during National Deworming Day (NDD) requires observation and hydration advice, with escalation if symptoms persist."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Vitamin A Deficiency",
+    "Iron-Deficiency Anemia",
+    "Thalassemia",
+    "Deworming",
+    "Zinc Supplementation",
+    "Goiter",
+    "Nutrition Programs",
+    "Child Health"
+  ],
+  "tags_custom": [
+    "Prophylaxis Decisions",
+    "Therapeutic Interventions",
+    "Caregiver Counseling",
+    "School Health Programs"
+  ],
+  "reference_quote": "\u2018If there is a credible possibility a dose was given within the last 6 months, defer prophylaxis today, verify via the sub-centre/session register or ANM record, and schedule the next dose at the earliest safe date.\u2019 (Source: National Immunization Schedule, India)",
+  "document_key_topics": [
+    "Prophylaxis and therapeutic decision-making in child health",
+    "Management of adverse events in school health programs",
+    "Counseling for adherence to nutrition and supplementation guidelines"
+  ],
+  "chunk_heading": "NATIONAL NUTRITION AND FORTIFICATION PROGRAMS IN INDIA;OPD CASE VIGNETTES FOR PROGRAMME-ALIGNED DECISIONS;",
+  "topic": "NATIONAL NUTRITION AND FORTIFICATION PROGRAMS IN INDIA",
+  "subtopic": "OPD CASE VIGNETTES FOR PROGRAMME-ALIGNED DECISIONS",
+  "sub_subtopic": null,
+  "heading_path": "NATIONAL NUTRITION AND FORTIFICATION PROGRAMS IN INDIA;OPD CASE VIGNETTES FOR PROGRAMME-ALIGNED DECISIONS;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "2\u008a"
+}

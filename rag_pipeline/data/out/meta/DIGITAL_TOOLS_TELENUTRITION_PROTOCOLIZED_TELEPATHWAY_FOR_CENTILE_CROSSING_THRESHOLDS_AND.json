@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section outlines centile-based thresholds and time-bound checkpoints for tele-nutrition pathways addressing growth faltering and failure to thrive, emphasizing escalation protocols and measurable severity tiers for effective management.",
+  "learning_objectives": [
+    "Understand centile crossing thresholds for identifying growth faltering in children.",
+    "Learn time-bound response checkpoints for tele-nutrition interventions.",
+    "Recognize severity tiers and escalation protocols in tele-nutrition pathways.",
+    "Apply clinical reasoning using NICE guidelines and India-specific thresholds."
+  ],
+  "key_facts": [
+    "Falling across 1, 2, or 3 weight centile spaces raises concern depending on the starting centile band.",
+    "Weight below the 2nd centile triggers concern regardless of birthweight centile.",
+    "Neonates typically stop losing weight after 3\u20134 days and regain birth weight by 3 weeks; weight loss >10% requires feeding assessment.",
+    "Low risk: stable child, reliable measurements, no threshold crossing; Moderate risk: thresholds met but no danger signs; High risk: persistent weight loss, severe underweight, suspected organic disease.",
+    "At 2 weeks, reassess weight trend; lack of improvement triggers in-person evaluation. At 4 weeks, persistent issues despite adherence require diagnostic workup and specialist input."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Growth Disorders",
+    "Failure to Thrive",
+    "Telemedicine",
+    "Nutrition Assessment",
+    "Child Development",
+    "Weight Gain",
+    "Risk Assessment",
+    "Clinical Protocols"
+  ],
+  "tags_custom": [
+    "tele-nutrition",
+    "growth faltering",
+    "centile thresholds",
+    "response checkpoints",
+    "severity tiers"
+  ],
+  "reference_quote": "Concern is raised by falling across 1, 2, or 3 weight centile spaces depending on the child\u2019s starting centile band, or by current weight below the 2nd centile regardless of birthweight centile. (NICE NG75)",
+  "document_key_topics": [
+    "Centile crossing thresholds for growth faltering",
+    "Time-bound response checkpoints in tele-nutrition",
+    "Severity tiers and escalation protocols",
+    "Clinical reasoning using NICE and India-specific guidelines"
+  ],
+  "chunk_heading": "DIGITAL TOOLS & TELE-NUTRITION;PROTOCOLIZED TELE-PATHWAY FOR GROWTH FALTERING AND FAILURE TO THRIVE;CENTILE CROSSING THRESHOLDS  AND TIME- BOUND RESPONSE CHECKPOINTS;",
+  "topic": "DIGITAL TOOLS & TELE-NUTRITION",
+  "subtopic": "PROTOCOLIZED TELE-PATHWAY FOR GROWTH FALTERING AND FAILURE TO THRIVE",
+  "sub_subtopic": "CENTILE CROSSING THRESHOLDS  AND TIME- BOUND RESPONSE CHECKPOINTS",
+  "heading_path": "DIGITAL TOOLS & TELE-NUTRITION;PROTOCOLIZED TELE-PATHWAY FOR GROWTH FALTERING AND FAILURE TO THRIVE;CENTILE CROSSING THRESHOLDS  AND TIME- BOUND RESPONSE CHECKPOINTS;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "1x1"
+}

@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Bedside diagnosis of SAM in children 6\u201359 months uses MUAC <115 mm, WHZ/WFH <-3, or bilateral pitting oedema. Anthropometric measurements guide admission, monitoring, and feeding strategies, with separate criteria for infants under 6 months.",
+  "learning_objectives": [
+    "Understand bedside diagnostic criteria for severe acute malnutrition (SAM) in children aged 6\u201359 months.",
+    "Learn the importance of MUAC, WHZ/WFH, and oedema in SAM diagnosis and management.",
+    "Recognize the role of anthropometric measurements in therapeutic feeding and monitoring.",
+    "Minimize measurement errors in anthropometry for accurate diagnosis and monitoring."
+  ],
+  "key_facts": [
+    "SAM diagnosis criteria: MUAC <115 mm, WHZ/WFH <-3, or bilateral pitting oedema.",
+    "MUAC and WHZ identify overlapping but distinct high-risk groups; both should be documented at baseline.",
+    "Weight is essential for prescribing therapeutic food but can be distorted by oedema during stabilization.",
+    "Infants under 6 months require a separate feeding-effectiveness pathway, not standard SAM thresholds.",
+    "Anthropometric measurements should use calibrated tools and proper techniques to minimize errors."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Malnutrition",
+    "Anthropometry",
+    "Child Nutrition Disorders",
+    "Mid-Upper Arm Circumference",
+    "Weight-for-Height Z Score",
+    "Edema",
+    "Nutritional Assessment",
+    "Feeding Methods"
+  ],
+  "tags_custom": [
+    "SAM diagnosis",
+    "pediatric malnutrition",
+    "therapeutic feeding",
+    "clinical monitoring",
+    "anthropometric accuracy"
+  ],
+  "reference_quote": "Indian guidance from MoHFW and IAP uses these same markers and treats them as pathway-defining rather than merely descriptive, because phenotype and complications determine disposition, fluid strategy, and feeding volumes.",
+  "document_key_topics": [
+    "Bedside diagnostic criteria for SAM",
+    "Anthropometric measurement techniques",
+    "Feeding strategies for malnourished children",
+    "Monitoring and management of oedema in SAM"
+  ],
+  "chunk_heading": "SEVERE ACUTE MALNUTRITION (SAM) MANAGEMENT;DIAGNOSIS AND PHENOTYPE CLASSIFICATION;BEDSIDE DIAGNOSTIC CRITERIA AND ANTHROPOMETRIC MEASUREMENT;",
+  "topic": "SEVERE ACUTE MALNUTRITION (SAM) MANAGEMENT",
+  "subtopic": "DIAGNOSIS AND PHENOTYPE CLASSIFICATION",
+  "sub_subtopic": "BEDSIDE DIAGNOSTIC CRITERIA AND ANTHROPOMETRIC MEASUREMENT",
+  "heading_path": "SEVERE ACUTE MALNUTRITION (SAM) MANAGEMENT;DIAGNOSIS AND PHENOTYPE CLASSIFICATION;BEDSIDE DIAGNOSTIC CRITERIA AND ANTHROPOMETRIC MEASUREMENT;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1b1"
+}

@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "Guidelines for iron prophylaxis in breastfed and preterm infants, including dosage, timing, and monitoring strategies, with emphasis on clinical and programmatic alignment.",
+  "learning_objectives": [
+    "Understand the recommended timing and dosage of iron prophylaxis for breastfed term infants.",
+    "Learn the adjusted iron prophylaxis approach for preterm or low birth weight (LBW) infants.",
+    "Identify key monitoring strategies for infants receiving iron supplementation.",
+    "Differentiate between programmatic and clinical iron supplementation schedules."
+  ],
+  "key_facts": [
+    "For term breastfed infants, prophylactic elemental iron is recommended at 1 mg/kg/day starting at 4 months of age until complementary foods are established.",
+    "India\u2019s programmatic supplementation typically begins at 6 months, requiring clinical clarification for earlier initiation in high-risk infants.",
+    "Preterm or LBW infants should receive 2\u20134 mg/kg/day of elemental iron starting at 2\u20134 weeks of age, once clinically stable and tolerating enteral feeds.",
+    "Iron prophylaxis for preterm infants should continue through at least 12 months corrected age, with adjustments for iron content in formula or fortifiers.",
+    "Monitoring should include adherence, growth, feeding transitions, and symptoms like poor weight gain or intercurrent infections."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Iron",
+    "Iron Deficiency Anemia",
+    "Infant, Premature",
+    "Breast Feeding",
+    "Dietary Supplements",
+    "Nutritional Requirements",
+    "Growth and Development",
+    "Pediatrics"
+  ],
+  "tags_custom": [
+    "iron prophylaxis",
+    "preterm infants",
+    "breastfed infants",
+    "pediatric nutrition",
+    "clinical guidelines"
+  ],
+  "reference_quote": "For term infants who are exclusively or predominantly breastfed, many pediatric guidelines support prophylactic elemental iron about 1 mg/kg/day starting at around 4 months of age and continuing until iron-rich complementary foods are reliably established. (Source: Indian Academy of Pediatrics Standard Treatment Guidelines)",
+  "document_key_topics": [
+    "Iron prophylaxis in breastfed infants",
+    "Iron supplementation for preterm and LBW infants",
+    "Monitoring and adherence in iron supplementation"
+  ],
+  "chunk_heading": "MICRONUTRIENT NUTRITION;IRON DEFICIENCY ANEMIA DIAGNOSTIC AND THERAPEUTIC DECISIONS;IRON PROPHYLAXIS IN BREASTFED AND PRETERM INFANTS;",
+  "topic": "MICRONUTRIENT NUTRITION",
+  "subtopic": "IRON DEFICIENCY ANEMIA DIAGNOSTIC AND THERAPEUTIC DECISIONS",
+  "sub_subtopic": "IRON PROPHYLAXIS IN BREASTFED AND PRETERM INFANTS",
+  "heading_path": "MICRONUTRIENT NUTRITION;IRON DEFICIENCY ANEMIA DIAGNOSTIC AND THERAPEUTIC DECISIONS;IRON PROPHYLAXIS IN BREASTFED AND PRETERM INFANTS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1w8"
+}

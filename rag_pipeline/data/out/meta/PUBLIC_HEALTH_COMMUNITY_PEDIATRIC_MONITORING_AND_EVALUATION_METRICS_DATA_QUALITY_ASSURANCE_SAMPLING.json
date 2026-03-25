@@ -1,0 +1,47 @@
+{
+  "chunk_summary": "This section outlines a three-layer Data Quality Assurance (DQA) framework for pediatric nutrition programs, emphasizing automated plausibility checks, field verification, and triangulation to ensure accurate monitoring and corrective actions.",
+  "learning_objectives": [
+    "Understand the three-layer DQA framework for pediatric nutrition data quality assurance.",
+    "Learn to identify and address biologically implausible data and misclassification errors.",
+    "Apply triangulation techniques to reconcile discrepancies in nutrition program data.",
+    "Develop corrective actions based on DQA findings to improve program outcomes."
+  ],
+  "key_facts": [
+    "DQA involves three layers: automated plausibility screening, field verification, and triangulation.",
+    "Field verification recommends re-measuring 5\u201310% of children monthly using calibrated tools.",
+    "Automated plausibility checks flag biologically implausible z-scores, sudden shifts in wasting/stunting, and impossible denominators (e.g., >100% coverage).",
+    "Triangulation reconciles tracker reports with stock registers, attendance records, and caregiver recall.",
+    "Abrupt indicator improvements after training or device rollouts may signal data quality issues rather than true impact.",
+    "Corrective actions include refresher training for measurement errors and activating grievance systems for service delivery gaps."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Data Accuracy",
+    "Pediatric Nutrition",
+    "Quality Assurance, Health Care",
+    "Anthropometry",
+    "Nutrition Assessment",
+    "Health Program Evaluation",
+    "Public Health Surveillance"
+  ],
+  "tags_custom": [
+    "DQA framework",
+    "nutrition dashboards",
+    "triangulation methods",
+    "corrective actions"
+  ],
+  "reference_quote": "Routine nutrition dashboards are only as credible as their data quality assurance, so clinicians should learn basic DQA rules that convert 'numbers' into actionable evidence.",
+  "document_key_topics": [
+    "Data Quality Assurance in Pediatric Nutrition",
+    "Triangulation and Field Verification Techniques",
+    "Corrective Actions for Nutrition Program Monitoring"
+  ],
+  "chunk_heading": "PUBLIC HEALTH & COMMUNITY PEDIATRIC NUTRITION;MONITORING AND EVALUATION METRICS FOR PROGRAM CORRECTIVE ACTION;DATA QUALITY ASSURANCE SAMPLING AND DASHBOARD TRIANGULATION RULES;",
+  "topic": "PUBLIC HEALTH & COMMUNITY PEDIATRIC NUTRITION",
+  "subtopic": "MONITORING AND EVALUATION METRICS FOR PROGRAM CORRECTIVE ACTION",
+  "sub_subtopic": "DATA QUALITY ASSURANCE SAMPLING AND DASHBOARD TRIANGULATION RULES",
+  "heading_path": "PUBLIC HEALTH & COMMUNITY PEDIATRIC NUTRITION;MONITORING AND EVALUATION METRICS FOR PROGRAM CORRECTIVE ACTION;DATA QUALITY ASSURANCE SAMPLING AND DASHBOARD TRIANGULATION RULES;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u009b3"
+}

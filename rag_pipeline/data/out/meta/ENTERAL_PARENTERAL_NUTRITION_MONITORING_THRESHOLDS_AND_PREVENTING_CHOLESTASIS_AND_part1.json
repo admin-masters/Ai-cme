@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section focuses on monitoring and preventing complications like cholestasis and metabolic bone disease in pediatric enteral and parenteral nutrition, referencing ESPGHAN/ESPEN/ESPR guidelines for lipids, fluids, electrolytes, and minerals.",
+  "learning_objectives": [
+    "Understand the role of lipids in preventing cholestasis during parenteral nutrition.",
+    "Learn monitoring strategies for metabolic bone disease in pediatric patients receiving nutrition support.",
+    "Identify thresholds for fluid, electrolyte, and mineral balance in parenteral nutrition.",
+    "Apply ESPGHAN/ESPEN/ESPR guidelines to manage complications in pediatric nutrition."
+  ],
+  "key_facts": [
+    "Cholestasis is a common complication in pediatric parenteral nutrition, often linked to lipid composition and infusion rates.",
+    "Metabolic bone disease monitoring includes assessing calcium, phosphate, and vitamin D levels regularly.",
+    "Fluid and electrolyte imbalances are critical to monitor, with specific guidelines provided by ESPGHAN/ESPEN/ESPR.",
+    "Lipids should be optimized to reduce liver stress and prevent cholestasis, as per ESPGHAN/ESPEN/ESPR recommendations.",
+    "Mineral supplementation, including calcium and phosphate, is essential for bone health in long-term parenteral nutrition.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Parenteral Nutrition",
+    "Enteral Nutrition",
+    "Cholestasis",
+    "Metabolic Bone Disease",
+    "Pediatrics",
+    "Lipids",
+    "Electrolyte Imbalance",
+    "Mineral Supplementation"
+  ],
+  "tags_custom": [
+    "nutrition complications",
+    "cholestasis prevention",
+    "bone health monitoring",
+    "pediatric guidelines",
+    "fluid balance"
+  ],
+  "reference_quote": "ESPGHAN/ESPEN/ESPR guidelines emphasize the importance of lipid optimization and regular monitoring of calcium, phosphate, and vitamin D levels to prevent complications like cholestasis and metabolic bone disease in pediatric parenteral nutrition.",
+  "document_key_topics": [
+    "Cholestasis prevention in parenteral nutrition",
+    "Monitoring metabolic bone disease in pediatric patients",
+    "Guidelines for lipids, fluids, electrolytes, and minerals in nutrition support"
+  ],
+  "chunk_heading": "ENTERAL & PARENTERAL NUTRITION;MONITORING THRESHOLDS AND COMPLICATION RESPONSE PATHWAYS;PREVENTING CHOLESTASIS AND MONITORING METABOLIC BONE DISEASE;",
+  "topic": "ENTERAL & PARENTERAL NUTRITION",
+  "subtopic": "MONITORING THRESHOLDS AND COMPLICATION RESPONSE PATHWAYS",
+  "sub_subtopic": "PREVENTING CHOLESTASIS AND MONITORING METABOLIC BONE DISEASE",
+  "heading_path": "ENTERAL & PARENTERAL NUTRITION;MONITORING THRESHOLDS AND COMPLICATION RESPONSE PATHWAYS;PREVENTING CHOLESTASIS AND MONITORING METABOLIC BONE DISEASE;",
+  "reference_count": 1,
+  "has_guidelines": false,
+  "sequence": "2\u00904.2"
+}

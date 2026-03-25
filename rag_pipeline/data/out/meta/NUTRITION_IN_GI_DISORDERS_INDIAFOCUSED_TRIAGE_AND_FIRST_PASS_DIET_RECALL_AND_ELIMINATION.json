@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "Structured diet recall and elimination history are critical for diagnosing GI disorders in India, emphasizing energy density, gluten exposure, and food insecurity while avoiding unnecessary restrictions.",
+  "learning_objectives": [
+    "Understand the importance of structured diet recall in chronic diarrhea and malabsorption management.",
+    "Learn to document elimination diets and their nutritional replacements to preserve diagnostic integrity.",
+    "Identify disease-specific dietary modifiers for conditions like celiac disease and IBD.",
+    "Recognize socioeconomic factors like food insecurity and cost limitations in dietary planning."
+  ],
+  "key_facts": [
+    "A 24\u201348 hour diet recall and 'usual week' pattern should be documented, including breastfeeding frequency, milk type, and total volume.",
+    "For suspected celiac disease, gluten exposure must be documented for accurate serology and biopsy interpretation.",
+    "Every dietary restriction should include a replacement plan to maintain energy and protein intake.",
+    "In India, additional factors like TB contact, sanitation, and food insecurity must be assessed.",
+    "Unnecessary dietary eliminations or caregiver-driven practices like milk dilution can lead to diagnostic failures."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Gastrointestinal Diseases",
+    "Malabsorption Syndromes",
+    "Dietary Recall",
+    "Celiac Disease",
+    "Inflammatory Bowel Diseases",
+    "Food Insecurity",
+    "Nutritional Assessment",
+    "Pediatric Nutrition"
+  ],
+  "tags_custom": [
+    "India-specific GI care",
+    "Dietary elimination",
+    "Chronic diarrhea",
+    "Nutritional planning"
+  ],
+  "reference_quote": "\"For suspected celiac disease, document current gluten exposure because reliable serology and biopsy interpretation assume gluten is being consumed.\" (ICMR Evidence-Informed Guidelines on Diagnosis and Management of Celiac Disease)",
+  "document_key_topics": [
+    "Structured diet recall and documentation",
+    "Nutritional management in chronic diarrhea",
+    "Disease-specific dietary considerations (e.g., celiac disease, IBD)",
+    "Socioeconomic and cultural factors in dietary planning"
+  ],
+  "chunk_heading": "NUTRITION IN GI DISORDERS & MALABSORPTION;INDIA-FOCUSED TRIAGE AND FIRST- PASS ASSESSMENT;DIET RECALL AND ELIMINATION HISTORY THAT PRESERVES DIAGNOSTIC INTEGRITY;",
+  "topic": "NUTRITION IN GI DISORDERS & MALABSORPTION",
+  "subtopic": "INDIA-FOCUSED TRIAGE AND FIRST- PASS ASSESSMENT",
+  "sub_subtopic": "DIET RECALL AND ELIMINATION HISTORY THAT PRESERVES DIAGNOSTIC INTEGRITY",
+  "heading_path": "NUTRITION IN GI DISORDERS & MALABSORPTION;INDIA-FOCUSED TRIAGE AND FIRST- PASS ASSESSMENT;DIET RECALL AND ELIMINATION HISTORY THAT PRESERVES DIAGNOSTIC INTEGRITY;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2i4"
+}

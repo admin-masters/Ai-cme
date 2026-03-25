@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Vitamin B12 and folate deficiencies are common in vegetarian diets, with risks of anemia and neurologic symptoms. Diagnosis involves CBC and vitamin testing. Treatment includes cobalamin and folate supplementation, prioritizing B12 correction first to avoid worsening neurologic issues.",
+  "learning_objectives": [
+    "Understand the diagnostic criteria for vitamin B12 and folate deficiencies in vegetarian populations.",
+    "Learn the treatment sequencing and dosing guidelines for combined vitamin B12 and folate deficiencies.",
+    "Recognize the clinical presentations of vitamin B12 deficiency, including neurologic and hematologic symptoms.",
+    "Identify follow-up strategies to monitor treatment response and address non-response."
+  ],
+  "key_facts": [
+    "Vitamin B12 deficiency is common in strict vegetarians due to negligible plant-based sources.",
+    "Diagnostic triggers include macrocytosis (elevated MCV), hypersegmented neutrophils, glossitis, and neurologic symptoms.",
+    "Treatment: Oral cobalamin 500\u20131000 mg/day for 4\u20136 weeks, then weekly; or parenteral cobalamin 1000 mg daily or thrice weekly for 2 weeks, then weekly.",
+    "Folate dosing is age-stratified, typically given for 2\u20133 weeks at therapeutic doses, followed by maintenance dosing.",
+    "Correct vitamin B12 deficiency first before folate to prevent worsening neurologic symptoms.",
+    "Monitor response via reticulocyte count, hemoglobin levels, and neurologic improvement."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Vitamin B12 Deficiency",
+    "Folate Deficiency",
+    "Vegetarian Diet",
+    "Nutritional Anemia",
+    "Cobalamin",
+    "Folic Acid",
+    "Neurologic Manifestations",
+    "Pediatric Nutrition"
+  ],
+  "tags_custom": [
+    "vegetarian nutrition",
+    "vitamin deficiency treatment",
+    "pediatric anemia",
+    "regional feeding patterns"
+  ],
+  "reference_quote": "Treatment principles from Indian pediatric guidance: give cobalamin and folate either orally or parenterally depending on malabsorption risk. In combined deficiency, correct vitamin B12 first for a few days before folate because folate alone can precipitate or worsen neurologic symptoms.",
+  "document_key_topics": [
+    "Vitamin B12 deficiency in vegetarian diets",
+    "Folate deficiency and coexisting conditions",
+    "Diagnosis and treatment dosing guidelines",
+    "Monitoring treatment response in pediatric patients"
+  ],
+  "chunk_heading": "VEGETARIAN & REGIONAL FEEDING PATTERNS;DIAGNOSIS AND TREATMENT DOSING FOR VITAMIN B12 AND FOLATE DEFICIENCY;",
+  "topic": "VEGETARIAN & REGIONAL FEEDING PATTERNS",
+  "subtopic": "DIAGNOSIS AND TREATMENT DOSING FOR VITAMIN B12 AND FOLATE DEFICIENCY",
+  "sub_subtopic": null,
+  "heading_path": "VEGETARIAN & REGIONAL FEEDING PATTERNS;DIAGNOSIS AND TREATMENT DOSING FOR VITAMIN B12 AND FOLATE DEFICIENCY;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u0084"
+}

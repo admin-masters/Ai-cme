@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "Guidance on classifying and managing acute malnutrition in children 6\u201359 months, emphasizing referral pathways for severe cases and structured follow-up for moderate cases during complementary feeding.",
+  "learning_objectives": [
+    "Understand WHO criteria for classifying severe and moderate acute malnutrition (SAM and MAM).",
+    "Identify complications requiring urgent referral for facility-based management of SAM.",
+    "Develop feeding plans for uncomplicated wasting and moderate malnutrition.",
+    "Recognize the importance of follow-up and catch-up feeding to prevent relapse."
+  ],
+  "key_facts": [
+    "Severe acute malnutrition (SAM) is defined by WHZ < -3, MUAC <115 mm, or bilateral pitting edema.",
+    "Moderate acute malnutrition (MAM) is defined by WHZ between -3 and -2 and/or MUAC 115\u2013125 mm without edema.",
+    "Complications like lethargy, dehydration, or severe anemia require urgent referral to inpatient care.",
+    "Uncomplicated wasting requires outpatient care with therapeutic foods, energy-dense feeding, and structured follow-up.",
+    "Families often rely on diluted milk or watery gruels; nutrient-dense, thick feeds are essential.",
+    "Reassess moderate wasting within 7\u201314 days; escalate care if no weight gain or new symptoms appear."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Malnutrition",
+    "Severe Acute Malnutrition",
+    "Moderate Acute Malnutrition",
+    "Complementary Feeding",
+    "Nutritional Rehabilitation",
+    "Child Nutrition Disorders",
+    "Feeding Behavior",
+    "Referral and Consultation"
+  ],
+  "tags_custom": [
+    "acute malnutrition",
+    "feeding plans",
+    "nutrition triage",
+    "child health",
+    "referral pathways"
+  ],
+  "reference_quote": "WHO defines severe acute malnutrition (SAM) by any of: very low weight-for-length/height (WHZ < -3), bilateral pitting edema, or MUAC <115 mm.",
+  "document_key_topics": [
+    "Acute malnutrition classification",
+    "Referral pathways for SAM",
+    "Complementary feeding during malnutrition",
+    "Follow-up and catch-up feeding strategies"
+  ],
+  "chunk_heading": "COMPLEMENTARY FEEDING 6\u201324 MONTHS;MALNUTRITION TRIAGE AND SPECIAL POPULATIONS;ACUTE MALNUTRITION CLASSIFICATION AND REFERRAL PATHWAYS;",
+  "topic": "COMPLEMENTARY FEEDING 6\u201324 MONTHS",
+  "subtopic": "MALNUTRITION TRIAGE AND SPECIAL POPULATIONS",
+  "sub_subtopic": "ACUTE MALNUTRITION CLASSIFICATION AND REFERRAL PATHWAYS",
+  "heading_path": "COMPLEMENTARY FEEDING 6\u201324 MONTHS;MALNUTRITION TRIAGE AND SPECIAL POPULATIONS;ACUTE MALNUTRITION CLASSIFICATION AND REFERRAL PATHWAYS;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1\u008d1"
+}

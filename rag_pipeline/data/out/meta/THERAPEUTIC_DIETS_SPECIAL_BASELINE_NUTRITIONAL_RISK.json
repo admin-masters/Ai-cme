@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "Baseline nutritional risk stratification and monitoring frequency are essential before initiating therapeutic diets, especially for high-risk children, to ensure safety and adequacy of intake while preventing adverse outcomes.",
+  "learning_objectives": [
+    "Understand the importance of baseline nutritional risk stratification before implementing therapeutic diets.",
+    "Learn how to tailor monitoring frequency based on risk level and diet restriction intensity.",
+    "Identify appropriate laboratory tests and growth monitoring strategies for specific therapeutic diets."
+  ],
+  "key_facts": [
+    "High-risk children require review within 1\u20132 weeks, while lower-risk children can be reviewed at 3\u20134 weeks.",
+    "Risk stratification includes anthropometry, dietary history, and disease context (e.g., malabsorption, chronic inflammation).",
+    "Laboratory monitoring should be diet-specific, e.g., ferritin for gluten removal, electrolytes for ketogenic therapy, and calcium/phosphate for reduced dairy intake.",
+    "In India, prioritize a small 'safety panel' for specific diets due to testing limitations.",
+    "High-risk diets include classic ketogenic therapy, multifood elimination, and inborn error diets."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Diet Therapy",
+    "Nutritional Status",
+    "Risk Assessment",
+    "Growth Monitoring",
+    "Micronutrients",
+    "Ketogenic Diet",
+    "Malabsorption Syndromes",
+    "Child Nutrition Disorders"
+  ],
+  "tags_custom": [
+    "nutritional risk stratification",
+    "therapeutic diet monitoring",
+    "pediatric nutrition",
+    "diet-linked laboratory tests",
+    "growth trajectory analysis"
+  ],
+  "reference_quote": "Updated Recommendations of the International Ketogenic Diet Study Group \u2014 Optimal Clinical Management emphasizes laboratory monitoring for high-risk diets like ketogenic therapy.",
+  "document_key_topics": [
+    "Baseline nutritional risk stratification",
+    "Monitoring frequency for therapeutic diets",
+    "Laboratory testing linked to diet restrictions",
+    "Growth trajectory and intake adequacy"
+  ],
+  "chunk_heading": "THERAPEUTIC DIETS & SPECIAL INTERVENTIONS;BASELINE NUTRITIONAL RISK STRATIFICATION AND MONITORING FREQUENCY;",
+  "topic": "THERAPEUTIC DIETS & SPECIAL INTERVENTIONS",
+  "subtopic": "BASELINE NUTRITIONAL RISK STRATIFICATION AND MONITORING FREQUENCY",
+  "sub_subtopic": null,
+  "heading_path": "THERAPEUTIC DIETS & SPECIAL INTERVENTIONS;BASELINE NUTRITIONAL RISK STRATIFICATION AND MONITORING FREQUENCY;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1b"
+}

@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Ketogenic dietary therapies require supplementation and structured lab monitoring to prevent complications, with specific guidelines for hydration, micronutrients, and lab tests tailored to therapy duration and patient stability.",
+  "learning_objectives": [
+    "Understand the essential supplements required for classic ratio-based ketogenic dietary therapy (KDT).",
+    "Learn the minimum lab monitoring schedule for patients on KDT, including frequency and key tests.",
+    "Recognize the importance of hydration and constipation prevention in KDT protocols.",
+    "Identify risk factors such as hypocitraturia and selenium deficiency in KDT patients."
+  ],
+  "key_facts": [
+    "Minimum supplementation includes multivitamins with minerals (selenium), calcium plus vitamin D, and fiber for constipation prevention.",
+    "Early review within 1\u20132 weeks focuses on intake, hydration, and ketone/glucose monitoring techniques.",
+    "Lab tests include electrolytes, liver enzymes, fasting lipid profile, and urinalysis every 3 months in the first year, then every 6\u201312 months once stable.",
+    "Vitamin D status should be checked and repleted as needed; bone health surveillance is recommended for prolonged therapy.",
+    "In India, prioritize bicarbonate, lipids, and vitamin D monitoring if full panels are not feasible."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Ketogenic Diet",
+    "Micronutrients",
+    "Dietary Supplements",
+    "Vitamin D Deficiency",
+    "Constipation",
+    "Bone Health",
+    "Epilepsy",
+    "Laboratory Monitoring"
+  ],
+  "tags_custom": [
+    "ketogenic therapy protocols",
+    "micronutrient supplementation",
+    "hydration strategies",
+    "pediatric epilepsy management",
+    "India-specific KDT guidelines"
+  ],
+  "reference_quote": "Selenium deficiency-induced cardiomyopathy during ketogenic diet therapy \u2014 https://pubmed.ncbi.nlm.nih.gov/11575609/",
+  "document_key_topics": [
+    "Supplementation in ketogenic dietary therapy",
+    "Minimum lab monitoring schedule for KDT",
+    "Hydration and constipation prevention in KDT",
+    "Vitamin D and bone health surveillance"
+  ],
+  "chunk_heading": "THERAPEUTIC DIETS & SPECIAL INTERVENTIONS;KETOGENIC DIET SUPPLEMENTATION AND MINIMUM LAB MONITORING SCHEDULE;",
+  "topic": "THERAPEUTIC DIETS & SPECIAL INTERVENTIONS",
+  "subtopic": "KETOGENIC DIET SUPPLEMENTATION AND MINIMUM LAB MONITORING SCHEDULE",
+  "sub_subtopic": null,
+  "heading_path": "THERAPEUTIC DIETS & SPECIAL INTERVENTIONS;KETOGENIC DIET SUPPLEMENTATION AND MINIMUM LAB MONITORING SCHEDULE;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1k"
+}

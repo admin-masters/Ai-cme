@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "This section discusses ALT-based screening for pediatric steatotic liver disease in the context of obesity management, emphasizing metabolic risk, sex-specific ALT thresholds, and referral triggers for persistent elevation or other liver disease markers.",
+  "learning_objectives": [
+    "Understand the role of ALT as a marker for systemic metabolic risk in pediatric obesity care.",
+    "Learn the sex-specific ALT thresholds for identifying abnormal liver function in children.",
+    "Recognize the workflow for managing elevated ALT, including lifestyle interventions and follow-up testing.",
+    "Identify referral triggers for pediatric gastroenterology or hepatology in cases of persistent ALT elevation or additional liver disease markers."
+  ],
+  "key_facts": [
+    "ALT is a practical first-line test for pediatric steatotic liver disease screening in obesity care.",
+    "Sex-specific ALT thresholds: ~26 units/L for boys and ~22 units/L for girls (IAP guidelines).",
+    "Marked ALT elevation (>2x the local upper limit of normal) warrants evaluation for alternative etiologies.",
+    "Post-screening workflow includes repeating ALT/AST after 8\u201312 weeks of lifestyle changes targeting diet, activity, and sleep.",
+    "Referral to pediatric gastroenterology/hepatology is recommended for persistent ALT elevation or presence of markers like jaundice or hepatosplenomegaly."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Pediatric Obesity",
+    "Non-alcoholic Fatty Liver Disease",
+    "Alanine Transaminase",
+    "Metabolic Syndrome",
+    "Liver Function Tests",
+    "Lifestyle Modification",
+    "Pediatric Gastroenterology",
+    "Insulin Resistance"
+  ],
+  "tags_custom": [
+    "ALT thresholds",
+    "pediatric liver disease",
+    "obesity management",
+    "referral criteria"
+  ],
+  "reference_quote": "The IAP obesity guideline uses sex-specific thresholds (around 26 units/L for boys and 22 units/L for girls) to flag abnormal values, and recommends evaluating for alternative etiologies when elevation is more marked (for example, >2 times the local upper limit of normal).",
+  "document_key_topics": [
+    "ALT-based screening for pediatric steatotic liver disease",
+    "Sex-specific ALT thresholds and their clinical significance",
+    "Lifestyle interventions for managing elevated ALT",
+    "Referral criteria for pediatric liver disease specialists"
+  ],
+  "chunk_heading": "OVERNUTRITION & OBESITY MANAGEMENT;COMORBIDITY SCREENING WITH ACTIONABLE PATHWAYS;ALT-BASED STEATOTIC LIVER DISEASE PATHWAY AND REFERRAL TRIGGERS;",
+  "topic": "OVERNUTRITION & OBESITY MANAGEMENT",
+  "subtopic": "COMORBIDITY SCREENING WITH ACTIONABLE PATHWAYS",
+  "sub_subtopic": "ALT-BASED STEATOTIC LIVER DISEASE PATHWAY AND REFERRAL TRIGGERS",
+  "heading_path": "OVERNUTRITION & OBESITY MANAGEMENT;COMORBIDITY SCREENING WITH ACTIONABLE PATHWAYS;ALT-BASED STEATOTIC LIVER DISEASE PATHWAY AND REFERRAL TRIGGERS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1w9"
+}

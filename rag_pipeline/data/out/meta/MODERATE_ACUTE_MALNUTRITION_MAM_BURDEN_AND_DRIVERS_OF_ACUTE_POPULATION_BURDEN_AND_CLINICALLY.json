@@ -1,0 +1,46 @@
+{
+  "chunk_summary": "Moderate acute malnutrition (MAM) affects 11.6% of Indian children under 5, with drivers including inadequate diet, infections, and poor WASH practices. Integrated prevention and treatment are essential to address wasting effectively.",
+  "learning_objectives": [
+    "Understand the population burden of moderate acute malnutrition (MAM) in India based on NFHS-5 data.",
+    "Identify clinically actionable determinants of MAM, including dietary and health-related factors.",
+    "Learn programmatic approaches for integrated prevention and treatment of wasting in community and clinical settings."
+  ],
+  "key_facts": [
+    "19.3% of Indian children under 5 are wasted, and 7.7% are severely wasted (NFHS-5, 2019\u20132021).",
+    "Moderate wasting is estimated at 11.6% by subtracting severely wasted from total wasted.",
+    "Key drivers include inadequate diet quality/quantity, recurrent infections, and suboptimal WASH practices.",
+    "Wasting is sensitive to short-term shocks like food insecurity and seasonal infection peaks.",
+    "Clinically, MAM management requires addressing both dietary and health-related drivers in parallel."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Malnutrition",
+    "Wasting Syndrome",
+    "Child Nutrition Disorders",
+    "Diarrhea",
+    "Respiratory Tract Infections",
+    "Water Supply, Sanitation, and Hygiene (WASH)",
+    "India"
+  ],
+  "tags_custom": [
+    "Moderate Acute Malnutrition",
+    "NFHS-5 Data",
+    "Integrated Care",
+    "Community Nutrition",
+    "Clinical Guidelines"
+  ],
+  "reference_quote": "The NFHS-5 (2019\u20132021) fact sheet reports 19.3% of under-5 children are wasted and 7.7% are severely wasted.",
+  "document_key_topics": [
+    "Population burden of acute wasting in India",
+    "Clinically actionable determinants of moderate acute malnutrition",
+    "Integrated prevention and treatment strategies for wasting"
+  ],
+  "chunk_heading": "MODERATE ACUTE MALNUTRITION (MAM) AND SUPPLEMENTARY FEEDING;BURDEN AND DRIVERS OF ACUTE WASTING IN INDIA;POPULATION BURDEN AND CLINICALLY ACTIONABLE DETERMINANTS;",
+  "topic": "MODERATE ACUTE MALNUTRITION (MAM) AND SUPPLEMENTARY FEEDING",
+  "subtopic": "BURDEN AND DRIVERS OF ACUTE WASTING IN INDIA",
+  "sub_subtopic": "POPULATION BURDEN AND CLINICALLY ACTIONABLE DETERMINANTS",
+  "heading_path": "MODERATE ACUTE MALNUTRITION (MAM) AND SUPPLEMENTARY FEEDING;BURDEN AND DRIVERS OF ACUTE WASTING IN INDIA;POPULATION BURDEN AND CLINICALLY ACTIONABLE DETERMINANTS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1d1"
+}

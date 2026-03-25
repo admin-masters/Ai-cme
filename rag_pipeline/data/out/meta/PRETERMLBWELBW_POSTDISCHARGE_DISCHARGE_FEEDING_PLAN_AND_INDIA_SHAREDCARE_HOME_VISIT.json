@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section outlines the shared-care workflow for post-discharge nutrition monitoring of preterm/LBW/ELBW infants in India, emphasizing community worker tasks, clinician-led decisions, and standardized escalation thresholds for danger signs.",
+  "learning_objectives": [
+    "Understand the role of community workers (ASHA/ANM/AWW) in monitoring post-discharge nutrition for preterm/LBW/ELBW infants.",
+    "Identify clinician-led tasks in feeding modality decisions and comorbidity management.",
+    "Learn standardized escalation thresholds for urgent evaluation of feeding-related danger signs.",
+    "Recognize the importance of aligning follow-up care with HBNC/HBYC guidelines."
+  ],
+  "key_facts": [
+    "Community workers should record weight on MCP cards, confirm feed frequency, and screen for danger signs like fever, lethargy, and vomiting.",
+    "Clinician-led tasks include feeding modality decisions, fortification changes, and comorbidity management (e.g., BPD, CHD, NEC-related bowel disease).",
+    "Escalation thresholds include rapid weight loss, bilious vomiting, dehydration, fever with poor feeding, and suspected aspiration with cyanosis/apnea.",
+    "Post-discharge nutrition tiers (Tier 1/2/3) should be documented with measurable intake prescriptions (feeds/day, mL/feed, top-up triggers).",
+    "Community workers should not alter caloric density, tube plans, or medications but must escalate cases of weight plateau or feeding danger signs."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Infant, Low Birth Weight",
+    "Infant, Premature",
+    "Postnatal Care",
+    "Nutrition Assessment",
+    "Community Health Workers",
+    "Feeding Behavior",
+    "Micronutrients",
+    "Home Care Services"
+  ],
+  "tags_custom": [
+    "India-specific guidelines",
+    "Shared-care workflow",
+    "Escalation thresholds",
+    "Post-discharge nutrition",
+    "Community follow-up"
+  ],
+  "reference_quote": "Community worker tasks (ASHA/ANM/AWW linked) should focus on observable items: weighing and recording on the MCP card, confirming feed frequency, and screening for danger signs (fever, lethargy, breathing difficulty, vomiting, diarrhea).",
+  "document_key_topics": [
+    "Post-discharge nutrition monitoring for preterm/LBW/ELBW infants",
+    "Community worker roles in shared-care workflows",
+    "Clinician-led feeding and comorbidity management",
+    "Standardized escalation thresholds for danger signs"
+  ],
+  "chunk_heading": "PRETERM/LBW/ELBW POST-DISCHARGE NUTRITION;DISCHARGE FEEDING PLAN AND CAREGIVER MONITORING TOOLS;INDIA SHARED-CARE HOME VISIT WORKFLOW AND ESCALATION THRESHOLDS;",
+  "topic": "PRETERM/LBW/ELBW POST-DISCHARGE NUTRITION",
+  "subtopic": "DISCHARGE FEEDING PLAN AND CAREGIVER MONITORING TOOLS",
+  "sub_subtopic": "INDIA SHARED-CARE HOME VISIT WORKFLOW AND ESCALATION THRESHOLDS",
+  "heading_path": "PRETERM/LBW/ELBW POST-DISCHARGE NUTRITION;DISCHARGE FEEDING PLAN AND CAREGIVER MONITORING TOOLS;INDIA SHARED-CARE HOME VISIT WORKFLOW AND ESCALATION THRESHOLDS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1k6"
+}

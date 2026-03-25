@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "Guidelines for vitamin D repletion and active vitamin D use in pediatric CKD focus on stage-specific dosing, avoiding high-dose strategies, and monitoring calcium levels to prevent complications like adynamic bone disease and growth harm.",
+  "learning_objectives": [
+    "Understand the distinction between native vitamin D repletion and active vitamin D analogues for PTH control in pediatric CKD.",
+    "Learn stage-specific dosing regimens for vitamin D repletion in children and infants with CKD.",
+    "Recognize the risks of vitamin A toxicity and the need for renal-specific micronutrient safety in advanced CKD.",
+    "Identify the role of water-soluble vitamin supplementation in children on dialysis."
+  ],
+  "key_facts": [
+    "Vitamin D repletion: 8000 IU/day for levels <12 nmol/L, 4000 IU/day for 12\u201350 nmol/L, 2000 IU/day for 50\u201375 nmol/L, transitioning to maintenance at 1000\u20132000 IU/day.",
+    "Infants under 1 year: Fixed maintenance dosing of 400 IU/day after repletion.",
+    "Active vitamin D analogues (e.g., calcitriol) should only be used for PTH control, starting with the lowest dose to maintain normocalcemia and controlled phosphate.",
+    "Avoid high-dose calcitriol strategies in children due to risks of adynamic bone disease and growth harm.",
+    "Vitamin A supplementation is contraindicated in advanced CKD due to toxicity risks; intake should not exceed the healthy-child DRI.",
+    "Children on dialysis may require water-soluble vitamin supplementation due to dialysate losses, but routine biochemical testing is not recommended."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Vitamin D",
+    "Chronic Kidney Disease",
+    "Pediatric Nephrology",
+    "Parathyroid Hormone",
+    "Bone Diseases",
+    "Micronutrients",
+    "Dialysis",
+    "Vitamin A Toxicity"
+  ],
+  "tags_custom": [
+    "Pediatric CKD nutrition",
+    "Vitamin D dosing",
+    "Micronutrient safety",
+    "Dialysis supplementation",
+    "Bone health in CKD"
+  ],
+  "reference_quote": "Measure serum 25(OH)D and treat deficiency using stage-appropriate regimens, avoiding 'mega-dose' approaches. Monitor serum and urinary calcium during higher-dose phases and recheck 25(OH)D after repletion.",
+  "document_key_topics": [
+    "Vitamin D repletion strategies in pediatric CKD",
+    "Active vitamin D analogues for PTH control",
+    "Micronutrient safety in advanced CKD",
+    "Dialysis-related vitamin supplementation"
+  ],
+  "chunk_heading": "NUTRITION IN CHRONIC KIDNEY & LIVER DISEASE;MICRONUTRIENTS AND MINERAL BONE DISORDER IN PEDIATRIC CKD;VITAMIN D REPLETION ACTIVE VITAMIN D USE AND DIALYSIS VITAMIN SAFETY;",
+  "topic": "NUTRITION IN CHRONIC KIDNEY & LIVER DISEASE",
+  "subtopic": "MICRONUTRIENTS AND MINERAL BONE DISORDER IN PEDIATRIC CKD",
+  "sub_subtopic": "VITAMIN D REPLETION ACTIVE VITAMIN D USE AND DIALYSIS VITAMIN SAFETY",
+  "heading_path": "NUTRITION IN CHRONIC KIDNEY & LIVER DISEASE;MICRONUTRIENTS AND MINERAL BONE DISORDER IN PEDIATRIC CKD;VITAMIN D REPLETION ACTIVE VITAMIN D USE AND DIALYSIS VITAMIN SAFETY;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "3y3.1"
+}

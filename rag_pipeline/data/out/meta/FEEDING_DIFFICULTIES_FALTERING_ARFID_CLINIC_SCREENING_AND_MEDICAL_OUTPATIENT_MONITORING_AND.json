@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Outpatient monitoring for ARFID includes medical stabilization, refeeding risk management, and exposure-based psychological treatment, with close tracking of weight, hydration, and vital signs. Escalation is required for severe symptoms or refeeding syndrome risks.",
+  "learning_objectives": [
+    "Understand outpatient monitoring protocols for ARFID, including medical stabilization and psychological treatment.",
+    "Identify red flags such as syncope, chest pain, or severe malnutrition that require urgent escalation.",
+    "Learn stepwise caloric increase strategies to prevent refeeding syndrome in adolescents.",
+    "Recognize the importance of frequent follow-ups based on medical risk and response to treatment."
+  ],
+  "key_facts": [
+    "Baseline assessments include weight trajectory, percent median BMI, hydration, and orthostatic vital signs.",
+    "Red flags for escalation: syncope, chest pain, new edema, severe weakness, refusal of fluids, or rapid weight loss.",
+    "Screen for refeeding risk when intake is minimal for >1 week, weight loss is rapid, or malnutrition is severe.",
+    "Electrolytes (phosphate, potassium, magnesium) should be monitored during caloric increases; falling levels require hospital-based refeeding.",
+    "Weekly follow-ups are recommended for medically fragile patients, transitioning to longer intervals after stable weight gain."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Feeding and Eating Disorders",
+    "Avoidant Restrictive Food Intake Disorder",
+    "Refeeding Syndrome",
+    "Malnutrition",
+    "Body Mass Index",
+    "Electrolyte Imbalance",
+    "Adolescent Health",
+    "Outpatient Care"
+  ],
+  "tags_custom": [
+    "ARFID outpatient care",
+    "refeeding risk management",
+    "medical monitoring",
+    "psychological treatment linkage",
+    "escalation protocols"
+  ],
+  "reference_quote": "Screen for refeeding risk when intake has been minimal for more than about a week, when weight loss has been rapid, or when malnutrition is severe. Order electrolytes including phosphate and magnesium when initiating significant caloric increases or when medical risk is rising.",
+  "document_key_topics": [
+    "Outpatient monitoring for ARFID",
+    "Refeeding risk management",
+    "Medical stabilization and psychological treatment",
+    "Escalation protocols for severe symptoms"
+  ],
+  "chunk_heading": "FEEDING DIFFICULTIES & FALTERING GROWTH;ARFID CLINIC SCREENING AND MEDICAL RISK MANAGEMENT;OUTPATIENT MONITORING AND REFEEDING RISK MANAGEMENT;",
+  "topic": "FEEDING DIFFICULTIES & FALTERING GROWTH",
+  "subtopic": "ARFID CLINIC SCREENING AND MEDICAL RISK MANAGEMENT",
+  "sub_subtopic": "OUTPATIENT MONITORING AND REFEEDING RISK MANAGEMENT",
+  "heading_path": "FEEDING DIFFICULTIES & FALTERING GROWTH;ARFID CLINIC SCREENING AND MEDICAL RISK MANAGEMENT;OUTPATIENT MONITORING AND REFEEDING RISK MANAGEMENT;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "4\u008c2"
+}

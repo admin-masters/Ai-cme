@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "This section outlines maternal milk contraindications and temporary hold criteria, emphasizing safety protocols for NICU infants, including absolute contraindications, temporary deferrals, and nuanced risks like CMV transmission in preterm infants.",
+  "learning_objectives": [
+    "Identify absolute contraindications for maternal milk use, such as galactosemia and cytotoxic chemotherapy.",
+    "Understand temporary deferral criteria, including herpetic lesions and untreated tuberculosis.",
+    "Evaluate risks and benefits of maternal milk for preterm infants, particularly regarding CMV transmission.",
+    "Apply infection control measures and local policies for safe milk use in NICU settings."
+  ],
+  "key_facts": [
+    "Absolute contraindications include infant galactosemia, maternal cytotoxic chemotherapy, radioactive isotopes, ongoing illicit drug use, and untreated HTLV infection.",
+    "Temporary deferrals include herpetic lesions on the breast (use milk from unaffected breast with strict hygiene) and untreated tuberculosis (use expressed milk if no breast involvement).",
+    "For very preterm infants, CMV transmission risk may warrant freezing or pasteurizing maternal milk until maturity or weight thresholds are met.",
+    "National policies differ on maternal HIV; donor milk may be used if breastfeeding is interrupted despite antiretroviral therapy.",
+    "Local policies should explicitly address milk handling protocols and document shared decision-making.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Breast Milk",
+    "Milk Banks",
+    "Infant, Premature",
+    "Cytomegalovirus Infections",
+    "HIV Infections",
+    "Tuberculosis",
+    "Herpes Simplex",
+    "Human T-lymphotropic virus 1"
+  ],
+  "tags_custom": [
+    "NICU milk safety",
+    "maternal milk contraindications",
+    "donor milk protocols",
+    "CMV risk management",
+    "infection control"
+  ],
+  "reference_quote": "For very preterm infants, cytomegalovirus (CMV) transmission from seropositive mothers is a nuanced risk. Some units freeze or pasteurize maternal milk for extremely preterm infants until a defined maturity or weight threshold; others use raw maternal milk because the clinical benefit outweighs risk.",
+  "document_key_topics": [
+    "Maternal milk contraindications",
+    "Temporary deferral criteria for milk use",
+    "CMV risk in preterm infants",
+    "NICU milk handling protocols"
+  ],
+  "chunk_heading": "EXPRESSED MILK, DONOR MILK & MILK BANKING;MATERNAL MILK CONTRAINDICATIONS AND TEMPORARY HOLD CRITERIA;",
+  "topic": "EXPRESSED MILK, DONOR MILK & MILK BANKING",
+  "subtopic": "MATERNAL MILK CONTRAINDICATIONS AND TEMPORARY HOLD CRITERIA",
+  "sub_subtopic": null,
+  "heading_path": "EXPRESSED MILK, DONOR MILK & MILK BANKING;MATERNAL MILK CONTRAINDICATIONS AND TEMPORARY HOLD CRITERIA;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "2\u007f"
+}

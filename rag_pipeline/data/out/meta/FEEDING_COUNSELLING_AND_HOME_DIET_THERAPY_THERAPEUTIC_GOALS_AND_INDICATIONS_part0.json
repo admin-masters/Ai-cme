@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "Therapeutic goals for uncomplicated moderate wasting focus on recovery, prevention of severe wasting, and targeted supplementation based on risk factors, with WHO prioritizing counselling and nutrient-dense home diets.",
+  "learning_objectives": [
+    "Understand the therapeutic goals for managing uncomplicated moderate wasting (MAM).",
+    "Identify indications for supplementation and risk-based criteria for its use.",
+    "Learn WHO recommendations for nutrient-dense diets and supplementation in MAM.",
+    "Recognize the role of counselling and family food access in outpatient care."
+  ],
+  "key_facts": [
+    "The primary goal in MAM is recovery from wasting, prevention of SAM, and support for neurodevelopment.",
+    "WHO recommends nutrient-dense home diets first, with supplementation for high-risk children (e.g., MUAC 115\u2013119 mm, WAZ < -3, age < 24 months).",
+    "In humanitarian contexts, supplementation may be provided to all children aged 6\u201359 months with moderate wasting.",
+    "Lipid-based nutrient supplements (LNS) are conditionally preferred, contributing 40\u201360% of daily energy needs (100\u2013130 kcal/kg/day).",
+    "Supplementation should not displace family foods and must be coupled with a concrete linkage plan for access."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Malnutrition",
+    "Moderate Acute Malnutrition",
+    "Diet Therapy",
+    "Nutritional Support",
+    "Child Nutrition Disorders",
+    "Lipid-Based Nutrient Supplements",
+    "Counselling",
+    "Food Security"
+  ],
+  "tags_custom": [
+    "moderate wasting",
+    "nutrient-dense diets",
+    "WHO guidelines",
+    "outpatient care"
+  ],
+  "reference_quote": "WHO anchors moderate wasting care in a nutrient-dense diet plus identification and treatment of medical and psychosocial drivers.",
+  "document_key_topics": [
+    "Therapeutic goals in moderate wasting",
+    "Risk-based supplementation criteria",
+    "WHO recommendations for MAM management",
+    "Role of counselling and family food access"
+  ],
+  "chunk_heading": "FEEDING;COUNSELLING AND HOME DIET THERAPY IN UNCOMPLICATED MODERATE WASTING;THERAPEUTIC GOALS AND INDICATIONS FOR SUPPLEMENTATION;",
+  "topic": "FEEDING",
+  "subtopic": "COUNSELLING AND HOME DIET THERAPY IN UNCOMPLICATED MODERATE WASTING",
+  "sub_subtopic": "THERAPEUTIC GOALS AND INDICATIONS FOR SUPPLEMENTATION",
+  "heading_path": "FEEDING;COUNSELLING AND HOME DIET THERAPY IN UNCOMPLICATED MODERATE WASTING;THERAPEUTIC GOALS AND INDICATIONS FOR SUPPLEMENTATION;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "3g1.1"
+}

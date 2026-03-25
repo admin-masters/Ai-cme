@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Strategies to minimize feed interruptions and audit delivered volume are essential for optimizing enteral nutrition in pediatric critical care, especially during procedures and imaging.",
+  "learning_objectives": [
+    "Understand the importance of minimizing enteral nutrition interruptions in pediatric critical care settings.",
+    "Learn strategies for coordinating feed schedules with procedures to reduce fasting periods.",
+    "Implement delivered-versus-prescribed audits to monitor nutrition delivery and address deficiencies.",
+    "Explore methods to safely resume feeding after brief interruptions, including postpyloric feeding protocols."
+  ],
+  "key_facts": [
+    "Nutrition interruptions are a major cause of reduced enteral nutrition delivery in critically ill children.",
+    "Delivered volume <80% of prescription for 24\u201348 hours should be treated as clinical deterioration in nutrition delivery.",
+    "Continuous feeding regimens are recommended when frequent interruptions are predictable.",
+    "Postpyloric feeding may allow shorter holds compared to gastric feeding for certain procedures.",
+    "In resource-limited settings, delivered-versus-prescribed audits are a high-yield intervention to improve nutrition delivery."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Enteral Nutrition",
+    "Parenteral Nutrition",
+    "Critical Care",
+    "Pediatrics",
+    "Nutrition Therapy",
+    "Feeding Methods",
+    "Postpyloric Feeding",
+    "Quality Improvement"
+  ],
+  "tags_custom": [
+    "feed interruption control",
+    "nutrition audits",
+    "pediatric ICU nutrition",
+    "procedure coordination",
+    "continuous feeding strategies"
+  ],
+  "reference_quote": "Guidelines for the provision and assessment of nutrition support therapy in the pediatric critically ill patient (ASPEN/SCCM 2017) emphasize the importance of minimizing fasting and optimizing feed delivery during routine care and procedures.",
+  "document_key_topics": [
+    "Feed interruption minimization strategies",
+    "Delivered volume audits in enteral nutrition",
+    "Postpyloric versus gastric feeding protocols",
+    "Continuous feeding regimens in critical care"
+  ],
+  "chunk_heading": "ENTERAL & PARENTERAL NUTRITION;PUMP VERSUS BOLUS DELIVERY AND INTERRUPTION CONTROL;FEED INTERRUPTION MINIMIZATION AND DELIVERED VOLUME AUDIT;",
+  "topic": "ENTERAL & PARENTERAL NUTRITION",
+  "subtopic": "PUMP VERSUS BOLUS DELIVERY AND INTERRUPTION CONTROL",
+  "sub_subtopic": "FEED INTERRUPTION MINIMIZATION AND DELIVERED VOLUME AUDIT",
+  "heading_path": "ENTERAL & PARENTERAL NUTRITION;PUMP VERSUS BOLUS DELIVERY AND INTERRUPTION CONTROL;FEED INTERRUPTION MINIMIZATION AND DELIVERED VOLUME AUDIT;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "2~1"
+}

@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section discusses vaccination, household WASH practices, and nutrition-specific strategies to prevent diarrhea recurrence, emphasizing immunization, safe water, and early feeding resumption.",
+  "learning_objectives": [
+    "Understand the role of vaccination in reducing diarrhea recurrence, including rotavirus immunization.",
+    "Learn household WASH practices to prevent diarrheal diseases, such as safe water use and handwashing.",
+    "Recognize the importance of early feeding resumption and ORS/zinc use during diarrhea episodes.",
+    "Identify strategies for follow-up care, including growth monitoring and micronutrient reassessment."
+  ],
+  "key_facts": [
+    "Rotavirus vaccination under India's Universal Immunization Programme reduces severe gastroenteritis in infants and young children.",
+    "Live vaccines are generally avoided once significant immunosuppression begins in children with IBD.",
+    "Safe water practices include boiling, filtering, or treating water as locally appropriate; 'clear water' is not necessarily safe.",
+    "ORS and zinc should be kept at home with clear dosing instructions for diarrhea management.",
+    "Juice and sweetened beverages can precipitate osmotic stooling and prolong diarrhea symptoms.",
+    "Follow-up after recovery should include catch-up growth assessment and reassessment of anemia and vitamin D/calcium status.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Diarrhea",
+    "Vaccination",
+    "Rotavirus Infections",
+    "Water Purification",
+    "Hand Hygiene",
+    "Oral Rehydration Solutions",
+    "Zinc",
+    "Nutritional Rehabilitation"
+  ],
+  "tags_custom": [
+    "WASH practices",
+    "Diarrhea prevention",
+    "Pediatric nutrition",
+    "Immunization protocols"
+  ],
+  "reference_quote": "In India, rotavirus vaccination under the Universal Immunization Programme reduces severe gastroenteritis and should be reinforced in infants and younger siblings.",
+  "document_key_topics": [
+    "Vaccination for diarrhea prevention",
+    "Household WASH practices",
+    "Nutrition-specific diarrhea management"
+  ],
+  "chunk_heading": "NUTRITION IN GI DISORDERS & MALABSORPTION;NUTRITION REHABILITATION AND PERSISTENT DIARRHEA PROTOCOLS;VACCINATION AND HOUSEHOLD COUNSELING TO REDUCE DIARRHEA RECURRENCE;",
+  "topic": "NUTRITION IN GI DISORDERS & MALABSORPTION",
+  "subtopic": "NUTRITION REHABILITATION AND PERSISTENT DIARRHEA PROTOCOLS",
+  "sub_subtopic": "VACCINATION AND HOUSEHOLD COUNSELING TO REDUCE DIARRHEA RECURRENCE",
+  "heading_path": "NUTRITION IN GI DISORDERS & MALABSORPTION;NUTRITION REHABILITATION AND PERSISTENT DIARRHEA PROTOCOLS;VACCINATION AND HOUSEHOLD COUNSELING TO REDUCE DIARRHEA RECURRENCE;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2v9"
+}

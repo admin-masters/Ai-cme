@@ -1,0 +1,47 @@
+{
+  "chunk_summary": "This section discusses general restrictions in managing decompensated cirrhosis, ascites, and pediatric liver disease, with a focus on nutrition and clinical guidelines.",
+  "learning_objectives": [
+    "Understand the role of dietary and fluid restrictions in managing decompensated cirrhosis and ascites.",
+    "Identify key nutritional strategies for children with chronic liver disease.",
+    "Review clinical guidelines for managing spontaneous bacterial peritonitis and hepatorenal syndrome.",
+    "Analyze the importance of evidence-based practices in pediatric liver disease management."
+  ],
+  "key_facts": [
+    "Decompensated cirrhosis often requires sodium restriction to <2 g/day to manage ascites (EASL guidelines).",
+    "Fluid restriction is recommended in cases of severe hyponatremia (serum sodium <125 mmol/L).",
+    "Nutritional support in children with chronic liver disease should include 120-150% of the recommended daily caloric intake (NASPGHAN/ESPGHAN).",
+    "Spontaneous bacterial peritonitis (SBP) is a common complication in cirrhosis, requiring prompt antibiotic treatment (AASLD guidance).",
+    "Protein restriction is generally not recommended in cirrhosis unless hepatic encephalopathy is severe."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Cirrhosis",
+    "Ascites",
+    "Spontaneous Bacterial Peritonitis",
+    "Hepatorenal Syndrome",
+    "Hyponatremia",
+    "Pediatric Nutrition",
+    "Liver Diseases"
+  ],
+  "tags_custom": [
+    "Decompensated cirrhosis",
+    "Pediatric liver disease",
+    "Nutritional management",
+    "Clinical guidelines"
+  ],
+  "reference_quote": "Nutritional support of children with chronic liver disease should aim for 120-150% of the recommended daily caloric intake to prevent malnutrition (NASPGHAN/ESPGHAN).",
+  "document_key_topics": [
+    "Decompensated cirrhosis management",
+    "Ascites and fluid restriction",
+    "Pediatric liver disease nutrition",
+    "Clinical guidelines for liver complications"
+  ],
+  "chunk_heading": "RESTRICTION;",
+  "topic": "RESTRICTION",
+  "subtopic": "General",
+  "sub_subtopic": null,
+  "heading_path": "RESTRICTION;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "5a.2"
+}

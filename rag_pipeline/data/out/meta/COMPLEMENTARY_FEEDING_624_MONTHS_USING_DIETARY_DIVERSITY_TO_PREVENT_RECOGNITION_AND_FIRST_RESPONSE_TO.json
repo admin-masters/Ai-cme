@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Guidance on recognizing and managing allergic reactions during complementary feeding, emphasizing severity triage, emergency response with epinephrine, and follow-up care.",
+  "learning_objectives": [
+    "Understand the importance of dietary diversity in complementary feeding and its role in allergen exposure.",
+    "Identify mild versus moderate-to-severe allergic reactions in infants and young children.",
+    "Learn the first-line treatment protocol for anaphylaxis, including epinephrine dosing and administration.",
+    "Develop an emergency response plan for suspected food allergies during complementary feeding."
+  ],
+  "key_facts": [
+    "Complementary feeding introduces common allergens such as peanut, egg, dairy, wheat, and fish.",
+    "Mild reactions include localized hives, itching, or mild perioral rash, while severe reactions involve breathing difficulty, wheeze, stridor, or multi-system symptoms.",
+    "First-line treatment for anaphylaxis is intramuscular epinephrine at 0.01 mg/kg of 1 mg/mL (1:1000) injected into the anterolateral thigh.",
+    "Epinephrine dosing can be repeated at short intervals if symptoms persist while arranging emergency care.",
+    "Antihistamines are adjuncts and should not delay epinephrine administration or emergency referral.",
+    "Post-anaphylaxis care includes specialist evaluation, documentation of the trigger food, and a written avoidance and re-introduction plan."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Complementary Feeding",
+    "Food Hypersensitivity",
+    "Anaphylaxis",
+    "Epinephrine",
+    "Dietary Diversity",
+    "Pediatric Emergency Medicine",
+    "Allergen Exposure",
+    "Respiratory Distress"
+  ],
+  "tags_custom": [
+    "Allergic Reactions",
+    "Complementary Feeding Guidelines",
+    "Emergency Response",
+    "Pediatric Allergy Management"
+  ],
+  "reference_quote": "Intramuscular epinephrine (adrenaline) is the first-line treatment for anaphylaxis. Recommended pediatric dosing is 0.01 mg/kg of 1 mg/mL (1:1000) injected into the anterolateral thigh.",
+  "document_key_topics": [
+    "Complementary feeding and allergen introduction",
+    "Recognition of allergic reaction severity",
+    "Emergency management of anaphylaxis",
+    "Post-reaction follow-up and prevention"
+  ],
+  "chunk_heading": "COMPLEMENTARY FEEDING 6\u201324 MONTHS;USING DIETARY DIVERSITY TO PREVENT MICRONUTRIENT GAPS;RECOGNITION AND FIRST RESPONSE TO ALLERGIC REACTIONS;",
+  "topic": "COMPLEMENTARY FEEDING 6\u201324 MONTHS",
+  "subtopic": "USING DIETARY DIVERSITY TO PREVENT MICRONUTRIENT GAPS",
+  "sub_subtopic": "RECOGNITION AND FIRST RESPONSE TO ALLERGIC REACTIONS",
+  "heading_path": "COMPLEMENTARY FEEDING 6\u201324 MONTHS;USING DIETARY DIVERSITY TO PREVENT MICRONUTRIENT GAPS;RECOGNITION AND FIRST RESPONSE TO ALLERGIC REACTIONS;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1\u00833"
+}

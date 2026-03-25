@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "This section discusses the use of digital tools for interpreting growth trajectories, emphasizing measurement confidence scoring and clinical decision-making based on growth patterns and measurement reliability.",
+  "learning_objectives": [
+    "Understand the role of digital tools in calculating z-scores and percentiles for growth assessment.",
+    "Learn to identify and interpret common growth patterns and their clinical implications.",
+    "Apply measurement confidence scoring to guide clinical decisions and follow-up plans.",
+    "Recognize the importance of confirming serial measurements before diagnosing growth faltering."
+  ],
+  "key_facts": [
+    "Digital tools calculate z-scores and percentiles but require clinical interpretation for pattern recognition.",
+    "Growth faltering should only be confirmed after at least two serial measurements with comparable techniques.",
+    "Measurement confidence is graded as high (clinic-measured or device-verified), moderate (coached home measurement with photo evidence), or low (uncertain tools or inconsistent readings).",
+    "Low-confidence measurements should prompt in-person follow-up within days to weeks, depending on clinical stability.",
+    "Small length errors in early life can cause large shifts in weight-for-length, necessitating cautious interpretation.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Anthropometry",
+    "Growth Disorders",
+    "Telemedicine",
+    "Body Height",
+    "Body Weight",
+    "Nutritional Status",
+    "Pediatrics",
+    "Clinical Decision-Making"
+  ],
+  "tags_custom": [
+    "digital growth tools",
+    "measurement confidence",
+    "remote anthropometry",
+    "growth pattern analysis"
+  ],
+  "reference_quote": "Before labeling growth faltering, confirm at least two serial measures taken with comparable technique and conditions. (NICE NG75)",
+  "document_key_topics": [
+    "Digital tools for growth assessment",
+    "Measurement confidence scoring",
+    "Clinical interpretation of growth trajectories"
+  ],
+  "chunk_heading": "DIGITAL TOOLS & TELE-NUTRITION;GROWTH REFERENCES AND REMOTE ANTHROPOMETRY USING DIGITAL TOOLS;DIGITAL INTERPRETATION OF TRAJECTORIES WITH MEASUREMENT CONFIDENCE SCORING;",
+  "topic": "DIGITAL TOOLS & TELE-NUTRITION",
+  "subtopic": "GROWTH REFERENCES AND REMOTE ANTHROPOMETRY USING DIGITAL TOOLS",
+  "sub_subtopic": "DIGITAL INTERPRETATION OF TRAJECTORIES WITH MEASUREMENT CONFIDENCE SCORING",
+  "heading_path": "DIGITAL TOOLS & TELE-NUTRITION;GROWTH REFERENCES AND REMOTE ANTHROPOMETRY USING DIGITAL TOOLS;DIGITAL INTERPRETATION OF TRAJECTORIES WITH MEASUREMENT CONFIDENCE SCORING;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1s4"
+}

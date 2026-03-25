@@ -1,0 +1,51 @@
+{
+  "chunk_summary": "This section discusses the delivery ecosystems for pediatric micronutrient programs in India, focusing on governance escalation paths across Anganwadi, school, and health-system platforms, with emphasis on entitlement versus treatment differentiation and operational monitoring.",
+  "learning_objectives": [
+    "Understand the three delivery ecosystems for pediatric micronutrient programs: Anganwadi, schools, and health-system touchpoints.",
+    "Differentiate between population-level prevention (e.g., prophylactic IFA, VAS) and clinical treatment (e.g., therapeutic iron, vitamin A).",
+    "Learn governance escalation paths for addressing operational issues in program delivery.",
+    "Analyze the role of fortification and FSSAI regulation in nutrition programs."
+  ],
+  "key_facts": [
+    "Anganwadi/ICDS platforms deliver take-home rations (THR) or hot cooked meals (HCM) to registered children.",
+    "PM POSHAN integrates weekly IFA supplementation and biannual National Deworming Day (NDD) in schools.",
+    "Health-system touchpoints include VHND/VHSND, sub-centres, PHCs, and facilities for scheduled VAS, IFA, and deworming.",
+    "Governance escalation paths include AWW \u2192 supervisor/sector in-charge \u2192 CDPO for Anganwadi issues.",
+    "Prophylactic IFA should be paused during therapeutic iron treatment to avoid double dosing.",
+    "Fortification is regulated by FSSAI and integrated across all three ecosystems.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Micronutrients",
+    "Child Nutrition",
+    "Iron Deficiency",
+    "Vitamin A Deficiency",
+    "Public Health Programs",
+    "Health Systems",
+    "Fortification",
+    "India"
+  ],
+  "tags_custom": [
+    "Anganwadi governance",
+    "PM POSHAN integration",
+    "Pediatric nutrition delivery",
+    "Operational monitoring",
+    "Escalation pathways"
+  ],
+  "reference_quote": "\u2018Mission Saksham Anganwadi and POSHAN 2.0 documents emphasize the importance of governance escalation paths for addressing operational issues in nutrition delivery.\u2019",
+  "document_key_topics": [
+    "Anganwadi/ICDS ecosystem for nutrition delivery",
+    "PM POSHAN integration with IFA and NDD in schools",
+    "Health-system touchpoints for VAS, IFA, and deworming",
+    "Governance escalation paths for operational issues"
+  ],
+  "chunk_heading": "NATIONAL NUTRITION AND FORTIFICATION PROGRAMS IN INDIA;MICRONUTRIENT PROGRAM PLATFORMS AND PEDIATRIC TOUCHPOINTS;PROGRAMME DELIVERY ECOSYSTEMS AND GOVERNANCE ESCALATION PATHS;",
+  "topic": "NATIONAL NUTRITION AND FORTIFICATION PROGRAMS IN INDIA",
+  "subtopic": "MICRONUTRIENT PROGRAM PLATFORMS AND PEDIATRIC TOUCHPOINTS",
+  "sub_subtopic": "PROGRAMME DELIVERY ECOSYSTEMS AND GOVERNANCE ESCALATION PATHS",
+  "heading_path": "NATIONAL NUTRITION AND FORTIFICATION PROGRAMS IN INDIA;MICRONUTRIENT PROGRAM PLATFORMS AND PEDIATRIC TOUCHPOINTS;PROGRAMME DELIVERY ECOSYSTEMS AND GOVERNANCE ESCALATION PATHS;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "1b1"
+}

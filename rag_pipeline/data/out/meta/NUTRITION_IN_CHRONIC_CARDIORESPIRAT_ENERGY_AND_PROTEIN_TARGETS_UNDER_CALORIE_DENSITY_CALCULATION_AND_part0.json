@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Guidelines for calculating calorie density and fortification in chronic cardiorespiratory disease under fluid restriction, with a focus on infants and specific numeric targets for energy, fluid, and calorie density.",
+  "learning_objectives": [
+    "Understand the three-step process for calculating calorie density under fluid restriction.",
+    "Learn energy and fluid requirements for infants with heart failure or cystic fibrosis.",
+    "Recognize the importance of clinical monitoring and fortification strategies for high-calorie density feeds.",
+    "Identify risks of hyperosmolar feeds and electrolyte imbalances in fortified diets."
+  ],
+  "key_facts": [
+    "Required kcal/day = target kcal/kg/day \u00d7 weight (kg); for infant heart failure, targets are 120\u2013150 kcal/kg/day.",
+    "Allowed mL/day = fluid allowance (mL/kg/day) \u00d7 weight (kg); typical allowance in CHD heart failure is 100 mL/kg/day.",
+    "Target kcal/mL = required kcal/day \u00f7 allowed mL/day; densities >1.0 kcal/mL often require tube supplementation.",
+    "Example: A 4 kg infant needing 130 kcal/kg/day requires 520 kcal/day; with a 100 mL/kg/day fluid limit, the calculated density is 1.3 kcal/mL.",
+    "Conversions: 20 kcal/oz = 0.67 kcal/mL, 24 kcal/oz = 0.8 kcal/mL, 30 kcal/oz = 1.0 kcal/mL.",
+    "Mixing instructions vary by brand; dietitian verification is essential to prevent hyperosmolar feeds and electrolyte issues."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Nutrition Therapy",
+    "Heart Failure",
+    "Cystic Fibrosis",
+    "Caloric Intake",
+    "Fluid Therapy",
+    "Infant Nutrition",
+    "Dietary Supplements",
+    "Energy Metabolism"
+  ],
+  "tags_custom": [
+    "calorie density",
+    "fluid restriction",
+    "infant feeding",
+    "fortification strategies",
+    "clinical nutrition"
+  ],
+  "reference_quote": "For infant heart failure, targets around 120\u2013150 kcal/kg/day are commonly used; in CF, targets may be expressed as a percentage above peer requirements while still monitoring BMI or WFL trajectories.",
+  "document_key_topics": [
+    "Calorie density calculation under fluid restriction",
+    "Energy and fluid requirements in chronic cardiorespiratory disease",
+    "Fortification strategies for high-calorie feeds"
+  ],
+  "chunk_heading": "NUTRITION IN CHRONIC CARDIORESPIRATORY DISEASE;ENERGY AND PROTEIN TARGETS UNDER FLUID RESTRICTION;CALORIE DENSITY CALCULATION AND FORTIFICATION PRESCRIPTION TEMPLATE;",
+  "topic": "NUTRITION IN CHRONIC CARDIORESPIRATORY DISEASE",
+  "subtopic": "ENERGY AND PROTEIN TARGETS UNDER FLUID RESTRICTION",
+  "sub_subtopic": "CALORIE DENSITY CALCULATION AND FORTIFICATION PRESCRIPTION TEMPLATE",
+  "heading_path": "NUTRITION IN CHRONIC CARDIORESPIRATORY DISEASE;ENERGY AND PROTEIN TARGETS UNDER FLUID RESTRICTION;CALORIE DENSITY CALCULATION AND FORTIFICATION PRESCRIPTION TEMPLATE;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1s2.1"
+}

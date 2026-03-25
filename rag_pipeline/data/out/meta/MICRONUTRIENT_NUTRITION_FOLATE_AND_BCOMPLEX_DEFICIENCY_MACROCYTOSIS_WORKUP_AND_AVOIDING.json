@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Macrocytosis workup emphasizes targeted evaluation for folate and B12 deficiencies, avoiding folate-only treatment to prevent neurological damage, especially in pediatric cases with specific clinical features.",
+  "learning_objectives": [
+    "Understand the clinical significance of macrocytosis and its common causes in pediatric patients.",
+    "Differentiate between folate and B12 deficiencies using first-line and advanced diagnostic tests.",
+    "Recognize the risks of folate-only treatment and the importance of addressing B12 deficiency first.",
+    "Apply appropriate treatment strategies for pediatric patients with macrocytosis and related deficiencies."
+  ],
+  "key_facts": [
+    "Macrocytosis is commonly caused by folate deficiency, B12 deficiency, mixed deficiencies, or marrow disorders in pediatric patients.",
+    "Clinical features of B12 deficiency include glossitis, hyperpigmented knuckles, hypotonia, developmental regression, paresthesias, and seizures.",
+    "First-line tests include serum B12 and folate levels; homocysteine and methylmalonic acid can help differentiate deficiencies when results are unclear.",
+    "Folate-only treatment can correct anemia but worsen neurological damage in unrecognized B12 deficiency.",
+    "In cases of combined deficiencies, B12 should be replaced first or both should be replaced together.",
+    "A 9-month-old exclusively breastfed by a vegetarian mother with macrocytosis and developmental regression requires prompt B12 replacement, often parenteral if neurologic symptoms are present."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Macrocytosis",
+    "Folate Deficiency",
+    "Vitamin B12 Deficiency",
+    "Pancytopenia",
+    "Neurological Manifestations",
+    "Homocysteine",
+    "Methylmalonic Acid",
+    "Pediatric Nutrition"
+  ],
+  "tags_custom": [
+    "B12-first treatment",
+    "Pediatric macrocytosis",
+    "Folate-B12 differentiation",
+    "Neurological risk prevention"
+  ],
+  "reference_quote": "A high-stakes pitfall is giving folate alone without excluding B12 deficiency. Folate can correct anemia while allowing neurologic injury from unrecognized B12 deficiency to progress.",
+  "document_key_topics": [
+    "Macrocytosis workup in pediatric patients",
+    "Differentiating folate and B12 deficiencies",
+    "Risks of folate-only treatment",
+    "Clinical management of combined deficiencies"
+  ],
+  "chunk_heading": "MICRONUTRIENT NUTRITION;FOLATE AND B-COMPLEX DEFICIENCY DECISION PATHWAYS;MACROCYTOSIS WORKUP AND AVOIDING FOLATE-ONLY TREATMENT;",
+  "topic": "MICRONUTRIENT NUTRITION",
+  "subtopic": "FOLATE AND B-COMPLEX DEFICIENCY DECISION PATHWAYS",
+  "sub_subtopic": "MACROCYTOSIS WORKUP AND AVOIDING FOLATE-ONLY TREATMENT",
+  "heading_path": "MICRONUTRIENT NUTRITION;FOLATE AND B-COMPLEX DEFICIENCY DECISION PATHWAYS;MACROCYTOSIS WORKUP AND AVOIDING FOLATE-ONLY TREATMENT;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1\u008f1"
+}

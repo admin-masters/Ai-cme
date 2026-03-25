@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "This section discusses bone health evaluation in vegetarian children with dairy-poor diets, focusing on rickets diagnosis, treatment, and monitoring using biochemical panels and radiographs.",
+  "learning_objectives": [
+    "Understand the clinical signs of rickets in children with dairy-poor diets.",
+    "Learn the appropriate biochemical and radiographic workup for suspected rickets.",
+    "Recognize the importance of combined vitamin D and calcium therapy in treatment.",
+    "Identify potential causes of non-response to therapy and when to refer."
+  ],
+  "key_facts": [
+    "Clinical signs of rickets include wrist widening, rachitic rosary, genu varum/valgum, and delayed motor milestones.",
+    "Vitamin D deficiency rickets shows low 25(OH)D, elevated alkaline phosphatase, and secondary hyperparathyroidism.",
+    "Calcium-deficiency rickets can occur even with normal 25(OH)D levels and presents with marked secondary hyperparathyroidism.",
+    "Biochemical workup includes serum calcium, phosphate, alkaline phosphatase, PTH, and 25(OH)D.",
+    "Radiographs of the wrist or knee are recommended for suspected rickets.",
+    "Clinical improvement is expected within weeks, while biochemical improvement may take months."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Rickets",
+    "Vitamin D Deficiency",
+    "Calcium Deficiency",
+    "Bone Health",
+    "Nutritional Disorders",
+    "Pediatric Nutrition",
+    "Dietary Patterns",
+    "Radiographic Imaging"
+  ],
+  "tags_custom": [
+    "Vegetarian Diets",
+    "Dairy-Poor Nutrition",
+    "Pediatric Bone Health",
+    "Nutritional Rickets",
+    "Response Monitoring"
+  ],
+  "reference_quote": "Vitamin D deficiency rickets commonly shows low 25(OH)D with elevated alkaline phosphatase and secondary hyperparathyroidism; calcium may be low or normal and phosphate often falls with rising PTH.",
+  "document_key_topics": [
+    "Rickets diagnosis and clinical signs",
+    "Biochemical and radiographic workup for bone health",
+    "Vitamin D and calcium therapy in dairy-poor diets",
+    "Monitoring and addressing non-response to treatment"
+  ],
+  "chunk_heading": "VEGETARIAN & REGIONAL FEEDING PATTERNS;BONE HEALTH WORKUP AND RESPONSE MONITORING IN DAIRY-POOR DIETS;",
+  "topic": "VEGETARIAN & REGIONAL FEEDING PATTERNS",
+  "subtopic": "BONE HEALTH WORKUP AND RESPONSE MONITORING IN DAIRY-POOR DIETS",
+  "sub_subtopic": null,
+  "heading_path": "VEGETARIAN & REGIONAL FEEDING PATTERNS;BONE HEALTH WORKUP AND RESPONSE MONITORING IN DAIRY-POOR DIETS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1~.1"
+}

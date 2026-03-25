@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "The 24-hour recall multi-pass method is a structured dietary assessment tool to estimate intake, identify gaps, and guide nutrition support, especially in children and infants, with strengths in detail and limitations in variability and recall bias.",
+  "learning_objectives": [
+    "Understand the multi-pass methodology for 24-hour dietary recall and its application in clinical settings.",
+    "Identify strengths and limitations of the 24-hour recall method, including recall bias and day-to-day variability.",
+    "Learn strategies to improve recall accuracy, such as utensil prompts and standardized household measures.",
+    "Explore the use of Indian Food Composition Tables (IFCT) for nutrient analysis in dietary assessments."
+  ],
+  "key_facts": [
+    "The 24-hour recall involves a multi-pass method: free listing, detailed probing, forgotten item checks, and summary confirmation.",
+    "Infant-specific considerations include breastfeeding frequency, complementary food texture, and caregiver feeding roles.",
+    "Day-to-day variability limits single-day recall; repeat on 2\u20133 non-consecutive days for persistent issues like growth faltering.",
+    "Portion estimation errors can be reduced using utensil prompts and standardized household measure guides.",
+    "Indian Food Composition Tables (IFCT) and NIN data are recommended for nutrient analysis in Indian contexts."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Dietary Assessment",
+    "Dietary Recall",
+    "Nutrition Surveys",
+    "Infant Nutrition",
+    "Feeding Behavior",
+    "Nutritional Status",
+    "Food Composition",
+    "Portion Size"
+  ],
+  "tags_custom": [
+    "24-hour recall",
+    "multi-pass method",
+    "infant feeding",
+    "nutrient analysis",
+    "dietary gaps"
+  ],
+  "reference_quote": "The USDA Automated Multiple-Pass Method for 24-hour dietary recall is a validated tool to improve recall completeness and accuracy.",
+  "document_key_topics": [
+    "24-hour dietary recall methodology",
+    "Infant and child feeding assessment",
+    "Strengths and limitations of dietary recall",
+    "Nutrient analysis using Indian food composition data"
+  ],
+  "chunk_heading": "DIETARY ASSESSMENT & FEEDING SKILLS EVALUATION;24-HOUR RECALL MULTI-PASS METHODOLOGY;",
+  "topic": "DIETARY ASSESSMENT & FEEDING SKILLS EVALUATION",
+  "subtopic": "24-HOUR RECALL MULTI-PASS METHODOLOGY",
+  "sub_subtopic": null,
+  "heading_path": "DIETARY ASSESSMENT & FEEDING SKILLS EVALUATION;24-HOUR RECALL MULTI-PASS METHODOLOGY;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1d"
+}

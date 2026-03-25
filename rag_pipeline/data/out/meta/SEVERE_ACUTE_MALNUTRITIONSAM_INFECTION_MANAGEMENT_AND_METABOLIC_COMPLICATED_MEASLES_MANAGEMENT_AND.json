@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "Management of complicated measles in SAM includes infection control, empiric antibiotics, cautious rehydration, and age-specific high-dose vitamin A supplementation to prevent complications like corneal injury and pneumonia.",
+  "learning_objectives": [
+    "Understand the risks and complications of measles in children with severe acute malnutrition (SAM).",
+    "Learn the appropriate use of empiric antibiotics and anti-staphylococcal coverage in complicated measles cases.",
+    "Apply age-specific high-dose vitamin A supplementation for measles management in SAM.",
+    "Recognize the importance of infection control and follow-up immunization planning post-discharge."
+  ],
+  "key_facts": [
+    "Malnourished children are at higher risk of severe measles complications, including pneumonia, diarrhea, and corneal injury.",
+    "Vitamin A dosing: 50,000 IU (<6 months), 100,000 IU (6\u201312 months), 200,000 IU (>12 months).",
+    "Avoid routine IV boluses for dehydration unless shock criteria are met; use malnutrition-appropriate oral/NG rehydration.",
+    "Empiric antibiotics are essential in complicated SAM with suspected bacterial superinfection.",
+    "Anti-staphylococcal coverage is critical in post-measles pneumonia or extensive skin infections.",
+    "Infection control measures (isolation, hand hygiene) and catch-up immunization planning are key discharge tasks."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Severe Acute Malnutrition",
+    "Measles",
+    "Vitamin A",
+    "Pneumonia",
+    "Dehydration",
+    "Empiric Antibiotic Therapy",
+    "Infection Control",
+    "Rehydration Solutions"
+  ],
+  "tags_custom": [
+    "Complicated Measles",
+    "SAM Management",
+    "Vitamin A Dosing",
+    "Pediatric Malnutrition",
+    "Post-Measles Care"
+  ],
+  "reference_quote": "Malnourished children have higher risk of severe or complicated measles, including pneumonia, diarrhea with dehydration, and corneal injury. (WHO, Pocket book of hospital care for children: Severe acute malnutrition chapter)",
+  "document_key_topics": [
+    "Complicated measles management in SAM",
+    "Vitamin A supplementation guidelines",
+    "Empiric antibiotic use in SAM",
+    "Infection control and discharge planning"
+  ],
+  "chunk_heading": "SEVERE ACUTE MALNUTRITION-(SAM) MANAGEMENT;INFECTION MANAGEMENT AND  METABOLIC CORRECTIONS;COMPLICATED MEASLES MANAGEMENT AND VITAMIN A  DOSING;",
+  "topic": "SEVERE ACUTE MALNUTRITION-(SAM) MANAGEMENT",
+  "subtopic": "INFECTION MANAGEMENT AND  METABOLIC CORRECTIONS",
+  "sub_subtopic": "COMPLICATED MEASLES MANAGEMENT AND VITAMIN A  DOSING",
+  "heading_path": "SEVERE ACUTE MALNUTRITION-(SAM) MANAGEMENT;INFECTION MANAGEMENT AND  METABOLIC CORRECTIONS;COMPLICATED MEASLES MANAGEMENT AND VITAMIN A  DOSING;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "3x7"
+}

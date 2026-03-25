@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Adult fibrosis scores like FIB4 and NFS are unsuitable for pediatric MASLD due to age-weighted distortions. Pediatric-specific indices and elastography are preferred for staging, with clinical triggers guiding referrals and biopsies.",
+  "learning_objectives": [
+    "Understand the limitations of adult fibrosis scores in pediatric MASLD diagnosis.",
+    "Identify high-concern clinical triggers for fibrosis risk in children.",
+    "Learn the role of transient elastography and pediatric-specific indices in MASLD staging.",
+    "Recognize the importance of timely referral to pediatric hepatology for advanced evaluation."
+  ],
+  "key_facts": [
+    "Adult fibrosis scores (e.g., FIB4, NFS) are unreliable for pediatric MASLD due to age-weighted components.",
+    "High-concern triggers include ALT >2\u00d7 sex-specific upper limit for >3 months, ALT >80 IU/L, hepatosplenomegaly, AST/ALT ratio >1, or comorbid T2DM.",
+    "Transient elastography with liver stiffness measurement is the preferred noninvasive staging tool in pediatrics.",
+    "Pediatric-specific indices like PNFI exist but lack external validation across populations.",
+    "Persistent biochemical elevation plus any high-concern trigger warrants pediatric hepatology evaluation."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Pediatrics",
+    "Nonalcoholic Fatty Liver Disease",
+    "Fibrosis",
+    "Liver Elastography",
+    "Biopsy",
+    "Risk Assessment",
+    "Transaminases",
+    "Type 2 Diabetes Mellitus"
+  ],
+  "tags_custom": [
+    "Pediatric MASLD",
+    "Fibrosis Scoring Limitations",
+    "Noninvasive Staging",
+    "Clinical Triggers",
+    "Referral Guidelines"
+  ],
+  "reference_quote": "Adult indices such as FIB4 and NFS were derived from adult cohorts and rely on age-weighted components that distort performance in pediatrics; pediatric guidance therefore cautions against using them to make referral or biopsy decisions.",
+  "document_key_topics": [
+    "Limitations of adult fibrosis scores in pediatric MASLD",
+    "Noninvasive staging tools for pediatric MASLD",
+    "Clinical triggers for fibrosis risk in children",
+    "Referral and biopsy guidelines for pediatric MASLD"
+  ],
+  "chunk_heading": "METABOLIC RISK IN CHILDREN;PEDIATRIC MASLD SCREENING DIAGNOSIS AND STAGING;LIMITATIONS OF ADULT FIBROSIS SCORES IN PEDIATRIC MASLD;",
+  "topic": "METABOLIC RISK IN CHILDREN",
+  "subtopic": "PEDIATRIC MASLD SCREENING DIAGNOSIS AND STAGING",
+  "sub_subtopic": "LIMITATIONS OF ADULT FIBROSIS SCORES IN PEDIATRIC MASLD",
+  "heading_path": "METABOLIC RISK IN CHILDREN;PEDIATRIC MASLD SCREENING DIAGNOSIS AND STAGING;LIMITATIONS OF ADULT FIBROSIS SCORES IN PEDIATRIC MASLD;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1\u00855"
+}

@@ -1,0 +1,51 @@
+{
+  "chunk_summary": "This section outlines OPD documentation templates and risk communication strategies for India's nutrition and fortification programs, emphasizing consistent documentation, clinical decision-making, and managing adverse events to ensure program efficacy and trust.",
+  "learning_objectives": [
+    "Understand the structure and components of OPD documentation templates for nutrition programs.",
+    "Learn how to communicate risks effectively while maintaining program trust and adherence.",
+    "Identify key clinical decision points and linkage actions in nutrition interventions.",
+    "Recognize the importance of documenting adverse events and escalating genuine quality issues."
+  ],
+  "key_facts": [
+    "Vitamin A supplementation (VAS) and prophylactic IFA (biweekly syrup/weekly tablet) are key components of the program.",
+    "Deworming is conducted under the National Deworming Day (NDD) or at healthcare facilities.",
+    "Staple food sources include PDS, school meals, and markets, with emphasis on fortified staples.",
+    "Risk communication involves addressing minor adverse effects (e.g., vomiting after albendazole) and advising caregivers on danger signs.",
+    "Exclusions include conditions like transfusion-dependent hemoglobinopathy, where weekly IFA is contraindicated.",
+    "Documentation includes program exposure, clinical decisions, and linkage actions to ensure continuity of care.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Nutrition Programs",
+    "Food Fortification",
+    "Risk Communication",
+    "Vitamin A Supplementation",
+    "Iron-Folic Acid Supplementation",
+    "Deworming",
+    "Public Health Surveillance",
+    "Health Education"
+  ],
+  "tags_custom": [
+    "OPD templates",
+    "adverse event management",
+    "nutrition documentation",
+    "program adherence",
+    "clinical decision-making"
+  ],
+  "reference_quote": "Consistent documentation is the clinician\u2019s highest-leverage implementation tool because it reduces duplication and creates an escalation trail.",
+  "document_key_topics": [
+    "OPD documentation templates for nutrition programs",
+    "Risk communication strategies for adverse events",
+    "Clinical decision-making in supplementation and prophylaxis",
+    "Linkage actions to ensure program adherence"
+  ],
+  "chunk_heading": "NATIONAL NUTRITION & FORTIFICATION PROGRAMS IN INDIA;IMPLEMENTATION ROLES, MONITORING INDICATORS, AND CLINIC DOCUMENTATION;OPD DOCUMENTATION TEMPLATES AND RISK COMMUNICATION SCRIPTS;",
+  "topic": "NATIONAL NUTRITION & FORTIFICATION PROGRAMS IN INDIA",
+  "subtopic": "IMPLEMENTATION ROLES, MONITORING INDICATORS, AND CLINIC DOCUMENTATION",
+  "sub_subtopic": "OPD DOCUMENTATION TEMPLATES AND RISK COMMUNICATION SCRIPTS",
+  "heading_path": "NATIONAL NUTRITION & FORTIFICATION PROGRAMS IN INDIA;IMPLEMENTATION ROLES, MONITORING INDICATORS, AND CLINIC DOCUMENTATION;OPD DOCUMENTATION TEMPLATES AND RISK COMMUNICATION SCRIPTS;",
+  "reference_count": 6,
+  "has_guidelines": false,
+  "sequence": "1\u00824"
+}

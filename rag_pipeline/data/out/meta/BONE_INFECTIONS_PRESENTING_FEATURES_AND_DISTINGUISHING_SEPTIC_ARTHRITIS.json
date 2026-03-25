@@ -1,0 +1,46 @@
+{
+  "chunk_summary": "This section discusses distinguishing septic arthritis from transient synovitis in children presenting with a limp, emphasizing clinical features, diagnostic steps, and management strategies.",
+  "learning_objectives": [
+    "Identify clinical features that differentiate septic arthritis from transient synovitis in children.",
+    "Understand the role of inflammatory markers and imaging in diagnosis.",
+    "Learn when to escalate from observation to urgent intervention in suspected septic arthritis."
+  ],
+  "key_facts": [
+    "Septic arthritis is more likely with fever >38.5\u00b0C, refusal to bear weight, and elevated inflammatory markers (e.g., CRP).",
+    "Transient synovitis is often associated with recent viral illness, mild or no fever, and modest movement limitation.",
+    "Bedside ultrasound can confirm effusion, but aspiration is critical to distinguish infection from sterile inflammation.",
+    "Observation with NSAIDs is reasonable only if the child is systemically well and can be reassessed promptly.",
+    "Persistent symptoms beyond 24 hours or rising inflammatory markers necessitate revisiting the diagnosis."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Septic Arthritis",
+    "Transient Synovitis",
+    "Pediatric Limp",
+    "Inflammatory Markers",
+    "Ultrasound-Guided Aspiration",
+    "Nonsteroidal Anti-Inflammatory Agents",
+    "C-Reactive Protein",
+    "Erythrocyte Sedimentation Rate"
+  ],
+  "tags_custom": [
+    "limping child",
+    "hip effusion",
+    "differential diagnosis",
+    "pediatric infections"
+  ],
+  "reference_quote": "Septic arthritis becomes substantially more likely when fever exceeds 38.5 degrees Celsius, the child refuses to bear weight, pain with passive range of motion is marked, and inflammatory markers are clearly elevated. (Source: Indian Academy of Pediatrics Consensus Statement)",
+  "document_key_topics": [
+    "Septic arthritis in children",
+    "Transient synovitis diagnosis",
+    "Role of inflammatory markers and imaging"
+  ],
+  "chunk_heading": "BONE INFECTIONS;PRESENTING FEATURES AND DIFFERENTIAL DIAGNOSIS;DISTINGUISHING SEPTIC ARTHRITIS FROM TRANSIENT SYNOVITIS IN A LIMPING CHILD;",
+  "topic": "BONE INFECTIONS",
+  "subtopic": "PRESENTING FEATURES AND DIFFERENTIAL DIAGNOSIS",
+  "sub_subtopic": "DISTINGUISHING SEPTIC ARTHRITIS FROM TRANSIENT SYNOVITIS IN A LIMPING CHILD",
+  "heading_path": "BONE INFECTIONS;PRESENTING FEATURES AND DIFFERENTIAL DIAGNOSIS;DISTINGUISHING SEPTIC ARTHRITIS FROM TRANSIENT SYNOVITIS IN A LIMPING CHILD;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1f2"
+}

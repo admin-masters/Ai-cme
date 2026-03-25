@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "This section outlines antimicrobial regimens for methicillin-susceptible and methicillin-resistant Staphylococcus aureus in bone infections, emphasizing drug choices, dosages, and treatment durations for pediatric patients.",
+  "learning_objectives": [
+    "Understand the preferred antimicrobial regimens for methicillin-susceptible and methicillin-resistant Staphylococcus aureus in bone infections.",
+    "Learn appropriate pediatric dosing for cloxacillin, cefazolin, vancomycin, and other agents.",
+    "Recognize the importance of narrowing therapy to beta-lactams for methicillin-susceptible infections.",
+    "Identify adjunctive therapies and monitoring requirements for methicillin-resistant infections."
+  ],
+  "key_facts": [
+    "Cloxacillin (200 mg/kg/day) and cefazolin (100 mg/kg/day) are preferred for methicillin-susceptible Staphylococcus aureus.",
+    "Vancomycin (45-60 mg/kg/day) is the standard for methicillin-resistant Staphylococcus aureus, with therapeutic drug monitoring required.",
+    "Oral step-down therapy for methicillin-susceptible infections includes high-dose cephalexin or cloxacillin.",
+    "Methicillin-resistant osteomyelitis typically requires 4-6 weeks of therapy.",
+    "Rifampicin should not be used alone due to rapid resistance development but is useful as an adjunct in biofilm-associated infections."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Osteomyelitis",
+    "Septic Arthritis",
+    "Staphylococcal Infections",
+    "Methicillin-Resistant Staphylococcus aureus",
+    "Methicillin-Susceptible Staphylococcus aureus",
+    "Antimicrobial Therapy",
+    "Vancomycin",
+    "Clindamycin"
+  ],
+  "tags_custom": [
+    "Pediatric bone infections",
+    "Antibiotic regimens",
+    "Staphylococcal treatment",
+    "Drug dosing guidelines"
+  ],
+  "reference_quote": "Cloxacillin remains the preferred targeted agent, with cefazolin as an effective alternative when dosing convenience or intolerance favors it. (Source: Indian Academy of Pediatrics Consensus Statement)",
+  "document_key_topics": [
+    "Methicillin-susceptible Staphylococcus aureus regimens",
+    "Methicillin-resistant Staphylococcus aureus regimens",
+    "Pediatric dosing guidelines for bone infections",
+    "Adjunctive therapies for biofilm-associated infections"
+  ],
+  "chunk_heading": "BONE INFECTIONS;PATHOGEN SPECIFIC ANTIMICROBIAL REGIMENS;STAPHYLOCOCCAL METHICILLIN SUSCEPTIBLE AND METHICILLIN RESISTANT REGIMENS;",
+  "topic": "BONE INFECTIONS",
+  "subtopic": "PATHOGEN SPECIFIC ANTIMICROBIAL REGIMENS",
+  "sub_subtopic": "STAPHYLOCOCCAL METHICILLIN SUSCEPTIBLE AND METHICILLIN RESISTANT REGIMENS",
+  "heading_path": "BONE INFECTIONS;PATHOGEN SPECIFIC ANTIMICROBIAL REGIMENS;STAPHYLOCOCCAL METHICILLIN SUSCEPTIBLE AND METHICILLIN RESISTANT REGIMENS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1}1"
+}

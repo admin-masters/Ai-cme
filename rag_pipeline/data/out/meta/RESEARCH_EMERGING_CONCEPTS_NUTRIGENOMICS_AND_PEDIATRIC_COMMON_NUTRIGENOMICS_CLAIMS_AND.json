@@ -1,0 +1,46 @@
+{
+  "chunk_summary": "Guidance on addressing common nutrigenomics claims in pediatric care, emphasizing evidence-based responses to avoid unnecessary dietary restrictions and promote balanced nutrition.",
+  "learning_objectives": [
+    "Understand the lack of clinical utility for routine MTHFR testing and its implications for treatment.",
+    "Learn evidence-based responses to common nutrigenomics claims, such as 'detox genes' or 'gluten genes.'",
+    "Develop strategies to promote balanced nutrition and avoid unnecessary dietary restrictions in pediatric patients."
+  ],
+  "key_facts": [
+    "Routine MTHFR testing has minimal clinical utility and does not justify high-dose folate or restrictive diets (ACMG guideline).",
+    "HLA-DQ2/DQ8 positivity indicates susceptibility to celiac disease, not diagnosis; a negative result makes celiac disease unlikely.",
+    "Vitamin D supplementation should follow guideline doses based on age, risk factors, and measured deficiency; avoid chronic megadoses.",
+    "Common 'obesity genes' or 'carb sensitivity' alleles have small effects and do not replace standard lifestyle interventions.",
+    "There are no validated pediatric genotypes requiring detox diets, chelation, or routine supplements."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Nutrigenomics",
+    "Pediatrics",
+    "Genetic Testing",
+    "MTHFR Gene",
+    "Celiac Disease",
+    "Vitamin D Deficiency",
+    "Diet Therapy",
+    "Evidence-Based Medicine"
+  ],
+  "tags_custom": [
+    "nutrigenomics claims",
+    "pediatric nutrition",
+    "genetic test stewardship",
+    "dietary counseling"
+  ],
+  "reference_quote": "\"Routine MTHFR testing has minimal clinical utility and does not justify high-dose folate, anticoagulation, or restrictive diets.\" (ACMG guideline: https://pubmed.ncbi.nlm.nih.gov/23288205/)",
+  "document_key_topics": [
+    "Evidence-based responses to nutrigenomics claims",
+    "Pediatric genetic test stewardship",
+    "Guidelines for addressing dietary concerns in children"
+  ],
+  "chunk_heading": "RESEARCH & EMERGING CONCEPTS;NUTRIGENOMICS AND PEDIATRIC GENETIC TEST STEWARDSHIP;COMMON NUTRIGENOMICS CLAIMS AND SAFE CLINIC RESPONSES;",
+  "topic": "RESEARCH & EMERGING CONCEPTS",
+  "subtopic": "NUTRIGENOMICS AND PEDIATRIC GENETIC TEST STEWARDSHIP",
+  "sub_subtopic": "COMMON NUTRIGENOMICS CLAIMS AND SAFE CLINIC RESPONSES",
+  "heading_path": "RESEARCH & EMERGING CONCEPTS;NUTRIGENOMICS AND PEDIATRIC GENETIC TEST STEWARDSHIP;COMMON NUTRIGENOMICS CLAIMS AND SAFE CLINIC RESPONSES;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "1\u00805"
+}

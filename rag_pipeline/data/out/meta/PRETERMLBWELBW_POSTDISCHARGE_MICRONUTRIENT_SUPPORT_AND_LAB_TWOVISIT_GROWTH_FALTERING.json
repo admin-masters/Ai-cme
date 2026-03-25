@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "This section outlines a two-visit algorithm for managing growth faltering in preterm/LBW/ELBW infants post-discharge, emphasizing mechanism-first evaluation, structured escalation, and targeted lab work-up based on pediatric growth faltering frameworks.",
+  "learning_objectives": [
+    "Understand the criteria for identifying growth faltering in preterm/LBW/ELBW infants post-discharge.",
+    "Learn the stepwise approach to mechanism-first evaluation and structured escalation in growth faltering management.",
+    "Recognize the importance of targeted lab work-up and phenotype-based interventions for persistent growth issues."
+  ],
+  "key_facts": [
+    "Growth faltering signals include weight gain <15 g/day in late preterm infants, decline across two major percentile lines, or disproportionate weight gain with stagnant length/head growth.",
+    "Visit 1 focuses on corrected age verification, feeding observation, and addressing feeding errors before escalation (e.g., increasing frequency/volume or adding fortifiers).",
+    "Reassessment is recommended within 5\u20137 days for higher-risk infants and weekly until stabilization.",
+    "Visit 2 involves minimum work-up: CBC, electrolytes, urea/creatinine, urinalysis, stool studies, and phenotype-based tests like ferritin or phosphorus with ALP.",
+    "Referral for feeding/swallowing evaluation is advised for persistent aspiration symptoms; inpatient evaluation is necessary for systemic red flags or significant distress."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Infant, Premature",
+    "Low Birth Weight Infant",
+    "Growth Disorders",
+    "Post-Discharge Care",
+    "Micronutrients",
+    "Nutrition Assessment",
+    "Feeding Behavior",
+    "Pediatric Nutrition"
+  ],
+  "tags_custom": [
+    "growth faltering algorithm",
+    "post-discharge nutrition",
+    "preterm infant care",
+    "feeding evaluation",
+    "structured escalation"
+  ],
+  "reference_quote": "Treat any of the following as failure signals: weight gain <15 g/day in a late preterm infant or clear slowing of gain, decline across two major percentile lines (or equivalent z-score drop) in weight-for-age or weight-for-length, or weight gain that becomes disproportionate with stagnant length or head growth. \u2014 American Academy of Pediatrics",
+  "document_key_topics": [
+    "Growth faltering criteria and management in preterm/LBW/ELBW infants",
+    "Mechanism-first evaluation and feeding observation",
+    "Structured escalation tools and reassessment timelines",
+    "Targeted lab work-up and phenotype-based interventions"
+  ],
+  "chunk_heading": "PRETERM/LBW/ELBW POST-DISCHARGE NUTRITION;MICRONUTRIENT SUPPORT AND LAB MONITORING AFTER DISCHARGE;TWO-VISIT GROWTH FALTERING ALGORITHM AND MECHANISM WORK-UP;",
+  "topic": "PRETERM/LBW/ELBW POST-DISCHARGE NUTRITION",
+  "subtopic": "MICRONUTRIENT SUPPORT AND LAB MONITORING AFTER DISCHARGE",
+  "sub_subtopic": "TWO-VISIT GROWTH FALTERING ALGORITHM AND MECHANISM WORK-UP",
+  "heading_path": "PRETERM/LBW/ELBW POST-DISCHARGE NUTRITION;MICRONUTRIENT SUPPORT AND LAB MONITORING AFTER DISCHARGE;TWO-VISIT GROWTH FALTERING ALGORITHM AND MECHANISM WORK-UP;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2\u008c8"
+}

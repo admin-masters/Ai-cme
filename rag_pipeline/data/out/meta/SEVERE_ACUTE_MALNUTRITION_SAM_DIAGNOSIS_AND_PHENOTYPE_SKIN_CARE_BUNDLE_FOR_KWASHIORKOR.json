@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "This section outlines a skin care bundle for managing kwashiorkor dermatosis in children with severe acute malnutrition (SAM), emphasizing infection prevention, gentle handling, and appropriate topical treatments.",
+  "learning_objectives": [
+    "Identify and manage typical skin lesions associated with oedematous SAM (kwashiorkor phenotype).",
+    "Implement a bedside skin care bundle to prevent infections and promote healing in children with SAM.",
+    "Understand the role of potassium permanganate, barrier ointments, and topical agents in skin care for kwashiorkor.",
+    "Recognize when systemic antibiotics are necessary for skin-related complications."
+  ],
+  "key_facts": [
+    "Oedematous SAM often presents with dermatosis, including hyperpigmented patches, peeling 'flaky paint' skin, fissures, and raw weeping areas.",
+    "Daily skin care includes soaking affected areas in a 0.01% potassium permanganate solution for 10 minutes, followed by pat drying and applying a barrier ointment.",
+    "Avoid adhesive tapes on fragile skin and reduce pressure injury risk with frequent repositioning and soft bedding.",
+    "Topical agents like gentian violet or nystatin are used for superficial sores with suspected fungal involvement, but systemic antibiotics are required for spreading cellulitis or fever.",
+    "Routine zinc supplementation is essential as part of the SAM management protocol.",
+    "Strict hand hygiene and avoidance of caustic antiseptics are critical to prevent delayed healing and secondary infections."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Severe Acute Malnutrition",
+    "Kwashiorkor",
+    "Dermatitis",
+    "Skin Care",
+    "Infection Control",
+    "Potassium Permanganate",
+    "Topical Agents",
+    "Zinc"
+  ],
+  "tags_custom": [
+    "kwashiorkor skin care",
+    "infection prevention",
+    "SAM management",
+    "pediatric malnutrition",
+    "wound care"
+  ],
+  "reference_quote": "Teaching should go beyond 'treat skin sepsis' to a clear bedside skin-care bundle that can be executed on the ward and taught to caregivers for step-down.",
+  "document_key_topics": [
+    "Kwashiorkor dermatosis management",
+    "Infection prevention in SAM",
+    "Skin care protocols for malnourished children",
+    "Topical and systemic treatments for skin complications"
+  ],
+  "chunk_heading": "SEVERE ACUTE MALNUTRITION (SAM) MANAGEMENT;DIAGNOSIS AND PHENOTYPE CLASSIFICATION;SKIN CARE BUNDLE FOR KWASHIORKOR DERMATOSIS AND INFECTION PREVENTION;",
+  "topic": "SEVERE ACUTE MALNUTRITION (SAM) MANAGEMENT",
+  "subtopic": "DIAGNOSIS AND PHENOTYPE CLASSIFICATION",
+  "sub_subtopic": "SKIN CARE BUNDLE FOR KWASHIORKOR DERMATOSIS AND INFECTION PREVENTION",
+  "heading_path": "SEVERE ACUTE MALNUTRITION (SAM) MANAGEMENT;DIAGNOSIS AND PHENOTYPE CLASSIFICATION;SKIN CARE BUNDLE FOR KWASHIORKOR DERMATOSIS AND INFECTION PREVENTION;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1d3"
+}

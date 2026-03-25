@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "This section outlines minimum documentation elements for managing obesity in special populations, emphasizing continuity, safety, and escalation rationale in clinical care.",
+  "learning_objectives": [
+    "Understand the essential documentation elements for obesity management, including anthropometric data and comorbidity screening.",
+    "Learn how to document lifestyle interventions and their outcomes to ensure continuity of care.",
+    "Recognize the importance of non-stigmatizing language in clinical documentation.",
+    "Identify criteria for escalation, including medication and bariatric surgery referrals."
+  ],
+  "key_facts": [
+    "Anthropometric data must include the chart type (e.g., WHO weight-for-length/height or IAP BMI), obesity category (e.g., class 2 or 3), and BMI trajectory over time.",
+    "Comorbidity screening should document glucose, HbA1c, lipids, and ALT values, along with next steps for abnormalities (e.g., repeat intervals, referral thresholds).",
+    "Blood pressure (BP) values and confirmation plans for elevated readings must be recorded.",
+    "Lifestyle interventions should include modules delivered and measurable outcomes (e.g., beverages per week, breakfast days, minutes of activity per day).",
+    "For medication, document contraindication screening, dosing/titration plans, monitoring, and stopping rules.",
+    "Bariatric surgery referrals require documentation of severity class, comorbidities, and prior structured lifestyle treatment duration and dose."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Obesity",
+    "Overnutrition",
+    "Medical Documentation",
+    "Comorbidity",
+    "Lifestyle Interventions",
+    "Bariatric Surgery",
+    "Pediatric Obesity",
+    "Clinical Guidelines"
+  ],
+  "tags_custom": [
+    "Obesity Management",
+    "Special Populations",
+    "Documentation Standards",
+    "Escalation Criteria",
+    "Non-Stigmatizing Language"
+  ],
+  "reference_quote": "Documentation is a clinical safety tool in obesity care because decisions are longitudinal and often shared across providers. (AAP Clinical Practice Guideline, 2023)",
+  "document_key_topics": [
+    "Minimum documentation elements for obesity management",
+    "Comorbidity screening and follow-up",
+    "Lifestyle intervention tracking",
+    "Criteria for escalation and referrals"
+  ],
+  "chunk_heading": "OVERNUTRITION & OBESITY MANAGEMENT;SPECIAL POPULATION MODIFICATIONS AND SAFETY DOCUMENTATION;MINIMUM DOCUMENTATION ELEMENTS FOR CONTINUITY AND ESCALATION RATIONALE;",
+  "topic": "OVERNUTRITION & OBESITY MANAGEMENT",
+  "subtopic": "SPECIAL POPULATION MODIFICATIONS AND SAFETY DOCUMENTATION",
+  "sub_subtopic": "MINIMUM DOCUMENTATION ELEMENTS FOR CONTINUITY AND ESCALATION RATIONALE",
+  "heading_path": "OVERNUTRITION & OBESITY MANAGEMENT;SPECIAL POPULATION MODIFICATIONS AND SAFETY DOCUMENTATION;MINIMUM DOCUMENTATION ELEMENTS FOR CONTINUITY AND ESCALATION RATIONALE;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1\u008d3"
+}

@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "This section discusses phenotype-based evaluation and red flags for secondary causes of growth faltering in pediatric nutrition, emphasizing differential diagnoses and resource-adapted work-ups for non-responding cases.",
+  "learning_objectives": [
+    "Understand the role of phenotype in identifying primary versus secondary causes of growth faltering.",
+    "Recognize red flags such as bilateral pitting edema, severe pallor, and chronic symptoms in pediatric malnutrition.",
+    "Learn resource-adapted diagnostic approaches for secondary causes of growth faltering.",
+    "Identify when to document non-response and pursue secondary etiologies instead of escalating caloric intake."
+  ],
+  "key_facts": [
+    "Wasting indicates acute intake deficit or recent illness, while stunting suggests chronic deprivation or repeated infections.",
+    "Bilateral pitting edema may indicate kwashiorkor but can mimic nephrotic syndrome, cardiac failure, hepatic disease, or severe anemia with fluid overload.",
+    "Severe pallor requires evaluation beyond iron deficiency, including hemoglobinopathies, chronic infections, malaria, and parasitic diseases.",
+    "Minimum work-up includes CBC with indices, random glucose in sick wasted children, and urine dipstick in cases of edema.",
+    "Non-response to nutritional interventions should prompt investigation of secondary causes rather than escalating caloric intake.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Malnutrition",
+    "Growth Disorders",
+    "Pediatric Nutrition",
+    "Phenotype",
+    "Edema",
+    "Iron Deficiency Anemia",
+    "Tuberculosis",
+    "HIV Infections"
+  ],
+  "tags_custom": [
+    "growth faltering",
+    "secondary causes",
+    "red flags",
+    "phenotype evaluation",
+    "non-response management"
+  ],
+  "reference_quote": "Bilateral pitting edema is a triage diagnosis but also a differential diagnosis. Nutritional edema (kwashiorkor) is common in severe malnutrition, yet nephrotic syndrome, cardiac failure, hepatic disease, and severe anemia with fluid overload can mimic it.",
+  "document_key_topics": [
+    "Phenotype-based evaluation in pediatric malnutrition",
+    "Red flags for secondary causes of growth faltering",
+    "Resource-adapted diagnostic work-ups",
+    "Non-response management in malnutrition treatment"
+  ],
+  "chunk_heading": "PUBLIC HEALTH & COMMUNITY PEDIATRIC NUTRITION;IDENTIFYING SECONDARY CAUSES OF GROWTH FALTERING;PHENOTYPE BASED ETIOLOGIC EVALUATION AND RED FLAGS;",
+  "topic": "PUBLIC HEALTH & COMMUNITY PEDIATRIC NUTRITION",
+  "subtopic": "IDENTIFYING SECONDARY CAUSES OF GROWTH FALTERING",
+  "sub_subtopic": "PHENOTYPE BASED ETIOLOGIC EVALUATION AND RED FLAGS",
+  "heading_path": "PUBLIC HEALTH & COMMUNITY PEDIATRIC NUTRITION;IDENTIFYING SECONDARY CAUSES OF GROWTH FALTERING;PHENOTYPE BASED ETIOLOGIC EVALUATION AND RED FLAGS;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1k1"
+}

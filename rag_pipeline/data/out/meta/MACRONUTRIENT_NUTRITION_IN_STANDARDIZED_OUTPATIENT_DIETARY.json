@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section outlines a standardized outpatient dietary assessment for macronutrient decisions in childhood, focusing on growth faltering or obesity through reproducible diet history, portion estimation, and actionable dietary swaps.",
+  "learning_objectives": [
+    "Understand the components of a standardized outpatient dietary assessment for children.",
+    "Learn how to conduct a two-day dietary recall and beverage/snack audits.",
+    "Identify energy displacement patterns and their impact on macronutrient intake.",
+    "Apply portion estimation using Indian household measures for actionable dietary advice."
+  ],
+  "key_facts": [
+    "A reproducible diet history bridges growth charts and macronutrient prescriptions.",
+    "Assessment includes a two-day recall (weekday + weekend/holiday) and audits of beverages, snacks, and screen-time eating.",
+    "Portion estimation uses Indian household measures: one katori (dal/curd/khichdi), roti size by palm diameter, one ladle (sabzi), and one cup (200\u2013250 ml for milk/chaas).",
+    "Energy displacement often occurs due to excess milk, sweetened beverages, and frequent biscuits, reducing protein- and micronutrient-dense meals.",
+    "If intake is adequate but growth falters, consider malabsorption or increased needs and proceed to medical evaluation."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Dietary Assessment",
+    "Child Nutrition",
+    "Growth Disorders",
+    "Obesity",
+    "Energy Intake",
+    "Macronutrients",
+    "Malabsorption",
+    "Dietary Guidelines"
+  ],
+  "tags_custom": [
+    "Pediatric dietary assessment",
+    "Growth faltering management",
+    "Energy displacement",
+    "Indian portion measures",
+    "Outpatient nutrition"
+  ],
+  "reference_quote": "Faltering growth: recognition and management of faltering growth in children (NICE NG75) \u2014 'If intake appears adequate but growth falters, consider increased needs or malabsorption and proceed to medical evaluation rather than endless diet changes.'",
+  "document_key_topics": [
+    "Standardized dietary assessment in childhood",
+    "Growth faltering and obesity management",
+    "Energy displacement and portion estimation",
+    "Actionable dietary swaps for pediatric nutrition"
+  ],
+  "chunk_heading": "MACRONUTRIENT NUTRITION IN CHILDHOOD;STANDARDIZED OUTPATIENT DIETARY ASSESSMENT FOR MACRONUTRIENT DECISIONS;",
+  "topic": "MACRONUTRIENT NUTRITION IN CHILDHOOD",
+  "subtopic": "STANDARDIZED OUTPATIENT DIETARY ASSESSMENT FOR MACRONUTRIENT DECISIONS",
+  "sub_subtopic": null,
+  "heading_path": "MACRONUTRIENT NUTRITION IN CHILDHOOD;STANDARDIZED OUTPATIENT DIETARY ASSESSMENT FOR MACRONUTRIENT DECISIONS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "3l"
+}

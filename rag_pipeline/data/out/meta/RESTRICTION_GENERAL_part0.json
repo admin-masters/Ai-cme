@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "This section discusses sodium and fluid restriction strategies in pediatric cirrhosis with ascites, emphasizing individualized sodium targets, cautious fluid restriction, and diuretic management to balance nutrition and renal function.",
+  "learning_objectives": [
+    "Understand the role of sodium restriction in managing pediatric cirrhosis with ascites.",
+    "Identify when fluid restriction is appropriate based on serum sodium levels.",
+    "Learn practical diuretic dosing strategies for pediatric patients with cirrhosis.",
+    "Recognize the importance of maintaining calorie and protein intake during dietary restrictions."
+  ],
+  "key_facts": [
+    "Sodium restriction is the primary dietary intervention in pediatric cirrhosis with ascites.",
+    "Fluid restriction is recommended only when serum sodium is \u2264125 mmol/L and should be goal-directed.",
+    "Sodium intake should start at 1\u20132 mEq/kg/day and be adjusted based on age, ascites severity, and renal function.",
+    "Spironolactone is commonly used at 1\u20136 mg/kg/day, with furosemide added at similar doses if needed.",
+    "A spironolactone:furosemide ratio of 5:2 is a practical outpatient dosing strategy in Indian pediatric practice.",
+    "Monitor weight, serum sodium, potassium, and renal function regularly during diuretic therapy."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Cirrhosis",
+    "Ascites",
+    "Sodium-Restricted Diet",
+    "Fluid Therapy",
+    "Diuretics",
+    "Hyponatremia",
+    "Pediatrics",
+    "Nutritional Support"
+  ],
+  "tags_custom": [
+    "pediatric cirrhosis",
+    "sodium restriction",
+    "fluid management",
+    "diuretic therapy"
+  ],
+  "reference_quote": "Major cirrhosis guidance supports fluid restriction only when there is moderate to severe hyponatremia.",
+  "document_key_topics": [
+    "Sodium and fluid restriction in pediatric cirrhosis",
+    "Diuretic management strategies",
+    "Nutritional considerations in ascites"
+  ],
+  "chunk_heading": "RESTRICTION;",
+  "topic": "RESTRICTION",
+  "subtopic": "General",
+  "sub_subtopic": null,
+  "heading_path": "RESTRICTION;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "5a.1"
+}

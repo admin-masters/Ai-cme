@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section outlines bedside diagnostic criteria and anthropometric measurements for identifying severe acute malnutrition (SAM) in children aged 6\u201359 months, emphasizing MUAC, WHZ/WFH, and oedema markers for diagnosis and management pathways.",
+  "learning_objectives": [
+    "Understand bedside diagnostic criteria for SAM, including MUAC, WHZ/WFH, and oedema markers.",
+    "Learn how to minimize anthropometric measurement errors during SAM diagnosis.",
+    "Recognize the importance of tracking clinical status and weight changes during stabilization and catch-up feeding.",
+    "Differentiate diagnostic thresholds for infants under 6 months versus children aged 6\u201359 months."
+  ],
+  "key_facts": [
+    "SAM diagnosis criteria: MUAC <115 mm, WHZ/WFH <-3, or bilateral pitting nutritional oedema.",
+    "MUAC and WHZ identify overlapping but distinct high-risk groups; both should be documented at baseline.",
+    "Weight is essential for prescribing therapeutic food quantities, but oedema can distort early weight changes.",
+    "Anthropometric measurements require calibrated tools and proper technique to minimize errors.",
+    "Infants under 6 months require a separate feeding-effectiveness pathway rather than standard thresholds."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Malnutrition",
+    "Anthropometry",
+    "Child Nutrition Disorders",
+    "Mid-Upper Arm Circumference",
+    "Weight-for-Height Z Score",
+    "Edema",
+    "Nutritional Assessment",
+    "Feeding Methods"
+  ],
+  "tags_custom": [
+    "SAM diagnosis",
+    "pediatric malnutrition",
+    "clinical management",
+    "anthropometric tools",
+    "feeding protocols"
+  ],
+  "reference_quote": "Indian guidance from MoHFW and IAP uses these same markers and treats them as pathway-defining rather than merely descriptive, because phenotype and complications determine disposition, fluid strategy, and feeding volumes.",
+  "document_key_topics": [
+    "Diagnostic criteria for SAM",
+    "Anthropometric measurement techniques",
+    "Management pathways for SAM",
+    "Special considerations for infants under 6 months"
+  ],
+  "chunk_heading": "SEVERE ACUTE MALNUTRITION-(SAM) MANAGEMENT;DIAGNOSIS AND  PHENOTYPE CLASSIFICATION;BEDSIDE DIAGNOSTIC CRITERIA AND  ANTHROPOMETRIC MEASUREMENT;",
+  "topic": "SEVERE ACUTE MALNUTRITION-(SAM) MANAGEMENT",
+  "subtopic": "DIAGNOSIS AND  PHENOTYPE CLASSIFICATION",
+  "sub_subtopic": "BEDSIDE DIAGNOSTIC CRITERIA AND  ANTHROPOMETRIC MEASUREMENT",
+  "heading_path": "SEVERE ACUTE MALNUTRITION-(SAM) MANAGEMENT;DIAGNOSIS AND  PHENOTYPE CLASSIFICATION;BEDSIDE DIAGNOSTIC CRITERIA AND  ANTHROPOMETRIC MEASUREMENT;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1b1"
+}

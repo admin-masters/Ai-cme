@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "Case-based management of recurrent pneumonia in an 8-year-old with spastic quadriplegic CP, focusing on feeding safety, nutrition, and interim tube feeding strategies to address aspiration risk and prolonged mealtimes.",
+  "learning_objectives": [
+    "Identify high-risk feeding behaviors and their impact on respiratory health in children with neurodisability.",
+    "Develop an interim feeding plan addressing swallow safety, nutrition, and hydration in aspiration-prone patients.",
+    "Understand the role of NGT bridge trials and gastrostomy in managing feeding-related complications.",
+    "Evaluate the trade-offs of thickened fluids in managing aspiration risk."
+  ],
+  "key_facts": [
+    "The patient experienced three antibiotic-treated pneumonias in 12 months, indicating high aspiration risk.",
+    "Meals lasted 75\u201390 minutes, with weight plateauing for 8 months, highlighting poor feeding efficiency.",
+    "Interim plan includes IDDSI-tested thickened liquids, 90\u201390\u201390 positioning, reduced bolus size, and meal duration capped at 30 minutes.",
+    "NGT bridge trials (2\u20134 weeks) are recommended to assess benefits before gastrostomy decisions.",
+    "Thickened fluids may reduce coughing but can worsen thirst, constipation, and medication delivery."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Cerebral Palsy",
+    "Feeding and Eating Disorders",
+    "Aspiration Pneumonia",
+    "Gastrostomy",
+    "Enteral Nutrition",
+    "Deglutition Disorders",
+    "Respiratory Aspiration",
+    "Pediatric Nutrition"
+  ],
+  "tags_custom": [
+    "high-risk feeding",
+    "tube feeding escalation",
+    "pediatric aspiration",
+    "NGT bridge trial",
+    "feeding safety"
+  ],
+  "reference_quote": "\u2018Thickened fluids may reduce visible coughing but can worsen thirst, constipation, and medication delivery; state these trade-offs during consent and monitor within 1\u20132 weeks.\u2019 (Source: https://espghan.info/files/Recommendations-for-...)",
+  "document_key_topics": [
+    "Feeding safety in neurodisability",
+    "Aspiration risk management",
+    "Tube feeding decision-making"
+  ],
+  "chunk_heading": "NEURODISABILITY AND FEEDING SUPPORT;CASE-BASED APPLICATION RECURRENT PNEUMONIA PROMPTING TUBE ESCALATION;",
+  "topic": "NEURODISABILITY AND FEEDING SUPPORT",
+  "subtopic": "CASE-BASED APPLICATION RECURRENT PNEUMONIA PROMPTING TUBE ESCALATION",
+  "sub_subtopic": null,
+  "heading_path": "NEURODISABILITY AND FEEDING SUPPORT;CASE-BASED APPLICATION RECURRENT PNEUMONIA PROMPTING TUBE ESCALATION;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u0080.1"
+}

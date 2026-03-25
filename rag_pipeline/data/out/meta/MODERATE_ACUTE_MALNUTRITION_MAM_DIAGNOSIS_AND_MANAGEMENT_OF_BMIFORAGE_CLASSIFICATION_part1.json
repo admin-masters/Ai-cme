@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section focuses on BMI-for-age classification for diagnosing and managing thinness in individuals aged 5-19 years, highlighting differential diagnosis and program linkages to address moderate acute malnutrition (MAM). It references WHO growth standards and national frameworks for adolescent nutrition and supplementary feeding programs.",
+  "learning_objectives": [
+    "Understand the BMI-for-age classification system for ages 5-19 years based on WHO growth standards.",
+    "Identify differential diagnoses for thinness in adolescents and children.",
+    "Explore programmatic linkages between MAM management and national nutrition initiatives.",
+    "Learn about operational frameworks like RKSK, WIFS, and PM POSHAN for addressing malnutrition."
+  ],
+  "key_facts": [
+    "BMI-for-age is a key indicator for assessing thinness in individuals aged 5-19 years, with WHO cut-offs defining moderate and severe thinness.",
+    "The RKSK framework emphasizes adolescent health, including nutrition and anemia prevention.",
+    "The WIFS program targets weekly iron and folic acid supplementation for adolescents to combat anemia.",
+    "PM POSHAN (formerly Mid-Day Meal Scheme) provides nutritional support to school-aged children to improve dietary intake.",
+    "Differential diagnosis for thinness includes ruling out chronic infections, eating disorders, and socioeconomic factors."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Body Mass Index",
+    "Malnutrition",
+    "Adolescent Health",
+    "Nutritional Status",
+    "Supplementary Feeding",
+    "Iron-Deficiency Anemia",
+    "Growth Disorders",
+    "Public Health Programs"
+  ],
+  "tags_custom": [
+    "BMI-for-age",
+    "adolescent nutrition",
+    "malnutrition management",
+    "national nutrition programs",
+    "thinness diagnosis"
+  ],
+  "reference_quote": "\"BMI-for-age (5-19 years): interpretation of cut-offs (WHO growth reference)\" \u2014 https://www.who.int/tools/growth-reference-data-for-5to19-years/indicators/bmi-for-age",
+  "document_key_topics": [
+    "BMI-for-age classification for ages 5-19 years",
+    "Differential diagnosis of thinness",
+    "Program linkages for MAM management",
+    "National nutrition frameworks (RKSK, WIFS, PM POSHAN)"
+  ],
+  "chunk_heading": "MODERATE ACUTE MALNUTRITION (MAM) AND SUPPLEMENTARY FEEDING;DIAGNOSIS AND MANAGEMENT OF THINNESS IN AGES 5 TO 19 YEARS;BMI-FOR-AGE CLASSIFICATION DIFFERENTIAL DIAGNOSIS AND PROGRAM LINKAGES;",
+  "topic": "MODERATE ACUTE MALNUTRITION (MAM) AND SUPPLEMENTARY FEEDING",
+  "subtopic": "DIAGNOSIS AND MANAGEMENT OF THINNESS IN AGES 5 TO 19 YEARS",
+  "sub_subtopic": "BMI-FOR-AGE CLASSIFICATION DIFFERENTIAL DIAGNOSIS AND PROGRAM LINKAGES",
+  "heading_path": "MODERATE ACUTE MALNUTRITION (MAM) AND SUPPLEMENTARY FEEDING;DIAGNOSIS AND MANAGEMENT OF THINNESS IN AGES 5 TO 19 YEARS;BMI-FOR-AGE CLASSIFICATION DIFFERENTIAL DIAGNOSIS AND PROGRAM LINKAGES;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "3|1.2"
+}

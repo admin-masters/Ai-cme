@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "Chronic diarrhea in immunocompromised children, particularly those with HIV, requires integrated nutrition support, infection management, and immune restoration. Key interventions include targeted pathogen testing, hydration, micronutrient supplementation, and adherence to structured malnutrition protocols.",
+  "learning_objectives": [
+    "Understand the nutritional and medical management of chronic diarrhea in immunocompromised children, including those with HIV.",
+    "Identify key pathogens (e.g., Cryptosporidium, Isospora, C. difficile) and their diagnostic approaches in persistent diarrhea.",
+    "Learn the role of micronutrient supplementation and antiretroviral therapy in immune restoration.",
+    "Recognize the importance of early escalation to tertiary care in severe cases."
+  ],
+  "key_facts": [
+    "Chronic diarrhea in immunocompromised children is a nutrition emergency with high mortality risk in settings like India.",
+    "Hydration and electrolyte monitoring are critical to prevent hypokalemia and hypomagnesemia due to high-output stools.",
+    "Stool testing should target pathogens like Cryptosporidium, Isospora, and C. difficile (if prior antibiotic exposure).",
+    "Children under 5 meeting SAM criteria should follow structured stabilization and catch-up protocols.",
+    "Refeeding precautions, including thiamine and phosphate monitoring, are essential for older children with prolonged starvation or electrolyte imbalances."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Diarrhea, Chronic",
+    "HIV Infections",
+    "Malabsorption Syndromes",
+    "Immunocompromised Host",
+    "Micronutrients",
+    "Rehydration Solutions",
+    "Opportunistic Infections",
+    "Nutritional Support"
+  ],
+  "tags_custom": [
+    "HIV in children",
+    "chronic diarrhea",
+    "malnutrition management",
+    "opportunistic infections"
+  ],
+  "reference_quote": "Maintain feeding while evaluating and treating. Continue breastfeeding and provide energy-dense age-appropriate foods; avoid fasting and milk dilution.",
+  "document_key_topics": [
+    "Chronic diarrhea in immunocompromised children",
+    "Nutritional management in HIV-associated diarrhea",
+    "Pathogen-specific testing and treatment",
+    "Micronutrient supplementation and immune restoration"
+  ],
+  "chunk_heading": "NUTRITION IN GI DISORDERS & MALABSORPTION;MALABSORPTION ETIOLOGIES WITH CONDITION-SPECIFIC DIET THERAPIES;CHRONIC DIARRHEA IN HIV AND OTHER IMMUNOCOMPROMISED CHILDREN;",
+  "topic": "NUTRITION IN GI DISORDERS & MALABSORPTION",
+  "subtopic": "MALABSORPTION ETIOLOGIES WITH CONDITION-SPECIFIC DIET THERAPIES",
+  "sub_subtopic": "CHRONIC DIARRHEA IN HIV AND OTHER IMMUNOCOMPROMISED CHILDREN",
+  "heading_path": "NUTRITION IN GI DISORDERS & MALABSORPTION;MALABSORPTION ETIOLOGIES WITH CONDITION-SPECIFIC DIET THERAPIES;CHRONIC DIARRHEA IN HIV AND OTHER IMMUNOCOMPROMISED CHILDREN;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "2\u008d3"
+}

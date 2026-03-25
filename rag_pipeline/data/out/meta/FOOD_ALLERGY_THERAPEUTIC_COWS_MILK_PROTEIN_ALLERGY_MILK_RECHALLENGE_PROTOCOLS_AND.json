@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "This section outlines milk re-challenge protocols and home milk ladder strategies for managing cow's milk protein allergy (CMPA), emphasizing diagnostic safeguards, reintroduction timelines, and graded challenge procedures for different phenotypes.",
+  "learning_objectives": [
+    "Understand the role of milk re-challenge in CMPA management and its diagnostic importance.",
+    "Learn the appropriate timelines and settings for reintroducing milk in low-risk and high-risk CMPA phenotypes.",
+    "Familiarize with graded milk challenge protocols for non-severe and severe CMPA presentations.",
+    "Recognize the importance of periodic reassessment to avoid unnecessary dietary restrictions."
+  ],
+  "key_facts": [
+    "Reintroduction of milk should be planned at the start of elimination, with a defined date and setting (home vs supervised).",
+    "For low-risk delayed phenotypes like FPIAP, maternal dairy reintroduction can occur at home after a symptom-free period.",
+    "Non-IgE gastrointestinal phenotypes require a 2\u20136 week elimination period, followed by reintroduction; lack of improvement should prompt diagnostic reconsideration.",
+    "Indian guidelines suggest outpatient graded milk challenges starting with 1 mL, increasing to 100 mL every 30 minutes, with 2-hour observation.",
+    "Severe immediate IgE-mediated reactions require inpatient graded challenges starting at 0.1 mL with resuscitation readiness.",
+    "Periodic reassessment (e.g., every 6 months) is crucial to prevent unnecessary prolonged milk avoidance."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Food Hypersensitivity",
+    "Milk Hypersensitivity",
+    "Elimination Diet",
+    "Immunoglobulin E",
+    "Food Allergy",
+    "Gastrointestinal Diseases",
+    "Pediatrics",
+    "Dietary Management"
+  ],
+  "tags_custom": [
+    "CMPA management",
+    "milk reintroduction",
+    "graded challenge protocols",
+    "home milk ladder",
+    "allergy diagnostics"
+  ],
+  "reference_quote": "Indian guidance provides graded milk challenge options: for non-severe presentations, an outpatient challenge can use 1 mL, 3 mL, 10 mL, 30 mL, and 100 mL every 30 minutes with observation for 2 hours, then continued daily milk intake (around 200 mL/day) with review after about 2 weeks to detect delayed manifestations.",
+  "document_key_topics": [
+    "Milk re-challenge protocols for CMPA",
+    "Home milk ladder for delayed/non-IgE CMPA",
+    "Graded milk challenge procedures",
+    "Periodic reassessment in CMPA management"
+  ],
+  "chunk_heading": "FOOD ALLERGY & THERAPEUTIC ELIMINATION DIETS;COWS MILK PROTEIN ALLERGY PHENOTYPE MANAGEMENT;MILK RE-CHALLENGE PROTOCOLS AND HOME MILK LADDER;",
+  "topic": "FOOD ALLERGY & THERAPEUTIC ELIMINATION DIETS",
+  "subtopic": "COWS MILK PROTEIN ALLERGY PHENOTYPE MANAGEMENT",
+  "sub_subtopic": "MILK RE-CHALLENGE PROTOCOLS AND HOME MILK LADDER",
+  "heading_path": "FOOD ALLERGY & THERAPEUTIC ELIMINATION DIETS;COWS MILK PROTEIN ALLERGY PHENOTYPE MANAGEMENT;MILK RE-CHALLENGE PROTOCOLS AND HOME MILK LADDER;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "1~6"
+}

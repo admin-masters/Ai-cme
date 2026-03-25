@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section discusses case-based management of non-IgE gastrointestinal food allergies in infants, including FPIAP, FPIES, and FPE, with emphasis on diagnostic strategies, elimination diets, and red flags for referral.",
+  "learning_objectives": [
+    "Differentiate between FPIAP, FPIES, and FPE based on clinical presentation and timing.",
+    "Understand when to initiate maternal elimination diets and their endpoints in suspected FPIAP.",
+    "Recognize red flags in chronic diarrhea and malnutrition that require referral and advanced management.",
+    "Develop appropriate action plans for FPIES, including supervised tolerance testing."
+  ],
+  "key_facts": [
+    "FPIAP: Blood-streaked stools in thriving infants may resolve with anal fissure treatment; maternal dairy elimination is trialed if blood persists, with endpoints within 72 hours.",
+    "FPIES: Symptoms like repetitive vomiting, pallor, and lethargy occur 2-4 hours post-ingestion; management includes trigger avoidance and supervised tolerance testing.",
+    "FPE or chronic FPIES: Chronic diarrhea, edema, and poor weight gain with low albumin require hydration, nutritional rescue, and formula escalation (eHF to AAF).",
+    "Hospitalization is indicated for dehydration, electrolyte disturbances, or poor intake in severe cases of FPE or chronic FPIES.",
+    "Food-specific IgE testing is not used to diagnose FPIES."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Food Hypersensitivity",
+    "Gastrointestinal Diseases",
+    "Infant Nutrition Disorders",
+    "Elimination Diet",
+    "Milk Hypersensitivity",
+    "Enterocolitis, Food Protein-Induced",
+    "Diarrhea, Chronic",
+    "Hypoalbuminemia"
+  ],
+  "tags_custom": [
+    "Non-IgE food allergy",
+    "Pediatric gastroenterology",
+    "FPIES management",
+    "Elimination diet strategies",
+    "Referral red flags"
+  ],
+  "reference_quote": "\u2018Management priorities are hydration, nutrition rescue, and a severity-based formula plan (eHF trial with rapid escalation to AAF when needed), with evaluation for infection and other causes of enteropathy.\u2019 (Source: WAO DRACMA guideline update, 2023)",
+  "document_key_topics": [
+    "Non-IgE mediated food allergies in infants",
+    "FPIAP, FPIES, and FPE diagnostic and management strategies",
+    "Nutritional and hydration management in severe cases",
+    "Role of elimination diets and referral criteria"
+  ],
+  "chunk_heading": "FOOD ALLERGY & THERAPEUTIC ELIMINATION DIETS;CASE-BASED DECISION FORKS IN PEDIATRIC FOOD ALLERGY;NON-IGE GASTROINTESTINAL PHENOTYPE VIGNETTES;",
+  "topic": "FOOD ALLERGY & THERAPEUTIC ELIMINATION DIETS",
+  "subtopic": "CASE-BASED DECISION FORKS IN PEDIATRIC FOOD ALLERGY",
+  "sub_subtopic": "NON-IGE GASTROINTESTINAL PHENOTYPE VIGNETTES",
+  "heading_path": "FOOD ALLERGY & THERAPEUTIC ELIMINATION DIETS;CASE-BASED DECISION FORKS IN PEDIATRIC FOOD ALLERGY;NON-IGE GASTROINTESTINAL PHENOTYPE VIGNETTES;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "1\u00a12"
+}

@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "Referral thresholds for allergy and gastroenterology in India emphasize early specialist intervention to prevent prolonged dietary restrictions and address severe or complex cases, especially in resource-limited settings.",
+  "learning_objectives": [
+    "Understand referral criteria for allergy and gastroenterology in pediatric food allergy management.",
+    "Identify clinical signs of IgE-mediated reactions, EoE, and FPIES requiring specialist care.",
+    "Recognize the importance of early endoscopy and supervised oral food challenges in diagnosis.",
+    "Evaluate the impact of limited access to pediatric endoscopy in India on referral thresholds."
+  ],
+  "key_facts": [
+    "Referral to allergy specialists is recommended for suspected anaphylaxis, unclear IgE-mediated reactions, or need for supervised oral food challenges (OFC).",
+    "Endoscopy is essential for diagnosing eosinophilic esophagitis (EoE), preventing unnecessary dietary restrictions.",
+    "Urgent referral is required for esophageal food impaction, hypotension, airway compromise, or persistent lethargy with dehydration.",
+    "In India, lower referral thresholds are advised when staple foods are avoided, risking nutritional deficiencies.",
+    "Complex multi-trigger FPIES cases require coordinated challenge planning and specialist care.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Food Hypersensitivity",
+    "Eosinophilic Esophagitis",
+    "Anaphylaxis",
+    "Pediatric Gastroenterology",
+    "Oral Food Challenge",
+    "Failure to Thrive",
+    "Food Allergy Diagnosis",
+    "Referral and Consultation"
+  ],
+  "tags_custom": [
+    "India-specific guidelines",
+    "Therapeutic elimination diets",
+    "Pediatric allergy care",
+    "Specialist referral thresholds",
+    "Nutritional impact"
+  ],
+  "reference_quote": "Refer to an allergy specialist when there is suspected or recurrent anaphylaxis, a history suggestive of IgE-mediated reactions with unclear trigger, or any scenario where a supervised OFC is needed to confirm diagnosis or expand the diet. (Source: EAACI guidelines on the diagnosis of IgE-mediated food allergy)",
+  "document_key_topics": [
+    "Referral thresholds for allergy and gastroenterology",
+    "Diagnosis and management of eosinophilic esophagitis (EoE)",
+    "Food protein-induced enterocolitis syndrome (FPIES)",
+    "Impact of limited access to pediatric endoscopy in India"
+  ],
+  "chunk_heading": "FOOD ALLERGY & THERAPEUTIC ELIMINATION DIETS;PREVENTION AND SYSTEMS IMPLEMENTATION IN INDIA;REFERRAL THRESHOLDS FOR ALLERGY AND GASTROENTEROLOGY;",
+  "topic": "FOOD ALLERGY & THERAPEUTIC ELIMINATION DIETS",
+  "subtopic": "PREVENTION AND SYSTEMS IMPLEMENTATION IN INDIA",
+  "sub_subtopic": "REFERRAL THRESHOLDS FOR ALLERGY AND GASTROENTEROLOGY",
+  "heading_path": "FOOD ALLERGY & THERAPEUTIC ELIMINATION DIETS;PREVENTION AND SYSTEMS IMPLEMENTATION IN INDIA;REFERRAL THRESHOLDS FOR ALLERGY AND GASTROENTEROLOGY;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "1\u009d5"
+}

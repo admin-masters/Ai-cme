@@ -1,0 +1,47 @@
+{
+  "chunk_summary": "This section discusses admission thresholds for pediatric nutrition failure in chronic cardiorespiratory disease, focusing on stability, growth, and feeding safety, with reference to malnutrition indicators and child growth standards.",
+  "learning_objectives": [
+    "Understand the criteria for admission thresholds in pediatric nutrition failure related to chronic cardiorespiratory disease.",
+    "Identify key indicators of pediatric malnutrition using ASPEN and WHO guidelines.",
+    "Evaluate feeding safety and growth stability as factors in determining nutrition intervention routes."
+  ],
+  "key_facts": [
+    "Pediatric malnutrition is classified using ASPEN/Academy of Nutrition and Dietetics guidelines.",
+    "WHO child growth standards include weight velocity as a critical indicator of growth stability.",
+    "Feeding safety is a key determinant in deciding the escalation of nutrition support routes.",
+    "The Indian Academy of Pediatrics provides specific guidelines for managing heart failure in children.",
+    "Pediatric Cardiac Intensive Care Society offers nutrition guidelines for congenital heart patients."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Nutrition Disorders",
+    "Pediatrics",
+    "Cardiovascular Diseases",
+    "Respiratory Tract Diseases",
+    "Malnutrition",
+    "Growth Disorders",
+    "Feeding Behavior",
+    "Nutritional Support"
+  ],
+  "tags_custom": [
+    "pediatric nutrition",
+    "chronic disease management",
+    "feeding safety",
+    "growth monitoring"
+  ],
+  "reference_quote": "Indicators for pediatric malnutrition (Academy of Nutrition and Dietetics/ASPEN) are critical for assessing nutrition failure in chronic diseases.",
+  "document_key_topics": [
+    "Pediatric malnutrition indicators",
+    "Child growth standards and weight velocity",
+    "Feeding safety in chronic cardiorespiratory disease",
+    "Nutrition guidelines for congenital heart patients"
+  ],
+  "chunk_heading": "NUTRITION IN CHRONIC CARDIORESPIRATORY DISEASE;ADMISSION THRESHOLDS AND ROUTE ESCALATION FOR NUTRITION FAILURE;ADMISSION THRESHOLDS USING STABILITY GROWTH AND FEEDING SAFETY;",
+  "topic": "NUTRITION IN CHRONIC CARDIORESPIRATORY DISEASE",
+  "subtopic": "ADMISSION THRESHOLDS AND ROUTE ESCALATION FOR NUTRITION FAILURE",
+  "sub_subtopic": "ADMISSION THRESHOLDS USING STABILITY GROWTH AND FEEDING SAFETY",
+  "heading_path": "NUTRITION IN CHRONIC CARDIORESPIRATORY DISEASE;ADMISSION THRESHOLDS AND ROUTE ESCALATION FOR NUTRITION FAILURE;ADMISSION THRESHOLDS USING STABILITY GROWTH AND FEEDING SAFETY;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "1z1.2"
+}

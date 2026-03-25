@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "Concurrent wasting and stunting (WaSt) is a high-risk phenotype in malnutrition, associated with elevated mortality. It requires integrated screening and management strategies, including risk upgrading and tailored interventions for children with acute illness or severe anthropometric deficits.",
+  "learning_objectives": [
+    "Understand the definition and clinical significance of concurrent wasting and stunting (WaSt).",
+    "Learn how to screen for and classify WaSt using WHZ, HAZ, and MUAC criteria.",
+    "Identify risk-upgrading rules and management strategies for children with WaSt.",
+    "Recognize the amplified vulnerability of WaSt in the presence of acute illness or oedema."
+  ],
+  "key_facts": [
+    "Concurrent wasting and stunting (WaSt) is defined as WHZ < -2 SD and HAZ < -2 SD.",
+    "Children with WaSt have a higher mortality risk than those with either wasting or stunting alone.",
+    "WaSt plus acute illness or oedema should trigger higher-intensity follow-up and often inpatient care.",
+    "Borderline values (e.g., WHZ near -3 SD or MUAC near 115 mm) in WaSt should be managed as high risk.",
+    "Stunting alone does not substitute for acute risk markers, but concurrent deficits amplify vulnerability."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Malnutrition",
+    "Wasting Syndrome",
+    "Stunting",
+    "Child Mortality",
+    "Anthropometry",
+    "Acute Malnutrition",
+    "Nutritional Status",
+    "Risk Assessment"
+  ],
+  "tags_custom": [
+    "WaSt phenotype",
+    "high-risk malnutrition",
+    "child health",
+    "nutritional screening"
+  ],
+  "reference_quote": "\"Children with concurrent deficits have higher mortality risk than those with either wasting or stunting alone.\" (Nature, 2023)",
+  "document_key_topics": [
+    "Concurrent wasting and stunting (WaSt) definition and significance",
+    "Screening and classification criteria for WaSt",
+    "Risk-upgrading rules for WaSt management",
+    "Clinical implications of WaSt in acute illness and oedema"
+  ],
+  "chunk_heading": "MALNUTRITION\u2014UNDERNUTRITION: SCREENING & CLASSIFICATION;CONCURRENT WASTING WITH STUNTING AS A HIGH-RISK PHENOTYPE;",
+  "topic": "MALNUTRITION\u2014UNDERNUTRITION: SCREENING & CLASSIFICATION",
+  "subtopic": "CONCURRENT WASTING WITH STUNTING AS A HIGH-RISK PHENOTYPE",
+  "sub_subtopic": null,
+  "heading_path": "MALNUTRITION\u2014UNDERNUTRITION: SCREENING & CLASSIFICATION;CONCURRENT WASTING WITH STUNTING AS A HIGH-RISK PHENOTYPE;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2v"
+}

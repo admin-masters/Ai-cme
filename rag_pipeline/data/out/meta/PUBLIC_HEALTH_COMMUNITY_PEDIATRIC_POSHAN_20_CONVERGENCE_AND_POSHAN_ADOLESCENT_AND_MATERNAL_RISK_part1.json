@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Explores adolescent and maternal risk factors, including anemia, WIFS adherence, deworming, and entitlement receipt, as key contributors to intergenerational malnutrition within the POSHAN 2.0 framework.",
+  "learning_objectives": [
+    "Understand the role of maternal anemia and adolescent nutrition in intergenerational malnutrition.",
+    "Learn how POSHAN Tracker can be used to monitor risk factors like WIFS adherence and deworming history.",
+    "Identify upstream factors contributing to growth faltering in pediatric nutrition.",
+    "Integrate entitlement receipt into clinical assessments for malnutrition risk."
+  ],
+  "key_facts": [
+    "Maternal anemia is a critical risk factor for intergenerational malnutrition.",
+    "Weekly Iron and Folic Acid Supplementation (WIFS) adherence is essential for adolescent health and reducing anemia prevalence.",
+    "Deworming interventions, as outlined in National Deworming Day guidelines, are vital for reducing parasitic infections that exacerbate malnutrition.",
+    "POSHAN Tracker aids in monitoring entitlement receipt and nutritional interventions at the household level.",
+    "Growth-faltering visits should include a checklist of upstream factors like anemia, WIFS adherence, and deworming history.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Public Health",
+    "Pediatric Nutrition",
+    "Maternal Health",
+    "Adolescent Health",
+    "Anemia",
+    "Malnutrition",
+    "Iron Supplementation",
+    "Deworming"
+  ],
+  "tags_custom": [
+    "POSHAN 2.0",
+    "Intergenerational Malnutrition",
+    "Growth Faltering",
+    "Entitlement Programs"
+  ],
+  "reference_quote": "Clinically, include a brief life-course checklist in growth-faltering visits: maternal anemia status, adolescent WIFS adherence in the household, deworming history, and current entitlement receipt, because these upstream factors often explain repeated non-response despite adequate counseling.",
+  "document_key_topics": [
+    "POSHAN 2.0 Convergence",
+    "Adolescent and Maternal Nutrition",
+    "Intergenerational Malnutrition Risk Factors",
+    "Clinical Use of POSHAN Tracker"
+  ],
+  "chunk_heading": "PUBLIC HEALTH & COMMUNITY PEDIATRIC NUTRITION;POSHAN 2.0 CONVERGENCE AND POSHAN TRACKER INTERPRETATION;ADOLESCENT AND MATERNAL RISK LINKAGES FOR INTERGENERATIONAL MALNUTRITION;",
+  "topic": "PUBLIC HEALTH & COMMUNITY PEDIATRIC NUTRITION",
+  "subtopic": "POSHAN 2.0 CONVERGENCE AND POSHAN TRACKER INTERPRETATION",
+  "sub_subtopic": "ADOLESCENT AND MATERNAL RISK LINKAGES FOR INTERGENERATIONAL MALNUTRITION",
+  "heading_path": "PUBLIC HEALTH & COMMUNITY PEDIATRIC NUTRITION;POSHAN 2.0 CONVERGENCE AND POSHAN TRACKER INTERPRETATION;ADOLESCENT AND MATERNAL RISK LINKAGES FOR INTERGENERATIONAL MALNUTRITION;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1r2.2"
+}

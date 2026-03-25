@@ -1,0 +1,46 @@
+{
+  "chunk_summary": "Guidelines for managing acute septic arthritis, including antibiotic duration, pathogen-specific therapy, and assessment for adjacent osteomyelitis, with emphasis on imaging and clinical markers.",
+  "learning_objectives": [
+    "Understand empiric antibiotic choices for acute septic arthritis based on age and pathogen likelihood.",
+    "Recognize when to extend antibiotic duration, particularly in cases of methicillin-resistant Staphylococcus aureus or adjacent osteomyelitis.",
+    "Identify clinical and imaging markers for adjacent osteomyelitis and their impact on treatment strategy."
+  ],
+  "key_facts": [
+    "Empiric antibiotics should cover Staphylococcus aureus and age-appropriate organisms, with cloxacillin or cefazolin for methicillin-susceptible cases and vancomycin for methicillin-resistant cases.",
+    "Uncomplicated septic arthritis typically requires 2-3 weeks of antibiotics, extended to 4 weeks for methicillin-resistant Staphylococcus aureus or adjacent osteomyelitis.",
+    "Risk factors for adjacent osteomyelitis include hip infection, delayed treatment, severe Staphylococcus aureus disease, and high inflammatory markers.",
+    "Persistent fever, disproportionate pain, and non-falling C-reactive protein levels after drainage suggest adjacent osteomyelitis.",
+    "MRI of the entire anatomic segment is recommended to detect metaphyseal abscesses or cortical breaches requiring additional drainage."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Septic Arthritis",
+    "Osteomyelitis",
+    "Staphylococcal Infections",
+    "Antibiotic Therapy",
+    "Magnetic Resonance Imaging",
+    "C-Reactive Protein",
+    "Pediatrics",
+    "Empiric Therapy"
+  ],
+  "tags_custom": [
+    "acute bone infections",
+    "pediatric septic arthritis",
+    "antibiotic duration",
+    "osteomyelitis risk factors"
+  ],
+  "reference_quote": "Empiric antibiotics for septic arthritis should cover Staphylococcus aureus and age-appropriate organisms immediately after aspiration. (Source: Indian Academy of Pediatrics Consensus Statement)",
+  "document_key_topics": [
+    "Antibiotic therapy for septic arthritis",
+    "Assessment and management of adjacent osteomyelitis",
+    "Clinical and imaging markers for treatment adjustment"
+  ],
+  "chunk_heading": "BONE INFECTIONS;EMERGENCY CARE OF ACUTE SEPTIC ARTHRITIS;ANTIBIOTIC DURATION AND ADJACENT OSTEOMYELITIS ASSESSMENT;",
+  "topic": "BONE INFECTIONS",
+  "subtopic": "EMERGENCY CARE OF ACUTE SEPTIC ARTHRITIS",
+  "sub_subtopic": "ANTIBIOTIC DURATION AND ADJACENT OSTEOMYELITIS ASSESSMENT",
+  "heading_path": "BONE INFECTIONS;EMERGENCY CARE OF ACUTE SEPTIC ARTHRITIS;ANTIBIOTIC DURATION AND ADJACENT OSTEOMYELITIS ASSESSMENT;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1v2"
+}

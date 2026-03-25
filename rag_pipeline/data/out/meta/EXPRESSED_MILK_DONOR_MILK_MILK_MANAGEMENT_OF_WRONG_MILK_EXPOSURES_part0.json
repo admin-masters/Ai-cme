@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section outlines protocols for managing wrong milk exposures and administration errors, emphasizing prevention, risk assessment, and structured incident analysis to ensure safety in milk banking practices.",
+  "learning_objectives": [
+    "Understand the importance of standardized labeling and storage in preventing milk administration errors.",
+    "Learn protocols for managing wrong milk exposures, including risk assessment and serologic testing.",
+    "Explore strategies for incident analysis and system improvements to reduce recurrence risk."
+  ],
+  "key_facts": [
+    "Milk administration errors are preventable, high-impact safety events requiring standardized labeling and storage protocols.",
+    "Unlabeled or ambiguously labeled milk should be discarded to prevent errors.",
+    "For wrong milk exposures, assess biologic risk based on source mother\u2019s infectious disease status and milk pasteurization status.",
+    "Serologic testing for HIV, hepatitis B, and hepatitis C may be indicated following exposure.",
+    "If the source mother is HBsAg-positive and the infant is not fully immunized, consult local policy for urgent hepatitis B immunoprophylaxis.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Breast Milk",
+    "Milk Banks",
+    "Patient Safety",
+    "Infectious Disease Transmission",
+    "Hepatitis B",
+    "HIV",
+    "Root Cause Analysis",
+    "Quality Improvement"
+  ],
+  "tags_custom": [
+    "milk administration errors",
+    "wrong milk exposure",
+    "clinical protocols",
+    "risk assessment",
+    "incident analysis"
+  ],
+  "reference_quote": "If an infant receives another mother\u2019s milk or an incorrect donor milk product, treat the event like a transfusion error: stop the feed, secure the bottle, and notify the clinical lead and infection control.",
+  "document_key_topics": [
+    "Prevention of milk administration errors",
+    "Management of wrong milk exposures",
+    "Risk assessment and serologic testing",
+    "Incident analysis and system improvements"
+  ],
+  "chunk_heading": "EXPRESSED MILK, DONOR MILK & MILK BANKING;MANAGEMENT OF WRONG MILK EXPOSURES AND ADMINISTRATION ERRORS;",
+  "topic": "EXPRESSED MILK, DONOR MILK & MILK BANKING",
+  "subtopic": "MANAGEMENT OF WRONG MILK EXPOSURES AND ADMINISTRATION ERRORS",
+  "sub_subtopic": null,
+  "heading_path": "EXPRESSED MILK, DONOR MILK & MILK BANKING;MANAGEMENT OF WRONG MILK EXPOSURES AND ADMINISTRATION ERRORS;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "2\u0082.1"
+}

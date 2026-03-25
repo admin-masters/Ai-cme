@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Management of FPIAP focuses on targeted elimination of cow\u2019s milk protein in breastfeeding mothers, avoiding unnecessary escalation, and monitoring for red flags like poor weight gain or systemic illness.",
+  "learning_objectives": [
+    "Understand the clinical presentation and diagnostic approach for FPIAP in infants.",
+    "Learn the management strategies for breastfeeding mothers, including targeted elimination diets.",
+    "Identify red flags that necessitate escalation or referral in FPIAP cases.",
+    "Explore the role of formula changes and planned reintroduction in FPIAP management."
+  ],
+  "key_facts": [
+    "FPIAP typically presents with small-volume blood and mucus in stool in thriving infants.",
+    "Symptom improvement is expected within 48\u201372 hours of strict maternal cow\u2019s milk protein elimination.",
+    "Red flags include poor weight gain, persistent large-volume blood, systemic illness, anemia, or hypoalbuminemia.",
+    "Use extensively hydrolyzed formula (eHF) for supplementary feeding; reserve amino acid formula (AAF) for severe cases or failed eHF trials.",
+    "Planned maternal dairy reintroduction is essential to confirm relapse and avoid false labeling."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Food Hypersensitivity",
+    "Milk Hypersensitivity",
+    "Non-IgE Mediated Food Allergy",
+    "Infant Nutrition Disorders",
+    "Breastfeeding",
+    "Elimination Diet",
+    "Hypoalbuminemia",
+    "Anemia"
+  ],
+  "tags_custom": [
+    "FPIAP management",
+    "cow\u2019s milk protein elimination",
+    "infant stool abnormalities",
+    "formula escalation",
+    "maternal diet reintroduction"
+  ],
+  "reference_quote": "Symptom improvement is usually seen within about 48\u201372 hours of strict elimination; stop and reassess rather than expanding to multi-food maternal restriction. (Indian Pediatrics, 2020)",
+  "document_key_topics": [
+    "FPIAP clinical presentation and diagnosis",
+    "Maternal elimination diet for cow\u2019s milk protein",
+    "Escalation triggers and formula selection",
+    "Planned reintroduction for diagnostic confirmation"
+  ],
+  "chunk_heading": "FOOD ALLERGY & THERAPEUTIC ELIMINATION DIETS;COWS MILK PROTEIN ALLERGY PHENOTYPE MANAGEMENT;FPIAP RESPONSE TARGETS AND ESCALATION TRIGGERS;",
+  "topic": "FOOD ALLERGY & THERAPEUTIC ELIMINATION DIETS",
+  "subtopic": "COWS MILK PROTEIN ALLERGY PHENOTYPE MANAGEMENT",
+  "sub_subtopic": "FPIAP RESPONSE TARGETS AND ESCALATION TRIGGERS",
+  "heading_path": "FOOD ALLERGY & THERAPEUTIC ELIMINATION DIETS;COWS MILK PROTEIN ALLERGY PHENOTYPE MANAGEMENT;FPIAP RESPONSE TARGETS AND ESCALATION TRIGGERS;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "1{3"
+}

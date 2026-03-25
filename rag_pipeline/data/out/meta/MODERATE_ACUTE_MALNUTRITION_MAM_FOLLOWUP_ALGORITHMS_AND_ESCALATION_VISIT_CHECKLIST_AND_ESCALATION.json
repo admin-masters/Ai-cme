@@ -1,0 +1,47 @@
+{
+  "chunk_summary": "Guidelines for MAM follow-up visits include documenting anthropometry, feeding, morbidity, and supplement use, with escalation criteria for complications or weight loss.",
+  "learning_objectives": [
+    "Understand the essential components of a follow-up visit checklist for MAM management.",
+    "Identify criteria for escalation and referral during MAM follow-up.",
+    "Learn how to assess and document anthropometric and clinical data in MAM cases.",
+    "Recognize the importance of WHO high-risk criteria in guiding follow-up frequency and referrals."
+  ],
+  "key_facts": [
+    "Anthropometric measures include weight, height/length, MUAC, and WHZ/WLZ, with repeat measurements if borderline.",
+    "Immediate referral is required for nutritional oedema, danger signs, or clinical deterioration.",
+    "Weight loss or falling MUAC during follow-up is a red flag requiring reassessment and possible referral.",
+    "State protocols recommend using complications or weight loss to trigger referral to Nutrition Rehabilitation Centres (NRC).",
+    "WHO high-risk criteria suggest more frequent contact and lower thresholds for investigation and referral."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Malnutrition",
+    "Nutritional Support",
+    "Anthropometry",
+    "Child Nutrition Disorders",
+    "Follow-Up Studies",
+    "Referral and Consultation",
+    "Nutrition Assessment",
+    "Community Health Services"
+  ],
+  "tags_custom": [
+    "MAM follow-up",
+    "escalation criteria",
+    "nutrition rehabilitation",
+    "child health monitoring"
+  ],
+  "reference_quote": "State protocols summarized in Indian compendia explicitly use complications or weight loss to trigger referral to facility-based centres such as Nutrition Rehabilitation Centres (NRC).",
+  "document_key_topics": [
+    "Follow-up visit checklist for MAM",
+    "Escalation criteria for MAM management",
+    "Role of WHO high-risk criteria in MAM follow-up"
+  ],
+  "chunk_heading": "MODERATE ACUTE MALNUTRITION (MAM) AND SUPPLEMENTARY FEEDING;FOLLOW-UP ALGORITHMS AND ESCALATION PATHWAYS;VISIT CHECKLIST AND ESCALATION CRITERIA DURING FOLLOW-UP;",
+  "topic": "MODERATE ACUTE MALNUTRITION (MAM) AND SUPPLEMENTARY FEEDING",
+  "subtopic": "FOLLOW-UP ALGORITHMS AND ESCALATION PATHWAYS",
+  "sub_subtopic": "VISIT CHECKLIST AND ESCALATION CRITERIA DURING FOLLOW-UP",
+  "heading_path": "MODERATE ACUTE MALNUTRITION (MAM) AND SUPPLEMENTARY FEEDING;FOLLOW-UP ALGORITHMS AND ESCALATION PATHWAYS;VISIT CHECKLIST AND ESCALATION CRITERIA DURING FOLLOW-UP;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "3m3"
+}

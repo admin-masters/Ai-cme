@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section outlines tele-nutrition strategies for pediatric obesity in India, focusing on obesity classification, comorbidity screening, and follow-up intensity using WHO and IAP growth charts, risk-based treatment, and escalation protocols.",
+  "learning_objectives": [
+    "Understand the use of WHO and IAP growth charts for pediatric obesity classification in India.",
+    "Identify comorbidities and escalation thresholds for in-person assessments in tele-nutrition workflows.",
+    "Design risk-based tele-nutrition follow-up schedules for pediatric obesity management.",
+    "Implement stage-matched, family-based lifestyle interventions for behavior change."
+  ],
+  "key_facts": [
+    "WHO growth charts are used for children under 5 years, and IAP 2015 charts for ages 5\u201318 years.",
+    "Small height errors can distort BMI-for-age (BAZ) calculations, emphasizing the need for accurate height measurement.",
+    "Escalation thresholds include rapid weight gain, sleep-disordered breathing, suspected hypertension, and insulin resistance symptoms.",
+    "Baseline assessments should include vitals, pubertal staging, and labs (lipids, glucose, liver enzymes) based on severity and age.",
+    "Tele-nutrition schedules should include weekly or fortnightly sessions for 4\u20136 weeks, followed by monthly maintenance.",
+    "Stage-matched goals include one change each in beverage, snack, activity, and sleep routines."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Pediatric Obesity",
+    "Telemedicine",
+    "Body Mass Index",
+    "Growth Charts",
+    "Comorbidity",
+    "Lifestyle Interventions",
+    "India",
+    "Risk Assessment"
+  ],
+  "tags_custom": [
+    "tele-nutrition",
+    "pediatric obesity care",
+    "family-based interventions",
+    "Indian clinical practice"
+  ],
+  "reference_quote": "Clinical Practice Guideline for the Evaluation and Treatment of Children and Adolescents With Obesity (AAP): 'Multi-component, family-based lifestyle interventions are the cornerstone of pediatric obesity care.'",
+  "document_key_topics": [
+    "Obesity classification using WHO and IAP charts",
+    "Comorbidity screening and escalation protocols",
+    "Risk-based tele-nutrition follow-up schedules",
+    "Family-based lifestyle interventions for pediatric obesity"
+  ],
+  "chunk_heading": "DIGITAL TOOLS & TELE-NUTRITION;TELE-NUTRITION PATHWAY FOR PEDIATRIC OBESITY AND METABOLIC RISK IN INDIA;OBESITY CLASSIFICATION, COMORBIDITY SCREENING, AND FOLLOW-UP INTENSITY;",
+  "topic": "DIGITAL TOOLS & TELE-NUTRITION",
+  "subtopic": "TELE-NUTRITION PATHWAY FOR PEDIATRIC OBESITY AND METABOLIC RISK IN INDIA",
+  "sub_subtopic": "OBESITY CLASSIFICATION, COMORBIDITY SCREENING, AND FOLLOW-UP INTENSITY",
+  "heading_path": "DIGITAL TOOLS & TELE-NUTRITION;TELE-NUTRITION PATHWAY FOR PEDIATRIC OBESITY AND METABOLIC RISK IN INDIA;OBESITY CLASSIFICATION, COMORBIDITY SCREENING, AND FOLLOW-UP INTENSITY;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u007f1"
+}

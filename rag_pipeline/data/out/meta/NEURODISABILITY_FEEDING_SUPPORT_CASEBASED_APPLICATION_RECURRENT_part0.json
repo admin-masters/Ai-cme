@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "Case-based management of recurrent pneumonia in an 8-year-old with spastic quadriplegic CP (GMFCS V), focusing on feeding safety, secretion control, and nutrition adequacy, with interim strategies and tube escalation considerations.",
+  "learning_objectives": [
+    "Identify high-risk feeding signs in children with neurodisability, including aspiration-related respiratory events and prolonged mealtimes.",
+    "Develop interim feeding strategies to improve swallow safety, hydration, and nutrition while minimizing aspiration risk.",
+    "Understand the role of NGT bridge trials and gastrostomy in managing unsustainable feeding burdens and recurrent pneumonia."
+  ],
+  "key_facts": [
+    "The patient experienced three antibiotic-treated pneumonias in 12 months, indicating high aspiration risk.",
+    "Meals lasted 75\u201390 minutes, with weight plateauing for 8 months, highlighting poor feeding efficiency.",
+    "Interim strategies include IDDSI-tested thickened liquids, 90\u201390\u201390 positioning, reduced bolus size, and meal duration capped at 30 minutes.",
+    "NGT bridge trials (2\u20134 weeks) are recommended to assess proof-of-benefit before gastrostomy decisions.",
+    "Thickened fluids may reduce coughing but can worsen thirst, constipation, and medication delivery, requiring close monitoring."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Cerebral Palsy",
+    "Aspiration Pneumonia",
+    "Enteral Nutrition",
+    "Gastrostomy",
+    "Swallowing Disorders",
+    "Feeding Behavior",
+    "Respiratory Health",
+    "Pediatric Nutrition"
+  ],
+  "tags_custom": [
+    "neurodisability feeding",
+    "aspiration risk",
+    "tube feeding escalation",
+    "pediatric respiratory care",
+    "feeding efficiency"
+  ],
+  "reference_quote": "\u2018Gastrostomy tube feeding should be considered when oral feeding is unsafe or insufficient to meet hydration and nutritional needs.\u2019 (Source: https://cps.ca/en/documents/position/gastrostomy-tube-feeding)",
+  "document_key_topics": [
+    "Recurrent pneumonia in neurodisability",
+    "Feeding safety and efficiency strategies",
+    "NGT bridge trials and gastrostomy planning",
+    "Aspiration risk management in pediatric care"
+  ],
+  "chunk_heading": "NEURODISABILITY & FEEDING SUPPORT;CASE-BASED APPLICATION RECURRENT PNEUMONIA PROMPTING TUBE ESCALATION;",
+  "topic": "NEURODISABILITY & FEEDING SUPPORT",
+  "subtopic": "CASE-BASED APPLICATION RECURRENT PNEUMONIA PROMPTING TUBE ESCALATION",
+  "sub_subtopic": null,
+  "heading_path": "NEURODISABILITY & FEEDING SUPPORT;CASE-BASED APPLICATION RECURRENT PNEUMONIA PROMPTING TUBE ESCALATION;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u0080.1"
+}

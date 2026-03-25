@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section discusses trajectory-based growth faltering thresholds, emphasizing growth patterns over single measures, and provides escalation guidelines for malnutrition risk in infants and young children.",
+  "learning_objectives": [
+    "Understand the importance of growth trajectory monitoring over single z-score cutoffs in identifying malnutrition risk.",
+    "Learn the key referral triggers for growth faltering in infants based on Indian growth monitoring guidelines.",
+    "Familiarize with WHO weight-velocity standards and bedside heuristics for assessing growth adequacy.",
+    "Recognize danger signs that necessitate urgent escalation in cases of growth faltering."
+  ],
+  "key_facts": [
+    "Single-measure cutoffs like WAZ < -2 SD may miss high-risk children deviating from their growth trajectory.",
+    "Referral triggers include crossing down two major percentile lines, weight loss, or lack of weight gain for 1 month (0\u20136 months) or 2\u20133 months (6\u201312 months).",
+    "WHO weight-velocity standards provide expected weight increments over defined intervals for age-based assessment.",
+    "Term infants typically regain birth weight by 10\u201314 days and gain 25\u201330 g/day until 3 months, with slower gain thereafter.",
+    "Escalation is recommended when growth faltering coexists with danger signs like dehydration, respiratory distress, or suspected serious infection."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Malnutrition",
+    "Growth Disorders",
+    "Infant Nutrition Disorders",
+    "Weight Gain",
+    "Child Development",
+    "Feeding Behavior",
+    "Risk Assessment",
+    "Pediatric Guidelines"
+  ],
+  "tags_custom": [
+    "Growth faltering",
+    "Trajectory monitoring",
+    "Infant feeding assessment",
+    "Referral triggers",
+    "WHO standards"
+  ],
+  "reference_quote": "The WHO weight-velocity standards provide expected weight increments over defined intervals and can be used to judge whether recent gain is within the expected range for age. (Source: https://www.who.int/tools/childgrowth-standards/standards/weight-velocity)",
+  "document_key_topics": [
+    "Growth faltering thresholds and trajectory monitoring",
+    "Referral triggers for malnutrition risk",
+    "WHO weight-velocity standards and bedside heuristics",
+    "Escalation decisions in pediatric malnutrition"
+  ],
+  "chunk_heading": "MALNUTRITION\u2014UNDERNUTRITION: SCREENING & CLASSIFICATION;TRAJECTORY BASED GROWTH FALTERING THRESHOLDS AND ESCALATION DECISIONS;",
+  "topic": "MALNUTRITION\u2014UNDERNUTRITION: SCREENING & CLASSIFICATION",
+  "subtopic": "TRAJECTORY BASED GROWTH FALTERING THRESHOLDS AND ESCALATION DECISIONS",
+  "sub_subtopic": null,
+  "heading_path": "MALNUTRITION\u2014UNDERNUTRITION: SCREENING & CLASSIFICATION;TRAJECTORY BASED GROWTH FALTERING THRESHOLDS AND ESCALATION DECISIONS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2l"
+}

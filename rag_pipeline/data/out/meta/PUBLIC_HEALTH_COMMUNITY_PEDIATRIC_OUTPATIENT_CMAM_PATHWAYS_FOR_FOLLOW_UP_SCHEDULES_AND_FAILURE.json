@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "The CMAM protocol outlines outpatient care for uncomplicated wasting, including follow-up schedules, escalation criteria, and a multidimensional care package for community pediatric nutrition.",
+  "learning_objectives": [
+    "Understand the outpatient CMAM pathway for managing uncomplicated wasting in children.",
+    "Identify follow-up schedules and criteria for escalation in community-based care.",
+    "Learn the components of the minimum outpatient care package for malnourished children.",
+    "Recognize early warning signs requiring urgent referral or escalation."
+  ],
+  "key_facts": [
+    "The CMAM protocol specifies weekly follow-ups for SAM children during the first month, then fortnightly visits.",
+    "MAM children require fortnightly follow-ups with monthly weight and height monitoring.",
+    "Escalation criteria include fever >39\u00b0C, hypothermia <35\u00b0C, severe pneumonia, or weight loss for two weeks.",
+    "The minimum outpatient package includes nutrient-dense feeding counseling, immunization linkage, and WASH behavior promotion.",
+    "Non-recovery after three months or failure to gain weight for two weeks necessitates escalation."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Malnutrition",
+    "Community Health Services",
+    "Pediatrics",
+    "Nutritional Support",
+    "Wasting Syndrome",
+    "Follow-Up Studies",
+    "Health Promotion",
+    "Risk Assessment"
+  ],
+  "tags_custom": [
+    "CMAM protocol",
+    "outpatient care",
+    "pediatric nutrition",
+    "escalation criteria",
+    "follow-up schedules"
+  ],
+  "reference_quote": "The protocol describes weekly visits for every SAM or severely underweight child during the first month, followed by fortnightly visits; for MAM or moderately underweight children, fortnightly follow-up is used, with weight and height monitored monthly.",
+  "document_key_topics": [
+    "Outpatient CMAM pathways for uncomplicated wasting",
+    "Follow-up schedules for malnourished children",
+    "Criteria for escalation in community-based care",
+    "Components of the minimum outpatient care package"
+  ],
+  "chunk_heading": "PUBLIC HEALTH & COMMUNITY PEDIATRIC NUTRITION;OUTPATIENT CMAM PATHWAYS FOR UNCOMPLICATED WASTING;FOLLOW UP SCHEDULES AND FAILURE CRITERIA FOR ESCALATION;",
+  "topic": "PUBLIC HEALTH & COMMUNITY PEDIATRIC NUTRITION",
+  "subtopic": "OUTPATIENT CMAM PATHWAYS FOR UNCOMPLICATED WASTING",
+  "sub_subtopic": "FOLLOW UP SCHEDULES AND FAILURE CRITERIA FOR ESCALATION",
+  "heading_path": "PUBLIC HEALTH & COMMUNITY PEDIATRIC NUTRITION;OUTPATIENT CMAM PATHWAYS FOR UNCOMPLICATED WASTING;FOLLOW UP SCHEDULES AND FAILURE CRITERIA FOR ESCALATION;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1z1"
+}

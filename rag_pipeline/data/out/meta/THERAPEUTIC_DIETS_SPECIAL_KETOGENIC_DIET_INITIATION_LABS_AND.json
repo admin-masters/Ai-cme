@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section outlines baseline labs, surveillance strategies, and management of adverse effects during ketogenic diet therapy initiation, emphasizing hydration, nutritional adequacy, and monitoring for complications like hypoglycemia, dyslipidemia, and kidney stones.",
+  "learning_objectives": [
+    "Understand the baseline laboratory evaluations required before initiating ketogenic diet therapy (KDT).",
+    "Identify common adverse effects during KDT initiation and strategies for early detection and management.",
+    "Learn preventive measures for complications such as kidney stones, dyslipidemia, and bone health issues during prolonged KDT.",
+    "Recognize clinical stopping rules for transitioning patients off KDT when necessary."
+  ],
+  "key_facts": [
+    "Baseline labs for KDT include electrolytes, glucose, liver enzymes, fasting lipid profile, complete blood count, urinalysis, and vitamin D status.",
+    "Hydration and citrate prophylaxis are recommended to reduce kidney stone risk, especially in high-risk children.",
+    "Persistent vomiting, worsening lethargy, or inability to maintain fluids during KDT initiation warrants urgent evaluation.",
+    "Constipation is common and should be managed with fluid goals and fiber-compatible strategies.",
+    "Stopping rules include lack of seizure improvement after ~3 months, severe hypoglycemia, or persistent metabolic acidosis."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Ketogenic Diet",
+    "Epilepsy",
+    "Nutritional Status",
+    "Hypoglycemia",
+    "Kidney Calculi",
+    "Bone Health",
+    "Dyslipidemias",
+    "Vitamin D Deficiency"
+  ],
+  "tags_custom": [
+    "dietary therapy",
+    "adverse effect management",
+    "pediatric epilepsy",
+    "nutritional surveillance",
+    "clinical protocols"
+  ],
+  "reference_quote": "Selenium deficiency-induced cardiomyopathy during ketogenic diet therapy \u2014 https://pubmed.ncbi.nlm.nih.gov/11575609/",
+  "document_key_topics": [
+    "Baseline labs for ketogenic diet therapy",
+    "Adverse effect surveillance during KDT initiation",
+    "Management of complications like kidney stones and dyslipidemia",
+    "Stopping rules for ketogenic diet therapy"
+  ],
+  "chunk_heading": "THERAPEUTIC DIETS & SPECIAL INTERVENTIONS;KETOGENIC DIET INITIATION LABS AND ADVERSE EFFECT SURVEILLANCE;",
+  "topic": "THERAPEUTIC DIETS & SPECIAL INTERVENTIONS",
+  "subtopic": "KETOGENIC DIET INITIATION LABS AND ADVERSE EFFECT SURVEILLANCE",
+  "sub_subtopic": null,
+  "heading_path": "THERAPEUTIC DIETS & SPECIAL INTERVENTIONS;KETOGENIC DIET INITIATION LABS AND ADVERSE EFFECT SURVEILLANCE;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1j"
+}

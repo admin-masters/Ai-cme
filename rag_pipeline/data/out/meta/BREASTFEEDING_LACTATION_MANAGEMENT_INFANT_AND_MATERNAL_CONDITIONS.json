@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section outlines conditions where breastfeeding is contraindicated, including infant metabolic disorders, maternal infections, and substance use. It emphasizes infection control and lactation protection during temporary interruptions.",
+  "learning_objectives": [
+    "Identify absolute and relative contraindications to breastfeeding in infants and mothers.",
+    "Understand management strategies for breastfeeding interruptions due to maternal treatment or infections.",
+    "Learn infection-control measures for breastfeeding during maternal illnesses like COVID-19 or herpetic lesions.",
+    "Recognize the importance of maintaining lactation through scheduled expression when breastfeeding is interrupted."
+  ],
+  "key_facts": [
+    "Classic galactosemia is an absolute contraindication to breastfeeding; lactose-free formula is required.",
+    "Maternal cytotoxic chemotherapy and therapeutic radioisotope use necessitate breastfeeding interruption with a restart plan.",
+    "Maternal HTLV-1/2 infection is a contraindication in many guidelines.",
+    "Active herpetic lesions on the breast require avoiding feeding from the affected breast until lesions resolve.",
+    "For infections like treated tuberculosis, hepatitis, and COVID-19, breastfeeding is generally recommended with infection-control measures.",
+    "Scheduled expression (8\u201310 times per day) is critical to protect lactation during interruptions."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Breastfeeding",
+    "Lactation",
+    "Galactosemia",
+    "Maternal Infections",
+    "Substance-Related Disorders",
+    "Herpes Simplex",
+    "COVID-19",
+    "Infection Control"
+  ],
+  "tags_custom": [
+    "breastfeeding contraindications",
+    "maternal and infant health",
+    "lactation management",
+    "infection-related breastfeeding"
+  ],
+  "reference_quote": "For most common infections (including treated tuberculosis, hepatitis viruses, and COVID-19), breastfeeding or expressed milk is recommended with infection-control measures and infant prophylaxis as indicated; therefore, automatic separation should be avoided. (CDC, Breastfeeding special circumstances)",
+  "document_key_topics": [
+    "Infant metabolic disorders and breastfeeding contraindications",
+    "Maternal infections and breastfeeding safety",
+    "Substance use and breastfeeding risks",
+    "Lactation protection during breastfeeding interruptions"
+  ],
+  "chunk_heading": "BREASTFEEDING & LACTATION MANAGEMENT;INFANT AND MATERNAL CONDITIONS WHERE BREASTFEEDING IS CONTRAINDICATED;",
+  "topic": "BREASTFEEDING & LACTATION MANAGEMENT",
+  "subtopic": "INFANT AND MATERNAL CONDITIONS WHERE BREASTFEEDING IS CONTRAINDICATED",
+  "sub_subtopic": null,
+  "heading_path": "BREASTFEEDING & LACTATION MANAGEMENT;INFANT AND MATERNAL CONDITIONS WHERE BREASTFEEDING IS CONTRAINDICATED;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u0085"
+}

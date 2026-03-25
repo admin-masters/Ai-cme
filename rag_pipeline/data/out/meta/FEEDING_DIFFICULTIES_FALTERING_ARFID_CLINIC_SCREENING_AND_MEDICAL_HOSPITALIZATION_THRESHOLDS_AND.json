@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Hospitalization thresholds and mental health referral for ARFID involve assessing malnutrition severity, medical risks, and psychosocial impairment, with explicit criteria for admission and outpatient management strategies.",
+  "learning_objectives": [
+    "Understand the diagnostic criteria and differentiation of ARFID from anorexia nervosa.",
+    "Identify medical risk factors and hospitalization thresholds for ARFID patients.",
+    "Learn outpatient management strategies, including exposure-based and CBT-oriented approaches.",
+    "Recognize psychosocial impairments and their role in ARFID screening."
+  ],
+  "key_facts": [
+    "ARFID is characterized by severe restriction causing weight loss, faltering growth, nutritional deficiency, or psychosocial impairment, without body-image concerns typical of anorexia nervosa.",
+    "Hospitalization is recommended for severe malnutrition (<75% median BMI), dehydration, electrolyte disturbance, abnormal ECG (e.g., prolonged QTc), bradycardia (<50/min daytime or <45/min nighttime), hypotension (<90/45 mmHg), hypothermia, or orthostatic instability.",
+    "Medical risk assessment includes vital signs, hydration status, percent median BMI, BMI Z score, and rate of weight loss.",
+    "Outpatient management focuses on exposure-based, anxiety-focused work, often using CBT-oriented approaches.",
+    "Screening involves assessing psychosocial impairment, maintaining mechanisms (e.g., sensory sensitivity, fear of aversive consequences), and ruling out anorexia-spectrum illness."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Feeding and Eating Disorders",
+    "Avoidant Restrictive Food Intake Disorder",
+    "Malnutrition",
+    "Hospitalization",
+    "Psychosocial Impairment",
+    "Cognitive Behavioral Therapy",
+    "Body Mass Index",
+    "Electrocardiography"
+  ],
+  "tags_custom": [
+    "ARFID screening",
+    "hospitalization criteria",
+    "CBT for eating disorders",
+    "medical risk management",
+    "pediatric eating disorders"
+  ],
+  "reference_quote": "SAHM guidance supports admission when there is severe malnutrition (for example below 75% median BMI), dehydration, electrolyte disturbance, abnormal ECG including prolonged QTc, severe bradycardia, hypotension, hypothermia, or orthostatic instability.",
+  "document_key_topics": [
+    "ARFID diagnostic criteria and differentiation",
+    "Hospitalization thresholds for medical risk",
+    "Outpatient management strategies for ARFID",
+    "Psychosocial impairment in feeding difficulties"
+  ],
+  "chunk_heading": "FEEDING DIFFICULTIES & FALTERING GROWTH;ARFID CLINIC SCREENING AND MEDICAL RISK MANAGEMENT;HOSPITALIZATION THRESHOLDS AND MENTAL HEALTH REFERRAL;",
+  "topic": "FEEDING DIFFICULTIES & FALTERING GROWTH",
+  "subtopic": "ARFID CLINIC SCREENING AND MEDICAL RISK MANAGEMENT",
+  "sub_subtopic": "HOSPITALIZATION THRESHOLDS AND MENTAL HEALTH REFERRAL",
+  "heading_path": "FEEDING DIFFICULTIES & FALTERING GROWTH;ARFID CLINIC SCREENING AND MEDICAL RISK MANAGEMENT;HOSPITALIZATION THRESHOLDS AND MENTAL HEALTH REFERRAL;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "4\u008b1"
+}

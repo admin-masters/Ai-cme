@@ -1,0 +1,47 @@
+{
+  "chunk_summary": "This section outlines same-day referral criteria for emergency comorbidities in overnutrition and obesity management, emphasizing continuity of care and specific pathways for urgent cases.",
+  "learning_objectives": [
+    "Identify trigger symptoms and objective findings requiring same-day referrals in obesity-related emergencies.",
+    "Understand referral pathways, including emergency department, specialty clinics, or direct admission.",
+    "Apply guidelines for managing diabetic ketoacidosis, hypertension, and SCFE in pediatric patients.",
+    "Ensure continuity of care by documenting emergency presentations effectively."
+  ],
+  "key_facts": [
+    "Diabetic ketoacidosis (DKA) and hyperglycemic hyperosmolar state are critical emergencies requiring immediate referral (ISPAD 2022).",
+    "Hypertension in children is defined as blood pressure \u226595th percentile for age, sex, and height (AAP 2017).",
+    "SCFE (slipped capital femoral epiphysis) is a common orthopedic emergency in obese adolescents, requiring urgent orthopedic evaluation (POSNA guide).",
+    "Eating disorders, such as anorexia nervosa, may present with severe electrolyte imbalances necessitating same-day care (NICE NG69).",
+    "Continuity of care is critical to avoid repeated screenings and ensure effective follow-up after emergency presentations."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Obesity",
+    "Diabetic Ketoacidosis",
+    "Hypertension",
+    "Slipped Capital Femoral Epiphysis",
+    "Eating Disorders",
+    "Pediatrics",
+    "Emergency Medical Services",
+    "Continuity of Patient Care"
+  ],
+  "tags_custom": [
+    "same-day referral",
+    "pediatric emergencies",
+    "obesity comorbidities",
+    "urgent care pathways"
+  ],
+  "reference_quote": "ISPAD clinical practice consensus guidelines 2022: diabetic ketoacidosis and hyperglycemic hyperosmolar state \u2014 https://pubmed.ncbi.nlm.nih.gov/36250645/",
+  "document_key_topics": [
+    "Emergency referral criteria for obesity-related comorbidities",
+    "Management of pediatric hypertension and DKA",
+    "Continuity of care in urgent obesity management"
+  ],
+  "chunk_heading": "OVERNUTRITION & OBESITY MANAGEMENT;SEQUENCED OUTPATIENT PATHWAY AND FOLLOW-UP CADENCE;SAME-DAY REFERRAL CRITERIA FOR EMERGENCY COMORBIDITY PRESENTATIONS;",
+  "topic": "OVERNUTRITION & OBESITY MANAGEMENT",
+  "subtopic": "SEQUENCED OUTPATIENT PATHWAY AND FOLLOW-UP CADENCE",
+  "sub_subtopic": "SAME-DAY REFERRAL CRITERIA FOR EMERGENCY COMORBIDITY PRESENTATIONS",
+  "heading_path": "OVERNUTRITION & OBESITY MANAGEMENT;SEQUENCED OUTPATIENT PATHWAY AND FOLLOW-UP CADENCE;SAME-DAY REFERRAL CRITERIA FOR EMERGENCY COMORBIDITY PRESENTATIONS;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "1\u00902.2"
+}

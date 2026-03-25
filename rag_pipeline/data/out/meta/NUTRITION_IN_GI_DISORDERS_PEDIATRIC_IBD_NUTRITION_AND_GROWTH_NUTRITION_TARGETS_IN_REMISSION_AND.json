@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Nutrition in pediatric IBD focuses on growth, pubertal progression, and bone health. Targets differ between remission and active flares, emphasizing adequate intake, inflammation control, and avoiding restrictive diets unless necessary.",
+  "learning_objectives": [
+    "Understand the nutritional goals for pediatric IBD during remission and active flares.",
+    "Identify appropriate dietary strategies to support growth and manage symptoms in pediatric IBD.",
+    "Recognize the importance of correcting deficiencies (e.g., iron, vitamin D) and addressing food insecurity in pediatric IBD care."
+  ],
+  "key_facts": [
+    "In remission, an age-appropriate diet with adequate protein, calcium, vitamin D, and iron is recommended.",
+    "Linear growth and Tanner stage are key outcomes; lack of catch-up growth may indicate ongoing inflammation or inadequate intake.",
+    "During active flares, protein needs are higher due to catabolism; prioritize high-quality protein and consider oral supplements.",
+    "Nil-by-mouth strategies are reserved for severe cases like toxic megacolon, perforation risk, or imminent surgery.",
+    "Temporary lower-residue diets may help with diarrhea or stricturing symptoms but should be re-expanded as inflammation improves.",
+    "India-specific: Screen for food insecurity and cost before prescribing long-term commercial supplements.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Pediatric Inflammatory Bowel Disease",
+    "Nutritional Requirements",
+    "Growth Disorders",
+    "Dietary Proteins",
+    "Enteral Nutrition",
+    "Vitamin D Deficiency",
+    "Iron-Deficiency Anemia",
+    "Food Insecurity"
+  ],
+  "tags_custom": [
+    "Pediatric IBD nutrition",
+    "Growth preservation",
+    "Active flares management",
+    "Remission dietary strategies"
+  ],
+  "reference_quote": "The ECCO-ESPGHAN guideline emphasizes that nutrition care in pediatric IBD should prioritize normal growth, pubertal progression, and bone accrual, not just symptom control.",
+  "document_key_topics": [
+    "Nutritional strategies during remission in pediatric IBD",
+    "Dietary management during active IBD flares",
+    "Addressing growth and developmental concerns in pediatric IBD",
+    "Correcting nutritional deficiencies and managing food insecurity"
+  ],
+  "chunk_heading": "NUTRITION IN GI DISORDERS & MALABSORPTION;PEDIATRIC IBD NUTRITION AND GROWTH PRESERVATION;NUTRITION TARGETS IN REMISSION AND DURING ACTIVE FLARES;",
+  "topic": "NUTRITION IN GI DISORDERS & MALABSORPTION",
+  "subtopic": "PEDIATRIC IBD NUTRITION AND GROWTH PRESERVATION",
+  "sub_subtopic": "NUTRITION TARGETS IN REMISSION AND DURING ACTIVE FLARES",
+  "heading_path": "NUTRITION IN GI DISORDERS & MALABSORPTION;PEDIATRIC IBD NUTRITION AND GROWTH PRESERVATION;NUTRITION TARGETS IN REMISSION AND DURING ACTIVE FLARES;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2|1"
+}

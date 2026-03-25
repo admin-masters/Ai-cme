@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section outlines a structured template for advancing enteral nutrition from Day 0 to Day 3 in critically ill pediatric patients, with triggers for initiating supplemental parenteral nutrition based on clinical guidelines and evidence-based practices.",
+  "learning_objectives": [
+    "Understand the Day 0\u20133 enteral nutrition advancement protocol for critically ill pediatric patients.",
+    "Identify clinical triggers for initiating supplemental parenteral nutrition during early nutrition phases.",
+    "Analyze evidence-based guidelines for feeding in preterm and critically ill children.",
+    "Evaluate the role of early versus late parenteral nutrition in pediatric critical care."
+  ],
+  "key_facts": [
+    "Day 0\u20133 advancement targets are critical for optimizing enteral nutrition in pediatric patients.",
+    "ASPEN/SCCM 2017 guidelines emphasize early enteral nutrition initiation in critically ill children.",
+    "The PEPaNIC trial highlights risks of delayed parenteral nutrition, including increased infection rates.",
+    "ESPNIC recommends monitoring feed tolerance and adjusting nutrition plans accordingly.",
+    "Preterm infants require tailored feeding strategies to prevent feed intolerance and ensure growth.",
+    "Triggers for supplemental parenteral nutrition include inadequate enteral intake or feed intolerance."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Enteral Nutrition",
+    "Parenteral Nutrition",
+    "Critical Illness",
+    "Pediatrics",
+    "Nutritional Support",
+    "Preterm Infants",
+    "Feeding Intolerance",
+    "Clinical Guidelines"
+  ],
+  "tags_custom": [
+    "Day 0\u20133 Nutrition",
+    "Pediatric Critical Care",
+    "Supplemental Parenteral Nutrition",
+    "Feeding Protocols"
+  ],
+  "reference_quote": "\"Early versus late parenteral nutrition in critically ill children (PEPaNIC trial) highlights the importance of timing in reducing infection risks and improving outcomes.\" (https://www.nejm.org/doi/full/10.1056/NEJMoa1514762)",
+  "document_key_topics": [
+    "Day 0\u20133 enteral nutrition advancement",
+    "Triggers for supplemental parenteral nutrition",
+    "Feeding guidelines for preterm and critically ill children",
+    "Evidence-based pediatric nutrition practices"
+  ],
+  "chunk_heading": "ENTERAL & PARENTERAL NUTRITION;NUMERIC ENTERAL PRESCRIPTION WITH DAY 0\u2013 3 ADVANCEMENT TARGETS;DAY 0\u20133 ADVANCEMENT TEMPLATE AND TRIGGERS FOR SUPPLEMENTAL PARENTERAL NUTRITION;",
+  "topic": "ENTERAL & PARENTERAL NUTRITION",
+  "subtopic": "NUMERIC ENTERAL PRESCRIPTION WITH DAY 0\u2013 3 ADVANCEMENT TARGETS",
+  "sub_subtopic": "DAY 0\u20133 ADVANCEMENT TEMPLATE AND TRIGGERS FOR SUPPLEMENTAL PARENTERAL NUTRITION",
+  "heading_path": "ENTERAL & PARENTERAL NUTRITION;NUMERIC ENTERAL PRESCRIPTION WITH DAY 0\u2013 3 ADVANCEMENT TARGETS;DAY 0\u20133 ADVANCEMENT TEMPLATE AND TRIGGERS FOR SUPPLEMENTAL PARENTERAL NUTRITION;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2m5.2"
+}

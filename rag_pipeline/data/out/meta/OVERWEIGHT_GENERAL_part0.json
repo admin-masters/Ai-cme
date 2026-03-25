@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "This section discusses phenotype-based classification for managing undernutrition and overweight, emphasizing mortality risk prediction, treatment protocols, and specific guidelines for stunting, wasting, and obesity in children.",
+  "learning_objectives": [
+    "Understand phenotype-based classification for undernutrition and overweight management.",
+    "Learn outpatient care protocols for stunting, wasting, and concurrent phenotypes like WaSt.",
+    "Identify guidelines for managing stunting with overweight or obesity in children.",
+    "Apply IAP obesity principles to reduce ultra-processed foods and improve nutrient density."
+  ],
+  "key_facts": [
+    "Stunting is defined as HAZ < -2.",
+    "Moderate acute malnutrition (MAM): weight-for-height between -2 and -3 SD or MUAC 115\u2013125 mm (6\u201359 months) without edema.",
+    "Severe acute malnutrition (SAM): weight-for-height < -3 SD and/or MUAC <115 mm and/or nutritional edema.",
+    "Concurrent wasting plus stunting (WaSt) is a high-mortality phenotype requiring urgent management.",
+    "Overweight classification: weight-for-height > +2 SD under 5 years and BMI-for-age in ages 5\u201319 years.",
+    "Avoid indiscriminate extra calories for stunting with overweight; focus on nutrient density and protein sufficiency."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Overweight",
+    "Malnutrition",
+    "Stunting",
+    "Wasting Syndrome",
+    "Body Mass Index",
+    "Child Nutrition Disorders",
+    "Obesity",
+    "Micronutrients"
+  ],
+  "tags_custom": [
+    "Phenotype-based classification",
+    "Child growth standards",
+    "Double burden of malnutrition",
+    "Nutrition protocols",
+    "Indian clinical guidelines"
+  ],
+  "reference_quote": "Classify overweight using weight-for-height > +2 SD under 5 years and BMI-for-age in ages 5\u201319 years. Avoid indiscriminate 'extra calories' or appetite stimulants; prescribe nutrient density, protein sufficiency, and micronutrient repletion while reducing sugar-sweetened beverages and ultra-processed foods.",
+  "document_key_topics": [
+    "Phenotype-based classification for malnutrition",
+    "Management of stunting and wasting",
+    "Double burden of malnutrition: stunting with overweight",
+    "Guidelines for obesity management in children"
+  ],
+  "chunk_heading": "OVERWEIGHT;",
+  "topic": "OVERWEIGHT",
+  "subtopic": "General",
+  "sub_subtopic": null,
+  "heading_path": "OVERWEIGHT;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "6a.1"
+}

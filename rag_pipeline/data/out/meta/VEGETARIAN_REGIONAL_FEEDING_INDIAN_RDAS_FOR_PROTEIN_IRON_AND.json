@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "This section outlines Indian RDAs for protein, iron, and calcium across pediatric age groups, emphasizing practical meal planning, absorption strategies, and non-dairy calcium options for vegetarian diets.",
+  "learning_objectives": [
+    "Understand Indian RDAs for protein, iron, and calcium across pediatric age groups.",
+    "Learn practical meal planning strategies using daily nutrient anchors for vegetarian diets.",
+    "Recognize the importance of dietary absorption rules and hemoglobin monitoring in iron deficiency anemia management."
+  ],
+  "key_facts": [
+    "Indian RDAs for protein (g/day): 6\u201312 months: 11, 1\u20133 years: 13, 4\u20136 years: 18, 7\u20139 years: 24, 10\u201312 years: boys 36, girls 27.",
+    "Indian RDAs for iron (mg/day): 6\u201312 months: 9, 1\u20133 years: 9, 4\u20136 years: 13, 7\u20139 years: 16, 10\u201312 years: boys 21, girls 27.",
+    "Indian RDAs for calcium (mg/day): 6\u201312 months: 500, 1\u20133 years: 600, 4\u20136 years: 700, 7\u20139 years: 800, 10\u201312 years: 1000.",
+    "200 mL milk provides ~6\u20137 g protein and ~240 mg calcium; 30\u201340 g paneer/tofu provides ~5\u20138 g protein.",
+    "Non-dairy calcium sources like ragi, sesame, and fortified foods are essential for low dairy intake."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Dietary Proteins",
+    "Iron",
+    "Calcium",
+    "Recommended Dietary Allowances",
+    "Vegetarian Diet",
+    "Pediatric Nutrition",
+    "Iron Deficiency Anemia",
+    "Nutritional Requirements"
+  ],
+  "tags_custom": [
+    "Indian RDAs",
+    "Vegetarian meal planning",
+    "Pediatric feeding patterns",
+    "Non-dairy calcium sources",
+    "Iron absorption strategies"
+  ],
+  "reference_quote": "Use Indian RDA values as the default counseling targets, then translate them into daily protein anchors and meal structure. (ICMR-NIN 2020)",
+  "document_key_topics": [
+    "Indian RDAs for protein, iron, and calcium",
+    "Vegetarian meal planning for children",
+    "Non-dairy calcium options",
+    "Iron absorption and anemia management"
+  ],
+  "chunk_heading": "VEGETARIAN & REGIONAL FEEDING PATTERNS;INDIAN RDAS FOR PROTEIN IRON AND CALCIUM;",
+  "topic": "VEGETARIAN & REGIONAL FEEDING PATTERNS",
+  "subtopic": "INDIAN RDAS FOR PROTEIN IRON AND CALCIUM",
+  "sub_subtopic": null,
+  "heading_path": "VEGETARIAN & REGIONAL FEEDING PATTERNS;INDIAN RDAS FOR PROTEIN IRON AND CALCIUM;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1q"
+}

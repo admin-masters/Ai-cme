@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "India faces a high burden of pediatric undernutrition, necessitating universal screening during all under-five health contacts to prevent missed cases and improve outcomes.",
+  "learning_objectives": [
+    "Understand the prevalence and impact of pediatric undernutrition in India.",
+    "Learn the importance of universal screening for undernutrition during under-five health visits.",
+    "Identify key screening methods, including MUAC, weight-for-age, and oedema checks.",
+    "Recognize the role of community platforms like Poshan Tracker in addressing undernutrition."
+  ],
+  "key_facts": [
+    "Approximately 1 in 3 under-five children in India are stunted, with significant proportions wasted, severely wasted, or underweight (NFHS-5).",
+    "Undernutrition increases risks during common illnesses like pneumonia, diarrhea, and febrile illness due to reduced physiologic reserve.",
+    "Weight-for-age alone can mislead; adding height/length, oedema checks, and MUAC (6\u201359 months) improves detection of severe acute malnutrition.",
+    "Opportunistic screening is recommended at every under-five health contact, including sick visits, immunizations, and growth monitoring.",
+    "Community tools like Poshan Tracker enhance detection and follow-up of undernutrition outside healthcare facilities."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Malnutrition",
+    "Undernutrition",
+    "Pediatrics",
+    "Nutritional Status",
+    "Growth Monitoring",
+    "Severe Acute Malnutrition",
+    "India",
+    "Public Health"
+  ],
+  "tags_custom": [
+    "Universal Screening",
+    "Pediatric Nutrition",
+    "Community Health",
+    "Poshan Tracker"
+  ],
+  "reference_quote": "National survey data show that roughly one in three under-five children are stunted, and substantial proportions are wasted, severely wasted, or underweight. (NFHS-5, 2019-21)",
+  "document_key_topics": [
+    "Burden of pediatric undernutrition in India",
+    "Universal screening for undernutrition",
+    "Screening methods and tools (e.g., MUAC, Poshan Tracker)",
+    "Operational implications for Indian pediatrics"
+  ],
+  "chunk_heading": "MALNUTRITION\u2014UNDERNUTRITION: SCREENING & CLASSIFICATION;INDIA BURDEN AND WHY UNIVERSAL SCREENING IS REQUIRED;",
+  "topic": "MALNUTRITION\u2014UNDERNUTRITION: SCREENING & CLASSIFICATION",
+  "subtopic": "INDIA BURDEN AND WHY UNIVERSAL SCREENING IS REQUIRED",
+  "sub_subtopic": null,
+  "heading_path": "MALNUTRITION\u2014UNDERNUTRITION: SCREENING & CLASSIFICATION;INDIA BURDEN AND WHY UNIVERSAL SCREENING IS REQUIRED;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1c"
+}

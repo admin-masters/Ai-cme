@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section discusses pharmacotherapy for obesity management, focusing on dosing and safety monitoring of orlistat, metformin, and GLP-1 receptor agonists, including semaglutide and liraglutide, alongside lifestyle interventions.",
+  "learning_objectives": [
+    "Understand the dosing protocols for orlistat, metformin, and GLP-1 receptor agonists in obesity management.",
+    "Identify safety monitoring requirements and adverse effects for each medication.",
+    "Evaluate the role of structured lifestyle interventions alongside pharmacotherapy.",
+    "Recognize contraindications and precautions for GLP-1 receptor agonists."
+  ],
+  "key_facts": [
+    "Orlistat: 120 mg orally three times daily with fat-containing meals; adverse effects include steatorrhea and abdominal cramps.",
+    "Semaglutide: Weekly subcutaneous dosing escalates from 0.25 mg to 2.4 mg; STEP TEENS trial showed ~16% BMI reduction over 68 weeks.",
+    "Liraglutide: Start at 0.6 mg daily, titrate weekly to 3.0 mg; slower escalation if adverse effects occur.",
+    "Metformin: Initial dose 500 mg daily with food, titrate to 1000 mg twice daily; useful for T2DM, PCOS, and antipsychotic-associated weight gain.",
+    "GLP-1 receptor agonists: Avoid in patients with medullary thyroid carcinoma or MEN2; monitor for pancreatitis and gallbladder disease."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Obesity",
+    "Pharmacotherapy",
+    "Orlistat",
+    "Metformin",
+    "GLP-1 Receptor Agonists",
+    "Semaglutide",
+    "Liraglutide",
+    "Safety Monitoring"
+  ],
+  "tags_custom": [
+    "Obesity management",
+    "Medication dosing",
+    "Adverse effects",
+    "Lifestyle intervention",
+    "Pediatric obesity"
+  ],
+  "reference_quote": "In the STEP TEENS trial, semaglutide 2.4 mg weekly plus lifestyle produced a mean BMI reduction of about 16% over 68 weeks. (Reference 3)",
+  "document_key_topics": [
+    "Pharmacotherapy for obesity",
+    "GLP-1 receptor agonist dosing and safety",
+    "Role of metformin in obesity-related comorbidities",
+    "Lifestyle interventions in obesity management"
+  ],
+  "chunk_heading": "OVERNUTRITION & OBESITY MANAGEMENT;PHARMACOTHERAPY AND BARIATRIC SURGERY ESCALATION;ORLISTAT, METFORMIN, AND GLP-1 AGONIST DOSING WITH SAFETY MONITORING;",
+  "topic": "OVERNUTRITION & OBESITY MANAGEMENT",
+  "subtopic": "PHARMACOTHERAPY AND BARIATRIC SURGERY ESCALATION",
+  "sub_subtopic": "ORLISTAT, METFORMIN, AND GLP-1 AGONIST DOSING WITH SAFETY MONITORING",
+  "heading_path": "OVERNUTRITION & OBESITY MANAGEMENT;PHARMACOTHERAPY AND BARIATRIC SURGERY ESCALATION;ORLISTAT, METFORMIN, AND GLP-1 AGONIST DOSING WITH SAFETY MONITORING;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u00982"
+}

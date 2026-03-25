@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "This section defines acute malnutrition in children under 5 in India, outlines severity criteria, and provides guidelines for level-of-care decisions, including outpatient and facility-based management, follow-up, and referral pathways.",
+  "learning_objectives": [
+    "Understand the anthropometric criteria for diagnosing MAM and SAM in children under 5 years.",
+    "Learn the level-of-care decision framework for managing acute malnutrition in India.",
+    "Identify medical complications that necessitate facility-based care for malnourished children.",
+    "Recognize the importance of follow-up and referral systems in community-based malnutrition programs."
+  ],
+  "key_facts": [
+    "Moderate Acute Malnutrition (MAM): Weight-for-length/height z-score between -2 and -3 SD.",
+    "Severe Acute Malnutrition (SAM): Weight-for-length/height z-score <-3 SD, MUAC <115 mm (6\u201359 months), or bilateral pitting edema.",
+    "Uncomplicated SAM can be managed in the community if a structured program exists; otherwise, refer to a facility.",
+    "Infants <6 months who are visibly wasted or too weak to suckle require urgent facility assessment.",
+    "Follow-up weekly initially; escalate care if temperature \u226539\u00b0C, hypothermia, new edema, or weight loss for two consecutive weeks.",
+    "Link eligible families to Anganwadi centres (AWC) under ICDS to reduce loss to follow-up."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Malnutrition",
+    "Child Nutrition Disorders",
+    "Anthropometry",
+    "Community Health Services",
+    "Nutritional Support",
+    "India",
+    "Infant Nutrition",
+    "Pediatric Assessment"
+  ],
+  "tags_custom": [
+    "Acute Malnutrition",
+    "Child Health Guidelines",
+    "Community-Based Management",
+    "Nutrition Rehabilitation",
+    "India Public Health"
+  ],
+  "reference_quote": "Guideline: Prevention and management of wasting and nutritional oedema in infants and children under 5 years \u2014 https://www.who.int/publications/i/item",
+  "document_key_topics": [
+    "Definitions and criteria for MAM and SAM",
+    "Level-of-care decision framework for malnutrition",
+    "Community-based and facility-based management",
+    "Follow-up and referral systems in India"
+  ],
+  "chunk_heading": "MACRONUTRIENT NUTRITION ACROSS CHILDHOOD;DEFINITIONS AND LEVEL OF CARE FOR ACUTE MALNUTRITION IN INDIA;",
+  "topic": "MACRONUTRIENT NUTRITION ACROSS CHILDHOOD",
+  "subtopic": "DEFINITIONS AND LEVEL OF CARE FOR ACUTE MALNUTRITION IN INDIA",
+  "sub_subtopic": null,
+  "heading_path": "MACRONUTRIENT NUTRITION ACROSS CHILDHOOD;DEFINITIONS AND LEVEL OF CARE FOR ACUTE MALNUTRITION IN INDIA;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1b"
+}

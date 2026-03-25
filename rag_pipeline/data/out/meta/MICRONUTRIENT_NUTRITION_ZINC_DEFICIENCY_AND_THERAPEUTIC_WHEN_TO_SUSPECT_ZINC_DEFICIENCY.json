@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "Zinc deficiency beyond diarrhea should be suspected in cases of poor growth, recurrent infections, or characteristic dermatitis. Management includes clinical diagnosis, therapeutic zinc trials, and dietary diversification, avoiding prolonged high doses to prevent copper deficiency.",
+  "learning_objectives": [
+    "Identify clinical signs of zinc deficiency beyond diarrhea, including poor growth and characteristic dermatitis.",
+    "Understand the role of dietary factors and comorbidities in zinc deficiency, particularly in high-risk pediatric populations.",
+    "Learn appropriate therapeutic zinc dosing and the importance of avoiding prolonged high intake.",
+    "Recognize when to refer for specialist evaluation, such as in suspected acrodermatitis enteropathica."
+  ],
+  "key_facts": [
+    "Zinc deficiency may present with poor linear growth, recurrent infections, poor wound healing, or periorificial/acral dermatitis with alopecia.",
+    "High-risk groups include children with diets high in phytates, recurrent diarrhea, celiac disease, inflammatory bowel disease, or severe acute malnutrition (SAM).",
+    "Therapeutic zinc dosing is typically 1\u20132 mg/kg/day of elemental zinc for several weeks, not exceeding daily upper limits for age.",
+    "Prolonged high zinc intake can induce copper deficiency, so indefinite dosing should be avoided.",
+    "Expected response to zinc therapy includes improved appetite, fewer infections, and skin healing within weeks.",
+    "In suspected acrodermatitis enteropathica, early referral is recommended rather than repeated short zinc trials."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Zinc Deficiency",
+    "Acrodermatitis Enteropathica",
+    "Dietary Supplements",
+    "Pediatrics",
+    "Malnutrition",
+    "Celiac Disease",
+    "Inflammatory Bowel Diseases",
+    "Copper Deficiency"
+  ],
+  "tags_custom": [
+    "therapeutic zinc",
+    "pediatric nutrition",
+    "micronutrient deficiencies",
+    "clinical management",
+    "dietary interventions"
+  ],
+  "reference_quote": "Zinc deficiency should be suspected beyond diarrhea when there is a pattern of poor linear growth or weight gain, recurrent infections, poor wound healing, or characteristic dermatitis.",
+  "document_key_topics": [
+    "Clinical signs of zinc deficiency beyond diarrhea",
+    "Therapeutic zinc dosing and management",
+    "High-risk pediatric populations for zinc deficiency",
+    "Referral and specialist management in acrodermatitis enteropathica"
+  ],
+  "chunk_heading": "MICRONUTRIENT NUTRITION;ZINC DEFICIENCY AND THERAPEUTIC ZINC DECISIONS;WHEN TO SUSPECT ZINC DEFICIENCY BEYOND DIARRHEA;",
+  "topic": "MICRONUTRIENT NUTRITION",
+  "subtopic": "ZINC DEFICIENCY AND THERAPEUTIC ZINC DECISIONS",
+  "sub_subtopic": "WHEN TO SUSPECT ZINC DEFICIENCY BEYOND DIARRHEA",
+  "heading_path": "MICRONUTRIENT NUTRITION;ZINC DEFICIENCY AND THERAPEUTIC ZINC DECISIONS;WHEN TO SUSPECT ZINC DEFICIENCY BEYOND DIARRHEA;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "1\u008c2"
+}

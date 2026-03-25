@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "Diagnostic approaches for food allergy in infants under six months focus on avoiding overdiagnosis, using targeted elimination diets, and age-appropriate testing strategies to differentiate between IgE and non-IgE mediated conditions.",
+  "learning_objectives": [
+    "Understand the diagnostic challenges of food allergies in infants under six months.",
+    "Learn appropriate elimination diet strategies for suspected cow\u2019s milk protein allergy (CMPA).",
+    "Differentiate between IgE-mediated and non-IgE-mediated food allergy presentations in infants.",
+    "Recognize red flags that warrant further investigation beyond food allergy."
+  ],
+  "key_facts": [
+    "Infants under six months are prone to overdiagnosis due to symptom overlap with colic, reflux, and loose stools.",
+    "For suspected immune-mediated CMPA, use single-food cow\u2019s milk protein elimination with a short trial period and objective endpoints.",
+    "In exclusively breastfed infants, maternal dairy elimination is recommended, with calcium and vitamin D supplementation if prolonged.",
+    "For formula-fed infants, start with extensively hydrolyzed formula (eHF) and escalate to amino acid formula (AAF) only for severe cases or eHF failure.",
+    "Avoid soy formula in infants under six months due to higher cross-reactivity and weaker evidence.",
+    "Red flags like poor growth, persistent vomiting, dehydration, or large-volume blood require evaluation for non-allergic causes.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Food Hypersensitivity",
+    "Cow's Milk Protein Allergy",
+    "Infant Nutrition",
+    "Elimination Diet",
+    "Immunoglobulin E",
+    "Food-Specific IgE",
+    "Gastrointestinal Diseases",
+    "Breastfeeding"
+  ],
+  "tags_custom": [
+    "CMPA management",
+    "infant food allergy",
+    "non-IgE mediated allergy",
+    "elimination diet strategies"
+  ],
+  "reference_quote": "Infants under 6 months are vulnerable to overdiagnosis because common conditions (colic, reflux, loose stools) overlap with non-IgE CMPA phenotypes. Use higher diagnostic thresholds and narrower trials. (Source: Cow\u2019s Milk Protein Allergy, IAP Chapter 075)",
+  "document_key_topics": [
+    "Diagnostic strategies for food allergies in infants",
+    "Management of cow\u2019s milk protein allergy (CMPA)",
+    "Elimination diet protocols for infants",
+    "Red flags for non-allergic conditions in infants"
+  ],
+  "chunk_heading": "FOOD ALLERGY & THERAPEUTIC ELIMINATION DIETS;CLINICAL RISK MODIFIERS THAT CHANGE MANAGEMENT;DIAGNOSTIC MODIFICATIONS IN INFANTS UNDER SIX MONTHS;",
+  "topic": "FOOD ALLERGY & THERAPEUTIC ELIMINATION DIETS",
+  "subtopic": "CLINICAL RISK MODIFIERS THAT CHANGE MANAGEMENT",
+  "sub_subtopic": "DIAGNOSTIC MODIFICATIONS IN INFANTS UNDER SIX MONTHS",
+  "heading_path": "FOOD ALLERGY & THERAPEUTIC ELIMINATION DIETS;CLINICAL RISK MODIFIERS THAT CHANGE MANAGEMENT;DIAGNOSTIC MODIFICATIONS IN INFANTS UNDER SIX MONTHS;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "1\u00941"
+}

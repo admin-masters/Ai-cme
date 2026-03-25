@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "Emergency referral criteria for feeding difficulties and faltering growth include systemic danger signs, aspiration risks, and gastrointestinal surgical red flags requiring immediate stabilization and escalation.",
+  "learning_objectives": [
+    "Identify systemic danger signs requiring same-day emergency referral in children with feeding difficulties.",
+    "Recognize aspiration risks and unsafe feeding behaviors that necessitate urgent intervention.",
+    "Understand gastrointestinal surgical red flags and their implications for emergency care.",
+    "Apply IMNCI guidelines to assess dehydration, shock, and severe acute malnutrition in pediatric cases."
+  ],
+  "key_facts": [
+    "IMNCI danger signs include inability to drink or breastfeed, persistent vomiting, convulsions, lethargy, or unresponsiveness.",
+    "Dehydration indicators: dry mucosa, sunken eyes, poor perfusion, prolonged capillary refill.",
+    "Aspiration risks: choking, coughing, wet/gurgly voice, color change during feeds, recurrent respiratory infections.",
+    "Gastrointestinal red flags: bilious vomiting, abdominal distension with vomiting, hematemesis, or blood in stool with systemic illness.",
+    "Severe acute malnutrition requires escalation if complications, edema, or poor appetite are present.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Feeding Behavior",
+    "Faltering Growth",
+    "Malnutrition",
+    "Dehydration",
+    "Aspiration Pneumonia",
+    "Gastrointestinal Diseases",
+    "Emergency Medical Services",
+    "Pediatric Assessment"
+  ],
+  "tags_custom": [
+    "feeding difficulties",
+    "urgent referral criteria",
+    "pediatric triage",
+    "aspiration risk",
+    "severe malnutrition"
+  ],
+  "reference_quote": "Same-day emergency referral or transfer to an ED is indicated for general danger signs aligned with IMNCI urgent logic: inability to drink or breastfeed, persistent vomiting preventing intake, convulsions, lethargy or unresponsiveness, or other signs of severe systemic illness.",
+  "document_key_topics": [
+    "Systemic danger signs in pediatric feeding difficulties",
+    "Aspiration risks and unsafe feeding behaviors",
+    "Gastrointestinal surgical red flags in children",
+    "Management of severe acute malnutrition"
+  ],
+  "chunk_heading": "FEEDING DIFFICULTIES & FALTERING GROWTH;TRIAGE RED FLAGS AND URGENT REFERRAL DECISIONS;SAME DAY EMERGENCY REFERRAL CRITERIA;",
+  "topic": "FEEDING DIFFICULTIES & FALTERING GROWTH",
+  "subtopic": "TRIAGE RED FLAGS AND URGENT REFERRAL DECISIONS",
+  "sub_subtopic": "SAME DAY EMERGENCY REFERRAL CRITERIA",
+  "heading_path": "FEEDING DIFFICULTIES & FALTERING GROWTH;TRIAGE RED FLAGS AND URGENT REFERRAL DECISIONS;SAME DAY EMERGENCY REFERRAL CRITERIA;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1e1"
+}

@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section discusses immune mechanisms predicting symptom timing in pediatric food allergies, distinguishing IgE-mediated, non-IgE-mediated, and mixed-pathway reactions, and their implications for diagnosis, management, and oral tolerance development.",
+  "learning_objectives": [
+    "Understand the immune mechanisms underlying IgE-mediated, non-IgE-mediated, and mixed-pathway food allergy reactions.",
+    "Identify the timing and clinical presentation of immediate and delayed food allergy symptoms in children.",
+    "Evaluate the role of oral tolerance and the risks of unnecessary food avoidance in pediatric food allergy management.",
+    "Recognize the diagnostic limitations of laboratory allergy tests in non-IgE-mediated food allergies."
+  ],
+  "key_facts": [
+    "Immediate food allergy reactions are IgE-mediated and occur within minutes to 1\u20132 hours, presenting with urticaria, angioedema, wheeze, vomiting, or anaphylaxis.",
+    "Delayed gastrointestinal syndromes, typically non-IgE-mediated, present hours later with symptoms like repetitive vomiting, diarrhea, and bloodstreaked stools.",
+    "Mixed-pathway diseases, such as eosinophilic esophagitis (EoE), may show clinical improvement without histologic remission.",
+    "Prolonged food avoidance after an unconfirmed diagnosis can increase the risk of allergic reactions upon re-exposure.",
+    "Baked milk or egg tolerance may develop earlier than tolerance to less-heated forms, serving as a phenotype marker but not a reason for unsupervised testing."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Food Hypersensitivity",
+    "Immunoglobulin E",
+    "Eosinophilic Esophagitis",
+    "Oral Tolerance",
+    "Gastrointestinal Diseases",
+    "Anaphylaxis",
+    "Pediatrics",
+    "Allergy Testing"
+  ],
+  "tags_custom": [
+    "pediatric food allergy",
+    "immune mechanisms",
+    "symptom timing",
+    "oral tolerance",
+    "allergy management"
+  ],
+  "reference_quote": "Immediate reactions are usually IgE-mediated: food proteins cross-link allergen-specific IgE on mast cells and basophils, driving rapid mediator release with urticaria, angioedema, wheeze or stridor, vomiting, and potential anaphylaxis within minutes to 1\u20132 hours.",
+  "document_key_topics": [
+    "IgE-mediated food allergy mechanisms",
+    "Non-IgE-mediated delayed reactions",
+    "Mixed-pathway diseases like eosinophilic esophagitis",
+    "Oral tolerance and food avoidance risks"
+  ],
+  "chunk_heading": "FOOD ALLERGY & THERAPEUTIC ELIMINATION DIETS;FOUNDATIONS AND RISK STRATIFICATION FOR PEDIATRIC FOOD ALLERGY;IMMUNE MECHANISMS THAT PREDICT SYMPTOM TIMING;",
+  "topic": "FOOD ALLERGY & THERAPEUTIC ELIMINATION DIETS",
+  "subtopic": "FOUNDATIONS AND RISK STRATIFICATION FOR PEDIATRIC FOOD ALLERGY",
+  "sub_subtopic": "IMMUNE MECHANISMS THAT PREDICT SYMPTOM TIMING",
+  "heading_path": "FOOD ALLERGY & THERAPEUTIC ELIMINATION DIETS;FOUNDATIONS AND RISK STRATIFICATION FOR PEDIATRIC FOOD ALLERGY;IMMUNE MECHANISMS THAT PREDICT SYMPTOM TIMING;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1c2"
+}

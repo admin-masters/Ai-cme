@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section outlines risk-tiered feeding strategies and follow-up schedules for preterm, LBW, and ELBW infants post-discharge, emphasizing structured nutrition plans and monitoring based on clinical risk factors and growth outcomes.",
+  "learning_objectives": [
+    "Understand the criteria for assigning preterm, LBW, and ELBW infants to risk tiers for post-discharge nutrition.",
+    "Learn the default feeding strategies and follow-up cadence for each risk tier.",
+    "Identify key clinical conditions (e.g., EUGR, BPD, CHD) that necessitate higher-intensity nutrition plans.",
+    "Recognize the importance of early follow-up and structured nutrient enrichment in high-risk infants."
+  ],
+  "key_facts": [
+    "Tier 3 (very high risk) includes infants born <32 weeks, birth weight <1.5 kg, or with conditions like EUGR, BPD, CHD, or post-NEC surgery.",
+    "Tier 2 (moderate risk) includes infants born 32\u201334 weeks, discharge weight 1.5\u20132.0 kg, or with mild respiratory morbidity or poor weight gain (<15 g/day).",
+    "Tier 1 (lower risk) includes late preterm infants (34\u201336+ weeks) with stable growth and no major comorbidities.",
+    "Follow-up cadence: Tier 3 within 24\u201372 hours, Tier 2 within 1 week, Tier 1 monthly.",
+    "Default feeding for Tier 3 includes nutrient-enriched human milk or post-discharge formula, while Tier 1 uses standard feeding without enrichment."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Infant, Premature",
+    "Infant, Low Birth Weight",
+    "Nutritional Support",
+    "Postnatal Care",
+    "Growth Disorders",
+    "Bronchopulmonary Dysplasia",
+    "Congenital Heart Defects",
+    "Enterocolitis, Necrotizing"
+  ],
+  "tags_custom": [
+    "risk-tiered nutrition",
+    "post-discharge feeding",
+    "preterm infant care",
+    "growth monitoring",
+    "nutritional enrichment"
+  ],
+  "reference_quote": "Nutrition for the preterm, VLBW infant after NICU discharge \u2014 https://www.aap.org/en/patient-care/newborn-and-infant-...",
+  "document_key_topics": [
+    "Risk-tiered feeding strategies for preterm/LBW/ELBW infants",
+    "Follow-up schedules based on clinical risk",
+    "Nutritional enrichment and feeding safety",
+    "Growth monitoring and response-based adjustments"
+  ],
+  "chunk_heading": "PRETERM/LBW/ELBW POST-DISCHARGE NUTRITION;CLINICAL BURDEN AND DISCHARGE PHENOTYPING FOR NUTRITION PLANS;RISK TIER FEEDING INTENSITY AND FOLLOW-UP CADENCE;",
+  "topic": "PRETERM/LBW/ELBW POST-DISCHARGE NUTRITION",
+  "subtopic": "CLINICAL BURDEN AND DISCHARGE PHENOTYPING FOR NUTRITION PLANS",
+  "sub_subtopic": "RISK TIER FEEDING INTENSITY AND FOLLOW-UP CADENCE",
+  "heading_path": "PRETERM/LBW/ELBW POST-DISCHARGE NUTRITION;CLINICAL BURDEN AND DISCHARGE PHENOTYPING FOR NUTRITION PLANS;RISK TIER FEEDING INTENSITY AND FOLLOW-UP CADENCE;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1d3"
+}

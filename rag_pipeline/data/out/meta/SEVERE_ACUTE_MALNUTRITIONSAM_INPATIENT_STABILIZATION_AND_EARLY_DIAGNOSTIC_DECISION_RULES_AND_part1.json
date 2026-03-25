@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section focuses on diagnostic decision rules and resource-adapted test interpretation for inpatient management of severe acute malnutrition (SAM), emphasizing TB and HIV evaluation when feeding and antibiotics fail, per national guidelines.",
+  "learning_objectives": [
+    "Understand diagnostic decision rules for severe acute malnutrition (SAM) in inpatient settings.",
+    "Learn resource-adapted test interpretation for TB and HIV in malnourished children.",
+    "Recognize the limitations of TST in severe malnutrition and alternative diagnostic approaches.",
+    "Apply national algorithms for targeted evaluation in cases of non-response to feeding and antibiotics."
+  ],
+  "key_facts": [
+    "Failure to respond to feeding and antibiotics should prompt TB and HIV evaluation per national algorithms.",
+    "Tuberculin skin test (TST) can yield false negatives in cases of severe malnutrition.",
+    "National Tuberculosis Elimination Programme provides specific guidelines for pediatric TB management.",
+    "Resource-adapted diagnostic approaches are critical in low-resource settings for SAM management.",
+    "Operational guidelines for SAM management were established by the Ministry of Health and Family Welfare in 2011."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Severe Acute Malnutrition",
+    "Tuberculosis",
+    "HIV Infections",
+    "Pediatric Nutrition Disorders",
+    "Diagnostic Techniques and Procedures",
+    "Malnutrition",
+    "Antibiotics",
+    "Skin Tests"
+  ],
+  "tags_custom": [
+    "SAM inpatient care",
+    "TB and HIV diagnostics",
+    "Resource-adapted testing",
+    "National guidelines",
+    "Pediatric malnutrition"
+  ],
+  "reference_quote": "Failure to respond to verified feeding and antibiotics should trigger targeted evaluation for TB and HIV per national algorithms, recognizing that TST can be falsely negative in severe malnutrition.",
+  "document_key_topics": [
+    "Severe acute malnutrition (SAM) management",
+    "Inpatient stabilization and monitoring",
+    "TB and HIV diagnostic evaluation",
+    "Resource-adapted test interpretation"
+  ],
+  "chunk_heading": "SEVERE ACUTE MALNUTRITION-(SAM) MANAGEMENT;INPATIENT STABILIZATION AND EARLY MONITORING;DIAGNOSTIC DECISION RULES AND RESOURCE-ADAPTED TEST  INTERPRETATION;",
+  "topic": "SEVERE ACUTE MALNUTRITION-(SAM) MANAGEMENT",
+  "subtopic": "INPATIENT STABILIZATION AND EARLY MONITORING",
+  "sub_subtopic": "DIAGNOSTIC DECISION RULES AND RESOURCE-ADAPTED TEST  INTERPRETATION",
+  "heading_path": "SEVERE ACUTE MALNUTRITION-(SAM) MANAGEMENT;INPATIENT STABILIZATION AND EARLY MONITORING;DIAGNOSTIC DECISION RULES AND RESOURCE-ADAPTED TEST  INTERPRETATION;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "3l2.2"
+}

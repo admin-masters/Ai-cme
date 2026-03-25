@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "This section discusses strategies to prevent cholestasis and monitor metabolic bone disease in patients on prolonged parenteral nutrition, focusing on risk factors, prevention, and monitoring protocols.",
+  "learning_objectives": [
+    "Understand the risk factors and prevention strategies for cholestasis in patients on prolonged parenteral nutrition.",
+    "Learn the importance of early enteral feeding and cycling PN to reduce hepatobiliary complications.",
+    "Identify monitoring protocols for liver enzymes, conjugated bilirubin, and bone health markers in PN-dependent patients.",
+    "Recognize the role of lipid emulsions and nutrient adjustments in managing intestinal failure\u2013associated liver disease (IFALD)."
+  ],
+  "key_facts": [
+    "Cholestasis risk increases with prematurity, sepsis, prolonged lack of enteral feeding, and overfeeding (especially excess dextrose and lipid).",
+    "Cycling PN (e.g., 12\u201318 hours/day) can provide a hepatic rest period and reduce cholestasis risk.",
+    "Mixed-oil or fish-oil lipid emulsions are preferred for prolonged intestinal failure when available.",
+    "Monitor liver enzymes and conjugated bilirubin weekly in children on ongoing PN.",
+    "Metabolic bone disease risk is highest with prolonged PN, inadequate calcium/phosphate delivery, chronic inflammation, steroid use, and poor vitamin D status.",
+    "Periodic monitoring of calcium, phosphate, magnesium, and alkaline phosphatase is essential to detect metabolic bone disease."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Parenteral Nutrition",
+    "Cholestasis",
+    "Intestinal Failure",
+    "Liver Diseases",
+    "Metabolic Bone Disease",
+    "Calcium-Phosphorus Metabolism",
+    "Vitamin D Deficiency",
+    "Lipid Emulsions"
+  ],
+  "tags_custom": [
+    "PN complications",
+    "cholestasis prevention",
+    "metabolic monitoring",
+    "pediatric nutrition",
+    "IFALD management"
+  ],
+  "reference_quote": "Cholestasis risk rises with prematurity, sepsis, prolonged lack of enteral stimulation, and iatrogenic overfeeding (especially excess dextrose and lipid).",
+  "document_key_topics": [
+    "Cholestasis prevention in prolonged PN",
+    "Monitoring protocols for liver and bone health",
+    "Role of lipid emulsions in IFALD management",
+    "Risk factors for metabolic bone disease"
+  ],
+  "chunk_heading": "ENTERAL & PARENTERAL NUTRITION;MONITORING THRESHOLDS AND COMPLICATION RESPONSE PATHWAYS;PREVENTING CHOLESTASIS AND MONITORING METABOLIC BONE DISEASE;",
+  "topic": "ENTERAL & PARENTERAL NUTRITION",
+  "subtopic": "MONITORING THRESHOLDS AND COMPLICATION RESPONSE PATHWAYS",
+  "sub_subtopic": "PREVENTING CHOLESTASIS AND MONITORING METABOLIC BONE DISEASE",
+  "heading_path": "ENTERAL & PARENTERAL NUTRITION;MONITORING THRESHOLDS AND COMPLICATION RESPONSE PATHWAYS;PREVENTING CHOLESTASIS AND MONITORING METABOLIC BONE DISEASE;",
+  "reference_count": 1,
+  "has_guidelines": false,
+  "sequence": "2\u00904.1"
+}

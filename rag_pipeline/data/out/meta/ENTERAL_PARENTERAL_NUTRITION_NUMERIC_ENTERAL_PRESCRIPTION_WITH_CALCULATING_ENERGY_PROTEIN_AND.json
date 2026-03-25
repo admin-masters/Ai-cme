@@ -1,0 +1,47 @@
+{
+  "chunk_summary": "Guidelines for calculating energy, protein, and fluid targets in enteral nutrition, tailored to illness phase, body composition, and constraints, with specific numeric targets for stable and critically ill children.",
+  "learning_objectives": [
+    "Understand how to calculate energy, protein, and fluid targets for enteral nutrition based on illness phase and body composition.",
+    "Learn to use ICMR\u2013NIN 2020 tables and REE estimation methods for pediatric nutrition planning.",
+    "Identify appropriate protein and calorie targets for critically ill children to prevent overfeeding and preserve lean tissue.",
+    "Apply fluid management strategies using Holliday\u2013Segar maintenance and adjust for non-nutrition fluids."
+  ],
+  "key_facts": [
+    "ICMR\u2013NIN 2020 tables suggest 90 kcal/kg/day and 1.24 g/kg/day protein for 0\u20136 months, decreasing to 60 kcal/kg/day and 0.89 g/kg/day for 7\u20139 years.",
+    "In acute critical illness, calorie delivery should not exceed measured or estimated REE, which can be calculated using Schofield or FAO/WHO/UNU equations.",
+    "Critically ill children require at least 1.5 g/kg/day protein, often higher in infants, to preserve lean tissue.",
+    "Fluid targets should start with Holliday\u2013Segar maintenance (100/50/20 mL/kg/day) beyond the neonatal period, adjusted for non-nutrition fluids.",
+    "Standard volumes should not be used; prescriptions must be tailored to the child\u2019s condition and constraints."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Enteral Nutrition",
+    "Parenteral Nutrition",
+    "Critical Illness",
+    "Energy Metabolism",
+    "Dietary Proteins",
+    "Fluid Therapy",
+    "Pediatrics",
+    "Nutritional Requirements"
+  ],
+  "tags_custom": [
+    "Pediatric Nutrition",
+    "Critical Care Nutrition",
+    "Energy and Protein Targets",
+    "Fluid Management"
+  ],
+  "reference_quote": "In acute critical illness, avoid overfeeding: calorie delivery should not exceed measured or estimated REE. If indirect calorimetry is unavailable, estimate REE using Schofield or FAO/WHO/UNU equations without stress factors.",
+  "document_key_topics": [
+    "Energy and protein requirements for pediatric nutrition",
+    "Nutritional management in critical illness",
+    "Fluid management in enteral nutrition"
+  ],
+  "chunk_heading": "ENTERAL & PARENTERAL NUTRITION;NUMERIC ENTERAL PRESCRIPTION WITH DAY 0\u2013 3 ADVANCEMENT TARGETS;CALCULATING ENERGY PROTEIN AND FLUID TARGETS FOR PRESCRIPTIONS;",
+  "topic": "ENTERAL & PARENTERAL NUTRITION",
+  "subtopic": "NUMERIC ENTERAL PRESCRIPTION WITH DAY 0\u2013 3 ADVANCEMENT TARGETS",
+  "sub_subtopic": "CALCULATING ENERGY PROTEIN AND FLUID TARGETS FOR PRESCRIPTIONS",
+  "heading_path": "ENTERAL & PARENTERAL NUTRITION;NUMERIC ENTERAL PRESCRIPTION WITH DAY 0\u2013 3 ADVANCEMENT TARGETS;CALCULATING ENERGY PROTEIN AND FLUID TARGETS FOR PRESCRIPTIONS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1h1"
+}

@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section focuses on micronutrient, hydration, and tube feeding strategies in cystic fibrosis (CF), emphasizing proactive supplementation, monitoring schedules, and management of gastrointestinal complications to optimize nutrition and growth in CF patients.",
+  "learning_objectives": [
+    "Understand the importance of proactive micronutrient supplementation in CF care, including fat-soluble vitamins and sodium.",
+    "Learn appropriate dosing ranges and monitoring schedules for vitamins A, D, E, and K in CF patients.",
+    "Recognize strategies for managing gastrointestinal complications such as DIOS, reflux, and vomiting in CF.",
+    "Explore the use of overnight NG or gastrostomy feeds to meet growth targets in CF patients."
+  ],
+  "key_facts": [
+    "Fat-soluble vitamin dosing: Vitamin A (0\u201312 months) 750\u20131500 \u00b5g RAE/day; Vitamin D (infants) 400\u2013500 IU/day, older children 800\u20132000 IU/day (up to 4000 IU in selected cases); Vitamin E (0\u201312 months) 40\u201380 IU/day; Vitamin K (0\u201312 months) 0.3\u20130.5 mg/day.",
+    "Sodium supplementation: Baseline 1\u20132 mmol/kg/day in infants, increased to up to 4 mmol/kg/day during high-loss states (e.g., hot weather, fever, diarrhea).",
+    "Salt depletion can cause dehydration and hypochloremic metabolic alkalosis (pseudo-Bartter phenotype).",
+    "Monitor fat-soluble vitamin levels 3\u20136 months after starting or changing supplements, then annually where feasible.",
+    "Overnight NG or gastrostomy feeds can provide 30\u201350% of caloric needs when growth targets are unmet despite confirmed adherence."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Cystic Fibrosis",
+    "Micronutrients",
+    "Hydration",
+    "Fat-Soluble Vitamins",
+    "Sodium",
+    "Gastrointestinal Diseases",
+    "Enteral Nutrition",
+    "Metabolic Alkalosis"
+  ],
+  "tags_custom": [
+    "CF nutrition strategies",
+    "tube feeding",
+    "hydration management",
+    "vitamin supplementation",
+    "growth optimization"
+  ],
+  "reference_quote": "Fat-soluble vitamins should be monitored 3\u20136 months after starting or changing supplements and then at least annually where feasible. (ESPEN\u2013ESPGHAN\u2013ECFS guideline on nutrition care for cystic fibrosis)",
+  "document_key_topics": [
+    "Micronutrient supplementation in CF",
+    "Hydration and sodium management in CF",
+    "Gastrointestinal complication management in CF",
+    "Tube feeding strategies for growth optimization in CF"
+  ],
+  "chunk_heading": "NUTRITION IN CHRONIC CARDIORESPIRATORY DISEASE;CONDITION FOCUSED NUTRITION PATHWAYS FOR CHD CLD AND CF;MICRONUTRIENT HYDRATION AND TUBE FEEDING STRATEGIES IN CYSTIC FIBROSIS;",
+  "topic": "NUTRITION IN CHRONIC CARDIORESPIRATORY DISEASE",
+  "subtopic": "CONDITION FOCUSED NUTRITION PATHWAYS FOR CHD CLD AND CF",
+  "sub_subtopic": "MICRONUTRIENT HYDRATION AND TUBE FEEDING STRATEGIES IN CYSTIC FIBROSIS",
+  "heading_path": "NUTRITION IN CHRONIC CARDIORESPIRATORY DISEASE;CONDITION FOCUSED NUTRITION PATHWAYS FOR CHD CLD AND CF;MICRONUTRIENT HYDRATION AND TUBE FEEDING STRATEGIES IN CYSTIC FIBROSIS;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1\u00924"
+}

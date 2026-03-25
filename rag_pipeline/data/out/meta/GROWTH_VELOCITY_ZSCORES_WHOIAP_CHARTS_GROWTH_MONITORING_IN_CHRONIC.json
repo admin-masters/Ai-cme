@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "This section discusses growth monitoring in chronic conditions using WHO/IAP charts, emphasizing adaptations in anthropometry for CKD, CHD, and CP, and the importance of condition-specific growth references and clinical correlation.",
+  "learning_objectives": [
+    "Understand the challenges of growth monitoring in chronic conditions like CKD, CHD, and CP.",
+    "Learn how to adapt anthropometric measures such as MUAC, skinfolds, and segmental lengths in specific conditions.",
+    "Recognize the importance of condition-specific growth references and clinical correlation in interpreting growth data.",
+    "Identify key nutritional and functional priorities in chronic disease management."
+  ],
+  "key_facts": [
+    "In CKD, fluid overload and edema can mask true weight trends; adjunct measures like MUAC or skinfolds are recommended.",
+    "Short stature in CKD may require using 'height age' for BMI interpretation; prioritize linear growth and functional status.",
+    "In CHD, elevated energy needs and feeding fatigue can lead to faltering weight-for-age; hydration status complicates short-interval weight interpretation.",
+    "In CP, standard stadiometry may be inaccurate; use segmental lengths (e.g., knee height, ulnar length) and combine with MUAC and skinfolds.",
+    "Condition-specific growth references can prevent overdiagnosis of severe malnutrition but must align with feeding safety and caregiver goals.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Growth Charts",
+    "Chronic Disease",
+    "Anthropometry",
+    "Pediatric Nutrition",
+    "Kidney Diseases",
+    "Congenital Heart Defects",
+    "Cerebral Palsy",
+    "Malnutrition"
+  ],
+  "tags_custom": [
+    "growth monitoring",
+    "chronic conditions",
+    "pediatric nutrition",
+    "condition-specific references"
+  ],
+  "reference_quote": "The Pediatric Renal Nutrition Taskforce (PRNT) emphasizes regular assessment of dietary intake, micronutrients, and growth response as part of routine CKD care.",
+  "document_key_topics": [
+    "Growth monitoring in chronic kidney disease (CKD)",
+    "Anthropometric adaptations in congenital heart disease (CHD)",
+    "Growth assessment in cerebral palsy (CP)"
+  ],
+  "chunk_heading": "GROWTH VELOCITY, Z-SCORES; WHO/IAP CHARTS);GROWTH MONITORING IN CHRONIC CONDITIONS;GROWTH MONITORING IN ORGAN DISEASE AND DISABILITY;",
+  "topic": "GROWTH VELOCITY, Z-SCORES",
+  "subtopic": "WHO/IAP CHARTS)",
+  "sub_subtopic": "GROWTH MONITORING IN CHRONIC CONDITIONS",
+  "heading_path": "GROWTH VELOCITY, Z-SCORES; WHO/IAP CHARTS);GROWTH MONITORING IN CHRONIC CONDITIONS;GROWTH MONITORING IN ORGAN DISEASE AND DISABILITY;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2\u009047"
+}

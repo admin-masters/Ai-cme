@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section outlines a longitudinal care plan for managing stunting without wasting, focusing on improving diet, reducing infections, and supporting development over time, with specific guidance on IYCF practices, WASH, micronutrient supplementation, and monitoring growth trajectories.",
+  "learning_objectives": [
+    "Understand the distinction between stunting without wasting and its implications for care planning.",
+    "Learn evidence-based strategies for improving linear growth through diet, infection control, and hygiene.",
+    "Identify key monitoring and follow-up practices for children with stunting without wasting.",
+    "Recognize the importance of program linkages like Anganwadi enrollment and public health schedules."
+  ],
+  "key_facts": [
+    "Stunting is defined as HAZ < -2 SD, while wasting is WHZ/WLZ < -2; this plan addresses stunting without wasting.",
+    "Linear growth improvement is slow; reassess height every 3 months and weight more frequently in younger children or during illness.",
+    "Key interventions include age-appropriate IYCF counseling, immunization, WASH practices, and addressing micronutrient deficiencies using public health schedules.",
+    "Stunting often coexists with repeated enteric illnesses and poor sanitation, emphasizing the need for infection prevention.",
+    "Caregivers should be educated on return triggers like new diarrhea, reduced feeding, fever, weight loss, or repeated illness."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Stunting",
+    "Undernutrition",
+    "Child Nutrition Disorders",
+    "Infant and Young Child Feeding (IYCF)",
+    "Micronutrient Deficiencies",
+    "Growth Monitoring",
+    "Hygiene",
+    "Immunization"
+  ],
+  "tags_custom": [
+    "Stunting without wasting",
+    "Longitudinal care",
+    "WASH practices",
+    "Anganwadi programs",
+    "Growth monitoring"
+  ],
+  "reference_quote": "\"Linear growth responds slowly and the goal is to improve diet quality, reduce infection burden, and support development over months.\" (Source: Global nutrition targets 2030: stunting brief, WHO)",
+  "document_key_topics": [
+    "Stunting without wasting: definition and management",
+    "Longitudinal care planning for undernutrition",
+    "Role of IYCF, WASH, and micronutrient supplementation",
+    "Monitoring and follow-up for growth trajectories"
+  ],
+  "chunk_heading": "UNDERNUTRITION: SCREENING & CLASSIFICATION;LONGITUDINAL CARE PLAN FOR STUNTING WITHOUT WASTING;",
+  "topic": "UNDERNUTRITION: SCREENING & CLASSIFICATION",
+  "subtopic": "LONGITUDINAL CARE PLAN FOR STUNTING WITHOUT WASTING",
+  "sub_subtopic": null,
+  "heading_path": "UNDERNUTRITION: SCREENING & CLASSIFICATION;LONGITUDINAL CARE PLAN FOR STUNTING WITHOUT WASTING;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "3a"
+}

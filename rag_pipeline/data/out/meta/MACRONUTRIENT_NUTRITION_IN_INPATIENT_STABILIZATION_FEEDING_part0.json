@@ -1,0 +1,46 @@
+{
+  "chunk_summary": "Guidelines for inpatient stabilization of severe acute malnutrition (SAM) focus on cautious feeding, fluid management, and monitoring to prevent complications like heart failure and electrolyte imbalance.",
+  "learning_objectives": [
+    "Understand the importance of cautious feeding and fluid management in children with SAM.",
+    "Learn the use of F-75 starter feeds and reduced-osmolarity ORS in stabilization protocols.",
+    "Recognize emergency indications for IV fluids and their risks in SAM management.",
+    "Identify key monitoring parameters to detect early deterioration in SAM patients."
+  ],
+  "key_facts": [
+    "Children with SAM and complications require stabilization before feeding due to impaired myocardial reserve and electrolyte handling.",
+    "Use reduced-osmolarity ORS with added potassium for rehydration, alternating with starter feeds, and monitor closely.",
+    "F-75 starter feeds should be given every 2\u20133 hours in small, weight-guided volumes; NG tubes are preferred if oral intake is insufficient.",
+    "Avoid adding salt or using diuretics for edema, as sodium load can worsen edema and heart failure risk.",
+    "IV fluids are reserved for emergencies like shock and must be reassessed frequently to avoid fluid overload."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Severe Acute Malnutrition",
+    "Rehydration Solutions",
+    "Enteral Nutrition",
+    "Fluid Therapy",
+    "Electrolyte Imbalance",
+    "Pediatric Nutrition",
+    "Edema",
+    "Breastfeeding"
+  ],
+  "tags_custom": [
+    "SAM stabilization",
+    "pediatric feeding protocols",
+    "fluid safety"
+  ],
+  "reference_quote": "Children with complications require stabilization first; feeding and fluids must be cautious because myocardial reserve and electrolyte handling are impaired. (Source: https://www.ncbi.nlm.nih.gov/books/NBK154448/)",
+  "document_key_topics": [
+    "Stabilization feeding in SAM",
+    "Fluid management in malnourished children",
+    "Monitoring and emergency care in SAM"
+  ],
+  "chunk_heading": "MACRONUTRIENT NUTRITION IN CHILDHOOD;INPATIENT STABILIZATION FEEDING AND FLUID SAFETY IN SEVERE ACUTE MALNUTRITION;",
+  "topic": "MACRONUTRIENT NUTRITION IN CHILDHOOD",
+  "subtopic": "INPATIENT STABILIZATION FEEDING AND FLUID SAFETY IN SEVERE ACUTE MALNUTRITION",
+  "sub_subtopic": null,
+  "heading_path": "MACRONUTRIENT NUTRITION IN CHILDHOOD;INPATIENT STABILIZATION FEEDING AND FLUID SAFETY IN SEVERE ACUTE MALNUTRITION;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "4\u007f.1"
+}

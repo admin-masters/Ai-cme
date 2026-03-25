@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section addresses drooling management in neurodisability, emphasizing secretion aspiration prevention through non-pharmacologic and pharmacologic interventions, including glycopyrrolate dosing and botulinum toxin escalation for severe cases.",
+  "learning_objectives": [
+    "Differentiate anterior drooling from posterior drooling and understand associated risks.",
+    "Implement non-pharmacologic strategies for drooling management, including oral hygiene and posture optimization.",
+    "Understand glycopyrrolate dosing guidelines and precautions for pediatric neurodisability patients.",
+    "Recognize indications for botulinum toxin injections and surgical interventions in severe drooling cases."
+  ],
+  "key_facts": [
+    "Posterior drooling is associated with higher risks, including recurrent chest infections and sleep desaturation.",
+    "Non-pharmacologic interventions include twice-daily oral hygiene with fluoride toothpaste and chlorhexidine support.",
+    "Glycopyrrolate pediatric dosing: 0.02 mg/kg per dose three times daily, titrated every 5\u20137 days to a maximum of 0.1 mg/kg per dose.",
+    "Botulinum toxin injections are indicated for health harm or major participation restrictions caused by drooling.",
+    "Surgical interventions are reserved for refractory severe cases and must consider swallow safety."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Neurodisability",
+    "Drooling",
+    "Oral Hygiene",
+    "Anticholinergics",
+    "Glycopyrrolate",
+    "Botulinum Toxins",
+    "Salivary Glands",
+    "Aspiration Prevention"
+  ],
+  "tags_custom": [
+    "pediatric drooling management",
+    "oral hygiene protocols",
+    "secretion aspiration prevention",
+    "glycopyrrolate dosing",
+    "botulinum toxin therapy"
+  ],
+  "reference_quote": "Glycopyrrolate has labeled pediatric dosing for chronic drooling in neurologic conditions (commonly ages 3\u201316 years).",
+  "document_key_topics": [
+    "Drooling management in neurodisability",
+    "Non-pharmacologic interventions for secretion aspiration prevention",
+    "Glycopyrrolate dosing and precautions",
+    "Escalation to botulinum toxin and surgical interventions"
+  ],
+  "chunk_heading": "NEURODISABILITY & FEEDING SUPPORT;DROOLING AND ORAL HYGIENE SECRETION ASPIRATION PREVENTION BUNDLE;",
+  "topic": "NEURODISABILITY & FEEDING SUPPORT",
+  "subtopic": "DROOLING AND ORAL HYGIENE SECRETION ASPIRATION PREVENTION BUNDLE",
+  "sub_subtopic": null,
+  "heading_path": "NEURODISABILITY & FEEDING SUPPORT;DROOLING AND ORAL HYGIENE SECRETION ASPIRATION PREVENTION BUNDLE;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1|.1"
+}

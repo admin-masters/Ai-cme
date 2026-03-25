@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "This section provides a stepwise approach to calculate energy and protein requirements for Indian children with chronic undernutrition, using ICMR-NIN guidelines and worked examples for stunting with or without wasting.",
+  "learning_objectives": [
+    "Understand the stepwise method for calculating energy and protein requirements in children with chronic undernutrition.",
+    "Learn how to use Indian reference values for energy and protein needs based on age and weight.",
+    "Differentiate between nutritional prescriptions for stunting with and without wasting.",
+    "Apply catch-up nutrition principles to create tailored dietary plans for undernourished children."
+  ],
+  "key_facts": [
+    "Baseline energy needs: 83 kcal/kg/day (1\u20133 years), 74 kcal/kg/day (4\u20136 years), 67 kcal/kg/day (7\u20139 years).",
+    "Baseline protein needs: 0.97 g/kg/day (1\u20133 years), 0.87 g/kg/day (4\u20136 years), 0.92 g/kg/day (7\u20139 years).",
+    "For stunting without wasting, increase energy intake by 10\u201315% above baseline.",
+    "For stunting with low weight-for-age or mild wasting, increase energy intake by 20\u201330%.",
+    "Example: A 2-year-old weighing 10 kg requires 830 kcal/day and 9.7 g/day protein; with a 15% increment, the target is 955 kcal/day.",
+    "Severe acute malnutrition rehabilitation targets should not be applied to stunted-only children."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Stunting",
+    "Chronic Disease",
+    "Malnutrition",
+    "Dietary Proteins",
+    "Energy Intake",
+    "Child Nutrition Disorders",
+    "Dietary Guidelines",
+    "India"
+  ],
+  "tags_custom": [
+    "Indian nutrition guidelines",
+    "catch-up nutrition",
+    "pediatric stunting",
+    "energy and protein calculation",
+    "worked examples"
+  ],
+  "reference_quote": "A practical clinic shortcut from ICMR-NIN reference values is energy about 83 kcal/kg/day at 1\u20133 years, 74 kcal/kg/day at 4\u20136 years, and 67 kcal/kg/day at 7\u20139 years.",
+  "document_key_topics": [
+    "Energy and protein requirements for stunted children",
+    "Catch-up nutrition strategies",
+    "ICMR-NIN dietary guidelines for children",
+    "Worked examples for nutritional calculations"
+  ],
+  "chunk_heading": "STUNTING, CHRONIC UNDERNUTRITION & DETERMINANTS;QUANTITATIVE NUTRITION PRESCRIPTION FOR CHRONIC UNDERNUTRITION;INDIAN ENERGY AND PROTEIN REQUIREMENT CALCULATION WITH WORKED EXAMPLES;",
+  "topic": "STUNTING, CHRONIC UNDERNUTRITION & DETERMINANTS",
+  "subtopic": "QUANTITATIVE NUTRITION PRESCRIPTION FOR CHRONIC UNDERNUTRITION",
+  "sub_subtopic": "INDIAN ENERGY AND PROTEIN REQUIREMENT CALCULATION WITH WORKED EXAMPLES",
+  "heading_path": "STUNTING, CHRONIC UNDERNUTRITION & DETERMINANTS;QUANTITATIVE NUTRITION PRESCRIPTION FOR CHRONIC UNDERNUTRITION;INDIAN ENERGY AND PROTEIN REQUIREMENT CALCULATION WITH WORKED EXAMPLES;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "7{1"
+}

@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "This section focuses on screening and triage methods for identifying and managing undernutrition in infants under six months, referencing WHO guidelines and other authoritative sources.",
+  "learning_objectives": [
+    "Understand the criteria for identifying severe acute malnutrition (SAM) in infants under six months.",
+    "Learn the WHO-recommended screening and triage protocols for malnutrition in this age group.",
+    "Recognize the importance of facility-based care for managing severe cases of undernutrition.",
+    "Familiarize with global and national guidelines for malnutrition management in infants."
+  ],
+  "key_facts": [
+    "Severe acute malnutrition (SAM) in infants under six months is identified using specific anthropometric and clinical criteria.",
+    "WHO guidelines emphasize early identification and management to prevent growth and developmental delays.",
+    "Facility-based care is recommended for infants with SAM, as outlined in the MoHFW Participant Manual.",
+    "Infants at risk of poor growth and development require targeted interventions, as per WHO executive summary tables.",
+    "The WHO eLENA tool provides detailed protocols for identifying SAM in infants under six months."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Malnutrition",
+    "Severe Acute Malnutrition",
+    "Infant Nutrition Disorders",
+    "Growth Disorders",
+    "Nutritional Assessment",
+    "Triage",
+    "Infant, Newborn",
+    "Health Screening"
+  ],
+  "tags_custom": [
+    "Infant undernutrition",
+    "SAM screening",
+    "WHO guidelines",
+    "Facility-based care",
+    "Nutritional triage"
+  ],
+  "reference_quote": "WHO guideline on the prevention and management of wasting and nutritional oedema (acute malnutrition) in infants and children under 5 years \u2014 https://www.who.int/publications/i/item/9789240082830",
+  "document_key_topics": [
+    "Screening criteria for SAM in infants under six months",
+    "WHO and national guidelines for malnutrition management",
+    "Facility-based care for severe malnutrition"
+  ],
+  "chunk_heading": "MALNUTRITION\u2014UNDERNUTRITION: SCREENING & CLASSIFICATION;SCREENING AND TRIAGE IN INFANTS UNDER SIX MONTHS;",
+  "topic": "MALNUTRITION\u2014UNDERNUTRITION: SCREENING & CLASSIFICATION",
+  "subtopic": "SCREENING AND TRIAGE IN INFANTS UNDER SIX MONTHS",
+  "sub_subtopic": null,
+  "heading_path": "MALNUTRITION\u2014UNDERNUTRITION: SCREENING & CLASSIFICATION;SCREENING AND TRIAGE IN INFANTS UNDER SIX MONTHS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2w.2"
+}

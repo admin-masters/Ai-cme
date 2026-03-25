@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "A stepwise strategy for investigating growth faltering emphasizes confirming true faltering, assessing complications, and using targeted tests based on history, symptoms, and severity, while avoiding unnecessary broad testing.",
+  "learning_objectives": [
+    "Understand the criteria for confirming true growth faltering using weight-for-length/height and BMI-for-age metrics.",
+    "Identify when to stabilize and refer children with complications such as dehydration or respiratory distress.",
+    "Learn to implement a behaviour-first trial for uncomplicated cases with behavioural feeding issues.",
+    "Recognize appropriate use of targeted diagnostic tests based on clinical presentation and suspected conditions."
+  ],
+  "key_facts": [
+    "Growth faltering is confirmed by repeated measurements showing weight-for-length/height under the 5th percentile (under 5 years) or BMI-for-age under the 5th percentile (from 2 years).",
+    "Complicated cases (e.g., dehydration, persistent vomiting, lethargy) require stabilization and referral; counselling alone is unsafe.",
+    "A 2\u20134 week behaviour-first trial is recommended for uncomplicated cases with behavioural feeding issues.",
+    "Initial targeted tests include CBC, electrolytes, BUN/creatinine, urinalysis, and stool screening for gastrointestinal symptoms.",
+    "India-specific add-ons: ESR/CRP for chronic infection, TSH for poor linear growth, and celiac serology for gluten-related symptoms.",
+    "Microcytic anemia with high RDW suggests iron deficiency, while microcytosis with normal RDW points to thalassemia trait."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Growth Disorders",
+    "Nutritional Status",
+    "Pediatric Nutrition",
+    "Behavior Therapy",
+    "Diagnostic Techniques and Procedures",
+    "Iron-Deficiency Anemia",
+    "Thalassemia",
+    "Celiac Disease"
+  ],
+  "tags_custom": [
+    "growth faltering",
+    "nutrition counselling",
+    "pediatric diagnostics",
+    "feeding behavior",
+    "India-specific guidelines"
+  ],
+  "reference_quote": "A safe investigation strategy for growth faltering balances missed disease against low-yield 'shotgun' panels. Use a graded pathway.",
+  "document_key_topics": [
+    "Stepwise investigation for growth faltering",
+    "Behavioral and dietary interventions for pediatric growth issues",
+    "Targeted diagnostic testing for suspected underlying conditions"
+  ],
+  "chunk_heading": "NUTRITION COUNSELLING & BEHAVIOUR CHANGE SKILLS;CONDITION-SPECIFIC COUNSELLING AND ESCALATION PATHWAYS;STEPWISE INVESTIGATION STRATEGY FOR GROWTH FALTERING;",
+  "topic": "NUTRITION COUNSELLING & BEHAVIOUR CHANGE SKILLS",
+  "subtopic": "CONDITION-SPECIFIC COUNSELLING AND ESCALATION PATHWAYS",
+  "sub_subtopic": "STEPWISE INVESTIGATION STRATEGY FOR GROWTH FALTERING",
+  "heading_path": "NUTRITION COUNSELLING & BEHAVIOUR CHANGE SKILLS;CONDITION-SPECIFIC COUNSELLING AND ESCALATION PATHWAYS;STEPWISE INVESTIGATION STRATEGY FOR GROWTH FALTERING;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1|3.1"
+}

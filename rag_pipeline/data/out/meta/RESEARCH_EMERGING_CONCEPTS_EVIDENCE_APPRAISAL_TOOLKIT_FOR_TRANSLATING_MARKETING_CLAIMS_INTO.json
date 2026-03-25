@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Guidance on translating marketing claims into clinical questions using PICO, evidence hierarchies, and reporting standards for safe clinical adoption.",
+  "learning_objectives": [
+    "Understand how to convert marketing claims into testable clinical questions using PICO.",
+    "Learn to evaluate evidence hierarchies for therapy, diagnostic, and predictive tests.",
+    "Identify the role of reporting standards like CONSORT and PRISMA in evidence appraisal.",
+    "Incorporate affordability checks into clinical decision-making, especially in resource-limited settings."
+  ],
+  "key_facts": [
+    "Clinical questions should follow the PICO framework: Population, Intervention, Comparator, Outcome.",
+    "Therapy questions prioritize well-conducted RCTs and systematic reviews over single small trials.",
+    "Diagnostic tests require evidence of analytic validity, clinical validity, and clinical utility.",
+    "Use CONSORT and PRISMA standards to assess study completeness and reliability.",
+    "In India, affordability checks should ensure products do not displace proven essentials like ORS or zinc.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Evidence-Based Medicine",
+    "Clinical Decision-Making",
+    "Randomized Controlled Trials as Topic",
+    "Diagnostic Tests, Routine",
+    "PICO Framework",
+    "Health Care Costs",
+    "Systematic Reviews as Topic",
+    "CONSORT Guidelines"
+  ],
+  "tags_custom": [
+    "marketing claims",
+    "clinical adoption",
+    "evidence hierarchy",
+    "affordability checks"
+  ],
+  "reference_quote": "Use reporting standards such as CONSORT and PRISMA as a rapid screen for whether the study is complete enough to trust.",
+  "document_key_topics": [
+    "Translating marketing claims into clinical questions",
+    "PICO framework for evidence appraisal",
+    "Evidence hierarchies for therapy and diagnostic tests",
+    "Affordability considerations in clinical adoption"
+  ],
+  "chunk_heading": "RESEARCH & EMERGING CONCEPTS;EVIDENCE APPRAISAL TOOLKIT FOR SAFE CLINICAL ADOPTION;TRANSLATING MARKETING CLAIMS INTO CLINICAL QUESTIONS;",
+  "topic": "RESEARCH & EMERGING CONCEPTS",
+  "subtopic": "EVIDENCE APPRAISAL TOOLKIT FOR SAFE CLINICAL ADOPTION",
+  "sub_subtopic": "TRANSLATING MARKETING CLAIMS INTO CLINICAL QUESTIONS",
+  "heading_path": "RESEARCH & EMERGING CONCEPTS;EVIDENCE APPRAISAL TOOLKIT FOR SAFE CLINICAL ADOPTION;TRANSLATING MARKETING CLAIMS INTO CLINICAL QUESTIONS;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1b1"
+}

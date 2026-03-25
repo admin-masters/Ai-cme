@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "This section focuses on rehydration protocols for infants under 2 years with severe acute malnutrition (SAM), including cholera-specific exceptions and appropriate oral rehydration solutions (ORS) options for preterm, low birth weight, and malnourished infants.",
+  "learning_objectives": [
+    "Understand rehydration strategies for infants with severe acute malnutrition (SAM).",
+    "Identify cholera-specific exceptions in rehydration protocols for malnourished infants.",
+    "Learn appropriate oral rehydration solutions (ORS) for preterm and low birth weight infants.",
+    "Review facility-based management guidelines for malnourished children under 2 years."
+  ],
+  "key_facts": [
+    "Children with SAM require specialized rehydration protocols to avoid fluid overload and electrolyte imbalances.",
+    "WHO recommends low-osmolarity ORS for rehydration in SAM, except in cases of cholera where standard ORS is preferred.",
+    "Cholera-specific ORS contains higher sodium concentrations to address severe dehydration caused by cholera.",
+    "Operational guidelines emphasize facility-based management for malnourished children, including monitoring hydration and electrolyte levels.",
+    "Preterm and low birth weight infants are at higher risk of dehydration and require tailored rehydration approaches."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Severe Acute Malnutrition",
+    "Rehydration Solutions",
+    "Cholera",
+    "Infant Nutrition",
+    "Low Birth Weight",
+    "Electrolyte Imbalance",
+    "Dehydration",
+    "Pediatric Guidelines"
+  ],
+  "tags_custom": [
+    "SAM rehydration",
+    "ORS protocols",
+    "malnourished infants",
+    "cholera exceptions",
+    "facility-based care"
+  ],
+  "reference_quote": "WHO recommends low-osmolarity ORS for rehydration in children with severe acute malnutrition, except in cases of cholera where standard ORS is preferred. (Source: https://www.who.int/tools/elena/interventions/dehydration-sam)",
+  "document_key_topics": [
+    "Rehydration protocols for SAM in infants",
+    "Cholera-specific ORS guidelines",
+    "Management of preterm and low birth weight infants"
+  ],
+  "chunk_heading": "INFANT & YOUNG CHILD FEEDING UNDER 2 YEARS;FEEDING PROTOCOLS FOR PRETERM  LOW BIRTH WEIGHT AND MALNOURISHED INFANTS;REHYDRATION IN SAM INCLUDING  CHOLERA EXCEPTION AND ORS OPTIONS;",
+  "topic": "INFANT & YOUNG CHILD FEEDING UNDER 2 YEARS",
+  "subtopic": "FEEDING PROTOCOLS FOR PRETERM  LOW BIRTH WEIGHT AND MALNOURISHED INFANTS",
+  "sub_subtopic": "REHYDRATION IN SAM INCLUDING  CHOLERA EXCEPTION AND ORS OPTIONS",
+  "heading_path": "INFANT & YOUNG CHILD FEEDING UNDER 2 YEARS;FEEDING PROTOCOLS FOR PRETERM  LOW BIRTH WEIGHT AND MALNOURISHED INFANTS;REHYDRATION IN SAM INCLUDING  CHOLERA EXCEPTION AND ORS OPTIONS;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "4\u008e4.2"
+}

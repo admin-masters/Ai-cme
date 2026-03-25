@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Preterm and VLBW infants require structured micronutrient strategies, focusing on iron supplementation and monitoring for metabolic bone disease to prevent deficiencies and complications during rapid growth phases.",
+  "learning_objectives": [
+    "Understand the importance of protocolized micronutrient planning for preterm and VLBW infants.",
+    "Learn iron supplementation guidelines, including dosage and safety considerations for preterm infants.",
+    "Recognize the need for monitoring and managing metabolic bone disease in high-risk infants.",
+    "Develop follow-up plans for micronutrient reassessment and documentation."
+  ],
+  "key_facts": [
+    "Preterm and VLBW infants require ~2 mg/kg/day of iron during the first year.",
+    "Human milk\u2013fed preterm infants often need supplemental iron starting at 2\u20134 weeks of age.",
+    "Infants receiving multiple packed cell transfusions may not require routine iron supplementation due to risk of iron overload.",
+    "High-risk infants (birth weight <1500 g, very preterm, prolonged TPN, diuretics/steroids) should undergo serial bone profile monitoring (calcium, phosphate, alkaline phosphatase).",
+    "Management of metabolic bone disease depends on distinguishing calcipenic vs phosphopenic patterns.",
+    "At discharge, document iron source, vitamin D plan, and set reassessment dates for Hb, ferritin, and bone biochemistry."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Micronutrients",
+    "Iron Deficiency",
+    "Metabolic Bone Disease",
+    "Premature Birth",
+    "Very Low Birth Weight",
+    "Calcium",
+    "Phosphates",
+    "Vitamin D"
+  ],
+  "tags_custom": [
+    "Preterm nutrition",
+    "Iron supplementation",
+    "Bone health in neonates",
+    "NICU follow-up",
+    "Micronutrient monitoring"
+  ],
+  "reference_quote": "Human milk\u2013fed preterm infants typically need supplemental iron starting early (often around 2\u20134 weeks of age).",
+  "document_key_topics": [
+    "Iron supplementation in preterm infants",
+    "Monitoring and management of metabolic bone disease",
+    "Micronutrient follow-up strategies for VLBW infants"
+  ],
+  "chunk_heading": "MICRONUTRIENT NUTRITION;MICRONUTRIENT MONITORING IN HIGH-RISK CLINICAL CONDITIONS;MICRONUTRIENT STRATEGY IN PRETERM AND VLBW FOLLOW-UP;",
+  "topic": "MICRONUTRIENT NUTRITION",
+  "subtopic": "MICRONUTRIENT MONITORING IN HIGH-RISK CLINICAL CONDITIONS",
+  "sub_subtopic": "MICRONUTRIENT STRATEGY IN PRETERM AND VLBW FOLLOW-UP",
+  "heading_path": "MICRONUTRIENT NUTRITION;MICRONUTRIENT MONITORING IN HIGH-RISK CLINICAL CONDITIONS;MICRONUTRIENT STRATEGY IN PRETERM AND VLBW FOLLOW-UP;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u00951"
+}

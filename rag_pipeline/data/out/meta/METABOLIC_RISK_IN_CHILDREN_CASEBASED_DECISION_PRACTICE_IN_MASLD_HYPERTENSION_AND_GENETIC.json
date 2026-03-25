@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section discusses case-based decision pathways for managing pediatric metabolic risks, including MASLD, hypertension, genetic dyslipidemia, and obesity-related conditions, with specific diagnostic and treatment actions outlined for each case.",
+  "learning_objectives": [
+    "Understand the diagnostic criteria and management strategies for MASLD in children, including the role of ALT and imaging.",
+    "Learn the evaluation and treatment approach for persistent stage 1 hypertension in pediatric patients.",
+    "Recognize the diagnostic thresholds and management steps for suspected familial hypercholesterolemia in children.",
+    "Identify the interplay of obesity, reproductive health, and mental health in metabolic risk management."
+  ],
+  "key_facts": [
+    "ALT >2\u00d7 sex-specific upper limit is clinically significant for MASLD, even with normal ultrasound findings.",
+    "Persistent stage 1 hypertension requires confirmation with ABPM and metabolic comorbidity screening.",
+    "LDL-C \u2265190 mg/dL strongly suggests familial hypercholesterolemia, even with unclear family history.",
+    "Structured lifestyle therapy is a first-line treatment for MASLD and obesity-related hypertension.",
+    "Cascade screening of parents is recommended for children with suspected familial hypercholesterolemia.",
+    "Mental health conditions, such as binge eating, can act as metabolic modifiers in obesity management."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Pediatric Obesity",
+    "Nonalcoholic Fatty Liver Disease",
+    "Hypertension",
+    "Familial Hypercholesterolemia",
+    "Dyslipidemias",
+    "Polycystic Ovary Syndrome",
+    "Mental Health",
+    "Metabolic Syndrome"
+  ],
+  "tags_custom": [
+    "MASLD management",
+    "pediatric hypertension",
+    "genetic dyslipidemia",
+    "obesity-related comorbidities"
+  ],
+  "reference_quote": "ALT >2\u00d7 sex-specific upper limit is clinically significant regardless of imaging. (Reference 1: ISPGHAN/Indian Pediatrics, 2024)",
+  "document_key_topics": [
+    "MASLD diagnosis and management in children",
+    "Pediatric hypertension evaluation and treatment",
+    "Familial hypercholesterolemia in children",
+    "Obesity and its metabolic and mental health impacts"
+  ],
+  "chunk_heading": "METABOLIC RISK IN CHILDREN;CASE-BASED DECISION PRACTICE IN METABOLIC RISK CLINICS;MASLD HYPERTENSION AND GENETIC DYSLIPIDEMIA CASE DECISION PATHWAYS;",
+  "topic": "METABOLIC RISK IN CHILDREN",
+  "subtopic": "CASE-BASED DECISION PRACTICE IN METABOLIC RISK CLINICS",
+  "sub_subtopic": "MASLD HYPERTENSION AND GENETIC DYSLIPIDEMIA CASE DECISION PATHWAYS",
+  "heading_path": "METABOLIC RISK IN CHILDREN;CASE-BASED DECISION PRACTICE IN METABOLIC RISK CLINICS;MASLD HYPERTENSION AND GENETIC DYSLIPIDEMIA CASE DECISION PATHWAYS;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "1\u00a32"
+}

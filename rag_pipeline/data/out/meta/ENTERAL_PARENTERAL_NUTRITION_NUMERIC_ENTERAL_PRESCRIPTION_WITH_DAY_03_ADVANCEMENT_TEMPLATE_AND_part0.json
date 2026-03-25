@@ -1,0 +1,47 @@
+{
+  "chunk_summary": "This section provides a day 0\u20133 enteral nutrition advancement template, including feeding initiation, progression targets, and triggers for supplemental parenteral nutrition, with specific guidelines for preterm and VLBW infants.",
+  "learning_objectives": [
+    "Understand the stepwise approach to enteral feeding advancement during the first 3 days.",
+    "Identify criteria for initiating and advancing enteral nutrition in preterm and VLBW infants.",
+    "Recognize signs of feeding intolerance and appropriate interventions.",
+    "Learn when to consider supplemental parenteral nutrition based on enteral nutrition delivery."
+  ],
+  "key_facts": [
+    "Day 0: Start full-strength polymeric formula at ~1 mL/kg/hour (continuous) or bolus feeds at ~25% of goal daily volume.",
+    "Day 1: Advance to ~50% of goal if stable; adjust feeding method if intolerance occurs.",
+    "Day 2: Progress to 75\u2013100% of goal based on illness severity and nutrition risk.",
+    "Preterm/VLBW infants: Trophic feeds of ~10\u201315 mL/kg/day can start within 24 hours if stable, advancing to ~150\u2013180 mL/kg/day over 1\u20132 weeks.",
+    "Day 3: If enteral nutrition remains <60\u201380% of needs, consider energy-dense formulas, postpyloric access, or supplemental parenteral nutrition."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Enteral Nutrition",
+    "Parenteral Nutrition",
+    "Feeding Intolerance",
+    "Preterm Infants",
+    "Very Low Birth Weight",
+    "Nutritional Support",
+    "Trophic Feeding",
+    "Energy-Dense Diet"
+  ],
+  "tags_custom": [
+    "Day 0\u20133 feeding plan",
+    "Preterm nutrition",
+    "Feeding advancement",
+    "Supplemental parenteral nutrition"
+  ],
+  "reference_quote": "In preterm infants, small green residuals alone (for example <2\u20133 mL) should not automatically slow advancement without other intolerance signs. (Source: https://iapindia.org/pdf/Ch-098-Feeding-in-Preterm-and-Feed-Intolerance.pdf)",
+  "document_key_topics": [
+    "Day 0\u20133 enteral feeding advancement",
+    "Triggers for supplemental parenteral nutrition",
+    "Feeding intolerance management"
+  ],
+  "chunk_heading": "ENTERAL & PARENTERAL NUTRITION;NUMERIC ENTERAL PRESCRIPTION WITH DAY 0\u2013 3 ADVANCEMENT TARGETS;DAY 0\u20133 ADVANCEMENT TEMPLATE AND TRIGGERS FOR SUPPLEMENTAL PARENTERAL NUTRITION;",
+  "topic": "ENTERAL & PARENTERAL NUTRITION",
+  "subtopic": "NUMERIC ENTERAL PRESCRIPTION WITH DAY 0\u2013 3 ADVANCEMENT TARGETS",
+  "sub_subtopic": "DAY 0\u20133 ADVANCEMENT TEMPLATE AND TRIGGERS FOR SUPPLEMENTAL PARENTERAL NUTRITION",
+  "heading_path": "ENTERAL & PARENTERAL NUTRITION;NUMERIC ENTERAL PRESCRIPTION WITH DAY 0\u2013 3 ADVANCEMENT TARGETS;DAY 0\u20133 ADVANCEMENT TEMPLATE AND TRIGGERS FOR SUPPLEMENTAL PARENTERAL NUTRITION;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2m5.1"
+}

@@ -1,0 +1,47 @@
+{
+  "chunk_summary": "This section discusses interpreting anemia in Indian children with mixed etiologies, emphasizing diagnostic reasoning to differentiate iron deficiency from other causes like hemoglobinopathies, inflammation, and micronutrient deficiencies.",
+  "learning_objectives": [
+    "Understand the distinction between anemia prevalence and iron deficiency prevalence in high-burden settings.",
+    "Learn to use anemia phenotypes (microcytic, macrocytic, normocytic) to guide diagnostic and therapeutic decisions.",
+    "Recognize the importance of a time-limited diagnostic iron trial and measurable response expectations.",
+    "Identify when to prioritize hemoglobinopathy testing over iron therapy."
+  ],
+  "key_facts": [
+    "Anemia in Indian children is defined as Hb <11 g/dL in 6\u201359 month-olds.",
+    "Iron deficiency accounts for only a portion of anemia in high-prevalence settings; other causes include inflammation, hemoglobinopathies, and chronic infections.",
+    "Microcytosis suggests iron deficiency or thalassemia trait, while macrocytosis suggests folate/B12 deficiency.",
+    "A diagnostic iron trial should have a defined Hb rise target within weeks; absent response requires reassessment.",
+    "Unnecessary long-term iron therapy can delay correct diagnosis and create adherence burdens."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Iron-Deficiency Anemia",
+    "Hemoglobinopathies",
+    "Micronutrients",
+    "Pediatric Anemia",
+    "Chronic Inflammation",
+    "Folate Deficiency",
+    "Vitamin B12 Deficiency",
+    "India"
+  ],
+  "tags_custom": [
+    "anemia diagnosis",
+    "iron therapy",
+    "pediatric nutrition",
+    "mixed anemia etiologies"
+  ],
+  "reference_quote": "Anemia prevalence is not the same as iron deficiency prevalence; in high-prevalence settings, iron deficiency may account for only a portion of anemia.",
+  "document_key_topics": [
+    "Anemia prevalence and mixed etiologies in Indian children",
+    "Diagnostic reasoning for anemia phenotypes",
+    "Guidelines for therapeutic iron trials"
+  ],
+  "chunk_heading": "MICRONUTRIENT NUTRITION;IRON DEFICIENCY ANEMIA DIAGNOSTIC AND THERAPEUTIC DECISIONS;INTERPRETING ANEMIA IN INDIAN CHILDREN WITH MIXED ETIOLOGIES;",
+  "topic": "MICRONUTRIENT NUTRITION",
+  "subtopic": "IRON DEFICIENCY ANEMIA DIAGNOSTIC AND THERAPEUTIC DECISIONS",
+  "sub_subtopic": "INTERPRETING ANEMIA IN INDIAN CHILDREN WITH MIXED ETIOLOGIES",
+  "heading_path": "MICRONUTRIENT NUTRITION;IRON DEFICIENCY ANEMIA DIAGNOSTIC AND THERAPEUTIC DECISIONS;INTERPRETING ANEMIA IN INDIAN CHILDREN WITH MIXED ETIOLOGIES;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1p1"
+}

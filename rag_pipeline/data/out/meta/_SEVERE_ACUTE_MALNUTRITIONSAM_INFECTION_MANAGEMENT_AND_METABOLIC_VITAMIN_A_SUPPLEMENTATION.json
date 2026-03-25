@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Vitamin A supplementation in SAM is guided by eye findings, measles risk, and prior dosing history, with specific dosages based on age and clinical indications.",
+  "learning_objectives": [
+    "Understand the indications for vitamin A supplementation in severe acute malnutrition (SAM).",
+    "Learn age-specific dosing guidelines for vitamin A in SAM management.",
+    "Recognize emergency management of corneal involvement in vitamin A deficiency.",
+    "Differentiate vitamin A therapy from measles vaccination in SAM cases."
+  ],
+  "key_facts": [
+    "Vitamin A dosages: 50,000 IU (<6 months), 100,000 IU (6\u201312 months), 200,000 IU (>12 months).",
+    "High-dose vitamin A is given on day 1 for eye signs of deficiency or suspected measles.",
+    "Avoid repeat dosing if a high dose was administered in the preceding month unless clinically indicated.",
+    "Corneal involvement requires urgent ophthalmic care and vitamin A therapy.",
+    "Document vitamin A therapy at discharge to prevent duplicate dosing in outpatient care."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Vitamin A",
+    "Severe Acute Malnutrition",
+    "Measles",
+    "Xerophthalmia",
+    "Corneal Ulcer",
+    "Pneumonia",
+    "Edema",
+    "Nutritional Deficiency"
+  ],
+  "tags_custom": [
+    "SAM management",
+    "Vitamin A dosing",
+    "Measles complications",
+    "Ophthalmic emergencies",
+    "Nutritional therapy"
+  ],
+  "reference_quote": "Treat any corneal involvement as an emergency requiring urgent ophthalmic care and vitamin A therapy. - WHO, Pocket book of hospital care for children.",
+  "document_key_topics": [
+    "Vitamin A supplementation in SAM",
+    "Emergency management of corneal involvement",
+    "Age-specific dosing guidelines",
+    "Measles risk and vitamin A therapy"
+  ],
+  "chunk_heading": "- SEVERE ACUTE MALNUTRITION-(SAM) MANAGEMENT;INFECTION MANAGEMENT AND METABOLIC CORRECTIONS;VITAMIN A SUPPLEMENTATION INDICATIONS IN SAM;",
+  "topic": "- SEVERE ACUTE MALNUTRITION-(SAM) MANAGEMENT",
+  "subtopic": "INFECTION MANAGEMENT AND METABOLIC CORRECTIONS",
+  "sub_subtopic": "VITAMIN A SUPPLEMENTATION INDICATIONS IN SAM",
+  "heading_path": "- SEVERE ACUTE MALNUTRITION-(SAM) MANAGEMENT;INFECTION MANAGEMENT AND METABOLIC CORRECTIONS;VITAMIN A SUPPLEMENTATION INDICATIONS IN SAM;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "3e3"
+}

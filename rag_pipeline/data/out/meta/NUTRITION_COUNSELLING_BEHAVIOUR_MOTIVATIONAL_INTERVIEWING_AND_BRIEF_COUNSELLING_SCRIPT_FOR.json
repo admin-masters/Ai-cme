@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "A structured three-minute nutrition counselling script for outpatient visits, focusing on motivational interviewing techniques to address dietary habits and set SMART goals for behavior change.",
+  "learning_objectives": [
+    "Understand the structure of a brief three-minute nutrition counselling session.",
+    "Learn to use motivational interviewing techniques, including reflective statements and readiness assessment.",
+    "Develop skills to create SMART goals and barrier plans for dietary behavior change.",
+    "Recognize when to pause counselling and address medical red flags."
+  ],
+  "key_facts": [
+    "A three-minute intervention is feasible with a fixed structure and reflective statements.",
+    "Start with permission and agenda setting, e.g., 'Would it be okay to focus on one food habit?'",
+    "Advise with one targeted fact, e.g., 'Two cups of milk is enough; more can reduce appetite for meals.'",
+    "Assess readiness using a 0\u201310 scale and elicit strengths or barriers based on the response.",
+    "Convert choices into SMART goals and include a barrier plan, e.g., 'If grandparents offer biscuits, what could you offer instead?'",
+    "Medical red flags like weight loss, dehydration, or vomiting require pausing the script for stabilization or referral."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Nutrition Counseling",
+    "Motivational Interviewing",
+    "Behavior Therapy",
+    "Dietary Habits",
+    "Patient Education as Topic",
+    "Health Behavior",
+    "Outpatient Clinics, Hospital",
+    "Health Promotion"
+  ],
+  "tags_custom": [
+    "brief counselling",
+    "SMART goals",
+    "pediatric nutrition",
+    "behavior change",
+    "medical red flags"
+  ],
+  "reference_quote": "Motivational interviewing is a collaborative, goal-oriented style of communication with particular attention to the language of change. (Source: https://www.guilford.com/books/Motivational-Interviewing/Miller-Rollnick/9781609182274)",
+  "document_key_topics": [
+    "Motivational interviewing techniques",
+    "Brief nutrition counselling structure",
+    "SMART goal setting for dietary changes",
+    "Identifying and addressing medical red flags"
+  ],
+  "chunk_heading": "NUTRITION COUNSELLING & BEHAVIOUR CHANGE SKILLS;MOTIVATIONAL INTERVIEWING AND COUNSELLING STRUCTURE;BRIEF COUNSELLING SCRIPT FOR THREE-MINUTE OUTPATIENT VISITS;",
+  "topic": "NUTRITION COUNSELLING & BEHAVIOUR CHANGE SKILLS",
+  "subtopic": "MOTIVATIONAL INTERVIEWING AND COUNSELLING STRUCTURE",
+  "sub_subtopic": "BRIEF COUNSELLING SCRIPT FOR THREE-MINUTE OUTPATIENT VISITS",
+  "heading_path": "NUTRITION COUNSELLING & BEHAVIOUR CHANGE SKILLS;MOTIVATIONAL INTERVIEWING AND COUNSELLING STRUCTURE;BRIEF COUNSELLING SCRIPT FOR THREE-MINUTE OUTPATIENT VISITS;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1j4"
+}

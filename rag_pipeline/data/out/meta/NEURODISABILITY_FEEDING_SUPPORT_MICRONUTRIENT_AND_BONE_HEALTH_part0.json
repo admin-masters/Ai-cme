@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "Children with severe neurodisability face high risks of micronutrient deficiencies and poor bone health, requiring annual surveillance, targeted lab panels, and preventive measures like vitamin D correction, calcium optimization, and mobility support.",
+  "learning_objectives": [
+    "Understand the risk factors for micronutrient deficiencies and poor bone health in children with severe neurodisability.",
+    "Identify appropriate laboratory tests and screening intervals for high-risk children.",
+    "Learn preventive strategies for optimizing bone health, including dietary and mobility interventions.",
+    "Recognize the importance of tailored approaches in resource-limited settings."
+  ],
+  "key_facts": [
+    "Children with neurodisability are at higher risk of micronutrient deficiency due to low intake, selective diets, and anticonvulsant use.",
+    "Annual screening is recommended for high-risk children, with intensified monitoring during catch-up feeding or after repeated infections.",
+    "A clinic-ready lab panel includes CBC with iron status, vitamin D, calcium, phosphate, and potentially B12, folate, zinc, and copper.",
+    "Low-trauma fractures warrant evaluation of calcium-phosphate balance and secondary causes, with DXA scans considered where feasible.",
+    "Tube feeding improves nutrient delivery but does not automatically address bone health risks without monitoring and supplementation.",
+    "In resource-limited settings, prioritize hemoglobin, iron, vitamin D, and calcium-phosphate testing during scheduled visits."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Neurodevelopmental Disorders",
+    "Micronutrients",
+    "Bone Health",
+    "Vitamin D Deficiency",
+    "Calcium Metabolism",
+    "Cerebral Palsy",
+    "Nutritional Surveillance",
+    "Fractures, Bone"
+  ],
+  "tags_custom": [
+    "neurodisability",
+    "feeding support",
+    "micronutrient deficiency",
+    "bone health",
+    "resource-limited settings"
+  ],
+  "reference_quote": "Children with cerebral palsy are at increased risk of osteoporosis due to reduced mobility, poor nutrition, and anticonvulsant use. (Source: https://www.aacpdm.org/publications/care-pathways/osteoporosis-in-cerebral-palsy)",
+  "document_key_topics": [
+    "Micronutrient deficiency in neurodisability",
+    "Bone health surveillance and prevention",
+    "Laboratory testing and screening guidelines",
+    "Resource-limited healthcare strategies"
+  ],
+  "chunk_heading": "NEURODISABILITY & FEEDING SUPPORT;MICRONUTRIENT AND BONE HEALTH SURVEILLANCE IN SEVERE DISABILITY;",
+  "topic": "NEURODISABILITY & FEEDING SUPPORT",
+  "subtopic": "MICRONUTRIENT AND BONE HEALTH SURVEILLANCE IN SEVERE DISABILITY",
+  "sub_subtopic": null,
+  "heading_path": "NEURODISABILITY & FEEDING SUPPORT;MICRONUTRIENT AND BONE HEALTH SURVEILLANCE IN SEVERE DISABILITY;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1h.1"
+}

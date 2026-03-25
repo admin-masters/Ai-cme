@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Guidelines for safely initiating feeding in children with chronic cardiorespiratory disease and severe malnutrition, focusing on stabilization, electrolyte correction, and cautious feeding strategies to prevent complications like refeeding syndrome.",
+  "learning_objectives": [
+    "Understand the principles of stabilization in malnourished children with chronic cardiorespiratory disease.",
+    "Learn how to manage electrolyte imbalances and prevent refeeding syndrome during nutritional rehabilitation.",
+    "Identify appropriate feeding strategies, including the use of smaller, frequent feeds and tube feeding when necessary.",
+    "Recognize the importance of distinguishing cardiac edema from nutritional edema in malnourished children with CHD."
+  ],
+  "key_facts": [
+    "Stabilization includes preventing hypoglycemia, hypothermia, and correcting dehydration and electrolytes before feeding.",
+    "Edema in children with CHD can be cardiac or nutritional; assess alongside perfusion, hepatomegaly, and diuretic response.",
+    "Use smaller, frequent feeds to avoid respiratory compromise; escalate to tube feeding if oral intake is unsafe.",
+    "Correct hypokalemia, hypophosphatemia, and hypomagnesemia before increasing calorie intake to prevent refeeding syndrome.",
+    "Daily weight monitoring is essential to differentiate true tissue gain from fluid shifts in sick infants.",
+    "In India, consider dehydration and metabolic alkalosis in hot weather as a potential cystic fibrosis salt-loss presentation (pseudo-Bartter syndrome).",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Malnutrition",
+    "Cardiopulmonary Diseases",
+    "Refeeding Syndrome",
+    "Electrolyte Imbalance",
+    "Heart Failure",
+    "Edema",
+    "Nutritional Support",
+    "Cystic Fibrosis"
+  ],
+  "tags_custom": [
+    "chronic disease nutrition",
+    "pediatric malnutrition",
+    "feeding strategies",
+    "stabilization protocols"
+  ],
+  "reference_quote": "\"Use smaller, more frequent feeds that do not provoke respiratory compromise, avoid rapid volume expansion in heart failure, and escalate to tube feeding early if oral intake is unsafe or ineffective.\" (Indian Academy of Pediatrics, Severe acute malnutrition guideline, 2022)",
+  "document_key_topics": [
+    "Stabilization in severe malnutrition with cardiorespiratory disease",
+    "Electrolyte correction and refeeding syndrome prevention",
+    "Feeding strategies for children with chronic heart or lung disease"
+  ],
+  "chunk_heading": "NUTRITION IN CHRONIC CARDIORESPIRATORY DISEASE;SAFE INITIATION OF FEEDING DURING CARDIORESPIRATORY INSTABILITY;INITIAL STABILIZATION WHEN SEVERE MALNUTRITION COEXISTS;",
+  "topic": "NUTRITION IN CHRONIC CARDIORESPIRATORY DISEASE",
+  "subtopic": "SAFE INITIATION OF FEEDING DURING CARDIORESPIRATORY INSTABILITY",
+  "sub_subtopic": "INITIAL STABILIZATION WHEN SEVERE MALNUTRITION COEXISTS",
+  "heading_path": "NUTRITION IN CHRONIC CARDIORESPIRATORY DISEASE;SAFE INITIATION OF FEEDING DURING CARDIORESPIRATORY INSTABILITY;INITIAL STABILIZATION WHEN SEVERE MALNUTRITION COEXISTS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1o3"
+}

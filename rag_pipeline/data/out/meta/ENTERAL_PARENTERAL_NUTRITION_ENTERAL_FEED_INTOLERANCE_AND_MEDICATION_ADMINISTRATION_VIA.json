@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Guidelines for safe medication administration via enteral feeding tubes, including feed-hold timing for drugs like phenytoin, levothyroxine, warfarin, and fluoroquinolones, to prevent interactions and ensure therapeutic efficacy.",
+  "learning_objectives": [
+    "Understand the principles of safe medication administration via enteral feeding tubes.",
+    "Identify drugs requiring feed-hold timing and their specific guidelines.",
+    "Learn strategies to manage drug-nutrient interactions in enteral nutrition.",
+    "Recognize the importance of clinical and therapeutic monitoring during feed-hold protocols."
+  ],
+  "key_facts": [
+    "Do not mix medications into formula or crush enteric-coated/modified-release preparations.",
+    "Flush with water before the first medication, between each medication, and after the last medication.",
+    "Phenytoin: Hold feeds for 2 hours before and after dosing; monitor drug levels.",
+    "Levothyroxine: Hold feeds for 1 hour before and after dosing; monitor TSH and free T4.",
+    "Warfarin: Hold feeds for 1 hour before and after dosing; monitor INR closely.",
+    "Fluoroquinolones: Avoid enteral administration if possible; bioavailability is reduced with calcium, magnesium, or aluminum in feeds."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Enteral Nutrition",
+    "Drug Interactions",
+    "Phenytoin",
+    "Levothyroxine",
+    "Warfarin",
+    "Fluoroquinolones",
+    "Feeding Tubes",
+    "Medication Administration"
+  ],
+  "tags_custom": [
+    "feed-hold timing",
+    "drug-nutrient interactions",
+    "enteral feeding protocols",
+    "therapeutic monitoring"
+  ],
+  "reference_quote": "Phenytoin absorption decreases with concurrent enteral nutrition; when tube administration is unavoidable, monitor levels and commonly hold feeds for 2 hours before and after each dose.",
+  "document_key_topics": [
+    "Safe medication administration via enteral feeding tubes",
+    "Feed-hold timing for specific drugs",
+    "Drug-nutrient interactions in enteral nutrition",
+    "Therapeutic and clinical monitoring during feed-hold protocols"
+  ],
+  "chunk_heading": "ENTERAL & PARENTERAL NUTRITION;ENTERAL FEED INTOLERANCE AND MEDICATION ADMINISTRATION PROTOCOLS;MEDICATION ADMINISTRATION VIA FEEDING TUBES AND FEED-HOLD TIMING;",
+  "topic": "ENTERAL & PARENTERAL NUTRITION",
+  "subtopic": "ENTERAL FEED INTOLERANCE AND MEDICATION ADMINISTRATION PROTOCOLS",
+  "sub_subtopic": "MEDICATION ADMINISTRATION VIA FEEDING TUBES AND FEED-HOLD TIMING",
+  "heading_path": "ENTERAL & PARENTERAL NUTRITION;ENTERAL FEED INTOLERANCE AND MEDICATION ADMINISTRATION PROTOCOLS;MEDICATION ADMINISTRATION VIA FEEDING TUBES AND FEED-HOLD TIMING;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2\u00812"
+}

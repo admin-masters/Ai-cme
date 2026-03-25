@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section discusses hypernatremia risk in children, its clinical signs, safe correction protocols, and maintenance intravenous fluid practices, emphasizing isotonic solutions and careful monitoring to prevent complications like cerebral edema.",
+  "learning_objectives": [
+    "Recognize clinical signs and risk factors for hypernatremic dehydration in children.",
+    "Understand safe correction protocols for hypernatremia, including sodium reduction rates and fluid management.",
+    "Apply guidelines for maintenance intravenous fluid therapy using isotonic solutions in pediatric patients.",
+    "Identify high-risk situations requiring close electrolyte monitoring in children."
+  ],
+  "key_facts": [
+    "Hypernatremia correction should reduce serum sodium by no more than 0.5 mmol/L per hour or 10\u201312 mmol/L per day.",
+    "Initial resuscitation for compromised circulation involves isotonic boluses, followed by gradual deficit replacement over 48 hours.",
+    "Maintenance IV fluids for children >28 days should use 0.9% saline-based solutions with dextrose; potassium is added only after urine output is established.",
+    "Maintenance fluid volume is calculated using the Holliday\u2013Segar method: 4 mL/kg/hour for the first 10 kg, 2 mL/kg/hour for the next 10 kg, and 1 mL/kg/hour thereafter.",
+    "High-risk situations for electrolyte monitoring include pneumonia, bronchiolitis, meningitis, postoperative states, and ICU care.",
+    "Neonates and preterm infants require specialized protocols due to different renal physiology."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Hypernatremia",
+    "Dehydration",
+    "Fluid Therapy",
+    "Isotonic Solutions",
+    "Electrolyte Imbalance",
+    "Pediatrics",
+    "Maintenance Intravenous Fluids",
+    "Cerebral Edema"
+  ],
+  "tags_custom": [
+    "Pediatric fluid management",
+    "Hypernatremia correction",
+    "Electrolyte monitoring",
+    "IV fluid guidelines"
+  ],
+  "reference_quote": "AAP and NICE guidance supports 0.9% saline-based maintenance with dextrose; add potassium only after urine output is established.",
+  "document_key_topics": [
+    "Hypernatremia risk and clinical signs in children",
+    "Safe correction of hypernatremia and prevention of complications",
+    "Guidelines for maintenance intravenous fluid therapy",
+    "High-risk situations for electrolyte monitoring in pediatric care"
+  ],
+  "chunk_heading": "MACRONUTRIENT NUTRITION ACROSS CHILDHOOD;HYPERNATREMIA RISK AND SAFE MAINTENANCE INTRAVENOUS FLUID PRACTICE;",
+  "topic": "MACRONUTRIENT NUTRITION ACROSS CHILDHOOD",
+  "subtopic": "HYPERNATREMIA RISK AND SAFE MAINTENANCE INTRAVENOUS FLUID PRACTICE",
+  "sub_subtopic": null,
+  "heading_path": "MACRONUTRIENT NUTRITION ACROSS CHILDHOOD;HYPERNATREMIA RISK AND SAFE MAINTENANCE INTRAVENOUS FLUID PRACTICE;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2{"
+}

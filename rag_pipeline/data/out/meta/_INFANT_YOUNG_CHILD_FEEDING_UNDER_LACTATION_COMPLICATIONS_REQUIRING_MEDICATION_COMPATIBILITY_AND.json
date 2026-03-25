@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "Guidance on medication use during breastfeeding, emphasizing safety, structured decision-making, and minimizing infant exposure while maintaining lactation.",
+  "learning_objectives": [
+    "Understand the principles of medication safety during breastfeeding, including drug selection and infant risk assessment.",
+    "Learn strategies to minimize infant exposure to medications through timing and dosing adjustments.",
+    "Identify situations requiring specialist input or temporary breastfeeding interruption.",
+    "Familiarize with evidence-based lactation pharmacology resources like LactMed."
+  ],
+  "key_facts": [
+    "Most common antibiotics, paracetamol, and ibuprofen are compatible with breastfeeding.",
+    "Structured decision-making includes selecting drugs with short half-life, poor oral bioavailability, and high protein binding.",
+    "Infant risk factors include prematurity, neonatal age, hyperbilirubinemia, and G6PD deficiency.",
+    "Temporary breastfeeding interruption may be required for cytotoxic chemotherapy, radioactive isotopes, and high-toxicity drugs.",
+    "Mothers should express milk at normal feeding frequency during interruptions to maintain supply.",
+    "Dose medications immediately after feeding to reduce peak exposure at the next feed."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Breastfeeding",
+    "Lactation",
+    "Drug Therapy",
+    "Pharmacokinetics",
+    "Infant, Newborn",
+    "Hyperbilirubinemia",
+    "G6PD Deficiency",
+    "Mastitis"
+  ],
+  "tags_custom": [
+    "Medication safety",
+    "Lactation management",
+    "Infant health",
+    "Breastfeeding pharmacology"
+  ],
+  "reference_quote": "Direct clinicians to evidence-based lactation pharmacology resources (for example, LactMed) rather than relying on package inserts, which often oversimplify or misrepresent risks.",
+  "document_key_topics": [
+    "Medication safety during breastfeeding",
+    "Infant risk factors for drug exposure",
+    "Strategies to maintain lactation during interruptions"
+  ],
+  "chunk_heading": "- INFANT & YOUNG CHILD FEEDING UNDER 2 YEARS;LACTATION COMPLICATIONS REQUIRING TARGETED TREATMENT;MEDICATION COMPATIBILITY AND CONTRAINDICATIONS DURING BREASTFEEDING;",
+  "topic": "- INFANT & YOUNG CHILD FEEDING UNDER 2 YEARS",
+  "subtopic": "LACTATION COMPLICATIONS REQUIRING TARGETED TREATMENT",
+  "sub_subtopic": "MEDICATION COMPATIBILITY AND CONTRAINDICATIONS DURING BREASTFEEDING",
+  "heading_path": "- INFANT & YOUNG CHILD FEEDING UNDER 2 YEARS;LACTATION COMPLICATIONS REQUIRING TARGETED TREATMENT;MEDICATION COMPATIBILITY AND CONTRAINDICATIONS DURING BREASTFEEDING;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "2b2"
+}

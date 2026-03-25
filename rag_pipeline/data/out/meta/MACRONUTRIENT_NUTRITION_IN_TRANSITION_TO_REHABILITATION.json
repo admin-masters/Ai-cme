@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Guidelines for transitioning children with severe acute malnutrition (SAM) to rehabilitation focus on electrolyte safety, antibiotic protocols, and criteria-based discharge to prevent complications during refeeding.",
+  "learning_objectives": [
+    "Understand the transition criteria from F-75 to F-100 or catch-up diets in SAM management.",
+    "Learn electrolyte replacement protocols, including potassium, magnesium, and phosphate correction during rehabilitation.",
+    "Recognize antibiotic regimens for uncomplicated and complicated SAM cases.",
+    "Identify discharge criteria and follow-up strategies for children recovering from SAM."
+  ],
+  "key_facts": [
+    "Transition to rehabilitation should occur only after appetite improves, edema reduces, and weight gain is \u22655 g/kg/day for three consecutive days.",
+    "Potassium supplementation: 3\u20134 mEq/kg/day for at least two weeks; magnesium replacement includes initial IM dose and oral/enteral supplementation for two weeks.",
+    "Avoid added salt and diuretics during rehabilitation; check phosphate levels to prevent hypophosphatemia-related complications.",
+    "Routine antibiotics for uncomplicated SAM: oral amoxicillin 15 mg/kg per dose every 8 hours for five days.",
+    "Discharge criteria: clinically stable, feeding reliably, edema resolved, and upward weight trajectory."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Severe Acute Malnutrition",
+    "Electrolyte Replacement Therapy",
+    "Refeeding Syndrome",
+    "Antibiotic Therapy",
+    "Child Nutrition Disorders",
+    "Potassium Deficiency",
+    "Magnesium Deficiency",
+    "Hypophosphatemia"
+  ],
+  "tags_custom": [
+    "SAM rehabilitation",
+    "electrolyte safety",
+    "antibiotic protocols",
+    "discharge criteria",
+    "refeeding complications"
+  ],
+  "reference_quote": "Transition-phase feeding updates emphasize gradual progression from F-75 to F-100 or catch-up diets only when clinical stability and weight gain are evident. (Source: WHO guideline updates on SAM management)",
+  "document_key_topics": [
+    "Transition-phase feeding in SAM",
+    "Electrolyte replacement protocols",
+    "Antibiotic regimens for SAM",
+    "Criteria-based discharge and follow-up"
+  ],
+  "chunk_heading": "MACRONUTRIENT NUTRITION IN CHILDHOOD;TRANSITION TO REHABILITATION ELECTROLYTE AND ANTIBIOTIC SAFETY IN SEVERE ACUTE MALNUTRITION;",
+  "topic": "MACRONUTRIENT NUTRITION IN CHILDHOOD",
+  "subtopic": "TRANSITION TO REHABILITATION ELECTROLYTE AND ANTIBIOTIC SAFETY IN SEVERE ACUTE MALNUTRITION",
+  "sub_subtopic": null,
+  "heading_path": "MACRONUTRIENT NUTRITION IN CHILDHOOD;TRANSITION TO REHABILITATION ELECTROLYTE AND ANTIBIOTIC SAFETY IN SEVERE ACUTE MALNUTRITION;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "4\u0080"
+}

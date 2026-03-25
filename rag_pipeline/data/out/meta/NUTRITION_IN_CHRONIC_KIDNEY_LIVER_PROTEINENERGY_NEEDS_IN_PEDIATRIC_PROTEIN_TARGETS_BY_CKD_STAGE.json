@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Protein targets in pediatric CKD vary by stage and dialysis modality, emphasizing growth support, PEW prevention, and bioavailable protein intake adjustments for dietary patterns.",
+  "learning_objectives": [
+    "Understand protein requirements for pediatric CKD stages 3\u20135 and dialysis modalities.",
+    "Learn strategies to manage PEW and optimize growth in children with CKD.",
+    "Identify dietary adjustments for lactovegetarian patterns in pediatric CKD.",
+    "Recognize the importance of documenting PEW and monitoring growth trajectories."
+  ],
+  "key_facts": [
+    "Protein targets: 100\u2013140% of healthy-child DRI for CKD stage 3; 100\u2013120% for stages 4\u20135.",
+    "CKD stage 5D dialysis protein allowances: 0.15\u20130.3 g/kg/day extra for PD, 0.1 g/kg/day for HD.",
+    "Lactovegetarian diets may require 1.2\u20131.3 times higher protein intake than mixed diets.",
+    "PEW documentation predicts adverse outcomes and prompts earlier intervention.",
+    "Correct metabolic acidosis when bicarbonate is persistently <22 mmol/L before considering protein reduction."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Chronic Kidney Disease",
+    "Pediatric Nutrition",
+    "Protein-Energy Malnutrition",
+    "Dialysis",
+    "Dietary Proteins",
+    "Growth Disorders",
+    "Metabolic Acidosis",
+    "Phosphate Metabolism"
+  ],
+  "tags_custom": [
+    "pediatric CKD nutrition",
+    "protein targets by CKD stage",
+    "PEW management",
+    "dialysis protein needs",
+    "growth monitoring"
+  ],
+  "reference_quote": "Protein prescriptions in pediatric CKD are written to support growth while accounting for uremia and dialytic losses. (Reference 1)",
+  "document_key_topics": [
+    "Protein targets by CKD stage and dialysis modality",
+    "Prevention and management of PEW in pediatric CKD",
+    "Dietary adjustments for bioavailable protein intake",
+    "Growth monitoring and escalation plans in CKD"
+  ],
+  "chunk_heading": "NUTRITION IN CHRONIC KIDNEY & LIVER DISEASE;PROTEIN-ENERGY NEEDS IN PEDIATRIC CHRONIC KIDNEY DISEASE;PROTEIN TARGETS BY CKD STAGE DIALYSIS MODALITY AND PEW DOCUMENTATION;",
+  "topic": "NUTRITION IN CHRONIC KIDNEY & LIVER DISEASE",
+  "subtopic": "PROTEIN-ENERGY NEEDS IN PEDIATRIC CHRONIC KIDNEY DISEASE",
+  "sub_subtopic": "PROTEIN TARGETS BY CKD STAGE DIALYSIS MODALITY AND PEW DOCUMENTATION",
+  "heading_path": "NUTRITION IN CHRONIC KIDNEY & LIVER DISEASE;PROTEIN-ENERGY NEEDS IN PEDIATRIC CHRONIC KIDNEY DISEASE;PROTEIN TARGETS BY CKD STAGE DIALYSIS MODALITY AND PEW DOCUMENTATION;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "2p5"
+}

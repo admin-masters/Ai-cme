@@ -1,0 +1,51 @@
+{
+  "chunk_summary": "Indian human milk banks require formal quality assurance systems, including SOPs, operational metrics, and corrective actions to ensure safety and traceability in resource-limited settings.",
+  "learning_objectives": [
+    "Understand the components of quality assurance systems in Indian human milk banks.",
+    "Learn key operational metrics for monitoring milk bank safety and efficiency.",
+    "Identify corrective actions for contamination or equipment failure in milk banking.",
+    "Explore low-cost safety controls suitable for resource-limited settings."
+  ],
+  "key_facts": [
+    "Indian guidelines mandate written SOPs for donor recruitment, screening, pasteurization, and dispensing.",
+    "Operational metrics include time from donation to pasteurization and discard rates due to cold-chain failure.",
+    "Core documentation includes temperature logs, culture results, and donor screening records.",
+    "Periodic drills trace dispensed milk back to donor screening and pasteurization records.",
+    "Low-cost controls like daily temperature charting and sealed storage bins improve safety in resource-limited settings.",
+    "Corrective actions for contamination include stock quarantine, clinical notification, and staff retraining.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Milk Banks",
+    "Human Milk",
+    "Quality Assurance",
+    "Pasteurization",
+    "Cold Chain",
+    "Safety Management",
+    "Donor Screening",
+    "Resource-Limited Settings"
+  ],
+  "tags_custom": [
+    "Indian milk banking",
+    "quality systems",
+    "contamination response",
+    "low-cost safety measures",
+    "traceability protocols"
+  ],
+  "reference_quote": "Indian national guidance for lactation management centers emphasizes written SOPs for donor recruitment, screening, collection, pooling, pasteurization, culture testing, storage, and dispensing.",
+  "document_key_topics": [
+    "Quality assurance systems in human milk banks",
+    "Operational metrics for milk bank safety",
+    "Corrective actions for contamination or equipment failure",
+    "Low-cost safety controls in resource-limited settings"
+  ],
+  "chunk_heading": "EXPRESSED MILK, DONOR MILK & MILK BANKING;QUALITY ASSURANCE SYSTEMS IN INDIAN  HUMAN MILK BANKS;",
+  "topic": "EXPRESSED MILK, DONOR MILK & MILK BANKING",
+  "subtopic": "QUALITY ASSURANCE SYSTEMS IN INDIAN  HUMAN MILK BANKS",
+  "sub_subtopic": null,
+  "heading_path": "EXPRESSED MILK, DONOR MILK & MILK BANKING;QUALITY ASSURANCE SYSTEMS IN INDIAN  HUMAN MILK BANKS;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "2\u0083"
+}

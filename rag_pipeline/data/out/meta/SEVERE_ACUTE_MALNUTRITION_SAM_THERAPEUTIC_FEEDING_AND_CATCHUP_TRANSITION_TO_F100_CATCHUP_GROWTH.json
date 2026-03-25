@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Guidelines for transitioning SAM patients from F-75 to F-100 during rehabilitation focus on safety, catch-up growth monitoring, and prevention of refeeding syndrome.",
+  "learning_objectives": [
+    "Understand the criteria for transitioning from stabilization to rehabilitation feeding in SAM management.",
+    "Learn the structured approach to replacing F-75 with F-100 and monitoring for cardiac intolerance.",
+    "Identify and manage complications such as refeeding syndrome during catch-up growth.",
+    "Interpret weight gain metrics and assess for underlying issues in poor growth outcomes."
+  ],
+  "key_facts": [
+    "Transition to F-100 begins when appetite returns, temperature stabilizes, hypoglycemia resolves, and oedema reduces or resolves.",
+    "Daily weight gain is categorized as good (\u226510 g/kg/day), moderate (5-<10 g/kg/day), and poor (<5 g/kg/day).",
+    "Refeeding syndrome prevention includes phased feeding (F-75 to F-100/RUTF), early potassium and magnesium repletion, and electrolyte monitoring.",
+    "Monitor for cardiac intolerance signs such as tachypnea, rising pulse, hepatomegaly, or recurrent oedema during rehabilitation feeding.",
+    "Indian guidelines suggest replacing F-75 with equal volumes of F-100 for 2 days, then gradually increasing feed amounts."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Severe Acute Malnutrition",
+    "Therapeutic Feeding",
+    "Catch-Up Growth",
+    "Refeeding Syndrome",
+    "Electrolyte Imbalance",
+    "Nutritional Rehabilitation",
+    "Cardiac Intolerance",
+    "Weight Gain"
+  ],
+  "tags_custom": [
+    "SAM management",
+    "F-100 feeding transition",
+    "rehabilitation safety",
+    "growth monitoring",
+    "refeeding complications"
+  ],
+  "reference_quote": "Begin rehabilitation only when appetite has returned, temperature is stable, there has been no further hypoglycemia, and oedema is reducing or resolved. (Ministry of Health and Family Welfare, 2011)",
+  "document_key_topics": [
+    "Transition from F-75 to F-100 feeding",
+    "Catch-up growth monitoring in SAM",
+    "Refeeding syndrome prevention",
+    "Cardiac intolerance during rehabilitation"
+  ],
+  "chunk_heading": "SEVERE ACUTE MALNUTRITION (SAM) MANAGEMENT;THERAPEUTIC FEEDING AND CATCH-UP GROWTH;TRANSITION TO F-100 CATCH-UP GROWTH AND REFEEDING SAFETY;",
+  "topic": "SEVERE ACUTE MALNUTRITION (SAM) MANAGEMENT",
+  "subtopic": "THERAPEUTIC FEEDING AND CATCH-UP GROWTH",
+  "sub_subtopic": "TRANSITION TO F-100 CATCH-UP GROWTH AND REFEEDING SAFETY",
+  "heading_path": "SEVERE ACUTE MALNUTRITION (SAM) MANAGEMENT;THERAPEUTIC FEEDING AND CATCH-UP GROWTH;TRANSITION TO F-100 CATCH-UP GROWTH AND REFEEDING SAFETY;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1v1"
+}

@@ -1,0 +1,47 @@
+{
+  "chunk_summary": "This section explains how to interpret program coverage indicators in clinical contexts, emphasizing the limitations of reported data and the need for clinicians to verify actual intake and adherence to nutrition and fortification programs.",
+  "learning_objectives": [
+    "Understand the limitations of program coverage indicators in clinical decision-making.",
+    "Learn to verify reported data, such as VAS doses, IFA adherence, and deworming compliance.",
+    "Identify discrepancies between distribution and actual intake in fortification programs.",
+    "Develop practical skills to translate coverage indicators into actionable clinical questions."
+  ],
+  "key_facts": [
+    "Vitamin A Supplementation (VAS) is often reported as 'received in the last 6 months' rather than 'completed all nine doses.'",
+    "Iron and Folic Acid (IFA) coverage is frequently overestimated due to low adherence despite distribution.",
+    "National Deworming Day (NDD) indicators may double count doses if main-round and mop-up data are not reconciled.",
+    "Fortified rice monitoring tracks procurement or district supply but does not confirm individual consumption.",
+    "Iodized salt indicators differ between production-level iodine content and household-level adequacy due to storage practices."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Nutrition Programs",
+    "Fortified Foods",
+    "Vitamin A Deficiency",
+    "Iron-Deficiency Anemia",
+    "Deworming",
+    "Iodized Salt",
+    "Health Monitoring",
+    "Public Health Surveillance"
+  ],
+  "tags_custom": [
+    "Program Coverage Indicators",
+    "Clinical Verification",
+    "Nutrition Adherence",
+    "Fortification Monitoring"
+  ],
+  "reference_quote": "\u2018VAS is often reported as \u201creceived in the last 6 months\u201d among a defined age band, not as \u201ccompleted all nine doses.\u201d\u2019",
+  "document_key_topics": [
+    "Interpreting program coverage indicators in clinical practice",
+    "Limitations of reported data in nutrition programs",
+    "Verification of adherence and intake in fortification programs"
+  ],
+  "chunk_heading": "NATIONAL NUTRITION & FORTIFICATION PROGRAMS IN INDIA;IMPLEMENTATION ROLES, MONITORING INDICATORS, AND CLINIC DOCUMENTATION;INTERPRETING PROGRAMME COVERAGE INDICATORS IN CLINICAL CONTEXT;",
+  "topic": "NATIONAL NUTRITION & FORTIFICATION PROGRAMS IN INDIA",
+  "subtopic": "IMPLEMENTATION ROLES, MONITORING INDICATORS, AND CLINIC DOCUMENTATION",
+  "sub_subtopic": "INTERPRETING PROGRAMME COVERAGE INDICATORS IN CLINICAL CONTEXT",
+  "heading_path": "NATIONAL NUTRITION & FORTIFICATION PROGRAMS IN INDIA;IMPLEMENTATION ROLES, MONITORING INDICATORS, AND CLINIC DOCUMENTATION;INTERPRETING PROGRAMME COVERAGE INDICATORS IN CLINICAL CONTEXT;",
+  "reference_count": 6,
+  "has_guidelines": false,
+  "sequence": "1\u00802"
+}

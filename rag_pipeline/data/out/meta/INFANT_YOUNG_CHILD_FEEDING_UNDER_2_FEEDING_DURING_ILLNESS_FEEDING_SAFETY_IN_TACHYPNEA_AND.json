@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "Feeding safety in infants and young children with tachypnea or respiratory distress focuses on managing feeding risks, ensuring energy intake, and recognizing danger signs for urgent referral during illness and recovery.",
+  "learning_objectives": [
+    "Understand feeding challenges in infants with respiratory distress and tachypnea.",
+    "Learn age-based fast breathing thresholds for triage and severity assessment.",
+    "Identify safe feeding practices during mild to moderate respiratory illness.",
+    "Recognize danger signs requiring urgent referral and facility-based care."
+  ],
+  "key_facts": [
+    "Fast breathing thresholds: \u226550/min for 2\u201312 months, \u226540/min for 12\u201359 months (IMNCI algorithms).",
+    "Danger signs include chest indrawing, stridor in a calm child, cyanosis, grunting, or apnea.",
+    "For moderate tachypnea, offer smaller, frequent feeds or expressed breast milk via cup/spoon.",
+    "Severe tachypnea or choking during feeding requires urgent referral and possible NG feeding in facilities.",
+    "Saline drops and upright feeding can help manage nasal congestion during mild illness.",
+    "Caregivers should monitor reduced feeding, fewer wet diapers, increased breathing rate, or unusual sleepiness for same-day review."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Infant Nutrition",
+    "Respiratory Distress Syndrome",
+    "Tachypnea",
+    "Breastfeeding",
+    "Complementary Feeding",
+    "Nasogastric Intubation",
+    "Child Hospitalization",
+    "Energy Intake"
+  ],
+  "tags_custom": [
+    "feeding safety",
+    "respiratory illness",
+    "infant care",
+    "hospital feeding protocols",
+    "caregiver education"
+  ],
+  "reference_quote": "Age-based fast breathing thresholds support triage (for example, 2\u201312 months \u226550/min and 12\u201359 months \u226540/min in IMNCI algorithms).",
+  "document_key_topics": [
+    "Feeding safety during respiratory distress",
+    "Age-based respiratory thresholds for triage",
+    "Facility-based feeding protocols for severe illness",
+    "Caregiver education on danger signs and feeding adjustments"
+  ],
+  "chunk_heading": "INFANT & YOUNG CHILD FEEDING UNDER 2 YEARS;FEEDING DURING ILLNESS  HOSPITALIZATION AND RECOVERY;FEEDING SAFETY IN TACHYPNEA AND  RESPIRATORY DISTRESS;",
+  "topic": "INFANT & YOUNG CHILD FEEDING UNDER 2 YEARS",
+  "subtopic": "FEEDING DURING ILLNESS  HOSPITALIZATION AND RECOVERY",
+  "sub_subtopic": "FEEDING SAFETY IN TACHYPNEA AND  RESPIRATORY DISTRESS",
+  "heading_path": "INFANT & YOUNG CHILD FEEDING UNDER 2 YEARS;FEEDING DURING ILLNESS  HOSPITALIZATION AND RECOVERY;FEEDING SAFETY IN TACHYPNEA AND  RESPIRATORY DISTRESS;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "4\u00831"
+}

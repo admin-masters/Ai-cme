@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "This section outlines the minimum criteria for initiating diagnostic elimination diets in Indian outpatient care, emphasizing time-limited testing, safety planning, and evidence-based triggers to avoid unnecessary restrictions and malnutrition.",
+  "learning_objectives": [
+    "Understand the minimum criteria for initiating diagnostic elimination diets in food allergy management.",
+    "Identify immune-mediated phenotypes and their specific triggers for elimination diets.",
+    "Learn the importance of safety planning and structured reintroduction protocols.",
+    "Recognize the risks of unnecessary dietary restrictions and malnutrition in pediatric care."
+  ],
+  "key_facts": [
+    "Diagnostic elimination diets are time-limited tests, not lifestyle changes, and must end with confirmed relapse or cessation if criteria are unmet.",
+    "Minimum criteria include a plausible immune-mediated phenotype, a specific suspected trigger, and documented baseline measures (e.g., vomiting counts, stool frequency, weight trends).",
+    "For non-IgE-mediated phenotypes, elimination diets should last 2\u20136 weeks, followed by planned reintroduction.",
+    "Empirical exclusion without confirmation is discouraged due to risks of malnutrition and unnecessary dietary restrictions.",
+    "High-risk cases (e.g., prior anaphylaxis, suspected FPIES) require supervised food reintroduction, while low-risk cases may allow home reintroduction."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Food Hypersensitivity",
+    "Elimination Diet",
+    "Food Allergy",
+    "Immune System Diseases",
+    "Pediatrics",
+    "Nutritional Status",
+    "Food Intolerance",
+    "Diet Therapy"
+  ],
+  "tags_custom": [
+    "diagnostic elimination diets",
+    "pediatric food allergy",
+    "immune-mediated reactions",
+    "nutritional safety"
+  ],
+  "reference_quote": "Empirical exclusion 'without confirmation' is explicitly discouraged in Indian consensus guidance because it drives unnecessary restriction, formula escalation, and malnutrition.",
+  "document_key_topics": [
+    "Diagnostic elimination diets in food allergy management",
+    "Criteria for initiating elimination diets",
+    "Safety planning and reintroduction protocols",
+    "Risks of unnecessary dietary restrictions"
+  ],
+  "chunk_heading": "FOOD ALLERGY & THERAPEUTIC ELIMINATION DIETS;CLINIC TRIAGE FRAMEWORK FOR ADVERSE FOOD REACTIONS;MINIMUM CRITERIA FOR DIAGNOSTIC ELIMINATION DIETS;",
+  "topic": "FOOD ALLERGY & THERAPEUTIC ELIMINATION DIETS",
+  "subtopic": "CLINIC TRIAGE FRAMEWORK FOR ADVERSE FOOD REACTIONS",
+  "sub_subtopic": "MINIMUM CRITERIA FOR DIAGNOSTIC ELIMINATION DIETS",
+  "heading_path": "FOOD ALLERGY & THERAPEUTIC ELIMINATION DIETS;CLINIC TRIAGE FRAMEWORK FOR ADVERSE FOOD REACTIONS;MINIMUM CRITERIA FOR DIAGNOSTIC ELIMINATION DIETS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1i2"
+}

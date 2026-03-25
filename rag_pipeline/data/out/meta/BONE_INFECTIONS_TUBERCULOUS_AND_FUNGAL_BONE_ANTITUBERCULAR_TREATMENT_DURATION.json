@@ -1,0 +1,45 @@
+{
+  "chunk_summary": "Management of osteoarticular tuberculosis includes a 9-12 month antitubercular regimen, with surgery reserved for specific indications like abscess drainage or spinal instability.",
+  "learning_objectives": [
+    "Understand the standard antitubercular treatment duration for osteoarticular TB.",
+    "Identify clinical and surgical indications for managing complicated TB cases.",
+    "Recognize the importance of monitoring treatment response and drug toxicity.",
+    "Learn the role of national TB programs in improving treatment outcomes."
+  ],
+  "key_facts": [
+    "The standard treatment duration for drug-susceptible osteoarticular TB is 9-12 months.",
+    "The intensive phase includes isoniazid, rifampicin, pyrazinamide, and ethambutol, followed by a continuation phase with isoniazid and rifampicin.",
+    "Surgery is indicated for abscess decompression, deformity correction, or neurologic compromise.",
+    "Monitoring includes weight gain, return of function, and inflammatory marker trends, as radiologic healing lags behind clinical response.",
+    "Drug toxicity surveillance is critical, especially for liver injury and ethambutol-related visual symptoms."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Osteoarticular Tuberculosis",
+    "Antitubercular Agents",
+    "Surgical Procedures, Operative",
+    "Extrapulmonary Tuberculosis",
+    "Drug Monitoring",
+    "Pediatric Infectious Diseases"
+  ],
+  "tags_custom": [
+    "Bone infections",
+    "TB treatment guidelines",
+    "Surgical indications",
+    "Pediatric TB management"
+  ],
+  "reference_quote": "The usual regimen for drug-susceptible osteoarticular TB is an intensive phase with isoniazid, rifampicin, pyrazinamide, and ethambutol followed by a continuation phase with isoniazid and rifampicin.",
+  "document_key_topics": [
+    "Antitubercular treatment duration",
+    "Surgical indications in osteoarticular TB",
+    "Monitoring and toxicity management in TB treatment"
+  ],
+  "chunk_heading": "BONE INFECTIONS;TUBERCULOUS AND FUNGAL BONE INFECTIONS;ANTITUBERCULAR TREATMENT DURATION AND SURGICAL INDICATIONS;",
+  "topic": "BONE INFECTIONS",
+  "subtopic": "TUBERCULOUS AND FUNGAL BONE INFECTIONS",
+  "sub_subtopic": "ANTITUBERCULAR TREATMENT DURATION AND SURGICAL INDICATIONS",
+  "heading_path": "BONE INFECTIONS;TUBERCULOUS AND FUNGAL BONE INFECTIONS;ANTITUBERCULAR TREATMENT DURATION AND SURGICAL INDICATIONS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u00832"
+}

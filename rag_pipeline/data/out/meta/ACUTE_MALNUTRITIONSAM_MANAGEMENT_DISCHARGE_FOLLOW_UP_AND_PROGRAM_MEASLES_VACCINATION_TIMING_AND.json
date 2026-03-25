@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "Guidelines for measles vaccination timing and routine immunization catch-up in children with severe acute malnutrition (SAM), emphasizing vaccination during treatment and follow-up care to prevent complications like measles-related fatalities.",
+  "learning_objectives": [
+    "Understand the importance of measles vaccination in SAM management and its timing.",
+    "Learn how to integrate immunization checks into inpatient and outpatient workflows.",
+    "Recognize the difference between early measles vaccination and routine doses for durable immunity.",
+    "Identify protocols for vitamin A supplementation versus measles vaccination in SAM care."
+  ],
+  "key_facts": [
+    "Measles vaccination is recommended for SAM children \u22656 months who are unvaccinated or incompletely vaccinated.",
+    "Early measles vaccination before 9 months requires follow-up routine doses after 9 months for durable immunity.",
+    "Vaccination should be delayed if the child is in shock or has uncontrolled acute instability.",
+    "Immunization status should be reassessed weekly during outpatient follow-up visits.",
+    "Vitamin A supplementation follows indication-based protocols and is distinct from measles vaccination."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Severe Acute Malnutrition",
+    "Measles Vaccine",
+    "Immunization Programs",
+    "Child Nutrition Disorders",
+    "Vitamin A",
+    "Preventive Health Services",
+    "Vaccination Schedule",
+    "Malnutrition Complications"
+  ],
+  "tags_custom": [
+    "SAM management",
+    "measles prevention",
+    "immunization follow-up",
+    "child health protocols",
+    "vaccination timing"
+  ],
+  "reference_quote": "In standard hospital guidance, give a measles-containing vaccine to eligible children with SAM who are \u22656 months and are unvaccinated or incompletely vaccinated, but delay vaccination if the child is in shock or has uncontrolled acute instability.",
+  "document_key_topics": [
+    "Measles vaccination timing in SAM",
+    "Routine immunization catch-up for malnourished children",
+    "Vitamin A supplementation protocols"
+  ],
+  "chunk_heading": "ACUTE  MALNUTRITION-(SAM)  MANAGEMENT;DISCHARGE FOLLOW UP AND PROGRAM QUALITY;MEASLES VACCINATION TIMING AND ROUTINE  IMMUNIZATION CATCH-UP;",
+  "topic": "ACUTE  MALNUTRITION-(SAM)  MANAGEMENT",
+  "subtopic": "DISCHARGE FOLLOW UP AND PROGRAM QUALITY",
+  "sub_subtopic": "MEASLES VACCINATION TIMING AND ROUTINE  IMMUNIZATION CATCH-UP",
+  "heading_path": "ACUTE  MALNUTRITION-(SAM)  MANAGEMENT;DISCHARGE FOLLOW UP AND PROGRAM QUALITY;MEASLES VACCINATION TIMING AND ROUTINE  IMMUNIZATION CATCH-UP;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "4a1"
+}

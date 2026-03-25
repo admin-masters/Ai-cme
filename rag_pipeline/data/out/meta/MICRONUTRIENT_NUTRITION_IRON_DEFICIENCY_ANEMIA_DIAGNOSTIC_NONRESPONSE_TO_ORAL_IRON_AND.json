@@ -1,0 +1,47 @@
+{
+  "chunk_summary": "This section addresses nonresponse to oral iron therapy in iron deficiency anemia, emphasizing systematic reassessment, adherence verification, and targeted escalation based on etiology and severity.",
+  "learning_objectives": [
+    "Understand the importance of verifying adherence and dosing in oral iron therapy.",
+    "Identify potential causes of nonresponse, including inflammation, chronic blood loss, and malabsorption.",
+    "Learn appropriate escalation strategies, including targeted testing and inpatient evaluation for severe cases."
+  ],
+  "key_facts": [
+    "Nonresponse is often due to process issues rather than medication strength.",
+    "Expected Hb rise: <1 g/dL after ~4 weeks in mild anemia or minimal change after ~2 weeks in severe anemia.",
+    "Prescribed dose: elemental iron ~3 mg/kg/day, administered away from milk intake.",
+    "Common causes of nonresponse: persistent inflammation, chronic blood loss, malabsorption, or hemoglobinopathies.",
+    "Escalation options: correct adherence, targeted tests, or inpatient evaluation for severe anemia."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Iron Deficiency Anemia",
+    "Micronutrients",
+    "Hemoglobinopathies",
+    "Malabsorption Syndromes",
+    "Inflammation",
+    "Blood Loss",
+    "Pediatric Nutrition",
+    "Therapeutics"
+  ],
+  "tags_custom": [
+    "oral iron therapy",
+    "nonresponse management",
+    "pediatric anemia",
+    "targeted escalation",
+    "adherence verification"
+  ],
+  "reference_quote": "Failure to improve is most often a process problem rather than a 'stronger medicine' problem.",
+  "document_key_topics": [
+    "Nonresponse to oral iron therapy",
+    "Systematic reassessment in anemia management",
+    "Targeted escalation based on etiology"
+  ],
+  "chunk_heading": "MICRONUTRIENT NUTRITION;IRON DEFICIENCY ANEMIA DIAGNOSTIC AND THERAPEUTIC DECISIONS;NONRESPONSE TO ORAL IRON AND TARGETED ESCALATION;",
+  "topic": "MICRONUTRIENT NUTRITION",
+  "subtopic": "IRON DEFICIENCY ANEMIA DIAGNOSTIC AND THERAPEUTIC DECISIONS",
+  "sub_subtopic": "NONRESPONSE TO ORAL IRON AND TARGETED ESCALATION",
+  "heading_path": "MICRONUTRIENT NUTRITION;IRON DEFICIENCY ANEMIA DIAGNOSTIC AND THERAPEUTIC DECISIONS;NONRESPONSE TO ORAL IRON AND TARGETED ESCALATION;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1s4"
+}

@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "Facility-based therapeutic feeding for severe acute malnutrition (SAM) involves structured care in NRCs, using phased feeding protocols (F-75, F-100) to stabilize and rehabilitate children, with emphasis on monitoring and caregiver follow-up.",
+  "learning_objectives": [
+    "Understand the phased feeding protocols (F-75 and F-100) used in facility-based management of SAM.",
+    "Recognize the clinical criteria for transitioning from stabilization to rehabilitation phases in SAM care.",
+    "Identify key monitoring parameters to prevent refeeding syndrome and ensure safe nutritional recovery.",
+    "Learn the importance of discharge planning and community-based follow-up to reduce relapse rates."
+  ],
+  "key_facts": [
+    "Facility-based care for SAM is often delivered in Nutritional Rehabilitation Centers (NRCs) linked to pediatric wards.",
+    "The stabilization phase uses F-75 formula (~130 mL/kg/day) in small, frequent feeds to manage hypoglycemia, hypothermia, and infections.",
+    "Transition to F-100 or equivalent catch-up feeding occurs after clinical stabilization, appetite return, and absence of worsening edema.",
+    "Monitoring includes phosphate, potassium, magnesium, and provision of thiamine and multivitamins during feed advancement.",
+    "Structured protocols prevent harms like premature high-calorie feeding or prolonged underfeeding.",
+    "Discharge planning links caregivers to follow-up and community support to reduce relapse."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Severe Acute Malnutrition",
+    "Enteral Nutrition",
+    "Parenteral Nutrition",
+    "Therapeutic Feeding",
+    "Nutritional Rehabilitation",
+    "Refeeding Syndrome",
+    "Micronutrient Deficiency",
+    "Pediatric Malnutrition"
+  ],
+  "tags_custom": [
+    "SAM management",
+    "Nutritional protocols",
+    "Facility-based care",
+    "Pediatric nutrition",
+    "Rehabilitation feeding"
+  ],
+  "reference_quote": "The stabilization phase prioritizes treatment of infection, hypoglycemia, hypothermia, and electrolyte imbalance while providing cautious feeding with a low-protein, low-sodium starter formula (F-75).",
+  "document_key_topics": [
+    "Facility-based management of severe acute malnutrition",
+    "Phased feeding protocols (F-75, F-100)",
+    "Monitoring and prevention of refeeding syndrome",
+    "Discharge planning and community follow-up"
+  ],
+  "chunk_heading": "ENTERAL & PARENTERAL NUTRITION;FORMULA TYPES AND BLENDERIZED TUBE FEED SAFETY;FACILITY-BASED THERAPEUTIC FEEDING FOR SEVERE ACUTE MALNUTRITION;",
+  "topic": "ENTERAL & PARENTERAL NUTRITION",
+  "subtopic": "FORMULA TYPES AND BLENDERIZED TUBE FEED SAFETY",
+  "sub_subtopic": "FACILITY-BASED THERAPEUTIC FEEDING FOR SEVERE ACUTE MALNUTRITION",
+  "heading_path": "ENTERAL & PARENTERAL NUTRITION;FORMULA TYPES AND BLENDERIZED TUBE FEED SAFETY;FACILITY-BASED THERAPEUTIC FEEDING FOR SEVERE ACUTE MALNUTRITION;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2{7"
+}

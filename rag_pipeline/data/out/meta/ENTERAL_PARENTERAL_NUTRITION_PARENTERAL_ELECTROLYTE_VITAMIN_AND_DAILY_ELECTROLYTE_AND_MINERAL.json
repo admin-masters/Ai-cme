@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "Guidelines for pediatric parenteral nutrition emphasize tailored electrolyte and mineral dosing based on maintenance needs, measured losses, and organ function, with specific ranges for calcium, phosphorus, and magnesium across developmental stages.",
+  "learning_objectives": [
+    "Understand the principles of pediatric parenteral nutrition electrolyte dosing based on organ function and measured losses.",
+    "Learn the recommended daily ranges for calcium, phosphorus, and magnesium in preterm and term infants.",
+    "Recognize the risks of refeeding-like hypophosphatemia in early preterm parenteral nutrition and strategies to mitigate it."
+  ],
+  "key_facts": [
+    "Sodium: 1\u20133 mmol/kg/day; Potassium: 1\u20133 mmol/kg/day; Chloride: 1\u20133 mmol/kg/day, titrated to serum electrolytes and losses.",
+    "Preterm infants (first days): Calcium 0.8\u20132.0 mmol/kg/day, Phosphorus 1.0\u20132.0 mmol/kg/day, Magnesium 0.1\u20130.2 mmol/kg/day.",
+    "Growing premature infants: Calcium and Phosphorus 1.6\u20133.5 mmol/kg/day each, Magnesium 0.2\u20130.3 mmol/kg/day.",
+    "Term infants (up to 6 months): Calcium 0.8\u20131.5 mmol/kg/day, Phosphorus 0.7\u20131.3 mmol/kg/day, Magnesium 0.1\u20130.2 mmol/kg/day.",
+    "Use a molar calcium-to-phosphate ratio of 0.75:1 to 1:1 (often 0.8\u20131.0 early) to prevent hypophosphatemia during macronutrient escalation."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Parenteral Nutrition",
+    "Electrolytes",
+    "Calcium",
+    "Phosphorus",
+    "Magnesium",
+    "Pediatrics",
+    "Acid-Base Imbalance",
+    "Organ Function"
+  ],
+  "tags_custom": [
+    "pediatric nutrition",
+    "electrolyte dosing",
+    "growth-limiting substrates",
+    "refeeding syndrome",
+    "parenteral guidelines"
+  ],
+  "reference_quote": "Prescribe pediatric PN electrolytes as 'maintenance needs plus measured losses, constrained by organ function,' not as a fixed recipe.",
+  "document_key_topics": [
+    "Pediatric parenteral nutrition electrolyte dosing",
+    "Daily calcium, phosphorus, and magnesium requirements",
+    "Organ function adjustments in PN",
+    "Prevention of refeeding-like hypophosphatemia"
+  ],
+  "chunk_heading": "ENTERAL & PARENTERAL NUTRITION;PARENTERAL ELECTROLYTE VITAMIN AND TRACE ELEMENT PRESCRIPTION;DAILY ELECTROLYTE AND MINERAL DOSING WITH ORGAN FUNCTION ADJUSTMENT;",
+  "topic": "ENTERAL & PARENTERAL NUTRITION",
+  "subtopic": "PARENTERAL ELECTROLYTE VITAMIN AND TRACE ELEMENT PRESCRIPTION",
+  "sub_subtopic": "DAILY ELECTROLYTE AND MINERAL DOSING WITH ORGAN FUNCTION ADJUSTMENT",
+  "heading_path": "ENTERAL & PARENTERAL NUTRITION;PARENTERAL ELECTROLYTE VITAMIN AND TRACE ELEMENT PRESCRIPTION;DAILY ELECTROLYTE AND MINERAL DOSING WITH ORGAN FUNCTION ADJUSTMENT;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "2\u00881"
+}

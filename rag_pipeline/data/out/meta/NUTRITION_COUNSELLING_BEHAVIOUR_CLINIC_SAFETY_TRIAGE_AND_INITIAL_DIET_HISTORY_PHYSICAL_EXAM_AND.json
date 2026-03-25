@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section focuses on capturing diet history, conducting physical exams, and documenting actionable findings to address nutrition concerns in children, emphasizing structured interventions and adherence strategies in clinical settings.",
+  "learning_objectives": [
+    "Understand how to conduct a detailed diet history, including 24-hour recall and feeding dynamics.",
+    "Identify reversible causes of nutrition-related issues through targeted physical examination.",
+    "Develop structured intervention plans and documentation for nutrition counseling in pediatric cases.",
+    "Recognize red flags requiring further investigation or referral in growth and feeding concerns."
+  ],
+  "key_facts": [
+    "A 24-hour diet recall should include portion sizes, meal timing, cooking methods, and liquid calorie intake.",
+    "Screen for medical contributors like constipation, reflux, chronic infections, malabsorption, and psychosocial stressors such as food insecurity and caregiver mental health issues.",
+    "Physical exams should assess hydration, edema, oral health, micronutrient deficiencies, and neurodevelopmental impairments affecting feeding skills.",
+    "Structured interventions should last 2\u20134 weeks for behavior-driven concerns before escalating to investigations or referrals.",
+    "Use a \u201c3-item prescription\u201d approach: one behavior target, one food substitution, and one follow-up date to improve adherence in busy outpatient settings."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Nutrition Assessment",
+    "Dietary Patterns",
+    "Growth Disorders",
+    "Micronutrient Deficiencies",
+    "Pediatric Feeding Disorders",
+    "Health Behavior",
+    "Food Insecurity",
+    "Caregiver Mental Health"
+  ],
+  "tags_custom": [
+    "diet history documentation",
+    "pediatric nutrition counseling",
+    "feeding dynamics",
+    "structured intervention",
+    "clinical triage"
+  ],
+  "reference_quote": "Recognition and management of faltering growth in children should include targeted interventions and structured follow-ups. (NICE NG75)",
+  "document_key_topics": [
+    "Diet history and feeding dynamics",
+    "Physical examination for nutrition-related issues",
+    "Structured intervention and documentation strategies",
+    "Screening for medical and psychosocial contributors"
+  ],
+  "chunk_heading": "NUTRITION COUNSELLING & BEHAVIOUR CHANGE SKILLS;CLINIC SAFETY TRIAGE AND INITIAL ASSESSMENT;DIET HISTORY PHYSICAL EXAM AND ACTION-ORIENTED DOCUMENTATION;",
+  "topic": "NUTRITION COUNSELLING & BEHAVIOUR CHANGE SKILLS",
+  "subtopic": "CLINIC SAFETY TRIAGE AND INITIAL ASSESSMENT",
+  "sub_subtopic": "DIET HISTORY PHYSICAL EXAM AND ACTION-ORIENTED DOCUMENTATION",
+  "heading_path": "NUTRITION COUNSELLING & BEHAVIOUR CHANGE SKILLS;CLINIC SAFETY TRIAGE AND INITIAL ASSESSMENT;DIET HISTORY PHYSICAL EXAM AND ACTION-ORIENTED DOCUMENTATION;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1c2"
+}

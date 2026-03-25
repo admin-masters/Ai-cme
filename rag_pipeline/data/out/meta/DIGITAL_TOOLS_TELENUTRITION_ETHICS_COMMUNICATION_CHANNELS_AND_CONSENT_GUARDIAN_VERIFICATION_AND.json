@@ -1,0 +1,47 @@
+{
+  "chunk_summary": "This section discusses consent, guardian verification, and media handling in pediatric tele-nutrition, emphasizing safeguarding, documentation, and ethical media use in Indian tele-consults.",
+  "learning_objectives": [
+    "Understand the importance of verifying guardian identity and consent in pediatric tele-nutrition.",
+    "Learn how to document caregiver relationships, media exchange, and consultation details to mitigate medico-legal risks.",
+    "Recognize safeguarding protocols for child safety concerns during tele-consults.",
+    "Implement ethical media handling practices, including consent for photos/videos and file management."
+  ],
+  "key_facts": [
+    "Consent for minors must come from a verified parent, adult sibling, or legally appointed guardian.",
+    "Tele-notes should document the caregiver\u2019s identity, relationship to the child, and who was present during the consult.",
+    "Media handling requires explicit documented consent for recording, screenshots, and storage of photos/videos.",
+    "Safeguarding protocols must be followed if child safety concerns (e.g., neglect, abuse) are suspected.",
+    "Fee transparency is part of consent, including documentation of consultation fees and follow-up terms."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Telemedicine",
+    "Pediatrics",
+    "Informed Consent",
+    "Caregivers",
+    "Ethics",
+    "Nutrition Therapy",
+    "Child Welfare",
+    "Data Protection"
+  ],
+  "tags_custom": [
+    "Pediatric tele-nutrition",
+    "Guardian verification",
+    "Media consent",
+    "Safeguarding protocols"
+  ],
+  "reference_quote": "\u2018If child safety concerns are suspected (neglect, abuse, caregiver incapacity), escalate according to local safeguarding protocols rather than continuing routine nutrition counseling.\u2019 (Telemedicine Practice Guidelines, India)",
+  "document_key_topics": [
+    "Consent and guardian verification in pediatric tele-nutrition",
+    "Ethical media handling in tele-consults",
+    "Safeguarding protocols for child safety"
+  ],
+  "chunk_heading": "DIGITAL TOOLS & TELE-NUTRITION;ETHICS, COMMUNICATION CHANNELS, AND EQUITY IN INDIAN TELE-NUTRITION;CONSENT, GUARDIAN VERIFICATION, AND MEDIA HANDLING IN PEDIATRIC TELE-CONSULTS;",
+  "topic": "DIGITAL TOOLS & TELE-NUTRITION",
+  "subtopic": "ETHICS, COMMUNICATION CHANNELS, AND EQUITY IN INDIAN TELE-NUTRITION",
+  "sub_subtopic": "CONSENT, GUARDIAN VERIFICATION, AND MEDIA HANDLING IN PEDIATRIC TELE-CONSULTS",
+  "heading_path": "DIGITAL TOOLS & TELE-NUTRITION;ETHICS, COMMUNICATION CHANNELS, AND EQUITY IN INDIAN TELE-NUTRITION;CONSENT, GUARDIAN VERIFICATION, AND MEDIA HANDLING IN PEDIATRIC TELE-CONSULTS;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1\u009a1"
+}

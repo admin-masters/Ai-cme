@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "This section outlines a bedside pathway for managing GI disorders and malabsorption in children, focusing on phenotype-based test selection and immediate feeding plans to ensure weight gain during evaluation.",
+  "learning_objectives": [
+    "Understand the stepwise approach to stabilizing children with GI disorders and malabsorption, including hydration and nutrition safety.",
+    "Learn to classify stool phenotypes (watery, fatty, bloody) and their implications for diagnostic pathways.",
+    "Identify minimum first-line tests and their actionable outcomes in GI malabsorption cases.",
+    "Develop immediate feeding plans, including energy-dense diets and structured dietary ladders, for children with persistent diarrhea."
+  ],
+  "key_facts": [
+    "Stabilization in the first 6\u201324 hours includes correcting dehydration and hypoglycemia with ORS or IV fluids, continuing breastfeeding, and avoiding calorie dilution or prolonged fasting.",
+    "Children with severe wasting, poor intake, or electrolyte abnormalities should be treated as refeeding-risk with monitored calorie advancement.",
+    "Watery non-bloody stool requires osmotic, secretory, or functional classification; fatty stools suggest pancreatic, bile, or mucosal disease; bloody stools with systemic symptoms indicate an inflammatory pathway.",
+    "Minimum first-line tests include CBC, CRP \u00b1 ESR, electrolytes (potassium, magnesium, phosphate), and serum albumin; stool microscopy is added for ova/parasites based on epidemiology.",
+    "For under-5 persistent diarrhea, the IAP Diet A \u2192 Diet B \u2192 Diet C ladder is recommended over repeated formula switching."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Gastrointestinal Diseases",
+    "Malabsorption Syndromes",
+    "Diarrhea",
+    "Refeeding Syndrome",
+    "Nutritional Support",
+    "Electrolyte Imbalance",
+    "Pediatric Nutrition",
+    "Stool Analysis"
+  ],
+  "tags_custom": [
+    "India-specific guidelines",
+    "Pediatric GI care",
+    "Immediate feeding plans",
+    "Phenotype-based diagnostics"
+  ],
+  "reference_quote": "For under-5 persistent diarrhea, implement the structured IAP Diet A \u2192 Diet B \u2192 Diet C ladder rather than repeated formula switching. (IAP Standard Treatment Guidelines: Persistent Diarrhea, Chapter 030)",
+  "document_key_topics": [
+    "Stabilization and nutrition safety in GI disorders",
+    "Phenotype-based stool classification and diagnostic pathways",
+    "Minimum first-line tests for malabsorption",
+    "Immediate feeding plans and structured dietary ladders"
+  ],
+  "chunk_heading": "NUTRITION IN GI DISORDERS & MALABSORPTION;INDIA-FOCUSED TRIAGE AND FIRST- PASS ASSESSMENT;PHENOTYPE-TO-MECHANISM TEST SELECTION WITH IMMEDIATE FEEDING PLAN;",
+  "topic": "NUTRITION IN GI DISORDERS & MALABSORPTION",
+  "subtopic": "INDIA-FOCUSED TRIAGE AND FIRST- PASS ASSESSMENT",
+  "sub_subtopic": "PHENOTYPE-TO-MECHANISM TEST SELECTION WITH IMMEDIATE FEEDING PLAN",
+  "heading_path": "NUTRITION IN GI DISORDERS & MALABSORPTION;INDIA-FOCUSED TRIAGE AND FIRST- PASS ASSESSMENT;PHENOTYPE-TO-MECHANISM TEST SELECTION WITH IMMEDIATE FEEDING PLAN;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2f2"
+}

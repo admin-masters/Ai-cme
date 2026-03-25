@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section discusses obesity severity bands in children, emphasizing lifestyle intensity thresholds, metabolic risk trajectories, and therapy escalation based on 12-week checkpoints for improvement using multi-metric assessments like BMI slope and fasting TG levels.",
+  "learning_objectives": [
+    "Understand the use of obesity severity bands in assessing metabolic risk in children.",
+    "Learn how to apply multi-metric trajectories (BMI slope, ALT trend, fasting TG) for therapy decisions.",
+    "Identify lifestyle barriers such as sleep restriction and sugary beverages affecting adherence.",
+    "Explore guidelines for therapy escalation after 12 weeks of intervention."
+  ],
+  "key_facts": [
+    "Obesity severity assessment should use trajectories like BMI slope, ALT trend, and fasting TG rather than a single weight number.",
+    "A 12-week checkpoint is recommended to evaluate therapy effectiveness and decide on escalation.",
+    "Lifestyle barriers such as sleep restriction, sugary beverages, and school canteen exposure should be reassessed before labeling nonadherence.",
+    "The IAP guidelines (2023) provide specific recommendations for childhood obesity management.",
+    "WHO child growth standards (BMI-for-age) are essential for evaluating obesity severity in children."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Obesity",
+    "Pediatric Obesity",
+    "Metabolic Syndrome",
+    "Body Mass Index",
+    "Lifestyle Modification",
+    "Risk Assessment",
+    "Therapy Escalation",
+    "Child Growth Standards"
+  ],
+  "tags_custom": [
+    "Obesity severity bands",
+    "Lifestyle intensity thresholds",
+    "Therapy checkpoints",
+    "Metabolic risk metrics",
+    "Adherence barriers"
+  ],
+  "reference_quote": "Document response using trajectories (waist, BMI slope, ALT trend, fasting TG) rather than a single weight number, and set a decision checkpoint at 12 weeks: if no objective improvement, intensify contact dose and reassess barriers.",
+  "document_key_topics": [
+    "Obesity severity bands in children",
+    "Lifestyle intensity thresholds for therapy",
+    "Metabolic risk trajectories and assessment",
+    "Guidelines for therapy escalation and adherence"
+  ],
+  "chunk_heading": "METABOLIC RISK IN CHILDREN;OBESITY SEVERITY ASSESSMENT AND THERAPY ESCALATION;OBESITY SEVERITY BANDS AND LIFESTYLE INTENSITY THRESHOLDS;",
+  "topic": "METABOLIC RISK IN CHILDREN",
+  "subtopic": "OBESITY SEVERITY ASSESSMENT AND THERAPY ESCALATION",
+  "sub_subtopic": "OBESITY SEVERITY BANDS AND LIFESTYLE INTENSITY THRESHOLDS",
+  "heading_path": "METABOLIC RISK IN CHILDREN;OBESITY SEVERITY ASSESSMENT AND THERAPY ESCALATION;OBESITY SEVERITY BANDS AND LIFESTYLE INTENSITY THRESHOLDS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u00981.2"
+}

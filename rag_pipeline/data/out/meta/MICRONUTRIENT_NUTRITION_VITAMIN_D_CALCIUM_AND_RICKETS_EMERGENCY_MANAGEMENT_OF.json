@@ -1,0 +1,46 @@
+{
+  "chunk_summary": "Emergency management of symptomatic hypocalcemia in children involves rapid stabilization, IV calcium therapy, and addressing underlying causes like vitamin D deficiency, with close monitoring and etiologic evaluation.",
+  "learning_objectives": [
+    "Understand the clinical presentation and emergency management of symptomatic hypocalcemia in children.",
+    "Learn the appropriate dosage and administration of intravenous calcium gluconate in pediatric emergencies.",
+    "Identify key laboratory investigations to determine the etiology of hypocalcemia.",
+    "Develop a monitoring and follow-up plan for patients with hypocalcemia."
+  ],
+  "key_facts": [
+    "Symptomatic hypocalcemia can present with seizures, tetany, stridor, or hypocalcemic cardiomyopathy.",
+    "Initial treatment is 10% calcium gluconate at 1\u20132 mL/kg per dose IV, administered slowly under cardiac monitoring.",
+    "Monitor for bradycardia, arrhythmias, and prolonged QT interval during IV calcium administration.",
+    "Etiologic evaluation includes serum calcium, phosphate, magnesium, alkaline phosphatase, creatinine, albumin, PTH, and 25(OH)D levels.",
+    "Transition to oral calcium and vitamin D therapy after stabilization, with repeat serum calcium checks within 24\u201348 hours."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Hypocalcemia",
+    "Calcium Gluconate",
+    "Vitamin D Deficiency",
+    "Pediatric Emergency Medicine",
+    "Tetany",
+    "Seizures",
+    "Parathyroid Hormone",
+    "Electrolyte Imbalance"
+  ],
+  "tags_custom": [
+    "Symptomatic hypocalcemia",
+    "Pediatric calcium management",
+    "Emergency stabilization"
+  ],
+  "reference_quote": "Immediate treatment is intravenous calcium. A widely used pediatric anchor is 10% calcium gluconate 1\u20132 mL/kg per dose given slowly by IV route under cardiac monitoring.",
+  "document_key_topics": [
+    "Emergency management of symptomatic hypocalcemia",
+    "Intravenous calcium therapy in children",
+    "Etiologic evaluation of hypocalcemia"
+  ],
+  "chunk_heading": "MICRONUTRIENT NUTRITION;VITAMIN D, CALCIUM, AND RICKETS CLINICAL DECISION PATHWAYS;EMERGENCY MANAGEMENT OF SYMPTOMATIC HYPOCALCEMIA;",
+  "topic": "MICRONUTRIENT NUTRITION",
+  "subtopic": "VITAMIN D, CALCIUM, AND RICKETS CLINICAL DECISION PATHWAYS",
+  "sub_subtopic": "EMERGENCY MANAGEMENT OF SYMPTOMATIC HYPOCALCEMIA",
+  "heading_path": "MICRONUTRIENT NUTRITION;VITAMIN D, CALCIUM, AND RICKETS CLINICAL DECISION PATHWAYS;EMERGENCY MANAGEMENT OF SYMPTOMATIC HYPOCALCEMIA;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "1\u00885"
+}

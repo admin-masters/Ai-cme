@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "This section focuses on dietary and feeding assessments tailored to children with medical risks or atypical development, emphasizing condition-specific modifications to ensure safety, adequate intake, and caregiver support.",
+  "learning_objectives": [
+    "Understand feeding readiness and growth monitoring in preterm infants and NICU graduates.",
+    "Identify condition-specific dietary modifications for chronic diseases like CHD, CKD, and CF.",
+    "Evaluate sensory-driven feeding challenges in neurodevelopmental conditions such as ASD.",
+    "Develop strategies to reduce caregiver burden while maintaining feeding safety and nutritional adequacy."
+  ],
+  "key_facts": [
+    "Preterm infants require feeding readiness assessment by corrected age and close monitoring of growth velocity post-discharge.",
+    "Children with CHD and chronic lung disease have higher energy needs, necessitating smaller, frequent meals.",
+    "CKD dietary assessments must account for electrolyte restrictions, including high-potassium and high-phosphate foods.",
+    "Cystic fibrosis dietary evaluations should include enzyme adherence and fat intake patterns.",
+    "Neurodevelopmental conditions like ASD often involve sensory-driven food aversions, requiring documentation of triggers and family coping strategies.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Dietary Assessment",
+    "Feeding Behavior",
+    "Cerebral Palsy",
+    "Chronic Disease",
+    "Cystic Fibrosis",
+    "Neurodevelopmental Disorders",
+    "Sensory Processing",
+    "Caregiver Burden"
+  ],
+  "tags_custom": [
+    "feeding risk assessment",
+    "condition-specific diet",
+    "pediatric nutrition",
+    "caregiver strategies",
+    "special populations"
+  ],
+  "reference_quote": "In children with neuromotor impairment (including CP), prioritize swallow safety and endurance; small improvements in posture, pacing, and texture can markedly change intake. (NICE guideline NG62)",
+  "document_key_topics": [
+    "Feeding readiness in preterm infants and NICU graduates",
+    "Condition-specific dietary modifications for chronic diseases",
+    "Sensory-driven feeding challenges in neurodevelopmental disorders",
+    "Caregiver burden and practical feeding strategies"
+  ],
+  "chunk_heading": "DIETARY ASSESSMENT & FEEDING SKILLS EVALUATION; CONDITION-SPECIFIC FEEDING RISK ASSESSMENT AND DIET MODIFICATIONS;",
+  "topic": "DIETARY ASSESSMENT & FEEDING SKILLS EVALUATION",
+  "subtopic": "CONDITION-SPECIFIC FEEDING RISK ASSESSMENT AND DIET MODIFICATIONS",
+  "sub_subtopic": null,
+  "heading_path": "DIETARY ASSESSMENT & FEEDING SKILLS EVALUATION; CONDITION-SPECIFIC FEEDING RISK ASSESSMENT AND DIET MODIFICATIONS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u0086"
+}

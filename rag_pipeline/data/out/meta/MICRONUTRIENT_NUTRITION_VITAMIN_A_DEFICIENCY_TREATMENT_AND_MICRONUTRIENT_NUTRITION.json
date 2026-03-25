@@ -1,0 +1,46 @@
+{
+  "chunk_summary": "Vitamin A deficiency causes xerophthalmia and increases child mortality. Clinical eye signs, not serum retinol, should guide treatment decisions, with urgent care for corneal involvement.",
+  "learning_objectives": [
+    "Recognize the clinical spectrum of xerophthalmia and its progression.",
+    "Understand the importance of clinical eye signs over serum retinol in diagnosing vitamin A deficiency.",
+    "Learn the therapeutic regimen for vitamin A deficiency and the need for follow-up doses.",
+    "Identify high-risk children for vitamin A deficiency, such as those with SAM or recurrent infections."
+  ],
+  "key_facts": [
+    "Vitamin A deficiency increases child mortality and susceptibility to severe infections.",
+    "Xerophthalmia progresses from night blindness to corneal ulceration and keratomalacia, with corneal involvement being an emergency.",
+    "Serum retinol is unreliable for day-to-day diagnosis due to homeostatic control and infection-related fluctuations.",
+    "Therapeutic vitamin A should be given immediately if eye signs suggest deficiency, even if prophylactic doses were previously administered.",
+    "High-risk groups include children with severe acute malnutrition (SAM), recurrent diarrhea, or measles-like illness.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Vitamin A Deficiency",
+    "Xerophthalmia",
+    "Child Mortality",
+    "Severe Acute Malnutrition",
+    "Corneal Ulcer",
+    "Night Blindness"
+  ],
+  "tags_custom": [
+    "Vitamin A treatment",
+    "Pediatric nutrition",
+    "Eye health",
+    "Clinical guidelines"
+  ],
+  "reference_quote": "Clinical eye signs should drive decisions. Recognize xerophthalmia as a spectrum, with early features like night blindness and Bitot spots progressing to corneal ulceration and keratomalacia.",
+  "document_key_topics": [
+    "Vitamin A deficiency and its clinical implications",
+    "Diagnosis and treatment of xerophthalmia",
+    "Prophylaxis versus therapeutic vitamin A administration"
+  ],
+  "chunk_heading": "MICRONUTRIENT NUTRITION;VITAMIN A DEFICIENCY TREATMENT AND PROPHYLAXIS DECISIONS; MICRONUTRIENT NUTRITION;VITAMIN A DEFICIENCY TREATMENT AND PROPHYLAXIS DECISIONS;CLINICAL RECOGNITION OFXEROPHTHALMIA AND URGENT TREATMENT;",
+  "topic": "MICRONUTRIENT NUTRITION",
+  "subtopic": "VITAMIN A DEFICIENCY TREATMENT AND PROPHYLAXIS DECISIONS",
+  "sub_subtopic": "MICRONUTRIENT NUTRITION",
+  "heading_path": "MICRONUTRIENT NUTRITION;VITAMIN A DEFICIENCY TREATMENT AND PROPHYLAXIS DECISIONS; MICRONUTRIENT NUTRITION;VITAMIN A DEFICIENCY TREATMENT AND PROPHYLAXIS DECISIONS;CLINICAL RECOGNITION OFXEROPHTHALMIA AND URGENT TREATMENT;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1~1"
+}

@@ -1,0 +1,47 @@
+{
+  "chunk_summary": "Guidelines for fortification escalation and de-escalation in NICU settings, focusing on nutrition targets, growth triggers, and biochemical markers for preterm infants receiving expressed or donor milk.",
+  "learning_objectives": [
+    "Understand the stepwise approach to fortification escalation and de-escalation in preterm infants.",
+    "Learn to identify growth and biochemical triggers for adjusting fortification levels.",
+    "Recognize when to reduce or stop fortification as infants approach term-equivalent maturity."
+  ],
+  "key_facts": [
+    "Step 0: Verify daily intake (mL/kg/day) and correct for losses from spillage or unrecorded residuals.",
+    "Step 1: Initiate multi-nutrient fortifier at 80\u2013100 mL/kg/day (half-strength for 24\u201348 hours if tolerance is uncertain).",
+    "Step 2: Increase protein delivery if weight gain is <15 g/kg/day for 3 consecutive days despite full-strength fortifier.",
+    "Step 3: Low BUN with poor growth supports increasing protein; high BUN requires assessing hydration and renal function.",
+    "De-escalation: Reduce fortification as infants approach term maturity, with a step-down to half-strength for 48\u201372 hours before discontinuation."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Infant, Premature",
+    "Milk, Human",
+    "Milk Banks",
+    "Nutritional Support",
+    "Dietary Proteins",
+    "Bone Diseases, Metabolic",
+    "Body Weight",
+    "Nutritional Requirements"
+  ],
+  "tags_custom": [
+    "NICU protocols",
+    "fortification ladder",
+    "preterm nutrition",
+    "donor milk fortification",
+    "growth monitoring"
+  ],
+  "reference_quote": "Fortification of human milk for preterm infants: update and recommendations of the European Milk Bank Association Working Group \u2014 https://pmc.ncbi.nlm...",
+  "document_key_topics": [
+    "Fortification protocols for preterm infants",
+    "Growth and biochemical triggers for fortification adjustments",
+    "De-escalation strategies for fortification in NICU"
+  ],
+  "chunk_heading": "EXPRESSED MILK, DONOR MILK & MILK BANKING;FORTIFICATION ESCALATION AND DEESCALATION LADDER;",
+  "topic": "EXPRESSED MILK, DONOR MILK & MILK BANKING",
+  "subtopic": "FORTIFICATION ESCALATION AND DEESCALATION LADDER",
+  "sub_subtopic": null,
+  "heading_path": "EXPRESSED MILK, DONOR MILK & MILK BANKING;FORTIFICATION ESCALATION AND DEESCALATION LADDER;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "2y"
+}

@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section outlines monitoring guidelines for vegan diets in children, emphasizing follow-up cadence, growth tracking, and lab testing in low-resource settings to prevent deficiencies and neurologic injury.",
+  "learning_objectives": [
+    "Understand the recommended follow-up cadence for children on vegan diets based on age and risk factors.",
+    "Identify key nutritional components to monitor, including protein, vitamin B12, vitamin D, calcium, and iodine.",
+    "Learn response-based monitoring strategies when laboratory testing is unavailable.",
+    "Recognize signs requiring escalation, such as neurodevelopmental regression or persistent anemia."
+  ],
+  "key_facts": [
+    "Infants and toddlers should be monitored every 4\u20138 weeks until diet and growth stabilize.",
+    "Preschool and school-age children require monitoring at least every 6 months; adolescents annually or sooner if risk factors increase.",
+    "Minimal lab panel includes CBC, serum ferritin, vitamin B12, 25(OH)D, and thyroid testing based on symptoms.",
+    "Response-based monitoring includes treating suspected IDA with oral iron and documenting hemoglobin rise.",
+    "Escalate care for neurodevelopmental regression, persistent macrocytosis, or failure to thrive despite corrected feeding."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Vegetarian Diet",
+    "Child Nutrition Disorders",
+    "Growth Monitoring",
+    "Vitamin B12 Deficiency",
+    "Iron-Deficiency Anemia",
+    "Micronutrients",
+    "Low-Resource Settings",
+    "Dietary Supplements"
+  ],
+  "tags_custom": [
+    "vegan pediatric monitoring",
+    "nutritional deficiencies",
+    "low-resource healthcare",
+    "growth tracking",
+    "response-based care"
+  ],
+  "reference_quote": "Suggested cadence: infants and young toddlers every 4\u20138 weeks until diet structure and growth trajectory are stable; preschool and school-age children at least every 6 months; adolescents annually or sooner if restriction increases, sports load rises, or symptoms appear.",
+  "document_key_topics": [
+    "Monitoring vegan diets in children",
+    "Follow-up cadence and growth tracking",
+    "Laboratory testing and response-based care",
+    "Preventing nutritional deficiencies in low-resource settings"
+  ],
+  "chunk_heading": "VEGETARIAN & REGIONAL FEEDING PATTERNS;MONITORING CADENCE AND LAB OPTIONS IN LOW-RESOURCE SETTINGS;",
+  "topic": "VEGETARIAN & REGIONAL FEEDING PATTERNS",
+  "subtopic": "MONITORING CADENCE AND LAB OPTIONS IN LOW-RESOURCE SETTINGS",
+  "sub_subtopic": null,
+  "heading_path": "VEGETARIAN & REGIONAL FEEDING PATTERNS;MONITORING CADENCE AND LAB OPTIONS IN LOW-RESOURCE SETTINGS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1{.1"
+}

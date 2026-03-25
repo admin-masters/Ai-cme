@@ -1,0 +1,51 @@
+{
+  "chunk_summary": "Obesity is a major risk factor for idiopathic intracranial hypertension (IIH), requiring urgent screening for visual symptoms and intracranial pressure to prevent permanent vision loss.",
+  "learning_objectives": [
+    "Recognize headache and visual symptoms indicative of idiopathic intracranial hypertension (IIH) in obese patients.",
+    "Understand the urgency of ophthalmology and neuroimaging assessments in suspected IIH cases.",
+    "Learn the diagnostic steps, including fundoscopy, MRI/MRV, and lumbar puncture, for IIH evaluation.",
+    "Identify emergency referral criteria for IIH presentations with severe symptoms."
+  ],
+  "key_facts": [
+    "Obesity is a significant risk factor for idiopathic intracranial hypertension (IIH).",
+    "Suspect IIH in adolescents with headache plus visual symptoms like diplopia, pulsatile tinnitus, or papilledema.",
+    "MRI brain with venography (MRV) is preferred for imaging to exclude mass lesions and venous sinus thrombosis.",
+    "Lumbar puncture for opening pressure and CSF studies is performed after imaging in specialist settings.",
+    "Emergency referral is required for altered sensorium, focal neurologic signs, or rapidly progressive visual symptoms.",
+    "Avoid empiric acetazolamide in primary care unless imaging and ophthalmology are imminent.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Obesity",
+    "Idiopathic Intracranial Hypertension",
+    "Headache",
+    "Visual Acuity",
+    "Papilledema",
+    "Neuroimaging",
+    "Lumbar Puncture",
+    "Venous Sinus Thrombosis"
+  ],
+  "tags_custom": [
+    "vision-risk headache",
+    "obesity-related comorbidities",
+    "urgent IIH management",
+    "adolescent neurology",
+    "time-sensitive diagnosis"
+  ],
+  "reference_quote": "Consensus recommendations emphasize urgent ophthalmology and neuroimaging for suspected idiopathic intracranial hypertension to prevent permanent visual loss. (https://adc.bmj.com/content/109/2/165)",
+  "document_key_topics": [
+    "Idiopathic intracranial hypertension (IIH) in obesity",
+    "Urgent screening and management of visual symptoms",
+    "Diagnostic pathways: imaging and lumbar puncture",
+    "Emergency referral criteria for severe IIH presentations"
+  ],
+  "chunk_heading": "OVERNUTRITION & OBESITY MANAGEMENT;COMORBIDITY SCREENING WITH ACTIONABLE PATHWAYS;HEADACHE AND VISUAL SYMPTOMS SUGGESTING IDIOPATHIC INTRACRANIAL HYPERTENSION;",
+  "topic": "OVERNUTRITION & OBESITY MANAGEMENT",
+  "subtopic": "COMORBIDITY SCREENING WITH ACTIONABLE PATHWAYS",
+  "sub_subtopic": "HEADACHE AND VISUAL SYMPTOMS SUGGESTING IDIOPATHIC INTRACRANIAL HYPERTENSION",
+  "heading_path": "OVERNUTRITION & OBESITY MANAGEMENT;COMORBIDITY SCREENING WITH ACTIONABLE PATHWAYS;HEADACHE AND VISUAL SYMPTOMS SUGGESTING IDIOPATHIC INTRACRANIAL HYPERTENSION;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1{13"
+}

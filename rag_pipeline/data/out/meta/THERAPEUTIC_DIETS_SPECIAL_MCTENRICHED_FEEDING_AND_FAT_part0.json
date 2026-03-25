@@ -1,0 +1,46 @@
+{
+  "chunk_summary": "MCT-enriched feeding and proactive fat-soluble vitamin supplementation are essential in pediatric cholestasis to support growth, prevent deficiencies, and manage clinical risks through tailored dosing and frequent monitoring.",
+  "learning_objectives": [
+    "Understand the role of MCT-enriched feeding in pediatric cholestasis and its benefits for fat absorption.",
+    "Learn recommended dosing ranges for fat-soluble vitamins in cholestatic children and their clinical monitoring protocols.",
+    "Recognize the importance of trace element and mineral supplementation in severe cholestasis cases."
+  ],
+  "key_facts": [
+    "Medium-chain triglycerides (MCT) are absorbed with less reliance on bile salts, aiding fat delivery in cholestasis.",
+    "Vitamin A: 5,000\u201325,000 units/day (water-soluble); Vitamin D3: 3,000\u20135,000 units/day; Vitamin E: 15\u201325 IU/kg/day (TPGS); Vitamin K: 2.5\u20135 mg orally 2\u20137 times per week.",
+    "Severely cholestatic infants may require monthly monitoring of fat-soluble vitamin levels and INR until stable.",
+    "Persistently abnormal vitamin levels despite high oral dosing may necessitate parenteral supplementation.",
+    "Trace elements like zinc and minerals such as calcium, phosphate, and magnesium require supplementation based on measured levels."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Pediatric Cholestasis",
+    "Medium-Chain Triglycerides",
+    "Fat-Soluble Vitamins",
+    "Vitamin Deficiency",
+    "Nutritional Therapy",
+    "Parenteral Nutrition",
+    "Trace Elements",
+    "Growth Monitoring"
+  ],
+  "tags_custom": [
+    "MCT feeding",
+    "Vitamin supplementation",
+    "Cholestasis management",
+    "Pediatric nutrition"
+  ],
+  "reference_quote": "Medium-chain triglycerides (MCT) can be absorbed with less reliance on bile salts, so formulas or feeds often provide a substantial proportion of fat as MCT while still supplying essential long-chain fats to prevent essential fatty acid deficiency. (Source: NASPGHAN Position Paper)",
+  "document_key_topics": [
+    "MCT-enriched feeding in cholestasis",
+    "Fat-soluble vitamin supplementation and monitoring",
+    "Growth and nutritional management in pediatric cholestasis"
+  ],
+  "chunk_heading": "THERAPEUTIC DIETS & SPECIAL INTERVENTIONS;MCT-ENRICHED FEEDING AND FAT- SOLUBLE VITAMIN SURVEILLANCE IN PEDIATRIC CHOLESTASIS;",
+  "topic": "THERAPEUTIC DIETS & SPECIAL INTERVENTIONS",
+  "subtopic": "MCT-ENRICHED FEEDING AND FAT- SOLUBLE VITAMIN SURVEILLANCE IN PEDIATRIC CHOLESTASIS",
+  "sub_subtopic": null,
+  "heading_path": "THERAPEUTIC DIETS & SPECIAL INTERVENTIONS;MCT-ENRICHED FEEDING AND FAT- SOLUBLE VITAMIN SURVEILLANCE IN PEDIATRIC CHOLESTASIS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1y.1"
+}

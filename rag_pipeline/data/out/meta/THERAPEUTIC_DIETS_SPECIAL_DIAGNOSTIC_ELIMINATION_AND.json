@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "Diagnostic elimination and oral challenge are essential for confirming cow's milk protein allergy (CMPA), avoiding overdiagnosis and unnecessary restrictions. Management varies by phenotype, with maternal elimination for breastfed infants and calcium supplementation recommended during elimination periods.",
+  "learning_objectives": [
+    "Understand the role of diagnostic elimination and oral challenge in confirming CMPA.",
+    "Differentiate between IgE-mediated and non-IgE-mediated CMPA phenotypes for appropriate management.",
+    "Learn the recommended duration and dietary guidelines for diagnostic elimination in CMPA.",
+    "Recognize the importance of maternal diet adequacy and calcium supplementation during elimination."
+  ],
+  "key_facts": [
+    "Overdiagnosis of CMPA can lead to unnecessary formula use and dietary restrictions.",
+    "Diagnostic elimination typically lasts 1\u20132 weeks for many presentations and up to 4 weeks for chronic symptoms.",
+    "Maternal elimination of milk and milk products is used for exclusively breastfed infants, with calcium supplementation of 1000 mg/day in divided doses.",
+    "Oral milk challenge should be performed after 2\u20134 weeks of elimination during an asymptomatic period to confirm diagnosis.",
+    "Phenotype-based de-labeling includes graded reintroduction (e.g., milk ladder) for mild cases and supervised oral challenges for severe cases."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Cow's Milk Protein Allergy",
+    "Food Hypersensitivity",
+    "Elimination Diet",
+    "Oral Food Challenge",
+    "Calcium Supplementation",
+    "Breastfeeding",
+    "Food Allergy Diagnosis",
+    "Phenotype"
+  ],
+  "tags_custom": [
+    "CMPA management",
+    "diagnostic elimination",
+    "oral challenge",
+    "maternal diet"
+  ],
+  "reference_quote": "Overdiagnosis of CMPA drives expensive formula use and avoidable restriction, so diagnosis should be confirmed by elimination and oral challenge rather than testing alone, particularly in non-IgE gastrointestinal phenotypes where sensitization tests can be misleading.",
+  "document_key_topics": [
+    "Diagnostic elimination in CMPA",
+    "Oral challenge for CMPA confirmation",
+    "Maternal elimination and calcium supplementation",
+    "Phenotype-based CMPA management"
+  ],
+  "chunk_heading": "THERAPEUTIC DIETS & SPECIAL INTERVENTIONS;DIAGNOSTIC ELIMINATION AND DE-LABELING IN SUSPECTED COW'S MILK PROTEIN ALLERGY;",
+  "topic": "THERAPEUTIC DIETS & SPECIAL INTERVENTIONS",
+  "subtopic": "DIAGNOSTIC ELIMINATION AND DE-LABELING IN SUSPECTED COW'S MILK PROTEIN ALLERGY",
+  "sub_subtopic": null,
+  "heading_path": "THERAPEUTIC DIETS & SPECIAL INTERVENTIONS;DIAGNOSTIC ELIMINATION AND DE-LABELING IN SUSPECTED COW'S MILK PROTEIN ALLERGY;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1r"
+}

@@ -1,0 +1,47 @@
+{
+  "chunk_summary": "This section outlines admission thresholds for nutrition failure in chronic cardiorespiratory disease, focusing on clinical stability, growth trajectory, and feeding safety to determine inpatient versus outpatient management.",
+  "learning_objectives": [
+    "Understand criteria for inpatient admission based on clinical stability, growth trajectory, and feeding safety.",
+    "Identify numeric thresholds for weight-for-length z-score decline and weight loss in pediatric patients.",
+    "Recognize feeding safety concerns, including aspiration risks and recurrent pneumonias.",
+    "Apply WHO weight-velocity standards and pediatric malnutrition indicators for early detection of nutrition failure."
+  ],
+  "key_facts": [
+    "Admission is indicated for respiratory or hemodynamic instability during feeding, such as tachypnea, cyanosis, or desaturation.",
+    "Weight-for-length/height z-score decline by \u22651 (moderate concern) or \u22652 (high concern) signals admission need.",
+    "Weight loss thresholds: \u22655% in children 2\u201320 years (moderate concern) or \u226510% (high concern).",
+    "Persistent intake <75% of estimated needs or inability to complete feeding plans for >3\u20135 days warrants admission.",
+    "WHO weight-velocity standards should be used for infants under 24 months to detect early growth failure."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Nutrition Disorders",
+    "Cardiorespiratory Fitness",
+    "Pediatric Malnutrition",
+    "Growth Disorders",
+    "Feeding Behavior",
+    "Respiratory Insufficiency",
+    "Heart Failure",
+    "Aspiration Pneumonia"
+  ],
+  "tags_custom": [
+    "nutrition thresholds",
+    "pediatric feeding safety",
+    "growth trajectory monitoring",
+    "hospital admission criteria"
+  ],
+  "reference_quote": "Use WHO weight-velocity standards to detect 'velocity failure' early rather than waiting for severe underweight. (Reference 2)",
+  "document_key_topics": [
+    "Clinical stability and feeding safety in chronic cardiorespiratory disease",
+    "Growth trajectory monitoring and admission thresholds",
+    "Pediatric malnutrition indicators and weight-velocity standards"
+  ],
+  "chunk_heading": "NUTRITION IN CHRONIC CARDIORESPIRATORY DISEASE;ADMISSION THRESHOLDS AND ROUTE ESCALATION FOR NUTRITION FAILURE;ADMISSION THRESHOLDS USING STABILITY GROWTH AND FEEDING SAFETY;",
+  "topic": "NUTRITION IN CHRONIC CARDIORESPIRATORY DISEASE",
+  "subtopic": "ADMISSION THRESHOLDS AND ROUTE ESCALATION FOR NUTRITION FAILURE",
+  "sub_subtopic": "ADMISSION THRESHOLDS USING STABILITY GROWTH AND FEEDING SAFETY",
+  "heading_path": "NUTRITION IN CHRONIC CARDIORESPIRATORY DISEASE;ADMISSION THRESHOLDS AND ROUTE ESCALATION FOR NUTRITION FAILURE;ADMISSION THRESHOLDS USING STABILITY GROWTH AND FEEDING SAFETY;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "1z1.1"
+}

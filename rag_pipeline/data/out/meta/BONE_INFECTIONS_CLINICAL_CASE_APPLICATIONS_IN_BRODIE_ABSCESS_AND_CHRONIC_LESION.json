@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "This section discusses biopsy-based management decisions for Brodie abscess and chronic bone lesions, emphasizing diagnostic precision in immunocompromised and chronic cases to avoid misdiagnosis and inappropriate treatment pathways.",
+  "learning_objectives": [
+    "Understand the role of biopsy in diagnosing Brodie abscess and chronic bone lesions.",
+    "Differentiate between infectious, inflammatory, and neoplastic causes of chronic bone lesions.",
+    "Recognize the importance of tailored therapy based on biopsy results in immunocompromised patients."
+  ],
+  "key_facts": [
+    "Brodie abscess often requires curettage and culture-directed antibiotics.",
+    "Tuberculous osteomyelitis necessitates prolonged multidrug therapy.",
+    "Chronic nonbacterial osteomyelitis is managed with anti-inflammatory treatment, not antibiotics.",
+    "MRI can reveal destructive lesions but cannot reliably distinguish between infection, tumor, or sterile inflammation.",
+    "Biopsy is critical in chronic or atypical cases to avoid diagnostic errors and guide therapy.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Osteomyelitis",
+    "Brodie Abscess",
+    "Bone Biopsy",
+    "Tuberculous Osteomyelitis",
+    "Chronic Nonbacterial Osteomyelitis",
+    "Immunocompromised Host",
+    "Pediatric Bone Infections"
+  ],
+  "tags_custom": [
+    "biopsy-based management",
+    "chronic bone lesions",
+    "pediatric infections",
+    "diagnostic precision",
+    "immunocompromised care"
+  ],
+  "reference_quote": "Chronic lesions require tissue diagnosis because the treatment pathways diverge sharply. A Brodie abscess commonly needs curettage plus culture-directed antibiotics. Tuberculous osteomyelitis needs prolonged multidrug therapy, while chronic nonbacterial osteomyelitis needs anti-inflammatory management rather than more antibiotics.",
+  "document_key_topics": [
+    "Biopsy in chronic bone infections",
+    "Differential diagnosis of Brodie abscess",
+    "Management of tuberculous osteomyelitis",
+    "Treatment pathways for chronic nonbacterial osteomyelitis"
+  ],
+  "chunk_heading": "BONE INFECTIONS;CLINICAL CASE APPLICATIONS IN DIAGNOSTIC AND THERAPEUTIC DECISION MAKING;BRODIE ABSCESS AND CHRONIC LESION BIOPSY BASED MANAGEMENT DECISIONS;",
+  "topic": "BONE INFECTIONS",
+  "subtopic": "CLINICAL CASE APPLICATIONS IN DIAGNOSTIC AND THERAPEUTIC DECISION MAKING",
+  "sub_subtopic": "BRODIE ABSCESS AND CHRONIC LESION BIOPSY BASED MANAGEMENT DECISIONS",
+  "heading_path": "BONE INFECTIONS;CLINICAL CASE APPLICATIONS IN DIAGNOSTIC AND THERAPEUTIC DECISION MAKING;BRODIE ABSCESS AND CHRONIC LESION BIOPSY BASED MANAGEMENT DECISIONS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u009e2"
+}

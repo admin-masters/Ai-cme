@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "The persistent diarrhea diet ladder provides structured, timebound dietary interventions to manage persistent diarrhea, focusing on reducing lactose while maintaining energy density. It includes Diet A (low lactose), Diet B (lactose-free), and Diet C (glucose-based) with specific recipes and escalation protocols.",
+  "learning_objectives": [
+    "Understand the structured approach of the persistent diarrhea diet ladder for nutritional rehabilitation.",
+    "Learn the specific recipes and nutritional composition of Diet A, Diet B, and Diet C.",
+    "Identify clinical indicators for transitioning between diet stages and when to refer for advanced care.",
+    "Recognize the importance of maintaining energy density while managing lactose intolerance in persistent diarrhea."
+  ],
+  "key_facts": [
+    "Diet A (low lactose): 96 kcal/100 g; recipe includes milk 40 mL, sugar 2.25 g, puffed rice powder 12.5 g, oil 2 g, and water to 100 mL.",
+    "Diet B (lactose-free): 92.2 kcal/100 g; recipe includes puffed rice 13.5 g, egg white 11 g, sugar/glucose 3.5 g, oil 3.5 mL, and water to 100 mL.",
+    "Diet C: Glucose-based with protein (egg white, chicken, or protein hydrolysate) and added oil for energy density.",
+    "Each diet step is trialed for ~7 days with monitoring of stool frequency/consistency, perianal excoriation, hydration, and weight trajectory.",
+    "Breastfeeding should be continued throughout the protocol.",
+    "Refractory cases or those with severe undernutrition may require referral for total parenteral nutrition."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Diarrhea, Chronic",
+    "Lactose Intolerance",
+    "Diet Therapy",
+    "Nutritional Rehabilitation",
+    "Energy Intake",
+    "Parenteral Nutrition",
+    "Malabsorption Syndromes",
+    "Pediatric Nutrition"
+  ],
+  "tags_custom": [
+    "diet ladder",
+    "persistent diarrhea",
+    "low lactose diet",
+    "nutritional management",
+    "elemental formula"
+  ],
+  "reference_quote": "The IAP persistent diarrhea guideline provides a diet ladder that can be written as timebound prescriptions and prevents two common harms: fasting and repeated formula switching without assessment.",
+  "document_key_topics": [
+    "Persistent diarrhea management",
+    "Dietary interventions for malabsorption",
+    "Nutritional rehabilitation protocols",
+    "Escalation to advanced care in refractory cases"
+  ],
+  "chunk_heading": "NUTRITION IN GI DISORDERS & MALABSORPTION;NUTRITION REHABILITATION AND PERSISTENT DIARRHEA PROTOCOLS;PERSISTENT DIARRHEA DIET LADDER WITH STANDARD RECIPES;",
+  "topic": "NUTRITION IN GI DISORDERS & MALABSORPTION",
+  "subtopic": "NUTRITION REHABILITATION AND PERSISTENT DIARRHEA PROTOCOLS",
+  "sub_subtopic": "PERSISTENT DIARRHEA DIET LADDER WITH STANDARD RECIPES",
+  "heading_path": "NUTRITION IN GI DISORDERS & MALABSORPTION;NUTRITION REHABILITATION AND PERSISTENT DIARRHEA PROTOCOLS;PERSISTENT DIARRHEA DIET LADDER WITH STANDARD RECIPES;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "2o2"
+}

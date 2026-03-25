@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "This section discusses fibrosis risk stratification in pediatric MASLD, emphasizing clinical and biochemical triggers for elastography or biopsy referral, and highlights key diagnostic tools and guidelines.",
+  "learning_objectives": [
+    "Understand the clinical and biochemical markers that indicate high fibrosis risk in pediatric MASLD.",
+    "Learn the role of transient elastography and its interpretation in pediatric fibrosis staging.",
+    "Identify scenarios where liver biopsy is recommended in children with suspected advanced disease.",
+    "Recognize the importance of timely referral to pediatric gastroenterology/hepatology based on risk factors."
+  ],
+  "key_facts": [
+    "Persistent ALT >2\u00d7 sex-specific upper limit of normal for >3 months or ALT >80 U/L are high-concern markers.",
+    "Transient elastography is recommended by 2024 ISPGHAN guidelines as a preferred noninvasive tool for fibrosis prediction.",
+    "Red flags include hepatomegaly, splenomegaly, falling platelets, AST/ALT ratio >1, or impaired synthetic function.",
+    "Biopsy is advised for children under 8 years, suspected advanced disease, or unclear diagnosis after first-line tests.",
+    "In settings without elastography, persistent biochemical elevation plus clinical red flags should prompt referral."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Pediatric Obesity",
+    "Non-alcoholic Fatty Liver Disease",
+    "Liver Fibrosis",
+    "Elastography",
+    "Liver Biopsy",
+    "Alanine Transaminase",
+    "Hepatomegaly",
+    "Diabetes Mellitus, Type 2"
+  ],
+  "tags_custom": [
+    "Pediatric MASLD",
+    "Fibrosis Risk",
+    "Diagnostic Tools",
+    "Referral Guidelines"
+  ],
+  "reference_quote": "The 2024 ISPGHAN recommendations support elastography as a preferred technology for diagnosis and monitoring and treat liver stiffness measurement as a useful fibrosis predictor.",
+  "document_key_topics": [
+    "Fibrosis risk stratification in pediatric MASLD",
+    "Clinical and biochemical markers for fibrosis",
+    "Role of elastography and liver biopsy in diagnosis",
+    "Referral guidelines for advanced disease"
+  ],
+  "chunk_heading": "METABOLIC RISK IN CHILDREN;PEDIATRIC MASLD SCREENING DIAGNOSIS AND STAGING;FIBROSIS RISK TRIGGERS ELASTOGRAPHY AND BIOPSY REFERRAL;",
+  "topic": "METABOLIC RISK IN CHILDREN",
+  "subtopic": "PEDIATRIC MASLD SCREENING DIAGNOSIS AND STAGING",
+  "sub_subtopic": "FIBROSIS RISK TRIGGERS ELASTOGRAPHY AND BIOPSY REFERRAL",
+  "heading_path": "METABOLIC RISK IN CHILDREN;PEDIATRIC MASLD SCREENING DIAGNOSIS AND STAGING;FIBROSIS RISK TRIGGERS ELASTOGRAPHY AND BIOPSY REFERRAL;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1\u00834.1"
+}

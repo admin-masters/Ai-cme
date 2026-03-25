@@ -1,0 +1,45 @@
+{
+  "chunk_summary": "This section discusses route selection heuristics for enteral and parenteral nutrition in resource-variable settings, emphasizing consistent delivery, monitoring, and addressing underdelivery as a clinical issue.",
+  "learning_objectives": [
+    "Understand the importance of consistent delivery and monitoring in enteral and parenteral nutrition.",
+    "Identify strategies to mitigate underdelivery in resource-variable settings.",
+    "Learn the role of nursing instructions and monitoring triggers in safe nutrition delivery."
+  ],
+  "key_facts": [
+    "In resource-variable settings, the safest route is one that can be delivered consistently with clear nursing instructions.",
+    "Underdelivery due to interruptions is a predictable failure mode and should be treated as a clinical problem, not as poor appetite.",
+    "Guidelines from ASPEN/SCCM (2017) emphasize the importance of monitoring and assessment in pediatric critical care nutrition.",
+    "The ESPNIC position statement highlights the need for tailored nutritional support during critical illness in children."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Enteral Nutrition",
+    "Parenteral Nutrition",
+    "Nutritional Support",
+    "Pediatrics",
+    "Critical Illness",
+    "Clinical Guidelines",
+    "Nursing Care",
+    "Nutrition Assessment"
+  ],
+  "tags_custom": [
+    "route selection",
+    "resource-variable settings",
+    "nutrition delivery",
+    "pediatric critical care"
+  ],
+  "reference_quote": "Underdelivery from interruptions is a predictable failure mode and should be treated as a clinical problem, not 'poor appetite.'",
+  "document_key_topics": [
+    "Route selection for enteral and parenteral nutrition",
+    "Challenges in resource-variable settings",
+    "Pediatric critical care nutrition guidelines"
+  ],
+  "chunk_heading": "ENTERAL & PARENTERAL NUTRITION;ROUTE SELECTION AND TIMING DECISIONS FOR ENTERAL AND PARENTERAL NUTRITION;DEFINITIONS AND ROUTE SELECTION HEURISTIC;",
+  "topic": "ENTERAL & PARENTERAL NUTRITION",
+  "subtopic": "ROUTE SELECTION AND TIMING DECISIONS FOR ENTERAL AND PARENTERAL NUTRITION",
+  "sub_subtopic": "DEFINITIONS AND ROUTE SELECTION HEURISTIC",
+  "heading_path": "ENTERAL & PARENTERAL NUTRITION;ROUTE SELECTION AND TIMING DECISIONS FOR ENTERAL AND PARENTERAL NUTRITION;DEFINITIONS AND ROUTE SELECTION HEURISTIC;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1d1.2"
+}

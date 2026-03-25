@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "This section discusses monitoring and managing diuretic-associated electrolyte imbalances in pediatric heart failure, emphasizing safety, regular monitoring, and targeted interventions for hypokalemia, hyponatremia, and metabolic alkalosis.",
+  "learning_objectives": [
+    "Understand the importance of monitoring electrolytes in pediatric heart failure patients on diuretics.",
+    "Learn the recommended frequency for electrolyte and renal function testing during diuretic therapy.",
+    "Identify strategies for correcting hypokalemia and managing metabolic alkalosis in pediatric heart failure.",
+    "Recognize the interplay between nutrition and diuretic management in heart failure."
+  ],
+  "key_facts": [
+    "Baseline sodium, potassium, bicarbonate, and creatinine should be obtained before starting or adjusting diuretics.",
+    "Recheck electrolytes within 48\u201372 hours after dose changes or addition of a thiazide, or earlier if clinically unstable.",
+    "In stable outpatients, monitor every 2\u20134 weeks until growth and dosing stabilize, then every 2\u20133 months.",
+    "Correct hypokalemia first if the child is symptomatic, prioritizing potassium repletion over calorie escalation.",
+    "Persistent hypokalemia may require magnesium assessment, as low magnesium can impair potassium repletion.",
+    "Document electrolyte targets and follow-up plans in the nutrition note to integrate feeding and diuretic management."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Heart Failure",
+    "Diuretics",
+    "Electrolyte Imbalance",
+    "Hypokalemia",
+    "Hyponatremia",
+    "Metabolic Alkalosis",
+    "Pediatrics",
+    "Nutrition Therapy"
+  ],
+  "tags_custom": [
+    "Pediatric heart failure",
+    "Electrolyte monitoring",
+    "Diuretic management",
+    "Nutrition integration"
+  ],
+  "reference_quote": "Diuretic therapy in pediatric heart failure requires operational monitoring for hypovolemia, hypotension, hypokalemia, hyponatremia, metabolic alkalosis, and renal dysfunction, because electrolyte disturbances commonly drive anorexia, weakness, vomiting, and feeding intolerance.",
+  "document_key_topics": [
+    "Electrolyte monitoring in pediatric heart failure",
+    "Management of diuretic-associated hypokalemia and hyponatremia",
+    "Integration of nutrition and diuretic therapy in heart failure"
+  ],
+  "chunk_heading": "NUTRITION IN CHRONIC CARDIORESPIRATORY DISEASE;ELECTROLYTE MICRONUTRIENT AND ANEMIA DECISION MAKING;DIURETIC ASSOCIATED ELECTROLYTE MONITORING AND REPLACEMENT IN HEART FAILURE;",
+  "topic": "NUTRITION IN CHRONIC CARDIORESPIRATORY DISEASE",
+  "subtopic": "ELECTROLYTE MICRONUTRIENT AND ANEMIA DECISION MAKING",
+  "sub_subtopic": "DIURETIC ASSOCIATED ELECTROLYTE MONITORING AND REPLACEMENT IN HEART FAILURE",
+  "heading_path": "NUTRITION IN CHRONIC CARDIORESPIRATORY DISEASE;ELECTROLYTE MICRONUTRIENT AND ANEMIA DECISION MAKING;DIURETIC ASSOCIATED ELECTROLYTE MONITORING AND REPLACEMENT IN HEART FAILURE;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u00831.1"
+}

@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section addresses troubleshooting fortification of expressed and donor milk in NICU settings, focusing on preterm infants' nutritional needs and metabolic challenges.",
+  "learning_objectives": [
+    "Understand the role of human milk fortification in meeting preterm infants' nutritional needs.",
+    "Identify strategies to manage metabolic bone disease in premature infants.",
+    "Evaluate the impact of fortifiers on human milk osmolarity and its clinical implications.",
+    "Explore guidelines for donor milk banking and fortification in NICU settings."
+  ],
+  "key_facts": [
+    "Human milk fortification is essential for preterm infants to meet protein and mineral requirements.",
+    "Metabolic bone disease affects up to 50% of very low birth weight infants, requiring careful calcium and phosphorus supplementation.",
+    "Fortifiers can increase human milk osmolarity by up to 20%, which may impact gastrointestinal tolerance.",
+    "Donor milk is often fortified to match the nutritional needs of preterm infants, as it may lack sufficient protein compared to maternal milk.",
+    "European Milk Bank Association recommends individualized fortification protocols for NICU cases."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Infant, Premature",
+    "Milk, Human",
+    "Milk Banks",
+    "Nutritional Requirements",
+    "Bone Diseases, Metabolic",
+    "Osmolar Concentration",
+    "Dietary Supplements",
+    "Neonatal Intensive Care Units"
+  ],
+  "tags_custom": [
+    "NICU fortification",
+    "donor milk protocols",
+    "preterm nutrition",
+    "metabolic bone disease",
+    "milk osmolarity"
+  ],
+  "reference_quote": "Fortification of human milk for preterm infants is critical to address their unique nutritional needs, as outlined by the European Milk Bank Association Working Group (PMC6439523).",
+  "document_key_topics": [
+    "Human milk fortification for preterm infants",
+    "Donor milk banking and protocols",
+    "Metabolic bone disease in premature infants",
+    "Impact of fortifiers on milk osmolarity"
+  ],
+  "chunk_heading": "EXPRESSED MILK, DONOR MILK & MILK BANKING;NICU CASE SCENARIOS FOR FORTIFICATION TROUBLESHOOTING;",
+  "topic": "EXPRESSED MILK, DONOR MILK & MILK BANKING",
+  "subtopic": "NICU CASE SCENARIOS FOR FORTIFICATION TROUBLESHOOTING",
+  "sub_subtopic": null,
+  "heading_path": "EXPRESSED MILK, DONOR MILK & MILK BANKING;NICU CASE SCENARIOS FOR FORTIFICATION TROUBLESHOOTING;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2}.2"
+}

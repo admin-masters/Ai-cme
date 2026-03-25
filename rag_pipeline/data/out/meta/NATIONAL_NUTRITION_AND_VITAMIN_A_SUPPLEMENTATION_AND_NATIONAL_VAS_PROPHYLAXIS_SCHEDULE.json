@@ -1,0 +1,47 @@
+{
+  "chunk_summary": "The National VAS Prophylaxis Schedule in India outlines age-based vitamin A supplementation for children, emphasizing correct spacing, documentation, and safe administration to prevent missed doses or adverse effects.",
+  "learning_objectives": [
+    "Understand the age-based dosing schedule for Vitamin A supplementation in children under 5 years in India.",
+    "Learn the importance of documentation and spacing in Vitamin A prophylaxis to avoid missed or double doses.",
+    "Recognize safe administration practices and potential adverse effects of high-dose Vitamin A."
+  ],
+  "key_facts": [
+    "Vitamin A supplementation starts at 9 months with 1 mL (1 lakh IU) alongside MR vaccination.",
+    "Second dose is given at 16\u201318 months with 2 mL (2 lakh IU), followed by doses every 6 months until 5 years (total 9 doses).",
+    "Documentation is critical: verify the last dose date and schedule the next dose at least 6 months later.",
+    "Avoid repeat high-dose prophylaxis based on recall alone; retrieve records from local sub-centres if unavailable.",
+    "Administration is oral; transient nausea or vomiting may occur but repeated closely spaced doses increase adverse effects."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Vitamin A",
+    "Prophylaxis",
+    "Child Nutrition",
+    "Immunization Schedule",
+    "Adverse Effects",
+    "Documentation",
+    "India",
+    "Community Health Services"
+  ],
+  "tags_custom": [
+    "Vitamin A supplementation",
+    "Child health programs",
+    "Prophylaxis guidelines",
+    "Documentation practices",
+    "Safe administration"
+  ],
+  "reference_quote": "The first dose is given at 9 months (1 mL containing 1 lakh IU) typically alongside measles-rubella (MR) vaccination, followed by a second dose at 16\u201318 months (2 mL containing 2 lakh IU).",
+  "document_key_topics": [
+    "Age-based Vitamin A supplementation schedule in India",
+    "Documentation and spacing practices for VAS",
+    "Safe administration and adverse effects of high-dose Vitamin A"
+  ],
+  "chunk_heading": "NATIONAL NUTRITION AND FORTIFICATION PROGRAMS IN INDIA;VITAMIN A SUPPLEMENTATION AND THERAPEUTIC USE IN CHILDREN;NATIONAL VAS PROPHYLAXIS SCHEDULE AND DOCUMENTATION PRACTICE;",
+  "topic": "NATIONAL NUTRITION AND FORTIFICATION PROGRAMS IN INDIA",
+  "subtopic": "VITAMIN A SUPPLEMENTATION AND THERAPEUTIC USE IN CHILDREN",
+  "sub_subtopic": "NATIONAL VAS PROPHYLAXIS SCHEDULE AND DOCUMENTATION PRACTICE",
+  "heading_path": "NATIONAL NUTRITION AND FORTIFICATION PROGRAMS IN INDIA;VITAMIN A SUPPLEMENTATION AND THERAPEUTIC USE IN CHILDREN;NATIONAL VAS PROPHYLAXIS SCHEDULE AND DOCUMENTATION PRACTICE;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "2o1"
+}

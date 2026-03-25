@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Guidelines for early post-gastrostomy feeding and managing complications in children with neurodisability, emphasizing infection prevention, emergency response to tube dislodgement, and feed tolerance strategies.",
+  "learning_objectives": [
+    "Understand the protocol for initiating feeding post-gastrostomy in stable pediatric patients.",
+    "Recognize signs of peristomal infection and appropriate first-response actions.",
+    "Learn emergency management steps for accidental tube dislodgement in the early post-procedure period.",
+    "Identify factors affecting feed tolerance and strategies to optimize feeding."
+  ],
+  "key_facts": [
+    "Feeds can begin within hours post-procedure using iso-osmolar formula, starting with conservative volumes.",
+    "Peristomal infection risk is reduced with single-dose peri-procedure antibiotic prophylaxis aligned to local policy.",
+    "Accidental tube dislodgement within 6\u201312 weeks is an emergency; blind replacement should be avoided.",
+    "Persistent pneumoperitoneum beyond 3 days requires exclusion of bowel injury.",
+    "Bolus feeding is preferred unless contraindicated by severe reflux, retching, or intolerance."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Neurodisability",
+    "Gastrostomy",
+    "Pediatric Feeding Disorders",
+    "Peristomal Infection",
+    "Emergency Medical Services",
+    "Enteral Nutrition",
+    "Postoperative Care",
+    "Antibiotic Prophylaxis"
+  ],
+  "tags_custom": [
+    "early gastrostomy care",
+    "feeding complications",
+    "tube dislodgement response",
+    "infection prevention",
+    "feed tolerance strategies"
+  ],
+  "reference_quote": "Single-dose peri-procedure antibiotic prophylaxis reduces peristomal infection risk; align the specific agent with local antimicrobial policy. (ESPGHAN Position Paper)",
+  "document_key_topics": [
+    "Post-gastrostomy feeding initiation and progression",
+    "Peristomal infection prevention and management",
+    "Emergency response to tube dislodgement",
+    "Feed tolerance and troubleshooting strategies"
+  ],
+  "chunk_heading": "NEURODISABILITY & FEEDING SUPPORT;EARLY POST-GASTROSTOMY FEEDING AND COMPLICATION FIRST RESPONSE;",
+  "topic": "NEURODISABILITY & FEEDING SUPPORT",
+  "subtopic": "EARLY POST-GASTROSTOMY FEEDING AND COMPLICATION FIRST RESPONSE",
+  "sub_subtopic": null,
+  "heading_path": "NEURODISABILITY & FEEDING SUPPORT;EARLY POST-GASTROSTOMY FEEDING AND COMPLICATION FIRST RESPONSE;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1z"
+}

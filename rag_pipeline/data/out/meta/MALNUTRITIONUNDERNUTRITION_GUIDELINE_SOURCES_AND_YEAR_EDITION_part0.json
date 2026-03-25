@@ -1,0 +1,46 @@
+{
+  "chunk_summary": "This section emphasizes the importance of anchoring malnutrition protocols to specific guideline sources and years to avoid discrepancies in screening, classification, and treatment workflows.",
+  "learning_objectives": [
+    "Understand the risks of mixing malnutrition thresholds and criteria from different guidelines.",
+    "Learn to align local protocols with authoritative sources and year-specific editions.",
+    "Identify key guideline sources for malnutrition management in India.",
+    "Apply conservative decision-making when protocol conflicts arise."
+  ],
+  "key_facts": [
+    "WHO guideline (Dec 2023) provides global definitions and an expanded infant-under-six-month 'at risk' framework.",
+    "MoHFW Operational Guidelines (May 2011) define inpatient criteria, shock management, and stabilization steps.",
+    "ICMR Standard Treatment Workflow (Oct 2019) includes antibiotic escalation pathways and investigation bundles.",
+    "IMNCI materials (2023) guide danger sign recognition and first-contact triage classification.",
+    "NTEP pediatric TB guidance (2022) standardizes when thinness or poor weight gain should trigger TB evaluation."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Malnutrition",
+    "Undernutrition",
+    "Severe Acute Malnutrition",
+    "Pediatric Nutrition Disorders",
+    "Clinical Protocols",
+    "Guideline Adherence",
+    "Tuberculosis, Pediatric"
+  ],
+  "tags_custom": [
+    "Malnutrition Screening",
+    "Protocol Standardization",
+    "India-Specific Guidelines",
+    "Pediatric Undernutrition"
+  ],
+  "reference_quote": "A practical India-oriented stamp set is: the WHO guideline on prevention and management of wasting and nutritional oedema in under-fives (Dec 2023) for global definitions and the expanded infant-under-six-month 'at risk' framework.",
+  "document_key_topics": [
+    "Protocol standardization for malnutrition management",
+    "India-specific malnutrition guidelines and sources",
+    "Conflict resolution in clinical protocols"
+  ],
+  "chunk_heading": "MALNUTRITION\u2014UNDERNUTRITION: SCREENING & CLASSIFICATION;GUIDELINE SOURCES AND YEAR EDITION ANCHORS FOR LOCAL PROTOCOLS;",
+  "topic": "MALNUTRITION\u2014UNDERNUTRITION: SCREENING & CLASSIFICATION",
+  "subtopic": "GUIDELINE SOURCES AND YEAR EDITION ANCHORS FOR LOCAL PROTOCOLS",
+  "sub_subtopic": null,
+  "heading_path": "MALNUTRITION\u2014UNDERNUTRITION: SCREENING & CLASSIFICATION;GUIDELINE SOURCES AND YEAR EDITION ANCHORS FOR LOCAL PROTOCOLS;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "1d.1"
+}

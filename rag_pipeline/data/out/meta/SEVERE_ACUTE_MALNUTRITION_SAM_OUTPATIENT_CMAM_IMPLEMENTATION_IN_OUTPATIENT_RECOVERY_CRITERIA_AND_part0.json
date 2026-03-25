@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "Outpatient CMAM programs in India define recovery criteria based on anthropometric measures and set maximum treatment durations (12\u201316 weeks) with referral protocols for non-responders.",
+  "learning_objectives": [
+    "Understand outpatient recovery criteria for SAM management, including MUAC and oedema-free standards.",
+    "Learn the importance of consistent anthropometric monitoring during outpatient treatment.",
+    "Identify triggers for non-response referral and structured evaluations in CMAM programs.",
+    "Explore Indian state protocols for maximum treatment duration in outpatient SAM management."
+  ],
+  "key_facts": [
+    "Recovery criteria include MUAC \u2265125 mm or WHZ \u2265-2 with no bilateral pitting oedema for at least 2 weeks.",
+    "Maximum outpatient treatment duration is typically 12\u201316 weeks in Indian CMAM programs.",
+    "Non-response triggers include weight gain <5 g/kg/day over several weeks, persistent oedema, or appetite-test failure.",
+    "Percentage weight gain is not recommended as a sole recovery criterion due to bias from admission weight.",
+    "Structured evaluations for non-responders should investigate missed infections, chronic diarrhea, or malabsorption."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Severe Acute Malnutrition",
+    "Community-Based Management of Acute Malnutrition",
+    "Anthropometry",
+    "Mid-Upper Arm Circumference",
+    "Edema",
+    "Nutritional Therapy",
+    "Referral and Consultation",
+    "India"
+  ],
+  "tags_custom": [
+    "SAM outpatient protocols",
+    "non-response criteria",
+    "Indian CMAM guidelines",
+    "recovery standards",
+    "maximum treatment duration"
+  ],
+  "reference_quote": "A widely used WHO criterion for discharge from nutritional treatment is: MUAC \u2265125 mm with no bilateral pitting oedema for at least 2 weeks, or WHZ \u2265-2 with no bilateral pitting oedema for at least 2 weeks.",
+  "document_key_topics": [
+    "Outpatient recovery criteria for SAM management",
+    "Maximum treatment duration and referral protocols",
+    "Anthropometric monitoring and oedema-free standards"
+  ],
+  "chunk_heading": "SEVERE ACUTE MALNUTRITION (SAM) MANAGEMENT;OUTPATIENT CMAM IMPLEMENTATION IN INDIA;OUTPATIENT RECOVERY CRITERIA AND MAXIMUM DURATION WITH NON-RESPONSE REFERRAL;",
+  "topic": "SEVERE ACUTE MALNUTRITION (SAM) MANAGEMENT",
+  "subtopic": "OUTPATIENT CMAM IMPLEMENTATION IN INDIA",
+  "sub_subtopic": "OUTPATIENT RECOVERY CRITERIA AND MAXIMUM DURATION WITH NON-RESPONSE REFERRAL",
+  "heading_path": "SEVERE ACUTE MALNUTRITION (SAM) MANAGEMENT;OUTPATIENT CMAM IMPLEMENTATION IN INDIA;OUTPATIENT RECOVERY CRITERIA AND MAXIMUM DURATION WITH NON-RESPONSE REFERRAL;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1|3.1"
+}

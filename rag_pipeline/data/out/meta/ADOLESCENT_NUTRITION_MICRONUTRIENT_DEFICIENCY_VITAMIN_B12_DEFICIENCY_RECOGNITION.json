@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Vitamin B12 deficiency in adolescents is identified through clinical signs, lab tests, and risk factors, with treatment protocols including oral or parenteral replacement therapy based on severity and malabsorption risk.",
+  "learning_objectives": [
+    "Recognize clinical signs and risk factors for vitamin B12 deficiency in adolescents.",
+    "Understand diagnostic protocols, including CBC, serum B12, and advanced tests like MMA and homocysteine.",
+    "Differentiate between oral and parenteral replacement therapy based on severity and malabsorption risk.",
+    "Monitor treatment response and adjust therapy as needed."
+  ],
+  "key_facts": [
+    "Vitamin B12 deficiency is suspected in adolescents with macrocytosis, anemia, neurologic symptoms, or high-risk diets (e.g., vegan).",
+    "Iron deficiency can mask macrocytosis; normal MCV does not exclude B12 deficiency if clinical signs exist.",
+    "Minimum diagnostic tests include CBC with smear and serum B12, ideally with folate; MMA and homocysteine confirm tissue deficiency.",
+    "Oral therapy: 100\u20131000 microg/day for mild deficiency without malabsorption; parenteral therapy: IM hydroxocobalamin 1000 microg for symptomatic cases.",
+    "Neurologic red flags (ataxia, progressive weakness, altered mentation) require immediate treatment without delay for confirmatory tests."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Vitamin B12 Deficiency",
+    "Adolescent Nutrition",
+    "Micronutrient Deficiency",
+    "Anemia",
+    "Neurologic Symptoms",
+    "Malabsorption Syndromes",
+    "Dietary Patterns",
+    "Replacement Therapy"
+  ],
+  "tags_custom": [
+    "macrocytosis",
+    "oral vs parenteral therapy",
+    "diagnostic protocols",
+    "India-specific guidelines",
+    "neurologic red flags"
+  ],
+  "reference_quote": "Mixed deficiencies are common in India; iron deficiency can mask macrocytosis, so 'normal MCV' does not exclude B12 deficiency when clinical signs exist.",
+  "document_key_topics": [
+    "Vitamin B12 deficiency recognition in adolescents",
+    "Diagnostic protocols for micronutrient deficiencies",
+    "Replacement therapy: oral vs parenteral approaches",
+    "Neurologic implications of untreated B12 deficiency"
+  ],
+  "chunk_heading": "ADOLESCENT NUTRITION;MICRONUTRIENT DEFICIENCY MANAGEMENT PROTOCOLS;VITAMIN B12 DEFICIENCY RECOGNITION AND REPLACEMENT THERAPY;",
+  "topic": "ADOLESCENT NUTRITION",
+  "subtopic": "MICRONUTRIENT DEFICIENCY MANAGEMENT PROTOCOLS",
+  "sub_subtopic": "VITAMIN B12 DEFICIENCY RECOGNITION AND REPLACEMENT THERAPY",
+  "heading_path": "ADOLESCENT NUTRITION;MICRONUTRIENT DEFICIENCY MANAGEMENT PROTOCOLS;VITAMIN B12 DEFICIENCY RECOGNITION AND REPLACEMENT THERAPY;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1r2"
+}

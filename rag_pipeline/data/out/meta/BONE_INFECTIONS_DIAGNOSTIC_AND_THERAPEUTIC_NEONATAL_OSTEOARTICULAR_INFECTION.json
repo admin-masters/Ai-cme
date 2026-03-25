@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "Neonatal osteoarticular infections require tailored diagnostic and therapeutic approaches due to atypical presentations, broader pathogen spectrum, and unique anatomical considerations. Treatment involves prolonged intravenous antibiotics and close monitoring for multifocal disease and delayed source control.",
+  "learning_objectives": [
+    "Understand the atypical clinical presentation of neonatal osteoarticular infections, including pseudoparalysis and irritability.",
+    "Identify key risk factors such as prematurity, low birth weight, and invasive vascular access.",
+    "Learn appropriate antibiotic regimens and treatment durations for neonatal osteomyelitis and septic arthritis.",
+    "Recognize the importance of imaging and sepsis evaluation in unstable neonates."
+  ],
+  "key_facts": [
+    "Neonatal osteoarticular infections may present with pseudoparalysis, irritability, or feeding intolerance rather than high fever.",
+    "Common pathogens include Group B streptococcus, Staphylococcus aureus, and enteric Gram-negative bacilli.",
+    "Initial antibiotic therapy often includes vancomycin plus cefotaxime or another broad-spectrum beta-lactam.",
+    "Treatment duration is typically 4-6 weeks for osteomyelitis and 3-4 weeks for septic arthritis.",
+    "Multifocal disease is more common in neonates compared to older children.",
+    "Transphyseal vessels allow easy spread of infection from the metaphysis to adjacent joints."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Osteomyelitis",
+    "Septic Arthritis",
+    "Neonatal Infections",
+    "Antibiotic Therapy",
+    "Risk Factors",
+    "Diagnostic Imaging",
+    "Gram-Positive Bacterial Infections",
+    "Gram-Negative Bacterial Infections"
+  ],
+  "tags_custom": [
+    "neonatal bone infections",
+    "pediatric infectious diseases",
+    "osteomyelitis treatment",
+    "septic arthritis management",
+    "multifocal infections"
+  ],
+  "reference_quote": "According to the Indian Academy of Pediatrics Consensus Statement, blood cultures and joint aspiration should be prioritized before initiating therapy in suspected neonatal osteoarticular infections.",
+  "document_key_topics": [
+    "Atypical presentation of neonatal osteoarticular infections",
+    "Risk factors and pathogen spectrum in neonates",
+    "Antibiotic regimens and treatment durations",
+    "Multifocal disease and imaging considerations"
+  ],
+  "chunk_heading": "BONE INFECTIONS;DIAGNOSTIC AND THERAPEUTIC MODIFICATIONS IN NEONATES AND YOUNG CHILDREN;NEONATAL OSTEOARTICULAR INFECTION PRESENTATION AND TREATMENT MODIFICATIONS;",
+  "topic": "BONE INFECTIONS",
+  "subtopic": "DIAGNOSTIC AND THERAPEUTIC MODIFICATIONS IN NEONATES AND YOUNG CHILDREN",
+  "sub_subtopic": "NEONATAL OSTEOARTICULAR INFECTION PRESENTATION AND TREATMENT MODIFICATIONS",
+  "heading_path": "BONE INFECTIONS;DIAGNOSTIC AND THERAPEUTIC MODIFICATIONS IN NEONATES AND YOUNG CHILDREN;NEONATAL OSTEOARTICULAR INFECTION PRESENTATION AND TREATMENT MODIFICATIONS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u008d1"
+}

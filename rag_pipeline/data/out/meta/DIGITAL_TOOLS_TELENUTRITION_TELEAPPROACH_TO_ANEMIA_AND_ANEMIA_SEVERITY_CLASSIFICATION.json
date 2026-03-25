@@ -1,0 +1,47 @@
+{
+  "chunk_summary": "Tele-nutrition supports anemia management through severity classification, follow-up scheduling, and escalation for non-response, adhering to national guidelines for safe supplementation and stop rules.",
+  "learning_objectives": [
+    "Understand anemia severity thresholds and their implications for tele-nutrition management.",
+    "Learn safe iron supplementation protocols for children with mild to moderate anemia.",
+    "Identify telemedicine stop rules and escalation criteria for severe anemia or non-response."
+  ],
+  "key_facts": [
+    "Daily elemental iron dosing for children 6 months to 5 years with mild/moderate anemia: 3 mg/kg/day for 2 months.",
+    "Follow-up every 14 days to monitor adherence, tolerance, and side effects, with repeat hemoglobin testing post-treatment.",
+    "Severe anemia thresholds: <7 g/dL in young children, urgent referral required.",
+    "Facility-level transfusion criteria: hemoglobin \u22644 g/dL, or 4\u20136 g/dL with shock, impaired consciousness, heart failure, or dehydration.",
+    "Stop rules for tele-nutrition: acute illness, SAM, or known hemoglobinopathy."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Anemia",
+    "Iron Deficiency",
+    "Micronutrients",
+    "Telemedicine",
+    "Diet Therapy",
+    "Child Nutrition Disorders",
+    "Iron Supplementation",
+    "Severity of Illness Index"
+  ],
+  "tags_custom": [
+    "tele-nutrition",
+    "anemia management",
+    "iron dosing",
+    "follow-up protocols",
+    "escalation criteria"
+  ],
+  "reference_quote": "Clinical symptoms suggesting cardiopulmonary compromise (tachycardia at rest, breathlessness, syncope, marked lethargy) require urgent in-person assessment rather than remote supplementation.",
+  "document_key_topics": [
+    "Anemia severity classification and management",
+    "Safe iron supplementation protocols",
+    "Telemedicine stop rules and escalation criteria"
+  ],
+  "chunk_heading": "DIGITAL TOOLS & TELE-NUTRITION;TELE-APPROACH TO ANEMIA AND MICRONUTRIENT DEFICIENCIES WITH SAFE SUPPLEMENTATION;ANEMIA SEVERITY CLASSIFICATION, FOLLOW-UP SCHEDULING, AND NON-RESPONSE ESCALATION;",
+  "topic": "DIGITAL TOOLS & TELE-NUTRITION",
+  "subtopic": "TELE-APPROACH TO ANEMIA AND MICRONUTRIENT DEFICIENCIES WITH SAFE SUPPLEMENTATION",
+  "sub_subtopic": "ANEMIA SEVERITY CLASSIFICATION, FOLLOW-UP SCHEDULING, AND NON-RESPONSE ESCALATION",
+  "heading_path": "DIGITAL TOOLS & TELE-NUTRITION;TELE-APPROACH TO ANEMIA AND MICRONUTRIENT DEFICIENCIES WITH SAFE SUPPLEMENTATION;ANEMIA SEVERITY CLASSIFICATION, FOLLOW-UP SCHEDULING, AND NON-RESPONSE ESCALATION;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u00831"
+}

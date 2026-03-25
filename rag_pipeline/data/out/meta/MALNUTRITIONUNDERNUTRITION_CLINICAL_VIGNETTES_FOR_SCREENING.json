@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Clinical vignettes illustrate screening and decision-making for undernutrition, focusing on discordant indicators, oedema mimics, feeding failure, TB red flags, and adolescent restrictive eating.",
+  "learning_objectives": [
+    "Identify and interpret key indicators of undernutrition, including MUAC, WHZ, and oedema patterns.",
+    "Apply clinical decision-making to classify malnutrition and determine appropriate management pathways.",
+    "Recognize atypical presentations such as oedema mimics and integrate differential diagnoses.",
+    "Incorporate pediatric TB diagnostic algorithms and feeding support in malnutrition management."
+  ],
+  "key_facts": [
+    "MUAC <115 mm in children under 5 years is a criterion for severe acute malnutrition (SAM).",
+    "Unilateral oedema or atypical swelling patterns may indicate renal disease rather than kwashiorkor.",
+    "Danger signs in infants under 6 months (e.g., lethargy, reduced wet diapers) require same-day admission and glucose checks.",
+    "Chronic symptoms like cough and fever for \u22652 weeks with poor weight gain in school-age children warrant TB investigation.",
+    "Adolescents with BAZ < -2.5 and restrictive eating behaviors may require urgent stabilization and mental health evaluation."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Malnutrition",
+    "Severe Acute Malnutrition",
+    "Mid-Upper Arm Circumference",
+    "Nutritional Edema",
+    "Pediatric Tuberculosis",
+    "Feeding and Eating Disorders",
+    "Anthropometry",
+    "Child Nutrition Disorders"
+  ],
+  "tags_custom": [
+    "clinical vignettes",
+    "malnutrition screening",
+    "decision-making",
+    "pediatric nutrition",
+    "adolescent health"
+  ],
+  "reference_quote": "\u2018MUAC <115 mm in children under 5 years is a criterion for severe acute malnutrition (SAM).\u2019 (IMNCI Chart Booklet for Medical Officers, 2023)",
+  "document_key_topics": [
+    "Screening and classification of undernutrition",
+    "Clinical decision-making in malnutrition management",
+    "Differential diagnosis in pediatric malnutrition cases",
+    "Integration of TB diagnostic algorithms in malnutrition"
+  ],
+  "chunk_heading": "MALNUTRITION\u2014UNDERNUTRITION: SCREENING & CLASSIFICATION;CLINICAL VIGNETTES FOR SCREENING AND FIRST DECISIONS;",
+  "topic": "MALNUTRITION\u2014UNDERNUTRITION: SCREENING & CLASSIFICATION",
+  "subtopic": "CLINICAL VIGNETTES FOR SCREENING AND FIRST DECISIONS",
+  "sub_subtopic": null,
+  "heading_path": "MALNUTRITION\u2014UNDERNUTRITION: SCREENING & CLASSIFICATION;CLINICAL VIGNETTES FOR SCREENING AND FIRST DECISIONS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "3\u007f"
+}

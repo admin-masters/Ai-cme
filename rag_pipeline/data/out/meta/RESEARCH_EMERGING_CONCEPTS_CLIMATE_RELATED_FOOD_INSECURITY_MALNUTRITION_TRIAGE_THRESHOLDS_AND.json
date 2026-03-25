@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "Guidelines for malnutrition triage and urgent referral in clinics addressing climate-related food insecurity, focusing on anthropometric thresholds, danger signs, and management strategies for severe and moderate acute malnutrition in children aged 6\u201359 months.",
+  "learning_objectives": [
+    "Understand the anthropometric thresholds for diagnosing severe and moderate acute malnutrition (SAM and MAM).",
+    "Identify danger signs and complications that necessitate urgent referral to a nutrition rehabilitation center (NRC).",
+    "Learn outpatient management strategies for children with uncomplicated malnutrition.",
+    "Recognize the importance of linking families to local nutrition and food support systems."
+  ],
+  "key_facts": [
+    "Severe acute malnutrition (SAM) is defined as MUAC <115 mm, weight-for-height/length z score < -3, or bilateral pitting edema.",
+    "Moderate acute malnutrition (MAM) is defined as MUAC 115\u2013124 mm or z score between -3 and -2.",
+    "Urgent referral to an NRC is required for SAM with complications such as inability to feed, lethargy, severe dehydration, or severe anemia.",
+    "Outpatient management for uncomplicated malnutrition includes increased meal frequency, energy-dense foods, continued breastfeeding, and early follow-up within 7\u201314 days.",
+    "Dehydration in alert children should be treated with ORS, and unproven appetite tonics should be avoided."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Malnutrition",
+    "Severe Acute Malnutrition",
+    "Moderate Acute Malnutrition",
+    "Anthropometry",
+    "Nutritional Support",
+    "Food Insecurity",
+    "Child Nutrition Disorders",
+    "Nutrition Assessment"
+  ],
+  "tags_custom": [
+    "climate-related malnutrition",
+    "triage guidelines",
+    "nutrition rehabilitation",
+    "pediatric malnutrition"
+  ],
+  "reference_quote": "Severe acute malnutrition (SAM) is present with MUAC <115 mm, weight-for-height/length z score < -3, or bilateral edema.",
+  "document_key_topics": [
+    "Malnutrition triage thresholds",
+    "Urgent referral triggers for SAM",
+    "Outpatient management of malnutrition",
+    "Linking families to nutrition support systems"
+  ],
+  "chunk_heading": "RESEARCH & EMERGING CONCEPTS;CLIMATE RELATED FOOD INSECURITY CLINIC RESPONSE;MALNUTRITION TRIAGE THRESHOLDS AND URGENT REFERRAL TRIGGERS;",
+  "topic": "RESEARCH & EMERGING CONCEPTS",
+  "subtopic": "CLIMATE RELATED FOOD INSECURITY CLINIC RESPONSE",
+  "sub_subtopic": "MALNUTRITION TRIAGE THRESHOLDS AND URGENT REFERRAL TRIGGERS",
+  "heading_path": "RESEARCH & EMERGING CONCEPTS;CLIMATE RELATED FOOD INSECURITY CLINIC RESPONSE;MALNUTRITION TRIAGE THRESHOLDS AND URGENT REFERRAL TRIGGERS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u00892"
+}

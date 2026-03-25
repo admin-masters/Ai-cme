@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "This section outlines a staged approach to implementing tele-nutrition systems, emphasizing workflow mapping, safety protocols, data quality, and population management to ensure effective care delivery and avoid common pitfalls.",
+  "learning_objectives": [
+    "Understand the staged implementation process for tele-nutrition systems, from triage to dashboard operations.",
+    "Identify key safety protocols and data quality measures for tele-nutrition workflows.",
+    "Learn strategies to prevent implementation pitfalls, such as misclassification and workflow mismatches.",
+    "Explore methods for scaling tele-nutrition systems after pilot testing."
+  ],
+  "key_facts": [
+    "Tele-nutrition implementation involves four stages: safety, data quality, longitudinal reliability, and population management.",
+    "Stage 1 includes triage scripts, red-flag pathways, consent templates, and escalation directories.",
+    "Stage 2 focuses on data quality with coached anthropometry protocols and standardized counseling scripts for high-burden issues like undernutrition and obesity.",
+    "Stage 3 requires a registry to track risk tiers and follow-up dates, ensuring outreach for overdue high-risk children.",
+    "Stage 4 involves dashboards, alert rules, and monthly quality improvement cycles using outcome checkpoints.",
+    "A one-week pilot with 10 families is recommended to identify workflow failures before scaling."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Telemedicine",
+    "Nutrition Therapy",
+    "Health Information Systems",
+    "Anthropometry",
+    "Patient Safety",
+    "Quality Improvement",
+    "Obesity",
+    "Undernutrition"
+  ],
+  "tags_custom": [
+    "tele-nutrition implementation",
+    "workflow mapping",
+    "population health dashboards",
+    "measurement protocols",
+    "pilot testing strategies"
+  ],
+  "reference_quote": "Buying software before mapping the workflow leads to 'data without care,' where measurements are collected but follow-up fails.",
+  "document_key_topics": [
+    "Staged tele-nutrition implementation",
+    "Safety and data quality protocols",
+    "Population management dashboards",
+    "Preventing implementation pitfalls"
+  ],
+  "chunk_heading": "DIGITAL TOOLS & TELE-NUTRITION;IMPLEMENTATION AND TRAINING COMPETENCIES FOR TELE-NUTRITION TEAMS;STAGED IMPLEMENTATION REQUIREMENTS FROM TRIAGE TO DASHBOARD OPERATIONS;",
+  "topic": "DIGITAL TOOLS & TELE-NUTRITION",
+  "subtopic": "IMPLEMENTATION AND TRAINING COMPETENCIES FOR TELE-NUTRITION TEAMS",
+  "sub_subtopic": "STAGED IMPLEMENTATION REQUIREMENTS FROM TRIAGE TO DASHBOARD OPERATIONS",
+  "heading_path": "DIGITAL TOOLS & TELE-NUTRITION;IMPLEMENTATION AND TRAINING COMPETENCIES FOR TELE-NUTRITION TEAMS;STAGED IMPLEMENTATION REQUIREMENTS FROM TRIAGE TO DASHBOARD OPERATIONS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u00a11"
+}

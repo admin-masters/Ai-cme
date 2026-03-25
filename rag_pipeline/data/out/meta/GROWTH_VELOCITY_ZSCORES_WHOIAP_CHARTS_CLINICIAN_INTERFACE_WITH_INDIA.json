@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Clinicians in India must reconcile community and facility growth monitoring data using WHO/IAP charts, ensuring accurate anthropometry and clear care plans for children under programs like ICDS, HBYC, VHSND, and POSHAN Abhiyaan.",
+  "learning_objectives": [
+    "Understand the role of community platforms like ICDS, HBYC, and VHSND in growth monitoring.",
+    "Learn methods to reconcile discrepancies between community and facility anthropometric data.",
+    "Identify criteria for diagnosing SAM and growth faltering using WHZ, MUAC, and trajectory.",
+    "Explore strategies for integrating digital records and feedback loops to improve continuity of care."
+  ],
+  "key_facts": [
+    "Anganwadi workers routinely record weight, height/length, and MUAC on MCP cards under ICDS.",
+    "POSHAN Abhiyaan aims to digitize child health records in many districts for improved monitoring.",
+    "SAM diagnosis includes WHZ < -3, MUAC < 11.5 cm, edema, and growth trajectory analysis.",
+    "RBSK supports referrals for growth failure, developmental delay, and chronic conditions.",
+    "Feedback loops via MCP cards or referral slips enhance continuity between clinicians and community workers."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Growth Monitoring",
+    "Anthropometry",
+    "Child Health Services",
+    "Malnutrition",
+    "Community Health Workers",
+    "India",
+    "Nutritional Status",
+    "Referral and Consultation"
+  ],
+  "tags_custom": [
+    "ICDS programs",
+    "POSHAN Abhiyaan",
+    "SAM diagnosis",
+    "MCP card usage",
+    "Digital health records"
+  ],
+  "reference_quote": "Under VHSND, home visits and periodic screenings are conducted to monitor child growth and nutrition (National Guidelines on VHSND, NHM).",
+  "document_key_topics": [
+    "Growth velocity and Z-scores in child health monitoring",
+    "Integration of community and clinical data in India",
+    "Diagnosis and management of SAM and growth faltering",
+    "Role of digital records in improving child health programs"
+  ],
+  "chunk_heading": "GROWTH VELOCITY, Z-SCORES; WHO/IAP CHARTS);CLINICIAN INTERFACE WITH INDIA CHILD HEALTH PROGRAMS;",
+  "topic": "GROWTH VELOCITY, Z-SCORES",
+  "subtopic": "WHO/IAP CHARTS)",
+  "sub_subtopic": "CLINICIAN INTERFACE WITH INDIA CHILD HEALTH PROGRAMS",
+  "heading_path": "GROWTH VELOCITY, Z-SCORES; WHO/IAP CHARTS);CLINICIAN INTERFACE WITH INDIA CHILD HEALTH PROGRAMS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2\u009148"
+}

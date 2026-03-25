@@ -1,0 +1,46 @@
+{
+  "chunk_summary": "Guidelines for caregiver counseling and sachet dosing of RUTF in SAM management, including energy targets, dosing framework, and safe usage instructions.",
+  "learning_objectives": [
+    "Understand the role of RUTF in outpatient treatment of uncomplicated SAM in children over 6 months.",
+    "Learn the WHO 2023 dosing framework for RUTF based on kcal/kg/day and weight-specific sachet prescriptions.",
+    "Recognize key caregiver counseling points for safe RUTF use and follow-up care."
+  ],
+  "key_facts": [
+    "RUTF provides 500 kcal per sachet and is used for outpatient treatment of uncomplicated SAM.",
+    "WHO 2023 dosing framework recommends 150\u2013185 kcal/kg/day until recovery or transition to 100\u2013130 kcal/kg/day after severe wasting resolves.",
+    "Weight-based sachet dosing examples: 4.0\u20135.0 kg = 1.5 sachets/day, 8.4\u201310.0 kg = 3.0 sachets/day.",
+    "Caregivers should divide daily sachets into small feeds, offer clean water after feeding, and discard opened sachets after 24 hours.",
+    "Danger signs requiring immediate return include fever, fast breathing, convulsions, lethargy, or inability to take RUTF."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Severe Acute Malnutrition",
+    "Therapeutic Feeding",
+    "Ready-to-Use Therapeutic Food",
+    "Micronutrient Deficiency",
+    "Child Nutrition Disorders",
+    "Energy Intake",
+    "Caregiver Counseling",
+    "Nutritional Therapy"
+  ],
+  "tags_custom": [
+    "RUTF dosing",
+    "SAM outpatient care",
+    "caregiver education",
+    "child wasting treatment"
+  ],
+  "reference_quote": "1 sachet provides 500 kcal; divide the prescribed daily sachets into multiple small feeds; offer clean water after feeds; continue breastfeeding on demand; do not share within the household; and discard an opened sachet after 24 hours. (UNICEF Supply Division, Ready-to-use therapeutic food specification sheet)",
+  "document_key_topics": [
+    "RUTF specifications and dosing",
+    "Caregiver counseling for SAM management",
+    "WHO 2023 dosing framework for SAM treatment"
+  ],
+  "chunk_heading": "SEVERE ACUTE MALNUTRITION-(SAM) MANAGEMENT;THERAPEUTIC FEEDING AND CATCH-UP GROWTH;RUTF SPECIFICATIONS CAREGIVER COUNSELING AND SACHET DOSING;",
+  "topic": "SEVERE ACUTE MALNUTRITION-(SAM) MANAGEMENT",
+  "subtopic": "THERAPEUTIC FEEDING AND CATCH-UP GROWTH",
+  "sub_subtopic": "RUTF SPECIFICATIONS CAREGIVER COUNSELING AND SACHET DOSING",
+  "heading_path": "SEVERE ACUTE MALNUTRITION-(SAM) MANAGEMENT;THERAPEUTIC FEEDING AND CATCH-UP GROWTH;RUTF SPECIFICATIONS CAREGIVER COUNSELING AND SACHET DOSING;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "3\u00851"
+}

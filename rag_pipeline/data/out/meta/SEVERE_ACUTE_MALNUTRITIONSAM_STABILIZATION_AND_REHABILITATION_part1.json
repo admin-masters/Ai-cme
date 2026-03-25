@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section outlines the ten-step care model for managing severe acute malnutrition (SAM), focusing on stabilization and rehabilitation phases, as recommended by WHO and national guidelines.",
+  "learning_objectives": [
+    "Understand the ten-step care model for managing severe acute malnutrition (SAM).",
+    "Identify key interventions during stabilization and rehabilitation phases of SAM management.",
+    "Learn evidence-based guidelines for facility-based care of children with SAM.",
+    "Explore the role of nutritional and medical protocols in reducing mortality and promoting recovery."
+  ],
+  "key_facts": [
+    "The ten-step care model includes stabilization (acute phase) and rehabilitation (recovery phase).",
+    "WHO guidelines emphasize treating hypoglycemia, hypothermia, and dehydration during stabilization.",
+    "Nutritional oedema and wasting are critical conditions addressed in SAM management protocols.",
+    "Facility-based management guidelines by the Ministry of Health and Family Welfare (India) were established in 2011.",
+    "SAM management requires careful monitoring of electrolyte imbalances and micronutrient supplementation."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Malnutrition",
+    "Severe Acute Malnutrition",
+    "Nutritional Rehabilitation",
+    "Child Health",
+    "Hospital Care",
+    "Guidelines",
+    "Nutrition Therapy",
+    "Pediatric Nutrition"
+  ],
+  "tags_custom": [
+    "SAM management",
+    "stabilization phase",
+    "rehabilitation protocols",
+    "facility-based care",
+    "WHO guidelines"
+  ],
+  "reference_quote": "WHO guidelines recommend treating hypoglycemia, hypothermia, and dehydration as critical steps during the stabilization phase of SAM management. (Source: https://www.ncbi.nlm.nih.gov/books/NBK154454/)",
+  "document_key_topics": [
+    "Ten-step care model for SAM management",
+    "Stabilization phase interventions",
+    "Rehabilitation phase protocols",
+    "Facility-based care guidelines for SAM"
+  ],
+  "chunk_heading": "SEVERE ACUTE MALNUTRITION-(SAM) MANAGEMENT;STABILIZATION AND  REHABILITATION TEN-STEP CARE MODEL;",
+  "topic": "SEVERE ACUTE MALNUTRITION-(SAM) MANAGEMENT",
+  "subtopic": "STABILIZATION AND  REHABILITATION TEN-STEP CARE MODEL",
+  "sub_subtopic": null,
+  "heading_path": "SEVERE ACUTE MALNUTRITION-(SAM) MANAGEMENT;STABILIZATION AND  REHABILITATION TEN-STEP CARE MODEL;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "2g.2"
+}

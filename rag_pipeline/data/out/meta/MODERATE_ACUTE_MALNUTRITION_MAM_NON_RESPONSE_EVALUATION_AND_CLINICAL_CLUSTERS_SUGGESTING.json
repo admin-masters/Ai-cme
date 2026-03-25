@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "This section addresses clinical clusters in children with moderate acute malnutrition (MAM) who fail to respond to supplementary feeding, focusing on tuberculosis, celiac disease, cardiac conditions, and chronic infections as potential underlying causes.",
+  "learning_objectives": [
+    "Understand the importance of identifying clinical clusters in non-responsive MAM cases.",
+    "Learn diagnostic pathways for tuberculosis, celiac disease, and cardiac conditions in malnourished children.",
+    "Recognize systemic symptoms and their role in targeted investigations for underlying diseases."
+  ],
+  "key_facts": [
+    "Non-response in MAM should prompt investigation for underlying conditions, not repeated changes in supplements.",
+    "Tuberculosis suspicion includes symptoms like 2+ weeks of cough or fever, weight loss, and household contact; refer to NTEP diagnostic pathways including chest imaging and NAAT.",
+    "Celiac disease suspicion includes chronic diarrhea, anemia unresponsive to iron, and family history; initiate serology-based evaluation per Indian guidelines.",
+    "Cardiac disease suspicion includes tachypnea, feeding fatigue, and diaphoresis; refer for imaging or echocardiography.",
+    "Chronic infection or UTI suspicion includes recurrent fever and unexplained vomiting; requires targeted investigation."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Malnutrition",
+    "Tuberculosis",
+    "Celiac Disease",
+    "Cardiac Diseases",
+    "Chronic Infection",
+    "Pediatric Nutrition",
+    "Diagnostic Imaging",
+    "Nutritional Rehabilitation"
+  ],
+  "tags_custom": [
+    "MAM non-response",
+    "clinical clusters",
+    "targeted investigation",
+    "systemic symptoms",
+    "pediatric diagnostics"
+  ],
+  "reference_quote": "Treat non-response and early relapse as 'symptoms' that require a directed search for an underlying driver, not as a reason to keep changing supplements.",
+  "document_key_topics": [
+    "Moderate acute malnutrition (MAM) management",
+    "Clinical clusters for tuberculosis, celiac, and cardiac disease",
+    "Targeted diagnostic pathways for systemic symptoms",
+    "Nutritional rehabilitation in high-risk pediatric cases"
+  ],
+  "chunk_heading": "MODERATE ACUTE MALNUTRITION (MAM) AND SUPPLEMENTARY FEEDING;NON- RESPONSE EVALUATION AND TARGETED INVESTIGATION;CLINICAL CLUSTERS SUGGESTING TUBERCULOSIS CELIAC OR CARDIAC DISEASE;",
+  "topic": "MODERATE ACUTE MALNUTRITION (MAM) AND SUPPLEMENTARY FEEDING",
+  "subtopic": "NON- RESPONSE EVALUATION AND TARGETED INVESTIGATION",
+  "sub_subtopic": "CLINICAL CLUSTERS SUGGESTING TUBERCULOSIS CELIAC OR CARDIAC DISEASE",
+  "heading_path": "MODERATE ACUTE MALNUTRITION (MAM) AND SUPPLEMENTARY FEEDING;NON- RESPONSE EVALUATION AND TARGETED INVESTIGATION;CLINICAL CLUSTERS SUGGESTING TUBERCULOSIS CELIAC OR CARDIAC DISEASE;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "3t1"
+}

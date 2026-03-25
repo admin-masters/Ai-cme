@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section discusses growth classification and nutritional triage in children using WHO and IAP growth charts, emphasizing z-scores, BMI-for-age, and clinical decision-making based on growth patterns and energy balance.",
+  "learning_objectives": [
+    "Understand the use of WHO growth standards for children under 5 years and IAP charts for 5\u201318 years.",
+    "Learn to interpret z-scores and BMI-for-age for growth classification and nutritional triage.",
+    "Identify clinical actions based on growth patterns, including stunting, wasting, and underweight.",
+    "Apply nutritional interventions based on specific cases and growth trajectories."
+  ],
+  "key_facts": [
+    "WHO growth standards use z-scores: stunting is height-for-age < -2 SD, wasting is weight-for-height < -2 SD, and overweight is weight-for-height > +2 SD.",
+    "IAP 2015 growth charts for 5\u201318 years use BMI-for-age with adult-equivalent cut-offs: 23 for overweight risk and 27 for obesity risk in South Asian children.",
+    "Stunting with normal weight-for-height requires diet diversity and infection control, not short-term calorie increases unless wasting is present.",
+    "Negative energy balance (e.g., weight crossing down percentiles) requires intake quantification, red flag screening, and outpatient or inpatient care decisions.",
+    "Mini-case example: A 10-month-old with weight-for-length -3 SD and diarrhea needs dehydration care and energy-dense feeds during recovery."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Child Nutrition Disorders",
+    "Growth Charts",
+    "Body Mass Index",
+    "Stunting",
+    "Wasting Syndrome",
+    "Pediatric Obesity",
+    "Energy Intake",
+    "Nutritional Assessment"
+  ],
+  "tags_custom": [
+    "WHO growth standards",
+    "IAP growth charts",
+    "pediatric nutrition",
+    "growth monitoring",
+    "nutritional triage"
+  ],
+  "reference_quote": "WHO child growth standards for children under 5 years and IAP 2015 growth charts for 5\u201318 years; interpret both the current position and the trajectory.",
+  "document_key_topics": [
+    "WHO and IAP growth chart usage",
+    "Growth classification using z-scores and BMI-for-age",
+    "Nutritional triage and clinical decision-making",
+    "Case-based pediatric nutrition interventions"
+  ],
+  "chunk_heading": "MACRONUTRIENT NUTRITION IN CHILDHOOD;GROWTH CLASSIFICATION  AND NUTRITIONAL TRIAGE USING WHO AND IAP CHARTS;",
+  "topic": "MACRONUTRIENT NUTRITION IN CHILDHOOD",
+  "subtopic": "GROWTH CLASSIFICATION  AND NUTRITIONAL TRIAGE USING WHO AND IAP CHARTS",
+  "sub_subtopic": null,
+  "heading_path": "MACRONUTRIENT NUTRITION IN CHILDHOOD;GROWTH CLASSIFICATION  AND NUTRITIONAL TRIAGE USING WHO AND IAP CHARTS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1a"
+}

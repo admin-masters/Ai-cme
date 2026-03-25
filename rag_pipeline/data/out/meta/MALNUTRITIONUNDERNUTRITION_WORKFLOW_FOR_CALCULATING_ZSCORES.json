@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "This section outlines workflows for calculating z-scores and documenting growth charts for undernutrition screening in children aged 0\u201359 months and 5\u201319 years, emphasizing WHO standards and tools like WHO Anthro and AnthroPlus.",
+  "learning_objectives": [
+    "Understand the workflow for calculating z-scores and documenting growth charts in undernutrition screening.",
+    "Learn to use WHO Child Growth Standards and WHO Anthro/AnthroPlus tools for accurate classification.",
+    "Identify key indicators (e.g., WHZ, WLZ, HAZ, WAZ, BAZ) and their interpretation for different age groups.",
+    "Develop strategies to ensure continuity of care using caregiver-held growth charts."
+  ],
+  "key_facts": [
+    "For children aged 0\u201359 months, use WHO Child Growth Standards and tools like WHO Anthro to calculate WHZ/WLZ, HAZ, and WAZ.",
+    "For ages 5\u201319 years, use the WHO 2007 reference and interpret thinness using BAZ; avoid weight-for-age as the primary indicator.",
+    "A one-page proforma should be used for children with any index < -2 SD to ensure comprehensive assessment.",
+    "Linear growth should be reassessed over months, not days, to avoid unnecessary re-measurements.",
+    "Standardized printed charts can be used when software is unavailable, but consistent references must be maintained across visits."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Malnutrition",
+    "Undernutrition",
+    "Child Growth",
+    "Z-Score",
+    "Anthropometry",
+    "Growth Charts",
+    "Body Mass Index",
+    "Nutritional Assessment"
+  ],
+  "tags_custom": [
+    "WHO standards",
+    "z-score calculation",
+    "child nutrition",
+    "growth monitoring"
+  ],
+  "reference_quote": "For children 0\u201359 months, use the WHO Child Growth Standards and a tool that outputs z-scores consistently (e.g., WHO Anthro or an equivalent charting system).",
+  "document_key_topics": [
+    "Workflow for calculating z-scores",
+    "Use of WHO Child Growth Standards and tools",
+    "Age-specific growth assessment indicators",
+    "Continuity of care with growth charts"
+  ],
+  "chunk_heading": "MALNUTRITION\u2014UNDERNUTRITION: SCREENING & CLASSIFICATION;WORKFLOW FOR CALCULATING Z-SCORES AND DOCUMENTING GROWTH CHARTS;",
+  "topic": "MALNUTRITION\u2014UNDERNUTRITION: SCREENING & CLASSIFICATION",
+  "subtopic": "WORKFLOW FOR CALCULATING Z-SCORES AND DOCUMENTING GROWTH CHARTS",
+  "sub_subtopic": null,
+  "heading_path": "MALNUTRITION\u2014UNDERNUTRITION: SCREENING & CLASSIFICATION;WORKFLOW FOR CALCULATING Z-SCORES AND DOCUMENTING GROWTH CHARTS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2k"
+}

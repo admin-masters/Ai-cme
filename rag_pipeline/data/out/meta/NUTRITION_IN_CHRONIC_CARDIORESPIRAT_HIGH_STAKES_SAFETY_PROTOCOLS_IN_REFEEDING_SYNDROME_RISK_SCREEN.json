@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Refeeding syndrome risk in children with chronic cardiorespiratory disease requires cautious calorie initiation, electrolyte monitoring, and thiamine supplementation to prevent complications like arrhythmia and respiratory failure.",
+  "learning_objectives": [
+    "Understand the pathophysiology of refeeding syndrome in children with chronic cardiorespiratory disease.",
+    "Learn protocols for calorie initiation and electrolyte monitoring in high-risk pediatric patients.",
+    "Identify risk factors for refeeding syndrome, including prolonged inadequate intake and significant weight loss.",
+    "Apply evidence-based strategies for thiamine supplementation during refeeding."
+  ],
+  "key_facts": [
+    "Refeeding syndrome involves insulin-driven shifts of phosphate, potassium, and magnesium into cells, causing complications like arrhythmia and respiratory failure.",
+    "Risk factors include negligible intake for >7 days, significant weight loss, very low z-scores, or visible wasting in chronic disease.",
+    "Calorie initiation should start at 25% of estimated needs, increasing by 10% daily; in severe cases, start as low as 10 kcal/kg/day.",
+    "Electrolytes (phosphate, potassium, magnesium) should be monitored at least daily for the first 48\u201372 hours, or every 12 hours in high-risk cases.",
+    "Thiamine supplementation is recommended before and during refeeding in high-risk children."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Refeeding Syndrome",
+    "Electrolyte Imbalance",
+    "Chronic Disease",
+    "Cardiorespiratory Disorders",
+    "Pediatric Nutrition",
+    "Thiamine Deficiency",
+    "Enteral Nutrition",
+    "Parenteral Nutrition"
+  ],
+  "tags_custom": [
+    "refeeding protocols",
+    "pediatric malnutrition",
+    "electrolyte monitoring",
+    "calorie initiation",
+    "nutrition rehabilitation"
+  ],
+  "reference_quote": "Risk identification should be routine when planning rapid catch-up: recent negligible intake for more than about 7 days, significant weight loss, very low z-scores, or chronic disease with visible wasting should trigger protocol-level monitoring. (da Silva et al., 2020)",
+  "document_key_topics": [
+    "Refeeding syndrome risk in chronic cardiorespiratory disease",
+    "Calorie initiation protocols for malnourished children",
+    "Electrolyte monitoring and supplementation during refeeding",
+    "Thiamine supplementation in pediatric nutrition rehabilitation"
+  ],
+  "chunk_heading": "NUTRITION IN CHRONIC CARDIORESPIRATORY DISEASE;HIGH STAKES SAFETY PROTOCOLS IN NUTRITION REHABILITATION;REFEEDING SYNDROME RISK SCREEN CALORIE INITIATION AND ELECTROLYTE MONITORING;",
+  "topic": "NUTRITION IN CHRONIC CARDIORESPIRATORY DISEASE",
+  "subtopic": "HIGH STAKES SAFETY PROTOCOLS IN NUTRITION REHABILITATION",
+  "sub_subtopic": "REFEEDING SYNDROME RISK SCREEN CALORIE INITIATION AND ELECTROLYTE MONITORING",
+  "heading_path": "NUTRITION IN CHRONIC CARDIORESPIRATORY DISEASE;HIGH STAKES SAFETY PROTOCOLS IN NUTRITION REHABILITATION;REFEEDING SYNDROME RISK SCREEN CALORIE INITIATION AND ELECTROLYTE MONITORING;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u00871"
+}

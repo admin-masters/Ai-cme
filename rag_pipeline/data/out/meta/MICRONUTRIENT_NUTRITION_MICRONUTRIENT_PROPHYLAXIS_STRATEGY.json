@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "This section outlines micronutrient prophylaxis strategies for pediatric age groups, emphasizing alignment with Indian public health programs and specific guidelines for iron, folic acid, vitamin A, vitamin D, iodine, and zinc supplementation.",
+  "learning_objectives": [
+    "Understand the age-specific micronutrient prophylaxis strategies in pediatric populations.",
+    "Learn the guidelines for iron, folic acid, vitamin A, and vitamin D supplementation in children.",
+    "Identify the role of iodized salt and zinc in preventing micronutrient deficiencies.",
+    "Recognize the importance of documentation to prevent dosing errors and stacking."
+  ],
+  "key_facts": [
+    "Iron and folic acid supplementation should align with Anaemia Mukt Bharat schedules and delivery platforms.",
+    "Vitamin A prophylaxis is recommended for children aged 9 months to 5 years, with doses recorded at every visit.",
+    "Vitamin D supplementation of 400 IU/day is advised for infants, with risk-based escalation for specific conditions like low sun exposure or prematurity.",
+    "Iodized salt is the primary preventive intervention for iodine deficiency; urinary iodine concentration is not recommended for individual diagnosis.",
+    "Zinc is emphasized for therapeutic use in acute diarrhea and dietary diversification for prevention, avoiding long-term unmonitored use."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Micronutrients",
+    "Iron",
+    "Folic Acid",
+    "Vitamin A",
+    "Vitamin D",
+    "Iodine",
+    "Zinc",
+    "Pediatrics"
+  ],
+  "tags_custom": [
+    "Micronutrient prophylaxis",
+    "Pediatric nutrition",
+    "Public health guidelines",
+    "Anaemia Mukt Bharat",
+    "Supplementation strategies"
+  ],
+  "reference_quote": "Iron and folic acid: align to Anaemia Mukt Bharat schedules and delivery platforms (AWC/Anganwadi, school, outreach).",
+  "document_key_topics": [
+    "Micronutrient prophylaxis in pediatric age groups",
+    "Iron, folic acid, and vitamin supplementation guidelines",
+    "Iodine and zinc in deficiency prevention"
+  ],
+  "chunk_heading": "MICRONUTRIENT NUTRITION;MICRONUTRIENT PROPHYLAXIS STRATEGY ACROSS PEDIATRIC AGE BANDS;",
+  "topic": "MICRONUTRIENT NUTRITION",
+  "subtopic": "MICRONUTRIENT PROPHYLAXIS STRATEGY ACROSS PEDIATRIC AGE BANDS",
+  "sub_subtopic": null,
+  "heading_path": "MICRONUTRIENT NUTRITION;MICRONUTRIENT PROPHYLAXIS STRATEGY ACROSS PEDIATRIC AGE BANDS;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "1i"
+}

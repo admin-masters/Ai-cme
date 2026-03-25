@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Guidelines for managing growth faltering in children, including weight velocity targets, decision timelines, and escalation strategies for inadequate response to nutritional interventions.",
+  "learning_objectives": [
+    "Understand weight velocity targets for different age groups in growth faltering.",
+    "Learn decision timelines for reassessing and escalating interventions in growth faltering.",
+    "Identify red flags requiring earlier escalation in growth faltering management.",
+    "Incorporate evidence-based strategies, such as energy density adjustments and oral nutritional supplements, into care plans."
+  ],
+  "key_facts": [
+    "Catch-up growth is defined as weight gain 2\u20133 times the average rate for age.",
+    "Weight velocity targets: 0\u20133 months: 26\u201331 g/day; 3\u20136 months: 17\u201318 g/day; 6\u20139 months: 12\u201313 g/day; 9\u201312 months: 9 g/day; >12 months: 7\u20139 g/day.",
+    "Track weight gain over 1\u20132 weeks (g/day or g/kg/day in severe wasting) rather than relying on single measurements.",
+    "Two-week decision point: Reassess feeding mechanics, meal structure, and energy displacement if weight velocity is below target.",
+    "Four-week decision point: Consider oral nutritional supplements if weight response remains inadequate despite verified adherence.",
+    "Escalate earlier for red flags such as edema, weight-for-length/height <-3 SD, persistent vomiting/diarrhea, or systemic illness."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Child Nutrition Disorders",
+    "Growth Disorders",
+    "Nutritional Requirements",
+    "Weight Gain",
+    "Energy Intake",
+    "Dietary Supplements",
+    "Enteral Nutrition",
+    "Pediatric Assessment"
+  ],
+  "tags_custom": [
+    "growth faltering",
+    "weight velocity targets",
+    "nutritional intervention",
+    "pediatric nutrition"
+  ],
+  "reference_quote": "NICE recommends considering oral nutritional supplements when faltering growth continues despite other interventions and reviewing regularly to decide continuation.",
+  "document_key_topics": [
+    "Weight velocity targets for growth faltering",
+    "Decision timelines for nutritional interventions",
+    "Escalation strategies for inadequate growth response",
+    "Red flags in pediatric growth faltering"
+  ],
+  "chunk_heading": "MACRONUTRIENT NUTRITION ACROSS CHILDHOOD;WEIGHT VELOCITY TARGETS AND ESCALATION TIMELINES IN GROWTH FALTERING;",
+  "topic": "MACRONUTRIENT NUTRITION ACROSS CHILDHOOD",
+  "subtopic": "WEIGHT VELOCITY TARGETS AND ESCALATION TIMELINES IN GROWTH FALTERING",
+  "sub_subtopic": null,
+  "heading_path": "MACRONUTRIENT NUTRITION ACROSS CHILDHOOD;WEIGHT VELOCITY TARGETS AND ESCALATION TIMELINES IN GROWTH FALTERING;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1o"
+}

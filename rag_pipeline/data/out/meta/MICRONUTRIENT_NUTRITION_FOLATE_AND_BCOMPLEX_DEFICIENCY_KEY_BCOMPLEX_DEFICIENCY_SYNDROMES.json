@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "Key B-complex deficiencies in children, including thiamine, riboflavin, niacin, and pyridoxine, present with distinct syndromes in malnourished or at-risk children. Prompt diagnosis and treatment with specific supplementation and nutritional rehabilitation are critical.",
+  "learning_objectives": [
+    "Identify clinical syndromes associated with thiamine, riboflavin, niacin, and pyridoxine deficiencies in children.",
+    "Understand the treatment protocols for B-complex deficiencies, including specific dosages and routes of administration.",
+    "Recognize risk factors for B-complex deficiencies, such as severe acute malnutrition (SAM) and refeeding syndrome.",
+    "Develop a structured nutritional rehabilitation plan for children with B-complex deficiencies."
+  ],
+  "key_facts": [
+    "Thiamine (B1) deficiency can cause encephalopathy, ophthalmoplegia, and wet beriberi; treat with 100 mg IV/IM daily for 3\u20135 days, followed by 10\u201320 mg/day orally.",
+    "Riboflavin (B2) deficiency presents with angular stomatitis, cheilosis, and glossitis; treat with 5\u201310 mg/day orally.",
+    "Niacin (B3) deficiency (pellagra) causes dermatitis, diarrhea, and neuropsychiatric changes; treat with nicotinamide 100\u2013300 mg/day in divided doses.",
+    "Pyridoxine (B6) deficiency can lead to irritability, neuropathy, and seizures; urgent treatment is required during isoniazid therapy or in pyridoxine-dependent epilepsy.",
+    "B-complex deficiencies often coexist with iron, folate, and B12 deficiencies, necessitating comprehensive nutritional rehabilitation."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Thiamine Deficiency",
+    "Riboflavin Deficiency",
+    "Niacin Deficiency",
+    "Pyridoxine Deficiency",
+    "Severe Acute Malnutrition",
+    "Nutritional Rehabilitation",
+    "Micronutrient Deficiency",
+    "Child Nutrition Disorders"
+  ],
+  "tags_custom": [
+    "B-complex deficiencies",
+    "pediatric malnutrition",
+    "refeeding syndrome",
+    "nutritional supplementation"
+  ],
+  "reference_quote": "Thiamine deficiency and its prevention and control in major emergencies \u2014 https://www.who.int/publications/i/item/WHO-NHD-99.13",
+  "document_key_topics": [
+    "Thiamine deficiency and treatment",
+    "Riboflavin deficiency and symptoms",
+    "Niacin deficiency (pellagra) management",
+    "Pyridoxine deficiency and associated risks"
+  ],
+  "chunk_heading": "MICRONUTRIENT NUTRITION;FOLATE AND B-COMPLEX DEFICIENCY DECISION PATHWAYS;KEY B-COMPLEX DEFICIENCY SYNDROMES IN CHILDREN;",
+  "topic": "MICRONUTRIENT NUTRITION",
+  "subtopic": "FOLATE AND B-COMPLEX DEFICIENCY DECISION PATHWAYS",
+  "sub_subtopic": "KEY B-COMPLEX DEFICIENCY SYNDROMES IN CHILDREN",
+  "heading_path": "MICRONUTRIENT NUTRITION;FOLATE AND B-COMPLEX DEFICIENCY DECISION PATHWAYS;KEY B-COMPLEX DEFICIENCY SYNDROMES IN CHILDREN;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "1\u00935"
+}

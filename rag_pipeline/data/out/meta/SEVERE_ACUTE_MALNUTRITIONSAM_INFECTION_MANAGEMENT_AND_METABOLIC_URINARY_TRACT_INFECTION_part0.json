@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Management of urinary tract infections (UTIs) in children with severe acute malnutrition (SAM) emphasizes a culture-first approach, proper specimen collection, tailored antibiotic use, and reassessment within 48\u201372 hours if no improvement is seen.",
+  "learning_objectives": [
+    "Understand the importance of a culture-first approach in managing UTIs in SAM.",
+    "Learn proper urine specimen collection techniques for different age groups.",
+    "Identify appropriate empiric antibiotic regimens based on illness severity and local antibiograms.",
+    "Recognize the need for reassessment and follow-up in cases of treatment failure or recurrent UTI risk."
+  ],
+  "key_facts": [
+    "In SAM, UTI should be suspected in cases of fever without focus, persistent hypothermia, vomiting, or poor weight gain.",
+    "Urine culture should be obtained before starting antibiotics whenever feasible.",
+    "Specimen collection methods: suprapubic aspiration or catheterization for non-toilet-trained children, midstream clean-catch for toilet-trained children.",
+    "Empiric antibiotics: oral cephalosporin (e.g., cefixime) or amoxicillin/clavulanate for stable children; parenteral cefotaxime or ceftriaxone for toxic or vomiting children.",
+    "Treatment duration: 7\u201310 days in SAM unless culture results suggest otherwise.",
+    "Reassess within 48\u201372 hours if no improvement and investigate for urinary obstruction, renal anomaly, or alternative diagnoses."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Severe Acute Malnutrition",
+    "Urinary Tract Infections",
+    "Antibiotic Therapy",
+    "Pediatric Infectious Diseases",
+    "Urinalysis",
+    "Empiric Therapy",
+    "Renal Safety",
+    "Specimen Collection"
+  ],
+  "tags_custom": [
+    "SAM management",
+    "UTI culture-first",
+    "Pediatric antibiotics",
+    "Reassessment protocols"
+  ],
+  "reference_quote": "Obtain urine for urinalysis and culture before antibiotics whenever feasible. Use a properly collected specimen: suprapubic aspiration or catheterization in non-toilet-trained children, and midstream clean-catch in toilet-trained children.",
+  "document_key_topics": [
+    "Culture-first approach in UTI management for SAM",
+    "Proper urine specimen collection techniques",
+    "Empiric and tailored antibiotic regimens",
+    "Reassessment and follow-up in UTI treatment"
+  ],
+  "chunk_heading": "SEVERE ACUTE MALNUTRITION-(SAM) MANAGEMENT;INFECTION MANAGEMENT AND  METABOLIC CORRECTIONS;URINARY TRACT INFECTION CULTURE-FIRST MANAGEMENT IN SAM;",
+  "topic": "SEVERE ACUTE MALNUTRITION-(SAM) MANAGEMENT",
+  "subtopic": "INFECTION MANAGEMENT AND  METABOLIC CORRECTIONS",
+  "sub_subtopic": "URINARY TRACT INFECTION CULTURE-FIRST MANAGEMENT IN SAM",
+  "heading_path": "SEVERE ACUTE MALNUTRITION-(SAM) MANAGEMENT;INFECTION MANAGEMENT AND  METABOLIC CORRECTIONS;URINARY TRACT INFECTION CULTURE-FIRST MANAGEMENT IN SAM;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "3w6.1"
+}

@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "This section outlines standardized methods for measuring orthostatic vital signs in adolescents, including thresholds for medical instability and clinical action steps, particularly in contexts like eating disorders, anemia, and dehydration.",
+  "learning_objectives": [
+    "Understand the standardized method for measuring orthostatic vital signs in adolescents.",
+    "Identify concerning orthostatic changes and their thresholds for medical instability.",
+    "Recognize factors that influence orthostatic measurements and interpret results in clinical context.",
+    "Apply clinical action rules for adolescents with orthostatic changes and associated risk markers."
+  ],
+  "key_facts": [
+    "Orthostatic vitals should be measured after 5 minutes supine rest and 3 minutes standing, documenting HR and BP at both time points.",
+    "Concerning orthostatic changes: pulse increase >20/min, systolic BP drop >20 mmHg, or diastolic BP drop >10 mmHg.",
+    "Avoid using >40/min pulse increase as a competing threshold; it should only indicate higher concern within the same framework.",
+    "Factors like anxiety, dehydration, beta-blockers, and malnutrition can affect orthostatic measurements.",
+    "Clinical action: If thresholds are met with risk markers (e.g., weight loss, anemia), arrange same-day higher-level review and obtain safety labs (electrolytes, glucose, ECG).",
+    "Repeat orthostatic measurements under standardized conditions during follow-up."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Adolescent Nutrition",
+    "Orthostatic Hypotension",
+    "Vital Signs",
+    "Eating Disorders",
+    "Anemia",
+    "Dehydration",
+    "Electrolyte Imbalance",
+    "Bradycardia"
+  ],
+  "tags_custom": [
+    "orthostatic vitals",
+    "clinical thresholds",
+    "adolescent health",
+    "medical instability",
+    "risk markers"
+  ],
+  "reference_quote": "Orthostatic vitals are used across this document (eating disorders, heavy menstrual bleeding with anemia, heat illness), so they must be measured and interpreted using one consistent method.",
+  "document_key_topics": [
+    "Standardized orthostatic vital sign measurement",
+    "Thresholds for medical instability in adolescents",
+    "Clinical action rules for orthostatic changes",
+    "Contextual factors affecting orthostatic measurements"
+  ],
+  "chunk_heading": "ADOLESCENT NUTRITION;STANDARDIZED ORTHOSTATIC VITAL SIGN MEASUREMENT AND THRESHOLDS;",
+  "topic": "ADOLESCENT NUTRITION",
+  "subtopic": "STANDARDIZED ORTHOSTATIC VITAL SIGN MEASUREMENT AND THRESHOLDS",
+  "sub_subtopic": null,
+  "heading_path": "ADOLESCENT NUTRITION;STANDARDIZED ORTHOSTATIC VITAL SIGN MEASUREMENT AND THRESHOLDS;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "1e"
+}

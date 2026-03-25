@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "Micronutrient planning for selective eating disorders focuses on addressing multi-micronutrient deficiencies in children with neurodisability or ASD, using targeted dietary interventions, testing, and supplementation strategies.",
+  "learning_objectives": [
+    "Understand the common micronutrient deficiencies in children with selective eating disorders.",
+    "Learn how to assess dietary patterns and identify missing food groups in high-risk populations.",
+    "Develop targeted testing and supplementation strategies for selective eaters.",
+    "Recognize when to refer for feeding therapy or further clinical evaluation."
+  ],
+  "key_facts": [
+    "Iron deficiency is common due to limited meat/legume intake; calcium and vitamin D deficiency often result from dairy avoidance and low sun exposure.",
+    "Vitamin B12 deficiency is associated with vegetarian or low animal-source diets; zinc deficiency occurs occasionally.",
+    "Baseline labs may include CBC, ferritin paired with CRP, and thyroid screening if symptoms suggest; vitamin D testing is reserved for high-risk cases.",
+    "Supplementation should use single-nutrient or clearly dosed combined products with a defined stop/review date (8\u201312 weeks).",
+    "Avoid indefinite high-dose multivitamins due to toxicity risks and drug\u2013nutrient interactions.",
+    "Nonresponse to interventions may indicate malabsorption, chronic inflammation, or behavioral barriers requiring feeding therapy."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Micronutrients",
+    "Selective Eating",
+    "Autism Spectrum Disorder",
+    "Iron Deficiency",
+    "Vitamin D Deficiency",
+    "Dietary Supplements",
+    "Pediatric Nutrition",
+    "Feeding Behavior"
+  ],
+  "tags_custom": [
+    "selective eating disorders",
+    "pediatric micronutrient planning",
+    "dietary interventions",
+    "nutritional deficiencies",
+    "feeding therapy"
+  ],
+  "reference_quote": "Children with neurodisability or ASD-associated selective eating often present with behavioral concerns plus growth faltering rather than 'classic' deficiency signs. (Royal Children\u2019s Hospital Melbourne)",
+  "document_key_topics": [
+    "Micronutrient deficiencies in selective eating disorders",
+    "Targeted dietary interventions and testing",
+    "Supplementation strategies and toxicity risks",
+    "Referral for feeding therapy in nonresponsive cases"
+  ],
+  "chunk_heading": "MICRONUTRIENT NUTRITION;MICRONUTRIENT MONITORING IN HIGH-RISK CLINICAL CONDITIONS;MICRONUTRIENT PLANNING IN SELECTIVE EATING DISORDERS;",
+  "topic": "MICRONUTRIENT NUTRITION",
+  "subtopic": "MICRONUTRIENT MONITORING IN HIGH-RISK CLINICAL CONDITIONS",
+  "sub_subtopic": "MICRONUTRIENT PLANNING IN SELECTIVE EATING DISORDERS",
+  "heading_path": "MICRONUTRIENT NUTRITION;MICRONUTRIENT MONITORING IN HIGH-RISK CLINICAL CONDITIONS;MICRONUTRIENT PLANNING IN SELECTIVE EATING DISORDERS;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "1\u00973"
+}

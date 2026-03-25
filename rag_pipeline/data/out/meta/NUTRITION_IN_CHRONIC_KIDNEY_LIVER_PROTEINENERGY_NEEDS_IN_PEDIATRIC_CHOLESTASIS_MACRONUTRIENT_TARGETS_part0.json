@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Pediatric cholestasis requires tailored macronutrient targets, including higher energy, protein, and fat needs, with a balanced MCT/LCT approach and avoidance of prolonged fasting to prevent hypoglycemia and malnutrition.",
+  "learning_objectives": [
+    "Understand macronutrient requirements for pediatric cholestasis, including energy, protein, and fat targets.",
+    "Learn the importance of balancing MCT and LCT fat intake to prevent EFAD and optimize growth.",
+    "Recognize strategies to prevent hypoglycemia in infants with cholestasis, including frequent feeds and overnight feeding."
+  ],
+  "key_facts": [
+    "Energy needs are approximately 130% of age requirements, with REE measurement preferred when available.",
+    "Fat should provide 30\u201350% of total calories, with a starting MCT/LCT ratio of 30%/70%.",
+    "Avoid MCT fractions >80% of fat energy to prevent EFAD and impaired weight gain.",
+    "Protein targets are 130\u2013150% of age requirements; low-protein diets are contraindicated in end-stage liver disease.",
+    "Carbohydrates should provide 40\u201360% of calories, balancing hypoglycemia risk and insulin resistance.",
+    "Infants under 6 months require frequent feeds and bedtime snacks to avoid prolonged fasting and hypoglycemia."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Cholestasis",
+    "Pediatric Nutrition",
+    "Macronutrients",
+    "Medium-Chain Triglycerides",
+    "Long-Chain Triglycerides",
+    "Hypoglycemia",
+    "Essential Fatty Acids",
+    "Hepatic Encephalopathy"
+  ],
+  "tags_custom": [
+    "pediatric liver disease",
+    "cholestasis nutrition",
+    "fasting avoidance",
+    "MCT/LCT balance",
+    "protein-energy malnutrition"
+  ],
+  "reference_quote": "Fat commonly provides 30\u201350% of total calories. Start with a mixed MCT/LCT approach (about 30%/70% of fat calories), increasing MCT when growth is suboptimal or LCT is poorly tolerated.",
+  "document_key_topics": [
+    "Macronutrient targets in pediatric cholestasis",
+    "Energy and protein requirements in chronic liver disease",
+    "MCT/LCT balance and EFAD prevention",
+    "Fasting avoidance strategies for hypoglycemia prevention"
+  ],
+  "chunk_heading": "NUTRITION IN CHRONIC KIDNEY & LIVER DISEASE;PROTEIN-ENERGY NEEDS IN PEDIATRIC CHRONIC LIVER DISEASE;CHOLESTASIS MACRONUTRIENT TARGETS MCT LCT BALANCE AND FASTING AVOIDANCE;",
+  "topic": "NUTRITION IN CHRONIC KIDNEY & LIVER DISEASE",
+  "subtopic": "PROTEIN-ENERGY NEEDS IN PEDIATRIC CHRONIC LIVER DISEASE",
+  "sub_subtopic": "CHOLESTASIS MACRONUTRIENT TARGETS MCT LCT BALANCE AND FASTING AVOIDANCE",
+  "heading_path": "NUTRITION IN CHRONIC KIDNEY & LIVER DISEASE;PROTEIN-ENERGY NEEDS IN PEDIATRIC CHRONIC LIVER DISEASE;CHOLESTASIS MACRONUTRIENT TARGETS MCT LCT BALANCE AND FASTING AVOIDANCE;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "3}2.1"
+}

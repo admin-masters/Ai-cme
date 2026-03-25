@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "Immunization is critical in pediatric CKD and CLD to prevent infections that exacerbate malnutrition, delay transplants, and destabilize health. Prioritize hepatitis, influenza, and pneumococcal vaccines, and adapt schedules for immunosuppression and reduced vaccine efficacy.",
+  "learning_objectives": [
+    "Understand the role of immunization in managing pediatric CKD and CLD to prevent complications.",
+    "Identify priority vaccines and their timing in CKD, CLD, and transplant pathways.",
+    "Recognize the impact of immunosuppression on vaccine schedules and immunogenicity.",
+    "Incorporate immunization checks into clinical workflows for high-risk pediatric patients."
+  ],
+  "key_facts": [
+    "Infections in CKD/CLD can cause anorexia, increased catabolism, and delayed transplant readiness.",
+    "Prioritize influenza (annually), pneumococcal, and hepatitis A/B vaccines in CKD/CLD patients.",
+    "Hepatitis B response should be confirmed with serology in dialysis/pre-transplant patients, with revaccination for non-responders.",
+    "Live vaccines should be completed before planned immunosuppression; avoid post-transplant unless under specialist protocols.",
+    "Inactivated vaccines are delayed post-transplant until clinical stability and reduced immunosuppression.",
+    "Operationalize immunization checks in India by embedding them into nutrition follow-ups and discharge notes.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Chronic Kidney Disease",
+    "Chronic Liver Disease",
+    "Immunization Schedule",
+    "Vaccination",
+    "Hepatitis B",
+    "Pneumococcal Infections",
+    "Influenza Vaccines",
+    "Immunosuppression"
+  ],
+  "tags_custom": [
+    "pediatric immunization",
+    "transplant preparation",
+    "nutrition and infection",
+    "vaccine timing"
+  ],
+  "reference_quote": "\"The default should be to complete all routine immunizations on schedule unless a specific contraindication exists, using every clinic or ward contact to prevent missed opportunities.\"",
+  "document_key_topics": [
+    "Immunization in pediatric CKD and CLD",
+    "Vaccine prioritization for high-risk children",
+    "Impact of immunosuppression on vaccine schedules",
+    "Operationalizing immunization in clinical workflows"
+  ],
+  "chunk_heading": "NUTRITION IN CHRONIC KIDNEY & LIVER DISEASE;HIGH-RISK SCENARIOS AND LONG-TERM OUTPATIENT COUNSELING IN PEDIATRIC CKD AND CLD;IMMUNIZATION PRIORITIES AND TIMING IN CKD CLD AND TRANSPLANT PATHWAYS;",
+  "topic": "NUTRITION IN CHRONIC KIDNEY & LIVER DISEASE",
+  "subtopic": "HIGH-RISK SCENARIOS AND LONG-TERM OUTPATIENT COUNSELING IN PEDIATRIC CKD AND CLD",
+  "sub_subtopic": "IMMUNIZATION PRIORITIES AND TIMING IN CKD CLD AND TRANSPLANT PATHWAYS",
+  "heading_path": "NUTRITION IN CHRONIC KIDNEY & LIVER DISEASE;HIGH-RISK SCENARIOS AND LONG-TERM OUTPATIENT COUNSELING IN PEDIATRIC CKD AND CLD;IMMUNIZATION PRIORITIES AND TIMING IN CKD CLD AND TRANSPLANT PATHWAYS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "5\u00861"
+}

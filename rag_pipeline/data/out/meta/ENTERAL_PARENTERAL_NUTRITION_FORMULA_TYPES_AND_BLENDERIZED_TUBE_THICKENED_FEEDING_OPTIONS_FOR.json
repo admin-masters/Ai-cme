@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "Thickened feeds are a targeted strategy for managing infant gastroesophageal reflux (GER), with specific safety and operational considerations, especially in preterm infants.",
+  "learning_objectives": [
+    "Understand the role of thickened feeds in managing infant gastroesophageal reflux (GER).",
+    "Identify safe thickening agents and their appropriate use in formula and breast milk.",
+    "Recognize safety concerns and contraindications for thickened feeds in preterm infants.",
+    "Learn operational adjustments required for thickened feeding delivery."
+  ],
+  "key_facts": [
+    "Thickened feeds are recommended for visible regurgitation in uncomplicated GER but require monitoring of intake and growth.",
+    "Rice cereal is a common thickener for formula but should be low in arsenic, and caloric density must be calculated.",
+    "Breast milk requires commercial thickeners due to amylase activity preventing cereal thickening.",
+    "Xanthan gum\u2013based thickeners (e.g., SimplyThick) are contraindicated in preterm infants due to necrotizing enterocolitis risk.",
+    "Thickened feeds increase tube blockage risk, requiring larger-bore tubes, slower bolus delivery, and rigorous flushing.",
+    "If thickening worsens symptoms like constipation or feeding refusal, alternative strategies (e.g., slower feeds, positioning) should be considered.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Gastroesophageal Reflux",
+    "Infant Nutrition",
+    "Enteral Nutrition",
+    "Thickening Agents",
+    "Breast Milk",
+    "Necrotizing Enterocolitis",
+    "Feeding Methods",
+    "Pediatric Gastroenterology"
+  ],
+  "tags_custom": [
+    "thickened feeds",
+    "infant GERD management",
+    "feeding safety",
+    "preterm nutrition",
+    "tube feeding adjustments"
+  ],
+  "reference_quote": "Regulatory warnings have discouraged use of certain xanthan gum\u2013based thickening agents (for example SimplyThick) in infants born prematurely due to reported necrotizing enterocolitis risk.",
+  "document_key_topics": [
+    "Thickened feeding options for infant GER",
+    "Safety considerations for preterm infants",
+    "Operational challenges of thickened feeds"
+  ],
+  "chunk_heading": "ENTERAL & PARENTERAL NUTRITION;FORMULA TYPES AND BLENDERIZED TUBE FEED SAFETY;THICKENED FEEDING OPTIONS FOR INFANT GASTROESOPHAGEAL REFLUX;",
+  "topic": "ENTERAL & PARENTERAL NUTRITION",
+  "subtopic": "FORMULA TYPES AND BLENDERIZED TUBE FEED SAFETY",
+  "sub_subtopic": "THICKENED FEEDING OPTIONS FOR INFANT GASTROESOPHAGEAL REFLUX",
+  "heading_path": "ENTERAL & PARENTERAL NUTRITION;FORMULA TYPES AND BLENDERIZED TUBE FEED SAFETY;THICKENED FEEDING OPTIONS FOR INFANT GASTROESOPHAGEAL REFLUX;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2w3"
+}

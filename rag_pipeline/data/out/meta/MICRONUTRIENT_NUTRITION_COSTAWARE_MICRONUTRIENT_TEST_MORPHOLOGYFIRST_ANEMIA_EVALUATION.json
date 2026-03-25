@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "A cost-effective anemia evaluation begins with morphology-based classification (microcytic, normocytic, macrocytic) and employs stop rules to avoid unnecessary tests, focusing on ferritin and inflammation markers for iron status and prioritizing specific tests based on clinical context.",
+  "learning_objectives": [
+    "Understand the role of morphology in classifying anemia types and guiding further testing.",
+    "Learn to interpret serum ferritin levels in the context of inflammation using CRP or AGP markers.",
+    "Identify when to prioritize hemoglobinopathy evaluation or other alternate etiologies in anemia workup.",
+    "Apply stop rules to avoid unnecessary testing and ensure adherence to therapeutic trials."
+  ],
+  "key_facts": [
+    "Start anemia evaluation with CBC, MCV, RDW, and reticulocyte count to classify anemia as microcytic, normocytic, or macrocytic.",
+    "Serum ferritin is the primary marker for iron status but must be interpreted with inflammation markers like CRP or AGP during infection.",
+    "Avoid first-line use of iron profile panels (serum iron, TIBC, transferrin saturation) due to their unreliability during illness.",
+    "Microcytosis suggests iron deficiency or hemoglobinopathy; macrocytosis suggests folate/B12 deficiency or marrow disorders.",
+    "Stop rule: Verify elemental iron dose, adherence, and schedule a response evaluation before expanding testing."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Anemia",
+    "Iron Deficiency",
+    "Ferritin",
+    "C-Reactive Protein",
+    "Hemoglobinopathies",
+    "Folic Acid Deficiency",
+    "Vitamin B12 Deficiency",
+    "Inflammation"
+  ],
+  "tags_custom": [
+    "cost-effective testing",
+    "morphology-based anemia evaluation",
+    "stop rules in diagnostics",
+    "pediatric anemia workup"
+  ],
+  "reference_quote": "Serum ferritin is the central storage marker for iron status but must be paired with inflammation markers like CRP or AGP during infection. (Source: WHO ELENA, Reference 2)",
+  "document_key_topics": [
+    "Morphology-based anemia classification",
+    "Cost-aware diagnostic strategies",
+    "Iron deficiency and inflammation markers",
+    "Stop rules in anemia testing"
+  ],
+  "chunk_heading": "MICRONUTRIENT NUTRITION;COST-AWARE MICRONUTRIENT TEST SELECTION IN CLINIC;MORPHOLOGY-FIRST ANEMIA EVALUATION AND STOP RULES;",
+  "topic": "MICRONUTRIENT NUTRITION",
+  "subtopic": "COST-AWARE MICRONUTRIENT TEST SELECTION IN CLINIC",
+  "sub_subtopic": "MORPHOLOGY-FIRST ANEMIA EVALUATION AND STOP RULES",
+  "heading_path": "MICRONUTRIENT NUTRITION;COST-AWARE MICRONUTRIENT TEST SELECTION IN CLINIC;MORPHOLOGY-FIRST ANEMIA EVALUATION AND STOP RULES;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1k1"
+}

@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "This section outlines a one-page intake and follow-up template for assessing metabolic risk in children, emphasizing standardized fields, cutpoints, and follow-up metrics to ensure comprehensive care and timely referrals.",
+  "learning_objectives": [
+    "Understand the key fields required in a one-page intake and follow-up template for pediatric metabolic risk assessment.",
+    "Learn the clinical cutpoints for obesity, lipids, prediabetes, and MASLD in children.",
+    "Identify the importance of tracking outcomes beyond weight, including waist trends, BMI slope, and activity goals.",
+    "Recognize the role of tiered lab plans and referral triggers in managing pediatric metabolic risk."
+  ],
+  "key_facts": [
+    "Obesity cutoffs for Indian children: overweight \u226523, obesity \u226527, class 2 and 3 as 120\u2013140% and \u2265140% of the 27 cutoff.",
+    "Lipid thresholds: high LDL-C \u2265130 mg/dL, high non-HDL-C \u2265145 mg/dL, high TG \u2265100 mg/dL (ages 0\u20139) or \u2265130 mg/dL (ages 10\u201319).",
+    "Prediabetes and diabetes thresholds: fasting glucose 100\u2013125 mg/dL and \u2265126 mg/dL; HbA1c 5.7\u20136.4% and \u22656.5%.",
+    "MASLD significance threshold: ALT >2\u00d7 sex-specific upper limit.",
+    "Follow-up templates should track waist trend, BMI slope, sleep schedule, sugary beverage reduction, and daily activity goals.",
+    "Referral triggers include abnormal ALT, fasting lipids, or other risk-specific lab results."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Pediatric Obesity",
+    "Metabolic Syndrome",
+    "Body Mass Index",
+    "Lipid Metabolism",
+    "Nonalcoholic Fatty Liver Disease",
+    "Hypertension",
+    "Diabetes Mellitus",
+    "Risk Assessment"
+  ],
+  "tags_custom": [
+    "pediatric metabolic risk",
+    "clinical templates",
+    "cutpoint guidelines",
+    "follow-up care",
+    "referral triggers"
+  ],
+  "reference_quote": "Standardized templates reduce missed comorbidities and make follow-up intervals reproducible across clinicians. (IAP guidelines on childhood obesity, 2023)",
+  "document_key_topics": [
+    "Pediatric metabolic risk assessment",
+    "Standardized intake and follow-up templates",
+    "Clinical cutpoints for obesity, lipids, and diabetes",
+    "Referral and follow-up strategies"
+  ],
+  "chunk_heading": "METABOLIC RISK IN CHILDREN;CLINIC TEMPLATES AND EXAM CUTPOINT  RECAP;ONE- PAGE INTAKE AND FOLLOW-UP TEMPLATE FIELDS;",
+  "topic": "METABOLIC RISK IN CHILDREN",
+  "subtopic": "CLINIC TEMPLATES AND EXAM CUTPOINT  RECAP",
+  "sub_subtopic": "ONE- PAGE INTAKE AND FOLLOW-UP TEMPLATE FIELDS",
+  "heading_path": "METABOLIC RISK IN CHILDREN;CLINIC TEMPLATES AND EXAM CUTPOINT  RECAP;ONE- PAGE INTAKE AND FOLLOW-UP TEMPLATE FIELDS;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "1\u00a32"
+}

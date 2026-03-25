@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Outpatient CMAM in India faces challenges with therapeutic food availability, requiring structured adaptations during stock-outs and standardized visit workflows for effective SAM management.",
+  "learning_objectives": [
+    "Understand the role of therapeutic food in outpatient SAM management in India.",
+    "Learn structured adaptation protocols for therapeutic food stock-outs based on WHO guidelines.",
+    "Identify key components of a standardized outpatient CMAM visit workflow.",
+    "Recognize the importance of triage, follow-up, and household risk assessment in SAM care."
+  ],
+  "key_facts": [
+    "India lacks a universally adopted therapeutic food for SAM; states use RUTF, locally produced equivalents, or state-designed supplements.",
+    "Inpatient care often relies on locally prepared F-75 and F-100 recipes as per MoHFW guidelines.",
+    "WHO 2023 framework allows dose reduction only after a child transitions out of SAM criteria and has no nutritional oedema.",
+    "Outpatient CMAM visits should include danger sign screening, appetite verification, weight measurement, and MUAC/WHZ tracking.",
+    "Stock-out adaptations must be predefined to ensure protocol reliability and avoid improvisation."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Malnutrition",
+    "Community Health Services",
+    "Therapeutic Food",
+    "Child Nutrition Disorders",
+    "Outpatient Care",
+    "India",
+    "Nutrition Therapy",
+    "Guideline Adherence"
+  ],
+  "tags_custom": [
+    "SAM management",
+    "CMAM workflow",
+    "therapeutic food stock-outs",
+    "nutrition protocols",
+    "India-specific adaptations"
+  ],
+  "reference_quote": "The 2023 WHO framework describes structured dose-reduction only after a child transitions out of SAM criteria and has no nutritional oedema, and only when complementary foods and follow-up are reliable.",
+  "document_key_topics": [
+    "Therapeutic food availability in India",
+    "Structured adaptations for stock-outs",
+    "Standardized outpatient CMAM visit workflow",
+    "WHO guidelines for SAM management"
+  ],
+  "chunk_heading": "SEVERE ACUTE MALNUTRITION (SAM) MANAGEMENT;OUTPATIENT CMAM IMPLEMENTATION IN INDIA;THERAPEUTIC FOOD AVAILABILITY STOCK-OUT ADAPTATIONS AND VISIT WORKFLOW;",
+  "topic": "SEVERE ACUTE MALNUTRITION (SAM) MANAGEMENT",
+  "subtopic": "OUTPATIENT CMAM IMPLEMENTATION IN INDIA",
+  "sub_subtopic": "THERAPEUTIC FOOD AVAILABILITY STOCK-OUT ADAPTATIONS AND VISIT WORKFLOW",
+  "heading_path": "SEVERE ACUTE MALNUTRITION (SAM) MANAGEMENT;OUTPATIENT CMAM IMPLEMENTATION IN INDIA;THERAPEUTIC FOOD AVAILABILITY STOCK-OUT ADAPTATIONS AND VISIT WORKFLOW;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1z1"
+}

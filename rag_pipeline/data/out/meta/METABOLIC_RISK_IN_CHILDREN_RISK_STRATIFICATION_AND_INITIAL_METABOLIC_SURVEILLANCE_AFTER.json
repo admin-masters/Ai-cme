@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Metabolic surveillance after severe acute malnutrition and low birth weight focuses on preventing dysglycemia and MASLD through healthy catch-up growth, age-specific monitoring, and dietary strategies to avoid central adiposity and ensure normal development.",
+  "learning_objectives": [
+    "Understand the metabolic risks associated with severe acute malnutrition and low birth weight in children.",
+    "Learn age-specific surveillance strategies for monitoring growth and metabolic health.",
+    "Identify dietary approaches to promote healthy catch-up growth and prevent central adiposity.",
+    "Recognize signs of metabolic dysfunction, such as acanthosis, dysglycemia, and rapid waist gain."
+  ],
+  "key_facts": [
+    "Early undernutrition and low birth weight (LBW) are linked to later insulin resistance and metabolic risks, especially in South Asian children.",
+    "Rapid catch-up growth can lead to central adiposity, dysglycemia, and MASLD (Metabolic Associated Steatotic Liver Disease).",
+    "Under 5 years: Focus on growth recovery and infection prevention; avoid restrictive diets.",
+    "At 5\u20139 years: Monitor waist circumference and blood pressure; reserve blood tests for children with obesity, acanthosis, or family history.",
+    "At \u226510 years: Use metabolic testing (lipids, fasting glucose, HbA1c, ALT) for children with catch-up adiposity or metabolic signs.",
+    "Dietary strategies should prioritize protein-rich meals (e.g., pulses, eggs, dairy, soy) and avoid sugar-driven calorie loading."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Malnutrition",
+    "Low Birth Weight",
+    "Insulin Resistance",
+    "Adiposity",
+    "Child Nutrition",
+    "Metabolic Syndrome",
+    "Dietary Proteins",
+    "Growth Disorders"
+  ],
+  "tags_custom": [
+    "thin-fat phenotype",
+    "catch-up growth",
+    "metabolic surveillance",
+    "childhood obesity",
+    "South Asian children"
+  ],
+  "reference_quote": "Counsel families that the goal is healthy catch-up with protein and micronutrient protection, not sugar-driven calorie loading. \u2014 National Health Mission, India",
+  "document_key_topics": [
+    "Metabolic risks after severe acute malnutrition and LBW",
+    "Age-specific surveillance for metabolic health",
+    "Dietary strategies for healthy catch-up growth"
+  ],
+  "chunk_heading": "METABOLIC RISK IN CHILDREN;RISK STRATIFICATION AND INITIAL SCREENING DECISIONS;METABOLIC SURVEILLANCE AFTER SEVERE ACUTE MALNUTRITION AND LOW BIRTH WEIGHT;",
+  "topic": "METABOLIC RISK IN CHILDREN",
+  "subtopic": "RISK STRATIFICATION AND INITIAL SCREENING DECISIONS",
+  "sub_subtopic": "METABOLIC SURVEILLANCE AFTER SEVERE ACUTE MALNUTRITION AND LOW BIRTH WEIGHT",
+  "heading_path": "METABOLIC RISK IN CHILDREN;RISK STRATIFICATION AND INITIAL SCREENING DECISIONS;METABOLIC SURVEILLANCE AFTER SEVERE ACUTE MALNUTRITION AND LOW BIRTH WEIGHT;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1j2"
+}

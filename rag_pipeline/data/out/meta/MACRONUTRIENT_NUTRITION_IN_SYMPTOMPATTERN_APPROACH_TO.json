@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section discusses a symptom-pattern approach to diagnosing carbohydrate intolerance and functional disorders in children, emphasizing diagnosis-driven, time-limited dietary trials to prevent undernutrition and the importance of red flag screening for organic diseases.",
+  "learning_objectives": [
+    "Understand the role of symptom patterns in diagnosing carbohydrate intolerance in children.",
+    "Identify red flags that necessitate further evaluation for organic diseases like celiac disease or IBD.",
+    "Learn the appropriate use of dietary trials, including lactose reduction and low-FODMAP diets, in pediatric care.",
+    "Recognize the importance of structured reintroduction and nutritional support during dietary restrictions."
+  ],
+  "key_facts": [
+    "Diarrhea that resolves with fasting suggests osmotic malabsorption, while persistent nocturnal diarrhea, blood in stool, or growth failure are red flags for organic disease.",
+    "Short lactose reduction trials are recommended after gastroenteritis, with planned reintroduction to confirm causality.",
+    "Hydrogen breath testing can aid diagnosis but symptom response and re-challenge are often more practical in primary care.",
+    "Low-FODMAP diets have limited pediatric evidence and should only be used under dietitian supervision with a defined stop/reintroduction plan.",
+    "Prolonged or multiple food group restrictions require early referral to dietetic and gastroenterology support to prevent growth issues.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Carbohydrate Intolerance",
+    "Lactose Intolerance",
+    "Irritable Bowel Syndrome",
+    "Dietary Therapy",
+    "Pediatrics",
+    "Malabsorption Syndromes",
+    "Celiac Disease",
+    "Nutritional Support"
+  ],
+  "tags_custom": [
+    "dietary trials",
+    "pediatric nutrition",
+    "functional GI disorders",
+    "red flag symptoms"
+  ],
+  "reference_quote": "ESPGHAN notes limited pediatric evidence and potential nutritional harm; consider [low-FODMAP diets] only for selected children with clear IBS under dietitian supervision and with a defined stop/reintroduction plan.",
+  "document_key_topics": [
+    "Symptom-pattern approach to carbohydrate intolerance",
+    "Red flag screening for organic diseases",
+    "Dietary trials and reintroduction strategies",
+    "Nutritional support during dietary restrictions"
+  ],
+  "chunk_heading": "MACRONUTRIENT NUTRITION IN CHILDHOOD;SYMPTOM-PATTERN  APPROACH TO CARBOHYDRATE INTOLERANCE AND FUNCTIONAL DISORDERS;",
+  "topic": "MACRONUTRIENT NUTRITION IN CHILDHOOD",
+  "subtopic": "SYMPTOM-PATTERN  APPROACH TO CARBOHYDRATE INTOLERANCE AND FUNCTIONAL DISORDERS",
+  "sub_subtopic": null,
+  "heading_path": "MACRONUTRIENT NUTRITION IN CHILDHOOD;SYMPTOM-PATTERN  APPROACH TO CARBOHYDRATE INTOLERANCE AND FUNCTIONAL DISORDERS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "4w"
+}

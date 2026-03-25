@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Guidance on celiac disease testing emphasizes avoiding premature gluten restriction, using appropriate serology and biopsy protocols, and considering structured gluten challenges when needed.",
+  "learning_objectives": [
+    "Understand the importance of maintaining gluten consumption before celiac disease testing.",
+    "Learn the recommended serological tests and biopsy criteria for accurate diagnosis.",
+    "Recognize scenarios requiring specialist referral for structured gluten challenges.",
+    "Interpret test results in the context of clinical features and comorbidities."
+  ],
+  "key_facts": [
+    "Testing for celiac disease requires regular gluten consumption; stopping gluten prematurely can lead to false negatives.",
+    "Preferred initial tests include tTG-IgA and total serum IgA; switch to tTG-IgG if IgA deficiency is detected.",
+    "No-biopsy diagnosis is valid if tTG-IgA is \u226510 times the upper limit of normal and EMA-IgA is positive on a second sample.",
+    "Duodenal biopsy is recommended for tTG titers below the threshold to reduce false positives.",
+    "In India, self-initiated gluten reduction is common; structured gluten challenges should be supervised by specialists."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Celiac Disease",
+    "Gluten",
+    "Serology",
+    "Biopsy",
+    "IgA Deficiency",
+    "Autoimmune Diseases",
+    "Nutritional Counseling",
+    "Diagnosis"
+  ],
+  "tags_custom": [
+    "gluten testing protocol",
+    "structured gluten challenge",
+    "pediatric celiac diagnosis",
+    "nutritional rehabilitation",
+    "false negatives prevention"
+  ],
+  "reference_quote": "Testing works only if wheat-based foods are still in the diet; stopping now may delay diagnosis. (Source: ESPGHAN Guidelines, 2020)",
+  "document_key_topics": [
+    "Celiac disease testing protocols",
+    "Avoiding premature gluten restriction",
+    "Structured gluten challenges",
+    "Serology and biopsy criteria"
+  ],
+  "chunk_heading": "NUTRITION COUNSELLING & BEHAVIOUR CHANGE SKILLS;CONDITION-SPECIFIC COUNSELLING AND ESCALATION PATHWAYS;CELIAC DISEASE TESTING PATHWAY WITHOUT PREMATURE GLUTEN RESTRICTION;",
+  "topic": "NUTRITION COUNSELLING & BEHAVIOUR CHANGE SKILLS",
+  "subtopic": "CONDITION-SPECIFIC COUNSELLING AND ESCALATION PATHWAYS",
+  "sub_subtopic": "CELIAC DISEASE TESTING PATHWAY WITHOUT PREMATURE GLUTEN RESTRICTION",
+  "heading_path": "NUTRITION COUNSELLING & BEHAVIOUR CHANGE SKILLS;CONDITION-SPECIFIC COUNSELLING AND ESCALATION PATHWAYS;CELIAC DISEASE TESTING PATHWAY WITHOUT PREMATURE GLUTEN RESTRICTION;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1\u007f6"
+}

@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "Guidelines for managing endurance-limited feeding in preterm/LBW/ELBW infants post-discharge, focusing on pacing, measurable intake targets, mixed-modality strategies, and escalation to partial tube feeding if needed.",
+  "learning_objectives": [
+    "Understand the characteristics of endurance-limited feeding phenotypes in preterm/LBW/ELBW infants.",
+    "Learn staged decision-making steps for optimizing feeding safety and intake targets.",
+    "Recognize when to escalate to partial tube feeding and refer to feeding therapy.",
+    "Identify reversible medical contributors to feeding endurance limitations."
+  ],
+  "key_facts": [
+    "Feeds longer than 30 minutes or persistent sleepiness mid-feed indicate endurance-limited feeding phenotype.",
+    "Prolonged feeds increase energy expenditure, delay intake, and elevate aspiration risk, especially in infants with respiratory or cardiac disease.",
+    "Daily intake targets should be set in mL/kg/day to ensure adequate nutrition.",
+    "Mixed-modality feeding strategies include oral feeds followed by measured top-ups via the safest route.",
+    "Reassess feeding plans within 48\u201372 hours for higher-risk infants to avoid prolonged inadequate intake.",
+    "Temporary partial tube feeding should include an explicit weaning plan to avoid oral aversion."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Infant, Premature",
+    "Low Birth Weight Infant",
+    "Breastfeeding",
+    "Feeding Behavior",
+    "Energy Metabolism",
+    "Aspiration Pneumonia",
+    "Tube Feeding",
+    "Feeding and Eating Disorders of Childhood"
+  ],
+  "tags_custom": [
+    "endurance-limited feeding",
+    "post-discharge nutrition",
+    "feeding safety",
+    "mixed-modality feeding",
+    "feeding therapy escalation"
+  ],
+  "reference_quote": "Prolonged feeds increase energy expenditure, delay intake, and can increase aspiration risk, especially in infants with respiratory or cardiac disease. (Academy of Breastfeeding Medicine Clinical Protocol #12)",
+  "document_key_topics": [
+    "Endurance-limited feeding phenotype in preterm/LBW/ELBW infants",
+    "Staged decision-making for feeding safety and intake optimization",
+    "Mixed-modality feeding strategies and escalation to tube feeding",
+    "Reversible medical contributors to feeding limitations"
+  ],
+  "chunk_heading": "PRETERM/LBW/ELBW POST-DISCHARGE NUTRITION;BREASTFEEDING SKILLS AND FEEDING SAFETY DECISIONS;ENDURANCE-LIMITED FEEDING PHENOTYPE AND ESCALATION STEPS;",
+  "topic": "PRETERM/LBW/ELBW POST-DISCHARGE NUTRITION",
+  "subtopic": "BREASTFEEDING SKILLS AND FEEDING SAFETY DECISIONS",
+  "sub_subtopic": "ENDURANCE-LIMITED FEEDING PHENOTYPE AND ESCALATION STEPS",
+  "heading_path": "PRETERM/LBW/ELBW POST-DISCHARGE NUTRITION;BREASTFEEDING SKILLS AND FEEDING SAFETY DECISIONS;ENDURANCE-LIMITED FEEDING PHENOTYPE AND ESCALATION STEPS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u007f4"
+}

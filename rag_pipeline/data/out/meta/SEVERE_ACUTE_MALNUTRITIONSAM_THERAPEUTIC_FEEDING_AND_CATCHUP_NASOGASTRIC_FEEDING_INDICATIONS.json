@@ -1,0 +1,47 @@
+{
+  "chunk_summary": "Nasogastric (NG) feeding in SAM management ensures adequate intake when oral feeding is unreliable. Guidelines cover indications, placement confirmation, and aspiration prevention, emphasizing safety and practical bedside measures.",
+  "learning_objectives": [
+    "Understand the indications and contraindications for nasogastric feeding in severe acute malnutrition (SAM).",
+    "Learn proper techniques for NG tube placement and confirmation, including pH testing and radiographic methods.",
+    "Identify strategies to prevent aspiration during NG feeding in pediatric patients.",
+    "Recognize criteria for transitioning from NG feeding to oral feeding in SAM management."
+  ],
+  "key_facts": [
+    "NG feeding is indicated when oral intake is <80% of the target or in cases of weak suck, unsafe swallow, or inability to finish F-75 volumes.",
+    "Contraindications include depressed consciousness, suspected upper GI obstruction, severe facial trauma, and uncontrolled vomiting.",
+    "Insertion length is measured using the nose-to-earlobe-to-mid-umbilicus method, and gastric aspirate pH \u22645.5 confirms safe placement.",
+    "Re-check tube position after vomiting, retching, or suspected displacement.",
+    "Aspiration prevention includes head elevation, avoiding supine feeding, slow bolus delivery, and pausing feeds during respiratory distress."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Severe Acute Malnutrition",
+    "Nasogastric Intubation",
+    "Enteral Nutrition",
+    "Pediatric Feeding Disorders",
+    "Aspiration Pneumonia",
+    "Feeding Methods",
+    "Nutritional Support",
+    "Tube Feeding"
+  ],
+  "tags_custom": [
+    "SAM management",
+    "NG feeding safety",
+    "Pediatric nutrition"
+  ],
+  "reference_quote": "Use gastric aspirate pH testing when available; feeding is generally considered safe when aspirate pH is \u22645.5. (Source: WHO, Pocket book of hospital care for children)",
+  "document_key_topics": [
+    "Indications for nasogastric feeding in SAM",
+    "Techniques for NG tube placement and confirmation",
+    "Aspiration prevention during NG feeding",
+    "Criteria for transitioning to oral feeding"
+  ],
+  "chunk_heading": "SEVERE ACUTE MALNUTRITION-(SAM) MANAGEMENT;THERAPEUTIC FEEDING AND  CATCH-UP GROWTH;NASOGASTRIC FEEDING INDICATIONS PLACEMENT CONFIRMATION AND ASPIRATION PREVENTION;",
+  "topic": "SEVERE ACUTE MALNUTRITION-(SAM) MANAGEMENT",
+  "subtopic": "THERAPEUTIC FEEDING AND  CATCH-UP GROWTH",
+  "sub_subtopic": "NASOGASTRIC FEEDING INDICATIONS PLACEMENT CONFIRMATION AND ASPIRATION PREVENTION",
+  "heading_path": "SEVERE ACUTE MALNUTRITION-(SAM) MANAGEMENT;THERAPEUTIC FEEDING AND  CATCH-UP GROWTH;NASOGASTRIC FEEDING INDICATIONS PLACEMENT CONFIRMATION AND ASPIRATION PREVENTION;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "3\u00814"
+}

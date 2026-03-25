@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section outlines a standardized outpatient dietary assessment for macronutrient decisions in children, focusing on growth faltering or obesity. It emphasizes reproducible diet history, actionable portion measures, and energy displacement checks to guide interventions.",
+  "learning_objectives": [
+    "Understand the role of reproducible diet history in macronutrient prescriptions for children.",
+    "Learn how to conduct a quick dietary assessment using a two-day recall and beverage/snack audits.",
+    "Identify energy displacement patterns and their impact on growth and nutrition.",
+    "Apply portion estimation using Indian household measures for actionable dietary advice."
+  ],
+  "key_facts": [
+    "A two-day recall includes one typical weekday and one weekend/holiday day.",
+    "Portion estimation uses Indian measures: one katori (dal/curd/khichdi), roti size by palm diameter, one ladle (sabzi), and one cup (200\u2013250 ml for milk/chaas).",
+    "Energy displacement often occurs due to excess milk, sweetened beverages, and frequent biscuits.",
+    "Growth faltering with adequate intake may indicate increased needs or malabsorption, requiring medical evaluation.",
+    "Short trials for abdominal symptoms should avoid prolonged unnecessary dietary restrictions."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Dietary Assessment",
+    "Child Nutrition",
+    "Growth Disorders",
+    "Energy Intake",
+    "Macronutrients",
+    "Obesity",
+    "Malabsorption",
+    "Dietary Guidelines"
+  ],
+  "tags_custom": [
+    "pediatric dietary assessment",
+    "growth faltering management",
+    "energy displacement",
+    "portion estimation",
+    "abdominal symptom trials"
+  ],
+  "reference_quote": "A reproducible diet history is the bridge between a growth chart and a macronutrient prescription. (NICE NG75)",
+  "document_key_topics": [
+    "Standardized dietary assessment for children",
+    "Growth faltering and obesity management",
+    "Energy displacement and portion estimation",
+    "Abdominal symptoms and dietary trials"
+  ],
+  "chunk_heading": "MACRONUTRIENT NUTRITION ACROSS CHILDHOOD;STANDARDIZED OUTPATIENT DIETARY ASSESSMENT FOR MACRONUTRIENT DECISIONS;",
+  "topic": "MACRONUTRIENT NUTRITION ACROSS CHILDHOOD",
+  "subtopic": "STANDARDIZED OUTPATIENT DIETARY ASSESSMENT FOR MACRONUTRIENT DECISIONS",
+  "sub_subtopic": null,
+  "heading_path": "MACRONUTRIENT NUTRITION ACROSS CHILDHOOD;STANDARDIZED OUTPATIENT DIETARY ASSESSMENT FOR MACRONUTRIENT DECISIONS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1m"
+}

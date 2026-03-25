@@ -1,0 +1,47 @@
+{
+  "chunk_summary": "Guidelines for initiating and monitoring potassium binders in pediatric CKD, focusing on safety, dietary considerations, and India-specific counseling to manage hyperkalemia.",
+  "learning_objectives": [
+    "Understand when to initiate potassium binders in pediatric CKD patients with recurrent hyperkalemia.",
+    "Identify safety concerns and monitoring requirements for older and newer potassium binders.",
+    "Recognize the impact of India-specific dietary practices, such as potassium chloride-based salt substitutes, on hyperkalemia management."
+  ],
+  "key_facts": [
+    "Potassium binders are considered when hyperkalemia persists despite addressing non-dietary factors like metabolic acidosis, constipation, and dialysis adequacy.",
+    "Older resins like sodium polystyrene sulfonate can cause sodium retention, electrolyte disturbances, and gastrointestinal adverse events, especially in premature or low birth weight infants.",
+    "Newer agents like patiromer and sodium zirconium cyclosilicate may be better tolerated but require monitoring for hypokalemia and drug interactions.",
+    "Weight-based dosing and careful dilution of binders are essential to reduce the risk of impaction in children.",
+    "India-specific counseling includes removing potassium chloride-based 'low-sodium' salt substitutes, which are a common cause of recurrent hyperkalemia.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Chronic Kidney Disease",
+    "Hyperkalemia",
+    "Potassium Binders",
+    "Pediatrics",
+    "Sodium Polystyrene Sulfonate",
+    "Patiromer",
+    "Sodium Zirconium Cyclosilicate",
+    "Dietary Counseling"
+  ],
+  "tags_custom": [
+    "Pediatric CKD",
+    "Potassium Management",
+    "India-specific Nutrition",
+    "Safety Monitoring"
+  ],
+  "reference_quote": "Older exchange resins (for example, sodium polystyrene sulfonate) require explicit pediatric safety framing. They can cause sodium retention and electrolyte disturbances, and serious gastrointestinal adverse events have been reported.",
+  "document_key_topics": [
+    "Potassium binder initiation in pediatric CKD",
+    "Safety monitoring for older and newer potassium binders",
+    "India-specific dietary counseling for hyperkalemia"
+  ],
+  "chunk_heading": "NUTRITION IN CHRONIC KIDNEY & LIVER DISEASE;FLUID SODIUM AND POTASSIUM STRATEGIES IN PEDIATRIC CKD;POTASSIUM BINDER INITIATION AND SAFETY MONITORING IN CKD;",
+  "topic": "NUTRITION IN CHRONIC KIDNEY & LIVER DISEASE",
+  "subtopic": "FLUID SODIUM AND POTASSIUM STRATEGIES IN PEDIATRIC CKD",
+  "sub_subtopic": "POTASSIUM BINDER INITIATION AND SAFETY MONITORING IN CKD",
+  "heading_path": "NUTRITION IN CHRONIC KIDNEY & LIVER DISEASE;FLUID SODIUM AND POTASSIUM STRATEGIES IN PEDIATRIC CKD;POTASSIUM BINDER INITIATION AND SAFETY MONITORING IN CKD;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2u3"
+}

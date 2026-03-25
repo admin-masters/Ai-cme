@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "Mechanism-based differential diagnosis for faltering growth categorizes causes into intake, loss/malabsorption, increased requirements, and ineffective utilization, guiding targeted investigations based on history, exam, and growth patterns.",
+  "learning_objectives": [
+    "Understand the four mechanisms underlying faltering growth: inadequate intake, loss/malabsorption, increased requirements, and ineffective utilization.",
+    "Identify clinical signs and symptoms that suggest specific mechanisms, such as diarrhea or abdominal distension for malabsorption.",
+    "Use anthropometric patterns to prioritize investigations and recognize red flags like head circumference deceleration in children under 2 years.",
+    "Apply mechanism-based frameworks to guide diagnostic and management strategies for faltering growth."
+  ],
+  "key_facts": [
+    "Faltering growth can result from four mechanisms: inadequate intake, loss/malabsorption, increased requirements, and ineffective utilization.",
+    "Inadequate intake is the most common outpatient cause, including milk-transfer issues in infants and feeding-skill mismatches.",
+    "Celiac disease should be considered in cases of malabsorption with gluten exposure, especially in Indian populations.",
+    "Weight faltering with preserved length suggests intake issues, while weight and length faltering indicates chronic disease.",
+    "Head circumference deceleration under 2 years is a red flag for neurologic or genetic disease and requires specialist review."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Failure to Thrive",
+    "Feeding and Eating Disorders of Childhood",
+    "Malabsorption Syndromes",
+    "Celiac Disease",
+    "Anthropometry",
+    "Nutritional Requirements",
+    "Chronic Disease",
+    "Pediatric Nutrition"
+  ],
+  "tags_custom": [
+    "faltering growth",
+    "feeding difficulties",
+    "mechanism-based diagnosis",
+    "pediatric malnutrition",
+    "growth patterns"
+  ],
+  "reference_quote": "A useful differential diagnosis framework is mechanism-based, because the same weight curve can result from very different pathways.",
+  "document_key_topics": [
+    "Mechanism-based differential diagnosis for faltering growth",
+    "Anthropometric patterns and their diagnostic implications",
+    "Red flags in pediatric growth and development"
+  ],
+  "chunk_heading": "FEEDING DIFFICULTIES & FALTERING GROWTH;TARGETED DIFFERENTIAL DIAGNOSIS AND HIGH YIELD INVESTIGATIONS;MECHANISM-BASED DIFFERENTIAL DIAGNOSIS FOR FALTERING GROWTH;",
+  "topic": "FEEDING DIFFICULTIES & FALTERING GROWTH",
+  "subtopic": "TARGETED DIFFERENTIAL DIAGNOSIS AND HIGH YIELD INVESTIGATIONS",
+  "sub_subtopic": "MECHANISM-BASED DIFFERENTIAL DIAGNOSIS FOR FALTERING GROWTH",
+  "heading_path": "FEEDING DIFFICULTIES & FALTERING GROWTH;TARGETED DIFFERENTIAL DIAGNOSIS AND HIGH YIELD INVESTIGATIONS;MECHANISM-BASED DIFFERENTIAL DIAGNOSIS FOR FALTERING GROWTH;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1l1"
+}

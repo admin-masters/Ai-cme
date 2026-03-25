@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "FPIES is a non-IgE-mediated food allergy in infants and young children, characterized by acute and chronic phenotypes with specific diagnostic criteria and clinical management strategies.",
+  "learning_objectives": [
+    "Understand the diagnostic criteria for FPIES, including major and minor criteria.",
+    "Differentiate between acute, chronic, and atypical FPIES phenotypes.",
+    "Recognize the importance of supervised diagnostic challenges in FPIES diagnosis.",
+    "Identify the role of sIgE testing in atypical FPIES cases."
+  ],
+  "key_facts": [
+    "FPIES is a non-IgE-mediated food allergy most common in infancy and early childhood.",
+    "Acute FPIES presents with repetitive vomiting 1\u20134 hours after trigger food ingestion, often accompanied by pallor, lethargy, and diarrhea within 24 hours.",
+    "Consensus diagnostic criteria require one major criterion (vomiting 1\u20134 hours post-ingestion without IgE features) and at least three minor criteria (e.g., lethargy, diarrhea, need for IV fluids).",
+    "Chronic FPIES occurs in infants under 4 months, often triggered by cow\u2019s milk or soy formula, and resolves with elimination diets.",
+    "Atypical FPIES involves positive food-specific sIgE and may evolve toward IgE-mediated allergy."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Food Hypersensitivity",
+    "Enterocolitis",
+    "Non-IgE-Mediated Hypersensitivity",
+    "Infant Nutrition Disorders",
+    "Vomiting",
+    "Diarrhea",
+    "Hypotension",
+    "Immunoglobulin E"
+  ],
+  "tags_custom": [
+    "FPIES diagnosis",
+    "pediatric food allergy",
+    "acute care",
+    "elimination diets",
+    "trigger-specific sIgE"
+  ],
+  "reference_quote": "Consensus criteria use a major criterion (vomiting 1\u20134 hours after suspect food without IgE-type features) plus at least three minor criteria (e.g., repeated episodes, marked lethargy/pallor, emergency visit, need for IV fluids, diarrhea, hypotension, hypothermia).",
+  "document_key_topics": [
+    "FPIES diagnostic criteria",
+    "Acute and chronic FPIES phenotypes",
+    "Role of sIgE in atypical FPIES",
+    "Supervised diagnostic challenges"
+  ],
+  "chunk_heading": "FOOD ALLERGY & THERAPEUTIC ELIMINATION DIETS;FPIES ACUTE CARE AND  SAFE RE-CHALLENGE;FPIES DIAGNOSTIC CRITERIA AND CLINICAL PHENOTYPES;",
+  "topic": "FOOD ALLERGY & THERAPEUTIC ELIMINATION DIETS",
+  "subtopic": "FPIES ACUTE CARE AND  SAFE RE-CHALLENGE",
+  "sub_subtopic": "FPIES DIAGNOSTIC CRITERIA AND CLINICAL PHENOTYPES",
+  "heading_path": "FOOD ALLERGY & THERAPEUTIC ELIMINATION DIETS;FPIES ACUTE CARE AND  SAFE RE-CHALLENGE;FPIES DIAGNOSTIC CRITERIA AND CLINICAL PHENOTYPES;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u00801"
+}

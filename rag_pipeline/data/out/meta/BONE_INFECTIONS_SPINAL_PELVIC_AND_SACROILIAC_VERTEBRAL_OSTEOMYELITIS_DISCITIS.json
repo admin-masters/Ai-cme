@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "Vertebral osteomyelitis and discitis in children often present with subtle symptoms like back pain and low-grade fever. MRI is the diagnostic gold standard, and treatment typically involves prolonged antibiotics, with surgery reserved for severe cases like neurological deficits or spinal instability.",
+  "learning_objectives": [
+    "Recognize clinical signs of vertebral osteomyelitis and discitis in pediatric patients.",
+    "Understand the diagnostic role of MRI in identifying vertebral and disc-space involvement.",
+    "Differentiate between pyogenic infections and spinal tuberculosis based on clinical and imaging features.",
+    "Identify indications for surgical intervention in spinal infections."
+  ],
+  "key_facts": [
+    "MRI is the diagnostic study of choice for vertebral osteomyelitis and discitis.",
+    "Staphylococcus aureus is the leading pathogen; Kingella is relevant in younger children.",
+    "Spinal TB often causes vertebral collapse and gibbus deformity, evolving more slowly than pyogenic infections.",
+    "Blood cultures should be obtained before starting antibiotics.",
+    "Surgery is indicated for neurological deficits, spinal instability, major deformity, or large abscesses not controlled medically.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Osteomyelitis",
+    "Discitis",
+    "Spinal Infections",
+    "Magnetic Resonance Imaging",
+    "Staphylococcus aureus",
+    "Tuberculosis, Spinal",
+    "Pediatric Neurology",
+    "Antibiotic Therapy"
+  ],
+  "tags_custom": [
+    "Pediatric spine infections",
+    "Neurologic risk assessment",
+    "Spinal TB",
+    "Surgical intervention",
+    "MRI diagnostics"
+  ],
+  "reference_quote": "Magnetic resonance imaging is the diagnostic study of choice, as it defines vertebral and disc-space involvement, detects epidural or paraspinal abscesses, and identifies the rare but critical child at risk of spinal cord or cauda equina compression. (Reference 1)",
+  "document_key_topics": [
+    "Vertebral osteomyelitis and discitis in children",
+    "Diagnostic imaging and MRI for spinal infections",
+    "Pathogens and differentiation between pyogenic and TB infections",
+    "Indications for surgical intervention in spinal infections"
+  ],
+  "chunk_heading": "BONE INFECTIONS;SPINAL PELVIC AND SACROILIAC INFECTIONS;VERTEBRAL OSTEOMYELITIS DISCITIS AND NEUROLOGIC RISK ASSESSMENT;",
+  "topic": "BONE INFECTIONS",
+  "subtopic": "SPINAL PELVIC AND SACROILIAC INFECTIONS",
+  "sub_subtopic": "VERTEBRAL OSTEOMYELITIS DISCITIS AND NEUROLOGIC RISK ASSESSMENT",
+  "heading_path": "BONE INFECTIONS;SPINAL PELVIC AND SACROILIAC INFECTIONS;VERTEBRAL OSTEOMYELITIS DISCITIS AND NEUROLOGIC RISK ASSESSMENT;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u008a1"
+}

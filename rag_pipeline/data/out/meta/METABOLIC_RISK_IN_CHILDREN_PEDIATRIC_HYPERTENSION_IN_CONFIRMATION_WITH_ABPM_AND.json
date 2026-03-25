@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Ambulatory blood pressure monitoring (ABPM) is essential for confirming pediatric hypertension, especially in high-risk groups, and evaluating secondary causes. Guidelines emphasize ABPM over home monitors and recommend specific diagnostic tests for secondary hypertension and obesity-related factors.",
+  "learning_objectives": [
+    "Understand the role of ABPM in confirming pediatric hypertension and identifying white-coat or masked hypertension.",
+    "Recognize high-risk groups requiring earlier ABPM, such as children with obesity, OSA, diabetes, or CKD.",
+    "Identify appropriate diagnostic tests for secondary hypertension and obesity-related metabolic risks.",
+    "Learn the red flags for secondary hypertension in children."
+  ],
+  "key_facts": [
+    "ABPM is recommended when office BP remains elevated for 1 year or stage 1 hypertension persists over 3 visits (AAP, 2017).",
+    "White-coat hypertension is defined by mean ambulatory BP <95th percentile and BP load <25%.",
+    "High-risk groups for earlier ABPM include obesity, OSA, diabetes, and CKD.",
+    "Baseline evaluation includes urinalysis, serum electrolytes, BUN, creatinine, and lipid profile; add renal ultrasound for children <6 years or with abnormal renal findings.",
+    "In children with obesity, include HbA1c, liver enzymes (ALT \u00b1 AST), and fasting lipid panel.",
+    "Red flags for secondary hypertension: very young age, stage 2 hypertension, poor growth, or weight loss."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Hypertension",
+    "Ambulatory Blood Pressure Monitoring",
+    "Pediatrics",
+    "Obesity",
+    "Chronic Kidney Disease",
+    "Obstructive Sleep Apnea",
+    "Secondary Hypertension",
+    "Metabolic Syndrome"
+  ],
+  "tags_custom": [
+    "pediatric hypertension",
+    "ABPM guidelines",
+    "secondary hypertension evaluation",
+    "obesity-related risks"
+  ],
+  "reference_quote": "The 2017 AAP pediatric hypertension guideline recommends ABPM to confirm hypertension when office BP stays in the 'elevated' category for about 1 year or when stage 1 hypertension persists over three clinic visits.",
+  "document_key_topics": [
+    "Role of ABPM in pediatric hypertension",
+    "High-risk groups for early hypertension evaluation",
+    "Diagnostic workup for secondary hypertension",
+    "Obesity-related metabolic risk factors in children"
+  ],
+  "chunk_heading": "METABOLIC RISK IN CHILDREN;PEDIATRIC HYPERTENSION IN METABOLIC RISK CLINICS;CONFIRMATION WITH ABPM AND SECONDARY CAUSE EVALUATION;",
+  "topic": "METABOLIC RISK IN CHILDREN",
+  "subtopic": "PEDIATRIC HYPERTENSION IN METABOLIC RISK CLINICS",
+  "sub_subtopic": "CONFIRMATION WITH ABPM AND SECONDARY CAUSE EVALUATION",
+  "heading_path": "METABOLIC RISK IN CHILDREN;PEDIATRIC HYPERTENSION IN METABOLIC RISK CLINICS;CONFIRMATION WITH ABPM AND SECONDARY CAUSE EVALUATION;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1s2"
+}

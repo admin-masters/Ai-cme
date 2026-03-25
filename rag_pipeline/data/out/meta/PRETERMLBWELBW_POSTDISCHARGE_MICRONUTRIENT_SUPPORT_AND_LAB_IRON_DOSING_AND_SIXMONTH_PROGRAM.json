@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Guidelines for iron dosing in preterm/LBW/ELBW infants post-discharge, focusing on anemia prevention, dose adjustments, and transition planning at six months.",
+  "learning_objectives": [
+    "Understand iron dosing recommendations for preterm/LBW/ELBW infants post-discharge.",
+    "Learn to calculate total daily iron exposure from medicinal and dietary sources.",
+    "Identify strategies to prevent anemia and avoid double dosing during the six-month transition.",
+    "Recognize the role of ferritin and hemoglobin monitoring in iron dose adjustments."
+  ],
+  "key_facts": [
+    "Elemental iron dosing: 2\u20133 mg/kg/day for predominantly human-milk-fed infants starting at 2 weeks of age.",
+    "Higher-risk infants may require 2\u20134 mg/kg/day, with adjustments for EPO therapy or blood loss.",
+    "Iron-fortified formula intake must be factored into total daily iron exposure to prevent overdosing.",
+    "Medicinal iron is often needed for breastfeeding infants with low formula intake.",
+    "A single 'iron source plan' should be documented, including a transition date and stop/step-down rules at six months.",
+    "Monitoring ferritin and hemoglobin levels is recommended for dose adjustments when feasible."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Infant, Premature",
+    "Low Birth Weight",
+    "Iron",
+    "Anemia, Iron-Deficiency",
+    "Ferritin",
+    "Hemoglobin",
+    "Enteral Nutrition",
+    "Postnatal Care"
+  ],
+  "tags_custom": [
+    "Iron dosing",
+    "Preterm nutrition",
+    "Anemia prevention",
+    "Post-discharge care"
+  ],
+  "reference_quote": "A common outpatient error is continuing preterm iron dosing and adding national prophylaxis simultaneously at 6 months; prevent this by writing a single 'iron source plan' with a transition date and a stop/step-down rule tied to growth and (when feasible) hemoglobin and ferritin.",
+  "document_key_topics": [
+    "Iron dosing for preterm/LBW/ELBW infants",
+    "Anemia prevention strategies post-discharge",
+    "Transition planning for iron supplementation at six months",
+    "Monitoring ferritin and hemoglobin for dose adjustments"
+  ],
+  "chunk_heading": "PRETERM/LBW/ELBW POST-DISCHARGE NUTRITION;MICRONUTRIENT SUPPORT AND LAB MONITORING AFTER DISCHARGE;IRON DOSING AND SIX-MONTH PROGRAM TRANSITION;",
+  "topic": "PRETERM/LBW/ELBW POST-DISCHARGE NUTRITION",
+  "subtopic": "MICRONUTRIENT SUPPORT AND LAB MONITORING AFTER DISCHARGE",
+  "sub_subtopic": "IRON DOSING AND SIX-MONTH PROGRAM TRANSITION",
+  "heading_path": "PRETERM/LBW/ELBW POST-DISCHARGE NUTRITION;MICRONUTRIENT SUPPORT AND LAB MONITORING AFTER DISCHARGE;IRON DOSING AND SIX-MONTH PROGRAM TRANSITION;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u00851"
+}

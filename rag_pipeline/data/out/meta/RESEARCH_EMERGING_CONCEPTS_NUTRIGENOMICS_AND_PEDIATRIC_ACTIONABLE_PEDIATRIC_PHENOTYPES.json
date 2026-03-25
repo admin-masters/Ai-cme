@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Explores actionable pediatric phenotypes in nutrigenomics, emphasizing genetic testing for conditions like familial hypercholesterolemia and syndromic obesity, with a focus on structured care and actionability in childhood management.",
+  "learning_objectives": [
+    "Understand the role of nutrigenomics and nutrigenetics in pediatric care.",
+    "Identify high-yield phenotypes for genetic testing in nutrition-related conditions.",
+    "Apply guidelines like NICE and IAP for structured genetic testing and cascade screening.",
+    "Evaluate the actionability of genetic testing results in pediatric nutrition management."
+  ],
+  "key_facts": [
+    "Familial hypercholesterolemia genetic testing supports cascade screening and early risk stratification.",
+    "IAP guidelines recommend genetic testing for early-onset obesity (<5 years) with hyperphagia and syndromic features.",
+    "Genetic testing should focus on red-flag phenotypes, not routine weight management.",
+    "Nutrigenomics studies diet\u2013gene expression interactions, while nutrigenetics examines genetic variants modifying dietary responses.",
+    "AAP and ACMG policies emphasize testing only when management changes are expected in childhood."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Nutrigenomics",
+    "Genetic Testing",
+    "Pediatrics",
+    "Obesity",
+    "Hypercholesterolemia",
+    "Precision Medicine",
+    "Metabolism, Inborn Errors",
+    "Cardiovascular Diseases"
+  ],
+  "tags_custom": [
+    "pediatric nutrition genetics",
+    "actionable phenotypes",
+    "syndromic obesity",
+    "cascade screening",
+    "genetic stewardship"
+  ],
+  "reference_quote": "Genetic testing is for red flags, not routine weight management. (IAP childhood obesity guideline, 2023)",
+  "document_key_topics": [
+    "Nutrigenomics and nutrigenetics in pediatric care",
+    "Familial hypercholesterolemia and cascade screening",
+    "Genetic testing for syndromic and monogenic obesity",
+    "Actionability in pediatric genetic test stewardship"
+  ],
+  "chunk_heading": "RESEARCH & EMERGING CONCEPTS;NUTRIGENOMICS AND PEDIATRIC GENETIC TEST STEWARDSHIP;ACTIONABLE PEDIATRIC PHENOTYPES FOR NUTRITION RELATED GENETICS;",
+  "topic": "RESEARCH & EMERGING CONCEPTS",
+  "subtopic": "NUTRIGENOMICS AND PEDIATRIC GENETIC TEST STEWARDSHIP",
+  "sub_subtopic": "ACTIONABLE PEDIATRIC PHENOTYPES FOR NUTRITION RELATED GENETICS",
+  "heading_path": "RESEARCH & EMERGING CONCEPTS;NUTRIGENOMICS AND PEDIATRIC GENETIC TEST STEWARDSHIP;ACTIONABLE PEDIATRIC PHENOTYPES FOR NUTRITION RELATED GENETICS;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1|1"
+}

@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "Focuses on examination findings and anthropometry in GI disorders and malabsorption to assess nutrition urgency, emphasizing hydration, growth metrics, and systemic signs for triage in India-focused care.",
+  "learning_objectives": [
+    "Understand the role of hydration and intake documentation in managing persistent diarrhea.",
+    "Identify anthropometric indicators like Z scores and growth velocity for chronic undernutrition.",
+    "Recognize systemic signs such as edema, pallor, and micronutrient deficiencies that escalate nutrition urgency.",
+    "Correlate delayed puberty and Tanner staging with disease activity in pediatric IBD."
+  ],
+  "key_facts": [
+    "Persistent diarrhea may cause subclinical dehydration; monitor oral intake, urine output, and vomiting.",
+    "Falling height velocity or crossing major centile lines indicates chronic undernutrition and mandates escalation.",
+    "Edema may signal kwashiorkor or protein-losing enteropathy; muscle wasting and micronutrient signs are critical.",
+    "Abdominal distension and visible peristalsis suggest obstruction risk; hepatosplenomegaly may indicate systemic inflammation.",
+    "Delayed puberty correlates with poor bone accrual in pediatric IBD; Tanner staging is a disease activity marker.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Malabsorption Syndromes",
+    "Pediatric Nutrition",
+    "Anthropometry",
+    "Inflammatory Bowel Diseases",
+    "Growth Disorders",
+    "Micronutrient Deficiency",
+    "Edema",
+    "Puberty"
+  ],
+  "tags_custom": [
+    "India-focused triage",
+    "GI disorders",
+    "nutrition urgency",
+    "pediatric malnutrition",
+    "clinical examination"
+  ],
+  "reference_quote": "Children with persistent diarrhea may cycle through subclinical dehydration; record oral intake, urine output, and vomiting so the feeding plan is safe. (WHO Pocket Book of Hospital Care for Children)",
+  "document_key_topics": [
+    "Anthropometric indicators for nutrition urgency",
+    "Systemic signs in GI disorders and malabsorption",
+    "Hydration and intake documentation in persistent diarrhea",
+    "Pubertal staging and growth monitoring in pediatric IBD"
+  ],
+  "chunk_heading": "NUTRITION IN GI DISORDERS & MALABSORPTION;INDIA-FOCUSED TRIAGE AND FIRST- PASS ASSESSMENT;EXAMINATION FINDINGS AND ANTHROPOMETRY THAT CHANGE NUTRITION URGENCY;",
+  "topic": "NUTRITION IN GI DISORDERS & MALABSORPTION",
+  "subtopic": "INDIA-FOCUSED TRIAGE AND FIRST- PASS ASSESSMENT",
+  "sub_subtopic": "EXAMINATION FINDINGS AND ANTHROPOMETRY THAT CHANGE NUTRITION URGENCY",
+  "heading_path": "NUTRITION IN GI DISORDERS & MALABSORPTION;INDIA-FOCUSED TRIAGE AND FIRST- PASS ASSESSMENT;EXAMINATION FINDINGS AND ANTHROPOMETRY THAT CHANGE NUTRITION URGENCY;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2j5"
+}

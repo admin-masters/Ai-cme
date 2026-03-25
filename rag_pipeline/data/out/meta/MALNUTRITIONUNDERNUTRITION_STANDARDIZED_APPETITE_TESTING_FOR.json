@@ -1,0 +1,47 @@
+{
+  "chunk_summary": "Appetite testing is a standardized tool to determine outpatient eligibility for children with SAM, ensuring proper triage between uncomplicated and complicated cases based on specific intake thresholds and clinical criteria.",
+  "learning_objectives": [
+    "Understand the role of appetite testing in differentiating uncomplicated and complicated SAM cases.",
+    "Learn the procedural steps to conduct appetite testing and avoid false results.",
+    "Identify minimum intake thresholds for therapeutic feeds based on weight bands.",
+    "Interpret appetite test results and link them to appropriate treatment pathways."
+  ],
+  "key_facts": [
+    "Appetite testing is performed when a child meets SAM criteria: WHZ/WLZ < -3 SD, MUAC <115 mm, or nutritional oedema.",
+    "Testing should occur in a quiet area, with no food intake for 2 hours prior, and up to 60 minutes allowed for feeding.",
+    "Minimum intake thresholds: <4 kg = 15 g, 4\u20137 kg = 25 g, 7\u201310 kg = 33\u201335 g, 10\u201314.9 kg = 50 g of therapeutic feed.",
+    "Pass: Outpatient care is acceptable if no danger signs or severe complications exist and follow-up is feasible.",
+    "Fail: Refer/admit for inpatient stabilization and repeat testing during follow-up if weight gain is static or falling."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Malnutrition",
+    "Severe Acute Malnutrition",
+    "Appetite",
+    "Therapeutic Feeding",
+    "Nutritional Assessment",
+    "Pediatric Nutrition",
+    "Outpatient Care",
+    "Triage"
+  ],
+  "tags_custom": [
+    "Appetite testing",
+    "SAM eligibility",
+    "Therapeutic feeding thresholds",
+    "Pediatric malnutrition"
+  ],
+  "reference_quote": "\"Perform an appetite test when a child meets SAM criteria (WHZ/WLZ < -3 SD, MUAC <115 mm in children 6\u201359 months, or nutritional oedema) and is stable enough to attempt feeding.\"",
+  "document_key_topics": [
+    "Appetite testing procedure for SAM",
+    "Minimum intake thresholds for therapeutic feeds",
+    "Criteria for outpatient versus inpatient care in SAM"
+  ],
+  "chunk_heading": "MALNUTRITION\u2014UNDERNUTRITION: SCREENING & CLASSIFICATION;STANDARDIZED APPETITE TESTING FOR OUTPATIENT ELIGIBILITY IN SAM;",
+  "topic": "MALNUTRITION\u2014UNDERNUTRITION: SCREENING & CLASSIFICATION",
+  "subtopic": "STANDARDIZED APPETITE TESTING FOR OUTPATIENT ELIGIBILITY IN SAM",
+  "sub_subtopic": null,
+  "heading_path": "MALNUTRITION\u2014UNDERNUTRITION: SCREENING & CLASSIFICATION;STANDARDIZED APPETITE TESTING FOR OUTPATIENT ELIGIBILITY IN SAM;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "2t"
+}

@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Celiac disease diagnosis before gluten withdrawal requires careful serology, potential gluten challenge, and early diet counseling to ensure diagnostic accuracy and prevent unnecessary lifelong restrictions.",
+  "learning_objectives": [
+    "Understand the importance of diagnosing celiac disease before gluten withdrawal to avoid diagnostic errors.",
+    "Learn the role of serology-based algorithms and no-biopsy approaches in celiac disease diagnosis.",
+    "Recognize the need for gluten challenge planning in children already on gluten-restricted diets.",
+    "Identify practical dietary adaptations and cross-contact prevention strategies for Indian households."
+  ],
+  "key_facts": [
+    "Celiac disease is an immune-mediated disorder triggered by gluten in genetically susceptible individuals, causing intestinal mucosal injury and malabsorption.",
+    "In wheat-consuming regions like India, premature gluten withdrawal before testing is a common diagnostic error.",
+    "Serology-based algorithms and no-biopsy approaches are valid diagnostic pathways when criteria are met.",
+    "First-degree relatives of celiac patients have an increased risk and should be offered screening pathways.",
+    "Symptoms alone are not reliable evidence of mucosal healing; structured follow-up is essential.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Celiac Disease",
+    "Gluten-Free Diet",
+    "Serologic Tests",
+    "Intestinal Mucosa",
+    "Dietary Counseling",
+    "Gluten",
+    "Malabsorption Syndromes",
+    "Pediatric Gastroenterology"
+  ],
+  "tags_custom": [
+    "Celiac diagnosis",
+    "Gluten challenge",
+    "Dietary adaptations",
+    "Indian dietary practices"
+  ],
+  "reference_quote": "Diagnostic pathways include serology-based algorithms and, in selected cases, no-biopsy approaches when criteria are met; however, assay standardization and specialist oversight are important practical constraints.",
+  "document_key_topics": [
+    "Celiac disease diagnosis before gluten withdrawal",
+    "Serology and no-biopsy diagnostic approaches",
+    "Gluten challenge planning and safety",
+    "Dietary counseling and cross-contact prevention"
+  ],
+  "chunk_heading": "THERAPEUTIC DIETS & SPECIAL INTERVENTIONS;CELIAC DISEASE DIAGNOSIS BEFORE GLUTEN WITHDRAWAL;",
+  "topic": "THERAPEUTIC DIETS & SPECIAL INTERVENTIONS",
+  "subtopic": "CELIAC DISEASE DIAGNOSIS BEFORE GLUTEN WITHDRAWAL",
+  "sub_subtopic": null,
+  "heading_path": "THERAPEUTIC DIETS & SPECIAL INTERVENTIONS;CELIAC DISEASE DIAGNOSIS BEFORE GLUTEN WITHDRAWAL;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "1o"
+}

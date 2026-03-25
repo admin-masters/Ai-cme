@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section outlines quality metrics and monthly audit cycles for tele-nutrition services, emphasizing safe longitudinal care, structured documentation, process reliability, and condition-specific outcome proxies within a digital workflow framework.",
+  "learning_objectives": [
+    "Understand the importance of structure, process, and outcome metrics in tele-nutrition quality measurement.",
+    "Learn how to implement monthly audit cycles to ensure safety and equity in tele-nutrition services.",
+    "Identify condition-specific outcome proxies for growth faltering, undernutrition, and obesity management.",
+    "Explore strategies for low-tech pathways and anthropometry verification in tele-nutrition."
+  ],
+  "key_facts": [
+    "Structure metrics include mandatory fields like consent documentation, guardian verification, and red flag screening.",
+    "Process metrics track follow-up completion rates, overdue high-risk children contacted within a defined window, and time-to-escalation for red flags.",
+    "Outcome proxies include improved growth trajectory at 4 weeks, early weight gain or MUAC improvement at 2 weeks, and stabilization of BAZ trajectory for obesity.",
+    "Safety audits should verify anthropometry techniques via video/photo evidence and track low-tech pathway success rates.",
+    "Avoid reliance on satisfaction scores, as they may incentivize reassurance over necessary escalation."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Telemedicine",
+    "Nutrition Assessment",
+    "Quality Assurance, Health Care",
+    "Growth Disorders",
+    "Undernutrition",
+    "Obesity",
+    "Anthropometry",
+    "Health Equity"
+  ],
+  "tags_custom": [
+    "tele-nutrition metrics",
+    "audit cycles",
+    "digital health workflows",
+    "low-tech pathways",
+    "condition-specific outcomes"
+  ],
+  "reference_quote": "Monitoring and evaluating digital health interventions (WHO, 2016).",
+  "document_key_topics": [
+    "Tele-nutrition quality metrics",
+    "Monthly audit cycles",
+    "Condition-specific outcome proxies",
+    "Safety and equity in tele-nutrition"
+  ],
+  "chunk_heading": "DIGITAL TOOLS & TELE-NUTRITION;END-TO-END TELE-NUTRITION SERVICE WORKFLOW, REGISTRIES, AND DASHBOARDS;QUALITY METRICS AND MONTHLY AUDIT CYCLES FOR TELE-NUTRITION SERVICES;",
+  "topic": "DIGITAL TOOLS & TELE-NUTRITION",
+  "subtopic": "END-TO-END TELE-NUTRITION SERVICE WORKFLOW, REGISTRIES, AND DASHBOARDS",
+  "sub_subtopic": "QUALITY METRICS AND MONTHLY AUDIT CYCLES FOR TELE-NUTRITION SERVICES",
+  "heading_path": "DIGITAL TOOLS & TELE-NUTRITION;END-TO-END TELE-NUTRITION SERVICE WORKFLOW, REGISTRIES, AND DASHBOARDS;QUALITY METRICS AND MONTHLY AUDIT CYCLES FOR TELE-NUTRITION SERVICES;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u00966"
+}

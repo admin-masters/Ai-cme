@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "Guidelines for resolving conflicts in anthropometric indices during tele-nutrition, emphasizing measurement reliability, re-measurement, clinical status, and documentation to prevent misdiagnosis and ensure accurate growth assessment.",
+  "learning_objectives": [
+    "Understand the causes of discordant anthropometric indices in tele-nutrition and their implications.",
+    "Learn a stepwise framework for resolving measurement conflicts in remote growth assessments.",
+    "Recognize the importance of clinical status in overriding anthropometric discrepancies.",
+    "Develop skills to document and manage anthropometric conflicts for medico-legal defensibility."
+  ],
+  "key_facts": [
+    "Small errors in length/height can significantly affect weight-for-length (WHZ) and weight-for-age (WAZ) interpretations.",
+    "A common discordance pattern is 'normal WAZ but wasted WHZ,' often due to underestimated length rather than true malnutrition.",
+    "Rule 1: Prioritize reliable measurements; avoid diagnosing wasting based on low-confidence length/height.",
+    "Rule 2: Re-measure within 7\u201310 days if the child is clinically stable, sooner for young infants.",
+    "Rule 3: Escalate to in-person evaluation if discordance coexists with red flags like poor feeding, lethargy, or respiratory distress.",
+    "Rule 4: Document conflicts and rationale, e.g., 'Anthropometry conflict suspected due to low-confidence length; plan is verified measurement before diagnostic labeling.'"
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Anthropometry",
+    "Child Nutrition Disorders",
+    "Telemedicine",
+    "Growth Disorders",
+    "Body Height",
+    "Body Weight",
+    "Malnutrition",
+    "Clinical Decision-Making"
+  ],
+  "tags_custom": [
+    "tele-nutrition",
+    "growth assessment",
+    "measurement conflict",
+    "remote healthcare",
+    "pediatric nutrition"
+  ],
+  "reference_quote": "\u2018Anthropometry conflict suspected due to low-confidence length; plan is verified measurement before diagnostic labeling.\u2019",
+  "document_key_topics": [
+    "Resolving anthropometric conflicts in tele-nutrition",
+    "Measurement reliability and re-measurement protocols",
+    "Clinical status as a priority in growth assessments",
+    "Documentation for medico-legal defensibility"
+  ],
+  "chunk_heading": "DIGITAL TOOLS & TELE-NUTRITION;GROWTH REFERENCES AND REMOTE ANTHROPOMETRY USING DIGITAL TOOLS;CONFLICT RESOLUTION WHEN ANTHROPOMETRIC INDICES DISAGREE;",
+  "topic": "DIGITAL TOOLS & TELE-NUTRITION",
+  "subtopic": "GROWTH REFERENCES AND REMOTE ANTHROPOMETRY USING DIGITAL TOOLS",
+  "sub_subtopic": "CONFLICT RESOLUTION WHEN ANTHROPOMETRIC INDICES DISAGREE",
+  "heading_path": "DIGITAL TOOLS & TELE-NUTRITION;GROWTH REFERENCES AND REMOTE ANTHROPOMETRY USING DIGITAL TOOLS;CONFLICT RESOLUTION WHEN ANTHROPOMETRIC INDICES DISAGREE;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1t5"
+}

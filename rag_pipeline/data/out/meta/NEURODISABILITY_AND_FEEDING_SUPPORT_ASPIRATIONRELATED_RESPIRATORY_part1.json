@@ -1,0 +1,47 @@
+{
+  "chunk_summary": "Guidance on managing aspiration-related respiratory illness in neurologically impaired children, focusing on safe feeding practices, antibiotic escalation, and nutritional adjustments during acute illness.",
+  "learning_objectives": [
+    "Understand the role of feeding modifications in managing aspiration-related respiratory illness.",
+    "Learn when and how to escalate antibiotic therapy in neurologically impaired children.",
+    "Identify safe hydration and nutrition strategies during acute respiratory illness.",
+    "Review evidence-based guidelines for aspiration pneumonia management."
+  ],
+  "key_facts": [
+    "Do not escalate antibiotics while unsafe feeding practices continue during acute illness.",
+    "Simplify food textures and prioritize tube feeding if coughing persists with oral intake.",
+    "Aspiration pneumonia is a common complication in neurologically impaired children, requiring tailored management strategies.",
+    "ICMR guidelines emphasize appropriate antibiotic use for community-acquired pneumonia.",
+    "The AACPDM Care Pathway highlights respiratory health management in children with cerebral palsy."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Aspiration Pneumonia",
+    "Neurologic Manifestations",
+    "Feeding and Eating Disorders",
+    "Respiratory Tract Infections",
+    "Cerebral Palsy",
+    "Antibiotic Therapy",
+    "Enteral Nutrition",
+    "Pediatric Neurology"
+  ],
+  "tags_custom": [
+    "aspiration management",
+    "feeding safety",
+    "antibiotic escalation",
+    "pediatric respiratory care"
+  ],
+  "reference_quote": "Do not escalate antibiotics while continuing unsafe feeding; during acute illness, simplify textures and shift hydration or full nutrition to tube route if coughing with sips persists.",
+  "document_key_topics": [
+    "Aspiration-related respiratory illness in neurologically impaired children",
+    "Antibiotic management for aspiration pneumonia",
+    "Feeding and nutrition adjustments during acute illness"
+  ],
+  "chunk_heading": "NEURODISABILITY AND FEEDING SUPPORT;ASPIRATION-RELATED RESPIRATORY ILLNESS TRIAGE AND ANTIBIOTIC PATHWAY;",
+  "topic": "NEURODISABILITY AND FEEDING SUPPORT",
+  "subtopic": "ASPIRATION-RELATED RESPIRATORY ILLNESS TRIAGE AND ANTIBIOTIC PATHWAY",
+  "sub_subtopic": null,
+  "heading_path": "NEURODISABILITY AND FEEDING SUPPORT;ASPIRATION-RELATED RESPIRATORY ILLNESS TRIAGE AND ANTIBIOTIC PATHWAY;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1{.2"
+}

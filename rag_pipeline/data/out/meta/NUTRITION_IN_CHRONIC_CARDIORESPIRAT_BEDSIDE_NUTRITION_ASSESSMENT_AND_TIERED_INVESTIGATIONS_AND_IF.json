@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section outlines tiered nutrition investigations for chronic cardiorespiratory disease, emphasizing decision-making based on test availability and cost, with 'if unavailable' branches to avoid delays in care.",
+  "learning_objectives": [
+    "Understand the tiered approach to nutrition investigations in chronic cardiorespiratory disease.",
+    "Identify key tests in Tier 1, Tier 2, and Tier 3 and their clinical implications.",
+    "Apply 'if unavailable' strategies to manage resource-limited settings effectively.",
+    "Recognize the importance of avoiding delays in calorie escalation and feeding safety."
+  ],
+  "key_facts": [
+    "Tier 1 tests include electrolytes (sodium, potassium, bicarbonate), creatinine, glucose, and hemoglobin, critical for feeding tolerance and calorie escalation safety.",
+    "Tier 2 tests are mechanism-targeted, such as CRP for inflammation, fecal elastase for CF-related malabsorption, and VFSS/FEES for aspiration risk.",
+    "If fecal elastase is unavailable, treat classic steatorrhea and failure to gain weight as pancreatic insufficiency and dose PERT accordingly.",
+    "If VFSS/FEES is unavailable, manage feed-linked desaturation or choking as aspiration risk and adjust feeding routes to prevent pneumonia.",
+    "Tier 3 tests, including phosphate and magnesium, are essential for detecting refeeding syndrome in severe malnutrition or prolonged inadequate intake."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Nutrition Assessment",
+    "Cardiopulmonary Diseases",
+    "Malnutrition",
+    "Pancreatic Insufficiency",
+    "Refeeding Syndrome",
+    "Swallowing Disorders",
+    "Cystic Fibrosis",
+    "Electrolyte Imbalance"
+  ],
+  "tags_custom": [
+    "tiered investigations",
+    "resource-limited settings",
+    "feeding safety",
+    "pediatric nutrition",
+    "risk stratification"
+  ],
+  "reference_quote": "When fecal elastase is unavailable, treat classic steatorrhea and failure to gain as pancreatic insufficiency until proven otherwise and dose PERT appropriately. (Source: https://www.cff.org/medical-professionals/pancreatic-enzymes-clinical-care-guidelines...)",
+  "document_key_topics": [
+    "Tiered nutrition investigations",
+    "Management of unavailable diagnostic resources",
+    "Feeding safety in chronic cardiorespiratory disease",
+    "Risk stratification for malnutrition and refeeding syndrome"
+  ],
+  "chunk_heading": "NUTRITION IN CHRONIC CARDIORESPIRATORY DISEASE;BEDSIDE NUTRITION ASSESSMENT AND RISK STRATIFICATION;TIERED INVESTIGATIONS AND IF UNAVAILABLE BRANCHES;",
+  "topic": "NUTRITION IN CHRONIC CARDIORESPIRATORY DISEASE",
+  "subtopic": "BEDSIDE NUTRITION ASSESSMENT AND RISK STRATIFICATION",
+  "sub_subtopic": "TIERED INVESTIGATIONS AND IF UNAVAILABLE BRANCHES",
+  "heading_path": "NUTRITION IN CHRONIC CARDIORESPIRATORY DISEASE;BEDSIDE NUTRITION ASSESSMENT AND RISK STRATIFICATION;TIERED INVESTIGATIONS AND IF UNAVAILABLE BRANCHES;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1k3"
+}

@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "This section outlines induction therapy options for pediatric eosinophilic esophagitis (EoE), emphasizing individualized treatment based on disease severity, family capacity, and nutrition risk, with specific dosing and monitoring guidelines.",
+  "learning_objectives": [
+    "Understand the three-step management process for pediatric EoE: induction, histologic response confirmation, and maintenance.",
+    "Identify and compare induction therapy options, including diet therapy, PPIs, and swallowed topical corticosteroids.",
+    "Learn dosing guidelines for PPIs and topical steroids in pediatric EoE treatment.",
+    "Recognize the importance of endoscopic monitoring and histologic assessment in therapy evaluation."
+  ],
+  "key_facts": [
+    "Induction therapy options for EoE include diet therapy (empiric elimination or elemental diet), PPIs, and swallowed topical corticosteroids.",
+    "PPI dosing for pediatric EoE is weight-based, typically 1\u20132 mg/kg/day divided twice daily, with maximum doses up to 20\u201340 mg twice daily.",
+    "Swallowed fluticasone propionate dosing is age-stratified: 88\u2013250 mg per dose (ages 1\u20133), 250\u2013500 mg per dose (ages 4\u201310), and ~500 mg per dose (ages 11\u201318).",
+    "Endoscopic reassessment with biopsies is recommended after 8\u201312 weeks for elimination diets, topical steroids, or PPIs, and after at least 4 weeks for elemental diets.",
+    "Allergy testing is not reliable for identifying histologic triggers in EoE and should not guide food elimination."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Eosinophilic Esophagitis",
+    "Diet Therapy",
+    "Proton Pump Inhibitors",
+    "Topical Corticosteroids",
+    "Histologic Techniques",
+    "Pediatric Gastroenterology",
+    "Endoscopy",
+    "Food Hypersensitivity"
+  ],
+  "tags_custom": [
+    "EoE induction therapy",
+    "pediatric dosing guidelines",
+    "elimination diets",
+    "histologic response monitoring"
+  ],
+  "reference_quote": "Management of pediatric EoE requires three linked steps: induction therapy, objective confirmation of histologic response, and maintenance with periodic reassessment.",
+  "document_key_topics": [
+    "Induction therapy options for pediatric EoE",
+    "Dosing guidelines for PPIs and topical steroids",
+    "Role of endoscopic monitoring in EoE management",
+    "Limitations of allergy testing in EoE treatment"
+  ],
+  "chunk_heading": "FOOD ALLERGY & THERAPEUTIC ELIMINATION DIETS;EOSINOPHILIC ESOPHAGITIS DIAGNOSIS AND DIET WORKFLOW;EOE INDUCTION THERAPY SELECTION AND ENDPOINTS;",
+  "topic": "FOOD ALLERGY & THERAPEUTIC ELIMINATION DIETS",
+  "subtopic": "EOSINOPHILIC ESOPHAGITIS DIAGNOSIS AND DIET WORKFLOW",
+  "sub_subtopic": "EOE INDUCTION THERAPY SELECTION AND ENDPOINTS",
+  "heading_path": "FOOD ALLERGY & THERAPEUTIC ELIMINATION DIETS;EOSINOPHILIC ESOPHAGITIS DIAGNOSIS AND DIET WORKFLOW;EOE INDUCTION THERAPY SELECTION AND ENDPOINTS;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1\u00852.1"
+}

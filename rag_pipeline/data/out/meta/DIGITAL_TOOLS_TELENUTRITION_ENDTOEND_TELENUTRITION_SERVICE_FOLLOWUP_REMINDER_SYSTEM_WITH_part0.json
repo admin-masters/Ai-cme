@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "This section outlines a follow-up reminder system for tele-nutrition, emphasizing closed-loop verification, missed-visit escalation, and pathway-specific follow-up cadences for conditions like malnutrition, anemia, and obesity.",
+  "learning_objectives": [
+    "Understand the importance of closed-loop follow-up systems in tele-nutrition workflows.",
+    "Learn to design pathway-specific follow-up cadences for various nutritional conditions.",
+    "Identify strategies for missed-visit escalation and caregiver confirmation processes.",
+    "Apply non-stigmatizing communication in tele-nutrition reminders."
+  ],
+  "key_facts": [
+    "Follow-up systems are critical for tele-nutrition as changes occur between calls.",
+    "Growth faltering requires a 2-week checkpoint and a 4-week trajectory review.",
+    "Acute malnutrition follow-ups depend on risk: weekly or fortnightly weight/MUAC checks.",
+    "Anemia follow-ups include early adherence checks and hemoglobin response checks.",
+    "Missed follow-ups should trigger reminders within 24\u201348 hours and phone calls if needed.",
+    "Obesity follow-ups include a 4\u20136 week behavior checkpoint and a 12-week trajectory review."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Telemedicine",
+    "Nutrition Disorders",
+    "Patient Compliance",
+    "Reminder Systems",
+    "Follow-Up Studies",
+    "Obesity",
+    "Anemia",
+    "Malnutrition"
+  ],
+  "tags_custom": [
+    "tele-nutrition workflow",
+    "missed-visit escalation",
+    "closed-loop verification",
+    "caregiver confirmation",
+    "non-stigmatizing communication"
+  ],
+  "reference_quote": "Follow-up systems are the main safety feature of tele-nutrition because change happens between calls.",
+  "document_key_topics": [
+    "Follow-up reminder systems in tele-nutrition",
+    "Pathway-specific follow-up cadences for nutritional conditions",
+    "Missed-visit escalation and caregiver confirmation",
+    "Non-stigmatizing communication in tele-nutrition"
+  ],
+  "chunk_heading": "DIGITAL TOOLS & TELE-NUTRITION;END-TO-END TELE-NUTRITION SERVICE WORKFLOW, REGISTRIES, AND DASHBOARDS;FOLLOW-UP REMINDER SYSTEM WITH MISSED-VISIT ESCALATION AND CLOSED-LOOP VERIFICATION;",
+  "topic": "DIGITAL TOOLS & TELE-NUTRITION",
+  "subtopic": "END-TO-END TELE-NUTRITION SERVICE WORKFLOW, REGISTRIES, AND DASHBOARDS",
+  "sub_subtopic": "FOLLOW-UP REMINDER SYSTEM WITH MISSED-VISIT ESCALATION AND CLOSED-LOOP VERIFICATION",
+  "heading_path": "DIGITAL TOOLS & TELE-NUTRITION;END-TO-END TELE-NUTRITION SERVICE WORKFLOW, REGISTRIES, AND DASHBOARDS;FOLLOW-UP REMINDER SYSTEM WITH MISSED-VISIT ESCALATION AND CLOSED-LOOP VERIFICATION;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u00933.1"
+}

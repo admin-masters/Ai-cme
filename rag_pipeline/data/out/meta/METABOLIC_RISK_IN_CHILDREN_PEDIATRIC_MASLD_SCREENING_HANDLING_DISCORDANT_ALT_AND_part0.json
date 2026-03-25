@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "Guidance on managing discordant ALT and ultrasound findings in pediatric MASLD screening, emphasizing risk-based approaches, lifestyle interventions, and appropriate follow-up strategies.",
+  "learning_objectives": [
+    "Understand the limitations of ultrasound and ALT in pediatric MASLD diagnosis.",
+    "Learn practical management strategies for discordant ALT and ultrasound findings.",
+    "Identify metabolic risk factors and their role in MASLD progression.",
+    "Apply NASPGHAN guidelines to optimize screening and follow-up."
+  ],
+  "key_facts": [
+    "Ultrasound detects moderate-to-severe steatosis but is unreliable for mild steatosis or quantification.",
+    "ALT values below 40 can occur in children with imaging steatosis; persistently elevated ALT with normal ultrasound warrants MASLD exclusion work-up.",
+    "NASPGHAN discourages routine ultrasound for screening due to limited sensitivity and specificity.",
+    "Reassess metabolic drivers like waist trajectory, fasting glucose, triglycerides, and BP when discordance occurs.",
+    "Repeat ALT in 6\u201312 months or sooner if weight gain, diabetes, or rising triglycerides are present."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Non-alcoholic Fatty Liver Disease",
+    "Pediatrics",
+    "Ultrasonography",
+    "Alanine Transaminase",
+    "Metabolic Syndrome",
+    "Steatosis",
+    "Lifestyle Intervention",
+    "Risk Assessment"
+  ],
+  "tags_custom": [
+    "MASLD screening",
+    "ALT-ultrasound discordance",
+    "pediatric metabolic risk",
+    "liver disease management",
+    "NASPGHAN guidelines"
+  ],
+  "reference_quote": "The 2017 NASPGHAN guidance specifically discourages routine ultrasound as a screening test because sensitivity and specificity are limited; a normal ultrasound does not exclude steatosis, and an abnormal ultrasound does not prove MASLD.",
+  "document_key_topics": [
+    "Discordance between ALT and ultrasound findings in MASLD screening",
+    "Limitations of ultrasound and ALT in pediatric MASLD diagnosis",
+    "Risk-based management and follow-up strategies for MASLD"
+  ],
+  "chunk_heading": "METABOLIC RISK IN CHILDREN;PEDIATRIC MASLD SCREENING DIAGNOSIS AND STAGING;HANDLING DISCORDANT ALT AND ULTRASOUND FINDINGS;",
+  "topic": "METABOLIC RISK IN CHILDREN",
+  "subtopic": "PEDIATRIC MASLD SCREENING DIAGNOSIS AND STAGING",
+  "sub_subtopic": "HANDLING DISCORDANT ALT AND ULTRASOUND FINDINGS",
+  "heading_path": "METABOLIC RISK IN CHILDREN;PEDIATRIC MASLD SCREENING DIAGNOSIS AND STAGING;HANDLING DISCORDANT ALT AND ULTRASOUND FINDINGS;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1\u00823.1"
+}

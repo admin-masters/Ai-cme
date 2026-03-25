@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section discusses equity in Indian tele-nutrition, emphasizing the digital divide, caregiver capability, and language barriers as clinical variables affecting adherence, follow-up, and safety. It highlights tailored approaches for low-tech settings and resource-constrained families.",
+  "learning_objectives": [
+    "Understand the impact of the digital divide on tele-nutrition adherence and safety in India.",
+    "Identify strategies to adapt tele-nutrition services for low-tech and low-literacy families.",
+    "Learn how to document and address barriers like food insecurity and caregiver constraints.",
+    "Explore ethical considerations for privacy and confidentiality in tele-nutrition for adolescents."
+  ],
+  "key_facts": [
+    "The digital divide directly affects adherence, follow-up completion, and safety in tele-nutrition.",
+    "Low-tech pathways include short audio calls, pictorial meal guidance, and local measurement points.",
+    "Families with food insecurity require 'lowest-cost acceptable diet' options and community support linkage.",
+    "Privacy concerns in crowded households necessitate scheduling sensitive discussions at safe times.",
+    "Clinical standards for triage and escalation should remain consistent across high-tech and low-tech pathways.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Telemedicine",
+    "Nutrition Therapy",
+    "Health Equity",
+    "Digital Divide",
+    "Caregivers",
+    "Health Literacy",
+    "Food Insecurity",
+    "Confidentiality"
+  ],
+  "tags_custom": [
+    "Tele-nutrition in India",
+    "Low-tech healthcare",
+    "Caregiver challenges",
+    "Equity in digital health"
+  ],
+  "reference_quote": "WHO guideline: 'Digital interventions should be designed to ensure equitable access and address barriers such as literacy, connectivity, and privacy.' (Source: https://www.who.int/publications/i/item/9789241550505)",
+  "document_key_topics": [
+    "Equity in tele-nutrition services",
+    "Adapting care for low-tech and low-literacy settings",
+    "Addressing food insecurity and caregiver constraints",
+    "Ethical considerations in tele-nutrition"
+  ],
+  "chunk_heading": "DIGITAL TOOLS & TELE-NUTRITION;ETHICS, COMMUNICATION CHANNELS, AND EQUITY IN INDIAN TELE-NUTRITION;EQUITY, LANGUAGE, AND CAREGIVER CAPABILITY AS CLINICAL VARIABLES;",
+  "topic": "DIGITAL TOOLS & TELE-NUTRITION",
+  "subtopic": "ETHICS, COMMUNICATION CHANNELS, AND EQUITY IN INDIAN TELE-NUTRITION",
+  "sub_subtopic": "EQUITY, LANGUAGE, AND CAREGIVER CAPABILITY AS CLINICAL VARIABLES",
+  "heading_path": "DIGITAL TOOLS & TELE-NUTRITION;ETHICS, COMMUNICATION CHANNELS, AND EQUITY IN INDIAN TELE-NUTRITION;EQUITY, LANGUAGE, AND CAREGIVER CAPABILITY AS CLINICAL VARIABLES;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u009f6"
+}

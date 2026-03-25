@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Guidelines for feeding infants and young children under 2 years during acute diarrhea, emphasizing continued feeding, rehydration with ORS, zinc supplementation, and dehydration triage, with special considerations for malnutrition and recovery feeding.",
+  "learning_objectives": [
+    "Understand the importance of continuing breastfeeding and age-appropriate feeding during acute diarrhea.",
+    "Learn dehydration triage criteria and appropriate referral protocols for severe cases.",
+    "Apply zinc supplementation guidelines for infants and children with acute diarrhea.",
+    "Recognize special feeding considerations for malnourished children and post-recovery catch-up feeding."
+  ],
+  "key_facts": [
+    "Continue breastfeeding and offer small, frequent portions of complementary foods during diarrhea to prevent weight loss and wasting.",
+    "Prescribe zinc supplementation for 10\u201314 days: 10 mg/day for infants under 6 months and 20 mg/day for older infants and children.",
+    "Urgent referral is required for severe dehydration signs such as lethargy, sunken eyes, or minimal urine output.",
+    "For formula-fed infants with persistent high-volume diarrhea, consider lactose-free formula only if clinically significant lactose intolerance is suspected.",
+    "Malnourished children require specialized rehydration protocols and monitoring due to higher risks during hydration."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Diarrhea",
+    "Zinc",
+    "Oral Rehydration Solutions",
+    "Dehydration",
+    "Breastfeeding",
+    "Malnutrition",
+    "Complementary Feeding",
+    "Infant Nutrition"
+  ],
+  "tags_custom": [
+    "acute diarrhea management",
+    "feeding during illness",
+    "ORS and zinc supplementation",
+    "dehydration triage",
+    "malnutrition protocols"
+  ],
+  "reference_quote": "Zinc supplementation for diarrhea is recommended for 10\u201314 days with age-specific dosing: 10 mg/day for infants under 6 months and 20 mg/day for older infants and children. (WHO ELENA)",
+  "document_key_topics": [
+    "Feeding during acute diarrhea",
+    "Dehydration triage and referral protocols",
+    "Zinc supplementation guidelines",
+    "Special considerations for malnourished children"
+  ],
+  "chunk_heading": "INFANT & YOUNG CHILD FEEDING UNDER 2 YEARS;FEEDING DURING ILLNESS HOSPITALIZATION AND RECOVERY;FEEDING DURING ACUTE DIARRHEA WITH ORS  ZINC AND DEHYDRATION TRIAGE;",
+  "topic": "INFANT & YOUNG CHILD FEEDING UNDER 2 YEARS",
+  "subtopic": "FEEDING DURING ILLNESS HOSPITALIZATION AND RECOVERY",
+  "sub_subtopic": "FEEDING DURING ACUTE DIARRHEA WITH ORS  ZINC AND DEHYDRATION TRIAGE",
+  "heading_path": "INFANT & YOUNG CHILD FEEDING UNDER 2 YEARS;FEEDING DURING ILLNESS HOSPITALIZATION AND RECOVERY;FEEDING DURING ACUTE DIARRHEA WITH ORS  ZINC AND DEHYDRATION TRIAGE;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "4\u00811"
+}

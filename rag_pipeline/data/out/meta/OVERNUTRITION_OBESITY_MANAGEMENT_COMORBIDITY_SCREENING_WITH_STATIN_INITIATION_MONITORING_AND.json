@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Guidelines for statin initiation in adolescents with obesity-related dyslipidemia, including monitoring protocols, pregnancy precautions, and dose titration based on LDL response.",
+  "learning_objectives": [
+    "Understand the criteria for statin initiation in adolescents with persistent elevated LDL levels.",
+    "Learn the monitoring workflow for statin therapy, including lipid panels and liver function tests.",
+    "Recognize pregnancy contraindications and contraception counseling for adolescents on statins.",
+    "Familiarize with pediatric dosing guidelines for atorvastatin and rosuvastatin."
+  ],
+  "key_facts": [
+    "Statins are contraindicated in pregnancy; contraception planning must be documented for adolescents who could become pregnant.",
+    "Starting doses: atorvastatin 10 mg/day (range 10\u201320 mg/day) or rosuvastatin 5 mg/day (up to 20 mg/day).",
+    "Baseline tests: fasting lipid profile, ALT/AST, and optional CK for high-risk individuals (e.g., myopathy history).",
+    "Titrate statin doses every 4\u201312 weeks based on LDL response and tolerability.",
+    "Monitor for hepatotoxicity symptoms (e.g., jaundice, fatigue) and muscle symptoms (e.g., myalgia, dark urine)."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Obesity",
+    "Dyslipidemias",
+    "Hydroxymethylglutaryl-CoA Reductase Inhibitors",
+    "Pregnancy",
+    "Adolescent Medicine",
+    "Cardiovascular Diseases",
+    "Lipid Panel",
+    "Drug Monitoring"
+  ],
+  "tags_custom": [
+    "statin therapy in youth",
+    "pregnancy precautions",
+    "LDL management",
+    "obesity comorbidities",
+    "pediatric lipid guidelines"
+  ],
+  "reference_quote": "Statins are contraindicated in pregnancy; ensure contraception planning for adolescents who could become pregnant. (Source: Lipitor prescribing information)",
+  "document_key_topics": [
+    "Statin initiation and monitoring in adolescents",
+    "Pregnancy precautions for lipid-lowering therapy",
+    "Pediatric dosing guidelines for atorvastatin and rosuvastatin",
+    "LDL response and titration protocols"
+  ],
+  "chunk_heading": "OVERNUTRITION & OBESITY MANAGEMENT;COMORBIDITY SCREENING WITH ACTIONABLE PATHWAYS;STATIN INITIATION MONITORING AND PREGNANCY PRECAUTIONS IN ADOLESCENTS;",
+  "topic": "OVERNUTRITION & OBESITY MANAGEMENT",
+  "subtopic": "COMORBIDITY SCREENING WITH ACTIONABLE PATHWAYS",
+  "sub_subtopic": "STATIN INITIATION MONITORING AND PREGNANCY PRECAUTIONS IN ADOLESCENTS",
+  "heading_path": "OVERNUTRITION & OBESITY MANAGEMENT;COMORBIDITY SCREENING WITH ACTIONABLE PATHWAYS;STATIN INITIATION MONITORING AND PREGNANCY PRECAUTIONS IN ADOLESCENTS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1v8"
+}

@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section discusses oral supplements and enteral feeding escalation for children with feeding challenges, emphasizing safety, monitoring, and specific interventions like jejunal feeding, blenderized diets, and thickened feeds for dysphagia.",
+  "learning_objectives": [
+    "Understand the role of oral supplements as a bridging strategy to meet energy and protein needs in children.",
+    "Identify indications for NG, gastrostomy, and jejunal feeding, and their safety implications.",
+    "Evaluate the safety and protocols for blenderized tube feeds and thickened feeds in specific populations.",
+    "Recognize the importance of monitoring weight trends and nutritional outcomes after feeding interventions."
+  ],
+  "key_facts": [
+    "Oral supplements are used as a time-limited bridge to close calorie or protein gaps, with defined goals like restoring weight velocity or avoiding hospitalization.",
+    "Jejunal feeding is indicated for intolerance, aspiration risk, or severe reflux and requires multidisciplinary decision-making.",
+    "Blenderized tube feeds require strict hygiene, nutrient standardization, and handling protocols, especially in hot climates to prevent bacterial growth.",
+    "Xanthan gum thickeners are associated with necrotizing enterocolitis in preterm infants (<37 weeks gestation), requiring specialist oversight for use in this population.",
+    "Weight trends should be monitored at 2 weeks post-initiation of feeding changes, then monthly until stable, with earlier reviews for medically fragile children."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Enteral Nutrition",
+    "Nutritional Support",
+    "Feeding Behavior",
+    "Dysphagia",
+    "Gastrostomy",
+    "Jejunostomy",
+    "Infant Nutrition Disorders",
+    "Necrotizing Enterocolitis"
+  ],
+  "tags_custom": [
+    "oral supplements",
+    "blenderized diets",
+    "feeding safety",
+    "thickened feeds",
+    "jejunal feeding"
+  ],
+  "reference_quote": "Safety communications have reported an association between xanthan gum thickeners and necrotizing enterocolitis in infants born before 37 weeks\u2019 gestation.",
+  "document_key_topics": [
+    "Oral nutritional supplements for children with feeding challenges",
+    "Escalation to NG, gastrostomy, or jejunal feeding",
+    "Safety and protocols for blenderized tube feeds",
+    "Thickened feeds and associated risks in preterm infants"
+  ],
+  "chunk_heading": "THERAPEUTIC DIETS & SPECIAL INTERVENTIONS;ORAL SUPPLEMENTS AND ENTERAL TUBE FEEDING ESCALATION WITH SAFETY MONITORING;",
+  "topic": "THERAPEUTIC DIETS & SPECIAL INTERVENTIONS",
+  "subtopic": "ORAL SUPPLEMENTS AND ENTERAL TUBE FEEDING ESCALATION WITH SAFETY MONITORING",
+  "sub_subtopic": null,
+  "heading_path": "THERAPEUTIC DIETS & SPECIAL INTERVENTIONS;ORAL SUPPLEMENTS AND ENTERAL TUBE FEEDING ESCALATION WITH SAFETY MONITORING;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1g"
+}

@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "Breast abscesses in lactating women require prompt diagnosis (ultrasound) and treatment (drainage and antibiotics) while maintaining lactation. Breastfeeding or milk expression should continue to prevent milk stasis and recurrence.",
+  "learning_objectives": [
+    "Understand the diagnostic criteria and tools for identifying breast abscesses in lactating women.",
+    "Learn the treatment options, including ultrasound-guided aspiration and surgical drainage, and their indications.",
+    "Recognize the importance of maintaining lactation during treatment to prevent milk stasis and recurrence.",
+    "Identify risk factors for recurrent abscesses and strategies for prevention."
+  ],
+  "key_facts": [
+    "Breast abscess should be suspected if mastitis does not improve within 48 hours of therapy or if a tender, fluctuant mass is present.",
+    "Ultrasound is the preferred diagnostic tool for differentiating abscess from phlegmon and guiding drainage.",
+    "Ultrasound-guided needle aspiration is effective and less disruptive than surgical drainage, which is reserved for large, multiloculated, or recurrent abscesses.",
+    "Breastfeeding should continue from the unaffected breast and, if possible, from the affected breast; expressed milk is usually safe unless contaminated with pus.",
+    "Recurrent abscesses warrant screening for underlying conditions like diabetes or latch issues."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Breast Abscess",
+    "Lactation",
+    "Mastitis",
+    "Ultrasound-Guided Aspiration",
+    "Milk Stasis",
+    "Breastfeeding",
+    "Antibiotic Therapy",
+    "Surgical Drainage"
+  ],
+  "tags_custom": [
+    "breastfeeding complications",
+    "lactation management",
+    "abscess drainage",
+    "recurrent mastitis"
+  ],
+  "reference_quote": "\"Ultrasound-guided needle aspiration (often repeated) is effective for many lactational abscesses and is less disruptive than incision and drainage.\" (ABM Clinical Protocol #36)",
+  "document_key_topics": [
+    "Diagnosis of breast abscess in lactating women",
+    "Treatment options: needle aspiration vs. surgical drainage",
+    "Maintaining lactation during abscess management",
+    "Prevention and management of recurrent abscesses"
+  ],
+  "chunk_heading": "BREASTFEEDING & LACTATION MANAGEMENT;BREAST ABSCESS DIAGNOSIS AND DRAINAGE WHILE MAINTAINING LACTATION;",
+  "topic": "BREASTFEEDING & LACTATION MANAGEMENT",
+  "subtopic": "BREAST ABSCESS DIAGNOSIS AND DRAINAGE WHILE MAINTAINING LACTATION",
+  "sub_subtopic": null,
+  "heading_path": "BREASTFEEDING & LACTATION MANAGEMENT;BREAST ABSCESS DIAGNOSIS AND DRAINAGE WHILE MAINTAINING LACTATION;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1u"
+}

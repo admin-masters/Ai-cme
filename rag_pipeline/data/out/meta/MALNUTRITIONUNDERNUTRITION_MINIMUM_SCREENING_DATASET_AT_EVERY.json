@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Defines a minimum screening dataset for undernutrition in under-five children, emphasizing age, weight, oedema, MUAC, and height/length for accurate classification and action planning during health contacts.",
+  "learning_objectives": [
+    "Understand the components of the minimum screening dataset for undernutrition in under-five children.",
+    "Learn the importance of MUAC, oedema checks, and z-scores in identifying undernutrition.",
+    "Recognize the need for immediate classification and follow-up actions based on screening results.",
+    "Identify challenges in interpreting dehydration signs in severely wasted or oedematous children."
+  ],
+  "key_facts": [
+    "Screening must include age, weight, oedema check (both feet, pitting), and MUAC for children 6\u201359 months.",
+    "MUAC <125 mm or any z-score < -2 SD indicates undernutrition and requires immediate action.",
+    "Length/height is essential for interpreting WHZ/WLZ and HAZ; weight-for-age alone can miss severe wasting.",
+    "During OPD sick visits, the triage set includes weight, MUAC, and oedema check, with height/length added when feasible.",
+    "Structured clinical assessment is critical in severe wasting or oedema to avoid misinterpreting dehydration signs."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Malnutrition",
+    "Undernutrition",
+    "Growth Monitoring",
+    "Mid-Upper Arm Circumference",
+    "Edema",
+    "Child, Preschool",
+    "Anthropometry",
+    "Dehydration"
+  ],
+  "tags_custom": [
+    "Screening workflow",
+    "Severe acute malnutrition",
+    "Pediatric health",
+    "Growth assessment",
+    "Clinical decision-making"
+  ],
+  "reference_quote": "\u2018Measure MUAC in children 6\u201359 months at every contact and repeat the reading twice when the first value is abnormal or technique was suboptimal.\u2019 (IMNCI Participants Module for Medical Officers, 2023)",
+  "document_key_topics": [
+    "Minimum screening dataset for undernutrition",
+    "MUAC and oedema checks in under-five children",
+    "Action planning based on screening results",
+    "Challenges in interpreting dehydration in severe wasting"
+  ],
+  "chunk_heading": "MALNUTRITION\u2014UNDERNUTRITION: SCREENING & CLASSIFICATION;MINIMUM SCREENING DATASET AT EVERY UNDER-FIVE HEALTH CONTACT;",
+  "topic": "MALNUTRITION\u2014UNDERNUTRITION: SCREENING & CLASSIFICATION",
+  "subtopic": "MINIMUM SCREENING DATASET AT EVERY UNDER-FIVE HEALTH CONTACT",
+  "sub_subtopic": null,
+  "heading_path": "MALNUTRITION\u2014UNDERNUTRITION: SCREENING & CLASSIFICATION;MINIMUM SCREENING DATASET AT EVERY UNDER-FIVE HEALTH CONTACT;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1e"
+}

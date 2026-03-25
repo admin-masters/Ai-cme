@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section focuses on algorithms for managing shock and dehydration in children with severe acute malnutrition (SAM), emphasizing fluid and blood management protocols based on WHO and national guidelines.",
+  "learning_objectives": [
+    "Understand the decision-making process for rehydration in children with SAM and dehydration.",
+    "Learn the specific fluid management protocols for shock in SAM cases.",
+    "Identify key differences in rehydration strategies for malnourished versus non-malnourished children.",
+    "Review evidence-based guidelines from WHO and national health authorities."
+  ],
+  "key_facts": [
+    "Children with SAM are at higher risk of fluid overload; rehydration must be carefully monitored.",
+    "WHO recommends using oral rehydration solutions (ORS) with reduced osmolarity for SAM cases.",
+    "Shock in SAM requires immediate intravenous fluids, typically 10-15 ml/kg over 1 hour, followed by reassessment.",
+    "Dehydration in SAM should be treated cautiously to avoid complications like heart failure.",
+    "National guidelines emphasize facility-based management for SAM cases with severe dehydration or shock."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Severe Acute Malnutrition",
+    "Dehydration",
+    "Shock",
+    "Fluid Therapy",
+    "Rehydration Solutions",
+    "Child Nutrition Disorders",
+    "Guideline Adherence",
+    "Pediatric Emergency Care"
+  ],
+  "tags_custom": [
+    "SAM management",
+    "rehydration algorithms",
+    "shock treatment",
+    "fluid protocols",
+    "pediatric malnutrition"
+  ],
+  "reference_quote": "WHO recommends using oral rehydration solutions with reduced osmolarity for children with severe acute malnutrition to prevent complications such as fluid overload and heart failure.",
+  "document_key_topics": [
+    "Shock management in SAM",
+    "Dehydration rehydration protocols",
+    "Fluid therapy guidelines for malnourished children",
+    "Evidence-based practices for SAM treatment"
+  ],
+  "chunk_heading": "SEVERE ACUTE MALNUTRITION (SAM) MANAGEMENT;FLUID AND BLOOD MANAGEMENT IN SAM;SHOCK AND DEHYDRATION REHYDRATION DECISION ALGORITHMS;",
+  "topic": "SEVERE ACUTE MALNUTRITION (SAM) MANAGEMENT",
+  "subtopic": "FLUID AND BLOOD MANAGEMENT IN SAM",
+  "sub_subtopic": "SHOCK AND DEHYDRATION REHYDRATION DECISION ALGORITHMS",
+  "heading_path": "SEVERE ACUTE MALNUTRITION (SAM) MANAGEMENT;FLUID AND BLOOD MANAGEMENT IN SAM;SHOCK AND DEHYDRATION REHYDRATION DECISION ALGORITHMS;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1n1.2"
+}

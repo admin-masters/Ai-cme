@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Micronutrient deficiency mechanisms in pediatrics involve low intake, increased requirements, and excess loss, requiring phenotype-first testing and age-aligned prophylaxis strategies to prevent missed diagnoses and double dosing.",
+  "learning_objectives": [
+    "Understand the three primary mechanisms of micronutrient deficiency: low intake, increased requirements, and excess loss.",
+    "Learn how to apply phenotype-first testing strategies using high-yield markers like ferritin and bone profiles.",
+    "Recognize the importance of age-banded and program-aligned prophylaxis to prevent omission or double dosing.",
+    "Identify co-occurring deficiency syndromes and avoid single-nutrient diagnostic approaches."
+  ],
+  "key_facts": [
+    "Low bioavailability diets, such as cereal-phytate-heavy diets, reduce absorption of iron and zinc.",
+    "Rapid growth phases (infancy, adolescence) and recovery from illness increase micronutrient requirements beyond typical dietary supply.",
+    "Chronic diarrhea, malabsorption conditions (e.g., celiac disease, IBD), and parasitic infections impair absorption or increase nutrient loss.",
+    "Ferritin testing should account for inflammation to improve diagnostic accuracy.",
+    "Prophylaxis strategies must align with age and national programs to avoid double dosing from therapeutic foods or tonics.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Micronutrients",
+    "Iron Deficiency",
+    "Zinc Deficiency",
+    "Vitamin D Deficiency",
+    "Malabsorption Syndromes",
+    "Pediatrics",
+    "Dietary Supplements",
+    "Growth and Development"
+  ],
+  "tags_custom": [
+    "micronutrient mechanisms",
+    "pediatric nutrition",
+    "deficiency syndromes",
+    "testing strategies",
+    "prophylaxis planning"
+  ],
+  "reference_quote": "Ferritin concentrations for the assessment of iron status should consider inflammation markers to improve diagnostic accuracy. (Source: WHO ELENA, Reference 2)",
+  "document_key_topics": [
+    "Mechanisms of micronutrient deficiency in pediatrics",
+    "Phenotype-first testing strategies for micronutrient deficiencies",
+    "Age-banded and program-aligned prophylaxis approaches"
+  ],
+  "chunk_heading": "MICRONUTRIENT NUTRITION;CONCEPTUAL MODEL OF MICRONUTRIENT DEFICIENCY MECHANISMS;",
+  "topic": "MICRONUTRIENT NUTRITION",
+  "subtopic": "CONCEPTUAL MODEL OF MICRONUTRIENT DEFICIENCY MECHANISMS",
+  "sub_subtopic": null,
+  "heading_path": "MICRONUTRIENT NUTRITION;CONCEPTUAL MODEL OF MICRONUTRIENT DEFICIENCY MECHANISMS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1a"
+}

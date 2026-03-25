@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Guideline-based triage, thresholds, and referrals for feeding difficulties and faltering growth, with primary sources for defensible clinical decisions.",
+  "learning_objectives": [
+    "Understand the use of IMNCI materials for early infant feeding assessment and triage in India.",
+    "Apply NICE NG75 guidelines for monitoring faltering growth using centile/Z score logic and referral triggers.",
+    "Incorporate AAP and IAP guidelines for nutritional rehabilitation and outpatient management of common medical amplifiers.",
+    "Utilize the 2019 PFD consensus framework for domain-based documentation and referrals."
+  ],
+  "key_facts": [
+    "IMNCI materials under NHM operationalize danger signs, dehydration logic, and breastfeeding assessment for early triage in India.",
+    "NICE NG75 defines faltering growth using centile/Z scores and lists referral triggers, including safeguarding concerns.",
+    "AAP guidelines emphasize catch-up energy calculations and discourage broad lab panels in well children without clinical clues.",
+    "IAP guidelines provide dosing and escalation steps for conditions like anemia, reflux, and UTI in India.",
+    "The 2019 PFD framework mandates documentation across medical, nutritional, feeding-skill, and psychosocial domains."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Feeding and Eating Disorders of Childhood",
+    "Growth Disorders",
+    "Nutritional Status",
+    "Infant Nutrition Disorders",
+    "Referral and Consultation",
+    "Guideline Adherence",
+    "Pediatrics",
+    "Malnutrition"
+  ],
+  "tags_custom": [
+    "Feeding difficulties",
+    "Faltering growth",
+    "Clinical guidelines",
+    "Pediatric nutrition",
+    "Referral thresholds"
+  ],
+  "reference_quote": "For defining and monitoring faltering growth as a trajectory problem, NICE ##NG75## provides clear centile/Z score logic, supports food and mealtime diaries, and lists referral triggers including safeguarding concerns and failure to respond to structured primary-care intervention.",
+  "document_key_topics": [
+    "Triage and early feeding assessment",
+    "Faltering growth monitoring and referral",
+    "Nutritional rehabilitation and outpatient management",
+    "Domain-based documentation for persistent feeding problems"
+  ],
+  "chunk_heading": "FEEDING DIFFICULTIES & FALTERING GROWTH;GUIDELINE ANCHORS FOR TRIAGE, THRESHOLDS, INVESTIGATIONS, AND REFERRAL DECISIONS;PRIMARY SOURCES FOR EACH DECISION POINT;",
+  "topic": "FEEDING DIFFICULTIES & FALTERING GROWTH",
+  "subtopic": "GUIDELINE ANCHORS FOR TRIAGE, THRESHOLDS, INVESTIGATIONS, AND REFERRAL DECISIONS",
+  "sub_subtopic": "PRIMARY SOURCES FOR EACH DECISION POINT",
+  "heading_path": "FEEDING DIFFICULTIES & FALTERING GROWTH;GUIDELINE ANCHORS FOR TRIAGE, THRESHOLDS, INVESTIGATIONS, AND REFERRAL DECISIONS;PRIMARY SOURCES FOR EACH DECISION POINT;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "4\u00934"
+}

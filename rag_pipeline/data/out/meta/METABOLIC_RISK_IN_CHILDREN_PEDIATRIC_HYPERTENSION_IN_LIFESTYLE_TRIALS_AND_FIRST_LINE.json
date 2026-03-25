@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "This section discusses lifestyle interventions and antihypertensive medication dosing for pediatric hypertension in metabolic risk clinics, emphasizing structured timelines, diagnostic evaluations, and comorbidity-driven medication choices.",
+  "learning_objectives": [
+    "Understand the role of lifestyle interventions in managing pediatric hypertension.",
+    "Learn diagnostic timelines for elevated BP and stage 1 and 2 hypertension in children.",
+    "Identify first-line antihypertensive medications and their dosing for obesity-associated hypertension.",
+    "Recognize comorbidity-driven medication choices, such as ACE inhibitors for albuminuria or diabetes."
+  ],
+  "key_facts": [
+    "Lifestyle therapy is first-line for elevated BP and uncomplicated stage 1 hypertension, with rechecks at 6 and 12 months.",
+    "Stage 2 hypertension requires repeat evaluation or referral within 1 week; symptomatic cases or pressures >30 mmHg above the 95th percentile need urgent care.",
+    "First-line oral antihypertensives include ACE inhibitors, ARBs, calcium channel blockers, and thiazide diuretics, with dosing tailored to age and comorbidities.",
+    "Enalapril dosing: start at 0.08 mg/kg/day (max 5 mg/day) and titrate up to 0.6 mg/kg/day (max 40 mg/day).",
+    "Lisinopril dosing: start at 0.07 mg/kg/day (max 5 mg/day) and titrate up to 0.6 mg/kg/day (max 40 mg/day).",
+    "Losartan dosing: start at 0.7 mg/kg (max 50 mg) and titrate up to 1.4 mg/kg (max 100 mg) daily."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Hypertension",
+    "Pediatrics",
+    "Metabolic Syndrome",
+    "Lifestyle",
+    "Antihypertensive Agents",
+    "Obesity",
+    "Chronic Kidney Disease",
+    "Diabetes Mellitus"
+  ],
+  "tags_custom": [
+    "pediatric hypertension",
+    "antihypertensive dosing",
+    "lifestyle interventions",
+    "metabolic risk clinics",
+    "comorbidity management"
+  ],
+  "reference_quote": "Start medication when hypertension persists despite lifestyle, when hypertension is symptomatic, when stage 2 is present without a clearly modifiable factor, or when any stage of hypertension is present with diabetes or CKD. (American Academy of Pediatrics, 2017)",
+  "document_key_topics": [
+    "Lifestyle interventions for pediatric hypertension",
+    "Diagnostic timelines for elevated BP and hypertension stages",
+    "First-line antihypertensive medication dosing",
+    "Comorbidity-driven treatment strategies"
+  ],
+  "chunk_heading": "METABOLIC RISK IN CHILDREN;PEDIATRIC HYPERTENSION IN METABOLIC RISK CLINICS;LIFESTYLE TRIALS AND FIRST LINE ANTIHYPERTENSIVE DOSING;",
+  "topic": "METABOLIC RISK IN CHILDREN",
+  "subtopic": "PEDIATRIC HYPERTENSION IN METABOLIC RISK CLINICS",
+  "sub_subtopic": "LIFESTYLE TRIALS AND FIRST LINE ANTIHYPERTENSIVE DOSING",
+  "heading_path": "METABOLIC RISK IN CHILDREN;PEDIATRIC HYPERTENSION IN METABOLIC RISK CLINICS;LIFESTYLE TRIALS AND FIRST LINE ANTIHYPERTENSIVE DOSING;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1t3"
+}

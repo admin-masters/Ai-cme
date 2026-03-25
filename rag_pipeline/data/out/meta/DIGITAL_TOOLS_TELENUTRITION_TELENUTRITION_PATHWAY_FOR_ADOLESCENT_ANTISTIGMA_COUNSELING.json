@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section outlines tele-nutrition strategies for adolescent anti-stigma counseling and eating disorder risk screening in India, emphasizing confidentiality, consent, and urgent referral protocols for high-risk cases.",
+  "learning_objectives": [
+    "Understand the importance of confidentiality and consent in adolescent tele-nutrition pathways.",
+    "Learn to screen for eating disorder risk using the SCOFF questionnaire and interpret results.",
+    "Identify urgent referral triggers for adolescents with severe eating disorder symptoms.",
+    "Explore the role of child data protection norms in tele-nutrition practices."
+  ],
+  "key_facts": [
+    "Indian telemedicine guidelines require parental/legal guardian consent for minors (<18 years).",
+    "The SCOFF questionnaire is a validated five-item screen; a score \u22652 indicates potential eating disorder risk.",
+    "Urgent referral triggers include syncope, rapid weight loss, purging behaviors, bradycardia, severe anxiety/depression, or suicidal ideation.",
+    "Child data protection norms prohibit tracking, behavioral monitoring, and targeted advertising directed at minors.",
+    "Tele weight-management tools can inadvertently encourage restrictive behaviors in adolescents."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Telemedicine",
+    "Adolescent Health",
+    "Eating Disorders",
+    "Obesity",
+    "Risk Assessment",
+    "Counseling",
+    "Confidentiality",
+    "India"
+  ],
+  "tags_custom": [
+    "tele-nutrition",
+    "anti-stigma counseling",
+    "SCOFF screening",
+    "child data protection",
+    "urgent referral protocols"
+  ],
+  "reference_quote": "The SCOFF questionnaire is a validated five-item screen; a score \u22652 should trigger further evaluation. (BMJ)",
+  "document_key_topics": [
+    "Adolescent confidentiality in tele-nutrition",
+    "Eating disorder risk screening using SCOFF",
+    "Urgent referral protocols for high-risk cases",
+    "Child data protection in telemedicine"
+  ],
+  "chunk_heading": "DIGITAL TOOLS & TELE-NUTRITION;TELE-NUTRITION PATHWAY FOR PEDIATRIC OBESITY AND METABOLIC RISK IN INDIA;ADOLESCENT ANTI-STIGMA COUNSELING AND EATING DISORDER RISK SCREENING;",
+  "topic": "DIGITAL TOOLS & TELE-NUTRITION",
+  "subtopic": "TELE-NUTRITION PATHWAY FOR PEDIATRIC OBESITY AND METABOLIC RISK IN INDIA",
+  "sub_subtopic": "ADOLESCENT ANTI-STIGMA COUNSELING AND EATING DISORDER RISK SCREENING",
+  "heading_path": "DIGITAL TOOLS & TELE-NUTRITION;TELE-NUTRITION PATHWAY FOR PEDIATRIC OBESITY AND METABOLIC RISK IN INDIA;ADOLESCENT ANTI-STIGMA COUNSELING AND EATING DISORDER RISK SCREENING;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u00813"
+}

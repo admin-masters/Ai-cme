@@ -1,0 +1,47 @@
+{
+  "chunk_summary": "This section discusses the management of enteral failure due to oncology mucositis in high-risk pediatric patients, emphasizing timely parenteral nutrition as a rescue strategy and referencing key guidelines for infection prevention and nutrition support.",
+  "learning_objectives": [
+    "Understand the role of parenteral nutrition in managing enteral failure caused by oncology mucositis in pediatric patients.",
+    "Identify the timing and indications for initiating parenteral nutrition in critically ill children.",
+    "Review guidelines for preventing catheter-related infections during parenteral nutrition.",
+    "Analyze the outcomes of early versus late parenteral nutrition in pediatric critical care."
+  ],
+  "key_facts": [
+    "Oncology mucositis can lead to enteral failure, necessitating parenteral nutrition as a rescue intervention.",
+    "ASPEN/SCCM 2017 guidelines recommend timely initiation of parenteral nutrition in pediatric critically ill patients when enteral nutrition is not feasible.",
+    "The PEPaNIC trial highlights potential complications of early versus late parenteral nutrition in critically ill children.",
+    "The CDC provides guidelines to prevent intravascular catheter-related infections, a key risk during parenteral nutrition.",
+    "Parenteral nutrition should be carefully monitored to avoid complications such as bloodstream infections and metabolic disturbances."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Parenteral Nutrition",
+    "Enteral Nutrition",
+    "Mucositis",
+    "Pediatrics",
+    "Critical Care",
+    "Catheter-Related Infections",
+    "Oncology",
+    "Nutritional Support"
+  ],
+  "tags_custom": [
+    "pediatric oncology nutrition",
+    "parenteral rescue therapy",
+    "enteral failure management",
+    "infection prevention"
+  ],
+  "reference_quote": "\"Guidelines for the provision and assessment of nutrition support therapy in the pediatric critically ill patient (ASPEN/SCCM 2017) emphasize the importance of timely parenteral nutrition in cases of enteral failure.\"",
+  "document_key_topics": [
+    "Oncology mucositis and enteral failure",
+    "Parenteral nutrition in pediatric critical care",
+    "Infection prevention during parenteral nutrition"
+  ],
+  "chunk_heading": "ENTERAL & PARENTERAL NUTRITION;DISEASE-SPECIFIC MODIFICATIONS IN HIGH-RISK PEDIATRIC CONDITIONS;ONCOLOGY MUCOSITIS ENTERAL FAILURE AND TIMELY PARENTERAL RESCUE;",
+  "topic": "ENTERAL & PARENTERAL NUTRITION",
+  "subtopic": "DISEASE-SPECIFIC MODIFICATIONS IN HIGH-RISK PEDIATRIC CONDITIONS",
+  "sub_subtopic": "ONCOLOGY MUCOSITIS ENTERAL FAILURE AND TIMELY PARENTERAL RESCUE",
+  "heading_path": "ENTERAL & PARENTERAL NUTRITION;DISEASE-SPECIFIC MODIFICATIONS IN HIGH-RISK PEDIATRIC CONDITIONS;ONCOLOGY MUCOSITIS ENTERAL FAILURE AND TIMELY PARENTERAL RESCUE;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2\u00963"
+}

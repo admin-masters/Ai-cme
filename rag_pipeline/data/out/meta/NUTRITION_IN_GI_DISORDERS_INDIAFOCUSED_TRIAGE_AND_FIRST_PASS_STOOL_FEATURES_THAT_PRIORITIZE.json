@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "This section discusses stool features as diagnostic tools for identifying carbohydrate, fat, and inflammatory malabsorption mechanisms in GI disorders, with a focus on India-specific triage and assessment strategies.",
+  "learning_objectives": [
+    "Understand stool characteristics indicative of carbohydrate, fat, and inflammatory malabsorption.",
+    "Learn diagnostic approaches for malabsorption mechanisms, including stool pH, reducing substances, and osmotic gap.",
+    "Recognize red flags for inflammatory pathology and differentiate between IBD, infections, and intestinal TB in Indian settings."
+  ],
+  "key_facts": [
+    "Acidic watery stools with perianal excoriation and explosive output suggest carbohydrate malabsorption, often due to lactase deficiency post-infection or mucosal injury.",
+    "Low stool pH and reducing substances can support carbohydrate malabsorption diagnosis, but interpretation should consider growth and diet history.",
+    "Greasy, bulky, foul-smelling stools indicate fat malabsorption, often linked to pancreatic exocrine insufficiency, bile acid malabsorption, or mucosal disease.",
+    "Watery diarrhea improving with fasting suggests osmotic mechanisms, while persistence during fasting or nocturnal stooling indicates secretory mechanisms.",
+    "Blood/mucus in stool, fever, weight loss, anemia, and hypoalbuminemia suggest inflammatory pathology requiring differentiation among IBD, infections, and intestinal TB.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Gastrointestinal Diseases",
+    "Malabsorption Syndromes",
+    "Diarrhea",
+    "Carbohydrate Metabolism",
+    "Fat Malabsorption",
+    "Inflammatory Bowel Diseases",
+    "Lactase Deficiency",
+    "Intestinal Tuberculosis"
+  ],
+  "tags_custom": [
+    "stool analysis",
+    "India-specific guidelines",
+    "malabsorption mechanisms",
+    "nutritional assessment"
+  ],
+  "reference_quote": "Acidic watery stools with perianal excoriation and 'explosive' output suggest carbohydrate malabsorption, most often secondary lactase deficiency after infection or mucosal injury. (IAP Standard Treatment Guidelines: Persistent diarrhea, Chapter 030)",
+  "document_key_topics": [
+    "Stool features in malabsorption diagnosis",
+    "Carbohydrate malabsorption mechanisms",
+    "Fat malabsorption indicators",
+    "Inflammatory pathology differentiation in India"
+  ],
+  "chunk_heading": "NUTRITION IN GI DISORDERS & MALABSORPTION;INDIA-FOCUSED TRIAGE AND FIRST- PASS ASSESSMENT;STOOL FEATURES THAT PRIORITIZE CARBOHYDRATE FAT AND INFLAMMATORY MECHANISMS;",
+  "topic": "NUTRITION IN GI DISORDERS & MALABSORPTION",
+  "subtopic": "INDIA-FOCUSED TRIAGE AND FIRST- PASS ASSESSMENT",
+  "sub_subtopic": "STOOL FEATURES THAT PRIORITIZE CARBOHYDRATE FAT AND INFLAMMATORY MECHANISMS",
+  "heading_path": "NUTRITION IN GI DISORDERS & MALABSORPTION;INDIA-FOCUSED TRIAGE AND FIRST- PASS ASSESSMENT;STOOL FEATURES THAT PRIORITIZE CARBOHYDRATE FAT AND INFLAMMATORY MECHANISMS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2g3"
+}

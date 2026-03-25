@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "Guidance on translating instrumental swallow test findings (VFSS/FEES) into actionable feeding prescriptions for neurodisabled patients, emphasizing safety, hydration, and participation.",
+  "learning_objectives": [
+    "Understand how to interpret VFSS and FEES findings to create effective feeding prescriptions.",
+    "Learn to apply the Penetration-Aspiration Scale (PAS) for standardizing aspiration severity.",
+    "Identify key components of a report-to-prescription template for feeding support in neurodisability.",
+    "Recognize when repeat instrumental swallow testing is clinically justified."
+  ],
+  "key_facts": [
+    "Pre-swallow aspiration often indicates poor oral control with premature spillage, commonly triggered by thin liquids.",
+    "Post-swallow aspiration is linked to residue spillover (vallecular or pyriform) and worsens with fatigue.",
+    "Prescriptions should specify IDDSI levels for liquids/solids, bolus volume, posture, pacing, and supervision requirements.",
+    "Fatigue testing is critical in neurodisability; emerging aspiration after repeated swallows necessitates time limits and breaks.",
+    "Repeat testing is justified only for major neurologic recovery, respiratory decline, or tube removal decisions.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Deglutition Disorders",
+    "Neurodevelopmental Disorders",
+    "Videofluoroscopic Swallowing Study",
+    "Flexible Endoscopic Evaluation of Swallowing",
+    "Penetration-Aspiration Scale",
+    "Cerebral Palsy",
+    "Enteral Nutrition",
+    "Hydration"
+  ],
+  "tags_custom": [
+    "feeding prescriptions",
+    "swallowing safety",
+    "neurodisability care",
+    "instrumental swallow tests",
+    "fatigue testing"
+  ],
+  "reference_quote": "Use the PAS to standardize severity and identify silent aspiration risk, but base decisions on the child\u2019s overall physiology and response to strategies. (Source: https://pubmed.ncbi.nlm.nih.gov/8721066/)",
+  "document_key_topics": [
+    "Instrumental swallow test interpretation",
+    "Feeding prescription development",
+    "Aspiration risk management",
+    "Neurodisability-specific feeding strategies"
+  ],
+  "chunk_heading": "NEURODISABILITY & FEEDING SUPPORT;INSTRUMENTAL SWALLOW TEST REPORT TO PRESCRIPTION MAPPING;",
+  "topic": "NEURODISABILITY & FEEDING SUPPORT",
+  "subtopic": "INSTRUMENTAL SWALLOW TEST REPORT TO PRESCRIPTION MAPPING",
+  "sub_subtopic": null,
+  "heading_path": "NEURODISABILITY & FEEDING SUPPORT;INSTRUMENTAL SWALLOW TEST REPORT TO PRESCRIPTION MAPPING;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "1m"
+}

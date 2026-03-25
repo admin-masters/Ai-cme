@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "Defines stunting, wasting, oedema, and underweight in undernutrition screening and classification, emphasizing anthropometric measures, clinical syndromes, and operational indices for risk stratification and care planning.",
+  "learning_objectives": [
+    "Understand the definitions and diagnostic criteria for stunting, wasting, oedema, and underweight in undernutrition.",
+    "Learn the anthropometric indices used for screening acute and chronic malnutrition in children under 5 years and older age groups.",
+    "Recognize the importance of MUAC and BMI-for-age z-scores in triaging malnutrition risk.",
+    "Differentiate between acute and chronic malnutrition for appropriate care planning."
+  ],
+  "key_facts": [
+    "Wasting is defined as WHZ or WLZ < -2 SD, with severe wasting < -3 SD.",
+    "Stunting is defined as HAZ < -2 SD, with severe stunting < -3 SD.",
+    "Nutritional oedema is bilateral pitting oedema starting in the feet and is treated as a severe acute malnutrition criterion.",
+    "Underweight is defined as WAZ < -2 SD but should not be used alone for acute risk triage.",
+    "MUAC <115 mm is a validated cut-off for acute malnutrition in children aged 6\u201359 months.",
+    "BMI-for-age z-scores (BAZ) are used for assessing acute undernutrition in older children and adolescents."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Malnutrition",
+    "Undernutrition",
+    "Stunting",
+    "Wasting",
+    "Edema",
+    "Body Mass Index",
+    "Anthropometry",
+    "Child Nutrition Disorders"
+  ],
+  "tags_custom": [
+    "acute malnutrition",
+    "screening indices",
+    "growth failure",
+    "risk stratification",
+    "nutritional assessment"
+  ],
+  "reference_quote": "Wasting is defined as WHZ or WLZ < -2 SD, with severe wasting < -3 SD. Stunting is defined as HAZ < -2 SD, with severe stunting < -3 SD. Nutritional oedema is bilateral pitting oedema starting in the feet and upgrades severity regardless of weight appearance.",
+  "document_key_topics": [
+    "Definitions of stunting, wasting, oedema, and underweight",
+    "Anthropometric indices for malnutrition screening",
+    "Operational guidelines for triaging acute malnutrition risk",
+    "Etiologic and longitudinal care planning for malnutrition"
+  ],
+  "chunk_heading": "MALNUTRITION\u2014UNDERNUTRITION: SCREENING & CLASSIFICATION;DEFINITIONS OF STUNTING WASTING OEDEMA AND UNDERWEIGHT;",
+  "topic": "MALNUTRITION\u2014UNDERNUTRITION: SCREENING & CLASSIFICATION",
+  "subtopic": "DEFINITIONS OF STUNTING WASTING OEDEMA AND UNDERWEIGHT",
+  "sub_subtopic": null,
+  "heading_path": "MALNUTRITION\u2014UNDERNUTRITION: SCREENING & CLASSIFICATION;DEFINITIONS OF STUNTING WASTING OEDEMA AND UNDERWEIGHT;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1a"
+}

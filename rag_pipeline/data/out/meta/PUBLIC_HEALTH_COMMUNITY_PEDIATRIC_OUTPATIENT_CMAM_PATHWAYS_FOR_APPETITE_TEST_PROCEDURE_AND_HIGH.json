@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "The appetite test determines outpatient care eligibility for uncomplicated wasting, emphasizing locally available foods and specific protocols for high-risk subgroups like infants under 6 months and HIV-affected children.",
+  "learning_objectives": [
+    "Understand the appetite test procedure and its role in outpatient CMAM pathways for uncomplicated wasting.",
+    "Learn weight-based food quantities and criteria for passing or failing the appetite test.",
+    "Identify high-risk subgroups requiring modified decision-making, such as infants under 6 months and HIV-affected children.",
+    "Recognize the importance of using locally available foods in therapeutic nutrition plans."
+  ],
+  "key_facts": [
+    "The appetite test is a key decision point between outpatient care and facility admission for wasting.",
+    "Weight-based test amounts: under 5 kg = 15 g, 5-9.9 kg = 30 g, 10 kg or more = 45 g.",
+    "Passing the test requires consuming about three-fourths of the offered food within one hour.",
+    "Infants under 6 months with severe wasting are referred for breastfeeding support or expressed breast milk feeding.",
+    "India\u2019s CMAM protocol emphasizes locally available foods over universal ready-to-use therapeutic foods (RUTF).",
+    "HIV-exposed or infected children require modified decision-making due to unique risks."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Malnutrition",
+    "Pediatric Nutrition",
+    "Community Health Services",
+    "Appetite",
+    "Nutritional Support",
+    "HIV Infections",
+    "Breastfeeding",
+    "Therapeutic Foods"
+  ],
+  "tags_custom": [
+    "Appetite test",
+    "CMAM protocol",
+    "High-risk subgroups",
+    "Outpatient care",
+    "Therapeutic nutrition"
+  ],
+  "reference_quote": "In the CMAM protocol, the appetite test is the decision pivot between outpatient care and facility admission for wasting.",
+  "document_key_topics": [
+    "Appetite test procedure for uncomplicated wasting",
+    "Weight-based food quantities and test criteria",
+    "High-risk subgroups in CMAM pathways",
+    "Use of locally available foods in therapeutic nutrition"
+  ],
+  "chunk_heading": "PUBLIC HEALTH & COMMUNITY PEDIATRIC NUTRITION;OUTPATIENT CMAM PATHWAYS FOR UNCOMPLICATED WASTING;APPETITE TEST PROCEDURE AND HIGH RISK SUBGROUPS;",
+  "topic": "PUBLIC HEALTH & COMMUNITY PEDIATRIC NUTRITION",
+  "subtopic": "OUTPATIENT CMAM PATHWAYS FOR UNCOMPLICATED WASTING",
+  "sub_subtopic": "APPETITE TEST PROCEDURE AND HIGH RISK SUBGROUPS",
+  "heading_path": "PUBLIC HEALTH & COMMUNITY PEDIATRIC NUTRITION;OUTPATIENT CMAM PATHWAYS FOR UNCOMPLICATED WASTING;APPETITE TEST PROCEDURE AND HIGH RISK SUBGROUPS;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1|3"
+}

@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "This section discusses the natural history of pediatric food allergies, emphasizing the importance of scheduled reassessments, tolerance development timelines, and tailored approaches for IgE and non-IgE-mediated allergies like FPIES and EoE.",
+  "learning_objectives": [
+    "Understand the natural history and resolution patterns of common pediatric food allergies, including IgE and non-IgE-mediated types.",
+    "Learn the importance of scheduled reassessments and tolerance testing in managing food allergies.",
+    "Identify appropriate strategies for reintroduction of allergens, including supervised oral food challenges (OFCs) for high-risk cases.",
+    "Recognize the unique management needs of conditions like FPIES and EoE."
+  ],
+  "key_facts": [
+    "IgE-mediated cow\u2019s milk allergy often resolves over time, but higher milk-specific sIgE and larger SPT wheals increase the likelihood of persistence.",
+    "Egg allergy frequently resolves by early school age, while peanut allergy is less likely to resolve and may persist into adolescence.",
+    "FPIAP typically resolves in infancy, with symptom improvement upon elimination and planned reintroduction to confirm tolerance.",
+    "FPIES often resolves in early childhood for milk or soy triggers, but tolerance must be assessed with supervised OFCs due to the risk of severe delayed reactions.",
+    "EoE rarely resolves spontaneously and requires long-term follow-up to monitor for fibrostenotic remodeling, as symptoms may not correlate with histology."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Food Hypersensitivity",
+    "Milk Hypersensitivity",
+    "Egg Hypersensitivity",
+    "Peanut Hypersensitivity",
+    "Food Protein-Induced Enterocolitis Syndrome",
+    "Eosinophilic Esophagitis",
+    "Oral Food Challenge",
+    "Immune Tolerance"
+  ],
+  "tags_custom": [
+    "pediatric food allergy",
+    "tolerance assessment",
+    "allergy resolution",
+    "reintroduction strategies"
+  ],
+  "reference_quote": "For IgE-mediated cow\u2019s milk allergy, tolerance develops over time in many children, while a substantial minority have persistent disease; higher milk-specific sIgE and larger SPT wheals increase the likelihood of persistence. (Source: EAACI guidelines on the diagnosis of IgE-mediated food allergy)",
+  "document_key_topics": [
+    "Natural history of pediatric food allergies",
+    "Tolerance development and reassessment strategies",
+    "Management of IgE and non-IgE-mediated food allergies",
+    "Oral food challenges and reintroduction protocols"
+  ],
+  "chunk_heading": "FOOD ALLERGY & THERAPEUTIC ELIMINATION DIETS;FOUNDATIONS AND RISK STRATIFICATION FOR PEDIATRIC FOOD ALLERGY;NATURAL HISTORY AND TOLERANCE ASSESSMENT COUNSELING;",
+  "topic": "FOOD ALLERGY & THERAPEUTIC ELIMINATION DIETS",
+  "subtopic": "FOUNDATIONS AND RISK STRATIFICATION FOR PEDIATRIC FOOD ALLERGY",
+  "sub_subtopic": "NATURAL HISTORY AND TOLERANCE ASSESSMENT COUNSELING",
+  "heading_path": "FOOD ALLERGY & THERAPEUTIC ELIMINATION DIETS;FOUNDATIONS AND RISK STRATIFICATION FOR PEDIATRIC FOOD ALLERGY;NATURAL HISTORY AND TOLERANCE ASSESSMENT COUNSELING;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "1e4"
+}

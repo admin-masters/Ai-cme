@@ -1,0 +1,47 @@
+{
+  "chunk_summary": "This section outlines a stepwise approach to managing enteral feed intolerance, focusing on vomiting, diarrhea, and underdelivery in critically ill patients, while prioritizing aspiration avoidance, hydration, and energy balance.",
+  "learning_objectives": [
+    "Understand the stepwise management of vomiting and diarrhea in enteral feed intolerance.",
+    "Identify key factors contributing to feed underdelivery and strategies to address them.",
+    "Learn the importance of avoiding routine gastric residual volume (GRV) checks in critically ill children.",
+    "Recognize when to escalate to postpyloric feeding in cases of recurrent vomiting."
+  ],
+  "key_facts": [
+    "Routine GRV checks are not recommended in critically ill children as they increase interruptions and underfeeding without clear outcome benefits.",
+    "If feed delivery is below 80% of the prescribed volume for 24\u201348 hours, it should be treated as a clinical problem.",
+    "For vomiting, reassess tube position, reduce bolus size, extend delivery time, or switch to continuous feeding while maintaining daily targets.",
+    "Diarrhea management includes slowing feed rate, confirming mixing accuracy, reviewing drug excipients, and avoiding reflex switching to lactose-free formulas.",
+    "Recurrent vomiting with desaturation or feed intolerance may require escalation to postpyloric feeding."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Enteral Nutrition",
+    "Parenteral Nutrition",
+    "Feeding Intolerance",
+    "Vomiting",
+    "Diarrhea",
+    "Critical Illness",
+    "Gastric Residual Volume",
+    "Postpyloric Feeding"
+  ],
+  "tags_custom": [
+    "feed intolerance management",
+    "critical care nutrition",
+    "vomiting and diarrhea protocols",
+    "energy delivery optimization"
+  ],
+  "reference_quote": "In critically ill children, do not rely on routine GRV checks as the primary tolerance metric, because this practice increases interruptions and underfeeding without clear outcome benefit. (ASPEN/SCCM 2017)",
+  "document_key_topics": [
+    "Enteral feed intolerance management",
+    "Stepwise response to vomiting and diarrhea",
+    "Strategies for addressing feed underdelivery"
+  ],
+  "chunk_heading": "ENTERAL & PARENTERAL NUTRITION;ENTERAL FEED INTOLERANCE AND MEDICATION ADMINISTRATION PROTOCOLS;STEPWISE RESPONSE TO VOMITING DIARRHEA AND UNDERDELIVERY;",
+  "topic": "ENTERAL & PARENTERAL NUTRITION",
+  "subtopic": "ENTERAL FEED INTOLERANCE AND MEDICATION ADMINISTRATION PROTOCOLS",
+  "sub_subtopic": "STEPWISE RESPONSE TO VOMITING DIARRHEA AND UNDERDELIVERY",
+  "heading_path": "ENTERAL & PARENTERAL NUTRITION;ENTERAL FEED INTOLERANCE AND MEDICATION ADMINISTRATION PROTOCOLS;STEPWISE RESPONSE TO VOMITING DIARRHEA AND UNDERDELIVERY;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2\u00801"
+}

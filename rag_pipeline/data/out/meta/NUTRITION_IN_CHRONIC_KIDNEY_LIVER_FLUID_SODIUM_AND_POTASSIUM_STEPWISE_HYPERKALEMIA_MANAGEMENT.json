@@ -1,0 +1,46 @@
+{
+  "chunk_summary": "Stepwise management of pediatric hyperkalemia in CKD focuses on addressing nondietary causes, removing high-bioavailability potassium additives, and using binders cautiously to maintain diet quality and prevent protein-energy malnutrition.",
+  "learning_objectives": [
+    "Understand the definition and diagnostic considerations for pediatric hyperkalemia in CKD.",
+    "Learn the stepwise approach to managing hyperkalemia, including addressing nondietary causes and dietary modifications.",
+    "Recognize the role and risks of potassium binders in pediatric CKD management."
+  ],
+  "key_facts": [
+    "Pediatric hyperkalemia is defined as serum potassium >5.0 mmol/L (>5.5 mmol/L in neonates).",
+    "Potassium-containing additives have 90\u2013100% bioavailability and should be prioritized for removal.",
+    "Unprocessed plant potassium has lower bioavailability and supports fiber and micronutrient intake.",
+    "Older potassium binders like sodium polystyrene sulfonate carry risks of serious gastrointestinal adverse events, especially in neonates or those with reduced gut motility.",
+    "Correcting nondietary drivers such as metabolic acidosis, constipation, and medication effects is the first step in hyperkalemia management."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Hyperkalemia",
+    "Chronic Kidney Disease",
+    "Pediatrics",
+    "Potassium",
+    "Dietary Management",
+    "Potassium Binders",
+    "Metabolic Acidosis",
+    "Constipation"
+  ],
+  "tags_custom": [
+    "Pediatric CKD nutrition",
+    "Hyperkalemia management",
+    "Potassium additives"
+  ],
+  "reference_quote": "Older exchange resins (for example, sodium polystyrene sulfonate) carry warnings about serious gastrointestinal adverse events and require careful pediatric selection, with particular caution in neonates or reduced gut motility.",
+  "document_key_topics": [
+    "Pediatric hyperkalemia definition and diagnosis",
+    "Stepwise management of hyperkalemia in CKD",
+    "Dietary strategies for potassium control",
+    "Use of potassium binders in pediatric CKD"
+  ],
+  "chunk_heading": "NUTRITION IN CHRONIC KIDNEY & LIVER DISEASE;FLUID SODIUM AND POTASSIUM STRATEGIES IN PEDIATRIC CKD;STEPWISE HYPERKALEMIA MANAGEMENT INCLUDING ADDITIVES AND BINDERS;",
+  "topic": "NUTRITION IN CHRONIC KIDNEY & LIVER DISEASE",
+  "subtopic": "FLUID SODIUM AND POTASSIUM STRATEGIES IN PEDIATRIC CKD",
+  "sub_subtopic": "STEPWISE HYPERKALEMIA MANAGEMENT INCLUDING ADDITIVES AND BINDERS",
+  "heading_path": "NUTRITION IN CHRONIC KIDNEY & LIVER DISEASE;FLUID SODIUM AND POTASSIUM STRATEGIES IN PEDIATRIC CKD;STEPWISE HYPERKALEMIA MANAGEMENT INCLUDING ADDITIVES AND BINDERS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2t2"
+}

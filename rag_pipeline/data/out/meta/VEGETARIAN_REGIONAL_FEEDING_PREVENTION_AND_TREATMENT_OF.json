@@ -1,0 +1,47 @@
+{
+  "chunk_summary": "Guidelines for preventing and treating vitamin D deficiency and rickets in children emphasize supplementation, sunlight exposure, and dietary adequacy, with risk-based adjustments for high-risk groups.",
+  "learning_objectives": [
+    "Understand the recommended vitamin D supplementation guidelines for children across different age groups.",
+    "Identify risk factors for vitamin D deficiency and rickets in children, including dietary and environmental factors.",
+    "Learn appropriate diagnostic thresholds for vitamin D deficiency and toxicity.",
+    "Recognize treatment regimens for vitamin D deficiency, including dosage and duration."
+  ],
+  "key_facts": [
+    "Routine vitamin D supplementation is recommended at 400 IU/day for infants.",
+    "Older children and adolescents should meet vitamin D needs through sunlight and diet, with supplementation reserved for high-risk groups.",
+    "Deficiency is defined as serum 25(OH)D <12 ng/mL, insufficiency as 12\u201320 ng/mL, and sufficiency as >20 ng/mL.",
+    "Toxicity risk arises when serum 25(OH)D exceeds 100 ng/mL, often with hypercalcemia or hypercalciuria.",
+    "Treatment regimens include 2000 IU/day for infants <1 year and 3000 IU/day for older children for 12 weeks, alongside calcium supplementation."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Vitamin D Deficiency",
+    "Rickets",
+    "Cholecalciferol",
+    "Dietary Supplements",
+    "Sunlight",
+    "Pediatrics",
+    "Calcium",
+    "Nutritional Requirements"
+  ],
+  "tags_custom": [
+    "Vitamin D guidelines",
+    "Pediatric nutrition",
+    "Deficiency prevention",
+    "Regional feeding patterns"
+  ],
+  "reference_quote": "Prevention: routine vitamin D supplementation is recommended in infancy at about 400 IU/day. For older children and adolescents, routine supplementation is not universally recommended; meeting requirements through sensible sunlight exposure and diet is preferred.",
+  "document_key_topics": [
+    "Vitamin D supplementation guidelines for children",
+    "Risk-based prevention of rickets",
+    "Diagnosis and treatment of vitamin D deficiency"
+  ],
+  "chunk_heading": "VEGETARIAN & REGIONAL FEEDING PATTERNS;PREVENTION AND TREATMENT OF VITAMIN D DEFICIENCY AND RICKETS IN CHILDREN;",
+  "topic": "VEGETARIAN & REGIONAL FEEDING PATTERNS",
+  "subtopic": "PREVENTION AND TREATMENT OF VITAMIN D DEFICIENCY AND RICKETS IN CHILDREN",
+  "sub_subtopic": null,
+  "heading_path": "VEGETARIAN & REGIONAL FEEDING PATTERNS;PREVENTION AND TREATMENT OF VITAMIN D DEFICIENCY AND RICKETS IN CHILDREN;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u007f"
+}

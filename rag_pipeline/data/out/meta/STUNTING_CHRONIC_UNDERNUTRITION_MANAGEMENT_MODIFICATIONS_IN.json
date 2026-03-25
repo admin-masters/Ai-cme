@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "Management of undernutrition in children with neurodisabilities requires individualized nutrition plans, feeding safety assessments, and early intervention to prevent complications like aspiration and caregiver burnout.",
+  "learning_objectives": [
+    "Understand the unique nutritional challenges in children with neurodisabilities such as CP.",
+    "Learn to assess feeding safety and modify feeding practices to reduce aspiration risk.",
+    "Recognize the importance of individualized energy and protein prescriptions based on tone and mobility.",
+    "Identify when to escalate to supplemental tube feeding and utilize local resources like RBSK and DEIC."
+  ],
+  "key_facts": [
+    "Feeding safety screen should be conducted at every visit, focusing on coughing, choking, wet voice, or meals lasting >30 minutes.",
+    "Energy needs vary based on tone and mobility; reassess frequently to ensure adequacy.",
+    "Functional indicators like feeding time, choking episodes, and respiratory infections should complement anthropometry in growth assessment.",
+    "Constipation exacerbates appetite and reflux; treat aggressively to improve feeding outcomes.",
+    "Use energy-dense home foods (e.g., oil/ghee in porridge, nut pastes, dairy) to support weight gain when needed.",
+    "Delaying supplemental tube feeding can worsen respiratory morbidity and caregiver burnout."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Child Nutrition Disorders",
+    "Cerebral Palsy",
+    "Feeding and Eating Disorders",
+    "Gastroesophageal Reflux",
+    "Constipation",
+    "Energy Metabolism",
+    "Nutritional Requirements",
+    "Tube Feeding"
+  ],
+  "tags_custom": [
+    "neurodisability nutrition",
+    "feeding safety",
+    "caregiver support",
+    "energy-dense foods",
+    "early intervention"
+  ],
+  "reference_quote": "Start with a feeding safety screen at every visit: coughing or choking with feeds, wet voice, recurrent pneumonia, or meals consistently lasting >30 minutes should prompt referral for feeding assessment and texture modification rather than 'more calories.'",
+  "document_key_topics": [
+    "Nutritional challenges in neurodisability",
+    "Feeding safety and aspiration risk",
+    "Individualized energy and protein needs",
+    "Role of early intervention and caregiver support"
+  ],
+  "chunk_heading": "STUNTING, CHRONIC UNDERNUTRITION & DETERMINANTS;MANAGEMENT MODIFICATIONS IN NEURODISABILITY ASSOCIATED UNDERNUTRITION;",
+  "topic": "STUNTING, CHRONIC UNDERNUTRITION & DETERMINANTS",
+  "subtopic": "MANAGEMENT MODIFICATIONS IN NEURODISABILITY ASSOCIATED UNDERNUTRITION",
+  "sub_subtopic": null,
+  "heading_path": "STUNTING, CHRONIC UNDERNUTRITION & DETERMINANTS;MANAGEMENT MODIFICATIONS IN NEURODISABILITY ASSOCIATED UNDERNUTRITION;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "6y"
+}

@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Structured, family-based dietary and activity interventions for pediatric obesity focus on reducing sugar, refined grains, and screen time, while promoting balanced meals, physical activity, and scheduled follow-ups.",
+  "learning_objectives": [
+    "Understand stepwise dietary modifications for managing pediatric obesity, including portion control and macronutrient balance.",
+    "Learn the importance of physical activity, reduced screen time, and sleep hygiene in obesity management.",
+    "Identify appropriate follow-up schedules and escalation criteria for pediatric obesity management.",
+    "Recognize when to refer to multidisciplinary programs or consider advanced interventions like pharmacotherapy or surgery."
+  ],
+  "key_facts": [
+    "Eliminate sugar-sweetened beverages, energy drinks, and routine fruit juice from the diet.",
+    "Use the 'plate rule': half vegetables/fruit, one-quarter staple (roti/rice), and one-quarter protein (dal, egg, fish, etc.).",
+    "Encourage at least 60 minutes/day of moderate to vigorous physical activity.",
+    "Follow-up should occur every 4\u20136 weeks initially, then every 1\u20133 months based on risk.",
+    "Escalate intervention if no BMI improvement is seen after 3\u20136 months of adherence.",
+    "Severe obesity may require referral for pharmacotherapy or metabolic surgery in specialized centers."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Pediatric Obesity",
+    "Dietary Management",
+    "Physical Activity",
+    "Behavioral Therapy",
+    "Body Mass Index",
+    "Sleep Hygiene",
+    "Nutritional Sciences",
+    "Obesity Prevention"
+  ],
+  "tags_custom": [
+    "childhood obesity",
+    "dietary interventions",
+    "physical activity",
+    "follow-up care"
+  ],
+  "reference_quote": "Effective obesity management is structured, family-based, and behavior-focused. (IAP Revised Guidelines on Evaluation, Prevention and Management of Childhood Obesity, 2023)",
+  "document_key_topics": [
+    "Dietary modifications for pediatric obesity",
+    "Physical activity and screen time reduction",
+    "Follow-up and escalation in obesity management",
+    "Referral criteria for advanced interventions"
+  ],
+  "chunk_heading": "MACRONUTRIENT NUTRITION IN CHILDHOOD;STEPWISE DIET AND ACTIVITY MANAGEMENT IN PEDIATRIC OBESITY WITH FOLLOW UP;",
+  "topic": "MACRONUTRIENT NUTRITION IN CHILDHOOD",
+  "subtopic": "STEPWISE DIET AND ACTIVITY MANAGEMENT IN PEDIATRIC OBESITY WITH FOLLOW UP",
+  "sub_subtopic": null,
+  "heading_path": "MACRONUTRIENT NUTRITION IN CHILDHOOD;STEPWISE DIET AND ACTIVITY MANAGEMENT IN PEDIATRIC OBESITY WITH FOLLOW UP;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "4}"
+}

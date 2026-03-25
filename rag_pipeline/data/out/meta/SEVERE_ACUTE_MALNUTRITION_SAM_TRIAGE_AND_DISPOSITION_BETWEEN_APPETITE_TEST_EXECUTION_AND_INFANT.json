@@ -1,0 +1,47 @@
+{
+  "chunk_summary": "Guidelines for appetite test execution and admission triggers for SAM management, including outpatient eligibility, inpatient stabilization criteria, and specific protocols for infants under 6 months.",
+  "learning_objectives": [
+    "Understand the role of the appetite test in determining outpatient eligibility for SAM management.",
+    "Learn the specific execution steps and criteria for passing or failing the appetite test.",
+    "Identify admission triggers for infants under 6 months based on feeding effectiveness and clinical signs.",
+    "Recognize anthropometric and practical considerations for SAM management in Indian operational pathways."
+  ],
+  "key_facts": [
+    "The appetite test uses RUTF or locally prepared therapeutic feeds if RUTF is unavailable, with documented intake amounts.",
+    "Minimum intake thresholds for passing the appetite test: \u226515 g for <4 kg, \u226525 g for 4\u20137 kg, and \u226533 g for 7\u201310 kg.",
+    "Failure criteria include inability to meet intake thresholds, repeated vomiting, or lethargy during the test.",
+    "Infants under 6 months are admitted based on feeding effectiveness, hypoglycemia, hypothermia, serious bacterial infection, or bilateral pedal oedema.",
+    "Indian pathways use weight-for-length <-3 SD for infants >45 cm and visible severe wasting for very short infants."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Severe Acute Malnutrition",
+    "Appetite Test",
+    "Ready-to-Use Therapeutic Food",
+    "Infant Nutrition Disorders",
+    "Anthropometry",
+    "Feeding Behavior",
+    "Hypoglycemia",
+    "Hypothermia"
+  ],
+  "tags_custom": [
+    "SAM management",
+    "appetite test protocol",
+    "infant admission criteria",
+    "Indian operational guidelines"
+  ],
+  "reference_quote": "Use the appetite test as an objective gate for outpatient eligibility and as an early marker of metabolic stability. (Source: National Health Mission, Participant manual for facility-based care of severe acute malnutrition)",
+  "document_key_topics": [
+    "Appetite test execution for SAM management",
+    "Admission criteria for infants under 6 months",
+    "Indian-specific SAM management protocols"
+  ],
+  "chunk_heading": "SEVERE ACUTE MALNUTRITION (SAM) MANAGEMENT;TRIAGE AND DISPOSITION BETWEEN INPATIENT AND CMAM PATHWAYS;APPETITE TEST EXECUTION AND INFANT ADMISSION TRIGGERS;",
+  "topic": "SEVERE ACUTE MALNUTRITION (SAM) MANAGEMENT",
+  "subtopic": "TRIAGE AND DISPOSITION BETWEEN INPATIENT AND CMAM PATHWAYS",
+  "sub_subtopic": "APPETITE TEST EXECUTION AND INFANT ADMISSION TRIGGERS",
+  "heading_path": "SEVERE ACUTE MALNUTRITION (SAM) MANAGEMENT;TRIAGE AND DISPOSITION BETWEEN INPATIENT AND CMAM PATHWAYS;APPETITE TEST EXECUTION AND INFANT ADMISSION TRIGGERS;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1g2"
+}

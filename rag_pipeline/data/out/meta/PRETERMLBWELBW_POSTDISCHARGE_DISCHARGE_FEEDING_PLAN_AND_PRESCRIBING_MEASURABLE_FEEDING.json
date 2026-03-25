@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "Guidelines for prescribing measurable feeding volumes (mL/kg/day) for preterm/LBW/ELBW infants post-discharge, including calculation steps, breastfeeding strategies, and individualized adjustments based on clinical status and growth response.",
+  "learning_objectives": [
+    "Understand how to calculate daily fluid and feeding volumes for preterm/LBW/ELBW infants post-discharge.",
+    "Learn to individualize feeding plans based on clinical conditions such as BPD, CHD, or growth faltering.",
+    "Develop strategies to integrate breastfeeding with measurable top-up volumes for preterm infants.",
+    "Recognize the importance of monitoring growth and adjusting feeding plans within 48\u201372 hours."
+  ],
+  "key_facts": [
+    "A practical starting reference for stable preterm infants is 150\u2013160 mL/kg/day of total enteral volume.",
+    "Daily fluid target (mL/kg/day) should be individualized based on clinical phenotype (e.g., BPD, CHD, post-NEC).",
+    "Per-feed volume is calculated as total mL/day \u00f7 feeds/day; for 8 feeds/day, divide accordingly.",
+    "Example: A 2.1 kg infant with a target of 150 mL/kg/day requires 315 mL/day, or ~39 mL per feed (8 feeds/day).",
+    "For breastfeeding, prescribe 'breastfeed first, then measured top-up' to ensure intake while supporting breastfeeding skills.",
+    "Adjust feeding volumes within 48\u201372 hours based on growth and clinical response."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Infant, Premature",
+    "Infant, Low Birth Weight",
+    "Enteral Nutrition",
+    "Breast Feeding",
+    "Nutritional Requirements",
+    "Growth and Development",
+    "Fluid Therapy",
+    "Postnatal Care"
+  ],
+  "tags_custom": [
+    "preterm nutrition",
+    "feeding guidelines",
+    "caregiver tools",
+    "breastfeeding support",
+    "growth monitoring"
+  ],
+  "reference_quote": "Energy and protein targets only change outcomes when translated into a measurable intake prescription that caregivers can execute.",
+  "document_key_topics": [
+    "Post-discharge feeding plans for preterm/LBW/ELBW infants",
+    "Calculation of feeding volumes in mL/kg/day",
+    "Integration of breastfeeding with measurable top-ups",
+    "Monitoring and adjusting feeding plans based on growth and clinical response"
+  ],
+  "chunk_heading": "PRETERM/LBW/ELBW POST-DISCHARGE NUTRITION;DISCHARGE FEEDING PLAN AND CAREGIVER MONITORING TOOLS;PRESCRIBING MEASURABLE FEEDING VOLUMES IN ML PER KG  PER DAY;",
+  "topic": "PRETERM/LBW/ELBW POST-DISCHARGE NUTRITION",
+  "subtopic": "DISCHARGE FEEDING PLAN AND CAREGIVER MONITORING TOOLS",
+  "sub_subtopic": "PRESCRIBING MEASURABLE FEEDING VOLUMES IN ML PER KG  PER DAY",
+  "heading_path": "PRETERM/LBW/ELBW POST-DISCHARGE NUTRITION;DISCHARGE FEEDING PLAN AND CAREGIVER MONITORING TOOLS;PRESCRIBING MEASURABLE FEEDING VOLUMES IN ML PER KG  PER DAY;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1i4"
+}

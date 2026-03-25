@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section outlines therapeutic goals for managing uncomplicated moderate wasting through counselling, nutrient-dense home diets, and selective supplementation based on risk stratification, emphasizing WHO guidelines and energy needs during recovery.",
+  "learning_objectives": [
+    "Understand the therapeutic goals for uncomplicated moderate wasting, including recovery and prevention of progression to SAM.",
+    "Learn WHO recommendations for nutrient-dense home diets and selective supplementation in routine and humanitarian contexts.",
+    "Identify risk factors for supplementation, such as MUAC 115\u2013119 mm, WAZ < -3, and severe social adversity.",
+    "Understand energy requirements during recovery and the role of supplements in meeting these needs."
+  ],
+  "key_facts": [
+    "Primary therapeutic goals include recovery from wasting, neurodevelopment support, and infection prevention.",
+    "WHO prioritizes nutrient-dense home diets first, with supplementation for high-risk children (e.g., MUAC 115\u2013119 mm, WAZ < -3, age <24 months).",
+    "In humanitarian contexts, supplementation may be considered for all children 6\u201359 months with moderate wasting.",
+    "Lipid-based nutrient supplements (LNS) are conditionally preferred by WHO; fortified blended foods are secondary options.",
+    "Supplements should contribute 40\u201360% of daily energy needs, with total energy needs estimated at 100\u2013130 kcal/kg/day."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Malnutrition",
+    "Nutritional Support",
+    "Diet Therapy",
+    "Child Nutrition Disorders",
+    "Energy Intake",
+    "Risk Assessment",
+    "Supplementary Feeding",
+    "World Health Organization"
+  ],
+  "tags_custom": [
+    "moderate wasting",
+    "nutrient-dense diets",
+    "risk-based supplementation",
+    "child health guidelines",
+    "humanitarian nutrition"
+  ],
+  "reference_quote": "WHO anchors moderate wasting care in a nutrient-dense diet plus identification and treatment of medical and psychosocial drivers. (Source: https://www.ncbi.nlm.nih.gov/books/NBK601642/)",
+  "document_key_topics": [
+    "Therapeutic goals for moderate wasting",
+    "Counselling and home diet therapy",
+    "Risk-based supplementation strategies",
+    "Energy requirements during recovery"
+  ],
+  "chunk_heading": "MODERATE ACUTE MALNUTRITION (MAM) & SUPPLEMENTARY FEEDING;COUNSELLING AND HOME DIET THERAPY IN UNCOMPLICATED MODERATE WASTING;THERAPEUTIC GOALS AND INDICATIONS FOR SUPPLEMENTATION;",
+  "topic": "MODERATE ACUTE MALNUTRITION (MAM) & SUPPLEMENTARY FEEDING",
+  "subtopic": "COUNSELLING AND HOME DIET THERAPY IN UNCOMPLICATED MODERATE WASTING",
+  "sub_subtopic": "THERAPEUTIC GOALS AND INDICATIONS FOR SUPPLEMENTATION",
+  "heading_path": "MODERATE ACUTE MALNUTRITION (MAM) & SUPPLEMENTARY FEEDING;COUNSELLING AND HOME DIET THERAPY IN UNCOMPLICATED MODERATE WASTING;THERAPEUTIC GOALS AND INDICATIONS FOR SUPPLEMENTATION;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "4j1.1"
+}

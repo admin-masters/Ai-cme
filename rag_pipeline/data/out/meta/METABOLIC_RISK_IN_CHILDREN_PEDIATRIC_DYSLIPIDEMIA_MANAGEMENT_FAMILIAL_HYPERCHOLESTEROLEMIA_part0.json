@@ -1,0 +1,47 @@
+{
+  "chunk_summary": "Familial hypercholesterolemia in children requires early recognition, cascade screening, and statin therapy based on LDL-C levels and risk factors to reduce lifetime ASCVD risk.",
+  "learning_objectives": [
+    "Understand diagnostic criteria for familial hypercholesterolemia in children, including LDL-C thresholds and clinical signs.",
+    "Learn the process of cascade screening for familial hypercholesterolemia in first-degree relatives.",
+    "Identify appropriate statin therapy initiation based on LDL-C levels and risk factors in pediatric patients."
+  ],
+  "key_facts": [
+    "Familial hypercholesterolemia should be suspected with LDL-C \u2265160 mg/dL and family history of premature coronary disease or LDL-C \u2265190 mg/dL without family history.",
+    "Secondary causes of hypercholesterolemia must be excluded before confirming familial hypercholesterolemia.",
+    "Cascade screening of parents and first-degree relatives is essential for early detection.",
+    "Statin therapy is recommended from age \u226510 years if LDL-C \u2265190 mg/dL after 3\u20136 months of lifestyle therapy or LDL-C 160\u2013189 mg/dL with high-risk factors.",
+    "Atorvastatin pediatric dosing typically starts at 10 mg daily, with a range of 10\u201320 mg/day."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Familial Hypercholesterolemia",
+    "Pediatric Dyslipidemia",
+    "LDL Cholesterol",
+    "Statins",
+    "Cascade Screening",
+    "Atherosclerotic Cardiovascular Disease",
+    "Risk Factors",
+    "Lipid Metabolism Disorders"
+  ],
+  "tags_custom": [
+    "child metabolic risk",
+    "early diagnosis",
+    "statin therapy",
+    "cascade screening",
+    "LDL thresholds"
+  ],
+  "reference_quote": "The NHLBI framework supports considering statin therapy from age \u226510 years when LDL-C remains \u2265190 mg/dL after 3\u20136 months of lifestyle therapy, or when LDL-C is 160\u2013189 mg/dL with high-level risk factors.",
+  "document_key_topics": [
+    "Familial hypercholesterolemia diagnosis in children",
+    "Cascade screening for familial hypercholesterolemia",
+    "Statin therapy guidelines for pediatric dyslipidemia"
+  ],
+  "chunk_heading": "METABOLIC RISK IN CHILDREN;PEDIATRIC DYSLIPIDEMIA MANAGEMENT FOR METABOLIC RISK;FAMILIAL HYPERCHOLESTEROLEMIA RECOGNITION CASCADE SCREENING AND STATINS;",
+  "topic": "METABOLIC RISK IN CHILDREN",
+  "subtopic": "PEDIATRIC DYSLIPIDEMIA MANAGEMENT FOR METABOLIC RISK",
+  "sub_subtopic": "FAMILIAL HYPERCHOLESTEROLEMIA RECOGNITION CASCADE SCREENING AND STATINS",
+  "heading_path": "METABOLIC RISK IN CHILDREN;PEDIATRIC DYSLIPIDEMIA MANAGEMENT FOR METABOLIC RISK;FAMILIAL HYPERCHOLESTEROLEMIA RECOGNITION CASCADE SCREENING AND STATINS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u008f5.1"
+}

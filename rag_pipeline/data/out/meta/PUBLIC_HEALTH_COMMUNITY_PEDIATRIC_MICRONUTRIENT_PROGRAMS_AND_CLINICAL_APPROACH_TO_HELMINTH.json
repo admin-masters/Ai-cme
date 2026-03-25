@@ -1,0 +1,47 @@
+{
+  "chunk_summary": "Clinical management of helminth infections in pediatric nutrition integrates deworming, anemia care, and reinfection prevention through WASH practices and targeted therapy, emphasizing empirical treatment and household interventions.",
+  "learning_objectives": [
+    "Understand the clinical signs and symptoms of helminth infections in children, including anemia and poor growth.",
+    "Learn appropriate dosing and treatment protocols for soil-transmitted helminths and pinworm infections.",
+    "Explore strategies for reinfection prevention, including WASH practices and household interventions.",
+    "Integrate helminth management into broader anemia and nutrition care frameworks."
+  ],
+  "key_facts": [
+    "Albendazole dosing: 200 mg for children aged 1\u20132 years, 400 mg for children aged \u22652 years as a single dose.",
+    "Pinworm reinfection requires a repeat dose after 2 weeks and simultaneous treatment of household contacts.",
+    "Hookworm infections contribute to iron loss, necessitating combined deworming and iron repletion for effective anemia recovery.",
+    "Persistent symptoms after treatment should prompt stool testing and evaluation for alternate diagnoses.",
+    "Reinfection prevention relies heavily on WASH practices, including safe toilet use and hot washing of clothes and bedding."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Helminthiasis",
+    "Albendazole",
+    "Anemia",
+    "Pediatric Nutrition",
+    "Pinworm Infections",
+    "Hookworm Infections",
+    "WASH (Water, Sanitation, and Hygiene)",
+    "Iron Deficiency"
+  ],
+  "tags_custom": [
+    "Deworming protocols",
+    "Reinfection prevention",
+    "Clinical pediatric care",
+    "Integrated nutrition management"
+  ],
+  "reference_quote": "Deworming rounds reduce population worm burden, but clinic practice still requires a clinical approach to symptomatic helminth infection and reinfection prevention. (WHO eLENA)",
+  "document_key_topics": [
+    "Clinical management of helminth infections in children",
+    "Integration of deworming with anemia and nutrition care",
+    "Reinfection prevention through WASH practices"
+  ],
+  "chunk_heading": "PUBLIC HEALTH & COMMUNITY PEDIATRIC NUTRITION;MICRONUTRIENT PROGRAMS AND DEWORMING INTEGRATED WITH NUTRITION CARE;CLINICAL APPROACH TO HELMINTH INFECTION AND REINFECTION PREVENTION;",
+  "topic": "PUBLIC HEALTH & COMMUNITY PEDIATRIC NUTRITION",
+  "subtopic": "MICRONUTRIENT PROGRAMS AND DEWORMING INTEGRATED WITH NUTRITION CARE",
+  "sub_subtopic": "CLINICAL APPROACH TO HELMINTH INFECTION AND REINFECTION PREVENTION",
+  "heading_path": "PUBLIC HEALTH & COMMUNITY PEDIATRIC NUTRITION;MICRONUTRIENT PROGRAMS AND DEWORMING INTEGRATED WITH NUTRITION CARE;CLINICAL APPROACH TO HELMINTH INFECTION AND REINFECTION PREVENTION;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u00909"
+}

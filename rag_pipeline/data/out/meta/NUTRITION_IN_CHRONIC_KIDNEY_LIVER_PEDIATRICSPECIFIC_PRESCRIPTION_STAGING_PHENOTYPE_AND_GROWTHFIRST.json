@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "This section outlines pediatric-specific nutrition strategies for chronic kidney and liver disease, emphasizing phenotype staging and prioritizing growth and lean mass preservation over restrictive diets that may harm development.",
+  "learning_objectives": [
+    "Understand the importance of disease phenotype staging in pediatric CKD and CLD nutrition planning.",
+    "Learn how to prioritize growth and lean mass preservation in pediatric patients with CKD and CLD.",
+    "Identify key differences in nutritional needs based on CKD stage, modality, and CLD complications.",
+    "Avoid common errors in pediatric nutrition by adapting adult dietary templates to pediatric needs."
+  ],
+  "key_facts": [
+    "In CKD, staging is based on GFR category and markers of kidney damage, with modalities including conservative care, PD, HD, or post-transplant.",
+    "Indian pediatric CKD phenotypes often include polyuria and sodium wasting in CAKUT-like patterns, and edema/hypertension in glomerular diseases.",
+    "Growth and lean mass preservation are prioritized over fluid/electrolyte restrictions unless necessary to prevent imminent harm (e.g., hypertension, pulmonary edema).",
+    "SDI (Suggested Dietary Intake) is used for age-banded intake targets in pediatric kidney guidance.",
+    "Restrictive diets that improve short-term lab results can lead to irreversible height loss in children.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Chronic Kidney Disease",
+    "Liver Diseases",
+    "Pediatrics",
+    "Nutrition Therapy",
+    "Growth Disorders",
+    "Phenotype",
+    "Dietary Proteins",
+    "Fluid and Electrolyte Balance"
+  ],
+  "tags_custom": [
+    "pediatric nutrition",
+    "CKD staging",
+    "growth preservation",
+    "CLD complications",
+    "Indian CKD patterns"
+  ],
+  "reference_quote": "Start every plan by classifying the disease phenotype because targets differ more by stage and decompensation than by diagnosis label. (KDIGO 2024 Clinical Practice Guideline)",
+  "document_key_topics": [
+    "Phenotype staging in pediatric CKD and CLD",
+    "Growth-first nutrition goals in chronic disease",
+    "Avoiding restrictive diets in pediatric patients",
+    "Indian-specific CKD phenotypes and nutritional implications"
+  ],
+  "chunk_heading": "NUTRITION IN CHRONIC KIDNEY & LIVER DISEASE;PEDIATRIC-SPECIFIC PRESCRIPTION FRAMEWORK AND DEFINITIONS;STAGING PHENOTYPE AND GROWTH-FIRST GOAL SETTING;",
+  "topic": "NUTRITION IN CHRONIC KIDNEY & LIVER DISEASE",
+  "subtopic": "PEDIATRIC-SPECIFIC PRESCRIPTION FRAMEWORK AND DEFINITIONS",
+  "sub_subtopic": "STAGING PHENOTYPE AND GROWTH-FIRST GOAL SETTING",
+  "heading_path": "NUTRITION IN CHRONIC KIDNEY & LIVER DISEASE;PEDIATRIC-SPECIFIC PRESCRIPTION FRAMEWORK AND DEFINITIONS;STAGING PHENOTYPE AND GROWTH-FIRST GOAL SETTING;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "1b1"
+}

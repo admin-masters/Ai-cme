@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section discusses common errors in dietary and feeding assessments, strategies for quality assurance, and practical solutions to improve accuracy and reliability in data collection and counseling.",
+  "learning_objectives": [
+    "Identify common pitfalls in dietary and feeding skills assessments, such as underreporting snacks or liquids and ignoring unsafe swallowing.",
+    "Understand the importance of repeat 24-hour recalls and proper nutrient computation for accurate dietary analysis.",
+    "Learn quality assurance strategies, including standardized scripts, portion calibration, and multilingual tools.",
+    "Recognize the role of observation timing and methods, such as home videos, in feeding skill evaluation."
+  ],
+  "key_facts": [
+    "A single 24-hour recall may misclassify usual intake; repeat on a non-consecutive day for better accuracy.",
+    "Common errors include underestimating HFSS (high fat, sugar, salt) packaged foods and ignoring cooking oil or sugar in recipes.",
+    "Social desirability bias can distort reporting; normalizing conversations improves disclosure.",
+    "Quality assurance involves using standardized scripts, household measure guides, and periodic staff training.",
+    "In multilingual settings, translated food lists and standard probes reduce interviewer drift."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Dietary Assessment",
+    "Feeding Behavior",
+    "Nutritional Status",
+    "Quality Assurance, Health Care",
+    "Food Habits",
+    "Nutrition Surveys",
+    "Child Nutrition Disorders",
+    "Dietary Recall"
+  ],
+  "tags_custom": [
+    "dietary pitfalls",
+    "feeding skills evaluation",
+    "quality assurance",
+    "nutrient computation",
+    "observation methods"
+  ],
+  "reference_quote": "A single 24-hour recall may misclassify usual intake; repeat on a non-consecutive day when decisions depend on quantification. (Source: USDA Automated Multiple-Pass Method for 24-hour dietary recall)",
+  "document_key_topics": [
+    "Common errors in dietary and feeding assessments",
+    "Strategies for quality assurance in dietary evaluation",
+    "Importance of observation timing and methods",
+    "Addressing social desirability bias in dietary reporting"
+  ],
+  "chunk_heading": "DIETARY ASSESSMENT & FEEDING SKILLS EVALUATION;COMMON PITFALLS AND QUALITY ASSURANCE STRATEGIES;",
+  "topic": "DIETARY ASSESSMENT & FEEDING SKILLS EVALUATION",
+  "subtopic": "COMMON PITFALLS AND QUALITY ASSURANCE STRATEGIES",
+  "sub_subtopic": null,
+  "heading_path": "DIETARY ASSESSMENT & FEEDING SKILLS EVALUATION;COMMON PITFALLS AND QUALITY ASSURANCE STRATEGIES;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u008c"
+}

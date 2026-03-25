@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "Management of severe complications of bone infections, including abscess, pyomyositis, thrombosis, and septic shock, requires imaging, surgical intervention, antibiotics, and multidisciplinary care.",
+  "learning_objectives": [
+    "Understand the diagnostic and management strategies for subperiosteal abscess and pyomyositis in pediatric bone infections.",
+    "Recognize the clinical signs and management of venous thrombosis associated with osteomyelitis.",
+    "Learn the protocols for managing septic shock in severe osteoarticular infections.",
+    "Identify the importance of multidisciplinary care in complex musculoskeletal infections."
+  ],
+  "key_facts": [
+    "Subperiosteal abscess often requires MRI for diagnosis and image-guided or operative drainage due to poor antibiotic penetration.",
+    "Venous thrombosis is common in femoral, pelvic, or methicillin-resistant Staphylococcus aureus infections; Doppler evaluation and anticoagulation may be necessary.",
+    "Septic shock management includes aggressive fluid resuscitation, vasoactive support, broad-spectrum antibiotics, and urgent source control.",
+    "Repeat imaging is critical for children with worsening symptoms, especially in methicillin-resistant cases.",
+    "Multidisciplinary care involving hematology, intensive care, and orthopedic teams is essential for severe cases.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Osteomyelitis",
+    "Pyomyositis",
+    "Septic Shock",
+    "Venous Thrombosis",
+    "Magnetic Resonance Imaging",
+    "Methicillin-Resistant Staphylococcus aureus",
+    "Anticoagulants",
+    "Pediatric Orthopedics"
+  ],
+  "tags_custom": [
+    "bone infections complications",
+    "multidisciplinary care",
+    "pediatric septic shock",
+    "abscess management",
+    "advanced imaging"
+  ],
+  "reference_quote": "Subperiosteal abscess is a classic osteomyelitis complication and may present as a fluctuant tender swelling over bone. Infection can also break into adjacent muscle, producing pyomyositis or deep intramuscular abscess. (Indian Academy of Pediatrics Consensus Statement)",
+  "document_key_topics": [
+    "Subperiosteal abscess and pyomyositis management",
+    "Venous thrombosis in osteomyelitis",
+    "Septic shock in severe musculoskeletal infections",
+    "Multidisciplinary care in pediatric bone infections"
+  ],
+  "chunk_heading": "BONE INFECTIONS;COMPLICATIONS AND LONG TERM OUTCOMES;ABSCESS PYOMYOSITIS THROMBOSIS AND SEPTIC SHOCK MANAGEMENT;",
+  "topic": "BONE INFECTIONS",
+  "subtopic": "COMPLICATIONS AND LONG TERM OUTCOMES",
+  "sub_subtopic": "ABSCESS PYOMYOSITIS THROMBOSIS AND SEPTIC SHOCK MANAGEMENT",
+  "heading_path": "BONE INFECTIONS;COMPLICATIONS AND LONG TERM OUTCOMES;ABSCESS PYOMYOSITIS THROMBOSIS AND SEPTIC SHOCK MANAGEMENT;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u00971"
+}

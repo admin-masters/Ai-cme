@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "Guidelines for preventing refeeding syndrome in high-risk patients, emphasizing thiamine supplementation, stepwise calorie advancement, and electrolyte monitoring in outpatient and inpatient settings.",
+  "learning_objectives": [
+    "Understand the criteria for identifying high-risk refeeding syndrome patients.",
+    "Learn the protocol for thiamine supplementation and electrolyte correction before refeeding.",
+    "Implement stepwise calorie advancement and caregiver education for safe refeeding.",
+    "Monitor and manage refeeding risks in outpatient and inpatient care settings."
+  ],
+  "key_facts": [
+    "Refeeding risk is high in cases of severe undernutrition, >5 days of very low intake, or rapid weight loss.",
+    "Baseline electrolytes (phosphate, potassium, magnesium), glucose, and hydration status must be checked and corrected before refeeding.",
+    "Thiamine should be administered before and during refeeding to prevent cardiac and neurologic complications.",
+    "Outpatient care requires a 'safe start' plan with daily caregiver monitoring and early follow-up within 24\u201372 hours.",
+    "In inpatient settings, frequent electrolyte monitoring is critical, especially during the first 72 hours.",
+    "Document refeeding risk level, thiamine plan, and electrolyte monitoring schedule for safety."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Refeeding Syndrome",
+    "Thiamine Deficiency",
+    "Electrolyte Imbalance",
+    "Nutritional Support",
+    "Malnutrition",
+    "Caloric Intake",
+    "Nutritional Counseling",
+    "Pediatric Nutrition"
+  ],
+  "tags_custom": [
+    "refeeding risk prevention",
+    "stepwise calorie advancement",
+    "electrolyte monitoring",
+    "caregiver education",
+    "outpatient safety"
+  ],
+  "reference_quote": "Give thiamine before and during refeeding for high-risk patients, following institutional dosing, because deficiency can precipitate cardiac and neurologic complications when carbohydrates are reintroduced. (Source: https://pubmed.ncbi.nlm.nih.gov/32115791/)",
+  "document_key_topics": [
+    "Refeeding risk prevention protocols",
+    "Thiamine supplementation guidelines",
+    "Stepwise calorie advancement",
+    "Electrolyte monitoring and caregiver education"
+  ],
+  "chunk_heading": "NUTRITION COUNSELLING & BEHAVIOUR CHANGE SKILLS;CONDITION-SPECIFIC COUNSELLING AND ESCALATION PATHWAYS;OPERATIONAL REFEEDING RISK PREVENTION BUNDLE WITH THIAMINE AND STEPWISE CALORIE ADVANCE;",
+  "topic": "NUTRITION COUNSELLING & BEHAVIOUR CHANGE SKILLS",
+  "subtopic": "CONDITION-SPECIFIC COUNSELLING AND ESCALATION PATHWAYS",
+  "sub_subtopic": "OPERATIONAL REFEEDING RISK PREVENTION BUNDLE WITH THIAMINE AND STEPWISE CALORIE ADVANCE",
+  "heading_path": "NUTRITION COUNSELLING & BEHAVIOUR CHANGE SKILLS;CONDITION-SPECIFIC COUNSELLING AND ESCALATION PATHWAYS;OPERATIONAL REFEEDING RISK PREVENTION BUNDLE WITH THIAMINE AND STEPWISE CALORIE ADVANCE;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u008310"
+}

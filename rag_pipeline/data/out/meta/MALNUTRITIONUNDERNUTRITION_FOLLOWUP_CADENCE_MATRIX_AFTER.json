@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "This section outlines follow-up intervals for children with undernutrition, emphasizing age, risk level, and clinical context, with specific guidance for infants under 6 months, SAM, MAM, and stunting cases, based on Indian and global guidelines.",
+  "learning_objectives": [
+    "Understand the recommended follow-up intervals for different undernutrition classifications, including SAM, MAM, and stunting.",
+    "Learn the specific monitoring requirements for infants under 6 months at risk of undernutrition.",
+    "Recognize the importance of community linkage and home visits post-discharge from inpatient SAM care.",
+    "Apply age-sensitive and risk-based principles to determine follow-up frequency for children with faltering growth."
+  ],
+  "key_facts": [
+    "Infants under 6 months at risk (##U6M##) should be monitored weekly, with reduced frequency only after sustained weight gain for two consecutive weeks.",
+    "Uncomplicated SAM cases (e.g., MUAC <115 mm or WHZ/WLZ < -3) require weekly follow-ups initially, with appetite reassessment at each visit.",
+    "MAM cases typically require fortnightly to monthly follow-ups, with increased intensity during weight plateau, recurrent illness, or food insecurity.",
+    "Stunting without wasting should involve length reassessment every 3 months, with more frequent weight checks in younger children or during illness.",
+    "Post-discharge from inpatient SAM care, weekly home visits are recommended for the first 4 weeks, then every 2 weeks until program discharge."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Malnutrition",
+    "Undernutrition",
+    "Severe Acute Malnutrition",
+    "Moderate Acute Malnutrition",
+    "Growth Disorders",
+    "Nutritional Assessment",
+    "Infant Nutrition",
+    "Community Health Services"
+  ],
+  "tags_custom": [
+    "Follow-up intervals",
+    "Pediatric nutrition",
+    "Faltering growth",
+    "Indian guidelines"
+  ],
+  "reference_quote": "After discharge from inpatient SAM care, Indian operational guidance emphasizes intensive community linkage: prioritize weekly home visits in the first four weeks, then every two weeks until program discharge.",
+  "document_key_topics": [
+    "Follow-up intervals for undernutrition",
+    "Management of SAM and MAM",
+    "Monitoring stunting and faltering growth",
+    "Community-based care post-SAM discharge"
+  ],
+  "chunk_heading": "MALNUTRITION\u2014UNDERNUTRITION: SCREENING & CLASSIFICATION;FOLLOW-UP CADENCE MATRIX AFTER ABNORMAL NUTRITION SCREEN;",
+  "topic": "MALNUTRITION\u2014UNDERNUTRITION: SCREENING & CLASSIFICATION",
+  "subtopic": "FOLLOW-UP CADENCE MATRIX AFTER ABNORMAL NUTRITION SCREEN",
+  "sub_subtopic": null,
+  "heading_path": "MALNUTRITION\u2014UNDERNUTRITION: SCREENING & CLASSIFICATION;FOLLOW-UP CADENCE MATRIX AFTER ABNORMAL NUTRITION SCREEN;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "3~"
+}

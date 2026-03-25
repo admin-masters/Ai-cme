@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Guidelines for managing severe foreign-body airway obstruction (FBAO) in children aged 6\u201324 months, including first-aid techniques, emergency response activation, and post-incident care recommendations.",
+  "learning_objectives": [
+    "Recognize signs of severe foreign-body airway obstruction (FBAO) in infants and children.",
+    "Apply appropriate first-aid techniques, including back blows, chest thrusts, and abdominal thrusts.",
+    "Understand the importance of activating emergency response systems during FBAO events.",
+    "Identify the need for medical review after significant choking episodes."
+  ],
+  "key_facts": [
+    "Severe FBAO signs include weak/absent cough, inability to cry or speak, cyanosis, altered alertness, or apnea.",
+    "For responsive infants: Perform cycles of 5 back blows and 5 chest thrusts (AHA 2025 pediatric BLS guidance).",
+    "For responsive children: Perform cycles of 5 back blows and 5 abdominal thrusts.",
+    "Do not perform blind finger sweeps; remove visible objects only if clearly seen.",
+    "Abdominal thrusts are contraindicated in infants.",
+    "Persistent cough, wheeze, or fever after choking warrants urgent reassessment."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Airway Obstruction",
+    "Choking",
+    "First Aid",
+    "Pediatric Emergency Medicine",
+    "Basic Life Support",
+    "Foreign Bodies",
+    "Resuscitation",
+    "Infant"
+  ],
+  "tags_custom": [
+    "choking prevention",
+    "pediatric first aid",
+    "emergency response",
+    "foreign body management"
+  ],
+  "reference_quote": "For a responsive infant with severe FBAO, the 2025 AHA pediatric BLS guidance recommends repeated cycles of 5 back blows alternating with 5 chest thrusts until the object is expelled or the infant becomes unresponsive.",
+  "document_key_topics": [
+    "Choking hazard prevention",
+    "First-aid response for FBAO",
+    "Emergency system activation",
+    "Post-choking medical care"
+  ],
+  "chunk_heading": "COMPLEMENTARY FEEDING 6\u201324 MONTHS;CHOKING HAZARD PREVENTION AND FIRST AID;BASIC RESPONSE TO FOREIGN BODY AIRWAY OBSTRUCTION;",
+  "topic": "COMPLEMENTARY FEEDING 6\u201324 MONTHS",
+  "subtopic": "CHOKING HAZARD PREVENTION AND FIRST AID",
+  "sub_subtopic": "BASIC RESPONSE TO FOREIGN BODY AIRWAY OBSTRUCTION",
+  "heading_path": "COMPLEMENTARY FEEDING 6\u201324 MONTHS;CHOKING HAZARD PREVENTION AND FIRST AID;BASIC RESPONSE TO FOREIGN BODY AIRWAY OBSTRUCTION;",
+  "reference_count": 2,
+  "has_guidelines": false,
+  "sequence": "1\u008b2.1"
+}

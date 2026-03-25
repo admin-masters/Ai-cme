@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "Guidance on risk-based prescribing of strain-specific probiotics for antibiotic-associated diarrhea (AAD) prophylaxis in children, emphasizing selective use, safety considerations, and antibiotic stewardship.",
+  "learning_objectives": [
+    "Understand the risk stratification approach for AAD prophylaxis in children.",
+    "Identify scenarios where probiotic prophylaxis is appropriate based on morbidity risk.",
+    "Learn safety precautions for probiotic use, including contraindications in immunocompromised patients.",
+    "Recognize the importance of antibiotic stewardship in reducing AAD risk."
+  ],
+  "key_facts": [
+    "Routine AAD prophylaxis is not recommended for immunocompetent children in outpatient care.",
+    "Prophylaxis is advised selectively for high-risk cases, such as recurrent AAD, prolonged antibiotic use, hospitalization, or major comorbidities.",
+    "Probiotic use should be strain-specific, with documented dose, duration, and stop date at antibiotic completion.",
+    "Live probiotics should be avoided in cases of severe immunocompromise, critical illness, or central venous access.",
+    "Saccharomyces boulardii\u2013associated fungemia is rare but documented, especially in ICU settings or children with central venous catheters.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Probiotics",
+    "Antibiotic-Associated Diarrhea",
+    "Risk Assessment",
+    "Antibiotic Stewardship",
+    "Saccharomyces boulardii",
+    "Immunocompromised Host",
+    "Pediatrics",
+    "Prophylaxis"
+  ],
+  "tags_custom": [
+    "AAD prevention",
+    "probiotic safety",
+    "pediatric guidelines",
+    "risk stratification"
+  ],
+  "reference_quote": "Indian guidance recommends against blanket prophylaxis and instead allows selective use when the risk of morbidity is higher (for example recurrent prior AAD, prolonged antibiotic exposure, hospitalization, or major comorbidity where diarrhoea consequences are greater).",
+  "document_key_topics": [
+    "Risk stratification for AAD prophylaxis",
+    "Probiotic safety and contraindications",
+    "Antibiotic stewardship in AAD prevention"
+  ],
+  "chunk_heading": "RESEARCH & EMERGING CONCEPTS;STRAIN SPECIFIC PROBIOTIC AND SYNBIOTIC PRESCRIBING;ANTIBIOTIC ASSOCIATED DIARRHEA PROPHYLAXIS RISK STRATIFICATION;",
+  "topic": "RESEARCH & EMERGING CONCEPTS",
+  "subtopic": "STRAIN SPECIFIC PROBIOTIC AND SYNBIOTIC PRESCRIBING",
+  "sub_subtopic": "ANTIBIOTIC ASSOCIATED DIARRHEA PROPHYLAXIS RISK STRATIFICATION",
+  "heading_path": "RESEARCH & EMERGING CONCEPTS;STRAIN SPECIFIC PROBIOTIC AND SYNBIOTIC PRESCRIBING;ANTIBIOTIC ASSOCIATED DIARRHEA PROPHYLAXIS RISK STRATIFICATION;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1q3"
+}

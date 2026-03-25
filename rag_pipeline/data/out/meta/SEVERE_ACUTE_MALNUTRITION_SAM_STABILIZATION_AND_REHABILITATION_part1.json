@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "This section focuses on the ten-step care model for managing severe acute malnutrition (SAM), emphasizing stabilization and rehabilitation phases based on WHO and national guidelines.",
+  "learning_objectives": [
+    "Understand the ten-step care model for managing SAM in children.",
+    "Identify key interventions during the stabilization and rehabilitation phases.",
+    "Learn evidence-based guidelines for preventing and managing wasting and nutritional oedema.",
+    "Apply operational protocols for facility-based management of SAM."
+  ],
+  "key_facts": [
+    "The ten-step care model includes critical interventions such as treating hypoglycemia, hypothermia, and dehydration.",
+    "Stabilization phase focuses on life-threatening conditions, while rehabilitation emphasizes nutritional recovery and growth.",
+    "WHO guidelines recommend small, frequent feeds during the stabilization phase to prevent refeeding syndrome.",
+    "Nutritional oedema management requires careful monitoring and therapeutic feeding protocols.",
+    "Facility-based management of SAM is outlined in the 2011 Indian Ministry of Health guidelines.",
+    "SAM affects millions of children globally, with a high risk of mortality if untreated."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Severe Acute Malnutrition",
+    "Nutritional Rehabilitation",
+    "Hypoglycemia",
+    "Hypothermia",
+    "Dehydration",
+    "Nutritional Oedema",
+    "Child Nutrition Disorders",
+    "Therapeutic Feeding"
+  ],
+  "tags_custom": [
+    "SAM management",
+    "Ten-step care model",
+    "Stabilization phase",
+    "Rehabilitation phase",
+    "Facility-based care"
+  ],
+  "reference_quote": "The ten-step care model for SAM management includes treating hypoglycemia, hypothermia, dehydration, and infections, followed by nutritional rehabilitation and catch-up growth. (Source: WHO Pocket Book of Hospital Care for Children, https://www.ncbi.nlm.nih.gov/books/NBK154454/)",
+  "document_key_topics": [
+    "Ten-step care model for SAM",
+    "Stabilization and rehabilitation phases",
+    "Management of nutritional oedema",
+    "Facility-based SAM care guidelines"
+  ],
+  "chunk_heading": "SEVERE ACUTE MALNUTRITION (SAM) MANAGEMENT;STABILIZATION AND REHABILITATION TEN-STEP CARE MODEL;",
+  "topic": "SEVERE ACUTE MALNUTRITION (SAM) MANAGEMENT",
+  "subtopic": "STABILIZATION AND REHABILITATION TEN-STEP CARE MODEL",
+  "sub_subtopic": null,
+  "heading_path": "SEVERE ACUTE MALNUTRITION (SAM) MANAGEMENT;STABILIZATION AND REHABILITATION TEN-STEP CARE MODEL;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1h.2"
+}

@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Guidance on calcium and vitamin D intake, sunlight exposure, and supplementation for preventing deficiencies, tailored to age, dietary habits, and cultural factors.",
+  "learning_objectives": [
+    "Understand dietary sources of calcium and vitamin D and their role in preventing deficiencies.",
+    "Learn how to prescribe sunlight exposure and vitamin D supplementation for different age groups.",
+    "Recognize the importance of separating calcium and iron supplementation to optimize absorption.",
+    "Identify risk factors for deficiencies in adolescents and provide targeted interventions."
+  ],
+  "key_facts": [
+    "Vitamin D supplementation: 400 IU/day throughout infancy.",
+    "Calcium-rich foods include milk, curd, paneer, ragi, sesame, soy products, and calcium-fortified foods.",
+    "Sunlight exposure: Mid-day outdoor exposure with face, forearms, and legs (if feasible) exposed; sunlight through glass is ineffective.",
+    "Separate calcium and iron supplementation by several hours to avoid absorption interference.",
+    "Adolescents with low sun exposure and dairy avoidance may require time-limited calcium supplements and risk-based 25(OH)D testing.",
+    "Vitamin D supplementation without calcium is insufficient for rickets therapy."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Calcium",
+    "Vitamin D",
+    "Micronutrients",
+    "Dietary Supplements",
+    "Sunlight",
+    "Rickets",
+    "Adolescent Nutrition",
+    "Infant Nutrition"
+  ],
+  "tags_custom": [
+    "Calcium-rich foods",
+    "Vitamin D guidelines",
+    "Sunlight exposure",
+    "Adolescent health"
+  ],
+  "reference_quote": "Recommend vitamin D 400 IU/day throughout infancy. For older children, give a concrete sunlight prescription: regular outdoor exposure around mid-day with face and forearms (and legs when feasible) exposed, while balancing sunburn risk and local air pollution constraints. Emphasize that sunlight through glass is ineffective. (Source: NIH Office of Dietary Supplements: Vitamin D fact sheet)",
+  "document_key_topics": [
+    "Calcium and vitamin D dietary sources",
+    "Sunlight exposure for vitamin D synthesis",
+    "Vitamin D supplementation guidelines",
+    "Adolescent and infant nutrition counseling"
+  ],
+  "chunk_heading": "MICRONUTRIENT NUTRITION;DIETARY COUNSELING FOR MICRONUTRIENT DEFICIENCY PREVENTION;CALCIUM AND VITAMIN D DIET AND SUNLIGHT PRESCRIPTION;",
+  "topic": "MICRONUTRIENT NUTRITION",
+  "subtopic": "DIETARY COUNSELING FOR MICRONUTRIENT DEFICIENCY PREVENTION",
+  "sub_subtopic": "CALCIUM AND VITAMIN D DIET AND SUNLIGHT PRESCRIPTION",
+  "heading_path": "MICRONUTRIENT NUTRITION;DIETARY COUNSELING FOR MICRONUTRIENT DEFICIENCY PREVENTION;CALCIUM AND VITAMIN D DIET AND SUNLIGHT PRESCRIPTION;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u009e2"
+}

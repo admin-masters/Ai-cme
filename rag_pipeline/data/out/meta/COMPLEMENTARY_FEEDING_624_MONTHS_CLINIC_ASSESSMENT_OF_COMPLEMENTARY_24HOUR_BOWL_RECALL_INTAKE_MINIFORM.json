@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "The 24-hour bowl recall intake mini-form is a structured tool for assessing complementary feeding in children aged 6\u201324 months, focusing on texture, amount, schedule, and caregiver interaction to guide clinical decisions and follow-up.",
+  "learning_objectives": [
+    "Understand the steps of conducting a 24-hour bowl recall for complementary feeding assessment.",
+    "Identify key feeding issues such as texture delays, excessive milk intake, or unsafe practices.",
+    "Learn how to document Minimum Dietary Diversity (MDD), Minimum Meal Frequency (MMF), and Minimum Acceptable Diet (MAD) indicators.",
+    "Apply measurable changes to improve feeding practices and monitor progress during follow-up visits."
+  ],
+  "key_facts": [
+    "The 24-hour bowl recall quantifies feeding texture, amount, schedule, and caregiver interaction.",
+    "Use a 250 mL cup estimate if the household bowl volume is unknown.",
+    "Rapid flags include meals >30 minutes, milk intake >500 mL/day, and unsafe storage/unboiled water.",
+    "MDD target is \u22655 out of 8 food groups; MMF requires age-appropriate solid/semi-solid/soft feeds.",
+    "MAD combines MDD and MMF; non-breastfed children need \u22652 milk feeds daily."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Complementary Feeding",
+    "Dietary Assessment",
+    "Child Nutrition",
+    "Growth Disorders",
+    "Feeding Behavior",
+    "Caregiver-Child Relations",
+    "Dietary Diversity",
+    "Malnutrition"
+  ],
+  "tags_custom": [
+    "24-hour recall",
+    "feeding indicators",
+    "clinical assessment",
+    "nutrition counseling",
+    "pediatric feeding"
+  ],
+  "reference_quote": "Faltering growth: recognition and management (NG75) \u2014 NICE: 'Use structured tools to assess feeding practices in children with weight faltering or other nutritional concerns.'",
+  "document_key_topics": [
+    "Complementary feeding assessment for 6\u201324 months",
+    "24-hour bowl recall methodology",
+    "Indicators for dietary diversity and meal frequency",
+    "Clinical management of feeding-related issues"
+  ],
+  "chunk_heading": "COMPLEMENTARY FEEDING 6\u201324 MONTHS;CLINIC ASSESSMENT OF COMPLEMENTARY FEEDING DOMAINS;24-HOUR BOWL RECALL INTAKE MINI-FORM;",
+  "topic": "COMPLEMENTARY FEEDING 6\u201324 MONTHS",
+  "subtopic": "CLINIC ASSESSMENT OF COMPLEMENTARY FEEDING DOMAINS",
+  "sub_subtopic": "24-HOUR BOWL RECALL INTAKE MINI-FORM",
+  "heading_path": "COMPLEMENTARY FEEDING 6\u201324 MONTHS;CLINIC ASSESSMENT OF COMPLEMENTARY FEEDING DOMAINS;24-HOUR BOWL RECALL INTAKE MINI-FORM;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1f3"
+}

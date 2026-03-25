@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "Guidelines for catch-up weight gain in children with faltering growth, including explicit targets, monitoring intervals, and tapering strategies to ensure safe and effective nutritional rehabilitation.",
+  "learning_objectives": [
+    "Understand the recommended weight gain targets for catch-up growth in children across different age groups.",
+    "Learn how to structure and monitor a catch-up growth plan, including time gates and response pathways.",
+    "Recognize the importance of tapering high-calorie interventions to prevent overshoot and ensure balanced growth."
+  ],
+  "key_facts": [
+    "Catch-up growth is defined as weight gain at 2\u20133 times the expected rate for age.",
+    "Expected weight gain rates: 0\u20133 months: 26\u201331 g/day, 3\u20136 months: 17\u201318 g/day, 6\u20139 months: 12\u201313 g/day, 9\u201312 months: 9 g/day, beyond 12 months: 7\u20139 g/day.",
+    "For children over 2 years, normal weight gain is slow, typically a few kilograms per year.",
+    "At 2 weeks, success is stabilization and upward weight movement; at 4 weeks, success is a sustained trend toward the prior centile/Z score channel.",
+    "High-calorie add-ons should be tapered once the growth trajectory returns to the prior channel to prevent overshoot.",
+    "Weight monitoring should occur every 1\u20132 weeks initially, then every 2\u20134 weeks, avoiding daily weights outside neonatal scenarios."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Faltering Growth",
+    "Nutritional Rehabilitation",
+    "Weight Gain",
+    "Child Nutrition Disorders",
+    "Growth Disorders",
+    "Pediatric Nutrition",
+    "Body Weight",
+    "Dietary Supplements"
+  ],
+  "tags_custom": [
+    "catch-up growth",
+    "weight monitoring",
+    "pediatric feeding",
+    "nutritional targets",
+    "growth trajectory"
+  ],
+  "reference_quote": "Define catch-up growth as weight gain at roughly 2\u20133 times the expected rate for age, provided feeding is safe and linear growth is monitored so weight gain is not fat-only. (Source: NICE NG75)",
+  "document_key_topics": [
+    "Catch-up weight gain targets",
+    "Nutritional rehabilitation strategies",
+    "Monitoring and tapering high-calorie interventions"
+  ],
+  "chunk_heading": "FEEDING DIFFICULTIES & FALTERING GROWTH;QUANTIFIED NUTRITIONAL REHABILITATION AND CATCH UP PRESCRIPTIONS;CATCH-UP WEIGHT GAIN TARGETS AND TAPERING RULES;",
+  "topic": "FEEDING DIFFICULTIES & FALTERING GROWTH",
+  "subtopic": "QUANTIFIED NUTRITIONAL REHABILITATION AND CATCH UP PRESCRIPTIONS",
+  "sub_subtopic": "CATCH-UP WEIGHT GAIN TARGETS AND TAPERING RULES",
+  "heading_path": "FEEDING DIFFICULTIES & FALTERING GROWTH;QUANTIFIED NUTRITIONAL REHABILITATION AND CATCH UP PRESCRIPTIONS;CATCH-UP WEIGHT GAIN TARGETS AND TAPERING RULES;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "3~2"
+}

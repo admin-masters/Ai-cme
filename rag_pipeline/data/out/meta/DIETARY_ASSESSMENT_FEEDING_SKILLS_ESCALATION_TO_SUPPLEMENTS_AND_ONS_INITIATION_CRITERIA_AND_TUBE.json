@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Guidelines for initiating oral nutritional supplements (ONS) and transitioning from enteral tube feeding to oral feeding, with criteria for escalation and step-down targets in pediatric patients.",
+  "learning_objectives": [
+    "Understand criteria for initiating oral nutritional supplements (ONS) in pediatric patients.",
+    "Identify indications for enteral tube feeding and appropriate feeding modalities (e.g., nasogastric vs. gastrostomy).",
+    "Learn step-down targets for transitioning from tube feeding to oral feeding.",
+    "Recognize the importance of maintaining oral stimulation during tube feeding to preserve feeding skills."
+  ],
+  "key_facts": [
+    "ONS is recommended when intake remains below needs despite a meal plan, moderate underweight or wasting with poor appetite, or increased requirements due to medical conditions like CHD or chronic lung disease.",
+    "Enteral tube feeding is indicated when oral intake is unsafe or persistently inadequate, such as <60% of needs over several days despite coaching and ONS.",
+    "Nasogastric (NG) feeding is suitable for short-to-medium duration, while gastrostomy is preferred for long-term feeding support.",
+    "Step-down targets include achieving >75% oral intake for several days, manageable meal durations, and improved weight velocity.",
+    "Reassess feeding plans every 2\u20134 weeks and maintain oral stimulation during tube feeding to prevent skill loss."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Dietary Supplements",
+    "Enteral Nutrition",
+    "Pediatric Malnutrition",
+    "Feeding Behavior",
+    "Nasogastric Intubation",
+    "Gastrostomy",
+    "Severe Acute Malnutrition",
+    "Nutritional Requirements"
+  ],
+  "tags_custom": [
+    "ONS initiation",
+    "Tube feeding transition",
+    "Pediatric feeding skills",
+    "Malnutrition management",
+    "Feeding therapy"
+  ],
+  "reference_quote": "Enteral tube feeding is indicated when oral intake is unsafe or persistently inadequate. High-yield triggers include aspiration risk not controllable with pacing or texture modification, severe wasting (including SAM) with poor oral intake, prolonged feeding times with fatigue, or failure to meet a meaningful proportion of estimated needs (for example consistently <60% over several days) despite coaching and ONS.",
+  "document_key_topics": [
+    "Oral nutritional supplements (ONS) initiation criteria",
+    "Indications for enteral tube feeding",
+    "Step-down targets for transitioning to oral feeding",
+    "Preservation of feeding skills during tube feeding"
+  ],
+  "chunk_heading": "DIETARY ASSESSMENT & FEEDING SKILLS EVALUATION;ESCALATION TO SUPPLEMENTS AND ENTERAL TUBE FEEDING;ONS INITIATION CRITERIA AND TUBE FEEDING STEP-DOWN TARGETS;",
+  "topic": "DIETARY ASSESSMENT & FEEDING SKILLS EVALUATION",
+  "subtopic": "ESCALATION TO SUPPLEMENTS AND ENTERAL TUBE FEEDING",
+  "sub_subtopic": "ONS INITIATION CRITERIA AND TUBE FEEDING STEP-DOWN TARGETS",
+  "heading_path": "DIETARY ASSESSMENT & FEEDING SKILLS EVALUATION;ESCALATION TO SUPPLEMENTS AND ENTERAL TUBE FEEDING;ONS INITIATION CRITERIA AND TUBE FEEDING STEP-DOWN TARGETS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u00841"
+}

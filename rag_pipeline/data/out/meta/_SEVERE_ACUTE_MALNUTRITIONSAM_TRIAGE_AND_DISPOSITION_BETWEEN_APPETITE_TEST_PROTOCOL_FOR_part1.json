@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "This section outlines the appetite test protocol used to determine outpatient eligibility for children with severe acute malnutrition (SAM), focusing on triage between inpatient and CMAM pathways based on clinical guidelines and standardized procedures.",
+  "learning_objectives": [
+    "Understand the criteria for conducting appetite tests in SAM management.",
+    "Learn how to triage children with SAM between inpatient and outpatient care pathways.",
+    "Identify key indicators for outpatient eligibility based on appetite test results.",
+    "Familiarize with national and international guidelines for SAM management."
+  ],
+  "key_facts": [
+    "Appetite tests are critical for assessing outpatient eligibility in SAM management.",
+    "Children failing the appetite test require inpatient care for close monitoring and therapeutic intervention.",
+    "The test involves offering ready-to-use therapeutic food (RUTF) and observing consumption within a specified timeframe.",
+    "Operational guidelines recommend conducting the test in a calm environment to ensure accurate results.",
+    "National Health Mission and WHO guidelines emphasize the importance of standardized protocols for SAM triage."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Malnutrition",
+    "Severe Acute Malnutrition",
+    "Appetite",
+    "Outpatient Care",
+    "Triage",
+    "Therapeutic Food",
+    "Child Nutrition Disorders",
+    "Clinical Protocols"
+  ],
+  "tags_custom": [
+    "SAM management",
+    "Appetite test protocol",
+    "Outpatient eligibility",
+    "CMAM pathways",
+    "Child health guidelines"
+  ],
+  "reference_quote": "Children who fail the appetite test should be referred for inpatient care to ensure close monitoring and therapeutic intervention. (Source: National Health Mission, Participant manual for facility-based care of severe acute malnutrition)",
+  "document_key_topics": [
+    "Appetite test protocol for SAM management",
+    "Triage between inpatient and outpatient care pathways",
+    "Guidelines for CMAM implementation"
+  ],
+  "chunk_heading": "- SEVERE ACUTE MALNUTRITION-(SAM) MANAGEMENT;TRIAGE AND DISPOSITION BETWEEN INPATIENT AND CMAM PATHWAYS;APPETITE TEST PROTOCOL FOR OUTPATIENT ELIGIBILITY;",
+  "topic": "- SEVERE ACUTE MALNUTRITION-(SAM) MANAGEMENT",
+  "subtopic": "TRIAGE AND DISPOSITION BETWEEN INPATIENT AND CMAM PATHWAYS",
+  "sub_subtopic": "APPETITE TEST PROTOCOL FOR OUTPATIENT ELIGIBILITY",
+  "heading_path": "- SEVERE ACUTE MALNUTRITION-(SAM) MANAGEMENT;TRIAGE AND DISPOSITION BETWEEN INPATIENT AND CMAM PATHWAYS;APPETITE TEST PROTOCOL FOR OUTPATIENT ELIGIBILITY;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "2a1.2"
+}

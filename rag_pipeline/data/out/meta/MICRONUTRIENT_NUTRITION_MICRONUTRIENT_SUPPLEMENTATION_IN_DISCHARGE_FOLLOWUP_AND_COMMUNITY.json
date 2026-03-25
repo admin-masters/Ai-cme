@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "Discharge follow-up for severe acute malnutrition (SAM) must include structured micronutrient plans, community integration, and reassessment to prevent relapse and ensure recovery.",
+  "learning_objectives": [
+    "Understand the importance of structured micronutrient supplementation plans post-discharge in SAM care.",
+    "Identify key follow-up assessments, including anthropometry, morbidity, and micronutrient adherence.",
+    "Learn how to integrate SAM recovery plans with community health programs and prophylaxis schedules.",
+    "Recognize when to evaluate for underlying conditions in cases of non-response to rehabilitation."
+  ],
+  "key_facts": [
+    "Micronutrient care must continue post-discharge to prevent relapse and missed supplementation.",
+    "Iron supplementation should only be restarted during the rehabilitation phase if the child is tolerating feeds.",
+    "Follow-up visits should assess weight gain, morbidity, and adherence to the micronutrient plan.",
+    "Deworming and integration with community health services, such as IFA and vitamin A prophylaxis, are essential.",
+    "Non-response to rehabilitation should prompt evaluation for tuberculosis, chronic diarrhea syndromes, and social risk factors.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Micronutrients",
+    "Severe Acute Malnutrition",
+    "Iron Deficiency Anemia",
+    "Vitamin A Deficiency",
+    "Child Nutrition Disorders",
+    "Community Health Services",
+    "Rehabilitation",
+    "Follow-Up Studies"
+  ],
+  "tags_custom": [
+    "SAM discharge care",
+    "Micronutrient follow-up",
+    "Community health integration",
+    "Pediatric malnutrition"
+  ],
+  "reference_quote": "A discharge micronutrient plan should specify what continues at home (multivitamins/minerals, vitamin D and calcium if indicated, iron if the child is in rehabilitation phase and tolerating feeds), and what should not be restarted prematurely.",
+  "document_key_topics": [
+    "Post-discharge micronutrient supplementation in SAM",
+    "Follow-up assessments for SAM recovery",
+    "Integration with community health programs"
+  ],
+  "chunk_heading": "MICRONUTRIENT NUTRITION;MICRONUTRIENT SUPPLEMENTATION IN SEVERE ACUTE MALNUTRITION CARE;DISCHARGE FOLLOWUP AND COMMUNITY PROGRAM INTEGRATION;",
+  "topic": "MICRONUTRIENT NUTRITION",
+  "subtopic": "MICRONUTRIENT SUPPLEMENTATION IN SEVERE ACUTE MALNUTRITION CARE",
+  "sub_subtopic": "DISCHARGE FOLLOWUP AND COMMUNITY PROGRAM INTEGRATION",
+  "heading_path": "MICRONUTRIENT NUTRITION;MICRONUTRIENT SUPPLEMENTATION IN SEVERE ACUTE MALNUTRITION CARE;DISCHARGE FOLLOWUP AND COMMUNITY PROGRAM INTEGRATION;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u009b3"
+}

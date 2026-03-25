@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section addresses the management of discordant ALT and ultrasound findings in pediatric MASLD screening, emphasizing guidelines from NASPGHAN, Indian Pediatrics, and AAP for diagnosis and staging in children with metabolic risk factors.",
+  "learning_objectives": [
+    "Understand the significance of discordant ALT and ultrasound findings in pediatric MASLD screening.",
+    "Learn diagnostic and staging approaches for MASLD in children based on clinical guidelines.",
+    "Explore the role of obesity and metabolic risk factors in MASLD progression.",
+    "Review evidence-based recommendations for pediatric MASLD management from authoritative sources."
+  ],
+  "key_facts": [
+    "ALT levels are a key biomarker for MASLD but may not always correlate with ultrasound findings.",
+    "NASPGHAN guidelines recommend ALT thresholds of >22 U/L for girls and >26 U/L for boys as indicative of MASLD risk.",
+    "Ultrasound imaging is a non-invasive tool but may miss early-stage MASLD or mild steatosis.",
+    "Discordant findings require further evaluation, including advanced imaging or biopsy in select cases.",
+    "Obesity is a major risk factor for MASLD, with prevalence increasing in pediatric populations globally.",
+    "Indian Pediatrics and AAP guidelines emphasize early screening in children with metabolic risk factors."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Non-alcoholic Fatty Liver Disease",
+    "Pediatrics",
+    "Alanine Transaminase",
+    "Ultrasonography",
+    "Obesity",
+    "Metabolic Syndrome",
+    "Liver Biopsy",
+    "Screening"
+  ],
+  "tags_custom": [
+    "MASLD diagnosis",
+    "pediatric liver health",
+    "discordant findings",
+    "ALT thresholds",
+    "clinical guidelines"
+  ],
+  "reference_quote": "NASPGHAN guidelines recommend ALT thresholds of >22 U/L for girls and >26 U/L for boys as indicative of MASLD risk. (Source: https://naspghan.org/files/NASPGHAN_NAFLDClinical_Practice_Guideline.pdf)",
+  "document_key_topics": [
+    "Discordant ALT and ultrasound findings in MASLD screening",
+    "Pediatric MASLD diagnosis and staging guidelines",
+    "Role of obesity and metabolic risk in MASLD progression"
+  ],
+  "chunk_heading": "METABOLIC RISK IN CHILDREN;PEDIATRIC MASLD SCREENING DIAGNOSIS AND STAGING;HANDLING DISCORDANT ALT AND ULTRASOUND FINDINGS;",
+  "topic": "METABOLIC RISK IN CHILDREN",
+  "subtopic": "PEDIATRIC MASLD SCREENING DIAGNOSIS AND STAGING",
+  "sub_subtopic": "HANDLING DISCORDANT ALT AND ULTRASOUND FINDINGS",
+  "heading_path": "METABOLIC RISK IN CHILDREN;PEDIATRIC MASLD SCREENING DIAGNOSIS AND STAGING;HANDLING DISCORDANT ALT AND ULTRASOUND FINDINGS;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1\u00823.2"
+}

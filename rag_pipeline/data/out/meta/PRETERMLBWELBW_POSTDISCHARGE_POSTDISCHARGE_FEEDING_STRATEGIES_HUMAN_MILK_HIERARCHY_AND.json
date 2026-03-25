@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "Guidelines prioritize mother\u2019s own milk (MOM) for preterm/LBW/ELBW infants post-discharge, with selective fortification for very preterm (<32 weeks) or VLBW infants to address nutritional gaps and ensure adequate growth.",
+  "learning_objectives": [
+    "Understand the hierarchy of human milk options for preterm/LBW/ELBW infants post-discharge.",
+    "Identify indications for selective fortification of human milk based on clinical criteria.",
+    "Learn practical strategies for monitoring growth and adjusting feeding plans.",
+    "Recognize the importance of setting stop/step-down rules for enriched feeding."
+  ],
+  "key_facts": [
+    "Mother\u2019s own milk (MOM) is the preferred feed post-discharge, with donor milk as a secondary option.",
+    "Unfortified human milk may not meet protein and mineral needs of very preterm (<32 weeks) or VLBW infants.",
+    "WHO does not recommend routine multicomponent fortification but allows it for very preterm or VLBW infants.",
+    "Indian guidelines suggest fortification for infants <32 weeks, <1.5 kg at birth, or with poor weight gain despite adequate breastfeeding.",
+    "Discharge weight often <2.0 kg with suboptimal growth trajectory may indicate need for enrichment.",
+    "First intervention for poor transfer at breast is observed feeding and expressed milk top-ups, not immediate formula switching."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Infant, Premature",
+    "Infant, Low Birth Weight",
+    "Breastfeeding",
+    "Human Milk",
+    "Milk, Human, Fortified",
+    "Nutritional Requirements",
+    "Postnatal Care",
+    "Growth and Development"
+  ],
+  "tags_custom": [
+    "human milk fortification",
+    "preterm nutrition",
+    "post-discharge feeding",
+    "low birth weight care",
+    "growth monitoring"
+  ],
+  "reference_quote": "The WHO guideline does not recommend routine multicomponent fortification for all preterm or LBW infants, but allows consideration for very preterm (<32 weeks) or VLBW infants fed human milk.",
+  "document_key_topics": [
+    "Human milk hierarchy for preterm infants",
+    "Indications for selective fortification",
+    "Post-discharge feeding strategies",
+    "Growth monitoring and enrichment adjustments"
+  ],
+  "chunk_heading": "PRETERM/LBW/ELBW POST-DISCHARGE NUTRITION;POST-DISCHARGE FEEDING STRATEGIES AND FORTIFICATION OPTIONS;HUMAN MILK HIERARCHY AND INDICATIONS FOR ENRICHMENT;",
+  "topic": "PRETERM/LBW/ELBW POST-DISCHARGE NUTRITION",
+  "subtopic": "POST-DISCHARGE FEEDING STRATEGIES AND FORTIFICATION OPTIONS",
+  "sub_subtopic": "HUMAN MILK HIERARCHY AND INDICATIONS FOR ENRICHMENT",
+  "heading_path": "PRETERM/LBW/ELBW POST-DISCHARGE NUTRITION;POST-DISCHARGE FEEDING STRATEGIES AND FORTIFICATION OPTIONS;HUMAN MILK HIERARCHY AND INDICATIONS FOR ENRICHMENT;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1u1"
+}

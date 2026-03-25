@@ -1,0 +1,47 @@
+{
+  "chunk_summary": "Environmental enteric dysfunction (EED) is a chronic subclinical condition impairing growth via gut inflammation and systemic effects. It is not a routine diagnosis but requires addressing diet, WASH behaviors, and early diarrhea treatment while ruling out other treatable conditions.",
+  "learning_objectives": [
+    "Understand the pathophysiology of environmental enteric dysfunction (EED) and its impact on growth.",
+    "Identify key interventions to mitigate EED, including dietary improvements and WASH practices.",
+    "Recognize when to evaluate for alternative diagnoses in cases of persistent symptoms or growth failure."
+  ],
+  "key_facts": [
+    "EED is driven by repeated fecal\u2013oral pathogen exposure, leading to gut inflammation and systemic effects like reduced IGF-1 activity.",
+    "EED is not a routine bedside diagnosis; biomarkers like stool inflammatory markers and lactulose:mannitol tests are not standardized for clinical use.",
+    "Management focuses on improving diet quality, protein adequacy, WASH behaviors, and early diarrhea treatment with ORS and zinc.",
+    "Persistent diarrhea, malabsorption, or systemic symptoms should prompt evaluation for coeliac disease, giardiasis, TB, or inflammatory bowel disease.",
+    "Growth monitoring over 8\u201312 weeks is essential to assess intervention effectiveness."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Environmental Enteric Dysfunction",
+    "Growth Disorders",
+    "Intestinal Permeability",
+    "Diarrhea",
+    "Malabsorption Syndromes",
+    "Fecal-Oral Transmission",
+    "Inflammation",
+    "Pediatric Nutrition"
+  ],
+  "tags_custom": [
+    "EED management",
+    "WASH interventions",
+    "pediatric growth failure",
+    "gut health"
+  ],
+  "reference_quote": "The WASH Benefits and SHINE trials: interpretation and implications for policy and practice \u2014 https://www.thelancet.com/journals/langlo/article/PIIS2",
+  "document_key_topics": [
+    "Environmental enteric dysfunction (EED)",
+    "Growth failure and stunting",
+    "WASH interventions and dietary improvements",
+    "Differential diagnosis in chronic gut conditions"
+  ],
+  "chunk_heading": "ROUTINELY;",
+  "topic": "ROUTINELY",
+  "subtopic": "General",
+  "sub_subtopic": null,
+  "heading_path": "ROUTINELY;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "4a"
+}

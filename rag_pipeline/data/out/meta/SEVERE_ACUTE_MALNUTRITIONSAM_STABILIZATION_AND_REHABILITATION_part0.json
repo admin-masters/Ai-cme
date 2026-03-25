@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section outlines the WHO ten-step care model for managing severe acute malnutrition (SAM), emphasizing inpatient stabilization and outpatient rehabilitation to prevent early deaths and ensure recovery.",
+  "learning_objectives": [
+    "Understand the ten-step WHO care model for SAM management.",
+    "Differentiate between inpatient stabilization and outpatient therapeutic feeding approaches.",
+    "Learn key interventions for preventing iatrogenic complications in SAM care.",
+    "Identify time windows for implementing specific steps in SAM management."
+  ],
+  "key_facts": [
+    "Early deaths in SAM are often iatrogenic, caused by fluid and feeding errors.",
+    "The ten-step model includes treating hypoglycemia, hypothermia, dehydration, and infections, and correcting electrolyte and micronutrient imbalances.",
+    "Day 0\u20132 focuses on stabilization (steps 1\u20137), while day 3\u20137 transitions to catch-up growth (step 8).",
+    "F-75 is used for cautious feeding during stabilization; F-100 and/or RUTF are introduced for catch-up growth.",
+    "Iron supplementation is delayed until the rehabilitation phase to avoid complications."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Malnutrition",
+    "Severe Acute Malnutrition",
+    "Nutritional Therapy",
+    "Electrolyte Imbalance",
+    "Hypoglycemia",
+    "Micronutrient Deficiency",
+    "Rehabilitation",
+    "Inpatient Care"
+  ],
+  "tags_custom": [
+    "SAM management",
+    "WHO ten-step model",
+    "Pediatric nutrition",
+    "Stabilization care",
+    "Outpatient rehabilitation"
+  ],
+  "reference_quote": "Early deaths in SAM are often iatrogenic (fluid and feeding errors) and danger signs may be muted. (Source: https://www.ncbi.nlm.nih.gov/books/NBK154454/)",
+  "document_key_topics": [
+    "WHO ten-step care model for SAM",
+    "Inpatient stabilization for complicated SAM",
+    "Outpatient therapeutic feeding for uncomplicated SAM",
+    "Time-phased interventions in SAM management"
+  ],
+  "chunk_heading": "SEVERE ACUTE MALNUTRITION-(SAM) MANAGEMENT;STABILIZATION AND  REHABILITATION TEN-STEP CARE MODEL;",
+  "topic": "SEVERE ACUTE MALNUTRITION-(SAM) MANAGEMENT",
+  "subtopic": "STABILIZATION AND  REHABILITATION TEN-STEP CARE MODEL",
+  "sub_subtopic": null,
+  "heading_path": "SEVERE ACUTE MALNUTRITION-(SAM) MANAGEMENT;STABILIZATION AND  REHABILITATION TEN-STEP CARE MODEL;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "2g.1"
+}

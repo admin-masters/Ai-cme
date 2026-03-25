@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "This section discusses zinc deficiency therapy in adolescents, emphasizing proper dosing, dietary strategies, and the risk of copper deficiency with prolonged high-dose zinc supplementation.",
+  "learning_objectives": [
+    "Understand the clinical signs and risk factors for zinc deficiency in adolescents.",
+    "Learn appropriate zinc supplementation dosages and therapy duration for subclinical and severe cases.",
+    "Recognize the risk of copper deficiency with chronic high-dose zinc use and its management.",
+    "Promote food-first strategies to address micronutrient deficiencies in Indian diets."
+  ],
+  "key_facts": [
+    "Zinc deficiency therapy for subclinical cases: 1 mg/kg/day of elemental zinc in 1\u20133 divided doses.",
+    "Severe cases like acrodermatitis enteropathica may require 3 mg/kg/day with specialist co-management.",
+    "Prolonged high-dose zinc can impair copper absorption, leading to anemia, neutropenia, and neurologic symptoms.",
+    "Dietary anchors for zinc include eggs, dairy, dals, legumes, nuts, seeds, and whole grains.",
+    "High-phytate diets (e.g., cereal-heavy patterns) can reduce zinc absorption; variety and preparation matter."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Zinc Deficiency",
+    "Copper Deficiency",
+    "Adolescent Nutrition",
+    "Micronutrients",
+    "Dietary Supplements",
+    "Malabsorption Syndromes",
+    "Acrodermatitis Enteropathica",
+    "Phytates"
+  ],
+  "tags_custom": [
+    "Zinc therapy",
+    "Copper risk mitigation",
+    "Indian diets",
+    "Micronutrient protocols"
+  ],
+  "reference_quote": "Clinical Practice Guidelines: Micronutrient deficiency (RCH) \u2014 Food-first anchors in Indian diets include eggs and dairy (if acceptable), dals and legumes (chana, rajma), nuts and seeds, and whole grains.",
+  "document_key_topics": [
+    "Zinc deficiency therapy in adolescents",
+    "Copper deficiency risk with high-dose zinc",
+    "Food-first strategies for micronutrient management",
+    "Dietary patterns and absorption in Indian contexts"
+  ],
+  "chunk_heading": "ADOLESCENT NUTRITION;MICRONUTRIENT DEFICIENCY MANAGEMENT PROTOCOLS;ZINC DEFICIENCY THERAPY AND COPPER DEFICIENCY RISK MITIGATION;",
+  "topic": "ADOLESCENT NUTRITION",
+  "subtopic": "MICRONUTRIENT DEFICIENCY MANAGEMENT PROTOCOLS",
+  "sub_subtopic": "ZINC DEFICIENCY THERAPY AND COPPER DEFICIENCY RISK MITIGATION",
+  "heading_path": "ADOLESCENT NUTRITION;MICRONUTRIENT DEFICIENCY MANAGEMENT PROTOCOLS;ZINC DEFICIENCY THERAPY AND COPPER DEFICIENCY RISK MITIGATION;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1t4"
+}

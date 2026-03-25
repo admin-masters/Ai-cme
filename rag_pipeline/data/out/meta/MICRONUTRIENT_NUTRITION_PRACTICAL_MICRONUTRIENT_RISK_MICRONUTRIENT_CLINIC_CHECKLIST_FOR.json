@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "This checklist provides a practical approach for assessing micronutrient deficiencies in children presenting with growth faltering, recurrent infections, or chronic conditions, using risk factors and physical signs before ordering diagnostic tests.",
+  "learning_objectives": [
+    "Identify risk factors and clinical signs for common micronutrient deficiencies in pediatric patients.",
+    "Understand the importance of targeted screening for anemia, calcium, vitamin A, iodine, and zinc deficiencies.",
+    "Learn to correlate dietary habits and medical history with physical examination findings for micronutrient risk assessment."
+  ],
+  "key_facts": [
+    "Anemia risk factors include high cow\u2019s milk intake, prematurity, pica, and worm exposure; signs include pallor, tachycardia, and poor growth.",
+    "Bone and calcium deficiency risk factors include low sun exposure, anticonvulsant use, and malabsorption; signs include craniotabes, rachitic rosary, and tetany.",
+    "Vitamin A deficiency risk factors include poor dietary diversity and chronic diarrhea; signs include conjunctival xerosis, Bitot spots, and night blindness.",
+    "Iodine deficiency risk factors include non-iodized salt use and family history of goiter; signs include dry skin, bradycardia, and goiter.",
+    "Zinc deficiency signs include periorificial dermatitis, alopecia, and growth faltering, often linked to high-phytate diets or persistent diarrhea.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Micronutrients",
+    "Nutritional Deficiencies",
+    "Anemia",
+    "Vitamin A Deficiency",
+    "Calcium Deficiency",
+    "Zinc Deficiency",
+    "Iodine Deficiency",
+    "Pediatrics"
+  ],
+  "tags_custom": [
+    "clinical checklist",
+    "pediatric nutrition",
+    "risk assessment",
+    "growth faltering",
+    "dietary screening"
+  ],
+  "reference_quote": "Anemia risk screen: high cow\u2019s milk intake, poor complementary feeding, prematurity/LBW, pica, worm exposure, heavy menstrual bleeding, chronic infection/inflammation, family history of hemoglobinopathy. (Source: IAP standard treatment guidelines: Iron deficiency anemia)",
+  "document_key_topics": [
+    "Micronutrient deficiency risk factors",
+    "Physical signs of nutritional deficiencies",
+    "Pediatric dietary and clinical screening"
+  ],
+  "chunk_heading": "MICRONUTRIENT NUTRITION;PRACTICAL MICRONUTRIENT RISK ASSESSMENT IN CLINIC;MICRONUTRIENT CLINIC CHECKLIST FOR HISTORY AND EXAMINATION;",
+  "topic": "MICRONUTRIENT NUTRITION",
+  "subtopic": "PRACTICAL MICRONUTRIENT RISK ASSESSMENT IN CLINIC",
+  "sub_subtopic": "MICRONUTRIENT CLINIC CHECKLIST FOR HISTORY AND EXAMINATION",
+  "heading_path": "MICRONUTRIENT NUTRITION;PRACTICAL MICRONUTRIENT RISK ASSESSMENT IN CLINIC;MICRONUTRIENT CLINIC CHECKLIST FOR HISTORY AND EXAMINATION;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "1g5"
+}

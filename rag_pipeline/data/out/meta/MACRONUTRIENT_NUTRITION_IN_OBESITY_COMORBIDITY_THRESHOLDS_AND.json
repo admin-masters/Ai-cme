@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "Guidelines for evaluating childhood obesity in India, including thresholds for comorbidities, referral criteria, and follow-up plans based on IAP and WHO standards.",
+  "learning_objectives": [
+    "Understand obesity severity classification using IAP and WHO thresholds for Indian children.",
+    "Learn criteria for endocrine and genetic evaluations in pediatric obesity cases.",
+    "Interpret lab results for dysglycemia, MASLD/NAFLD risk, and hypertension in obese children.",
+    "Develop structured follow-up plans based on comorbidity-driven lab findings."
+  ],
+  "key_facts": [
+    "Obesity thresholds: BMI-for-age cutoffs of 23 for overweight risk and 27 for obesity in Asian Indian children (IAP).",
+    "Dysglycemia: Prediabetes fasting glucose 100\u2013125 mg/dL; diabetes fasting glucose \u2265126 mg/dL.",
+    "MASLD/NAFLD risk: Elevated ALT >80 U/L warrants expedited assessment; normal ALT values are <26 U/L (males) and <22 U/L (females).",
+    "Endocrine evaluation: Indicated for obesity with short stature or falling height velocity.",
+    "Genetic evaluation: Lower threshold for obesity onset before 5 years, hyperphagia, consanguinity, dysmorphism, or developmental delay."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Childhood Obesity",
+    "Body Mass Index",
+    "Dysglycemia",
+    "Nonalcoholic Fatty Liver Disease",
+    "Hypertension",
+    "Endocrine Disorders",
+    "Genetic Predisposition",
+    "Pediatric Nutrition"
+  ],
+  "tags_custom": [
+    "Indian pediatric guidelines",
+    "Obesity comorbidities",
+    "MASLD risk thresholds",
+    "Structured follow-up plans"
+  ],
+  "reference_quote": "Use IAP thresholds to decide urgency and referral. Classify severity using the chart (under-5 WHO weight-for-height z-scores; 5\u201318 years IAP BMI-for-age with adult-equivalent cutoffs 23 for overweight risk and 27 for obesity in Asian Indian children).",
+  "document_key_topics": [
+    "Obesity severity classification in Indian children",
+    "Comorbidity thresholds for dysglycemia and MASLD/NAFLD",
+    "Criteria for endocrine and genetic evaluations",
+    "Structured follow-up plans for abnormal lab findings"
+  ],
+  "chunk_heading": "MACRONUTRIENT NUTRITION IN CHILDHOOD;OBESITY COMORBIDITY THRESHOLDS AND ESCALATION CRITERIA IN INDIA;",
+  "topic": "MACRONUTRIENT NUTRITION IN CHILDHOOD",
+  "subtopic": "OBESITY COMORBIDITY THRESHOLDS AND ESCALATION CRITERIA IN INDIA",
+  "sub_subtopic": null,
+  "heading_path": "MACRONUTRIENT NUTRITION IN CHILDHOOD;OBESITY COMORBIDITY THRESHOLDS AND ESCALATION CRITERIA IN INDIA;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "4|"
+}

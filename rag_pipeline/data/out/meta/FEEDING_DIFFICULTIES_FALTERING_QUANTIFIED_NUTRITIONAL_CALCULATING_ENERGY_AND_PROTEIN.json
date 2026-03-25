@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "Guidance on calculating energy and protein targets for catch-up growth in children with faltering growth, using age-based recommendations and measurable goals for nutritional rehabilitation.",
+  "learning_objectives": [
+    "Understand how to calculate energy and protein targets for catch-up growth using age-based recommendations.",
+    "Learn to assess the need for catch-up growth based on weight-for-length, weight loss, or growth trajectory decline.",
+    "Identify measurable outcomes and timelines for evaluating the success of nutritional rehabilitation.",
+    "Recognize when to taper intensified nutrition and transition to maintenance."
+  ],
+  "key_facts": [
+    "Baseline energy and protein needs should be estimated using age-based recommendations, such as ICMR-NIN guidance.",
+    "Catch-up energy targets can be calculated by multiplying age-adjusted energy requirements (kcal/kg/day) by the ratio of ideal body weight to current weight.",
+    "Protein targets can be calculated using the same method as energy targets.",
+    "Weight should stabilize and trend upward within 2 weeks, with a return to prior growth trajectory by 4 weeks.",
+    "Catch-up nutrition should be tapered once the child approaches their pre-faltering centile band or Z score."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Feeding Behavior",
+    "Growth Disorders",
+    "Nutritional Requirements",
+    "Energy Intake",
+    "Dietary Proteins",
+    "Pediatric Nutrition",
+    "Body Weight",
+    "Nutritional Rehabilitation"
+  ],
+  "tags_custom": [
+    "catch-up growth",
+    "faltering growth",
+    "nutritional prescription",
+    "pediatric weight management"
+  ],
+  "reference_quote": "A practical catch-up method from AAP guidance is to multiply the age-adjusted energy requirement (kcal/kg/day) by the ratio of ideal body weight for the child\u2019s length/height divided by the child\u2019s current weight.",
+  "document_key_topics": [
+    "Feeding difficulties in children",
+    "Nutritional rehabilitation for faltering growth",
+    "Energy and protein target calculations for catch-up growth",
+    "Monitoring and tapering catch-up nutrition"
+  ],
+  "chunk_heading": "FEEDING DIFFICULTIES & FALTERING GROWTH;QUANTIFIED NUTRITIONAL REHABILITATION AND CATCH UP PRESCRIPTIONS;CALCULATING ENERGY AND PROTEIN TARGETS FOR CATCH UP;",
+  "topic": "FEEDING DIFFICULTIES & FALTERING GROWTH",
+  "subtopic": "QUANTIFIED NUTRITIONAL REHABILITATION AND CATCH UP PRESCRIPTIONS",
+  "sub_subtopic": "CALCULATING ENERGY AND PROTEIN TARGETS FOR CATCH UP",
+  "heading_path": "FEEDING DIFFICULTIES & FALTERING GROWTH;QUANTIFIED NUTRITIONAL REHABILITATION AND CATCH UP PRESCRIPTIONS;CALCULATING ENERGY AND PROTEIN TARGETS FOR CATCH UP;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "3}1"
+}

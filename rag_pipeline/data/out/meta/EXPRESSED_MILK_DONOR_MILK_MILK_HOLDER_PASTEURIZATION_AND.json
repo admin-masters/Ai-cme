@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Holder pasteurization ensures the safety of donor milk by heating to 62.5\u00b0C for 30 minutes, followed by microbiological testing to meet release criteria. Contaminated or failed batches are discarded to maintain quality and safety.",
+  "learning_objectives": [
+    "Understand the process and purpose of holder pasteurization in donor milk banking.",
+    "Identify microbiological release criteria for pasteurized donor milk.",
+    "Recognize the importance of aseptic techniques and batch traceability in milk banking.",
+    "Learn the protocols for handling contaminated or failed milk batches."
+  ],
+  "key_facts": [
+    "Holder pasteurization involves heating milk to 62.5\u00b0C for 30 minutes, then cooling to 4\u00b0C within 10 minutes.",
+    "Pooled raw milk with high Staphylococcus aureus counts or gross contamination is discarded, not pasteurized.",
+    "Post-pasteurization, milk is released only if cultures show no significant bacterial growth (<10 CFU/mL).",
+    "Pasteurized donor milk is stored frozen at -20\u00b0C with an expiry of up to 6 months.",
+    "Failed batches are discarded rather than repasteurized to avoid cumulative heat damage."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Milk Banks",
+    "Pasteurization",
+    "Microbiological Techniques",
+    "Infant, High-Risk",
+    "Staphylococcus aureus",
+    "Food Safety",
+    "Freezing",
+    "Quality Control"
+  ],
+  "tags_custom": [
+    "donor milk safety",
+    "milk pasteurization",
+    "microbiological testing",
+    "batch traceability",
+    "contamination protocols"
+  ],
+  "reference_quote": "Donor human milk for the high-risk infant: preparation, safety, and usage options in the United States \u2014 https://publications.aap.org/pediatrics/artic...",
+  "document_key_topics": [
+    "Holder pasteurization process and standards",
+    "Microbiological release criteria for donor milk",
+    "Handling and storage of pasteurized donor milk",
+    "Protocols for contaminated or failed milk batches"
+  ],
+  "chunk_heading": "EXPRESSED MILK, DONOR MILK & MILK BANKING;HOLDER PASTEURIZATION AND MICROBIOLOGICAL RELEASE CRITERIA;",
+  "topic": "EXPRESSED MILK, DONOR MILK & MILK BANKING",
+  "subtopic": "HOLDER PASTEURIZATION AND MICROBIOLOGICAL RELEASE CRITERIA",
+  "sub_subtopic": null,
+  "heading_path": "EXPRESSED MILK, DONOR MILK & MILK BANKING;HOLDER PASTEURIZATION AND MICROBIOLOGICAL RELEASE CRITERIA;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2q"
+}

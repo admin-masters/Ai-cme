@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section discusses protocols for bolus, continuous, and slow gravity delivery in enteral nutrition, emphasizing patient-specific approaches, safety measures, and interruption management.",
+  "learning_objectives": [
+    "Understand the differences between bolus, continuous, and slow gravity feeding protocols in enteral nutrition.",
+    "Learn how to safely implement bolus feeding with controlled delivery times and volume limits.",
+    "Identify strategies to manage interruptions and prevent underfeeding in enteral nutrition.",
+    "Recognize contamination risks and safe hang times for different feeding systems and climates."
+  ],
+  "key_facts": [
+    "Bolus feeding should be delivered over 20\u201330 minutes to reduce emesis and aspiration risks.",
+    "Continuous feeding is preferred for impaired gastric emptying, fluid restrictions, or postpyloric feeding (e.g., jejunal feeds).",
+    "Slow gravity feeding can be used as a semi-continuous method over 30\u201360 minutes when pumps are unavailable.",
+    "Open systems have shorter safe hang times than closed systems; blenderized feeds often require hang times \u22642 hours.",
+    "Protocols should include a restart plan after interruptions to prevent underfeeding, with daily checks of delivered versus prescribed nutrition."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Enteral Nutrition",
+    "Parenteral Nutrition",
+    "Feeding Methods",
+    "Bolus Feeding",
+    "Continuous Feeding",
+    "Gastric Emptying",
+    "Nutrition Protocols",
+    "Contamination Control"
+  ],
+  "tags_custom": [
+    "feeding protocols",
+    "nutrition delivery",
+    "interruption management",
+    "pediatric nutrition",
+    "gravity feeding"
+  ],
+  "reference_quote": "Intermittent bolus gastric feeding is usually preferred for stable children because it is more physiologic, easier to schedule, and easier for families to replicate at home. (Source: ESPGHAN Practical Approach to Paediatric Enteral Nutrition)",
+  "document_key_topics": [
+    "Bolus versus continuous feeding protocols",
+    "Safe delivery methods for enteral nutrition",
+    "Contamination control and hang times",
+    "Interruption management in nutrition delivery"
+  ],
+  "chunk_heading": "ENTERAL & PARENTERAL NUTRITION;PUMP VERSUS BOLUS  DELIVERY AND INTERRUPTION CONTROL;BOLUS CONTINUOUS AND SLOW GRAVITY DELIVERY PROTOCOLS;",
+  "topic": "ENTERAL & PARENTERAL NUTRITION",
+  "subtopic": "PUMP VERSUS BOLUS  DELIVERY AND INTERRUPTION CONTROL",
+  "sub_subtopic": "BOLUS CONTINUOUS AND SLOW GRAVITY DELIVERY PROTOCOLS",
+  "heading_path": "ENTERAL & PARENTERAL NUTRITION;PUMP VERSUS BOLUS  DELIVERY AND INTERRUPTION CONTROL;BOLUS CONTINUOUS AND SLOW GRAVITY DELIVERY PROTOCOLS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2}1"
+}

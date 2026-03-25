@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "Guidance on referral thresholds for VFSS/FEES and interim bedside dysphagia strategies, focusing on airway protection, feeding safety, and energy efficiency in children with feeding difficulties.",
+  "learning_objectives": [
+    "Identify high-priority referral triggers for VFSS/FEES in pediatric patients with feeding difficulties.",
+    "Implement safe bedside dysphagia strategies while awaiting instrumental assessment.",
+    "Understand the risks and benefits of texture and liquid modifications in children with dysphagia.",
+    "Document clinical questions effectively for VFSS/FEES in resource-limited settings."
+  ],
+  "key_facts": [
+    "High-priority referral triggers include recurrent pneumonia, coughing with multiple textures, wet voice after swallowing, and growth faltering with respiratory symptoms.",
+    "Suspected silent aspiration is particularly concerning in children with CP, hypotonia, or prior NICU respiratory disease.",
+    "Bedside strategies include upright positioning, slow pacing with small boluses, and stopping feeding at stress cues like tachypnea or desaturation.",
+    "Avoid prolonged empiric thickening of liquids without specialist guidance due to risks of reduced intake and constipation.",
+    "Use standardized levels like IDDSI for texture modifications but avoid advancing textures in children showing signs of fatigue or pocketing.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Dysphagia",
+    "Pediatric Feeding Disorders",
+    "Videofluoroscopic Swallow Study",
+    "Fiberoptic Endoscopic Evaluation of Swallowing",
+    "Airway Management",
+    "Aspiration Pneumonia",
+    "Postural Support",
+    "Texture Modification"
+  ],
+  "tags_custom": [
+    "feeding safety",
+    "bedside strategies",
+    "dysphagia management",
+    "pediatric aspiration",
+    "nutrition assessment"
+  ],
+  "reference_quote": "Treat the following as high-priority referral triggers: recurrent pneumonia or wheeze temporally related to feeds, coughing or choking with multiple textures, wet or gurgly voice/cry after swallowing, color change or apnea with feeding, and growth faltering where respiratory symptoms worsen with oral intake. (Source: ASHA Practice Portal)",
+  "document_key_topics": [
+    "Referral thresholds for VFSS/FEES",
+    "Bedside dysphagia strategies",
+    "Texture and liquid modification",
+    "Pediatric feeding safety"
+  ],
+  "chunk_heading": "DIETARY ASSESSMENT & FEEDING SKILLS EVALUATION;INDICATIONS FOR VFSS AND FEES SWALLOW STUDIES;REFERRAL THRESHOLDS AND INTERIM BEDSIDE DYSPHAGIA STRATEGIES;",
+  "topic": "DIETARY ASSESSMENT & FEEDING SKILLS EVALUATION",
+  "subtopic": "INDICATIONS FOR VFSS AND FEES SWALLOW STUDIES",
+  "sub_subtopic": "REFERRAL THRESHOLDS AND INTERIM BEDSIDE DYSPHAGIA STRATEGIES",
+  "heading_path": "DIETARY ASSESSMENT & FEEDING SKILLS EVALUATION;INDICATIONS FOR VFSS AND FEES SWALLOW STUDIES;REFERRAL THRESHOLDS AND INTERIM BEDSIDE DYSPHAGIA STRATEGIES;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1v1"
+}

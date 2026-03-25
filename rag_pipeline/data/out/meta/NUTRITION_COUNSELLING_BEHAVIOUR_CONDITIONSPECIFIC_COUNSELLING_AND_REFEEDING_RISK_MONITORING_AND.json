@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "Guidelines for monitoring and managing refeeding risk in severe undernutrition and eating disorders, emphasizing inpatient care for unstable cases and stepwise outpatient rehabilitation with electrolyte monitoring.",
+  "learning_objectives": [
+    "Understand the clinical criteria for identifying refeeding syndrome in severe undernutrition and eating disorders.",
+    "Learn the indications for inpatient versus outpatient management of high-risk patients.",
+    "Recognize the importance of monitoring electrolytes and organ function during nutritional rehabilitation.",
+    "Apply stepwise calorie escalation protocols to minimize refeeding risks."
+  ],
+  "key_facts": [
+    "Refeeding syndrome involves drops in phosphate, potassium, and magnesium within the first 5 days of calorie reintroduction.",
+    "Hospitalization is indicated for patients with \u226475% median BMI for age/sex, electrolyte disturbances, or severe bradycardia.",
+    "Baseline labs (phosphate, potassium, magnesium, glucose, renal function) should be obtained before major calorie escalation.",
+    "Electrolytes should be rechecked within 24\u201372 hours of calorie escalation in high-risk patients.",
+    "Outpatient care requires a 'start lower, advance stepwise, monitor early' approach to calorie reintroduction.",
+    "Inpatient care is necessary for unstable patients with edema, severe wasting, dehydration, or altered sensorium."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Refeeding Syndrome",
+    "Severe Acute Malnutrition",
+    "Eating Disorders",
+    "Electrolyte Imbalance",
+    "Nutritional Rehabilitation",
+    "Hypophosphatemia",
+    "Hospitalization Criteria",
+    "Adolescent Health"
+  ],
+  "tags_custom": [
+    "refeeding risk",
+    "nutritional monitoring",
+    "inpatient care",
+    "electrolyte management",
+    "eating disorder treatment"
+  ],
+  "reference_quote": "ASPEN describes refeeding syndrome around drops in phosphate, potassium, and magnesium occurring within the first 5 days of calorie reintroduction, with severity defined by the magnitude of electrolyte fall and/or organ dysfunction.",
+  "document_key_topics": [
+    "Refeeding syndrome identification and management",
+    "Inpatient versus outpatient care criteria",
+    "Electrolyte monitoring during nutritional rehabilitation",
+    "Stepwise calorie escalation protocols"
+  ],
+  "chunk_heading": "NUTRITION COUNSELLING & BEHAVIOUR CHANGE SKILLS;CONDITION-SPECIFIC COUNSELLING AND ESCALATION PATHWAYS;REFEEDING RISK MONITORING AND ESCALATION IN SEVERE UNDERNUTRITION AND EATING DISORDERS;",
+  "topic": "NUTRITION COUNSELLING & BEHAVIOUR CHANGE SKILLS",
+  "subtopic": "CONDITION-SPECIFIC COUNSELLING AND ESCALATION PATHWAYS",
+  "sub_subtopic": "REFEEDING RISK MONITORING AND ESCALATION IN SEVERE UNDERNUTRITION AND EATING DISORDERS",
+  "heading_path": "NUTRITION COUNSELLING & BEHAVIOUR CHANGE SKILLS;CONDITION-SPECIFIC COUNSELLING AND ESCALATION PATHWAYS;REFEEDING RISK MONITORING AND ESCALATION IN SEVERE UNDERNUTRITION AND EATING DISORDERS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u00829"
+}

@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "Levothyroxine dosing for pediatric hypothyroidism is age- and weight-dependent, with monitoring protocols to optimize thyroid function and clinical outcomes.",
+  "learning_objectives": [
+    "Understand age- and weight-based levothyroxine dosing guidelines for pediatric hypothyroidism.",
+    "Learn administration techniques to improve levothyroxine absorption and avoid treatment failure.",
+    "Develop a monitoring plan for thyroid function and clinical outcomes in children with hypothyroidism."
+  ],
+  "key_facts": [
+    "Infants require 8\u201315 micrograms/kg/day of levothyroxine, school-age children 4\u20136 micrograms/kg/day, and adolescents 2\u20134 micrograms/kg/day.",
+    "Levothyroxine should be administered daily at a consistent time, avoiding iron, calcium, and soy-based feeds to prevent absorption issues.",
+    "TSH and free T4 should be rechecked 4\u20136 weeks after therapy initiation or dose changes, then every 3\u20136 months once stable.",
+    "Lower initial doses may be used in severe hypothyroidism to reduce risks like pseudotumor cerebri.",
+    "Clinical monitoring includes growth velocity, pubertal progression, and school performance."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Hypothyroidism",
+    "Levothyroxine",
+    "Thyroid Function Tests",
+    "Pediatric Endocrinology",
+    "Iodine Deficiency",
+    "Thyroid Hormones",
+    "Drug Monitoring",
+    "Growth and Development"
+  ],
+  "tags_custom": [
+    "pediatric hypothyroidism",
+    "levothyroxine dosing",
+    "thyroid monitoring",
+    "nutritional endocrinology",
+    "clinical protocols"
+  ],
+  "reference_quote": "Indian Academy of Pediatrics Standard Treatment Guidelines recommend referral to pediatric endocrinology for infants, congenital hypothyroidism, very high TSH with low free T4, or persistent abnormal tests despite verified treatment adherence.",
+  "document_key_topics": [
+    "Levothyroxine dosing guidelines for children",
+    "Monitoring thyroid function and clinical outcomes",
+    "Impact of iodine deficiency on thyroid dysfunction",
+    "Administration and absorption considerations for levothyroxine"
+  ],
+  "chunk_heading": "MICRONUTRIENT NUTRITION;IODINE DEFICIENCY AND THYROID DYSFUNCTION DECISIONS;LEVOTHYROXINE DOSING TITRATION AND MONITORING PLAN;",
+  "topic": "MICRONUTRIENT NUTRITION",
+  "subtopic": "IODINE DEFICIENCY AND THYROID DYSFUNCTION DECISIONS",
+  "sub_subtopic": "LEVOTHYROXINE DOSING TITRATION AND MONITORING PLAN",
+  "heading_path": "MICRONUTRIENT NUTRITION;IODINE DEFICIENCY AND THYROID DYSFUNCTION DECISIONS;LEVOTHYROXINE DOSING TITRATION AND MONITORING PLAN;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1}4"
+}

@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "Children with severe neurodisability face high risks of micronutrient deficiencies and poor bone health, requiring annual surveillance, targeted lab panels, and preventive measures like vitamin D correction, calcium optimization, and mobility support.",
+  "learning_objectives": [
+    "Understand the risk factors for micronutrient deficiencies and poor bone health in children with severe neurodisability.",
+    "Identify appropriate laboratory tests and screening intervals for high-risk children.",
+    "Learn preventive strategies for optimizing bone health, including dietary and mobility interventions.",
+    "Recognize the limitations of tube feeding in addressing bone health risks without supplementation."
+  ],
+  "key_facts": [
+    "Children with neurodisability are at elevated risk due to low intake, selective diets, reduced sun exposure, and anticonvulsant use.",
+    "Annual screening is recommended for high-risk children, with intensified monitoring during catch-up feeding or after infections.",
+    "A clinic-ready lab panel includes CBC with iron status, vitamin D, calcium, phosphate, and optionally B12, folate, zinc, and copper.",
+    "Low-trauma fractures warrant calcium-phosphate evaluation and possibly DXA scanning.",
+    "Tube feeding improves nutrient delivery but does not automatically correct bone risks without monitoring and supplementation.",
+    "India-specific guidance prioritizes hemoglobin, iron, vitamin D, and calcium-phosphate testing where lab access is limited."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Neurodevelopmental Disorders",
+    "Micronutrients",
+    "Bone Health",
+    "Vitamin D Deficiency",
+    "Calcium Metabolism",
+    "Tube Feeding",
+    "Osteoporosis",
+    "Pediatric Nutrition"
+  ],
+  "tags_custom": [
+    "neurodisability",
+    "bone health surveillance",
+    "micronutrient deficiency",
+    "feeding support",
+    "India-specific guidelines"
+  ],
+  "reference_quote": "Annual screening is reasonable for high-risk children and should be intensified when initiating aggressive catch-up feeding, after repeated infections, or when clinical signs suggest deficiency.",
+  "document_key_topics": [
+    "Micronutrient deficiencies in neurodisability",
+    "Bone health surveillance and prevention",
+    "Laboratory testing and screening protocols",
+    "India-specific adaptations for resource-limited settings"
+  ],
+  "chunk_heading": "NEURODISABILITY AND FEEDING SUPPORT;MICRONUTRIENT AND BONE HEALTH SURVEILLANCE IN SEVERE DISABILITY;",
+  "topic": "NEURODISABILITY AND FEEDING SUPPORT",
+  "subtopic": "MICRONUTRIENT AND BONE HEALTH SURVEILLANCE IN SEVERE DISABILITY",
+  "sub_subtopic": null,
+  "heading_path": "NEURODISABILITY AND FEEDING SUPPORT;MICRONUTRIENT AND BONE HEALTH SURVEILLANCE IN SEVERE DISABILITY;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1h.1"
+}

@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "Gastrostomy decision-making in neurodisability focuses on shared decision-making, pre-operative optimization, and risk mitigation, addressing complications, anatomical risks, and post-procedure care to improve feeding outcomes and reduce caregiver burden.",
+  "learning_objectives": [
+    "Understand the role of gastrostomy as a long-term feeding strategy in neurodisability.",
+    "Identify pre-operative optimization steps to mitigate peri-procedure risks.",
+    "Recognize common complications and post-procedure management strategies.",
+    "Evaluate anatomical and clinical factors influencing gastrostomy placement."
+  ],
+  "key_facts": [
+    "Gastrostomy reduces aspiration risk, improves growth, and shortens feeding time in severe CP cases.",
+    "Feeding time >3 hours/day, recurrent pneumonias, and growth faltering are key indicators for gastrostomy.",
+    "Pre-operative optimization includes correcting anemia, malnutrition, and constipation, and ensuring respiratory stability.",
+    "Antibiotic prophylaxis reduces peristomal infection, and early feeding (within 3 hours) is safe in stable children.",
+    "Dislodgement protocols treat the tract as immature for 6-12 weeks, requiring surgical input if dislodged.",
+    "High-risk anatomy (e.g., severe scoliosis, ventriculoperitoneal shunt) may necessitate laparoscopic-assisted placement."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Gastrostomy",
+    "Cerebral Palsy",
+    "Feeding and Eating Disorders",
+    "Preoperative Care",
+    "Postoperative Complications",
+    "Respiratory Aspiration",
+    "Malnutrition",
+    "Caregivers"
+  ],
+  "tags_custom": [
+    "Neurodisability feeding",
+    "Gastrostomy complications",
+    "Pre-operative optimization",
+    "Caregiver burden",
+    "Pediatric feeding support"
+  ],
+  "reference_quote": "Studies in severe CP show improved growth and reduced caregiver feeding time after gastrostomy, but counseling should also cover common minor complications (granulation tissue, leakage, superficial infection).",
+  "document_key_topics": [
+    "Gastrostomy as a long-term feeding strategy",
+    "Pre-operative optimization and risk mitigation",
+    "Post-procedure complications and management",
+    "Anatomical and clinical considerations in gastrostomy placement"
+  ],
+  "chunk_heading": "NEURODISABILITY AND FEEDING SUPPORT;GASTROSTOMY DECISION-MAKING AND PERI-PROCEDURE RISK MITIGATION;",
+  "topic": "NEURODISABILITY AND FEEDING SUPPORT",
+  "subtopic": "GASTROSTOMY DECISION-MAKING AND PERI-PROCEDURE RISK MITIGATION",
+  "sub_subtopic": null,
+  "heading_path": "NEURODISABILITY AND FEEDING SUPPORT;GASTROSTOMY DECISION-MAKING AND PERI-PROCEDURE RISK MITIGATION;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1x.1"
+}

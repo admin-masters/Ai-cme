@@ -1,0 +1,47 @@
+{
+  "chunk_summary": "This section outlines anthropometry-based malnutrition classification and referral thresholds for infants under 2 years, emphasizing accurate measurements, z-score interpretation, and urgent referral criteria for severe cases.",
+  "learning_objectives": [
+    "Understand the use of anthropometry as a clinical decision tool for malnutrition classification in children under 2 years.",
+    "Learn the interpretation of WFA, LFA, and WFL z-scores and their thresholds for stunting, wasting, and underweight.",
+    "Identify urgent referral criteria for severe wasting, nutritional edema, and feeding difficulties in infants under 6 months."
+  ],
+  "key_facts": [
+    "Wasting is defined as WFL z-score \u2264 -2 (moderate: -2 to -3; severe: < -3).",
+    "Stunting is defined as LFA z-score \u2264 -2.",
+    "Bilateral pitting edema indicates nutritional edema and requires SAM treatment regardless of measurements.",
+    "MUAC cutoffs are validated for ages 6\u201359 months and should not replace WFL assessment in younger infants.",
+    "Infants under 6 months with weight loss >10% after day 3\u20135 or failure to regain birth weight by 10\u201314 days require escalation."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Anthropometry",
+    "Malnutrition",
+    "Infant Nutrition",
+    "Growth Disorders",
+    "Edema",
+    "Weight-for-Length",
+    "Stunting",
+    "Wasting Syndrome"
+  ],
+  "tags_custom": [
+    "feeding difficulties",
+    "growth faltering",
+    "malnutrition triage",
+    "infant anthropometry",
+    "referral thresholds"
+  ],
+  "reference_quote": "Use anthropometry as a decision tool, not just documentation. Routinely interpret three indices: weight-for-age (WFA), length-for-age (LFA), and weight-for-length (WFL).",
+  "document_key_topics": [
+    "Anthropometry-based malnutrition classification",
+    "Referral thresholds for severe malnutrition",
+    "Feeding difficulties in infants under 6 months"
+  ],
+  "chunk_heading": "INFANT & YOUNG CHILD FEEDING UNDER 2 YEARS;CLINICAL DECISION PATHWAYS FOR  FEEDING DIFFICULTIES AND GROWTH FALTERING;ANTHROPOMETRY-BASED MALNUTRITION CLASSIFICATION AND REFERRAL THRESHOLDS;",
+  "topic": "INFANT & YOUNG CHILD FEEDING UNDER 2 YEARS",
+  "subtopic": "CLINICAL DECISION PATHWAYS FOR  FEEDING DIFFICULTIES AND GROWTH FALTERING",
+  "sub_subtopic": "ANTHROPOMETRY-BASED MALNUTRITION CLASSIFICATION AND REFERRAL THRESHOLDS",
+  "heading_path": "INFANT & YOUNG CHILD FEEDING UNDER 2 YEARS;CLINICAL DECISION PATHWAYS FOR  FEEDING DIFFICULTIES AND GROWTH FALTERING;ANTHROPOMETRY-BASED MALNUTRITION CLASSIFICATION AND REFERRAL THRESHOLDS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "4\u00861.1"
+}

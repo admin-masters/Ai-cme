@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "First-hour stabilization in complicated SAM focuses on preventing early deaths from hypoglycemia, hypothermia, respiratory failure, dehydration, and infection during referral or transfer to inpatient care.",
+  "learning_objectives": [
+    "Understand the critical interventions for stabilizing children with complicated SAM during the first hour.",
+    "Learn the importance of managing hypoglycemia, hypothermia, and respiratory distress in SAM physiology.",
+    "Recognize the need for cautious fluid management and early antibiotic administration in complicated SAM cases."
+  ],
+  "key_facts": [
+    "Hypoglycemia and hypothermia often coexist in SAM and predict deterioration.",
+    "First-dose parenteral antibiotics should be given before referral, following local protocols and resistance patterns.",
+    "Avoid large-volume fluids; administer fluids only if strict shock criteria are met and reassess frequently.",
+    "Respiratory distress, chest indrawing, or cyanosis require oxygen and urgent referral due to risks of pneumonia and sepsis.",
+    "Transfer notes must include malnutrition classification, treatments given, temperature, glucose status, and danger sign monitoring instructions.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Malnutrition",
+    "Severe Acute Malnutrition",
+    "Hypoglycemia",
+    "Hypothermia",
+    "Respiratory Distress Syndrome",
+    "Fluid Therapy",
+    "Antibiotics",
+    "Pediatric Emergency Care"
+  ],
+  "tags_custom": [
+    "Complicated SAM",
+    "First-hour stabilization",
+    "Referral protocols",
+    "Inpatient care preparation",
+    "Emergency pediatric management"
+  ],
+  "reference_quote": "Treat before transport when possible. If the child is lethargic, convulsing, cold, or severely ill, assume high hypoglycemia risk and give glucose/sucrose as per local protocol rather than waiting for laboratory confirmation. (Source: IMNCI Chart Booklet for Medical Officers, 2023)",
+  "document_key_topics": [
+    "First-hour stabilization in complicated SAM",
+    "Management of hypoglycemia and hypothermia",
+    "Respiratory distress and infection control in SAM",
+    "Safe transfer and referral protocols for SAM cases"
+  ],
+  "chunk_heading": "MALNUTRITION\u2014UNDERNUTRITION: SCREENING & CLASSIFICATION;FIRST-HOUR STABILIZATION AND SAFE TRANSFER IN COMPLICATED SAM;",
+  "topic": "MALNUTRITION\u2014UNDERNUTRITION: SCREENING & CLASSIFICATION",
+  "subtopic": "FIRST-HOUR STABILIZATION AND SAFE TRANSFER IN COMPLICATED SAM",
+  "sub_subtopic": null,
+  "heading_path": "MALNUTRITION\u2014UNDERNUTRITION: SCREENING & CLASSIFICATION;FIRST-HOUR STABILIZATION AND SAFE TRANSFER IN COMPLICATED SAM;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2r"
+}

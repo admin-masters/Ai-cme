@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section focuses on age and puberty-based metabolic screening bundles for children, emphasizing risk stratification and initial screening decisions to address obesity, diabetes, cardiovascular risks, and nonalcoholic fatty liver disease (NAFLD).",
+  "learning_objectives": [
+    "Understand the role of age and puberty in determining metabolic screening protocols for children.",
+    "Identify key risk factors for obesity, diabetes, cardiovascular health, and NAFLD in pediatric populations.",
+    "Learn evidence-based guidelines for initial screening and risk stratification in children and adolescents.",
+    "Explore the integration of clinical practice guidelines into pediatric metabolic risk management."
+  ],
+  "key_facts": [
+    "The American Academy of Pediatrics (AAP) recommends early screening for obesity-related risks starting at age 2 (Reference 1).",
+    "The NHLBI guidelines suggest cardiovascular risk screening for children aged 9-11 and again at 17-21 years (Reference 3).",
+    "Diabetes screening is recommended for children with BMI \u226585th percentile and additional risk factors, starting at age 10 or onset of puberty (Reference 2).",
+    "NASPGHAN guidelines highlight the importance of screening for NAFLD in children with obesity or metabolic syndrome (Reference 4).",
+    "Puberty is a critical period for metabolic risk assessment due to hormonal changes impacting insulin sensitivity and lipid profiles."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Metabolic Syndrome",
+    "Obesity",
+    "Diabetes Mellitus, Type 2",
+    "Cardiovascular Diseases",
+    "Non-alcoholic Fatty Liver Disease",
+    "Risk Assessment",
+    "Puberty",
+    "Pediatrics"
+  ],
+  "tags_custom": [
+    "Metabolic screening",
+    "Pediatric guidelines",
+    "Age-based risk",
+    "Puberty-related risks",
+    "Chronic disease prevention"
+  ],
+  "reference_quote": "The American Academy of Pediatrics recommends screening for obesity-related risks starting at age 2, with a focus on early intervention to prevent long-term complications. (Reference 1)",
+  "document_key_topics": [
+    "Age-specific metabolic screening in children",
+    "Puberty and its impact on metabolic risk",
+    "Guidelines for obesity and diabetes screening",
+    "Cardiovascular and NAFLD risk management in pediatrics"
+  ],
+  "chunk_heading": "METABOLIC RISK IN CHILDREN;RISK STRATIFICATION AND INITIAL SCREENING DECISIONS;AGE AND PUBERTY BASED METABOLIC SCREENING BUNDLES;",
+  "topic": "METABOLIC RISK IN CHILDREN",
+  "subtopic": "RISK STRATIFICATION AND INITIAL SCREENING DECISIONS",
+  "sub_subtopic": "AGE AND PUBERTY BASED METABOLIC SCREENING BUNDLES",
+  "heading_path": "METABOLIC RISK IN CHILDREN;RISK STRATIFICATION AND INITIAL SCREENING DECISIONS;AGE AND PUBERTY BASED METABOLIC SCREENING BUNDLES;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1k3.2"
+}

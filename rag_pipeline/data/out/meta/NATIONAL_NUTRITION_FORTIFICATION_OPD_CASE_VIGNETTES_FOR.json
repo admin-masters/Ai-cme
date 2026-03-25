@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section provides OPD case vignettes to guide program-aligned decisions in India's national nutrition and fortification programs, focusing on prophylaxis, therapeutic interventions, and counseling strategies.",
+  "learning_objectives": [
+    "Understand decision-making protocols for vitamin A supplementation and iron therapy in children.",
+    "Recognize the management of adverse events during deworming and fortified food use.",
+    "Counsel caregivers on adherence to zinc therapy and proper iodized salt storage.",
+    "Coordinate care for children with specific conditions like thalassemia in fortified food programs."
+  ],
+  "key_facts": [
+    "Vitamin A supplementation should continue every 6 months until 5 years of age if records are unverifiable.",
+    "Children with Hb 8.5 g/dL require therapeutic iron therapy, not prophylactic IFA supplementation.",
+    "Fortified rice provides micro-doses for population prevention but does not replace transfusion and chelation in thalassemia.",
+    "Zinc therapy must continue for 14 days even after diarrhea resolves, alongside ORS and feeding.",
+    "Goiter management includes testing TSH and free T4, using iodized salt, and avoiding heat exposure during storage."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Vitamin A",
+    "Iron-Deficiency Anemia",
+    "Thalassemia",
+    "Deworming",
+    "Zinc",
+    "Goiter",
+    "Iodized Salt",
+    "Food Fortification"
+  ],
+  "tags_custom": [
+    "nutrition programs",
+    "prophylaxis decisions",
+    "child health",
+    "fortified foods",
+    "caregiver counseling"
+  ],
+  "reference_quote": "\u2018Verify records where possible; if not verifiable, give the next eligible prophylactic dose today, document the date, and counsel that dosing continues every 6 months until 5 years.\u2019 (Source: NHM Guidelines for Immunization)",
+  "document_key_topics": [
+    "Vitamin A supplementation protocols",
+    "Iron and anemia management in children",
+    "Adverse event management in deworming programs",
+    "Iodine deficiency and goiter prevention"
+  ],
+  "chunk_heading": "NATIONAL NUTRITION & FORTIFICATION PROGRAMS IN INDIA;OPD CASE VIGNETTES FOR PROGRAMME-ALIGNED DECISIONS;",
+  "topic": "NATIONAL NUTRITION & FORTIFICATION PROGRAMS IN INDIA",
+  "subtopic": "OPD CASE VIGNETTES FOR PROGRAMME-ALIGNED DECISIONS",
+  "sub_subtopic": null,
+  "heading_path": "NATIONAL NUTRITION & FORTIFICATION PROGRAMS IN INDIA;OPD CASE VIGNETTES FOR PROGRAMME-ALIGNED DECISIONS;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "1\u0083"
+}

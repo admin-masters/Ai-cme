@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section outlines therapeutic dosing and response checkpoints for common deficiencies in vegetarian and regional feeding patterns, including iron, vitamin B12, folate, and vitamin D deficiencies, with specific guidelines for treatment and monitoring.",
+  "learning_objectives": [
+    "Understand therapeutic dosing protocols for iron, vitamin B12, folate, and vitamin D deficiencies in children.",
+    "Learn the importance of response checkpoints to prevent undertreatment or prolonged therapy.",
+    "Identify key factors affecting treatment outcomes, such as adherence, dietary habits, and underlying conditions.",
+    "Recognize urgent signs of vitamin B12 deficiency and appropriate interventions."
+  ],
+  "key_facts": [
+    "Iron deficiency anemia: Treat with oral elemental iron 3 mg/kg/day once daily; reassess hemoglobin at 4\u20138 weeks and continue for 2\u20133 months after normalization.",
+    "Vitamin B12 deficiency with neurologic signs: Initiate parenteral B12 urgently in cases of neuroregression, hypotonia, or seizures; monitor for hypokalemia in severe anemia.",
+    "Folate deficiency: Treat with oral folic acid 1\u20135 mg daily for 3\u20134 months, but ensure B12 deficiency is excluded or treated first.",
+    "Vitamin D deficiency rickets: Treat with daily oral cholecalciferol for 12 weeks (2000 IU/day for infants <1 year, 3000 IU/day for older children) and ensure adequate calcium intake.",
+    "Key troubleshooting for non-response includes adherence, milk displacement, malabsorption, chronic inflammation, or hemoglobinopathy."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Iron-Deficiency Anemia",
+    "Vitamin B12 Deficiency",
+    "Folic Acid Deficiency",
+    "Vitamin D Deficiency",
+    "Rickets",
+    "Therapeutics",
+    "Diet, Vegetarian",
+    "Nutritional Deficiencies"
+  ],
+  "tags_custom": [
+    "therapeutic dosing",
+    "response checkpoints",
+    "pediatric nutrition",
+    "vegetarian diet",
+    "regional feeding patterns"
+  ],
+  "reference_quote": "Use oral elemental iron 3 mg/kg/day once daily for treatment when IDA is likely, and avoid slow-release or enteric-coated products. Review symptoms and adherence at about 2 weeks and reassess hemoglobin at about 4\u20138 weeks depending on baseline severity.",
+  "document_key_topics": [
+    "Therapeutic dosing for nutritional deficiencies",
+    "Monitoring and response checkpoints",
+    "Iron, vitamin B12, folate, and vitamin D deficiencies",
+    "Pediatric nutrition in vegetarian and regional contexts"
+  ],
+  "chunk_heading": "VEGETARIAN & REGIONAL FEEDING PATTERNS;THERAPEUTIC DOSING WITH RESPONSE CHECKPOINTS FOR COMMON DEFICIENCIES;",
+  "topic": "VEGETARIAN & REGIONAL FEEDING PATTERNS",
+  "subtopic": "THERAPEUTIC DOSING WITH RESPONSE CHECKPOINTS FOR COMMON DEFICIENCIES",
+  "sub_subtopic": null,
+  "heading_path": "VEGETARIAN & REGIONAL FEEDING PATTERNS;THERAPEUTIC DOSING WITH RESPONSE CHECKPOINTS FOR COMMON DEFICIENCIES;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "1\u0082"
+}

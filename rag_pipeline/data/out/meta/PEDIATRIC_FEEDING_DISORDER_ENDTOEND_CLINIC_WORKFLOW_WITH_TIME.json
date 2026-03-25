@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This workflow outlines a structured, time-anchored approach to managing pediatric feeding disorders, focusing on growth assessment, pattern classification, domain screening, and targeted interventions with follow-up gates.",
+  "learning_objectives": [
+    "Understand the stepwise clinic workflow for pediatric feeding disorders, including growth signal confirmation and domain screening.",
+    "Learn to classify faltering growth patterns and their implications for underlying causes.",
+    "Develop skills to create measurable, time-anchored feeding plans and follow-up strategies.",
+    "Recognize when to escalate care based on non-response or complex presentations."
+  ],
+  "key_facts": [
+    "Growth assessment should use corrected age for preterm infants and WHO standards for children under 2 years.",
+    "Weight-only faltering suggests intake or feeding-skill issues, while weight and length faltering may indicate chronic disease or malabsorption.",
+    "A 90-second domain screen should cover medical, nutritional, feeding-skill, and psychosocial factors.",
+    "Follow-up gates: reassess high-risk infants within 48\u201372 hours, expect stabilization within 2 weeks, and expand investigations if no response by 4 weeks.",
+    "Consider time-limited oral nutritional supplements per NICE guidelines if faltering persists at 4 weeks."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Pediatric Feeding Disorders",
+    "Growth Disorders",
+    "Nutritional Assessment",
+    "Failure to Thrive",
+    "Feeding Behavior",
+    "Malnutrition",
+    "Child Development",
+    "Clinical Protocols"
+  ],
+  "tags_custom": [
+    "feeding workflow",
+    "growth faltering",
+    "time-anchored care",
+    "pediatric nutrition",
+    "domain screening"
+  ],
+  "reference_quote": "Pediatric feeding disorder: consensus definition and framework (PubMed) \u2014 https://pubmed.ncbi.nlm.nih.gov/30366855/",
+  "document_key_topics": [
+    "Growth assessment and trajectory monitoring",
+    "Classification of faltering growth patterns",
+    "Domain-based screening for feeding disorders",
+    "Time-anchored follow-up and intervention planning"
+  ],
+  "chunk_heading": "PEDIATRIC FEEDING DISORDER;END-TO-END CLINIC WORKFLOW WITH TIME ANCHORS;",
+  "topic": "PEDIATRIC FEEDING DISORDER",
+  "subtopic": "END-TO-END CLINIC WORKFLOW WITH TIME ANCHORS",
+  "sub_subtopic": null,
+  "heading_path": "PEDIATRIC FEEDING DISORDER;END-TO-END CLINIC WORKFLOW WITH TIME ANCHORS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2b"
+}

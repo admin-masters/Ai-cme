@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Preterm infants with chronic lung disease (CLD/BPD) require targeted nutrition to address high metabolic bone disease risk, focusing on calcium, phosphorus, and vitamin D supplementation alongside monitoring actionable markers like ALP and serum phosphate.",
+  "learning_objectives": [
+    "Understand the role of calcium, phosphorus, and vitamin D in managing metabolic bone disease in preterm CLD/BPD.",
+    "Learn numeric intake targets for calcium (120\u2013220 mg/kg/day), phosphorus (70\u2013120 mg/kg/day), and vitamin D (400 IU/day).",
+    "Identify actionable markers such as ALP (>800 IU/L) and serum phosphate (<4.5 mg/dL) for monitoring bone health in high-risk infants.",
+    "Explore strategies for optimizing mineral density in fluid-restricted preterm infants."
+  ],
+  "key_facts": [
+    "Preterm CLD/BPD increases metabolic bone disease risk due to interrupted mineral accretion and therapies like loop diuretics and steroids.",
+    "Calcium intake targets: 120\u2013220 mg/kg/day; phosphorus intake targets: 70\u2013120 mg/kg/day.",
+    "Vitamin D supplementation: 400 IU/day, with dose adjustments based on levels and risk factors.",
+    "Actionable markers include ALP (>800 IU/L) and serum phosphate (<4.5 mg/dL).",
+    "Fluid-restricted infants require high-density fortifiers or formulas to optimize mineral intake per mL.",
+    "Bone health is integral to respiratory care, as fractures and chest wall deformities can worsen outcomes."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Chronic Lung Disease",
+    "Bronchopulmonary Dysplasia",
+    "Metabolic Bone Disease",
+    "Calcium",
+    "Phosphorus",
+    "Vitamin D",
+    "Alkaline Phosphatase",
+    "Infant Nutrition"
+  ],
+  "tags_custom": [
+    "Preterm nutrition",
+    "Bone health in CLD",
+    "Electrolyte management",
+    "Vitamin D targets",
+    "Respiratory care integration"
+  ],
+  "reference_quote": "Metabolic bone disease of prematurity: diagnosis and management review \u2014 Faienza et al. (https://pmc.ncbi.nlm.nih.gov/articles/PMC6474071/).",
+  "document_key_topics": [
+    "Nutrition in chronic cardiorespiratory disease",
+    "Electrolyte and micronutrient management in preterm infants",
+    "Vitamin D, calcium, and phosphate targets for bone health"
+  ],
+  "chunk_heading": "NUTRITION IN CHRONIC CARDIORESPIRATORY DISEASE;ELECTROLYTE MICRONUTRIENT AND ANEMIA DECISION MAKING;VITAMIN D CALCIUM AND PHOSPHATE TARGETS IN PRETERM CLD;",
+  "topic": "NUTRITION IN CHRONIC CARDIORESPIRATORY DISEASE",
+  "subtopic": "ELECTROLYTE MICRONUTRIENT AND ANEMIA DECISION MAKING",
+  "sub_subtopic": "VITAMIN D CALCIUM AND PHOSPHATE TARGETS IN PRETERM CLD",
+  "heading_path": "NUTRITION IN CHRONIC CARDIORESPIRATORY DISEASE;ELECTROLYTE MICRONUTRIENT AND ANEMIA DECISION MAKING;VITAMIN D CALCIUM AND PHOSPHATE TARGETS IN PRETERM CLD;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1\u00842"
+}

@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "Children with chronic cardiorespiratory disease face undernutrition due to increased energy demands, reduced intake, inflammation, and malabsorption. Nutrition directly impacts clinical outcomes, including growth, surgical readiness, and respiratory stability, necessitating proactive management of growth faltering and feeding strategies.",
+  "learning_objectives": [
+    "Understand the physiologic mechanisms driving undernutrition in chronic cardiorespiratory diseases.",
+    "Identify the impact of malnutrition on clinical outcomes such as growth, respiratory function, and surgical recovery.",
+    "Learn strategies to assess and manage growth faltering, including escalation of feeding routes.",
+    "Recognize the role of pancreatic enzyme replacement therapy (PERT) in managing malabsorption in cystic fibrosis."
+  ],
+  "key_facts": [
+    "Resting energy expenditure and work of breathing increase in chronic cardiorespiratory disease, while intake decreases due to symptoms like dyspnea and early satiety.",
+    "Pancreatic insufficiency in cystic fibrosis causes malabsorption, treatable with correctly dosed pancreatic enzyme replacement therapy (PERT).",
+    "Micronutrient deficits perpetuate fatigue, poor appetite, and exacerbate growth faltering in affected children.",
+    "In congenital heart disease (CHD), nutrition influences surgical readiness and postoperative recovery.",
+    "Guideline-defined growth targets in cystic fibrosis correlate with lung function and survival.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Malnutrition",
+    "Cardiorespiratory Diseases",
+    "Cystic Fibrosis",
+    "Congenital Heart Disease",
+    "Pancreatic Insufficiency",
+    "Energy Metabolism",
+    "Micronutrient Deficiency",
+    "Growth Disorders"
+  ],
+  "tags_custom": [
+    "undernutrition drivers",
+    "feeding strategies",
+    "growth faltering",
+    "clinical nutrition",
+    "pediatric outcomes"
+  ],
+  "reference_quote": "Indian Academy of Pediatrics. Standard Treatment Guidelines: Heart Failure in Children - A simple safety principle is that 'more calories' must not precede feeding safety and physiology.",
+  "document_key_topics": [
+    "Physiologic mechanisms of undernutrition in chronic cardiorespiratory disease",
+    "Impact of malnutrition on clinical outcomes",
+    "Management strategies for growth faltering",
+    "Role of pancreatic enzyme replacement therapy in cystic fibrosis"
+  ],
+  "chunk_heading": "NUTRITION IN CHRONIC CARDIORESPIRATORY DISEASE;SHARED PHYSIOLOGIC MECHANISMS LINKING DISEASE TO MALNUTRITION;PHYSIOLOGIC DRIVERS OF UNDERNUTRITION AND ALTERED BODY COMPOSITION;",
+  "topic": "NUTRITION IN CHRONIC CARDIORESPIRATORY DISEASE",
+  "subtopic": "SHARED PHYSIOLOGIC MECHANISMS LINKING DISEASE TO MALNUTRITION",
+  "sub_subtopic": "PHYSIOLOGIC DRIVERS OF UNDERNUTRITION AND ALTERED BODY COMPOSITION",
+  "heading_path": "NUTRITION IN CHRONIC CARDIORESPIRATORY DISEASE;SHARED PHYSIOLOGIC MECHANISMS LINKING DISEASE TO MALNUTRITION;PHYSIOLOGIC DRIVERS OF UNDERNUTRITION AND ALTERED BODY COMPOSITION;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1c1"
+}

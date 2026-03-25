@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "Adolescent bone infections require consideration of sexually transmitted pathogens, pregnancy risks, and adherence challenges, with tailored diagnostics, therapy, and counseling strategies.",
+  "learning_objectives": [
+    "Understand the role of sexually transmitted pathogens in adolescent bone infections.",
+    "Learn diagnostic approaches, including nucleic acid amplification testing for gonococcal arthritis.",
+    "Recognize pregnancy-related drug contraindications and adherence barriers in adolescents.",
+    "Develop strategies to improve treatment adherence and follow-up in vulnerable adolescent populations."
+  ],
+  "key_facts": [
+    "Gonococcal arthritis should be suspected in sexually active adolescents with migratory arthralgia, tenosynovitis, pustular rash, or arthritis without a clear pyogenic source.",
+    "Ceftriaxone is the primary treatment for gonococcal infections, with additional management for Chlamydia, syphilis, and HIV based on risk profiles.",
+    "Pregnancy testing is essential before prescribing antibiotics like fluoroquinolones or tetracyclines, which are generally avoided in pregnant adolescents.",
+    "Adherence challenges, including missed doses and loss to follow-up, are common in adolescents and require simplified dosing and early review.",
+    "Long antibiotic courses can be difficult for adolescents due to school, social, and family transitions.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Bone Diseases",
+    "Sexually Transmitted Diseases",
+    "Adolescent Health",
+    "Pregnancy in Adolescence",
+    "Anti-Bacterial Agents",
+    "Drug Adherence",
+    "Gonorrhea",
+    "Osteomyelitis"
+  ],
+  "tags_custom": [
+    "adolescent infections",
+    "pregnancy considerations",
+    "treatment adherence",
+    "gonococcal arthritis",
+    "long-term antibiotic therapy"
+  ],
+  "reference_quote": "Ceftriaxone is the mainstay of therapy, and associated sexually transmitted infections such as Chlamydia, syphilis, and human immunodeficiency virus should be addressed according to risk profile and local policy. (PIDS/IDSA 2023 Guidelines)",
+  "document_key_topics": [
+    "Sexually transmitted pathogens in adolescent bone infections",
+    "Pregnancy-related considerations in antibiotic therapy",
+    "Adherence challenges in long-term treatment",
+    "Diagnostic strategies for gonococcal arthritis"
+  ],
+  "chunk_heading": "BONE INFECTIONS;CLINICAL MANAGEMENT IN ADOLESCENTS AND VULNERABLE HOSTS;ADOLESCENT SEXUALLY TRANSMITTED INFECTION PREGNANCY AND ADHERENCE CONSIDERATIONS;",
+  "topic": "BONE INFECTIONS",
+  "subtopic": "CLINICAL MANAGEMENT IN ADOLESCENTS AND VULNERABLE HOSTS",
+  "sub_subtopic": "ADOLESCENT SEXUALLY TRANSMITTED INFECTION PREGNANCY AND ADHERENCE CONSIDERATIONS",
+  "heading_path": "BONE INFECTIONS;CLINICAL MANAGEMENT IN ADOLESCENTS AND VULNERABLE HOSTS;ADOLESCENT SEXUALLY TRANSMITTED INFECTION PREGNANCY AND ADHERENCE CONSIDERATIONS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u00901"
+}

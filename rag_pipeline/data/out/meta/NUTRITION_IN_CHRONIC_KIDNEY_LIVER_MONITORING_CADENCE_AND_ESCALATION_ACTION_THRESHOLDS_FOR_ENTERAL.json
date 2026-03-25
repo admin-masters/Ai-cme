@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "Guidelines for escalating enteral feeding and inpatient care in children with CKD or CLD, focusing on energy intake, growth metrics, and electrolyte management thresholds.",
+  "learning_objectives": [
+    "Understand thresholds for initiating enteral feeding in children with CKD or CLD.",
+    "Identify key growth and nutritional markers for intervention escalation.",
+    "Learn strategies to manage hyperkalemia and hyperphosphatemia in pediatric patients.",
+    "Recognize when inpatient care is necessary for monitoring and intervention."
+  ],
+  "key_facts": [
+    "Escalate intervention if energy intake is <80% of the target for >10\u201314 days despite symptom control.",
+    "For children under 3 years with CKD, consider tube feeding if weight/length SDS \u2264 -1.88 or growth is failing.",
+    "Prioritize MUAC/TSF over weight in cases of edema/ascites.",
+    "For CKD stages 3\u20135 or decompensated CLD, escalate energy/protein if height velocity stalls or a child crosses down \u22651 major percentile over 3\u20136 months.",
+    "For persistent hyperphosphatemia, avoid protein restriction; instead, adjust binder timing and remove phosphate additives.",
+    "Correct hyperkalemia by addressing constipation/acidosis and avoiding potassium additives; consider binders if dietary restrictions threaten adequacy."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Chronic Kidney Disease",
+    "Chronic Liver Disease",
+    "Enteral Nutrition",
+    "Electrolyte Imbalance",
+    "Growth Disorders",
+    "Hyperkalemia",
+    "Hyperphosphatemia",
+    "Pediatric Nutrition"
+  ],
+  "tags_custom": [
+    "CKD nutrition",
+    "pediatric growth monitoring",
+    "electrolyte management",
+    "enteral feeding thresholds"
+  ],
+  "reference_quote": "\u2018For children under 3 years with CKD, consider tube feeding when oral intake fails despite intervention and the child is underweight or growth retarded (weight or length/height \u2264 -1.88 SDS) or is failing expected weight gain/growth.\u2019 (KDOQI Clinical Practice Guidelines, 2008 Update)",
+  "document_key_topics": [
+    "Enteral feeding thresholds in CKD and CLD",
+    "Growth and nutritional monitoring in pediatric patients",
+    "Management of hyperkalemia and hyperphosphatemia"
+  ],
+  "chunk_heading": "NUTRITION IN CHRONIC KIDNEY & LIVER DISEASE;MONITORING CADENCE AND ESCALATION THRESHOLDS FOR INTERVENTION;ACTION THRESHOLDS FOR ENTERAL FEEDING ELECTROLYTE ESCALATION AND INPATIENT CARE;",
+  "topic": "NUTRITION IN CHRONIC KIDNEY & LIVER DISEASE",
+  "subtopic": "MONITORING CADENCE AND ESCALATION THRESHOLDS FOR INTERVENTION",
+  "sub_subtopic": "ACTION THRESHOLDS FOR ENTERAL FEEDING ELECTROLYTE ESCALATION AND INPATIENT CARE",
+  "heading_path": "NUTRITION IN CHRONIC KIDNEY & LIVER DISEASE;MONITORING CADENCE AND ESCALATION THRESHOLDS FOR INTERVENTION;ACTION THRESHOLDS FOR ENTERAL FEEDING ELECTROLYTE ESCALATION AND INPATIENT CARE;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2i3"
+}

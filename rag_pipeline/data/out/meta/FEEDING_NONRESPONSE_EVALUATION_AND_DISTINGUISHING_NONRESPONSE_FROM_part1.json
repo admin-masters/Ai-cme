@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "This section focuses on distinguishing non-response from adherence failure in feeding-related medical conditions, emphasizing targeted investigation and evaluation strategies within pediatric and celiac disease management frameworks.",
+  "learning_objectives": [
+    "Understand the difference between non-response and adherence failure in feeding-related conditions.",
+    "Learn targeted investigation methods for pediatric TB and celiac disease management.",
+    "Explore guidelines for diagnosing and managing celiac disease in India.",
+    "Analyze adherence challenges in pediatric feeding interventions."
+  ],
+  "key_facts": [
+    "The Paediatric TB Management Guideline (2022) provides specific strategies for evaluating feeding-related adherence issues.",
+    "Celiac disease management guidelines by ICMR emphasize diagnostic protocols tailored for Indian populations.",
+    "Non-response in feeding interventions may stem from physiological factors rather than adherence failure.",
+    "Targeted investigations are critical for distinguishing adherence failure from true non-response.",
+    "Indian Council of Medical Research guidelines are a key resource for celiac disease management in India."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Feeding Behavior",
+    "Non-Adherence",
+    "Pediatric Tuberculosis",
+    "Celiac Disease",
+    "Guideline Adherence",
+    "Diagnosis",
+    "Treatment Outcome",
+    "India"
+  ],
+  "tags_custom": [
+    "feeding evaluation",
+    "adherence failure",
+    "pediatric guidelines",
+    "targeted investigation",
+    "non-response analysis"
+  ],
+  "reference_quote": "Guideline for diagnosis and management of celiac disease in India \u2014 https://www.icmr.gov.in/icmrobject/custom_data/pdf/resourceguidelines/ICMR%20-%20Diagnosis%20and%20Managmemnt.pdf",
+  "document_key_topics": [
+    "Non-response evaluation in feeding",
+    "Adherence failure in pediatric TB management",
+    "Celiac disease diagnostic guidelines"
+  ],
+  "chunk_heading": "FEEDING;NONRESPONSE EVALUATION AND TARGETED INVESTIGATION;DISTINGUISHING NON-RESPONSE FROM ADHERENCE FAILURE;",
+  "topic": "FEEDING",
+  "subtopic": "NONRESPONSE EVALUATION AND TARGETED INVESTIGATION",
+  "sub_subtopic": "DISTINGUISHING NON-RESPONSE FROM ADHERENCE FAILURE",
+  "heading_path": "FEEDING;NONRESPONSE EVALUATION AND TARGETED INVESTIGATION;DISTINGUISHING NON-RESPONSE FROM ADHERENCE FAILURE;",
+  "reference_count": 2,
+  "has_guidelines": false,
+  "sequence": "3s1.2"
+}

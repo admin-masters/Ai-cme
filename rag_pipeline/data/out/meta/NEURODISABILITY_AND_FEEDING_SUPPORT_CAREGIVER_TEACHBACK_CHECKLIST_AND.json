@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "Caregiver teach-back ensures safe feeding practices for children with neurodisability, especially during intercurrent illness, emphasizing IDDSI levels, bolus size, pacing, and emergency triggers.",
+  "learning_objectives": [
+    "Understand the importance of caregiver teach-back in feeding support for neurodisability.",
+    "Learn to identify stop signs and escalation criteria during feeding.",
+    "Recognize safe feeding modifications during intercurrent illness.",
+    "Apply IDDSI testing methods for thickened fluids and bolus preparation."
+  ],
+  "key_facts": [
+    "Teach-back requires caregivers to demonstrate skills and explain stop criteria before discharge or plan changes.",
+    "Minimum competencies include correct positioning, IDDSI level preparation, bolus size, pacing, and oral hygiene management.",
+    "Stop signs include wet voice, persistent cough, distress, drowsiness, and increased work of breathing.",
+    "During intercurrent illness, simplify feeding to the safest IDDSI level, reduce bolus volumes, and shift hydration to tube route if coughing with sips begins.",
+    "Emergency triggers include rising respiratory rate, oxygen saturation decline, and inability to maintain hydration.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Neurodisability",
+    "Caregiver Education",
+    "Feeding and Swallowing Disorders",
+    "Respiratory Health",
+    "Tube Feeding",
+    "Intercurrent Illness",
+    "IDDSI Standards",
+    "Pediatric Nutrition"
+  ],
+  "tags_custom": [
+    "teach-back checklist",
+    "feeding safety",
+    "swallowing management",
+    "emergency care triggers",
+    "India-specific guidelines"
+  ],
+  "reference_quote": "Teach-back: a systematic review of implementation and impacts \u2014 'Teach-back improves caregiver understanding and adherence to complex care plans, reducing errors and improving patient outcomes.'",
+  "document_key_topics": [
+    "Caregiver teach-back for feeding safety",
+    "Feeding modifications during intercurrent illness",
+    "IDDSI testing methods and bolus preparation",
+    "Emergency care triggers in neurodisability feeding"
+  ],
+  "chunk_heading": "NEURODISABILITY AND FEEDING SUPPORT;CAREGIVER TEACH-BACK CHECKLIST AND FEEDING DURING INTERCURRENT ILLNESS;",
+  "topic": "NEURODISABILITY AND FEEDING SUPPORT",
+  "subtopic": "CAREGIVER TEACH-BACK CHECKLIST AND FEEDING DURING INTERCURRENT ILLNESS",
+  "sub_subtopic": null,
+  "heading_path": "NEURODISABILITY AND FEEDING SUPPORT;CAREGIVER TEACH-BACK CHECKLIST AND FEEDING DURING INTERCURRENT ILLNESS;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "1k"
+}

@@ -1,0 +1,44 @@
+{
+  "chunk_summary": "Guidelines for micronutrient safeguards and iron timing in severe acute malnutrition (SAM) emphasize avoiding duplication of therapeutic micronutrients and delaying iron supplementation until the rehabilitation phase.",
+  "learning_objectives": [
+    "Understand the importance of avoiding micronutrient duplication in SAM care protocols.",
+    "Learn the timing and rationale for iron supplementation during SAM treatment phases.",
+    "Identify operational safeguards to prevent toxicity or missed supplementation in SAM management."
+  ],
+  "key_facts": [
+    "Iron supplementation should not begin during the stabilization phase due to risks of oxidative stress and pathogen growth.",
+    "Iron is typically introduced after 7 days, once appetite improves and rehabilitation feeding is established.",
+    "Therapeutic foods and facility micronutrient mixes often contain low-iron or iron-free formulations during stabilization.",
+    "Vitamin A dosing must be documented separately to prevent repeat massive dosing.",
+    "Discharge planning should include a clear list of ongoing supplementation and follow-up dates."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Micronutrients",
+    "Iron",
+    "Severe Acute Malnutrition",
+    "Therapeutic Feeding",
+    "Vitamin A",
+    "Oxidative Stress",
+    "Anemia"
+  ],
+  "tags_custom": [
+    "SAM care protocols",
+    "Iron supplementation timing",
+    "Micronutrient safeguards"
+  ],
+  "reference_quote": "Iron supplementation should not be started during the stabilization phase due to risks of oxidative stress and pathogen growth. (Source: https://www.ncbi.nlm.nih.gov/books/NBK154454/)",
+  "document_key_topics": [
+    "Micronutrient duplication safeguards in SAM",
+    "Iron supplementation timing in SAM",
+    "Operational guidelines for therapeutic feeding in SAM"
+  ],
+  "chunk_heading": "MICRONUTRIENT NUTRITION;MICRONUTRIENT SUPPLEMENTATION IN SEVERE ACUTE MALNUTRITION CARE;MICRONUTRIENT DUPLICATION SAFEGUARDS AND IRON TIMING IN SAM;",
+  "topic": "MICRONUTRIENT NUTRITION",
+  "subtopic": "MICRONUTRIENT SUPPLEMENTATION IN SEVERE ACUTE MALNUTRITION CARE",
+  "sub_subtopic": "MICRONUTRIENT DUPLICATION SAFEGUARDS AND IRON TIMING IN SAM",
+  "heading_path": "MICRONUTRIENT NUTRITION;MICRONUTRIENT SUPPLEMENTATION IN SEVERE ACUTE MALNUTRITION CARE;MICRONUTRIENT DUPLICATION SAFEGUARDS AND IRON TIMING IN SAM;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u00991.1"
+}

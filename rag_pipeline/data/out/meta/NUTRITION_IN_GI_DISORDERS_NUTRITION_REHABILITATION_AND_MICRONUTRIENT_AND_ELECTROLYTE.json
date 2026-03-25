@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "This section outlines micronutrient and electrolyte repletion protocols for managing malabsorption and persistent diarrhea, emphasizing precise dosing, monitoring, and reassessment to address deficiencies and support recovery.",
+  "learning_objectives": [
+    "Understand the role of micronutrient deficiencies in persistent diarrhea and malabsorption.",
+    "Learn specific dosing guidelines for key micronutrients like zinc, vitamin A, and iron.",
+    "Recognize the importance of electrolyte repletion and monitoring during recovery.",
+    "Develop skills to reassess recovery using hemoglobin, growth velocity, and deficiency panels."
+  ],
+  "key_facts": [
+    "Zinc: 10 mg/day for infants <6 months, 20 mg/day for \u22656 months for 10\u201314 days.",
+    "Vitamin A: Single dose of 50,000 IU (<6 months), 100,000 IU (6\u201312 months), 200,000 IU (>12 months).",
+    "Potassium: 3\u20136 mEq/kg/day in divided doses, with monitoring in dehydrated children.",
+    "Iron: 3 mg/kg/day, started only after acute diarrhea resolves and appetite returns.",
+    "Vitamin D: Maintenance dose of 200\u2013400 IU/day; higher doses guided by 25(OH)D levels if deficient.",
+    "Reassess recovery at 1\u20133 months using hemoglobin, growth velocity, and deficiency panels."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Micronutrients",
+    "Electrolytes",
+    "Diarrhea",
+    "Malabsorption Syndromes",
+    "Nutritional Rehabilitation",
+    "Zinc",
+    "Vitamin A",
+    "Potassium"
+  ],
+  "tags_custom": [
+    "Persistent diarrhea",
+    "Micronutrient therapy",
+    "Electrolyte repletion",
+    "Pediatric nutrition",
+    "Malabsorption management"
+  ],
+  "reference_quote": "Micronutrient replacement is core therapy in malabsorption and persistent diarrhea because deficiencies drive anemia, immune dysfunction, and poor linear growth.",
+  "document_key_topics": [
+    "Micronutrient replacement in malabsorption and diarrhea",
+    "Electrolyte repletion protocols",
+    "Dosing guidelines for zinc, vitamin A, and iron",
+    "Monitoring and reassessment during recovery"
+  ],
+  "chunk_heading": "NUTRITION IN GI DISORDERS & MALABSORPTION;NUTRITION REHABILITATION AND PERSISTENT DIARRHEA PROTOCOLS;MICRONUTRIENT AND ELECTROLYTE REPLETION PRESCRIPTION BUNDLES;",
+  "topic": "NUTRITION IN GI DISORDERS & MALABSORPTION",
+  "subtopic": "NUTRITION REHABILITATION AND PERSISTENT DIARRHEA PROTOCOLS",
+  "sub_subtopic": "MICRONUTRIENT AND ELECTROLYTE REPLETION PRESCRIPTION BUNDLES",
+  "heading_path": "NUTRITION IN GI DISORDERS & MALABSORPTION;NUTRITION REHABILITATION AND PERSISTENT DIARRHEA PROTOCOLS;MICRONUTRIENT AND ELECTROLYTE REPLETION PRESCRIPTION BUNDLES;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "2r5"
+}

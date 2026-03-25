@@ -1,0 +1,46 @@
+{
+  "chunk_summary": "This section outlines outpatient monitoring cadences for children with chronic kidney or liver disease, tailored by age, disease severity, and recent health trajectory, emphasizing frequent assessments to detect early decline and guide timely interventions.",
+  "learning_objectives": [
+    "Understand the recommended monitoring frequency for children with CKD or chronic liver disease based on age and disease severity.",
+    "Identify key anthropometric and dietary parameters to monitor in infants, children, and adolescents with CKD or liver disease.",
+    "Recognize escalation thresholds for more frequent monitoring or intervention in cases of growth failure, feeding issues, or fluid imbalances."
+  ],
+  "key_facts": [
+    "Infants under 1 year with CKD stage 2\u20135 or active cholestasis require weight, length, and intake monitoring every 2\u20134 weeks, or every 1\u20132 weeks if growth slows or symptoms worsen.",
+    "Children aged 1\u20133 years are at high risk for irreversible linear growth loss and should be monitored every 1\u20133 months, or monthly in CKD stage 4\u20135 or decompensated CLD.",
+    "For children \u22654 years and adolescents, stable CKD stage 2\u20133 or liver disease requires monitoring every 3\u20134 months, while CKD stage 4\u20135 or cirrhosis with ascites requires monitoring every 1\u20132 months.",
+    "Monthly monitoring is the minimum for children on dialysis due to rapid changes in intake caused by binder adjustments, ultrafiltration, or interdialytic symptoms.",
+    "Head circumference should be measured monthly in infants with advanced CKD, and MUAC/TSF should be used when weight is fluid-confounded."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Chronic Kidney Disease",
+    "Chronic Liver Disease",
+    "Pediatric Nutrition",
+    "Growth Monitoring",
+    "Anthropometry",
+    "Peritoneal Dialysis",
+    "Nutritional Assessment",
+    "Malnutrition"
+  ],
+  "tags_custom": [
+    "CKD monitoring",
+    "pediatric growth",
+    "liver disease nutrition",
+    "escalation thresholds"
+  ],
+  "reference_quote": "Infants under 1 year with CKD stage 2\u20135, on PD/HD, or with active cholestasis, document weight, length, and an intake record at least every 2\u20134 weeks; shorten to every 1\u20132 weeks if weight gain slows, feeding fatigue/vomiting increases, edema/ascites appears, or restrictions have recently changed.",
+  "document_key_topics": [
+    "Outpatient monitoring cadence for CKD and liver disease",
+    "Age-specific and disease-severity-based monitoring guidelines",
+    "Anthropometric and dietary assessment in pediatric patients"
+  ],
+  "chunk_heading": "NUTRITION IN CHRONIC KIDNEY & LIVER DISEASE;MONITORING CADENCE AND ESCALATION THRESHOLDS FOR INTERVENTION;OUTPATIENT MONITORING CADENCE BY AGE AND DISEASE SEVERITY;",
+  "topic": "NUTRITION IN CHRONIC KIDNEY & LIVER DISEASE",
+  "subtopic": "MONITORING CADENCE AND ESCALATION THRESHOLDS FOR INTERVENTION",
+  "sub_subtopic": "OUTPATIENT MONITORING CADENCE BY AGE AND DISEASE SEVERITY",
+  "heading_path": "NUTRITION IN CHRONIC KIDNEY & LIVER DISEASE;MONITORING CADENCE AND ESCALATION THRESHOLDS FOR INTERVENTION;OUTPATIENT MONITORING CADENCE BY AGE AND DISEASE SEVERITY;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2g1"
+}

@@ -1,0 +1,47 @@
+{
+  "chunk_summary": "This section discusses energy and protein intake targets for pediatric chronic kidney disease (CKD) patients, with a focus on managing hyperkalemia thresholds based on clinical guidelines and lab-linked restrictions.",
+  "learning_objectives": [
+    "Understand energy and protein intake recommendations for pediatric CKD patients.",
+    "Identify hyperkalemia thresholds and their implications for dietary management.",
+    "Apply lab-linked restrictions to optimize nutritional interventions in CKD.",
+    "Review clinical guidelines for pediatric CKD nutrition management."
+  ],
+  "key_facts": [
+    "Energy intake for pediatric CKD patients should meet 100-120% of the recommended dietary allowance (RDA) for age and sex.",
+    "Protein intake should be 100-140% of the RDA, adjusted for CKD stage and growth needs.",
+    "Hyperkalemia thresholds are typically defined as serum potassium >5.5 mmol/L, requiring dietary potassium restriction.",
+    "Potassium-rich foods like bananas, oranges, and potatoes may need to be limited in hyperkalemia management.",
+    "Clinical guidelines emphasize individualized dietary plans based on lab results and growth monitoring.",
+    "The KDOQI 2020 guidelines provide updated recommendations for pediatric CKD nutrition."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Chronic Kidney Disease",
+    "Pediatrics",
+    "Dietary Proteins",
+    "Energy Intake",
+    "Hyperkalemia",
+    "Potassium",
+    "Nutritional Requirements",
+    "Clinical Guidelines"
+  ],
+  "tags_custom": [
+    "Pediatric CKD nutrition",
+    "Hyperkalemia management",
+    "Dietary interventions"
+  ],
+  "reference_quote": "PRNT clinical practice recommendations suggest energy intake of 100-120% RDA and protein intake of 100-140% RDA for pediatric CKD patients (PMC6968982).",
+  "document_key_topics": [
+    "Energy and protein intake in pediatric CKD",
+    "Hyperkalemia thresholds and dietary management",
+    "Lab-linked dietary restrictions in CKD"
+  ],
+  "chunk_heading": "THERAPEUTIC DIETS & SPECIAL INTERVENTIONS;DIET PRESCRIPTIONS IN PEDIATRIC CHRONIC KIDNEY DISEASE WITH LAB-LINKED RESTRICTIONS;ENERGY AND PROTEIN TARGETS WITH HYPERKALEMIA THRESHOLDS;",
+  "topic": "THERAPEUTIC DIETS & SPECIAL INTERVENTIONS",
+  "subtopic": "DIET PRESCRIPTIONS IN PEDIATRIC CHRONIC KIDNEY DISEASE WITH LAB-LINKED RESTRICTIONS",
+  "sub_subtopic": "ENERGY AND PROTEIN TARGETS WITH HYPERKALEMIA THRESHOLDS",
+  "heading_path": "THERAPEUTIC DIETS & SPECIAL INTERVENTIONS;DIET PRESCRIPTIONS IN PEDIATRIC CHRONIC KIDNEY DISEASE WITH LAB-LINKED RESTRICTIONS;ENERGY AND PROTEIN TARGETS WITH HYPERKALEMIA THRESHOLDS;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1}1.2"
+}

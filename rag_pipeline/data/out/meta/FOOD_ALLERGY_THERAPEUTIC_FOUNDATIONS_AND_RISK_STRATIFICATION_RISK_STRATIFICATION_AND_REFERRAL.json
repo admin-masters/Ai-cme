@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Risk stratification for pediatric food allergy focuses on identifying likelihood of allergy, severity of reactions, and nutritional risks. High-risk features include prior anaphylaxis, poorly controlled asthma, and remote residence. Referral thresholds emphasize severe non-IgE phenotypes, failure to thrive, and supervised oral food challenges.",
+  "learning_objectives": [
+    "Understand the role of eczema, atopic family history, and comorbidities in pediatric food allergy risk stratification.",
+    "Identify high-risk features that necessitate emergency preparedness and referral for food allergy management.",
+    "Learn referral triggers for severe non-IgE phenotypes and nutritional vulnerabilities in elimination diets.",
+    "Integrate asthma control and food allergy action plans for comprehensive pediatric care."
+  ],
+  "key_facts": [
+    "High-risk features include prior anaphylaxis, multi-system reactions, respiratory or cardiovascular involvement, and poorly controlled asthma.",
+    "Remote residence or limited emergency access lowers the threshold for supervised oral food challenges and extended observation.",
+    "Nutritional risks include faltering growth, hypoalbuminemia, feeding refusal, and multiple food avoidance.",
+    "Referral is indicated for severe non-IgE phenotypes (e.g., FPIES, FPE, severe FPIAP), failure to thrive, and diet expansion needs.",
+    "Optimize asthma control before elective food challenges and integrate action plans into school and home safety counseling."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Food Hypersensitivity",
+    "Anaphylaxis",
+    "Asthma",
+    "Eczema",
+    "Nutritional Status",
+    "Risk Assessment",
+    "Referral and Consultation",
+    "Oral Food Challenge"
+  ],
+  "tags_custom": [
+    "pediatric food allergy",
+    "risk stratification",
+    "elimination diets",
+    "non-IgE phenotypes",
+    "nutritional risks"
+  ],
+  "reference_quote": "High-risk features that should escalate emergency preparedness and referral include prior anaphylaxis or multi-system reactions, respiratory or cardiovascular involvement, need for more than one dose of IM epinephrine, and poorly controlled asthma. (Source: Food Allergy in Children, IAP Action Plan 2026)",
+  "document_key_topics": [
+    "Risk stratification for pediatric food allergy",
+    "Referral thresholds for severe food allergy phenotypes",
+    "Nutritional risks in elimination diets",
+    "Integration of asthma and food allergy management"
+  ],
+  "chunk_heading": "FOOD ALLERGY & THERAPEUTIC ELIMINATION DIETS;FOUNDATIONS AND RISK STRATIFICATION FOR PEDIATRIC FOOD ALLERGY;RISK STRATIFICATION AND REFERRAL THRESHOLDS;",
+  "topic": "FOOD ALLERGY & THERAPEUTIC ELIMINATION DIETS",
+  "subtopic": "FOUNDATIONS AND RISK STRATIFICATION FOR PEDIATRIC FOOD ALLERGY",
+  "sub_subtopic": "RISK STRATIFICATION AND REFERRAL THRESHOLDS",
+  "heading_path": "FOOD ALLERGY & THERAPEUTIC ELIMINATION DIETS;FOUNDATIONS AND RISK STRATIFICATION FOR PEDIATRIC FOOD ALLERGY;RISK STRATIFICATION AND REFERRAL THRESHOLDS;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "1f5"
+}

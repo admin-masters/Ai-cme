@@ -1,0 +1,1688 @@
+COMMON PEDIATRIC EMERGENCIES  
+
+COMMON PEDIATRIC EMERGENCIES;PHYSIOLOGY FIRST TRIAGE AND CORE EMERGENCY SUPPORTS;
+
+COMMON PEDIATRIC EMERGENCIES;PHYSIOLOGY FIRST TRIAGE AND CORE EMERGENCY SUPPORTS;ABCDE TRIAGE AND INVESTIGATION DECISIONS IN THE FIRST HOUR;
+In busy Indian outpatient and emergency settings, prioritize physiology over diagnosis. Use an 
+##ABCDE## screen with parallel actions: open the airway (position, suction, jaw thrust), give oxygen 
+if the child is cyanosed or has low ##SpO2##, and start ##BVM## ventilation early if breathing is 
+inadequate. For circulation, treat shock before hypotension: cold extremities, weak pulse, prolonged 
+capillary refill, altered sensorium, and oliguria warrant rapid vascular access and reassessment after 
+small fluid boluses. Check bedside glucose early in any child with seizures, altered behavior, or severe 
+malnutrition, and treat hypoglycemia immediately.  
+
+Investigations should follow stabilization and answer a decision. Do not delay antibiotics, dextrose, 
+bronchodilators, or anticonvulsants for laboratory confirmation. In resource-limited facilities, a 
+focused set is usually sufficient: bedside glucose, hemoglobin, lactate if available, and targeted tests 
+such as dengue ##NS1## in the first 5 days of fever or malaria testing in endemic areas. Escalate and 
+refer early when the child needs respiratory support beyond low-flow oxygen, repeated fluid boluses 
+or vasoactive support, persistent altered mental status, or has red flags such as severe respiratory 
+distress, shock, or seizures without recovery. Communicate a pre-referral bundle (airway secured, 
+oxygen on, ##IV## or ##IO## access, first doses given, documentation of vitals and weight estimate) 
+to reduce deterioration during transport.  
+References:  
+- 
+https://unicefintercluster.net/cpaor/sites/default/files/cp/WHO-2005-Pocketbook-of-hospital-
+carefor-children.pdf  
+- 
+073Shock-in-Office-Practice.pdf  
+- 
+https://iapindia.org/pdf/Ch-105-Oxygen-Therapy-in-Office-Practice.pdf  
+
+IAP Standard Treatment Guidelines: Shock in office practice — https://iapindia.org/pdf/Ch-
+
+WHO Pocket Book of Hospital Care for Children: ETAT and emergency triage guidance — 
+
+IAP Standard Treatment Guidelines: Oxygen therapy in office practice — 
+
+- 
+COMMON PEDIATRIC EMERGENCIES;PHYSIOLOGY FIRST TRIAGE AND CORE EMERGENCY SUPPORTS;UNDIFFERENTIATED FEBRILE CHILD DANGER SIGNS FIRST HOUR TESTS AND EMPIRIC ACTIONS;
+A practical first-hour fever pathway in India should start with one question: is the child 
+physiologically unstable or at high risk of rapid decompensation. Run ##ABCDE## stabilization in 
+parallel with focused decision-making, and treat immediately reversible problems (hypoxia, shock, 
+seizures, and hypoglycemia) before chasing a named diagnosis. 
+- 
+Treat as high risk when any danger sign is present: abnormal mental status (lethargy, 
+inconsolable irritability, coma), respiratory distress or persistent hypoxemia, shock signs (cold 
+extremities, weak pulse, prolonged capillary refill, oliguria), convulsions or postictal non-recovery, 
+petechiae or purpura, severe dehydration, severe acute malnutrition, or a caregiver report of rapid 
+worsening. These children require early senior review and a “resuscitate while investigating” 
+posture. 
+- 
+platelets; malaria smear and/or rapid test where endemic; dengue ##NS1## in the first 5 days when 
+clinically consistent; urine dipstick and culture when urinary source is plausible; and blood culture 
+when sepsis is suspected if this does not delay treatment. Empiric actions should be explicit: treat 
+
+First-hour tests should answer decisions: bedside glucose; ##CBC## with hematocrit and 
+
+shock with small isotonic boluses and frequent reassessment; follow a dengue-specific fluid 
+algorithm when warning signs or shock are present; start parenteral artesunate immediately when 
+severe malaria is clinically likely; and in suspected meningitis or encephalitis do not delay 
+antimicrobials for ##LP## in an unstable child. 
+- 
+Before referral, standardize a transfer bundle: airway plan documented, oxygen source 
+secured, at least one reliable ##IV## or ##IO## access, first critical doses administered, glucose 
+corrected, fluid rate and bolus history written clearly, and a brief trend of vitals sent with the child. 
+References: 
+- Pocket Book of Hospital Care for Children — https://www.who.int/publications/i/item/978-92-4-
+154837-3 
+- National Guidelines for Clinical Management of Dengue Fever 2023 — 
+https://cdn.who.int/media/docs/default-source/searo/india/publications/national-guidelines-
+clinical-management-dengue1.pdf?sfvrsn=8b01bb03_2 
+- Malaria Drug Policy 2013 — https://ncvbdc.mohfw.gov.in/Doc/National-Drug-Policy-2013.pdf 
+
+COMMON PEDIATRIC EMERGENCIES;PHYSIOLOGY FIRST TRIAGE AND CORE EMERGENCY SUPPORTS;OXYGEN DEVICE SELECTION AND SATURATION TARGETS WITH SPO2 ARTIFACT TROUBLESHOOTING;
+Oxygen is a time-critical drug in many pediatric emergencies, but both under-treatment and 
+hyperoxia can be harmful. For most acutely ill children without cyanotic congenital heart disease, aim 
+for ##SpO2## 94–98% and treat sustained ##SpO2## <90% with supplemental oxygen while 
+addressing the cause. Start with low-flow nasal cannula (about 1–2 L/min in infants and 2–4 L/min in 
+older children), escalate to simple face mask, and use a non-rebreather mask for severe hypoxemia 
+while preparing definitive respiratory support. Escalation to ##HFNC## or ##CPAP## is appropriate 
+when work of breathing remains high or oxygen need is rising despite low-flow oxygen, but these 
+require close monitoring for fatigue and air leak.  
+
+Pulse oximetry can be misleading. Poor perfusion (shock, hypothermia), motion artifact, ambient 
+light, nail polish, and skin pigmentation can produce falsely reassuring readings; overestimation of 
+true arterial saturation has been reported in darker skin tones, especially at lower saturations. When 
+the ##SpO2## does not match clinical status, troubleshoot (warm the limb, change probe site, 
+ensure good waveform) and prioritize clinical signs such as respiratory effort, mental status, and 
+perfusion. In low-resource settings, trend simple parameters (##RR##, ##HR##, capillary refill, urine 
+output, sensorium) and document response to oxygen and bronchodilators. During transport, secure 
+the oxygen source, monitor for hypoventilation after sedatives, prevent hypothermia, and 
+communicate target saturations and escalation triggers to the receiving facility.  
+References:  
+- 
+IAP Standard Treatment Guidelines: Oxygen therapy in office practice — 
+https://iapindia.org/pdf/Ch-105-Oxygen-Therapy-in-Office-Practice.pdf - Royal Children’s 
+Hospital: Oxygen delivery guideline and target saturations — 
+https://www.rch.org.au/rchcpg/hospital_clinical_guideline_index/oxygen_delivery/  
+- 
+skin tones — https://www.fda.gov/news-events/press-announcements/fda-proposes-
+updated-recommendationshelp-improve-performance-pulse-oximeters-across-skin-tones - 
+Effect of skin tone on pulse oximetry accuracy: systematic review — 
+https://pubmed.ncbi.nlm.nih.gov/38368234/  
+
+FDA: Updated recommendations to improve pulse oximeter performance across 
+
+COMMON PEDIATRIC EMERGENCIES;PHYSIOLOGY FIRST TRIAGE AND CORE EMERGENCY
+
+- 
+SUPPORTS;BAG MASK VENTILATION TECHNIQUE AND TROUBLESHOOTING IN CHILDREN;
+
+ 
+If ventilation is difficult, troubleshoot systematically rather than escalating force. Recheck 
+
+Use a well-fitting mask with a two-hand seal when possible, ideally with a second provider 
+
+Bag-mask ventilation is the fastest way to correct hypoventilation and prevent hypoxic arrest in 
+children. Use it early in apnea, gasping, severe fatigue, or when oxygenation is failing despite 
+escalation of oxygen devices. Prioritize positioning and seal before squeezing the bag: place the head 
+in a neutral or slight sniffing position (infants), use jaw thrust to relieve upper airway obstruction, 
+and suction secretions promptly. 
+- 
+squeezing the bag. Ventilate slowly enough to see gentle chest rise and avoid excessive pressure and 
+hyperventilation, which worsen gastric inflation, reduce venous return, and can precipitate 
+barotrauma. In a child with a pulse, provide regular rescue breaths while continuously reassessing 
+chest rise and perfusion. When available, add ##PEEP## to improve oxygenation and consider an 
+oropharyngeal airway in an obtunded child to prevent tongue obstruction. 
+- 
+head position, jaw thrust, and mask seal; look for obstruction from secretions, foreign body, or 
+laryngospasm; and consider pneumothorax when distress worsens suddenly with asymmetric air 
+entry. If gastric distension is compromising ventilation, insert a gastric tube once the airway is 
+supported. During transfer, document the ventilation method, oxygen source, and response (trend in 
+##SpO2##, work of breathing), because deterioration often occurs when bag-mask support is 
+interrupted. 
+References: 
+- Pediatric BLS Algorithm — https://cpr.heart.org/-/media/cpr-files/cpr-guidelines-
+files/algorithms/pediatric-bls-algorithm.pdf?sc_lang=en 
+- Highlights of the 2025 AHA Guidelines Update for Pediatric Basic and Advanced Life Support — 
+https://www.ahajournals.org/doi/10.1161/CIR.0000000000001368 
+- Emergency Airway Management — 
+https://www.rch.org.au/clinicalguide/guideline_index/Emergency_airway_management/ 
+- 
+COMMON PEDIATRIC EMERGENCIES;PHYSIOLOGY FIRST TRIAGE AND CORE EMERGENCY SUPPORTS;INTRAOSSEOUS ACCESS INDICATIONS INSERTION TECHNIQUE AND COMPLICATIONS;
+##IO## access is the fastest reliable vascular route when peripheral ##IV## access cannot be 
+obtained quickly in a shocked or peri-arrest child. Use a clear trigger to reduce delay: if two attempts 
+or about 90 seconds fails in an unstable child, proceed to ##IO## rather than persisting with difficult 
+cannulation. ##IO## allows rapid delivery of fluids, blood products, and most emergency drugs. 
+- 
+Choose an insertion site that matches age and injury pattern. The proximal tibia is the most 
+common pediatric site; the distal tibia or distal femur can be alternatives, and the proximal humerus 
+is an option in older children with experienced operators. Avoid sites with fracture, overlying 
+infection or burn, or prior ##IO## in the same bone. Insert with sterile technique, confirm by needle 
+stability and easy flush, and secure well because dislodgement is common during transfer. Aspiration 
+of marrow may be absent and is not required if flush is easy and there is no soft-tissue swelling. 
+- 
+or analgesia per protocol when physiology allows, and flush briskly with saline to open the 
+marrow space, then connect pressure-assisted infusion if high flow is needed. Monitor for 
+complications: extravasation and compartment syndrome, growth plate injury from incorrect 
+placement, osteomyelitis, and rare fat embolism. Remove ##IO## once definitive venous access is 
+secured, ideally within 24 hours, and document the site, time, and infused volumes. 
+References: 
+- Intraosseous Access — 
+https://www.rch.org.au/clinicalguide/guideline_index/Intraosseous_access/ 
+- Highlights of the 2025 AHA Guidelines Update for Pediatric Basic and Advanced Life Support — 
+https://www.ahajournals.org/doi/10.1161/CIR.0000000000001368 
+
+Pain control matters because flushing is painful in conscious children. Use local anesthetic 
+
+COMMON PEDIATRIC EMERGENCIES;PHYSIOLOGY FIRST TRIAGE AND CORE EMERGENCY
+
+For most children, a practical starting estimate for cuffed ##ETT## internal diameter in mm is 
+
+Depth must be actively confirmed. Use an initial depth estimate such as 3 × ##ETT## internal 
+
+- Emergency Airway Management — 
+https://www.rch.org.au/clinicalguide/guideline_index/Emergency_airway_management/  
+- 
+SUPPORTS;EMERGENCY ENDOTRACHEAL TUBE SIZING DEPTH CONFIRMATION AND RESCUE AIRWAY OPTIONS;
+Emergency airway sizing errors cause avoidable hypoxia and mainstem intubation during transfer. 
+Prepare three elements before laryngoscopy: an age-appropriate ##ETT## size range, a depth target, 
+and a backup airway plan if intubation fails. 
+- 
+(age in years/4) + 3.5, and for uncuffed tubes (age/4) + 4. Always take one size smaller and one size 
+larger to the bedside. In infants, choose based on weight and local availability, and avoid forcing a 
+tight tube; an excessive leak can often be managed by upsizing one step or using a cuffed tube when 
+appropriate. 
+- 
+diameter (cm) for oral tubes or (age/2) + 12 cm, then confirm with bilateral chest rise and equal 
+breath sounds. Continuous waveform ##ETCO2## is the most reliable confirmation of tracheal 
+placement in children with perfusion. After stabilization, check cuff pressure and reassess for leak to 
+balance ventilation with airway mucosal safety. Recheck depth after movement, during transport, 
+and whenever ventilation becomes difficult; sudden desaturation after intubation should trigger 
+assessment for right mainstem placement, obstruction, or pneumothorax. 
+- 
+If laryngoscopy fails, prioritize oxygenation. Resume bag-mask ventilation, consider a 
+supraglottic airway (such as ##LMA##) if trained, and call for help early. Document tube size, depth 
+at the lip, confirmation method, and ventilation settings to prevent handover errors. 
+References: 
+- Airway Management (Trauma Service Manual Appendix) — 
+https://www.rch.org.au/uploadedFiles/Main/Content/trauma-service/manual/appendix_4.pdf 
+- Emergency Airway Management — 
+https://www.rch.org.au/clinicalguide/guideline_index/Emergency_airway_management/ 
+- Highlights of the 2025 AHA Guidelines Update for Pediatric Basic and Advanced Life Support — 
+https://www.ahajournals.org/doi/10.1161/CIR.0000000000001368 
+
+COMMON PEDIATRIC EMERGENCIES;RESUSCITATION AND ARRHYTHMIA EMERGENCIES;
+
+COMMON PEDIATRIC EMERGENCIES;RESUSCITATION AND ARRHYTHMIA EMERGENCIES;PEDIATRIC CARDIAC ARREST CPR DEFIBRILLATION AND MEDICATION SEQUENCE;
+In pediatric arrest, outcomes depend most on early recognition, uninterrupted high-quality ##CPR##, 
+and  timely  defibrillation  for  shockable  rhythms.  Start  compressions  immediately on  a firm  surface, 
+aiming for a depth of about one-third the anterior–posterior chest diameter, full recoil, and minimal 
+pauses.  With  two  rescuers,  use  a  15:2  compression-to-ventilation  ratio;  if  an  advanced  airway  is 
+placed,  ventilate  about  1  breath  every  2–3  seconds  without  stopping  compressions.  Attach 
+monitor/defibrillator as soon as available and obtain ##IV## or ##IO## access early.  
+
+For shockable rhythms (##VF## or pulseless ##VT##), deliver a shock at 2 J/kg, resume ##CPR## 
+immediately for 2 minutes, then reassess rhythm. Escalate energy to 4 J/kg for the next shock; 
+subsequent shocks can be ≥4 J/kg (not exceeding 10 J/kg or adult maximum). Give epinephrine 0.01 
+mg/kg (0.1 mL/kg of 0.1 mg/mL) ##IV##/##IO## every 3–5 minutes, starting after the second shock, 
+and consider amiodarone 5 mg/kg or lidocaine for refractory shockable arrest. For nonshockable 
+
+ 
+rhythms (asystole or ##PEA##), focus on effective ##CPR##, epinephrine every 3–5 minutes, and 
+rapidly correcting reversible causes.  
+
+Actively search for and treat reversible causes (the Hs and Ts): hypoxia, hypovolemia, hydrogen ion 
+(acidosis), hypo/hyperkalemia and hypoglycemia, hypothermia, tension pneumothorax, tamponade, 
+toxins, and thrombosis. In India, hypoxia from pneumonia, asthma, bronchiolitis, drowning, and 
+sepsis-related shock are common precipitants; correct airway and ventilation problems early and 
+reassess response every 2 minutes.  
+References:  
+- AHA 2025 Pediatric Cardiac Arrest Algorithm (PALS CA) — https://cpr.heart.org/-
+
+/media/CPRFiles/CPR-Guidelines-Files/2025-Algorithms/Algorithm-PALS-CA-250123.pdf?sc_lang=en  
+
+- AHA 2025 Algorithms landing page (pediatric BLS and PALS) —  
+https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/algorithms  
+- Highlights of the 2025 AHA Guidelines for CPR and ECC — https://cpr.heart.org/-/media/CPR- 
+Files/2025-documents-for-cpr-heart-edits-
+posting/ResuscitationScience/252500_Hghlghts_2025ECCGuidelines.pdf?sc_lang=en  
+- IAP Standard Treatment Guidelines: CPR and BLS in office practice — 
+https://iapindia.org/pdf/Ch055-stg-CPR-BLS-in-office-practice.pdf  
+
+COMMON PEDIATRIC EMERGENCIES;RESUSCITATION AND ARRHYTHMIA EMERGENCIES;POST ROSC STABILIZATION TARGETS AND TRANSFER READY CHECKLIST;
+After sustained ##ROSC##, treat the child as critically unstable even if the blood pressure is normal. 
+Prioritize oxygenation and ventilation: target ##SpO2## 94–98% (or the child’s usual saturation in 
+cyanotic heart disease) and avoid both hypocapnia and severe hypercapnia. Use continuous 
+##ETCO2## if available, and reassess tube position and chest rise after any movement. Maintain 
+ageappropriate perfusion with careful fluids and vasoactive support as needed, and avoid 
+hypotension, which is associated with worse neurological outcomes.  
+
+Temperature control is a core intervention. Prevent fever and actively treat hyperthermia; manage 
+shivering and discomfort with appropriate analgesia and sedation. Check glucose and correct 
+hypoglycemia; avoid wide swings in glucose during the first day. Monitor for seizures (clinical or 
+electrographic if available) and treat promptly. Obtain targeted investigations to identify the cause 
+and complications (##ECG##, bedside echo if available, chest radiograph, electrolytes, blood gas, 
+lactate), but do not destabilize the patient for non-urgent tests.  
+
+For India-specific transfer, use a transport-ready checklist: secure airway and oxygen source, confirm 
+ventilator settings or bagging plan, ensure at least one reliable vascular access (preferably two), start 
+maintenance fluids with clear rates, prepare vasoactive infusions if shock recurs, document 
+neurostatus and pupillary findings, and send written medication times and doses. Early 
+communication with the receiving ##PICU## improves continuity and reduces avoidable delays.  
+References:  
+- 
+AHA 2025 Components of Post–Cardiac Arrest Care Checklist (PALS PCAC) — 
+https://cpr.heart.org//media/CPR-Files/CPR-Guidelines-Files/2025-Algorithms/Checklist-PALS-
+PCAC250213.pdf?sc_lang=en  
+- 
+https://www.ahajournals.org/doi/10.1161/CIR.0000000000001368  
+- 
+https://www.ahajournals.org/doi/10.1161/CIR.0000000000000697 - AHA 2025 Algorithms landing 
+
+Pediatric post–cardiac arrest care scientific statement (Topjian 2019) — 
+
+Part 8: Pediatric Advanced Life Support: 2025 AHA Guidelines — 
+
+page (post-cardiac arrest resources) — https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-
+guidelines/algorithms  
+
+COMMON PEDIATRIC EMERGENCIES;RESUSCITATION AND ARRHYTHMIA EMERGENCIES;BRADYCARDIA AND TACHYARRHYTHMIA WITH A PULSE EMERGENCY DECISIONS;
+Treat pediatric bradycardia and tachyarrhythmia as airway and perfusion problems first. Start with 
+##ABCDE## support, oxygen, and a monitor, and correct hypoxia, hypovolemia, fever, and toxins. In 
+bradycardia, the key decision point is cardiopulmonary compromise. If ##HR## is <60/min with poor 
+perfusion despite effective oxygenation and ventilation, start ##CPR##, obtain ##IV##/##IO## access, 
+and give epinephrine 0.01 mg/kg (0.1 mL/kg of 0.1 mg/mL) every 3–5 minutes. Consider atropine 
+0.02 mg/kg (minimum 0.1 mg; maximum 0.5 mg per dose in a child) when increased vagal tone or 
+primary ##AV## block is likely, and seek expert help early for pacing.  
+
+For tachyarrhythmia with a pulse, determine whether the child is unstable (hypotension, altered 
+mental status, signs of shock, or acute heart failure). Unstable tachyarrhythmia requires synchronized 
+cardioversion: 0.5–1 J/kg, increasing to 2 J/kg if needed. In stable, regular narrow-complex 
+tachycardia consistent with ##SVT##, attempt vagal maneuvers, then give adenosine 0.1 mg/kg rapid 
+##IV## (maximum 6 mg) followed by a flush; if ineffective, give 0.2 mg/kg (maximum 12 mg). 
+Widecomplex tachycardia should be treated as ventricular tachycardia until proven otherwise; avoid 
+verapamil in infants and consult urgently.  
+
+In India, delays in electrical cardioversion occur when sedation, defibrillator pads, or expertise are 
+limited. If cardioversion is needed, prioritize timely shock with the safest available sedation strategy 
+rather than prolonged attempts at pharmacologic conversion in an unstable child.  
+References:  
+- AHA 2025 Pediatric Bradycardia With a Pulse Algorithm — https://cpr.heart.org/-
+
+/media/CPRFiles/CPR-Guidelines-Files/2025-Algorithms/Algorithm-PALS-Bradycardia-
+250121.pdf?sc_lang=en  
+
+- AHA 2025 Pediatric Tachyarrhythmia With a Pulse Algorithm — https://cpr.heart.org/-
+
+/media/CPRFiles/CPR-Guidelines-Files/2025-Algorithms/Algorithm-PALS-
+Tachyarrhythmia250117.pdf?sc_lang=en  
+
+- IAP Standard Treatment Guidelines: Supraventricular tachycardia — https://iapindia.org/pdf/Ch- 
+036-STG-supraventricular-tachycardia.pdf  
+- Part 8: Pediatric Advanced Life Support: 2025 AHA Guidelines — 
+
+https://www.ahajournals.org/doi/10.1161/CIR.0000000000001368  
+
+COMMON PEDIATRIC EMERGENCIES;ACUTE AIRWAY AND RESPIRATORY EMERGENCIES;
+
+COMMON PEDIATRIC EMERGENCIES;ACUTE AIRWAY AND RESPIRATORY EMERGENCIES;STRIDOR DIFFERENTIAL DIAGNOSIS AND CROUP EMERGENCY TREATMENT;
+Stridor is a sign of upper airway narrowing; rapid deterioration can occur with agitation. Keep the 
+child with the caregiver, avoid painful procedures, and give humidified oxygen by blow-by if 
+hypoxemic. Use the tempo and associated features to triage. Viral croup usually has a barky cough 
+and hoarse voice with low-grade fever; sudden onset choking, unilateral wheeze, or voice change 
+raises concern for an inhaled foreign body. Urticaria, facial swelling, or hypotension suggests 
+anaphylaxis; drooling, muffled voice, tripod posture, and toxic appearance suggest epiglottitis or 
+deep neck infection. Do not attempt oropharyngeal examination with a tongue depressor if 
+epiglottitis is suspected; prioritize controlled airway management with senior help.  
+
+For typical croup, a single dose of dexamethasone 0.6 mg/kg orally (maximum 10–12 mg) reduces 
+symptoms and revisits. Nebulized adrenaline is indicated for moderate to severe croup with stridor at 
+rest or marked retractions; a commonly used dose is 0.5 mL/kg of 1:1000 adrenaline (maximum 5 
+mL) via nebulizer. Adrenaline has a rapid effect but may wear off, so observe for at least 2–4 hours 
+after the last dose and reassess work of breathing and ##SpO2##.  
+
+Discharge is reasonable when the child has no stridor at rest, maintains hydration, and has stable 
+##SpO2## on room air. Admit or refer urgently for persistent stridor at rest after therapy, exhaustion, 
+poor air entry, cyanosis, recurrent need for nebulized adrenaline, suspicion of bacterial 
+tracheitis/epiglottitis, or when safe monitoring at home is unlikely.  
+References:  
+- IAP Standard Treatment Guidelines: Croup in children — https://iapindia.org/pdf/Ch-010-croup-
+
+inchildren.pdf  
+
+- Royal Children’s Hospital: Acute upper airway obstruction guideline —  
+https://www.rch.org.au/clinicalguide/guideline_index/acute_upper_airway_obstruction/  
+- IAP Standard Treatment Guidelines: Acute epiglottitis — https://iapindia.org/pdf/Ch-058-stg-
+
+acuteepiglottitis.pdf  
+
+- Royal Children’s Hospital: Croup (laryngotracheobronchitis) guideline —  
+https://www.rch.org.au/clinicalguide/guideline_index/croup_laryngotracheobronchitis/  
+
+COMMON PEDIATRIC EMERGENCIES;ACUTE AIRWAY AND RESPIRATORY EMERGENCIES;BRONCHIOLITIS SUPPORTIVE CARE OXYGEN THRESHOLDS AND RESPIRATORY SUPPORT ESCALATION;
+Bronchiolitis is a clinical diagnosis in infants, commonly due to ##RSV##, and management is 
+supportive. Minimize handling, position the infant, and use gentle nasal suction to improve feeding 
+and reduce work of breathing. Routine antibiotics, bronchodilators, and steroids do not improve 
+outcomes in typical bronchiolitis and should be avoided unless another diagnosis is suspected.  
+
+Oxygen decisions should be consistent and documented. Admit or observe infants with apnea 
+(reported or witnessed), exhaustion, inability to feed, or persistent ##SpO2## below accepted 
+thresholds. Many guidelines use <90% on room air for children ≥6 weeks, and <92% for babies <6 
+weeks or any age with comorbidity. Start with low-flow nasal oxygen and reassess clinical work of 
+breathing rather than chasing a number. Escalate respiratory support when fatigue, rising oxygen 
+requirement, or persistent severe retractions occur despite low-flow oxygen. ##HFNC## can reduce 
+work of breathing in selected infants, but requires monitoring for deterioration; ##CPAP## is 
+preferred when there is significant hypercapnia, apnea, or failure of ##HFNC##, and should trigger 
+early referral to a higher-level unit.  
+
+High-risk groups include premature infants, those with congenital heart disease, chronic lung disease, 
+or very young age. In India, safe discharge requires a reliable caregiver, feeding adequacy, and access 
+to follow-up, because deterioration may occur overnight. Provide clear return precautions for apnea, 
+poor feeding, increasing retractions, or lethargy. References:  
+- NICE guideline NG9: Bronchiolitis in children (recommendations) — 
+https://www.nice.org.uk/guidance/ng9/chapter/recommendations  
+
+- Royal Children’s Hospital: Bronchiolitis guideline —  
+https://www.rch.org.au/clinicalguide/guideline_index/Bronchiolitis/  
+- American Academy of Pediatrics: Diagnosis, management, and prevention of bronchiolitis (2014) — 
+
+https://portaldeboaspraticas.iff.fiocruz.br/wp-content/uploads/2019/04/e1474.full_.pdf - IAP 
+Standard Treatment Guidelines: Bronchiolitis — https://iapindia.org/pdf/Ch-027Bronchiolitis.pdf  
+
+COMMON PEDIATRIC EMERGENCIES;ACUTE AIRWAY AND RESPIRATORY EMERGENCIES;ACUTE SEVERE ASTHMA STEPWISE BRONCHODILATOR ESCALATION AND PICU TRANSFER TRIGGERS;
+Assess severity quickly: inability to speak or feed, agitation or drowsiness, severe chest indrawing, 
+silent chest, cyanosis, or persistent hypoxemia indicate high risk. Start oxygen to maintain ##SpO2## 
+94–98% and give rapid bronchodilation. In many settings, salbutamol by ##pMDI## with spacer is as 
+effective as nebulization and reduces infection spread; use repeated doses back-to-back in the first 
+hour while reassessing work of breathing and auscultation.  
+
+Add ipratropium bromide in moderate to severe exacerbations and give systemic steroids early (for 
+example prednisolone 1–2 mg/kg/day, maximum 40–50 mg, or equivalent) because onset is delayed. 
+If response is inadequate after initial inhaled therapy, give ##IV## magnesium sulfate 40–50 mg/kg 
+(maximum 2 g) over 20–30 minutes with monitoring. Consider continuous inhaled salbutamol, and in 
+refractory cases with specialist support consider ##IV## beta-agonist infusion or aminophylline, 
+recognizing higher adverse-effect risk and the need for close monitoring.  
+
+Escalate early to a higher-level unit when there is persistent severe respiratory distress after firsthour 
+therapy, exhaustion, altered mental status, rising or normalizing ##PaCO2## in a tiring child, 
+recurrent need for continuous bronchodilator therapy, or impending respiratory failure (bradycardia, 
+poor air entry, or persistent ##SpO2## <92% despite high oxygen). If intubation is required, it should 
+be performed by the most experienced clinician available; prepare for hypotension, use 
+lungprotective ventilation with permissive hypercapnia when appropriate, and continue 
+bronchodilators and steroids. In India, arrange early transfer rather than waiting for complete failure 
+in facilities without continuous monitoring.  
+References:  
+- 
+STGbronchial-asthma.pdf  
+- 
+Under-5Wheeze.pdf  
+- 
+https://ginasthma.org/wpcontent/uploads/2025/05/GINA-Summary-Guide-2025-WEB-WMS.pdf  
+- 
+Canadian Paediatric Society: Managing an acute asthma exacerbation in children — 
+https://cps.ca/en/documents/position/managing-an-acute-asthma-exacerbation  
+
+IAP Standard Treatment Guidelines: Bronchial asthma — https://iapindia.org/pdf/Ch-035-
+
+IAP Standard Treatment Guidelines: Under 5 wheeze — https://iapindia.org/pdf/Ch-045-
+
+GINA 2025 Summary Guide for Asthma Management and Prevention — 
+
+COMMON PEDIATRIC EMERGENCIES;ACUTE AIRWAY AND RESPIRATORY EMERGENCIES;DISCHARGE PLANNING AFTER ASTHMA EXACERBATION WITH CONTROLLER THERAPY AND ACTION PLAN;
+Discharge planning begins early because relapse is common when caregivers cannot continue 
+treatment correctly at home. Discharge is usually safe when the child has minimal work of breathing, 
+speaks/feeds comfortably, has stable ##SpO2## on room air, and requires short-acting beta-agonist 
+no more often than every 4 hours. Before leaving, demonstrate and observe inhaler technique with a 
+spacer, confirm caregiver understanding of doses and frequency, and document weight-based steroid 
+plan if prescribed.  
+Provide a written asthma action plan that separates daily controller therapy from reliever use. Ensure 
+access to and adherence with an inhaled corticosteroid (##ICS##) for persistent asthma, and consider 
+step-up after a severe exacerbation. For preschool wheeze, clarify whether episodes are 
+viraltriggered or multi-trigger and align controller choices with national guidance; avoid labeling 
+every wheezing episode as infection. Address modifiable triggers common in India such as tobacco 
+smoke exposure, indoor biomass fuel, and seasonal viral exposures in school-going children.  
+
+Schedule follow-up within 1–4 weeks to reassess symptom control, adherence, and comorbid allergic 
+rhinitis. Provide clear return precautions: increasing breathlessness, inability to sleep or feed, 
+cyanosis, drowsiness, or poor response to the child’s usual reliever. If the exacerbation required 
+##IV## therapy, continuous bronchodilators, or ##PICU## care, arrange specialist review and ensure 
+the family can obtain and correctly use medications, because medication access and beliefs about 
+nebulization versus ##pMDI## strongly influence outcomes.  
+References:  
+- GINA 2025 Summary Guide for Asthma Management and Prevention — 
+
+https://ginasthma.org/wpcontent/uploads/2025/05/GINA-Summary-Guide-2025-WEB-WMS.pdf  
+
+- IAP Standard Treatment Guidelines: Bronchial asthma — https://iapindia.org/pdf/Ch-035-
+
+STGbronchial-asthma.pdf  
+
+- IAP Standard Treatment Guidelines: Under 5 wheeze — https://iapindia.org/pdf/Ch-045-Under-
+
+5Wheeze.pdf  
+
+- Royal Children’s Hospital: Acute asthma guideline —  
+https://www.rch.org.au/clinicalguide/guideline_index/Asthma_acute/  
+
+COMMON PEDIATRIC EMERGENCIES;ACUTE AIRWAY AND RESPIRATORY EMERGENCIES;COMMUNITY ACQUIRED PNEUMONIA TRIAGE AND OUTPATIENT ANTIBIOTIC DOSE SELECTION;
+Community-acquired pneumonia is a major driver of under-five morbidity in India, so triage must be 
+explicit. Assess respiratory rate by age, chest indrawing, grunting, feeding difficulty, dehydration, and 
+##SpO2##. Admit or refer urgently for any general danger sign (inability to drink, persistent vomiting, 
+convulsions, lethargy/unconsciousness), central cyanosis, ##SpO2## <90%, severe respiratory 
+distress, or shock. A chest radiograph is not required for straightforward outpatient pneumonia, but 
+is helpful when severe disease, complications, or alternate diagnoses are suspected.  
+
+For outpatient treatment when bacterial pneumonia is likely, oral amoxicillin remains first line. A 
+practical high-dose regimen is 40–45 mg/kg per dose twice daily (total 80–90 mg/kg/day) for 5 days, 
+with close follow-up. Lower-dose amoxicillin (for example 15–20 mg/kg per dose twice daily) may be 
+reasonable only for fast-breathing pneumonia without chest indrawing in well-immunized children 
+where local pneumococcal resistance is known to be low and follow-up is reliable. Use amoxicillin– 
+clavulanate when there is recent beta-lactam exposure, concurrent otitis/sinusitis, or concern for 
+beta-lactamase producers.  
+
+IAP Standard Treatment Guidelines: Community acquired pneumonia — 
+
+Consider atypical pneumonia in school-age children with persistent dry cough, minimal findings, and 
+extrapulmonary symptoms; add a macrolide when clinically indicated rather than routinely. Reassess 
+clinically within 48–72 hours; earlier review is needed if the child worsens, oxygen requirement 
+develops, or feeding declines.  
+References:  
+- 
+https://iapindia.org/pdf/Ch-011-Community-Acquired-Pneumonia.pdf - WHO IMCI chart booklet: 
+pneumonia classification and referral triggers — https://cdn.who.int/media/docs/default-
+source/mca-documents/child/imci-integratedmanagement-of-childhood-illness/imci-in-service-
+training/imci-chart-booklet.pdf?sfvrsn=f63af425_1 - ICMR treatment guidelines for antimicrobial use 
+in common syndromes (2019) — 
+https://www.icmr.gov.in/icmrobject/custom_data/pdf/resourceguidelines/Treatment_Guidelines_20
+19_Final.pdf  
+- 
+IDSA/PIDS guideline: community-acquired pneumonia in infants and children (2011) — 
+https://www.idsociety.org/practice-guideline/community-acquired-pneumonia-cap-in-infants-
+andchildren/  
+
+COMMON PEDIATRIC EMERGENCIES;ACUTE AIRWAY AND RESPIRATORY EMERGENCIES;INPATIENT PNEUMONIA ANTIBIOTIC ESCALATION AND NONRESPONSE AT 48 TO 72 HOURS;
+Hospitalized children with pneumonia need concurrent supportive care and reassessment. Provide 
+oxygen to maintain ##SpO2## targets, correct dehydration cautiously, and start empiric antibiotics 
+after blood culture if this does not delay therapy. Empiric choices should reflect age, vaccination 
+status, and local resistance: for many Indian hospitals, ampicillin (or benzylpenicillin) is appropriate 
+for uncomplicated lobar pneumonia in a fully immunized child, while ceftriaxone is commonly used 
+for severe disease, incomplete immunization, or where penicillin resistance is high. Add 
+antistaphylococcal coverage when there is rapid progression, pneumatoceles, empyema, or skin/soft 
+tissue infection.  
+
+Clinical improvement should be visible within 48–72 hours as reduced fever, improved work of 
+breathing, better feeding, and falling oxygen needs. If there is nonresponse or deterioration, reassess 
+the diagnosis before simply broadening antibiotics. Key alternatives and complications include 
+pleural effusion/empyema, lung abscess, pneumothorax, bronchiolitis or asthma masquerading as 
+pneumonia, inhaled foreign body, tuberculosis, heart failure, and sepsis. Repeat exam and a new 
+chest radiograph are often sufficient; pleural ultrasound improves detection of effusion and guides 
+drainage. Escalate care for persistent hypoxemia, rising ##CO2##, shock, or altered mental status.  
+
+Step down from ##IV## to oral therapy when the child is afebrile or improving, tolerating feeds, and 
+oxygen-independent. Duration depends on severity and complications; ensure a follow-up plan after 
+discharge to confirm resolution and evaluate recurrent pneumonias for underlying conditions.  
+References:  
+- IAP Standard Treatment Guidelines: Community acquired pneumonia — 
+https://iapindia.org/pdf/Ch-011-Community-Acquired-Pneumonia.pdf  
+
+- ICMR AMRTG: guidance for antimicrobial selection based on Indian resistance patterns — 
+
+https://amrtg.icmr.org.in/  
+
+- Royal Children’s Hospital: Pneumonia guideline —  
+https://www.rch.org.au/clinicalguide/guideline_index/Pneumonia/ - IAP 
+Standard Treatment Guidelines: Empyema (complicated pneumonia) — 
+https://iapindia.org/pdf/Ch-029-STG-Empyema.pdf  
+
+COMMON PEDIATRIC EMERGENCIES;ACUTE AIRWAY AND RESPIRATORY EMERGENCIES;PNEUMOTHORAX RECOGNITION NEEDLE DECOMPRESSION AND CHEST DRAIN TRANSFER CRITERIA;
+Pneumothorax is a time-critical reversible cause of sudden deterioration and should be considered 
+when respiratory distress worsens abruptly, especially with unilateral reduced air entry, 
+hyperresonance, increasing hypoxemia, or evolving shock. Suspect tension pneumothorax when 
+these findings are accompanied by severe distress and obstructive shock physiology (tachycardia, 
+poor perfusion, narrow pulse pressure, or sudden bradycardia). 
+
+Do not wait for radiography in an unstable child. If tension pneumothorax is clinically likely, 
+decompress immediately, then proceed to definitive tube thoracostomy when feasible because 
+recurrence after needle decompression alone is common. Document the immediate response 
+(improved ##SpO2##, reduced distress, improved perfusion) to guide ongoing management. In a 
+stable child, confirm with chest radiograph or bedside ultrasound when available, and manage based 
+on size, symptoms, and underlying lung disease. 
+
+In mechanically ventilated children, pneumothorax can worsen quickly. Rising airway pressures, 
+sudden desaturation, or unexpected bradycardia should trigger an immediate air-leak assessment 
+
+and readiness to decompress. Pneumothorax should also be considered in a newborn who initially 
+improves with ventilation and then deteriorates during resuscitation. 
+
+Transfer early when a chest drain is needed, oxygen requirement escalates, underlying pathology 
+such as necrotizing pneumonia is suspected, or any hemodynamic instability is present, because 
+definitive care may require ventilation and skilled drain management. 
+References: 
+- Pneumothorax in Children (IAP Standard Treatment Guidelines) — https://iapindia.org/pdf/Ch-052-
+stg-pneumothorax-in-children.pdf 
+- Management of Pneumothorax and Hemothorax (RCH Trauma Guideline) — 
+https://www.rch.org.au/trauma-service/manual/management_of_pneumothorax_and_hemothorax/ 
+- Highlights of the 2025 AHA Guidelines Update for Pediatric Basic and Advanced Life Support — 
+https://www.ahajournals.org/doi/10.1161/CIR.0000000000001368 
+
+COMMON PEDIATRIC EMERGENCIES;ANAPHYLAXIS EMERGENCY RECOGNITION AND EPINEPHRINE THERAPY;
+
+COMMON PEDIATRIC EMERGENCIES;ANAPHYLAXIS EMERGENCY RECOGNITION AND EPINEPHRINE THERAPY;INTRAMUSCULAR EPINEPHRINE DOSING FLUID RESUSCITATION AND OBSERVATION DECISIONS;
+Anaphylaxis is a clinical diagnosis; do not wait for hypotension or skin findings. Suspect it when there 
+is acute onset of airway or breathing compromise (stridor, wheeze, hypoxemia), circulation 
+compromise (collapse, weak pulses), or severe gastrointestinal symptoms after a likely trigger. Give 
+epinephrine immediately as the first-line treatment: 0.01 mg/kg of 1 mg/mL (1:1000) ##IM## into 
+the mid-anterolateral thigh (maximum 0.5 mg), and repeat every 5–15 minutes if symptoms persist.  
+Place the child supine with legs elevated unless breathing is easier sitting up. Provide high-flow 
+oxygen, establish ##IV## access, and give isotonic fluid boluses (for example 20 mL/kg) for shock, 
+repeating with reassessment. Adjuncts (after epinephrine) include inhaled salbutamol for 
+bronchospasm, antihistamines for urticaria, and corticosteroids for persistent symptoms, but none 
+replace epinephrine. Escalate to an epinephrine infusion when there is refractory shock or repeated 
+##IM## doses are required, and arrange urgent transfer to a facility capable of continuous 
+monitoring.  
+
+Observe all children for recurrence, because biphasic reactions can occur. A minimum observation 
+period of 4 hours after the last epinephrine dose is common; admit for prolonged monitoring when 
+there was severe respiratory compromise, hypotension, need for multiple epinephrine doses, 
+comorbid asthma, or when access to emergency care is limited. In India, discharge counseling should 
+include trigger avoidance, a written emergency plan, and access to epinephrine (auto-injector when 
+available, or prefilled syringe strategies where policy allows).  
+References:  
+- IAP Standard Treatment Guidelines: Anaphylaxis —  
+https://iapindia.org/pdf/gepAz6wsH5c3B2r_Standard-Treatment-Guidelines-Anaphylaxis.pdf  
+- World Allergy Organization Anaphylaxis Guidance 2020 —  
+https://www.worldallergyorganizationjournal.org/article/S1939-4551%2820%2930375-6/fulltext  
+- Royal Children’s Hospital: Anaphylaxis guideline —  
+https://www.rch.org.au/clinicalguide/guideline_index/anaphylaxis/ - 
+NIAID/FAAN consensus criteria for anaphylaxis (summary PDF) —  
+
+ 
+https://www.med.unc.edu/casp/wp-content/uploads/sites/563/2021/01/NIAID.FAAN-
+AnaphylaxisCriteria-.pdf  
+
+COMMON PEDIATRIC EMERGENCIES;SHOCK SEPSIS AND DENGUE HEMODYNAMIC EMERGENCIES;
+
+COMMON PEDIATRIC EMERGENCIES;SHOCK SEPSIS AND DENGUE HEMODYNAMIC EMERGENCIES;EARLY SHOCK RECOGNITION FLUID TITRATION AND VASOACTIVE SELECTION IN CHILDREN;
+Shock is a clinical diagnosis and often precedes hypotension in children. Look for tachycardia out of 
+proportion to fever, cool extremities, weak pulses, prolonged capillary refill, altered sensorium, and 
+reduced urine output. Classify the hemodynamic pattern when possible: cold shock (low cardiac 
+output with high systemic vascular resistance) is common in pediatric sepsis; warm shock (bounding 
+pulses, wide pulse pressure) may occur early.  
+
+Give isotonic crystalloid in small aliquots with frequent reassessment. A typical approach is 10–20 
+mL/kg over 10–15 minutes, then reassess lung exam, liver size, capillary refill, and mental status. 
+Stop or slow boluses if respiratory distress, crackles, or hepatomegaly develop, and shift earlier to 
+vasoactive support rather than repeated fluids. In facilities with limited monitoring, using repeated 
+focused bedside assessments is safer than fixed-volume protocols.  
+
+IAP Standard Treatment Guidelines: Shock in office practice — https://iapindia.org/pdf/Ch-
+
+If shock persists after initial fluids, start vasoactives early through a secure ##IV## or ##IO## line 
+(peripheral infusion can be used cautiously while arranging central access). For cold shock with weak 
+pulses and narrow pulse pressure, epinephrine is commonly preferred; for warm shock with 
+bounding pulses and low diastolic pressure, norepinephrine is often appropriate. Treat the cause in 
+parallel: control hemorrhage, treat dehydration, address tension pneumothorax, correct 
+hypoglycemia, and give early antibiotics when sepsis is suspected. In India, early referral is warranted 
+when vasoactives are needed, because delays in transfer and limited ##PICU## beds increase risk of 
+sudden decompensation.  
+References:  
+- 
+073Shock-in-Office-Practice.pdf  
+- 
+guidelines (2020) —  
+https://journals.lww.com/pccmjournal/fulltext/2020/02000/surviving_sepsis_campaign_internation 
+al_guidelines.1.aspx  
+- 
+WHO Pocket Book of Hospital Care for Children: Shock assessment and treatment — 
+https://unicefintercluster.net/cpaor/sites/default/files/cp/WHO-2005-Pocketbook-of-hospital-
+carefor-children.pdf  
+- 
+https://www.ahajournals.org/doi/10.1161/CIR.0000000000001368  
+
+Surviving Sepsis Campaign: Pediatric septic shock and sepsis-associated organ dysfunction 
+
+Part 8: Pediatric Advanced Life Support: 2025 AHA Guidelines — 
+
+COMMON PEDIATRIC EMERGENCIES;SHOCK SEPSIS AND DENGUE HEMODYNAMIC EMERGENCIES;SEPSIS ANTIBIOTIC BUNDLE TIMING CULTURE COLLECTION AND DEESCALATION STRATEGY;
+In suspected sepsis, timely antibiotics are life-saving, but stewardship matters in India because 
+resistance is common and diagnostics are variable. Use a sepsis antibiotic bundle: obtain blood 
+cultures if this does not delay treatment, check bedside glucose, and start empiric antibiotics within 
+1 hour when septic shock is suspected. Choose therapy by likely source, age, prior antibiotics, and 
+local antibiogram; when referral is required, give the first dose before transfer and document the 
+exact time. 
+
+Reassess at 48–72 hours using the clinical picture and microbiology rather than isolated 
+
+Bedside dosing support reduces errors. In unstable neonates, many Indian protocols use 
+
+- 
+ampicillin (or cloxacillin) 50 mg/kg per dose plus gentamicin 5 mg/kg per dose, with ampicillin 
+frequency adjusted by postnatal age and weight; avoid routine third-generation cephalosporins as 
+first line unless meningitis is suspected because they promote ##ESBL## selection and invasive fungal 
+infection. For immunized children hospitalized with uncomplicated community-acquired pneumonia, 
+a common regimen is ampicillin 50 mg/kg per dose (max 2 g) ##IV## every 6 hours with step-down 
+to oral amoxicillin when stable. When meningitis is suspected, do not delay antibiotics for ##LP## or 
+imaging in an unstable child; ceftriaxone-based regimens are commonly used, with vancomycin 
+added when resistant pneumococcus is a concern. 
+- 
+inflammatory markers. If cultures are negative and the child is improving, narrow or stop antibiotics 
+and consider viral illness, malaria, dengue, and noninfectious mimics. If cultures identify a pathogen, 
+de-escalate to the narrowest effective agent and define duration by syndrome and response. Avoid 
+“antibiotic stacking” without a clear reason; structured de-escalation reduces adverse effects and 
+preserves antibiotic effectiveness. 
+References: 
+- Surviving Sepsis Campaign International Guidelines for Children (2020) — 
+https://journals.lww.com/pccmjournal/fulltext/2020/02000/surviving_sepsis_campaign_internation
+al_guidelines.20.aspx 
+- National Treatment Guidelines for Antimicrobial Use in Infectious Disease Syndromes 2025 — 
+https://ncdc.mohfw.gov.in/wp-content/uploads/2025/12/National-Treatment-Guidelines-for-AMU-
+in-ID-syndromes-2025.pdf 
+- ICMR Antimicrobial Resistance Treatment Guidelines Portal — https://amrtg.icmr.org.in/ 
+- 
+COMMON PEDIATRIC EMERGENCIES;SHOCK SEPSIS AND DENGUE HEMODYNAMIC EMERGENCIES;SEVERE MALARIA RECOGNITION ARTESUNATE DOSING AND FIRST HOUR COINTERVENTIONS;
+Severe malaria must remain a front-door diagnosis in febrile Indian children who deteriorate quickly, 
+especially with impaired consciousness, repeated seizures, respiratory distress, hypoglycemia, severe 
+anemia, shock, jaundice with organ dysfunction, hemoglobinuria, or oliguria. The common 
+preventable error is to label these children as “viral fever” or “dengue” and delay parenteral 
+antimalarial therapy. 
+- 
+bedside glucose early and correct immediately; recurrent hypoglycemia is common and worsens 
+encephalopathy and seizures. Treat ongoing seizures with a benzodiazepine per protocol, but also 
+correct glucose and temperature aggressively in suspected cerebral malaria. Treat shock with small 
+isotonic aliquots and frequent reassessment; avoid reflex repeated large boluses because malaria 
+shock may be mixed physiology and profound anemia may contribute. 
+- 
+when clinical severe malaria criteria are met. Start injectable artesunate per Indian guidance (2.4 
+mg/kg at 0, 12, and 24 hours, then once daily) and switch to a full 3-day oral ##ACT## course once 
+the child can take orally. Recognize severe anemia as an emergency transfusion decision: hemoglobin 
+<5 g/dL (or hematocrit <20%), especially with respiratory distress, hypoxia, or heart failure signs, 
+should prompt early blood arrangement. 
+- 
+oxygen or ventilation need, shock needing repeated boluses or vasoactives, severe anemia requiring 
+transfusion, renal failure with oliguria, severe acidosis, or recurrent hypoglycemia. 
+References: 
+- Malaria Drug Policy 2013 — https://ncvbdc.mohfw.gov.in/Doc/National-Drug-Policy-2013.pdf 
+
+Run ##ABCDE## stabilization and treat common co-threats in parallel with diagnostics. Check 
+
+Transfer early when there is persistent altered sensorium, recurrent seizures, escalating 
+
+Confirm malaria urgently with smear and/or ##RDT##, but do not wait for confirmation 
+
+- Malaria (IAP Standard Treatment Guidelines) — https://iapindia.org/pdf/Ch-095-malaria.pdf 
+- WHO Guidelines for Malaria — https://www.who.int/publications/i/item/guidelines-for-malaria 
+
+COMMON PEDIATRIC EMERGENCIES;SHOCK SEPSIS AND DENGUE HEMODYNAMIC EMERGENCIES;DENGUE WARNING SIGN RECOGNITION AND FLUID MANAGEMENT DURING THE CRITICAL PHASE;
+Dengue is common in many Indian districts and can deteriorate rapidly around defervescence. Triage 
+depends on warning signs and evidence of plasma leakage. Admit or refer when there is persistent 
+vomiting, severe abdominal pain, mucosal bleeding, lethargy/restlessness, postural dizziness, 
+hepatomegaly, rising hematocrit with falling platelets, or any shock features. Avoid ##NSAIDs## and 
+intramuscular injections; use paracetamol for fever and maintain hydration.  
+
+During the critical phase (often days 3–7), the main preventable harm is fluid overload from 
+unstructured boluses. Use isotonic fluids, give the smallest volume that restores perfusion, and 
+reassess frequently (pulse volume, capillary refill, respiratory rate, urine output, and mental status). 
+In compensated dengue shock, a common approach is 10 mL/kg crystalloid over 1 hour, then taper to 
+maintenance as the child improves; in hypotensive shock, give 20 mL/kg over 15–30 minutes and 
+reassess immediately. Use hematocrit trends to guide next steps: rising hematocrit with shock 
+suggests ongoing plasma leakage and may need more crystalloid or colloid; falling hematocrit with 
+shock suggests bleeding and should prompt blood transfusion rather than more crystalloid.  
+
+MoHFW and NCVBDC: National Guidelines for Clinical Management of Dengue Fever (2023) 
+
+Platelet count alone should not trigger transfusion; transfuse based on significant bleeding or 
+hemodynamic instability. Watch for fluid overload (crackles, gallop rhythm, increasing oxygen 
+requirement) and reduce fluids as the child enters the recovery phase when capillary leak resolves.  
+Clear documentation of rates and reassessment times reduces errors during shift changes.  
+References:  
+- 
+— https://ncvbdc.mohfw.gov.in/WriteReadData/l892s/42616651361605607948.pdf  
+- 
+WHO: Dengue guidelines for diagnosis, treatment, prevention and control (2009) — 
+https://iris.who.int/handle/10665/44188  
+- 
+https://iapindia.org/pdf/Ch-073-Shock-in-Office-Practice.pdf  
+
+IAP Standard Treatment Guidelines: Shock in office practice (dengue shock physiology) — 
+
+IAP Standard Treatment Guidelines: Dengue — https://iapindia.org/pdf/Ch-012-Dengue.pdf - 
+
+COMMON PEDIATRIC EMERGENCIES;SHOCK SEPSIS AND DENGUE HEMODYNAMIC
+
+- 
+EMERGENCIES;DENGUE FLUID RATE TITRATION HEMATOCRIT GUIDED TRANSFUSION AND RECOVERY PHASE STOP POINTS;
+Dengue can deteriorate rapidly around defervescence, so triage must be anchored to warning signs 
+and shock physiology. Admit or refer when there is persistent vomiting, severe abdominal pain, 
+mucosal bleeding, lethargy or restlessness, postural dizziness, hepatomegaly, rising hematocrit with 
+falling platelets, or any shock features. Avoid ##NSAIDs## and intramuscular injections; use 
+paracetamol and maintain enteral hydration when safe. 
+- 
+unstructured boluses. Use isotonic crystalloids and titrate to the smallest volume that restores 
+perfusion, with frequent reassessment of pulse volume, capillary refill, respiratory effort, urine 
+output, and mental status. For dengue with warning signs but without hypotension, a protocolized 
+rate approach is recommended: start ##IV## crystalloid about 7–10 mL/kg/hour for 1 hour, then 
+taper stepwise (for example 5–7 mL/kg/hour for 1–2 hours, then 3–5 mL/kg/hour for 2–4 hours, 
+
+During the critical phase (often days 3–7), the main preventable harm is fluid overload from 
+
+ 
+If there is no improvement or shock recurs, use hematocrit trends to decide the next step. 
+
+then 2–3 mL/kg/hour for 2–4 hours) as the child improves. Stop ##IV## fluids by about 24–48 hours 
+as the child enters recovery and capillary leak resolves. 
+- 
+Rising hematocrit with shock suggests ongoing plasma leakage and may need more crystalloid or 
+colloid; falling hematocrit with shock suggests significant bleeding and should prompt blood 
+transfusion rather than more crystalloid. Platelet count alone should not trigger transfusion. Escalate 
+early for inotropes, ventilation, or transfer when hypotension persists despite appropriate titration or 
+when fluid overload signs develop. 
+References: 
+- National Guidelines for Clinical Management of Dengue Fever 2023 — 
+https://cdn.who.int/media/docs/default-source/searo/india/publications/national-guidelines-
+clinical-management-dengue1.pdf?sfvrsn=8b01bb03_2 
+- Dengue Fever Standard Treatment Workflow (ICMR) — 
+https://www.icmr.gov.in/icmrobject/uploads/STWs/1725952338_paediatrics_dengue_fever.pdf 
+- Dengue in Children (IAP Standard Treatment Guidelines) — https://iapindia.org/pdf/Ch-138-
+Dengue-in-Children.pdf 
+
+COMMON PEDIATRIC EMERGENCIES;SHOCK SEPSIS AND DENGUE HEMODYNAMIC EMERGENCIES;SEVERE ACUTE MALNUTRITION MODIFICATIONS IN SHOCK SEPSIS AND DEHYDRATION;
+Children with ##SAM## can look deceptively stable and then collapse because hypoglycemia, 
+hypothermia, and sepsis overlap. Start by checking glucose and temperature, warming the child, and 
+treating hypoglycemia immediately, because these steps often improve perfusion without aggressive 
+fluids. Clinical signs of dehydration and shock are less reliable in ##SAM##; hepatomegaly, weak 
+pulses, and low urine output may reflect myocardial dysfunction as well as hypovolemia.  
+
+When shock is suspected in ##SAM##, avoid routine large-volume boluses. Many protocols 
+recommend a cautious approach such as 10 mL/kg isotonic crystalloid over 1 hour with close 
+monitoring, repeating only if there is clear improvement and no signs of fluid overload. If there is no 
+response, start vasoactive support and arrange urgent transfer rather than continuing fluids. For 
+dehydration without shock, prefer oral or nasogastric rehydration using ##ORS## formulations 
+recommended for malnutrition (such as ##ReSoMal## where available) and give smaller, more 
+frequent volumes with frequent reassessment.  
+
+Treat presumed infection early because bacteremia and pneumonia can be occult in ##SAM##. Use 
+empiric antibiotics per national or institutional guidance and reassess at 48–72 hours for 
+deescalation. Correct electrolyte deficits cautiously, provide micronutrients as per protocol, and 
+avoid diuretics unless there is clear pulmonary edema with specialist input. In India, early referral to 
+a facility experienced in ##SAM## management is appropriate when there is shock, severe 
+respiratory distress, altered sensorium, or inability to tolerate feeds, because monitoring needs are 
+intensive and deterioration can be sudden.  
+References:  
+- WHO: Updates on the management of severe acute malnutrition in infants and children (Pocket  
+Book) — https://www.ncbi.nlm.nih.gov/books/NBK154447/ - WHO 
+eLENA: Management of shock in severe acute malnutrition — 
+https://www.who.int/tools/elena/interventions/shock-sam  
+
+ 
+ 
+- IAP guideline: Severe acute malnutrition (India) — https://iapindia.org/pdf/IAP-
+
+GuidelineManagement-of-SAM.pdf  
+
+- MoHFW: Facility-based management of children with severe acute malnutrition (participant  
+manual) — https://nhm.gov.in/images/pdf/programmes/child- 
+health/guidelines/facility_based_management_of_children_with_sam_participant_manual.pdf  
+
+COMMON PEDIATRIC EMERGENCIES;NEUROLOGIC AND METABOLIC EMERGENCIES WITH ALTERED SENSORIUM;
+
+COMMON PEDIATRIC EMERGENCIES;NEUROLOGIC AND METABOLIC EMERGENCIES WITH ALTERED SENSORIUM;UNDIFFERENTIATED ALTERED SENSORIUM FIRST HOUR COMA PATHWAY;
+A structured coma pathway reduces missed reversible causes in Indian settings where infection, 
+metabolic derangement, and poisoning overlap. Start with ##ABCDE## support plus bedside glucose, 
+and treat while investigating rather than waiting for a definitive label. 
+
+In the first minutes, treat what kills fastest. If glucose is low or not immediately known, give dextrose 
+per age-appropriate protocol and recheck quickly because hypoglycemia is a reversible cause of 
+coma and seizures. If breathing is inadequate, ventilate early and consider intubation rather than 
+repeated sedating boluses. If seizures are present or suspected (subtle eye deviation, unexplained 
+tachycardia, fluctuating consciousness), treat per seizure protocol and escalate when second-line 
+therapy is required. 
+
+Then anchor pattern recognition to exam and context. Meningeal signs, petechiae, or shock suggest 
+meningitis or sepsis; obtain cultures if feasible and start empiric antimicrobials promptly in an 
+unstable child. A cholinergic or opioid toxidrome suggests poisoning; prioritize airway toileting and 
+ventilation, and give antidote when clinical criteria are met. Severe malaria should be considered in 
+endemic areas when coma, recurrent seizures, anemia, jaundice, or hypoglycemia coexist; arrange 
+urgent malaria testing and treat severe features without delay. 
+
+Imaging and ##LP## decisions must be operational. Do not delay antimicrobials for ##LP## in an 
+unstable child. Defer ##LP## when raised intracranial pressure is suspected (progressive coma, focal 
+deficit, papilledema, recurrent seizures, or severe cardiorespiratory compromise), and use 
+neuroimaging selectively when it will change management or safety. 
+References: 
+- Altered Conscious State (Royal Children’s Hospital Melbourne) — 
+https://www.rch.org.au/clinicalguide/guideline_index/Altered_conscious_state/ 
+- Convulsive Status Epilepticus (IAP Standard Treatment Guidelines) — https://iapindia.org/pdf/Ch-
+030-convulsive-status-epilepticus.pdf 
+- Acute Bacterial Meningitis (IAP Standard Treatment Guidelines) — https://iapindia.org/pdf/Ch-056-
+stg-acute-bacterial-meningitis.pdf 
+
+COMMON PEDIATRIC EMERGENCIES;NEUROLOGIC AND METABOLIC EMERGENCIES WITH ALTERED SENSORIUM;CONVULSIVE STATUS EPILEPTICUS BENZODIAZEPINE AND SECOND LINE ANTISEIZURE PROTOCOL;
+Convulsive status epilepticus is time-critical; treat while securing physiology. Use ##ABCDE##, place 
+the child in lateral position, give oxygen, and check bedside glucose immediately. Treat hypoglycemia 
+without delay (for example dextrose bolus) because ongoing seizures worsen hypoxia and acidosis. 
+Establish ##IV## access or place ##IO## access if needed, and monitor temperature, because fever 
+
+ 
+may be a trigger and may require treatment. If meningitis or encephalitis is suspected, start empiric 
+antimicrobials after initial stabilization rather than waiting for investigations.  
+
+First-line therapy is a benzodiazepine. If no ##IV## access, give buccal or intranasal midazolam 0.2 
+mg/kg (maximum 10 mg). If ##IV## access is available, lorazepam 0.1 mg/kg (maximum 4 mg) is 
+commonly used. Repeat one benzodiazepine dose once if seizures persist after 5 minutes, but avoid 
+multiple repeated benzodiazepine doses that increase respiratory depression.  
+
+If convulsions continue, give a second-line antiseizure drug. Options include levetiracetam 40–60 
+mg/kg (maximum 3 g), fosphenytoin/phenytoin 20 mg/kg (phenytoin equivalents), or valproate 20– 
+40 mg/kg, selected based on availability and contraindications. Refractory seizures require escalation 
+to ##ICU## care for airway protection, continuous monitoring, and anesthetic infusions guided by 
+protocol and, when available, ##EEG##. In India, early referral is appropriate when second-line 
+agents are needed or airway support is anticipated, because transport delays can convert treatable 
+seizures into hypoxic injury.  
+References:  
+- 
+StatusEpilepticus.pdf  
+- 
+https://www.aesnet.org/docs/default-source/pdfs-clinical/aes-convulsive-status-
+epilepticustreatment-algorithm.pdf  
+- 
+— https://unicefintercluster.net/cpaor/sites/default/files/cp/WHO-2005-Pocketbook-of-hospital-
+carefor-children.pdf  
+
+WHO Pocket Book of Hospital Care for Children: Convulsions and acute seizure management 
+
+American Epilepsy Society guideline: Convulsive status epilepticus treatment algorithm — 
+
+IAP Standard Treatment Guidelines: Status epilepticus — https://iapindia.org/pdf/Ch-014-
+
+COMMON PEDIATRIC EMERGENCIES;NEUROLOGIC AND METABOLIC EMERGENCIES WITH ALTERED SENSORIUM;FEBRILE SEIZURE CLASSIFICATION CNS INFECTION RED FLAGS AND DISCHARGE CRITERIA;
+Febrile seizure care should be separated from convulsive status epilepticus because most emergency 
+presentations are short, self-limited events, and the key decision is excluding ##CNS## infection 
+while avoiding unnecessary imaging. Classify the event because this governs evaluation and 
+counseling. Simple febrile seizure is generalized, lasts <15 minutes, and occurs once in 24 hours; 
+complex febrile seizure includes focal features, duration >15 minutes, or recurrence within 24 hours. 
+
+Immediate priorities are stabilization only if the seizure is ongoing or the child is not recovering. If 
+convulsions persist beyond 5 minutes, treat as an acute seizure using a single benzodiazepine 
+strategy (for example buccal or intranasal midazolam) and prepare for ventilation if respiratory 
+depression develops. Avoid repeated benzodiazepine stacking; the predictable complication is 
+hypoventilation in a child who otherwise might have recovered. 
+
+After the seizure, reassess for meningitis or encephalitis. Red flags include persistent altered 
+sensorium, neck stiffness, bulging fontanelle, petechiae or purpura, shock signs, focal neurological 
+deficit, or toxic appearance out of proportion to fever. When these are present, manage as suspected 
+infection: stabilize, obtain cultures if feasible, start antibiotics when indicated, and plan 
+neuroimaging or ##LP## based on raised intracranial pressure risk. Routine neuroimaging and 
+routine ##EEG## are not required for simple febrile seizures. 
+
+Discharge is reasonable when the child returns to baseline, vital signs are stable, there are no 
+meningeal signs or persistent neurological abnormalities, the fever source plan is clear, and 
+caregivers receive written return precautions. In India, lower the threshold for observation or 
+
+ 
+admission when follow-up is unreliable or travel barriers are significant. 
+References: 
+- Febrile Seizures (IAP Standard Treatment Guidelines) — https://iapindia.org/pdf/Ch-048-febrile-
+seizures.pdf 
+- Febrile Seizures Consensus Statement (AOCN, Indian Pediatrics 2021) — 
+https://www.indianpediatrics.net/sep2021/681.pdf 
+- Febrile Seizures (Royal Children’s Hospital Melbourne) — 
+https://www.rch.org.au/clinicalguide/guideline_index/Febrile_seizures/ 
+
+COMMON PEDIATRIC EMERGENCIES;NEUROLOGIC AND METABOLIC EMERGENCIES WITH ALTERED SENSORIUM;ACUTE BACTERIAL MENINGITIS EMPIRIC ANTIBIOTICS AND LUMBAR PUNCTURE TIMING;
+Suspect acute bacterial meningitis in any child with fever plus altered sensorium, neck stiffness, 
+seizures, bulging fontanelle, petechiae, or signs of shock. Stabilize ##ABCDE## first and treat seizures 
+and hypoglycemia immediately. Do not delay antibiotics for lumbar puncture when the child is 
+unstable.  
+
+##LP## provides diagnosis, but should be deferred when there are signs of raised intracranial 
+pressure or impending herniation (progressive coma, focal neurological deficit, papilledema, 
+recurrent seizures, or severe cardiorespiratory compromise). Routine neuroimaging before ##LP## is 
+not required; reserve ##CT## for high-risk features when it will change management. If ##LP## is 
+delayed, obtain blood cultures and start antibiotics.  
+
+Empiric antibiotics depend on age and local resistance. In young infants, ampicillin plus a 
+thirdgeneration cephalosporin (such as cefotaxime) covers common pathogens including ##GBS## 
+and ##Listeria##. In older infants and children, ceftriaxone is commonly used; add vancomycin when 
+there is concern for cephalosporin-resistant pneumococcus. Give dexamethasone early when 
+##Hib## meningitis is likely or when recommended by local protocols, ideally before or with the first 
+antibiotic dose. Provide supportive care with careful fluids, early treatment of shock, and monitoring 
+for hyponatremia.  
+
+In India, consider tuberculosis, cerebral malaria, and viral encephalitis when presentation is subacute 
+or there are focal deficits; reassess daily and de-escalate or redirect therapy when microbiology and 
+clinical response clarify the diagnosis.  
+References:  
+- IAP Standard Treatment Guidelines: Acute bacterial meningitis — https://iapindia.org/pdf/Ch-009- 
+Acute-Bacterial-Meningitis.pdf  
+- WHO Pocket Book of Hospital Care for Children: Meningitis management —  
+https://unicefintercluster.net/cpaor/sites/default/files/cp/WHO-2005-Pocketbook-of-hospital-
+carefor-children.pdf  
+- NICE guideline: Bacterial meningitis and meningococcal disease recognition and management — 
+
+https://www.nice.org.uk/guidance/cg102  
+
+- ICMR AMRTG: antimicrobial resistance guidance for empiric therapy — https://amrtg.icmr.org.in/  
+
+COMMON PEDIATRIC EMERGENCIES;NEUROLOGIC AND METABOLIC EMERGENCIES WITH
+
+- 
+ALTERED SENSORIUM;HYPERTENSIVE EMERGENCY RECOGNITION SECONDARY CAUSE SCREENING AND TITRATED REDUCTION;
+Hypertensive emergencies are under-recognized when ##BP## is not measured in distressed 
+children. Suspect hypertensive emergency when severe hypertension is accompanied by acute end-
+organ injury such as encephalopathy, seizures, severe headache with vomiting, papilledema, acute 
+
+ 
+First hour actions: confirm the reading correctly (appropriate cuff size, repeated measures, 
+
+Lower ##BP## gradually. Avoid precipitous normalization, which can cause cerebral or renal 
+
+kidney injury, or pulmonary edema. Treat this as a distinct pathway rather than “seizure only,” 
+because priorities shift to controlled ##BP## reduction and secondary-cause evaluation. 
+- 
+pain and anxiety addressed), but do not delay treatment when there is encephalopathy, acute 
+pulmonary edema, or severe renal failure. Screen rapidly for secondary causes that are common in 
+children: renal parenchymal disease and acute glomerulonephritis (hematuria, edema, oliguria), 
+renovascular disease, and endocrine causes. A pragmatic bedside bundle is urine dipstick, 
+creatinine and electrolytes, and targeted imaging when available. 
+- 
+hypoperfusion. Aim for partial reduction initially with close neurologic monitoring, then stepwise 
+toward the child’s age and height target range once stable. Preferred agents are titratable 
+intravenous antihypertensives with continuous monitoring (for example labetalol or nicardipine 
+where available). Where infusion pumps are limited, use the safest locally available regimen with 
+frequent reassessment and prioritize early transfer for children with encephalopathy, seizure, 
+pulmonary edema, or infusion requirements. 
+References: 
+- Hypertension (IAP Standard Treatment Guidelines) — https://iapindia.org/pdf/Ch-057-stg-
+hypertension.pdf 
+- Clinical Practice Guideline for Screening and Management of High Blood Pressure in Children and 
+Adolescents (AAP 2017) — 
+https://publications.aap.org/pediatrics/article/140/3/e20171904/3864/Clinical-Practice-Guideline-
+for-Screening-and 
+- Hypertensive Crises in Children and Adolescents — 
+https://www.frontiersin.org/journals/pediatrics/articles/10.3389/fped.2020.588911/full 
+
+COMMON PEDIATRIC EMERGENCIES;NEUROLOGIC AND METABOLIC EMERGENCIES WITH ALTERED SENSORIUM;HYPOGLYCEMIA RECOGNITION DEXTROSE BOLUS OPTIONS AND PREVENTION OF RECURRENCE;
+Hypoglycemia should be assumed and treated rapidly in any child with seizures, altered sensorium, 
+shock, or ##SAM##. Symptoms may be non-specific (sweating, irritability, lethargy, poor feeding) and 
+can mimic sepsis. In many pediatric protocols, blood glucose ≤60 mg/dL (3.3 mmol/L) beyond the 
+newborn period warrants treatment, especially when symptomatic; in neonates, lower operational 
+thresholds are used and local neonatal protocols should be followed. Confirm with a bedside test if 
+available, but do not delay therapy when clinical suspicion is high.  
+
+Give an immediate dextrose bolus providing 0.5 g/kg glucose. Practical options are 5 mL/kg of 10% 
+dextrose or 2 mL/kg of 25% dextrose via ##IV## or ##IO## access, followed by a flush. If only 50% 
+dextrose is available, dilute before use to reduce extravasation injury. If vascular access is delayed, 
+give ##IM## glucagon when available and initiate enteral feeds as soon as the airway is protected. 
+Recheck glucose within 10–15 minutes and repeat treatment if needed.  
+Prevent recurrence by starting a dextrose-containing maintenance infusion and frequent feeds once 
+the child is stable. Investigate precipitants such as sepsis, malaria, prolonged fasting, adrenal 
+insufficiency, or insulin exposure. In ##SAM## or severe infection, recurrent hypoglycemia is 
+common; maintain scheduled feeding, provide nighttime feeds when feasible, and avoid long periods 
+without carbohydrate. Document treatment times and repeat glucose checks, because missed 
+recurrent hypoglycemia is a preventable cause of neurological injury.  
+
+ 
+ 
+References:  
+- WHO Pocket Book of Hospital Care for Children: Hypoglycemia management —  
+https://unicefintercluster.net/cpaor/sites/default/files/cp/WHO-2005-Pocketbook-of-hospital-
+carefor-children.pdf  
+- Royal Children’s Hospital: Hypoglycaemia clinical guideline — 
+
+https://www.rch.org.au/clinicalguide/guideline_index/Hypoglycaemia/ - WHO: Management of 
+hypoglycaemia in children (evidence update) — 
+https://pmc.ncbi.nlm.nih.gov/articles/PMC8640692/  
+
+- IAP guideline: Severe acute malnutrition (hypoglycemia risk and prevention) — 
+
+https://iapindia.org/pdf/IAP-Guideline-Management-of-SAM.pdf  
+
+COMMON PEDIATRIC EMERGENCIES;NEUROLOGIC AND METABOLIC EMERGENCIES WITH ALTERED SENSORIUM;DIABETIC KETOACIDOSIS CONTROLLED REHYDRATION INSULIN TIMING AND CEREBRAL INJURY SURVEILLANCE;
+Diabetic ketoacidosis (##DKA##) is defined by hyperglycemia, ketonemia/ketonuria, and metabolic 
+acidosis, and is managed by controlled rehydration, insulin, and electrolyte correction. Initial 
+assessment should identify shock, altered mental status, and Kussmaul breathing. Obtain baseline 
+electrolytes, urea/creatinine, venous blood gas, and bedside glucose, but do not delay stabilization.  
+
+Fluid therapy is frequently misapplied. Give a 10 mL/kg isotonic crystalloid bolus only if there is true 
+shock (hypotension or markedly poor perfusion); routine large boluses increase risk of cerebral 
+injury. Otherwise start calculated rehydration with isotonic fluids (maintenance plus deficit 
+replacement over 36–48 hours) and reassess clinically and with labs. Start regular insulin infusion 
+(0.05–0.1 units/kg/hour) after the first hour of fluids, once potassium is known and urine output is 
+established. Avoid insulin bolus.  
+
+ISPAD Clinical Practice Consensus Guidelines: Diabetic ketoacidosis management — 
+
+Potassium replacement is essential because total-body potassium is depleted even when initial 
+serum potassium is normal or high. Add potassium to fluids once urine output is present and serum 
+potassium is not high; monitor potassium and ##ECG## frequently. Add dextrose to fluids when 
+glucose falls (commonly around 250–300 mg/dL) to allow ongoing insulin for ketone clearance. 
+Suspect cerebral injury if headache, vomiting, worsening sensorium, bradycardia, or rising blood 
+pressure occurs; treat immediately with hypertonic saline 3% (5–10 mL/kg) or mannitol (0.5–1 g/kg) 
+and reduce fluids while arranging ##ICU## care. Bicarbonate is rarely indicated and can worsen 
+outcomes. References:  
+- 
+https://www.ispad.org/page/ISPADGuidelines2022  
+- 
+DiabeticKetoacidosis.pdf  
+- 
+https://www.bsped.org.uk/media/1712/bsped-dka-guideline-2020.pdf - NEJM review: Cerebral 
+injury during treatment of diabetic ketoacidosis — 
+https://www.nejm.org/doi/full/10.1056/NEJMra1203367  
+COMMON PEDIATRIC EMERGENCIES;POISONING AND ENVENOMATION EMERGENCY MANAGEMENT IN INDIA;
+
+British Society for Paediatric Endocrinology and Diabetes: DKA guideline (2020 update) — 
+
+IAP guidance: Diabetic ketoacidosis in children (India) — https://iapindia.org/pdf/Ch-040-
+
+COMMON PEDIATRIC EMERGENCIES;POISONING AND ENVENOMATION EMERGENCY MANAGEMENT IN INDIA;TOXIDROME RECOGNITION AIRWAY PROTECTION AND SAFE GASTROINTESTINAL DECONTAMINATION;
+
+Poisoning presentations in India often involve household chemicals, pharmaceuticals, and 
+agricultural pesticides. Stabilize using ##ABCDE##, check glucose, and treat hypoxia, seizures, and 
+shock immediately. History should capture the agent, dose estimate, time of exposure, co-ingestants, 
+and intent (including adolescent self-harm). Examine for toxidromes: cholinergic (salivation, 
+lacrimation, bronchorrhea, bradycardia), opioid (miosis, respiratory depression), sympathomimetic 
+(tachycardia, hypertension, agitation), and sedative-hypnotic (coma with hypoventilation). Obtain an 
+##ECG## and targeted labs when they will change management.  
+
+Decontamination decisions should be conservative and airway-first. Activated charcoal (1 g/kg, 
+maximum 50 g) can be considered within about 1 hour of a potentially toxic ingestion if the child is 
+alert with a protected airway, but it is not routine and is contraindicated when aspiration risk is high. 
+Gastric lavage should be rare and considered only for a life-threatening ingestion presenting very 
+early, and only with an intubated, protected airway; routine lavage increases harm and should not be 
+used for most ingestions. Do not use charcoal for hydrocarbons, corrosives, or heavy metals such as 
+iron.  
+
+For hydrocarbon ingestion (kerosene), the major risk is aspiration pneumonitis. Do not induce 
+vomiting or perform lavage; provide supportive oxygen, observe for cough, tachypnea, or hypoxemia, 
+and obtain a chest radiograph only when symptomatic. Early consultation with a poison information 
+service (when available) and clear documentation of timelines and evolving symptoms improves 
+safety and avoids unnecessary antidote use.  
+References:  
+- IAP Standard Treatment Guidelines: Poisoning in children — https://iapindia.org/pdf/Ch-109- 
+Poisoning-in-Children.pdf  
+- Royal Children’s Hospital: Poisoning and toxicology guideline index — 
+https://www.rch.org.au/clinicalguide/guideline_index/Poisoning/  
+
+- Management of acute organophosphorus pesticide poisoning (review, lavage risk discussion) — 
+
+https://pmc.ncbi.nlm.nih.gov/articles/PMC2493390/  
+
+- Tamil Nadu NHM: Handbook of poisoning management (India context) — 
+
+https://www.nhm.tn.gov.in/sites/default/files/202302/Hand%20Book%20poisoning%20manageme
+nt.pdf  
+
+COMMON PEDIATRIC EMERGENCIES;POISONING AND ENVENOMATION EMERGENCY
+
+In suspected organophosphate or carbamate poisoning (salivation, bronchorrhea, wheeze, 
+
+- 
+MANAGEMENT IN INDIA;ANTIDOTE PROTOCOLS FOR HIGH FREQUENCY POISONINGS AND TRANSFER THRESHOLDS;
+After stabilization with ##ABCDE## and glucose, antidote decisions should be physiology-driven and 
+linked to clear transfer thresholds. Decontamination is airway-first: consider activated charcoal (1 
+g/kg, max 50 g) only for a potentially toxic ingestion presenting early when the child is alert with a 
+protected airway; do not use charcoal for corrosives, hydrocarbons, or iron. 
+- 
+bradycardia), prioritize suction, oxygenation, and early ventilation planning. Give atropine and 
+titrate to pulmonary endpoints (drying of bronchial secretions, improving air entry, oxygenation), 
+not pupil size. A practical starting dose is atropine 0.05 mg/kg ##IV## or ##IO##, repeated every 5 
+minutes until lungs are dry, then continue as an infusion based on the effective loading dose. Add 
+pralidoxime where available for confirmed organophosphate toxicity per protocol. 
+- 
+pediatric dose is 0.1 mg/kg (max 2 mg) ##IV##, ##IM##, or intranasal, repeating to adequate 
+ventilation; recurrent depression may need infusion and observation. In suspected tricyclic 
+antidepressant toxicity with hypotension, seizures, or ##ECG## QRS widening, give sodium 
+
+In opioid toxicity (miosis, respiratory depression), ventilate and give naloxone. A common 
+
+Transfer immediately when there is persistent hypoxemia, shock requiring vasoactives, 
+
+bicarbonate 1 mEq/kg ##IV## and repeat until QRS narrows and perfusion improves, while 
+correcting hypoxia and acidosis. 
+- 
+recurrent seizures, significant bronchorrhea, need for antidote infusion, dysrhythmia, suspected 
+esophageal button battery, or evolving airway injury from corrosives. 
+References: 
+- Poisoning in Children (IAP Standard Treatment Guidelines) — https://iapindia.org/pdf/Ch-109-
+Poisoning-in-Children.pdf 
+- Poisoning Acute Guidelines (Royal Children’s Hospital Melbourne) — 
+https://www.rch.org.au/clinicalguide/guideline_index/Poisoning_-_Acute_Guidelines/ 
+- Tricyclic Antidepressant Poisoning (Royal Children’s Hospital Melbourne) — 
+https://www.rch.org.au/clinicalguide/guideline_index/Tricyclic_antidepressant_TCA_poisoning/ 
+
+COMMON PEDIATRIC EMERGENCIES;POISONING AND ENVENOMATION EMERGENCY MANAGEMENT IN INDIA;PARACETAMOL TOXICITY RISK STRATIFICATION NAC INFUSION AND SAFE DISCHARGE PLANNING;
+Paracetamol overdose can be missed when early symptoms are mild or when caregivers report 
+staggered supratherapeutic dosing during febrile illness. Clarify formulation, dose in mg/kg, timing, 
+and whether ingestion was single, staggered, or time-unknown. For a single acute ingestion, obtain a 
+serum paracetamol concentration at 4 hours post-ingestion (or as soon as possible after 4 hours) and 
+interpret using a treatment nomogram. Start ##NAC## immediately when the concentration is above 
+the treatment line, when the time is unknown with a potentially toxic dose, when ingestion was 
+staggered, or when there are signs of liver injury. 
+
+Because dosing errors during transfer are common, use a checklist before starting infusion: confirm 
+weight, concentration in the bag, infusion rate, and total mg to be delivered in each phase. Two 
+widely used ##IV## regimens exist; follow your institutional protocol and document which regimen is 
+used. A common two-bag regimen is 200 mg/kg over 4 hours, then 100 mg/kg over 16 hours (total 
+300 mg/kg). A common three-bag regimen is 150 mg/kg over 1 hour, then 50 mg/kg over 4 hours, 
+then 100 mg/kg over 16 hours (total 300 mg/kg). Treat infusion reactions by pausing, giving 
+antihistamine when needed, then restarting at a slower rate once stable. 
+
+Do not stop therapy blindly at 20–21 hours. Recheck clinical status and liver tests (##ALT##, ##AST##, 
+bilirubin, and ##INR##) near completion. Continue ##NAC## and escalate care when transaminases 
+are rising, ##INR## is elevated, encephalopathy is present, or paracetamol remains detectable. 
+Discharge requires an asymptomatic child, improving labs, reliable supervision, and clear return 
+precautions. 
+References: 
+- Paracetamol Poisoning (IAP Standard Treatment Guidelines) — https://iapindia.org/pdf/Ch-111-
+Paracetamol-Poisoning.pdf 
+- Paracetamol Poisoning (Royal Children’s Hospital Melbourne) — 
+https://www.rch.org.au/clinicalguide/guideline_index/Paracetamol_poisoning/ 
+- Management of Acetaminophen Poisoning in the US and Canada Updated 2026 (ACMT Practice 
+Statement) — https://pubmed.ncbi.nlm.nih.gov/39803672/  
+
+COMMON PEDIATRIC EMERGENCIES;POISONING AND ENVENOMATION EMERGENCY MANAGEMENT IN INDIA;VENOMOUS SNAKEBITE AND SCORPION STING EMERGENCY MANAGEMENT WITH EARLY REFERRAL;
+
+ 
+In India, venomous snakebite and scorpion sting require rapid supportive care and early decisions 
+about antivenom and cardiopulmonary support. For suspected snakebite, immobilize the limb with a 
+splint, keep the child calm, remove constricting items, and avoid tourniquets, cutting, or suction. 
+Establish ##IV## access, monitor airway and breathing for evolving neuroparalysis, and perform a 
+20minute whole blood clotting test (##20WBCT##) correctly using a clean, dry glass tube.  
+
+Administer anti-snake venom (##ASV##) when there is systemic envenomation (neurotoxicity, shock), 
+coagulopathy (non-clotting ##20WBCT##), spontaneous bleeding, or rapidly progressive swelling. 
+Give ##ASV## in adequate initial doses per protocol and reassess clinically and with repeat 
+##20WBCT##; persistent coagulopathy usually requires additional ##ASV## rather than plasma. Be 
+prepared for anaphylaxis during infusion and treat promptly with ##IM## epinephrine and 
+supportive care. Ventilatory support is life-saving for neurotoxic bites; do not delay referral when 
+respiratory weakness appears.  
+
+Scorpion envenomation causes autonomic storm with sweating, tachycardia, cold extremities, and 
+may progress to pulmonary edema and cardiogenic shock. Early prazosin is a key intervention: 30 
+micrograms/kg orally, repeated every 3–6 hours until extremities are warm and perfusion improves. 
+Provide oxygen, treat shock cautiously, and use inotropes such as dobutamine when there is 
+myocardial dysfunction. Severe cases need monitoring in a high-dependency unit or ##ICU## and 
+early transfer when ventilation or inotropes are required.  
+References:  
+- IAP Standard Treatment Guidelines: Snakebite — https://iapindia.org/pdf/Ch-102-Snakebite.pdf  
+- IAP Standard Treatment Guidelines: Scorpion envenomation — https://iapindia.org/pdf/Ch-
+
+086Scorpion-Envenomation.pdf  
+
+- National Action Plan for Prevention and Control of Snakebite Envenoming in India (2024) — 
+
+https://ncdc.mohfw.gov.in/wp-content/uploads/2024/07/NATIONAL-ACTION-PLAN-
+FORPREVENTION-AND-CONTROL-OF-SNAKEBITE-ENVENOMING-NAPSE.pdf  
+
+- Snake Bite: Indian guidelines and protocol (SCTIMST PDF) — https://www.sctimst.ac.in/Post-
+
+floodManagement/General-Health-Care/snake-insects/snake_bit_India.pdf  
+
+COMMON PEDIATRIC EMERGENCIES;ACUTE DEHYDRATION AND BURNS EMERGENCY STABILIZATION;
+
+COMMON PEDIATRIC EMERGENCIES;ACUTE DEHYDRATION AND BURNS EMERGENCY STABILIZATION;ACUTE WATERY DIARRHEA DEHYDRATION CLASSIFICATION AND ORS OR IV REHYDRATION PLANS;
+Most pediatric diarrheal deaths are preventable with correct rehydration and early recognition of 
+shock. Classify dehydration clinically as no dehydration, some dehydration, or severe dehydration 
+based on mental status, thirst, sunken eyes, skin pinch, and perfusion. Always look for hypoglycemia 
+and hypothermia in infants and malnourished children, and treat shock first.  
+
+For no dehydration, give extra fluids at home and continue feeding and breastfeeding. For some 
+dehydration, give ##ORS## 75 mL/kg over 4 hours (small frequent sips or nasogastric if needed), 
+reassess, and continue ##ORS## after each stool. Reassess at the end of the initial rehydration period 
+for ongoing tachycardia, prolonged capillary refill, and urine output, and repeat oral rehydration if 
+needed. For severe dehydration or shock, start ##IV## isotonic fluid promptly. A common plan is 30 
+mL/kg rapidly then 70 mL/kg over the next 2.5–5 hours depending on age, with frequent 
+reassessment and early switch back to oral rehydration once perfusion improves. Children with 
+##SAM## need a different, slower approach with careful monitoring for fluid overload.  
+
+Add zinc supplementation for 10–14 days and avoid unnecessary antiemetics and antidiarrheals. 
+Antibiotics are reserved for dysentery, suspected cholera with severe dehydration, or specific 
+bacterial infections. In India, counsel caregivers to use safe water, correct mixing of ##ORS##, and 
+prompt return if there is inability to drink, persistent vomiting, blood in stool, worsening lethargy, or 
+reduced urine output.  
+References:  
+- IAP Standard Treatment Guidelines: Acute diarrhea — https://iapindia.org/pdf/Ch-006-
+
+AcuteDiarrhea.pdf  
+
+- WHO: Diarrhoea treatment guidelines and ORS recommendations — 
+
+https://www.who.int/publications/i/item/9241593180  
+
+- UNICEF and WHO: Diarrhoea management and zinc supplementation guidance —  
+https://www.unicef.org/reports/diarrhoea-why-children-are-still-dying-and-what-can-be-done - 
+WHO Pocket Book of Hospital Care for Children: Dehydration and shock management — 
+https://unicefintercluster.net/cpaor/sites/default/files/cp/WHO-2005-Pocketbook-of-hospital-
+carefor-children.pdf  
+
+COMMON PEDIATRIC EMERGENCIES;ACUTE DEHYDRATION AND BURNS EMERGENCY STABILIZATION;PEDIATRIC BURN RESUSCITATION FLUID TITRATION AND INHALATION INJURY AIRWAY DECISIONS;
+Initial burn management is airway, breathing, and circulation first, with early recognition of 
+inhalation injury and shock. Suspect inhalation injury when there is facial burn, singed nasal hair, 
+soot in the mouth, hoarseness, stridor, wheeze, or enclosed-space exposure. Secure the airway early 
+when progressive edema is likely, and give high-flow oxygen when carbon monoxide exposure is 
+possible. Estimate burn size using %##TBSA## (excluding simple erythema) to guide fluids and 
+referral, and reassess because early estimates are often wrong. 
+
+Start fluid resuscitation for major burns and titrate to endpoints rather than treating the formula as 
+fixed truth. Different formulas are used in practice (for example Parkland-style 3–4 
+mL/kg/%##TBSA## or modified Brooke-style 2 mL/kg/%##TBSA## for the first 24 hours, plus 
+maintenance), and burn centers may mandate a specific approach. Use the local burn protocol when 
+available and document the chosen formula. Give half of the calculated resuscitation volume in the 
+first 8 hours from the time of burn and the remainder over the next 16 hours, using isotonic 
+crystalloid. Add dextrose-containing maintenance in young children to reduce hypoglycemia risk. 
+
+Titrate fluids to perfusion and urine output targets (about 1 mL/kg/hour in children; higher targets 
+may be used in small infants) and reassess respiratory effort, lung auscultation, and weight because 
+fluid overload worsens outcomes. Early transfer is indicated for large %##TBSA## burns, suspected 
+inhalation injury, electrical or chemical burns, circumferential limb or chest burns, burns involving 
+face, hands, feet, genitalia, or major joints, or when critical care monitoring is unavailable. 
+References: 
+- Scalds and Burns (IAP Standard Treatment Guidelines) — https://iapindia.org/pdf/Ch-077-Scalds-
+and-Burns.pdf 
+- Burns Acute Management (Royal Children’s Hospital Melbourne) — 
+https://www.rch.org.au/clinicalguide/guideline_index/Burns_-_acute_management/ 
+- Burn Center Referral Criteria (American Burn Association) — https://ameriburn.org/wp-
+content/uploads/2017/05/burncenterreferralcriteria.pdf 
+
+COMMON PEDIATRIC EMERGENCIES;TRAUMA INJURY AND POST EXPOSURE PROPHYLAXIS;
+
+COMMON PEDIATRIC EMERGENCIES;TRAUMA INJURY AND POST EXPOSURE PROPHYLAXIS;PEDIATRIC
+
+TRAUMA PRIMARY SURVEY HEMORRHAGE CONTROL AND FRACTURE STABILIZATION;
+Trauma care should be structured because missed airway and hemorrhage problems are preventable 
+causes of death. Perform an ##ABCDE## primary survey with cervical spine protection and treat life 
+threats as they are found. Airway: maintain jaw thrust and suction while protecting the spine. 
+Breathing: look for asymmetric chest movement and treat tension pneumothorax immediately. 
+Circulation: control external bleeding with direct pressure, splint long-bone fractures, and prevent 
+hypothermia. Children can maintain blood pressure until late; tachycardia, cool extremities, and 
+weak pulses are earlier markers of hemorrhagic shock.  
+
+Use a restrictive crystalloid approach in suspected hemorrhage. Give small aliquots (10 mL/kg) only 
+while preparing blood products and urgent transfer, and prioritize early blood in ongoing shock when 
+available. Immobilize suspected fractures and dislocations promptly, then document and repeat 
+neurovascular checks (pain out of proportion, paresthesia, pallor, pulselessness, paralysis) to detect 
+compartment syndrome. Analgesia improves cooperation and reduces sympathetic stress; avoid 
+excessive sedation in unstable patients.  
+
+Consider non-accidental injury when history is inconsistent, delay in presentation occurs, bruising is 
+patterned or in non-mobile infants, or there are multiple injuries of different ages. Immediate actions 
+are to ensure safety, treat injuries, document findings carefully (including photographs when policy 
+allows), and involve child protection and senior teams per local protocol. In India, clear  
+documentation and early multidisciplinary escalation are critical because follow-up may be unreliable 
+and social risk is high.  
+References:  
+- Royal Children’s Hospital: Trauma guideline and primary survey — 
+https://www.rch.org.au/clinicalguide/guideline_index/Trauma/  
+
+- WHO: Guidelines for Essential Trauma Care (PDF) —  
+https://iris.who.int/bitstream/handle/10665/43232/9241546409.pdf  
+- IAP Standard Treatment Guidelines: Injuries in office practice — https://iapindia.org/pdf/Ch-
+
+124Injuries-in-Office-Practice.pdf  
+
+- NICE guideline CG89: Child maltreatment when to suspect — 
+
+https://www.nice.org.uk/guidance/cg89  
+
+COMMON PEDIATRIC EMERGENCIES;TRAUMA INJURY AND POST EXPOSURE
+
+Resuscitation should run alongside hemorrhage control. Apply direct pressure and pressure 
+
+- 
+PROPHYLAXIS;HEMORRHAGIC SHOCK BLOOD FIRST RESUSCITATION AND TRANSFUSION VOLUMES;
+Children often maintain blood pressure until late, so hemorrhagic shock recognition must rely on 
+physiology rather than hypotension. Suspect hemorrhage when tachycardia is out of proportion, 
+skin is cool and clammy, pulse pressure is narrow, capillary refill is delayed, pulses are weak, mental 
+status is altered, and urine output is falling in the context of trauma or overt bleeding. 
+- 
+dressings, splint long-bone fractures, stabilize suspected pelvic injury, and obtain urgent surgical 
+help when internal bleeding is plausible. Use isotonic crystalloid only as a bridge in small aliquots 
+(for example 10 mL/kg) while blood is arranged, and stop repeated boluses when there is no 
+improvement or when respiratory distress develops. 
+- 
+more crystalloid. A practical initial pediatric transfusion volume is 10 mL/kg fresh whole blood or 5 
+mL/kg packed red cells, with reassessment after each step rather than ordering fixed “units.” If 
+massive transfusion is anticipated, activate the local protocol early, keep the child warm, and 
+correct hypocalcemia per protocol to reduce citrate-related hypotension. 
+
+When bleeding is ongoing and physiology is worsening, prioritize transfusion rather than 
+
+- 
+Use perfusion, work of breathing, mentation, and serial hemoglobin or hematocrit trends as 
+endpoints, and prevent hypothermia throughout resuscitation. In India, early communication with 
+the blood bank and early transfer are critical when transfusion support or definitive hemorrhage 
+control is not immediately available. 
+References: 
+- Guidelines for Essential Trauma Care (WHO) — 
+https://www.who.int/publications/i/item/9241546409 
+- Injuries in Office Practice (IAP Standard Treatment Guidelines) — https://iapindia.org/pdf/Ch-124-
+Injuries-in-Office-Practice.pdf 
+- Highlights of the 2025 AHA Guidelines Update for Pediatric Basic and Advanced Life Support — 
+https://www.ahajournals.org/doi/10.1161/CIR.0000000000001368 
+
+COMMON PEDIATRIC EMERGENCIES;TRAUMA INJURY AND POST EXPOSURE PROPHYLAXIS;PEDIATRIC HEAD INJURY RISK STRATIFICATION FOR CT AND SAFE DISCHARGE COUNSELING;
+Head injury triage balances missing clinically important ##TBI## against unnecessary ##CT## 
+radiation. Start with resuscitation and cervical spine precautions when indicated, then document 
+##GCS##, pupillary response, and neurological exam. Urgent ##CT## and referral are indicated with 
+red flags such as persistent ##GCS## <14, focal neurological deficit, signs of basilar skull fracture, 
+palpable skull fracture, penetrating injury, seizure, or persistent abnormal behavior.  
+
+For children who are otherwise stable but not clearly low risk, structured observation is often safer 
+than immediate imaging. Decision tools such as ##PECARN## identify intermediate-risk features 
+where observation for 4–6 hours with repeated neurochecks is appropriate: repeated vomiting, brief 
+loss of consciousness, severe headache, significant scalp hematoma (especially non-frontal in 
+infants), or severe mechanism. Deterioration during observation (worsening headache, increasing 
+drowsiness, repeated vomiting, new deficit) should trigger imaging and escalation.  
+
+Discharge is appropriate when the child is neurologically normal and reliable supervision is available. 
+Provide written advice on warning signs that require urgent return: worsening headache, repeated 
+vomiting, confusion, seizure, abnormal behavior, weakness, or persistent drowsiness. In India, 
+emphasize night-time observation by caregivers, avoidance of sedating cough syrups or alcohol 
+exposure in adolescents, and early return if transport barriers make delayed presentation likely.  
+References:  
+- NICE guideline NG232: Head injury assessment and early management — 
+
+https://www.nice.org.uk/guidance/ng232  
+
+- PECARN study: Identification of children at very low risk of clinically important brain injuries (Lancet  
+2009) — https://www.pecarn.org/studyDatasets/documents/Kuppermann_2009_TheLancet_000.pdf  
+- Royal Children’s Hospital: Head injury guideline —  
+https://www.rch.org.au/clinicalguide/guideline_index/Head_injury/  
+- IAP Standard Treatment Guidelines: Injuries in office practice — https://iapindia.org/pdf/Ch-
+
+124Injuries-in-Office-Practice.pdf  
+
+COMMON PEDIATRIC EMERGENCIES;TRAUMA INJURY AND POST EXPOSURE
+
+- 
+PROPHYLAXIS;RABIES AND TETANUS PROPHYLAXIS DECISIONS AFTER ANIMAL BITE OR WOUND;
+Animal bites are common pediatric emergencies in India and require immediate wound care plus 
+explicit decisions for rabies and tetanus prophylaxis. Perform vigorous wound washing with soap 
+and running water for at least 15 minutes, irrigate thoroughly, and avoid irritants and tight primary 
+
+ 
+ 
+Classify rabies exposure and link it to the action. Category I (touching or feeding animals, 
+
+For category III exposure, infiltrate rabies immunoglobulin into and around all wounds as 
+
+closure unless required for function or cosmesis. Document exposure details, time since bite, and 
+immunization history. 
+- 
+licks on intact skin) requires no rabies ##PEP##. Category II (nibbling of uncovered skin, minor 
+scratches or abrasions without bleeding) requires rabies vaccine. Category III (single or multiple 
+transdermal bites or scratches, licks on broken skin, mucosal exposure, or exposures in high-risk 
+situations) requires both vaccine and rabies immunoglobulin. Start vaccine promptly using the 
+locally adopted ##IM## or ##ID## schedule and document all dose dates clearly. 
+- 
+anatomically feasible (##HRIG## 20 IU/kg or ##ERIG## 40 IU/kg), with any remainder given ##IM## 
+at a site distant from vaccine. Immunoglobulin is ideally given with the first vaccine dose and is not 
+generally recommended after day 7 from starting vaccination. Where licensed monoclonal antibody 
+products are used, follow national program guidance. 
+- 
+devitalized wounds with incomplete or uncertain immunization, give tetanus immunoglobulin 
+(##TIG##) plus a tetanus-containing vaccine booster per national schedule, and arrange follow-up to 
+complete vaccination. 
+References: 
+- National Guidelines for Rabies Prophylaxis 2019 (NCDC) — 
+https://ncdc.mohfw.gov.in/WriteReadData/l892s/National_Guidelines_for_Rabies_Prophylaxis_201
+9.pdf 
+- Rabies Prophylaxis in Children (IAP Standard Treatment Guidelines) — https://iapindia.org/pdf/Ch-
+083-Rabies-Prophylaxis-in-Children.pdf 
+- Rabies Vaccines WHO Position Paper 2018 — 
+https://iris.who.int/bitstream/handle/10665/272372/WER9316.pdf 
+
+Tetanus prophylaxis depends on wound type and immunization status. For contaminated or 
+
+COMMON PEDIATRIC EMERGENCIES;ACUTE SURGICAL AND ASPHYXIAL EMERGENCIES;
+
+COMMON PEDIATRIC EMERGENCIES;ACUTE SURGICAL AND ASPHYXIAL EMERGENCIES;TIME CRITICAL ABDOMINAL AND SCROTAL EMERGENCIES REQUIRING URGENT SURGICAL REFERRAL;
+Abdominal pain with vomiting can represent a time-critical surgical emergency. Red flags include 
+bilious vomiting, progressive distension, peritonism, severe localized tenderness, shock, and inability 
+to pass stool or flatus. Resuscitate with ##IV## fluids when needed, keep the child nil per os, provide 
+analgesia, and obtain early surgical consultation rather than waiting for complete diagnostic 
+certainty.  
+
+Intussusception should be suspected in infants and toddlers with episodic severe pain, pallor, 
+vomiting, or unexplained lethargy, even without classic “currant jelly” stool. Ultrasound is the 
+preferred imaging test when available. Stabilize first and refer urgently for pneumatic or hydrostatic 
+enema reduction in stable patients; peritonitis, perforation, or shock require operative management.  
+
+Appendicitis is suggested by migratory pain to the right lower quadrant, localized tenderness, 
+guarding, and anorexia; fever may be absent early. Ultrasound-first strategies reduce radiation 
+exposure; ##CT## is reserved for equivocal cases when it will change management. Start antibiotics 
+when appendicitis is likely and arrange surgery.  
+
+Acute scrotal pain is a surgical emergency until testicular torsion is excluded. Sudden pain, highriding 
+or horizontally lying testis, and absent cremasteric reflex warrant immediate urologic referral; do not 
+delay for imaging when suspicion is high, because salvage declines after 4–6 hours. Incarcerated 
+
+inguinal hernia presents with an irreducible groin mass, vomiting, and irritability; attempt gentle 
+reduction only in a stable child without peritonitis and ensure urgent surgical followup.  
+References:  
+- Royal Children’s Hospital: Acute abdominal pain guideline — 
+
+https://www.rch.org.au/clinicalguide/guideline_index/Abdominal_pain_-_acute/  
+
+- Royal Children’s Hospital: Intussusception guideline —  
+https://www.rch.org.au/clinicalguide/guideline_index/intussusception/ - 
+Royal Children’s Hospital: Acute scrotal pain or swelling guideline —  
+https://www.rch.org.au/clinicalguide/guideline_index/Acute_scrotal_pain_or_swelling/ - 
+IAP Standard Treatment Guidelines: Undescended testes and testicular torsion — 
+https://iapindia.org/pdf/Ch-112-Undescended-Testes-and-Testicular-Torsion.pdf  
+
+COMMON PEDIATRIC EMERGENCIES;ACUTE SURGICAL AND ASPHYXIAL EMERGENCIES;INGESTED FOREIGN BODY AND CAUSTIC INGESTION ENDOSCOPY TIMING AND TRANSFER TRIGGERS;
+Ingested foreign body and caustic ingestion decisions should be symptom-led because early “do-not-
+do” actions prevent harm. For suspected esophageal foreign body, act on symptoms first. Drooling, 
+dysphagia, chest or neck pain, inability to swallow secretions, or respiratory symptoms are urgent 
+endoscopy indications. Even asymptomatic esophageal objects generally require removal within 24 
+hours because prolonged impaction increases mucosal injury risk. 
+
+Use an explicit imaging strategy. Obtain a plain radiograph for radiopaque objects (coins, many 
+magnets, button batteries). Do not be reassured by a normal radiograph when a radiolucent object is 
+plausible and symptoms persist; endoscopy decisions are clinical. Frame endoscopy urgency for 
+trainees as emergent (within about 2 hours), urgent (within 24 hours), and elective (beyond 24 
+hours) based on clinical status, object type, time since ingestion, and location. Button battery in the 
+esophagus and multiple magnets (or magnet plus metal) require urgent specialist management even 
+if the child initially looks well. 
+
+Caustic ingestion management begins with airway protection and strict avoidance of harmful 
+interventions. Do not induce vomiting, attempt neutralization, perform routine gastric lavage, or give 
+activated charcoal for corrosives. Provide supportive care, oral rinsing, analgesia, and early transfer 
+when there is drooling, stridor, hoarseness, persistent vomiting, severe chest or abdominal pain, or 
+any evidence of perforation. Referral notes should document time of ingestion, object type, imaging 
+findings, and last oral intake to reduce delay to endoscopy. 
+References: 
+- Management of Ingested Foreign Bodies in Children (NASPGHAN 2015) — 
+https://naspghan.org/files/documents/pdfs/position-
+papers/Management_of_Ingested_Foreign_Bodies_in.28.pdf 
+- Diagnosis, Management, and Prevention of Button Battery Ingestion (NASPGHAN 2021) — 
+https://naspghan.org/files/Battery%20Ingestion%20PP%20Final%206-22-21.pdf 
+- Foreign Body Ingestion (Royal Children’s Hospital Melbourne) — 
+https://www.rch.org.au/clinicalguide/guideline_index/Foreign_body_ingestion/ 
+
+COMMON PEDIATRIC EMERGENCIES;ACUTE SURGICAL AND ASPHYXIAL EMERGENCIES;ASPHYXIAL EMERGENCIES CHOKING INHALED FOREIGN BODY AND DROWNING OBSERVATION CRITERIA;
+Asphyxial emergencies require immediate ventilation-focused care. For witnessed choking with 
+severe airway obstruction, use age-specific maneuvers and avoid blind finger sweeps. In infants, give 
+
+ 
+ 
+5 back slaps followed by 5 chest thrusts, repeating until the object is expelled or the infant becomes 
+unresponsive. In older children, use abdominal thrusts (Heimlich maneuver) until effective cough or 
+collapse.  
+
+If the child becomes unresponsive, start ##CPR## immediately. After each cycle, open the mouth and 
+remove a visible object; do not perform blind sweeps. Provide rescue breaths with attention to chest 
+rise and call for emergency transport. After recovery, persistent cough, unilateral wheeze, voice 
+change, or recurrent pneumonia suggests an inhaled foreign body. A normal chest radiograph does 
+not exclude aspiration; arrange urgent referral for bronchoscopy when suspicion is high.  
+
+Drowning is primarily hypoxic injury. Begin rescue breaths as soon as the child is removed from the 
+water, then provide ##CPR## if there is no pulse. After ##ROSC## or in a breathing child, give oxygen, 
+treat bronchospasm if present, correct hypothermia, and monitor for delayed respiratory failure. 
+Observation is appropriate for asymptomatic children with normal exam and stable ##SpO2## after a 
+period of monitoring (commonly 4–8 hours); admit when there is persistent cough, tachypnea, 
+hypoxemia, abnormal lung exam, altered mental status, or need for oxygen or ventilatory support.  
+Do not give prophylactic antibiotics or steroids unless there is clear evidence of infection.  
+References:  
+- AHA 2025 Foreign Body Airway Obstruction (FBAO) Algorithm — https://cpr.heart.org/- 
+/media/CPR-Files/CPR-Guidelines-Files/2025-Algorithms/Algorithm-BLS-FBAO-
+Child250127.pdf?sc_lang=en  
+- Royal Children’s Hospital: Inhaled foreign bodies guideline —  
+https://www.rch.org.au/clinicalguide/guideline_index/inhaled_foreign_bodies/ - ILCOR: 
+Treatment recommendations for drowning (2025 update) — 
+https://costr.ilcor.org/document/treatment-recommendations-for-drowning - Children’s 
+Health Queensland: Drowning – emergency management guideline — 
+https://www.childrens.health.qld.gov.au/__data/assets/pdf_file/0011/172676/gdl-01027.pdf  
+
+COMMON PEDIATRIC EMERGENCIES;NEONATAL AND YOUNG INFANT EMERGENCIES;
+
+COMMON PEDIATRIC EMERGENCIES;NEONATAL AND YOUNG INFANT
+
+Ventilation remains the priority, but oxygen should be titrated. Start ##PPV## promptly when 
+
+- 
+EMERGENCIES;PRETERM NEONATAL RESUSCITATION OXYGEN TITRATION THERMAL PROTECTION AND GLUCOSE SURVEILLANCE;
+Preterm resuscitation requires extra attention to heat loss and oxygen toxicity. For infants <32 weeks, 
+prevent hypothermia from the first seconds: use a warm room, place the baby in plastic wrap or bag 
+without drying, apply a hat, and use a radiant warmer. Hypothermia worsens respiratory failure, 
+hypoglycemia, acidosis, and sepsis risk, and is a common preventable contributor to deterioration 
+during transfer in Indian units with limited warmers. 
+- 
+apneic, gasping, or when ##HR## is <100/min, and use ##PEEP## when available to improve 
+functional residual capacity. For very preterm infants, begin resuscitation with blended oxygen 
+(commonly 21–30%) rather than 100%, and titrate based on pre-ductal ##SpO2## targets by minute 
+of life. Escalate oxygen only when ventilation is effective and saturations remain below target; 
+persistent bradycardia usually reflects inadequate ventilation rather than inadequate oxygen 
+concentration. 
+- 
+early and repeat monitoring because both hypoglycemia and rebound hyperglycemia can occur after 
+stress and dextrose administration. Start appropriate dextrose-containing maintenance fluids once 
+perfusion is stable and avoid prolonged fasting. Arrange early referral when ongoing respiratory 
+
+After stabilization, anticipate post-resuscitation glucose instability. Check bedside glucose 
+
+support beyond low-flow oxygen, recurrent apnea, or persistent temperature instability is present, 
+because these babies deteriorate quickly outside monitored settings. 
+References: 
+- Neonatal Resuscitation Program (IAP Standard Treatment Guidelines) — 
+https://iapindia.org/pdf/Ch-104-Neonatal-Resuscitation-Program.pdf 
+- Neonatal Hypothermia (IAP Standard Treatment Guidelines) — https://iapindia.org/pdf/Ch-067-
+Neonatal-Hypothermia.pdf 
+- 2025 AHA Guidelines Update for Neonatal Resuscitation — 
+https://www.ahajournals.org/doi/10.1161/CIR.0000000000001367  
+
+COMMON PEDIATRIC EMERGENCIES;NEONATAL AND YOUNG INFANT EMERGENCIES;NEONATAL SEPSIS EARLY RECOGNITION ANTIBIOTIC SELECTION AND 48 HOUR REVIEW;
+Neonatal sepsis can present with subtle signs: poor feeding, temperature instability, apnea, lethargy, 
+respiratory distress, or hypoglycemia. Differentiate early-onset sepsis (first 72 hours, often maternal 
+risk factors) from late-onset sepsis (after 72 hours, often environmental or device-related), because 
+likely pathogens and resistance differ across Indian settings.  
+
+Obtain blood culture before antibiotics when feasible, but do not delay treatment in an unstable 
+neonate. Start empiric antibiotics based on local policy and resistance patterns. A common first-line 
+regimen for early-onset sepsis is ampicillin plus an aminoglycoside (gentamicin or amikacin). Avoid 
+routine third-generation cephalosporins as first line because they promote resistance and fungal 
+infection; reserve cefotaxime for suspected meningitis or specific indications. For late-onset sepsis, 
+add coverage for staphylococci and consider broader gram-negative coverage when 
+##NICU##acquired infection is likely, guided by the unit antibiogram.  
+
+Review therapy at 48 hours. If cultures are negative and the baby is clinically well with improving 
+parameters, stop antibiotics and reassess alternate diagnoses. If cultures are positive, narrow 
+antibiotics to the most effective agent and define duration by syndrome (bacteremia, pneumonia, 
+meningitis). In India, antimicrobial stewardship in neonatal units is essential, because resistant 
+organisms are common and prolonged empiric therapy increases necrotizing enterocolitis and 
+invasive candidiasis risk. Continuous monitoring for apnea, perfusion, and glucose is part of sepsis 
+care.  
+References:  
+- IAP Standard Treatment Guidelines: Neonatal sepsis — https://iapindia.org/pdf/Ch-033-STG- 
+Neonatal-Sepsis.pdf  
+- WHO Pocket Book of Hospital Care for Children: Possible serious bacterial infection in neonates — 
+
+https://unicefintercluster.net/cpaor/sites/default/files/cp/WHO-2005-Pocketbook-of-hospital-
+carefor-children.pdf  
+
+- NICE guideline NG195: Neonatal infection antibiotics for prevention and treatment — 
+
+https://www.nice.org.uk/guidance/ng195  
+
+- ICMR AMRTG: antimicrobial guidance for neonatal and pediatric sepsis in India — 
+
+https://amrtg.icmr.org.in/  
+
+COMMON PEDIATRIC EMERGENCIES;NEONATAL AND YOUNG INFANT EMERGENCIES;NEONATAL JAUNDICE EMERGENCY RISK STRATIFICATION PHOTOTHERAPY AND EXCHANGE TRANSFUSION TRIGGERS;
+Neonatal jaundice is common, but the emergency is preventing bilirubin neurotoxicity. Red flags 
+include jaundice in the first 24 hours, rapid rise, pallor or anemia, poor feeding, lethargy, fever, or 
+signs of acute bilirubin encephalopathy (high-pitched cry, hypotonia or hypertonia, arching). Assess 
+
+gestational age, weight, and risk factors such as hemolysis, sepsis, and ##G6PD## deficiency, which is 
+relevant in parts of India. Always consider alternate diagnoses when there are pale stools, dark urine, 
+or hepatosplenomegaly suggesting cholestasis.  
+
+Measure bilirubin using transcutaneous screening when available, but confirm with serum total 
+bilirubin (##TSB##) when treatment is being considered or when the infant is ill. Use age-in-hours 
+nomograms that adjust for gestation and risk to decide on phototherapy and exchange transfusion 
+thresholds. Start intensive phototherapy promptly when the ##TSB## crosses the treatment line, and 
+ensure adequate hydration and feeding.  
+
+IAP Standard Treatment Guidelines: Neonatal jaundice — https://iapindia.org/pdf/Ch-079-
+
+Escalate when bilirubin approaches exchange thresholds, rises despite intensive phototherapy, or 
+there are neurological signs. Exchange transfusion requires specialist care and urgent referral; while 
+arranging transfer, continue intensive phototherapy and correct hypoglycemia and hypothermia. In 
+isoimmune hemolysis with rapidly rising bilirubin, ##IVIG## may reduce the need for exchange 
+transfusion in selected cases under specialist guidance. Clear documentation of bilirubin values with 
+time stamps and treatment start times is essential for safe handover between facilities.  
+References:  
+- 
+STGNeonatal-Jaundice.pdf  
+- 
+https://publications.aap.org/pediatrics/article/150/3/e2022058859/188754/Clinical-
+PracticeGuideline-Revision  
+- 
+https://www.nice.org.uk/guidance/cg98  
+- 
+https://unicefintercluster.net/cpaor/sites/default/files/cp/WHO-2005-Pocketbook-of-hospital-
+carefor-children.pdf  
+
+American Academy of Pediatrics: Clinical practice guideline for hyperbilirubinemia (2022) — 
+
+WHO Pocket Book of Hospital Care for Children: Jaundice management in newborns — 
+
+NICE guideline CG98: Jaundice in newborn babies under 28 days — 
+
+COMMON PEDIATRIC EMERGENCIES;NEONATAL AND YOUNG INFANT EMERGENCIES;INFANT EPISODIC COLLAPSE DIFFERENTIATING BRUE SEPSIS AND DUCT DEPENDENT HEART DISEASE; An
+apparent life-threatening event in an infant demands rapid exclusion of hypoxia, hypoglycemia, 
+sepsis, and congenital heart disease. Stabilize ##ABCDE##, check bedside glucose, obtain vitals 
+including pre- and post-ductal ##SpO2## when possible, and assess perfusion and tone.  
+
+##BRUE## is diagnosed only when the event is brief, resolved, and unexplained after history and 
+exam, and involved one or more of: cyanosis/pallor, abnormal breathing, marked tone change, or 
+altered responsiveness. Low-risk ##BRUE## criteria include age >60 days, gestation ≥32 weeks with 
+corrected age ≥45 weeks, first event, duration <1 minute, no ##CPR## by a trained provider, and no 
+concerning features in history or exam. Low-risk infants generally do not need extensive 
+investigations and may be discharged with caregiver education and follow-up. High-risk infants 
+(younger age, recurrent events, abnormal exam, feeding issues, fever, or social concerns) require 
+observation and targeted evaluation for infection, seizures, arrhythmia, gastroesophageal reflux, and 
+non-accidental injury.  
+
+Always consider duct-dependent congenital heart disease in a 1–4 week old with sudden worsening 
+cyanosis or shock, especially when hypoxemia does not improve as expected with oxygen and there 
+is metabolic acidosis. Begin prostaglandin E1 (##PGE1##) infusion to reopen the ductus: a typical 
+starting dose is 0.05 micrograms/kg/min (range 0.01–0.1), titrating to clinical response. Prepare for 
+apnea and hypotension; intubation and ventilation may be required, and transfer for 
+echocardiography and definitive cardiac care should be arranged urgently. Treat possible sepsis in 
+
+AAP Clinical Practice Guideline: Brief resolved unexplained events (BRUE) (2016) — 
+
+parallel when fever or instability is present, because diagnostic separation is often unclear at first 
+contact in India.  
+References:  
+- 
+https://publications.aap.org/pediatrics/article/137/5/e20160590/52606/Brief-Resolved- 
+Unexplained-Events-Formerly  
+- 
+https://www.ncbi.nlm.nih.gov/books/NBK441897/  
+- 
+https://pmc.ncbi.nlm.nih.gov/articles/PMC4925861/  
+- 
+CyanoticSpell.pdf  
+
+Merck Manual: Congenital heart disease causing cyanosis and shock in the newborn — 
+
+Prostaglandin E1 for maintaining ductal patency in duct-dependent lesions (review) — 
+
+IAP Standard Treatment Guidelines: Cyanotic spell — https://iapindia.org/pdf/Ch-090-
+
+

@@ -1,0 +1,47 @@
+{
+  "chunk_summary": "Guidelines for safe home workflows for fortifying human milk for preterm/LBW/ELBW infants, focusing on hygiene, preparation timing, and feeding strategies to prevent errors and ensure optimal nutrition post-discharge.",
+  "learning_objectives": [
+    "Understand the criteria for using multicomponent fortification in preterm or VLBW infants post-discharge.",
+    "Learn safe workflows for preparing and administering fortified human milk at home.",
+    "Identify common errors in home fortification and strategies to mitigate them.",
+    "Recognize the importance of hygiene and storage practices in reducing infection risks."
+  ],
+  "key_facts": [
+    "Multicomponent fortification is selectively used for very preterm (<32 weeks) or VLBW infants when growth and phenotype justify it.",
+    "Fortified expressed milk should ideally be prepared immediately before feeding to avoid increased osmolality.",
+    "Model A: Pre-breastfeed supplement dose involves mixing 1 g fortifier into 5\u201310 mL freshly expressed milk and administering before breastfeeding.",
+    "Model B: Batch fortification requires refrigeration and use within 24 hours; avoid in high infection-risk homes or unreliable refrigeration.",
+    "Hygiene standards include handwashing, measured containers, labeling preparation times, and avoiding repeated rewarming of milk."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Infant, Premature",
+    "Infant, Low Birth Weight",
+    "Breast Milk",
+    "Milk, Human",
+    "Nutritional Support",
+    "Hygiene",
+    "Feeding Behavior",
+    "Postnatal Care"
+  ],
+  "tags_custom": [
+    "human milk fortification",
+    "preterm infant nutrition",
+    "home feeding safety",
+    "post-discharge care"
+  ],
+  "reference_quote": "Several neonatal network protocols warn that preparing fortified expressed milk in advance and rewarming can increase osmolality, so families should prepare supplements immediately before feeding whenever possible.",
+  "document_key_topics": [
+    "Post-discharge feeding strategies for preterm/LBW/ELBW infants",
+    "Home workflows for human milk fortification",
+    "Hygiene and safety in milk preparation and storage"
+  ],
+  "chunk_heading": "PRETERM/LBW/ELBW POST-DISCHARGE NUTRITION;POST-DISCHARGE FEEDING STRATEGIES AND FORTIFICATION OPTIONS;HOME HUMAN MILK FORTIFIER WORKFLOWS AND HYGIENE  SAFETY;",
+  "topic": "PRETERM/LBW/ELBW POST-DISCHARGE NUTRITION",
+  "subtopic": "POST-DISCHARGE FEEDING STRATEGIES AND FORTIFICATION OPTIONS",
+  "sub_subtopic": "HOME HUMAN MILK FORTIFIER WORKFLOWS AND HYGIENE  SAFETY",
+  "heading_path": "PRETERM/LBW/ELBW POST-DISCHARGE NUTRITION;POST-DISCHARGE FEEDING STRATEGIES AND FORTIFICATION OPTIONS;HOME HUMAN MILK FORTIFIER WORKFLOWS AND HYGIENE  SAFETY;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1y5"
+}

@@ -1,0 +1,47 @@
+{
+  "chunk_summary": "This section outlines the micronutrient supplementation schedule for inpatient SAM care, emphasizing proper dosing, timing, and integration with feeding protocols during stabilization and early rehabilitation phases.",
+  "learning_objectives": [
+    "Understand the role of therapeutic foods (F-75, F-100, RUTF) in micronutrient delivery for SAM patients.",
+    "Learn the standard inpatient supplementation schedule, including folic acid, zinc, copper, and multivitamins.",
+    "Differentiate between routine supplementation and condition-triggered therapies like iron and high-dose vitamin A.",
+    "Recognize the importance of linking supplementation to feeding delivery and monitoring adherence."
+  ],
+  "key_facts": [
+    "Folic acid: 5 mg on day 1, followed by 1 mg daily.",
+    "Zinc: 2 mg/kg/day and copper: 0.3 mg/kg/day for at least 2 weeks.",
+    "Multivitamin preparations should include vitamin B complex, vitamin C, and vitamin D.",
+    "Micronutrients should be given with feeds to reduce gastric intolerance.",
+    "Iron and high-dose vitamin A require specific timing and indications in SAM care."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Severe Acute Malnutrition",
+    "Micronutrients",
+    "Folic Acid",
+    "Zinc",
+    "Copper",
+    "Vitamin A",
+    "Therapeutic Foods",
+    "Pediatric Nutrition"
+  ],
+  "tags_custom": [
+    "SAM management",
+    "inpatient care",
+    "micronutrient therapy",
+    "feeding protocols"
+  ],
+  "reference_quote": "Micronutrient therapy in SAM must be prescribed with attention to what the child is actually receiving. If therapeutic foods are correctly prepared and meet specifications (F-75, F-100, or RUTF), additional multivitamins and trace elements may be unnecessary and can cause duplication.",
+  "document_key_topics": [
+    "Micronutrient supplementation in SAM",
+    "Therapeutic food specifications",
+    "Inpatient care protocols for SAM"
+  ],
+  "chunk_heading": "- SEVERE ACUTE MALNUTRITION-(SAM) MANAGEMENT;INFECTION MANAGEMENT AND METABOLIC CORRECTIONS;MICRONUTRIENT SUPPLEMENTATION SCHEDULE IN INPATIENT SAM CARE;",
+  "topic": "- SEVERE ACUTE MALNUTRITION-(SAM) MANAGEMENT",
+  "subtopic": "INFECTION MANAGEMENT AND METABOLIC CORRECTIONS",
+  "sub_subtopic": "MICRONUTRIENT SUPPLEMENTATION SCHEDULE IN INPATIENT SAM CARE",
+  "heading_path": "- SEVERE ACUTE MALNUTRITION-(SAM) MANAGEMENT;INFECTION MANAGEMENT AND METABOLIC CORRECTIONS;MICRONUTRIENT SUPPLEMENTATION SCHEDULE IN INPATIENT SAM CARE;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "3c1.1"
+}

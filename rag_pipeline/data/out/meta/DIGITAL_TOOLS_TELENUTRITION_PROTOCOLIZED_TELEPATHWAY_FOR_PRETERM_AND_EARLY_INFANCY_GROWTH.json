@@ -1,0 +1,47 @@
+{
+  "chunk_summary": "This section outlines tele-nutrition protocols for monitoring growth in preterm and young infants under six months, emphasizing corrected age, growth charts, feeding safety, and supplementation guidelines.",
+  "learning_objectives": [
+    "Understand the importance of corrected age and appropriate growth charts for preterm infants.",
+    "Identify key tele-nutrition strategies for managing growth faltering in infants under six months.",
+    "Recognize feeding risks and supplementation needs in preterm and low birth weight infants."
+  ],
+  "key_facts": [
+    "Preterm growth curves, such as Fenton charts, are used up to 50 weeks post-menstrual age, transitioning to WHO standards thereafter.",
+    "Weight loss >10% of birth weight should trigger feeding assessment and escalation if necessary.",
+    "Vitamin D prophylaxis is commonly 400 IU/day in infancy.",
+    "Preterm infants often require 2\u20133 mg/kg/day of enteral iron supplementation.",
+    "Reliable weight measurement should be obtained within 72 hours; otherwise, in-person measurement is recommended."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Infant, Premature",
+    "Growth Monitoring",
+    "Nutritional Support",
+    "Telemedicine",
+    "Weight Gain",
+    "Vitamin D",
+    "Iron",
+    "Feeding Behavior"
+  ],
+  "tags_custom": [
+    "tele-nutrition",
+    "preterm growth",
+    "infant feeding safety",
+    "supplementation guidelines"
+  ],
+  "reference_quote": "Fenton-type tools are used up to about 50 weeks post-menstrual age, then transitioned to term standards such as WHO charts.",
+  "document_key_topics": [
+    "Preterm growth monitoring",
+    "Tele-nutrition protocols",
+    "Feeding risk management",
+    "Supplementation in infancy"
+  ],
+  "chunk_heading": "DIGITAL TOOLS & TELE-NUTRITION;PROTOCOLIZED TELE-PATHWAY FOR GROWTH FALTERING AND FAILURE TO THRIVE;PRETERM AND EARLY INFANCY GROWTH MONITORING UNDER SIX MONTHS;",
+  "topic": "DIGITAL TOOLS & TELE-NUTRITION",
+  "subtopic": "PROTOCOLIZED TELE-PATHWAY FOR GROWTH FALTERING AND FAILURE TO THRIVE",
+  "sub_subtopic": "PRETERM AND EARLY INFANCY GROWTH MONITORING UNDER SIX MONTHS",
+  "heading_path": "DIGITAL TOOLS & TELE-NUTRITION;PROTOCOLIZED TELE-PATHWAY FOR GROWTH FALTERING AND FAILURE TO THRIVE;PRETERM AND EARLY INFANCY GROWTH MONITORING UNDER SIX MONTHS;",
+  "reference_count": 6,
+  "has_guidelines": false,
+  "sequence": "1z3"
+}

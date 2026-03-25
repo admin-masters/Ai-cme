@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section discusses variations in screening metrics for moderate acute malnutrition (MAM) in India, emphasizing the use of MUAC and WHZ/WLZ, documentation strategies, and risk-based care to address discrepancies in clinical and programmatic criteria.",
+  "learning_objectives": [
+    "Understand the differences between MUAC and WHZ/WLZ as screening tools for MAM in India.",
+    "Learn the documentation strategy for managing discrepancies in MAM screening metrics.",
+    "Recognize the importance of risk-based care and follow-up intensity in MAM management.",
+    "Appreciate the role of caregiver education in ensuring sustained recovery and preventing relapse."
+  ],
+  "key_facts": [
+    "MUAC and WHZ/WLZ are both recommended by WHO for identifying moderate wasting, but Indian programs often prioritize WHZ plus oedema.",
+    "The Ministry of Women and Child Development (MoWCD) reserves MUAC for emergencies like pandemics or natural disasters.",
+    "Discrepancies between MUAC and WHZ/WLZ can result in children being excluded from local entitlement pathways.",
+    "Clinical strategy recommends recording both MUAC and WHZ/WLZ, using the more severe measure for risk stratification.",
+    "Caregivers should receive written documentation of both measures to ensure continuity of care.",
+    "Treatment goals focus on sustained recovery, clinical stability, and prevention of relapse rather than single metric thresholds."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Malnutrition",
+    "Nutritional Support",
+    "Child Nutrition Disorders",
+    "Mid-Upper Arm Circumference",
+    "Weight-for-Height Z-Score",
+    "Risk Assessment",
+    "India",
+    "Community Health Services"
+  ],
+  "tags_custom": [
+    "MAM screening",
+    "Documentation strategy",
+    "Risk-based care",
+    "Programmatic variations"
+  ],
+  "reference_quote": "The Ministry of Women and Child Development (MoWCD) has not endorsed routine use of MUAC for community screening in non-emergency settings, reserving it for emergencies such as pandemics or natural disasters.",
+  "document_key_topics": [
+    "Screening metric variations for MAM in India",
+    "Documentation strategies for MAM management",
+    "Risk-based care and follow-up in MAM",
+    "Caregiver education for sustained recovery"
+  ],
+  "chunk_heading": "MODERATE ACUTE MALNUTRITION (MAM) AND SUPPLEMENTARY FEEDING;PRACTICE VARIATIONS AND EMERGING EVIDENCE IN INDIA;SCREENING METRIC VARIATION AND DOCUMENTATION STRATEGY;",
+  "topic": "MODERATE ACUTE MALNUTRITION (MAM) AND SUPPLEMENTARY FEEDING",
+  "subtopic": "PRACTICE VARIATIONS AND EMERGING EVIDENCE IN INDIA",
+  "sub_subtopic": "SCREENING METRIC VARIATION AND DOCUMENTATION STRATEGY",
+  "heading_path": "MODERATE ACUTE MALNUTRITION (MAM) AND SUPPLEMENTARY FEEDING;PRACTICE VARIATIONS AND EMERGING EVIDENCE IN INDIA;SCREENING METRIC VARIATION AND DOCUMENTATION STRATEGY;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "3~1"
+}

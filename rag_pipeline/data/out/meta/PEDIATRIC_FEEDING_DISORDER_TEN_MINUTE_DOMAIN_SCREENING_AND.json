@@ -1,0 +1,51 @@
+{
+  "chunk_summary": "The 10-minute domain screening for Pediatric Feeding Disorder (PFD) involves assessing medical, nutritional, feeding skill, and psychosocial domains to define phenotypes and create actionable management plans, consistent with NICE guidelines for faltering growth.",
+  "learning_objectives": [
+    "Understand the consensus definition of Pediatric Feeding Disorder and its domain-based framework.",
+    "Learn the structured 10-minute screening process for PFD, including phenotype identification and domain-specific assessments.",
+    "Recognize key psychosocial and nutritional factors affecting feeding in children, particularly in resource-limited settings.",
+    "Develop a domain-labeled problem list and measurable management plan for PFD."
+  ],
+  "key_facts": [
+    "PFD is defined as impaired oral intake inappropriate for age, linked to dysfunction in medical, nutritional, feeding skill, or psychosocial domains.",
+    "The screening process includes assessing reflux, chronic cough, constipation, oral ulcers, and pain-driven avoidance in the medical domain.",
+    "Nutritional screening involves quantifying milk volume, snack calories, and micronutrient risks; excessive milk and carbohydrate-heavy snacks are common in India.",
+    "Feeding skill assessment includes coughing, choking, gagging, fatigue, and inability to progress textures or self-feed.",
+    "Psychosocial screening addresses caregiver anxiety, family conflict, food insecurity, and safeguarding concerns.",
+    "NICE guidelines recommend a joint management plan with measurable targets and scheduled reassessment for faltering growth.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Pediatric Feeding Disorders",
+    "Faltering Growth",
+    "Nutritional Assessment",
+    "Feeding Behavior",
+    "Psychosocial Factors",
+    "Oral Intake",
+    "Child Nutrition Disorders",
+    "Screening"
+  ],
+  "tags_custom": [
+    "feeding challenges",
+    "domain-based screening",
+    "phenotype definition",
+    "pediatric nutrition",
+    "caregiver impact"
+  ],
+  "reference_quote": "The 2019 consensus definition frames PFD as impaired oral intake not appropriate for age, associated with dysfunction in one or more domains: medical, nutritional, feeding skill, and psychosocial. (Journal of Pediatrics, 2019)",
+  "document_key_topics": [
+    "Pediatric Feeding Disorder definition and framework",
+    "10-minute domain screening process",
+    "Phenotype identification and management planning",
+    "NICE guidelines for faltering growth"
+  ],
+  "chunk_heading": "PEDIATRIC FEEDING DISORDER;TEN MINUTE DOMAIN SCREENING AND PHENOTYPE DEFINITION;",
+  "topic": "PEDIATRIC FEEDING DISORDER",
+  "subtopic": "TEN MINUTE DOMAIN SCREENING AND PHENOTYPE DEFINITION",
+  "sub_subtopic": null,
+  "heading_path": "PEDIATRIC FEEDING DISORDER;TEN MINUTE DOMAIN SCREENING AND PHENOTYPE DEFINITION;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2a"
+}

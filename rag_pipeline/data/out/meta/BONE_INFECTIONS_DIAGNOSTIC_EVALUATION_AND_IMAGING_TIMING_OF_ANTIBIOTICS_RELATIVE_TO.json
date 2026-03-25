@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Guidelines emphasize obtaining cultures before antibiotics in stable children to maximize diagnostic yield, while prioritizing immediate antibiotics in critically ill cases. Timing of procedures like joint aspiration or bone biopsy is crucial for effective management.",
+  "learning_objectives": [
+    "Understand the importance of timing antibiotics relative to diagnostic procedures in bone infections.",
+    "Identify scenarios where immediate antibiotic administration is necessary despite diagnostic delays.",
+    "Learn the role of joint aspiration and bone biopsy in microbiologic yield optimization.",
+    "Recognize clinical signs that necessitate urgent intervention in septic or toxic children."
+  ],
+  "key_facts": [
+    "Cultures should ideally precede antibiotics in stable children to improve Gram stain and culture yield.",
+    "Empiric antibiotics must be started immediately in ill-appearing, hypotensive, or rapidly worsening children.",
+    "Diagnostic delay is acceptable only when the child is stable and the procedure is imminent, measured in hours.",
+    "Blood cultures should be drawn immediately in all cases, regardless of antibiotic timing.",
+    "Antibiotic delay is unacceptable in cases of shock, spinal infection with neurologic risk, or neonatal bacteremia.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Bone Diseases",
+    "Osteomyelitis",
+    "Septic Arthritis",
+    "Antibiotics",
+    "Joint Aspiration",
+    "Biopsy",
+    "Microbiology",
+    "Pediatrics"
+  ],
+  "tags_custom": [
+    "timing of antibiotics",
+    "diagnostic yield",
+    "urgent care",
+    "pediatric infections",
+    "bone biopsy"
+  ],
+  "reference_quote": "Cultures should be obtained before antibiotics whenever this can be done without jeopardizing the child. (PIDS/IDSA 2023 Guidelines)",
+  "document_key_topics": [
+    "Timing of antibiotics in bone infections",
+    "Diagnostic procedures: joint aspiration and bone biopsy",
+    "Management of septic and toxic children"
+  ],
+  "chunk_heading": "BONE INFECTIONS;DIAGNOSTIC EVALUATION AND IMAGING SELECTION;TIMING OF ANTIBIOTICS RELATIVE TO JOINT ASPIRATION AND BONE BIOPSY;",
+  "topic": "BONE INFECTIONS",
+  "subtopic": "DIAGNOSTIC EVALUATION AND IMAGING SELECTION",
+  "sub_subtopic": "TIMING OF ANTIBIOTICS RELATIVE TO JOINT ASPIRATION AND BONE BIOPSY",
+  "heading_path": "BONE INFECTIONS;DIAGNOSTIC EVALUATION AND IMAGING SELECTION;TIMING OF ANTIBIOTICS RELATIVE TO JOINT ASPIRATION AND BONE BIOPSY;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1k3"
+}

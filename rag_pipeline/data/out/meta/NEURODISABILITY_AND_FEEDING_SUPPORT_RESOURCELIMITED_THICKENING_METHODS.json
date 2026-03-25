@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Guidance on resource-limited thickening methods for children with neurodisability, emphasizing IDDSI testing, hydration safety, and monitoring for adverse effects like thirst and secretion retention.",
+  "learning_objectives": [
+    "Understand how to use locally available starches for thickening fluids in resource-limited settings.",
+    "Learn to apply IDDSI testing methods, such as the 10 mL syringe flow test, to ensure consistent fluid viscosity.",
+    "Identify hydration risks and adverse effects associated with thickened fluids in children with neurodisability.",
+    "Coordinate thickening strategies with secretion management and airway clearance plans."
+  ],
+  "key_facts": [
+    "IDDSI drink levels should be tested using objective methods like the 10 mL syringe flow test.",
+    "Thickened fluids can reduce visible coughing but may increase thirst, worsen constipation, and complicate medication bioavailability.",
+    "Mixed consistencies (e.g., dal with thin broth) should be avoided unless cleared for safe swallowing.",
+    "Hydration markers such as urine output and stool patterns should be reviewed within 1\u20132 weeks of initiating thickened fluids.",
+    "Escalate to tube hydration if safe hydration cannot be achieved with thickened fluids."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Neurodevelopmental Disorders",
+    "Dysphagia",
+    "Hydration",
+    "Viscosity",
+    "Thickened Fluids",
+    "Pediatric Nutrition",
+    "Airway Clearance",
+    "Secretion Management"
+  ],
+  "tags_custom": [
+    "IDDSI testing",
+    "resource-limited feeding",
+    "hydration safety",
+    "pediatric dysphagia",
+    "Indian diet adaptations"
+  ],
+  "reference_quote": "Prescribe thickening as a monitored trial with consent. State the target IDDSI drink level and teach an objective test method (typically the 10 mL syringe flow test) so the same level is achieved at home and school. (Source: IDDSI Testing Methods \u2014 https://www.iddsi.org/standards/testing-methods)",
+  "document_key_topics": [
+    "Thickening methods in resource-limited settings",
+    "IDDSI testing for fluid consistency",
+    "Hydration safety and monitoring",
+    "Adverse effects of thickened fluids"
+  ],
+  "chunk_heading": "NEURODISABILITY AND FEEDING SUPPORT;RESOURCE-LIMITED THICKENING METHODS WITH IDDSI TESTING AND HYDRATION SAFETY;",
+  "topic": "NEURODISABILITY AND FEEDING SUPPORT",
+  "subtopic": "RESOURCE-LIMITED THICKENING METHODS WITH IDDSI TESTING AND HYDRATION SAFETY",
+  "sub_subtopic": null,
+  "heading_path": "NEURODISABILITY AND FEEDING SUPPORT;RESOURCE-LIMITED THICKENING METHODS WITH IDDSI TESTING AND HYDRATION SAFETY;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "1p"
+}

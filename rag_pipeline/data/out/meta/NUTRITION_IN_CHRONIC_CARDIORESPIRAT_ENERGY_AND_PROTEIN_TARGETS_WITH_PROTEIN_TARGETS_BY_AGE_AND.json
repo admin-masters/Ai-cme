@@ -1,0 +1,47 @@
+{
+  "chunk_summary": "Protein targets in chronic cardiorespiratory disease must align with age, clinical phase, and catabolic state, emphasizing adequate protein delivery under fluid restriction to prevent muscle loss and poor respiratory reserve.",
+  "learning_objectives": [
+    "Understand protein requirements for preterm infants, term infants, and older children with chronic cardiorespiratory disease.",
+    "Learn strategies to optimize protein delivery under fluid restriction while avoiding fat gain and poor muscle mass.",
+    "Recognize the importance of reassessing protein tolerance during catabolic states and postoperative recovery."
+  ],
+  "key_facts": [
+    "Preterm infants with CLD/BPD: Target 3.5\u20134.0 g/kg/day protein during severe disease or poor growth under fluid restriction.",
+    "Term infants and young children with CHD or CLD: Require 2.0\u20133.0 g/kg/day protein during catch-up growth or postoperative recovery.",
+    "Older children and adolescents with chronic disease: Aim for 1.5\u20132.0 g/kg/day protein during active rehabilitation.",
+    "Protein underdelivery can occur even with adequate calorie intake; prioritize fortifiers or higher-protein formulas.",
+    "During intercurrent infection or postoperative periods, early protein adequacy is critical to prevent catabolic losses."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Nutrition Therapy",
+    "Chronic Disease",
+    "Cardiorespiratory Disorders",
+    "Protein Requirements",
+    "Fluid Restriction",
+    "Catabolism",
+    "Pediatric Nutrition",
+    "Critical Care Nutrition"
+  ],
+  "tags_custom": [
+    "protein targets",
+    "fluid restriction management",
+    "pediatric chronic disease",
+    "catabolic state nutrition",
+    "postoperative recovery"
+  ],
+  "reference_quote": "Protein is often the limiting nutrient when feeds are concentrated under fluid restriction. (Pediatric Cardiac Intensive Care Society, Nutrition guidelines for the pediatric and neonatal congenital heart patient)",
+  "document_key_topics": [
+    "Protein targets by age and clinical phase in chronic cardiorespiratory disease",
+    "Fluid restriction management in pediatric nutrition",
+    "Strategies for protein delivery during catabolic states"
+  ],
+  "chunk_heading": "NUTRITION IN CHRONIC CARDIORESPIRATORY DISEASE;ENERGY AND PROTEIN TARGETS WITH FLUID RESTRICTION MANAGEMENT;PROTEIN TARGETS BY AGE AND CLINICAL PHASE;",
+  "topic": "NUTRITION IN CHRONIC CARDIORESPIRATORY DISEASE",
+  "subtopic": "ENERGY AND PROTEIN TARGETS WITH FLUID RESTRICTION MANAGEMENT",
+  "sub_subtopic": "PROTEIN TARGETS BY AGE AND CLINICAL PHASE",
+  "heading_path": "NUTRITION IN CHRONIC CARDIORESPIRATORY DISEASE;ENERGY AND PROTEIN TARGETS WITH FLUID RESTRICTION MANAGEMENT;PROTEIN TARGETS BY AGE AND CLINICAL PHASE;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1r1"
+}

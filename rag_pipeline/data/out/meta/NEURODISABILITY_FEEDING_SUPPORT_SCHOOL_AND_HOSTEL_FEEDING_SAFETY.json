@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "A structured safety plan template for feeding children with neurodisabilities in schools or hostels, emphasizing IDDSI guidelines, supervision, emergency response, and consistency checks.",
+  "learning_objectives": [
+    "Understand the importance of IDDSI levels in diet and fluid prescriptions for children with neurodisabilities.",
+    "Learn proper feeding positioning, equipment use, and pacing strategies to ensure safety.",
+    "Recognize emergency choking response protocols, including AHA guidelines for foreign-body airway obstruction.",
+    "Implement oral hygiene and secretion management plans tailored to individual needs."
+  ],
+  "key_facts": [
+    "IDDSI levels must be specified for liquids and solids; thin liquids, mixed textures, and hard particulate foods are generally not allowed.",
+    "Feeding requires 1:1 trained supervision with a maximum meal duration and pauses every specified number of swallows.",
+    "Emergency choking response includes AHA cycles of 5 back blows and 5 abdominal thrusts for children (>1 year) or back slaps and chest thrusts for infants.",
+    "Feeding must occur in supported sitting with trunk and head support; no feeding during transport.",
+    "Staff must use IDDSI testing methods, such as syringe flow tests, to confirm food consistency."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Neurodevelopmental Disorders",
+    "Feeding and Eating Disorders",
+    "Pediatric Dysphagia",
+    "Emergency Medical Services",
+    "Basic Life Support",
+    "Postural Support",
+    "Dietary Guidelines",
+    "Oral Hygiene"
+  ],
+  "tags_custom": [
+    "feeding safety",
+    "school care plans",
+    "IDDSI compliance",
+    "emergency choking response",
+    "adaptive feeding equipment"
+  ],
+  "reference_quote": "Algorithm for BLS Child: Foreign-body airway obstruction (AHA) \u2014 'For a conscious child (>1 year) with severe FBAO, follow cycles of 5 back blows alternating with 5 abdominal thrusts until relief or unresponsiveness.'",
+  "document_key_topics": [
+    "Feeding safety protocols for neurodisabilities",
+    "IDDSI levels and consistency testing",
+    "Emergency choking response guidelines",
+    "Supervised feeding and adaptive equipment use"
+  ],
+  "chunk_heading": "NEURODISABILITY & FEEDING SUPPORT;SCHOOL AND HOSTEL FEEDING SAFETY PLAN TEMPLATE;",
+  "topic": "NEURODISABILITY & FEEDING SUPPORT",
+  "subtopic": "SCHOOL AND HOSTEL FEEDING SAFETY PLAN TEMPLATE",
+  "sub_subtopic": null,
+  "heading_path": "NEURODISABILITY & FEEDING SUPPORT;SCHOOL AND HOSTEL FEEDING SAFETY PLAN TEMPLATE;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1r"
+}

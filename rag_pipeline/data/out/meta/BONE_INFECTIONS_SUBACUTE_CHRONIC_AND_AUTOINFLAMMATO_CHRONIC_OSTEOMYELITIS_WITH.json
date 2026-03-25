@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Chronic osteomyelitis with sequestrum and sinus tract disease requires surgical debridement, long-term antibiotics, and orthopedic follow-up to manage infection, prevent complications, and address relapse risks.",
+  "learning_objectives": [
+    "Understand the pathophysiology and clinical presentation of chronic osteomyelitis with sequestrum and sinus tract disease.",
+    "Identify appropriate imaging modalities and their role in defining the extent of infection.",
+    "Learn surgical and antibiotic management strategies for chronic osteomyelitis.",
+    "Recognize potential long-term complications, including growth arrest and limb deformities."
+  ],
+  "key_facts": [
+    "Chronic osteomyelitis often follows inadequately treated acute infection or direct inoculation.",
+    "Imaging findings include sclerosis, cortical thickening, lytic destruction, sequestrum, and sinus formation.",
+    "Management includes surgical debridement and 6-12 weeks of antibiotics, sometimes longer if hardware remains.",
+    "Operative cultures, not superficial swabs, should guide antibiotic therapy.",
+    "Long-term orthopedic follow-up is essential to monitor for complications like growth arrest or limb-length discrepancies."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Osteomyelitis",
+    "Sequestrum",
+    "Sinus Tract",
+    "Bone Infections",
+    "Surgical Debridement",
+    "Antibiotic Therapy",
+    "Magnetic Resonance Imaging",
+    "Orthopedic Complications"
+  ],
+  "tags_custom": [
+    "chronic bone infection",
+    "surgical management",
+    "pediatric orthopedics",
+    "relapse prevention",
+    "growth complications"
+  ],
+  "reference_quote": "Management begins with defining the full extent of necrotic bone, hardware involvement, and soft-tissue tracts using radiography with either magnetic resonance imaging or computed tomography as needed. (Indian Academy of Pediatrics Consensus Statement)",
+  "document_key_topics": [
+    "Chronic osteomyelitis pathophysiology and presentation",
+    "Imaging and diagnostic strategies",
+    "Surgical and antibiotic management",
+    "Long-term complications and follow-up"
+  ],
+  "chunk_heading": "BONE INFECTIONS;SUBACUTE CHRONIC AND AUTOINFLAMMATORY BONE LESIONS;CHRONIC OSTEOMYELITIS WITH SEQUESTRUM AND SINUS TRACT DISEASE;",
+  "topic": "BONE INFECTIONS",
+  "subtopic": "SUBACUTE CHRONIC AND AUTOINFLAMMATORY BONE LESIONS",
+  "sub_subtopic": "CHRONIC OSTEOMYELITIS WITH SEQUESTRUM AND SINUS TRACT DISEASE",
+  "heading_path": "BONE INFECTIONS;SUBACUTE CHRONIC AND AUTOINFLAMMATORY BONE LESIONS;CHRONIC OSTEOMYELITIS WITH SEQUESTRUM AND SINUS TRACT DISEASE;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u00872"
+}

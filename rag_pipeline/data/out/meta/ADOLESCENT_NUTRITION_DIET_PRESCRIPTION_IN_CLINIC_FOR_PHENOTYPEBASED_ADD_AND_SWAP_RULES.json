@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "This section outlines phenotype-based dietary interventions for adolescents, focusing on thinness, obesity, and RED-S risk. It provides actionable add/swap rules and executable day patterns tailored to growth and weight phenotypes, using WHO BMI-for-age classifications as a foundation.",
+  "learning_objectives": [
+    "Understand how to classify adolescent nutritional status using WHO BMI-for-age standards.",
+    "Learn phenotype-specific dietary add and swap rules for thinness, obesity, and RED-S risk.",
+    "Develop executable day patterns for adolescent nutrition counseling in clinical settings.",
+    "Recognize the importance of monitoring and follow-up in adolescent dietary interventions."
+  ],
+  "key_facts": [
+    "Thinness is defined as BMI-for-age <-2 SD (severe thinness <-3 SD) per WHO standards.",
+    "For thinness, add two energy-dense snacks daily and increase meal energy density with 1\u20132 teaspoons of oil/ghee if no malabsorption is present.",
+    "Obesity interventions include removing sugar-sweetened beverages, limiting free sugars to <10% of energy (ideally <5%), and maintaining protein and vegetable portions.",
+    "RED-S risk management includes mandatory pre-training fuel and recovery snacks within 1\u20132 hours, avoiding weight cutting and stimulants in minors.",
+    "Set measurable targets for obesity management: 60 minutes/day of activity, 8\u201310 hours of sleep, and zero sugary beverages."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Adolescent Nutrition",
+    "Body Mass Index",
+    "Dietary Guidelines",
+    "Obesity",
+    "Thinness",
+    "Energy Metabolism",
+    "Relative Energy Deficiency in Sport",
+    "Diet Therapy"
+  ],
+  "tags_custom": [
+    "Phenotype-based nutrition",
+    "Adolescent dietary counseling",
+    "Growth and weight management",
+    "WHO BMI-for-age"
+  ],
+  "reference_quote": "WHO BMI-for-age: thinness is <-2 SD (severe <-3 SD); obesity should be staged and comorbidity risk assessed.",
+  "document_key_topics": [
+    "Phenotype-based dietary interventions",
+    "WHO BMI-for-age classifications",
+    "Adolescent growth and weight management",
+    "RED-S risk and athlete nutrition"
+  ],
+  "chunk_heading": "ADOLESCENT NUTRITION;DIET PRESCRIPTION IN CLINIC FOR ADOLESCENT GROWTH AND WEIGHT PHENOTYPES;PHENOTYPE-BASED ADD AND SWAP RULES WITH EXECUTABLE DAY PATTERNS;",
+  "topic": "ADOLESCENT NUTRITION",
+  "subtopic": "DIET PRESCRIPTION IN CLINIC FOR ADOLESCENT GROWTH AND WEIGHT PHENOTYPES",
+  "sub_subtopic": "PHENOTYPE-BASED ADD AND SWAP RULES WITH EXECUTABLE DAY PATTERNS",
+  "heading_path": "ADOLESCENT NUTRITION;DIET PRESCRIPTION IN CLINIC FOR ADOLESCENT GROWTH AND WEIGHT PHENOTYPES;PHENOTYPE-BASED ADD AND SWAP RULES WITH EXECUTABLE DAY PATTERNS;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "1i3"
+}

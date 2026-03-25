@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "Dietary counseling for vitamin A deficiency prevention focuses on promoting diverse food sources, proper cooking methods, and program supplementation while addressing risks like low dietary diversity and recurrent infections.",
+  "learning_objectives": [
+    "Understand dietary sources of vitamin A, including plant-based and animal-based options.",
+    "Learn proper cooking techniques to preserve vitamin A content in foods.",
+    "Recognize signs of vitamin A deficiency and differentiate prophylactic from therapeutic dosing.",
+    "Understand program supplementation guidelines for children aged 9 months to 5 years."
+  ],
+  "key_facts": [
+    "Vitamin A deficiency increases risk in children with low dietary diversity, recurrent infections, or chronic malabsorption.",
+    "Prophylactic vitamin A supplementation is recommended for children aged 9 months to 5 years.",
+    "Therapeutic vitamin A dosing is urgent for ocular signs like night blindness, Bitot spots, or corneal ulceration.",
+    "Measles increases mortality risk in vitamin A-deficient settings; therapeutic dosing is essential.",
+    "Excessive vitamin A intake can cause headache, vomiting, and irritability."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Vitamin A",
+    "Micronutrients",
+    "Dietary Counseling",
+    "Vitamin A Deficiency",
+    "Child Nutrition",
+    "Prophylactic Treatment",
+    "Therapeutic Dosing",
+    "Measles"
+  ],
+  "tags_custom": [
+    "Vitamin A sources",
+    "Deficiency prevention",
+    "Cooking methods",
+    "Supplementation guidelines"
+  ],
+  "reference_quote": "Night blindness, conjunctival xerosis, Bitot spots, or corneal haze/ulceration require immediate therapeutic vitamin A dosing and ophthalmology support, even if a prophylactic dose was given previously. (WHO pocket book of hospital care for children)",
+  "document_key_topics": [
+    "Dietary sources of vitamin A",
+    "Vitamin A deficiency prevention strategies",
+    "Prophylactic and therapeutic supplementation guidelines",
+    "Cooking methods to preserve vitamin A"
+  ],
+  "chunk_heading": "MICRONUTRIENT NUTRITION;DIETARY COUNSELING FOR MICRONUTRIENT DEFICIENCY PREVENTION;DIETARY VITAMIN A SOURCES AND DEFICIENCY PREVENTION;",
+  "topic": "MICRONUTRIENT NUTRITION",
+  "subtopic": "DIETARY COUNSELING FOR MICRONUTRIENT DEFICIENCY PREVENTION",
+  "sub_subtopic": "DIETARY VITAMIN A SOURCES AND DEFICIENCY PREVENTION",
+  "heading_path": "MICRONUTRIENT NUTRITION;DIETARY COUNSELING FOR MICRONUTRIENT DEFICIENCY PREVENTION;DIETARY VITAMIN A SOURCES AND DEFICIENCY PREVENTION;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u009f3"
+}

@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "Guidelines for managing severe anemia in SAM focus on transfusion thresholds, monitoring for overload, and avoiding diuretics for nutritional edema, with specific protocols for high-risk cases.",
+  "learning_objectives": [
+    "Understand transfusion thresholds for severe anemia in SAM patients.",
+    "Learn to monitor for transfusion-associated circulatory overload and manage complications.",
+    "Differentiate between diuretic use for transfusion overload and nutritional edema.",
+    "Recognize the importance of early transfusion in suspected shock with anemia."
+  ],
+  "key_facts": [
+    "Transfusion is indicated for hemoglobin <4 g/dL or 4\u20136 g/dL with respiratory distress.",
+    "Use 10 mL/kg of packed red cells or fresh whole blood infused over 3 hours.",
+    "Monitor pulse, respiratory rate, perfusion, and liver size during transfusion.",
+    "Signs of overload include worsening tachypnea, rising pulse, hepatomegaly, or crackles.",
+    "Diuretics like furosemide are only for transfusion-associated overload, not nutritional edema.",
+    "Indian guidance prioritizes early transfusion over repeated fluid boluses in suspected shock."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Severe Acute Malnutrition",
+    "Anemia",
+    "Blood Transfusion",
+    "Fluid Overload",
+    "Cardiac Reserve",
+    "Diuretics",
+    "Kwashiorkor",
+    "Sepsis"
+  ],
+  "tags_custom": [
+    "transfusion thresholds",
+    "circulatory overload",
+    "nutritional edema",
+    "SAM management",
+    "pediatric anemia"
+  ],
+  "reference_quote": "Indian training materials define transfusion triggers as hemoglobin <4 g/dL (or PCV <12%), or respiratory distress when hemoglobin is 4\u20136 g/dL.",
+  "document_key_topics": [
+    "Transfusion thresholds in severe anemia",
+    "Monitoring and prevention of transfusion-associated overload",
+    "Diuretic use in SAM management",
+    "Early transfusion in shock with anemia"
+  ],
+  "chunk_heading": "SEVERE ACUTE MALNUTRITION-(SAM) MANAGEMENT;FLUID AND BLOOD  MANAGEMENT IN SAM;TRANSFUSION THRESHOLDS AND OVERLOAD  PREVENTION IN SEVERE ANEMIA;",
+  "topic": "SEVERE ACUTE MALNUTRITION-(SAM) MANAGEMENT",
+  "subtopic": "FLUID AND BLOOD  MANAGEMENT IN SAM",
+  "sub_subtopic": "TRANSFUSION THRESHOLDS AND OVERLOAD  PREVENTION IN SEVERE ANEMIA",
+  "heading_path": "SEVERE ACUTE MALNUTRITION-(SAM) MANAGEMENT;FLUID AND BLOOD  MANAGEMENT IN SAM;TRANSFUSION THRESHOLDS AND OVERLOAD  PREVENTION IN SEVERE ANEMIA;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "3p1"
+}

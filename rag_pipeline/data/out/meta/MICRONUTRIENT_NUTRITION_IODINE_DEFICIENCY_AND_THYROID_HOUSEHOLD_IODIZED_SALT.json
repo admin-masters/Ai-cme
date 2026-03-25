@@ -1,0 +1,47 @@
+{
+  "chunk_summary": "Guidance on verifying household iodized salt use and counseling on proper storage and cooking practices to prevent iodine deficiency and thyroid dysfunction, with diagnostic steps for symptomatic cases.",
+  "learning_objectives": [
+    "Understand the steps for verifying household iodized salt use in clinical settings.",
+    "Learn counseling techniques for proper salt storage and cooking to preserve iodine content.",
+    "Recognize symptoms of thyroid dysfunction and appropriate diagnostic pathways.",
+    "Differentiate between population-level and individual-level iodine deficiency assessments."
+  ],
+  "key_facts": [
+    "Rapid salt test kits can confirm iodization but do not quantify iodine content.",
+    "Urinary iodine is a population marker and not recommended for individual diagnosis.",
+    "Symptoms like goiter, lethargy, and growth deceleration warrant TSH and free T4 testing.",
+    "Families often alternate between iodized, loose, and rock salt, complicating iodine intake verification.",
+    "Proper salt storage involves keeping it dry, in a closed container, and away from heat and moisture."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Iodine Deficiency",
+    "Thyroid Dysfunction",
+    "Dietary Iodine",
+    "Salt",
+    "Goiter",
+    "Hypothyroidism",
+    "Nutrition Assessment",
+    "Public Health"
+  ],
+  "tags_custom": [
+    "iodized salt verification",
+    "household nutrition counseling",
+    "thyroid health",
+    "salt storage practices"
+  ],
+  "reference_quote": "\"Urinary iodine is not recommended for individual diagnosis; it is a population marker.\" (Source: Revised policy guidelines on NIDDCP)",
+  "document_key_topics": [
+    "Household iodized salt verification",
+    "Counseling on iodine deficiency prevention",
+    "Diagnostic steps for thyroid dysfunction"
+  ],
+  "chunk_heading": "MICRONUTRIENT NUTRITION;IODINE DEFICIENCY AND THYROID DYSFUNCTION DECISIONS;HOUSEHOLD IODIZED SALT VERIFICATION AND COUNSELING IN CLINIC;",
+  "topic": "MICRONUTRIENT NUTRITION",
+  "subtopic": "IODINE DEFICIENCY AND THYROID DYSFUNCTION DECISIONS",
+  "sub_subtopic": "HOUSEHOLD IODIZED SALT VERIFICATION AND COUNSELING IN CLINIC",
+  "heading_path": "MICRONUTRIENT NUTRITION;IODINE DEFICIENCY AND THYROID DYSFUNCTION DECISIONS;HOUSEHOLD IODIZED SALT VERIFICATION AND COUNSELING IN CLINIC;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1z1"
+}

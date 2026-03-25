@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "This section discusses quality controls for height and age data in stunting diagnosis, emphasizing accurate measurements, error prevention, and reliable documentation in community pediatric nutrition programs.",
+  "learning_objectives": [
+    "Understand the importance of accurate height and age data in stunting diagnosis.",
+    "Learn proper measurement techniques for children under and over 2 years of age.",
+    "Identify strategies to prevent misclassification and ensure data reliability in growth monitoring.",
+    "Recognize the role of repeat measurements and documentation in improving program credibility."
+  ],
+  "key_facts": [
+    "Stunting classification depends on accurate length/height and age data, with WHO standards applicable across ethnicities.",
+    "Children under 2 years should be measured recumbently using a rigid length board, while standing height is measured for those 2 years and older.",
+    "Use a two-measure rule for category flips: re-measure the same day if a child shifts between 'stunted' and 'not stunted' without a plausible clinical explanation.",
+    "Equipment must be calibrated, and measurements should avoid rounding to whole centimeters.",
+    "Document the method used (e.g., length board or stadiometer) and schedule follow-ups based on stunting action levels."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Stunting",
+    "Anthropometry",
+    "Child Growth Standards",
+    "Pediatric Nutrition",
+    "Community Health Services",
+    "Growth Monitoring",
+    "Data Accuracy",
+    "Public Health"
+  ],
+  "tags_custom": [
+    "Stunting Diagnosis",
+    "Height and Age Data",
+    "Measurement Techniques",
+    "Community Nutrition Programs"
+  ],
+  "reference_quote": "Treat implausible anthropometry like an abnormal lab result: repeat the measurement before acting on a single point.",
+  "document_key_topics": [
+    "Stunting diagnosis and classification",
+    "Height and age measurement techniques",
+    "Data quality controls in growth monitoring",
+    "Community-based pediatric nutrition management"
+  ],
+  "chunk_heading": "PUBLIC HEALTH & COMMUNITY PEDIATRIC NUTRITION;STUNTING FOCUSED COMMUNITY MANAGEMENT PATHWAYS;HEIGHT AND AGE DATA QUALITY CONTROLS FOR STUNTING DIAGNOSIS;",
+  "topic": "PUBLIC HEALTH & COMMUNITY PEDIATRIC NUTRITION",
+  "subtopic": "STUNTING FOCUSED COMMUNITY MANAGEMENT PATHWAYS",
+  "sub_subtopic": "HEIGHT AND AGE DATA QUALITY CONTROLS FOR STUNTING DIAGNOSIS",
+  "heading_path": "PUBLIC HEALTH & COMMUNITY PEDIATRIC NUTRITION;STUNTING FOCUSED COMMUNITY MANAGEMENT PATHWAYS;HEIGHT AND AGE DATA QUALITY CONTROLS FOR STUNTING DIAGNOSIS;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1e2"
+}

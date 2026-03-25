@@ -1,0 +1,47 @@
+{
+  "chunk_summary": "This section addresses NICU fortification troubleshooting through scenario-based approaches for safe and effective nutritional management of preterm infants, focusing on weight gain, metabolic bone disease, and feeding tolerance issues.",
+  "learning_objectives": [
+    "Understand the stepwise approach to troubleshooting fortification in NICU settings.",
+    "Identify and manage metabolic bone disease risks in predominantly donor human milk-fed infants.",
+    "Evaluate and address feeding intolerance in preterm infants transitioning to full-strength fortification."
+  ],
+  "key_facts": [
+    "A 1.1 kg VLBW infant with weight gain ~10 g/kg/day should not have multiple modulars added immediately; reassess growth after 3\u20135 days.",
+    "Low serum phosphorus and rising ALP in DHM-fed infants indicate metabolic bone disease risk; confirm vitamin D dosing and increase mineral delivery.",
+    "Increased gastric residuals and abdominal distension after full-strength fortification require checks for mixing accuracy, sepsis, or gut pathology.",
+    "Avoid prolonged unfortified donor milk exposure to reduce metabolic bone disease risk.",
+    "If NEC is suspected, stop feeds and follow the unit NEC evaluation pathway before further nutrition escalation."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Infant, Very Low Birth Weight",
+    "Enteral Nutrition",
+    "Human Milk",
+    "Milk Banks",
+    "Metabolic Bone Disease",
+    "Necrotizing Enterocolitis",
+    "Nutritional Support",
+    "Phosphorus Deficiency"
+  ],
+  "tags_custom": [
+    "NICU fortification",
+    "feeding intolerance",
+    "donor milk management",
+    "metabolic bone disease",
+    "preterm nutrition"
+  ],
+  "reference_quote": "Scenario-based troubleshooting supports safe, consistent fortification rather than reactive changes.",
+  "document_key_topics": [
+    "Fortification troubleshooting in NICU",
+    "Metabolic bone disease in preterm infants",
+    "Feeding intolerance and NEC risk management"
+  ],
+  "chunk_heading": "EXPRESSED MILK, DONOR MILK & MILK BANKING;NICU CASE SCENARIOS FOR FORTIFICATION TROUBLESHOOTING;",
+  "topic": "EXPRESSED MILK, DONOR MILK & MILK BANKING",
+  "subtopic": "NICU CASE SCENARIOS FOR FORTIFICATION TROUBLESHOOTING",
+  "sub_subtopic": null,
+  "heading_path": "EXPRESSED MILK, DONOR MILK & MILK BANKING;NICU CASE SCENARIOS FOR FORTIFICATION TROUBLESHOOTING;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2}.1"
+}

@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section evaluates expected growth velocity and pubertal tempo in school-age children and adolescents, focusing on stunting and chronic undernutrition as determinants of linear growth failure.",
+  "learning_objectives": [
+    "Understand the expected growth velocity during school-age and adolescence.",
+    "Evaluate the impact of chronic undernutrition on pubertal development and linear growth.",
+    "Interpret growth reference data for ages 5\u201319 years using standardized tools.",
+    "Identify clinical challenges in diagnosing and managing short stature in children."
+  ],
+  "key_facts": [
+    "Normal growth velocity during adolescence ranges from 5\u201310 cm/year, depending on pubertal stage (Merck Manual).",
+    "Pubertal tempo varies significantly, with early puberty linked to faster growth spurts but shorter adult height (NCBI).",
+    "WHO growth reference data provides standardized percentiles for ages 5\u201319 years to assess growth deviations.",
+    "Chronic undernutrition is a leading cause of stunting, affecting up to 22% of children globally (WHO).",
+    "Short stature in children may require evaluation of growth hormone levels and bone age (Stony Brook Medicine)."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Stunting",
+    "Growth Disorders",
+    "Puberty",
+    "Linear Growth",
+    "Undernutrition",
+    "Adolescent Development",
+    "Growth Velocity",
+    "Short Stature"
+  ],
+  "tags_custom": [
+    "growth evaluation",
+    "pubertal assessment",
+    "nutritional impact",
+    "adolescent health",
+    "clinical guidelines"
+  ],
+  "reference_quote": "Normal growth velocity during adolescence is typically 5\u201310 cm/year, with variations based on pubertal stage and nutritional status. (Merck Manual)",
+  "document_key_topics": [
+    "Stunting and chronic undernutrition",
+    "Growth velocity in school-age children and adolescents",
+    "Pubertal tempo and its impact on growth",
+    "Clinical evaluation of short stature"
+  ],
+  "chunk_heading": "STUNTING, CHRONIC UNDERNUTRITION & DETERMINANTS;SCHOOL AGE AND ADOLESCENT LINEAR GROWTH FAILURE EVALUATION;EXPECTED GROWTH VELOCITY AND PUBERTAL TEMPO INTERPRETATION;",
+  "topic": "STUNTING, CHRONIC UNDERNUTRITION & DETERMINANTS",
+  "subtopic": "SCHOOL AGE AND ADOLESCENT LINEAR GROWTH FAILURE EVALUATION",
+  "sub_subtopic": "EXPECTED GROWTH VELOCITY AND PUBERTAL TEMPO INTERPRETATION",
+  "heading_path": "STUNTING, CHRONIC UNDERNUTRITION & DETERMINANTS;SCHOOL AGE AND ADOLESCENT LINEAR GROWTH FAILURE EVALUATION;EXPECTED GROWTH VELOCITY AND PUBERTAL TEMPO INTERPRETATION;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "6w1.2"
+}

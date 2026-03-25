@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "This section discusses pediatric food allergy mismanagement, focusing on mislabeling, overtreatment, and appropriate diagnostic and therapeutic strategies using case-based vignettes.",
+  "learning_objectives": [
+    "Understand the distinction between sensitization and true food allergy in pediatric cases.",
+    "Learn to manage food allergy mislabeling and overtreatment through targeted history and testing.",
+    "Develop strategies to restore dietary diversity while ensuring emergency readiness.",
+    "Recognize the role of dietitian input in addressing nutritional compromise during diagnostic work-ups."
+  ],
+  "key_facts": [
+    "Positive specific IgE (sIgE) tests indicate sensitization, not necessarily clinical allergy.",
+    "Eczema naturally waxes and wanes, and improvement after food elimination is not proof of causality unless symptoms relapse on reintroduction.",
+    "Supervised oral food challenges (OFC) are critical for de-labeling low-probability food allergies.",
+    "Chronic abdominal pain without temporal food links requires evaluation for celiac disease and functional pain, not broad elimination diets.",
+    "Dietary eliminations should be time-bounded and based on clear immune phenotypes or diagnostic evidence.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Food Hypersensitivity",
+    "Eczema",
+    "Urticaria",
+    "Abdominal Pain",
+    "Dietary Therapy",
+    "Skin Prick Test",
+    "Oral Food Challenge",
+    "Celiac Disease"
+  ],
+  "tags_custom": [
+    "pediatric allergy",
+    "mislabeling",
+    "dietary elimination",
+    "nutritional compromise",
+    "case-based management"
+  ],
+  "reference_quote": "\u2018Positive sIgE indicates sensitization, not allergy\u2019 (Rational Use of Allergy Testing, IAP Action Plan 2026).",
+  "document_key_topics": [
+    "Mislabeling in pediatric food allergy",
+    "Overtreatment and unnecessary dietary eliminations",
+    "Targeted diagnostic approaches for food allergy",
+    "Restoring dietary diversity and addressing nutritional compromise"
+  ],
+  "chunk_heading": "FOOD ALLERGY & THERAPEUTIC ELIMINATION DIETS;CASE-BASED DECISION FORKS IN PEDIATRIC FOOD ALLERGY;MISLABELING AND OVERTREATMENT OUTPATIENT VIGNETTES;",
+  "topic": "FOOD ALLERGY & THERAPEUTIC ELIMINATION DIETS",
+  "subtopic": "CASE-BASED DECISION FORKS IN PEDIATRIC FOOD ALLERGY",
+  "sub_subtopic": "MISLABELING AND OVERTREATMENT OUTPATIENT VIGNETTES",
+  "heading_path": "FOOD ALLERGY & THERAPEUTIC ELIMINATION DIETS;CASE-BASED DECISION FORKS IN PEDIATRIC FOOD ALLERGY;MISLABELING AND OVERTREATMENT OUTPATIENT VIGNETTES;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u00a01"
+}

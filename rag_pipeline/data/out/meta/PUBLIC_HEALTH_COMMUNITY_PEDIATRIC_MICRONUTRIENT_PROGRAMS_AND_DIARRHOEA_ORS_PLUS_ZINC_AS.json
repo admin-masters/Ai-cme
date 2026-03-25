@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "Diarrhea management in pediatric nutrition integrates ORS and zinc supplementation to prevent malnutrition, emphasizing continued feeding, breastfeeding, and operational integration for better outcomes.",
+  "learning_objectives": [
+    "Understand the role of ORS and zinc in managing pediatric diarrhea and preventing malnutrition.",
+    "Learn WHO-recommended zinc dosages for children under and over 6 months.",
+    "Recognize the importance of continued feeding and breastfeeding during diarrhea episodes.",
+    "Identify operational strategies to integrate diarrhea management with nutrition care."
+  ],
+  "key_facts": [
+    "WHO recommends zinc supplementation for 10\u201314 days: 10 mg/day for infants under 6 months and 20 mg/day for children 6 months and above.",
+    "Zinc supplementation should continue even after stools normalize due to its extended protective effects.",
+    "ORS\u2013zinc corners and community counseling structures are institutionalized in national diarrhea control programs.",
+    "Severe acute malnutrition (SAM) requires careful rehydration with supervised ORS use and monitoring for overhydration.",
+    "Persistent diarrhea in stunted or wasted children should trigger reassessment for infection and feeding tolerance."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Diarrhea",
+    "Oral Rehydration Solutions",
+    "Zinc",
+    "Child Nutrition Disorders",
+    "Malnutrition",
+    "Breastfeeding",
+    "Severe Acute Malnutrition",
+    "Growth Monitoring"
+  ],
+  "tags_custom": [
+    "pediatric diarrhea management",
+    "nutrition preservation",
+    "ORS and zinc protocol",
+    "malnutrition prevention"
+  ],
+  "reference_quote": "WHO recommends zinc for 10\u201314 days: 10 mg/day for infants under 6 months and 20 mg/day for children 6 months and above. (Source: https://www.who.int/tools/elena/interventions/zinc-diarrhoea)",
+  "document_key_topics": [
+    "Pediatric diarrhea management",
+    "ORS and zinc supplementation",
+    "Nutrition preservation during diarrhea",
+    "Operational integration in diarrhea care"
+  ],
+  "chunk_heading": "PUBLIC HEALTH & COMMUNITY PEDIATRIC NUTRITION;MICRONUTRIENT PROGRAMS AND DEWORMING INTEGRATED WITH NUTRITION CARE;DIARRHOEA ORS PLUS ZINC AS NUTRITION PRESERVATION PROTOCOL;",
+  "topic": "PUBLIC HEALTH & COMMUNITY PEDIATRIC NUTRITION",
+  "subtopic": "MICRONUTRIENT PROGRAMS AND DEWORMING INTEGRATED WITH NUTRITION CARE",
+  "sub_subtopic": "DIARRHOEA ORS PLUS ZINC AS NUTRITION PRESERVATION PROTOCOL",
+  "heading_path": "PUBLIC HEALTH & COMMUNITY PEDIATRIC NUTRITION;MICRONUTRIENT PROGRAMS AND DEWORMING INTEGRATED WITH NUTRITION CARE;DIARRHOEA ORS PLUS ZINC AS NUTRITION PRESERVATION PROTOCOL;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u008b4"
+}

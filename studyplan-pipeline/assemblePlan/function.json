@@ -1,0 +1,13 @@
+{
+  "scriptFile": "__init__.py",
+  "bindings": [
+    {
+      "type": "queueTrigger",
+      "name": "msg",
+      "queueName": "plan-queue",
+      "direction": "in",
+      "connection": "AzureWebJobsStorage",
+      "messageEncoding": "none"
+    }
+  ]
+}

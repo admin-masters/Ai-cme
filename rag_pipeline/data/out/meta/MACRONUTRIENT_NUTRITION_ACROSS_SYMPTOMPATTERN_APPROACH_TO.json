@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "This section discusses a symptom-pattern approach to diagnosing carbohydrate intolerance and functional disorders in children, emphasizing diagnosis-driven, time-limited dietary trials, red flag screening, and evidence-based interventions to prevent undernutrition.",
+  "learning_objectives": [
+    "Understand the importance of diagnosis-driven and time-limited dietary trials for carbohydrate intolerance in children.",
+    "Identify red flags such as weight loss, anemia, or growth failure that warrant further investigation for organic diseases.",
+    "Learn evidence-based approaches to managing suspected lactose intolerance and the cautious use of low-FODMAP diets in children."
+  ],
+  "key_facts": [
+    "Dietary trials should be time-limited to avoid iatrogenic undernutrition.",
+    "Red flags like weight loss, anemia, or delayed puberty require evaluation for conditions like celiac disease or IBD.",
+    "Hydrogen breath testing is useful but symptom response and re-challenge are often more practical in primary care.",
+    "Low-FODMAP diets have limited pediatric evidence and should only be used under dietitian supervision with a reintroduction plan.",
+    "Structured reintroduction and calcium/protein replacement are essential to prevent growth issues after dietary restrictions.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Carbohydrate Intolerance",
+    "Lactose Intolerance",
+    "Dietary Therapy",
+    "Pediatric Nutrition",
+    "Irritable Bowel Syndrome",
+    "Celiac Disease",
+    "Malabsorption Syndromes",
+    "Growth Disorders"
+  ],
+  "tags_custom": [
+    "dietary trials",
+    "red flag symptoms",
+    "low-FODMAP diets",
+    "pediatric gastroenterology",
+    "nutritional management"
+  ],
+  "reference_quote": "ESPGHAN notes limited pediatric evidence and potential nutritional harm; consider only for selected children with clear IBS under dietitian supervision and with a defined stop/reintroduction plan.",
+  "document_key_topics": [
+    "Symptom-pattern approach to carbohydrate intolerance",
+    "Screening for red flags in pediatric gastrointestinal disorders",
+    "Evidence-based dietary interventions for functional disorders"
+  ],
+  "chunk_heading": "MACRONUTRIENT NUTRITION ACROSS CHILDHOOD;SYMPTOM-PATTERN APPROACH TO CARBOHYDRATE INTOLERANCE AND FUNCTIONAL DISORDERS;",
+  "topic": "MACRONUTRIENT NUTRITION ACROSS CHILDHOOD",
+  "subtopic": "SYMPTOM-PATTERN APPROACH TO CARBOHYDRATE INTOLERANCE AND FUNCTIONAL DISORDERS",
+  "sub_subtopic": null,
+  "heading_path": "MACRONUTRIENT NUTRITION ACROSS CHILDHOOD;SYMPTOM-PATTERN APPROACH TO CARBOHYDRATE INTOLERANCE AND FUNCTIONAL DISORDERS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2x"
+}

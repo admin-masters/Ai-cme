@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "Defines core IYCF indicators (MMF, MDD, MAD) and counseling thresholds for culturally effective infant feeding in India, emphasizing structured 24-hour recall and actionable dietary adjustments.",
+  "learning_objectives": [
+    "Understand the definitions and thresholds for core IYCF indicators: MMF, MDD, and MAD.",
+    "Learn how to conduct a structured 24-hour dietary recall for infants and young children.",
+    "Identify culturally appropriate strategies to improve feeding frequency and dietary diversity.",
+    "Apply WHO/UNICEF guidelines to local Indian reporting formats and counseling practices."
+  ],
+  "key_facts": [
+    "Minimum Meal Frequency (MMF): Breastfed children need \u22652 feeds/day (6\u20138 months) or \u22653 feeds/day (9\u201323 months); non-breastfed children need \u22654 feeds/day.",
+    "Minimum Dietary Diversity (MDD): At least 5 of 8 food groups in the past 24 hours, per updated WHO/UNICEF guidelines.",
+    "Minimum Acceptable Diet (MAD): Achieved when MMF and MDD are met, plus \u22652 milk feeds for non-breastfed children.",
+    "Structured 24-hour recall: Maps intake to MMF and MDD targets for actionable counseling.",
+    "Indian reporting formats may use older 4-of-7 food group cut-offs; counsel toward the 5-of-8 goal."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Infant Nutrition",
+    "Child Nutrition",
+    "Dietary Diversity",
+    "Feeding Behavior",
+    "Breastfeeding",
+    "Complementary Feeding",
+    "India",
+    "Nutrition Assessment"
+  ],
+  "tags_custom": [
+    "IYCF indicators",
+    "culturally effective counseling",
+    "feeding thresholds",
+    "India-specific guidelines",
+    "dietary recall methods"
+  ],
+  "reference_quote": "Minimum dietary diversity (MDD) uses the updated WHO/UNICEF definition: at least 5 of 8 food groups in the past 24 hours.",
+  "document_key_topics": [
+    "Core IYCF indicator definitions (MMF, MDD, MAD)",
+    "Structured dietary recall for feeding assessment",
+    "Culturally effective counseling strategies in India"
+  ],
+  "chunk_heading": "INFANT & YOUNG CHILD FEEDING 0\u201324 MONTHS;INDIA PROGRAM INTEGRATION AND CULTURALLY EFFECTIVE COUNSELING;CORE IYCF INDICATOR DEFINITIONS AND COUNSELING THRESHOLDS;",
+  "topic": "INFANT & YOUNG CHILD FEEDING 0\u201324 MONTHS",
+  "subtopic": "INDIA PROGRAM INTEGRATION AND CULTURALLY EFFECTIVE COUNSELING",
+  "sub_subtopic": "CORE IYCF INDICATOR DEFINITIONS AND COUNSELING THRESHOLDS",
+  "heading_path": "INFANT & YOUNG CHILD FEEDING 0\u201324 MONTHS;INDIA PROGRAM INTEGRATION AND CULTURALLY EFFECTIVE COUNSELING;CORE IYCF INDICATOR DEFINITIONS AND COUNSELING THRESHOLDS;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1\u008d1"
+}

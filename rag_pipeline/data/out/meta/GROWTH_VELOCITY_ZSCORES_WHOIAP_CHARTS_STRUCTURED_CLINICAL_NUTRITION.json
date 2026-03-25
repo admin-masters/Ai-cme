@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "This section discusses structured clinical nutrition assessment beyond anthropometry, emphasizing laboratory test selection, pitfalls in interpreting serum albumin, and a tiered diagnostic approach for growth faltering using WHO/IAP charts.",
+  "learning_objectives": [
+    "Understand the limitations of serum albumin and prealbumin as nutrition markers in the context of inflammation and illness.",
+    "Learn a tiered approach to laboratory testing for growth faltering based on clinical presentation and red flags.",
+    "Recognize appropriate diagnostic steps for coeliac disease and thyroid dysfunction in children with growth issues."
+  ],
+  "key_facts": [
+    "Serum albumin is influenced by inflammation, fluid status, hepatic function, and capillary leak, making it unreliable as a standalone nutrition marker.",
+    "Tier 1 tests for typical outpatient growth faltering include CBC, urinalysis, and symptom-driven stool tests for chronic diarrhea or blood.",
+    "Coeliac disease testing requires total IgA and tTG-IgA while the child is consuming gluten; if IgA is low, use an IgG-based assay.",
+    "Tier 2 tests for stunting or systemic features include TSH, free T4, and inflammatory markers (CRP or ESR) when clinically indicated.",
+    "Mildly elevated TSH with normal free T4 should prompt reassessment at an appropriate interval and consideration of thyroid antibodies."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Growth Disorders",
+    "Nutritional Assessment",
+    "Serum Albumin",
+    "Thyroid Function Tests",
+    "Celiac Disease",
+    "Inflammatory Markers",
+    "Anthropometry",
+    "Pediatric Endocrinology"
+  ],
+  "tags_custom": [
+    "growth faltering",
+    "nutrition assessment",
+    "laboratory diagnostics",
+    "tiered testing",
+    "clinical guidelines"
+  ],
+  "reference_quote": "Serum albumin is strongly influenced by inflammation, fluid status, hepatic function, and capillary leak, so a low value should not be equated with protein-energy malnutrition severity. (Reference 4)",
+  "document_key_topics": [
+    "Growth velocity and Z-scores",
+    "WHO/IAP growth charts",
+    "Structured clinical nutrition assessment",
+    "Laboratory test interpretation in growth faltering"
+  ],
+  "chunk_heading": "GROWTH VELOCITY, Z-SCORES; WHO/IAP CHARTS);STRUCTURED CLINICAL NUTRITION ASSESSMENT BEYOND ANTHROPOMETRY;LABORATORY TEST SELECTION AND ALBUMIN INTERPRETATION PITFALLS;",
+  "topic": "GROWTH VELOCITY, Z-SCORES",
+  "subtopic": "WHO/IAP CHARTS)",
+  "sub_subtopic": "STRUCTURED CLINICAL NUTRITION ASSESSMENT BEYOND ANTHROPOMETRY",
+  "heading_path": "GROWTH VELOCITY, Z-SCORES; WHO/IAP CHARTS);STRUCTURED CLINICAL NUTRITION ASSESSMENT BEYOND ANTHROPOMETRY;LABORATORY TEST SELECTION AND ALBUMIN INTERPRETATION PITFALLS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1m12"
+}

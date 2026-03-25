@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "The AMB clinical workflow emphasizes a structured approach to anemia management, including screening, classification, treatment, and follow-up, with clear distinctions between prophylaxis and therapy, and adherence to updated cutoff frameworks and therapeutic guidelines.",
+  "learning_objectives": [
+    "Understand the AMB clinical workflow from screening to therapeutic decisions.",
+    "Differentiate between prophylactic and therapeutic iron supplementation in anemia management.",
+    "Learn the importance of hemoglobin testing and cutoff frameworks in clinical decision-making.",
+    "Recognize the role of fortified staples in population-level anemia prevention."
+  ],
+  "key_facts": [
+    "AMB follows a looped workflow: screen, classify, treat/refer, follow-up, and return to prophylaxis.",
+    "Weekly/biweekly IFA is prophylactic; therapeutic iron for moderate-to-severe anemia is 3 mg/kg/day elemental iron.",
+    "Fortified staples, such as fortified rice, provide only a few milligrams of iron per serving, insufficient for therapeutic needs.",
+    "Point-of-care hemoglobin screening should be confirmed with laboratory hemograms for high-stakes or borderline cases.",
+    "Prophylactic IFA must be paused during therapeutic iron treatment to prevent stacked dosing."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Anemia",
+    "Iron-Deficiency Anemia",
+    "Iron Supplementation",
+    "Hemoglobin",
+    "Nutritional Status",
+    "Public Health Programs",
+    "Child Health",
+    "Therapeutics"
+  ],
+  "tags_custom": [
+    "Anemia Mukt Bharat",
+    "Iron management",
+    "Prophylaxis vs therapy",
+    "Fortified staples",
+    "Clinical workflow"
+  ],
+  "reference_quote": "Document which cutoff framework you used to prevent inconsistent interpretation across sites. (Source: https://nhm.gov.in/images/pdf/Nutrition/AMB-guidelines/T3-Guideline.pdf)",
+  "document_key_topics": [
+    "AMB clinical workflow and decision-making",
+    "Prophylactic vs therapeutic iron supplementation",
+    "Role of fortified staples in anemia prevention",
+    "Hemoglobin testing and cutoff frameworks"
+  ],
+  "chunk_heading": "NATIONAL NUTRITION AND FORTIFICATION PROGRAMS IN INDIA;ANEMIA MUKT BHARAT AND CLINICAL IRON MANAGEMENT;AMB CLINICAL WORKFLOW FROM SCREENING TO THERAPEUTIC DECISIONS;",
+  "topic": "NATIONAL NUTRITION AND FORTIFICATION PROGRAMS IN INDIA",
+  "subtopic": "ANEMIA MUKT BHARAT AND CLINICAL IRON MANAGEMENT",
+  "sub_subtopic": "AMB CLINICAL WORKFLOW FROM SCREENING TO THERAPEUTIC DECISIONS",
+  "heading_path": "NATIONAL NUTRITION AND FORTIFICATION PROGRAMS IN INDIA;ANEMIA MUKT BHARAT AND CLINICAL IRON MANAGEMENT;AMB CLINICAL WORKFLOW FROM SCREENING TO THERAPEUTIC DECISIONS;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "2v4"
+}

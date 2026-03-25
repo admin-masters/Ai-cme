@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section discusses the selection and use of WHO/IAP growth charts, focusing on preterm infant growth charting with corrected age and the application of growth velocity and Z-scores for monitoring development.",
+  "learning_objectives": [
+    "Understand the importance of using corrected age for preterm infant growth charting.",
+    "Learn how to apply WHO/IAP growth charts for monitoring growth velocity and Z-scores.",
+    "Compare different growth standards, such as INTERGROWTH-21st and Fenton charts.",
+    "Identify key guidelines for nutritional assessment and anthropometry in growth monitoring."
+  ],
+  "key_facts": [
+    "Corrected age is essential for accurate growth charting in preterm infants.",
+    "WHO growth standards provide Z-scores to assess growth velocity and deviations from the norm.",
+    "INTERGROWTH-21st and Fenton charts are commonly used for preterm infants, with notable differences in their growth standards.",
+    "Growth monitoring should include anthropometric measurements such as weight, length, and head circumference.",
+    "The RCPCH guidelines emphasize plotting preterm infant growth using corrected age for up to 2 years."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Growth Charts",
+    "Infant, Premature",
+    "Anthropometry",
+    "Z-Score",
+    "Growth Monitoring",
+    "Nutritional Assessment",
+    "Child Development",
+    "WHO Standards"
+  ],
+  "tags_custom": [
+    "Preterm Growth",
+    "Corrected Age",
+    "Growth Velocity",
+    "Pediatric Nutrition",
+    "Growth Standards"
+  ],
+  "reference_quote": "\u2018Corrected age should be used for plotting preterm infant growth until at least 2 years of age.\u2019 (Source: RCPCH guidelines)",
+  "document_key_topics": [
+    "Preterm infant growth charting",
+    "WHO/IAP growth standards",
+    "Z-scores and growth velocity",
+    "Nutritional assessment and anthropometry"
+  ],
+  "chunk_heading": "GROWTH VELOCITY, Z-SCORES; WHO/IAP CHARTS);SELECTION AND USE OF GROWTH CHARTS;PRETERM INFANT CHARTING WITH CORRECTED AGE;",
+  "topic": "GROWTH VELOCITY, Z-SCORES",
+  "subtopic": "WHO/IAP CHARTS)",
+  "sub_subtopic": "SELECTION AND USE OF GROWTH CHARTS",
+  "heading_path": "GROWTH VELOCITY, Z-SCORES; WHO/IAP CHARTS);SELECTION AND USE OF GROWTH CHARTS;PRETERM INFANT CHARTING WITH CORRECTED AGE;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2v21.2"
+}

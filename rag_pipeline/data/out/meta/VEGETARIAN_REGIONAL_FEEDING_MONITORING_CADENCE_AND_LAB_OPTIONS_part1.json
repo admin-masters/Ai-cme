@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section discusses monitoring strategies and lab options for managing vegetarian and regional feeding patterns in low-resource settings, focusing on safety thresholds, supplementation guidelines, and prevention of nutritional deficiencies in children.",
+  "learning_objectives": [
+    "Understand the importance of monitoring cadence for vegetarian diets in children in low-resource settings.",
+    "Identify key supplementation guidelines for vegan and vegetarian diets in pediatric populations.",
+    "Learn strategies for diagnosing and preventing nutritional anemia and vitamin D deficiency in children.",
+    "Explore the health outcomes and trends associated with plant-based diets in children."
+  ],
+  "key_facts": [
+    "Nutritional anemia is a significant concern in children, particularly in low-resource settings, requiring targeted prevention and treatment strategies (Indian Pediatrics, 2022).",
+    "Vitamin D deficiency and rickets prevention guidelines emphasize supplementation and dietary adjustments (IAP, 2021).",
+    "Plant-based diets in children are associated with both health benefits and risks, requiring careful monitoring of nutrient intake (PMC10934552).",
+    "Safety thresholds for nutrient levels in vegetarian diets are critical to avoid deficiencies, especially in growing children.",
+    "Supplementation guidelines for vegan diets in children and adolescents are essential to ensure adequate intake of critical nutrients like B12, iron, and calcium (PMC11666816)."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Vegetarian Diet",
+    "Nutritional Deficiencies",
+    "Vitamin D Deficiency",
+    "Anemia, Iron-Deficiency",
+    "Child Nutrition Disorders",
+    "Dietary Supplements",
+    "Low-Resource Settings",
+    "Pediatrics"
+  ],
+  "tags_custom": [
+    "vegetarian feeding",
+    "nutritional monitoring",
+    "low-resource healthcare",
+    "pediatric nutrition",
+    "dietary supplementation"
+  ],
+  "reference_quote": "Toward supplementation guidelines for vegan diet in children and adolescents: 'Safety thresholds are critical, not merely diet preferences.' (PMC11666816)",
+  "document_key_topics": [
+    "Vegetarian and vegan diet supplementation in children",
+    "Prevention and treatment of nutritional anemia",
+    "Vitamin D deficiency and rickets management",
+    "Health outcomes of plant-based diets in children"
+  ],
+  "chunk_heading": "VEGETARIAN & REGIONAL FEEDING PATTERNS;MONITORING CADENCE AND LAB OPTIONS IN LOW-RESOURCE SETTINGS;",
+  "topic": "VEGETARIAN & REGIONAL FEEDING PATTERNS",
+  "subtopic": "MONITORING CADENCE AND LAB OPTIONS IN LOW-RESOURCE SETTINGS",
+  "sub_subtopic": null,
+  "heading_path": "VEGETARIAN & REGIONAL FEEDING PATTERNS;MONITORING CADENCE AND LAB OPTIONS IN LOW-RESOURCE SETTINGS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1{.2"
+}

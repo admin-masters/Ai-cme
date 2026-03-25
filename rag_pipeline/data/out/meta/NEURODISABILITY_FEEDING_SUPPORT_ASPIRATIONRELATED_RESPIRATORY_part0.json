@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "Guidelines for triaging aspiration-related respiratory illnesses in children with neurodisability, focusing on distinguishing pneumonitis from pneumonia and selecting appropriate antibiotic regimens.",
+  "learning_objectives": [
+    "Understand the clinical differences between aspiration pneumonitis and aspiration pneumonia in children with neurodisability.",
+    "Learn the criteria for hospital admission or observation in aspiration-related respiratory illnesses.",
+    "Identify appropriate antibiotic regimens for aspiration pneumonia, including the need for anaerobic coverage.",
+    "Recognize the importance of reassessment and therapy adjustment at 48 hours."
+  ],
+  "key_facts": [
+    "Aspiration pneumonitis typically improves within ~48 hours, while pneumonia symptoms persist or worsen beyond ~48 hours.",
+    "Admit or observe if hypoxia, significant respiratory distress, dehydration, or inability to maintain safe hydration is present.",
+    "Oral co-amoxiclav is a pragmatic first-line choice in Indian outpatient practice for suspected aspiration pneumonia.",
+    "High-dose amoxicillin (80 mg/kg/day in two divided doses for 5 days) is standard for community-acquired pneumonia but requires anaerobic coverage if aspiration is suspected.",
+    "Reassess antibiotic therapy at 48 hours and narrow treatment if improvement is observed."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Neurodevelopmental Disorders",
+    "Dysphagia",
+    "Aspiration Pneumonia",
+    "Pneumonitis",
+    "Antibiotic Therapy",
+    "Respiratory Tract Infections",
+    "Community-Acquired Infections",
+    "Cerebral Palsy"
+  ],
+  "tags_custom": [
+    "aspiration management",
+    "pediatric neurodisability",
+    "antibiotic guidelines",
+    "feeding support"
+  ],
+  "reference_quote": "Evidence from hospitalized cohorts with neurologic impairment suggests that regimens with gram-negative coverage alone perform worse than regimens that include anaerobic/oral flora coverage.",
+  "document_key_topics": [
+    "Aspiration pneumonitis vs. pneumonia differentiation",
+    "Triage and admission criteria for aspiration-related illnesses",
+    "Antibiotic regimens for aspiration pneumonia",
+    "Reassessment and therapy adjustment at 48 hours"
+  ],
+  "chunk_heading": "NEURODISABILITY & FEEDING SUPPORT;ASPIRATION-RELATED RESPIRATORY ILLNESS TRIAGE AND ANTIBIOTIC PATHWAY;",
+  "topic": "NEURODISABILITY & FEEDING SUPPORT",
+  "subtopic": "ASPIRATION-RELATED RESPIRATORY ILLNESS TRIAGE AND ANTIBIOTIC PATHWAY",
+  "sub_subtopic": null,
+  "heading_path": "NEURODISABILITY & FEEDING SUPPORT;ASPIRATION-RELATED RESPIRATORY ILLNESS TRIAGE AND ANTIBIOTIC PATHWAY;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1{.1"
+}

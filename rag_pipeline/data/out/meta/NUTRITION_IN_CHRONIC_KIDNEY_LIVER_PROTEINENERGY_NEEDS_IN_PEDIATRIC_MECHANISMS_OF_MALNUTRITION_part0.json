@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Pediatric chronic liver disease (CLD) malnutrition arises from impaired intake, malabsorption, hypermetabolism, and fasting intolerance, with distinct mechanisms in cholestasis and cirrhosis. Management includes tailored energy needs, fat strategies, and monitoring of lean mass and protein adequacy.",
+  "learning_objectives": [
+    "Understand the mechanisms of malnutrition in pediatric chronic liver disease, including hypermetabolism and fasting intolerance.",
+    "Differentiate between cholestasis and cirrhosis in terms of nutritional challenges and management strategies.",
+    "Learn the importance of monitoring mid-upper arm circumference (MUAC) and triceps skinfold thickness (TSF) in assessing lean mass.",
+    "Recognize the role of bile acid deficiency in malabsorption and its impact on energy and vitamin requirements."
+  ],
+  "key_facts": [
+    "Energy needs in pediatric CLD are often 130% of age requirements due to hypermetabolism and malabsorption.",
+    "Cholestasis leads to bile acid deficiency, impairing micelle formation and absorption of long-chain triglycerides and fat-soluble vitamins.",
+    "Cirrhosis and portal hypertension cause early satiety, gut edema, and sarcopenia, necessitating protein adequacy and lean mass monitoring.",
+    "Fasting intolerance in infants and young children with CLD is due to impaired glycogen storage and altered gluconeogenesis.",
+    "MUAC and TSF are critical tools for tracking lean mass in children with CLD, as weight may be misleading due to fluid retention."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Pediatric Nutrition",
+    "Chronic Liver Disease",
+    "Malnutrition",
+    "Hypermetabolism",
+    "Cholestasis",
+    "Cirrhosis",
+    "Portal Hypertension",
+    "Fasting Intolerance"
+  ],
+  "tags_custom": [
+    "pediatric CLD",
+    "malnutrition mechanisms",
+    "energy requirements",
+    "fat absorption",
+    "protein adequacy"
+  ],
+  "reference_quote": "In cholestasis, bile acid deficiency impairs micelle formation, reducing absorption of long-chain triglycerides and fat-soluble vitamins.",
+  "document_key_topics": [
+    "Mechanisms of malnutrition in pediatric CLD",
+    "Nutritional management in cholestasis and cirrhosis",
+    "Fasting intolerance in infants and young children",
+    "Monitoring lean mass and protein adequacy"
+  ],
+  "chunk_heading": "NUTRITION IN CHRONIC KIDNEY & LIVER DISEASE;PROTEIN-ENERGY NEEDS IN PEDIATRIC CHRONIC LIVER DISEASE;MECHANISMS OF MALNUTRITION HYPERMETABOLISM AND FASTING INTOLERANCE IN CLD;",
+  "topic": "NUTRITION IN CHRONIC KIDNEY & LIVER DISEASE",
+  "subtopic": "PROTEIN-ENERGY NEEDS IN PEDIATRIC CHRONIC LIVER DISEASE",
+  "sub_subtopic": "MECHANISMS OF MALNUTRITION HYPERMETABOLISM AND FASTING INTOLERANCE IN CLD",
+  "heading_path": "NUTRITION IN CHRONIC KIDNEY & LIVER DISEASE;PROTEIN-ENERGY NEEDS IN PEDIATRIC CHRONIC LIVER DISEASE;MECHANISMS OF MALNUTRITION HYPERMETABOLISM AND FASTING INTOLERANCE IN CLD;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "3|1.1"
+}

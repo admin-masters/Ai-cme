@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "This section outlines malnutrition classification and growth trajectory triggers in children with chronic cardiorespiratory disease, emphasizing z-scores, weight velocity, and context-specific adjustments for accurate assessment.",
+  "learning_objectives": [
+    "Understand malnutrition classification criteria for children with chronic cardiorespiratory disease.",
+    "Learn to apply z-scores, weight velocity, and MUAC for severity assessment.",
+    "Identify growth trajectory triggers and their implications for nutritional interventions.",
+    "Recognize the importance of context-specific adjustments, such as corrected age and edema, in malnutrition assessment."
+  ],
+  "key_facts": [
+    "Severe malnutrition in children <2 years: weight-for-length z-score (WFLz) < -3 or bilateral pitting edema.",
+    "Severe malnutrition in children 2\u201320 years: BMI-for-age z-score (BMIz) < -3.",
+    "MUAC thresholds for severe malnutrition (6\u201359 months): <115 mm or edema; moderate: 115\u2013124 mm.",
+    "Growth trajectory triggers include WFLz/BMIz drop by \u22651 over 4\u201312 weeks or weight gain velocity <50% of expected in infancy.",
+    "Corrected age must be used for ex-preterm infants up to 24 months to avoid inappropriate nutritional interventions."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Malnutrition",
+    "Cardiopulmonary Diseases",
+    "Anthropometry",
+    "Body Mass Index",
+    "Mid-Upper Arm Circumference",
+    "Growth Disorders",
+    "Nutritional Assessment",
+    "Pediatric Nutrition"
+  ],
+  "tags_custom": [
+    "Chronic disease nutrition",
+    "Pediatric malnutrition",
+    "Growth trajectory",
+    "Corrected age adjustments"
+  ],
+  "reference_quote": "Severe acute malnutrition in children aged 6\u201359 months is defined as MUAC <115 mm or the presence of bilateral pitting edema. (Source: https://iapindia.org/pdf/Ch-136-Severe-Acute-Malnutrition.pdf)",
+  "document_key_topics": [
+    "Malnutrition classification in chronic cardiorespiratory disease",
+    "Growth trajectory monitoring and triggers",
+    "Anthropometric z-scores and MUAC thresholds",
+    "Context-specific adjustments in pediatric nutrition"
+  ],
+  "chunk_heading": "NUTRITION IN CHRONIC CARDIORESPIRATORY DISEASE;BEDSIDE NUTRITION ASSESSMENT AND RISK STRATIFICATION;MALNUTRITION SEVERITY CLASSIFICATION AND GROWTH TRAJECTORY TRIGGERS;",
+  "topic": "NUTRITION IN CHRONIC CARDIORESPIRATORY DISEASE",
+  "subtopic": "BEDSIDE NUTRITION ASSESSMENT AND RISK STRATIFICATION",
+  "sub_subtopic": "MALNUTRITION SEVERITY CLASSIFICATION AND GROWTH TRAJECTORY TRIGGERS",
+  "heading_path": "NUTRITION IN CHRONIC CARDIORESPIRATORY DISEASE;BEDSIDE NUTRITION ASSESSMENT AND RISK STRATIFICATION;MALNUTRITION SEVERITY CLASSIFICATION AND GROWTH TRAJECTORY TRIGGERS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1j2.1"
+}

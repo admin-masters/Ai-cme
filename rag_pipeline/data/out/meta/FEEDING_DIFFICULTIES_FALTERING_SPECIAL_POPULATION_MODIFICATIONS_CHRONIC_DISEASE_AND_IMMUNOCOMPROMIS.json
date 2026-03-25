@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "Chronic disease and immunocompromised states require tailored nutritional strategies, early dietitian input, and integrated care to address increased energy needs, malabsorption, and infection risks in children with faltering growth.",
+  "learning_objectives": [
+    "Understand the mechanisms of faltering growth in chronic disease and immunocompromised states.",
+    "Identify early referral triggers and nutritional modifications for children with chronic conditions.",
+    "Incorporate disease-specific growth targets and energy requirements into care plans.",
+    "Recognize the importance of integrated infection and nutrition management in immunocompromised children."
+  ],
+  "key_facts": [
+    "Children with chronic diseases like congenital heart disease or chronic kidney disease often require higher energy and protein density than peers.",
+    "WHO guidance highlights increased energy needs in children with HIV and emphasizes food hygiene and growth monitoring.",
+    "Symptoms like tachypnea, sweating with feeds, and poor endurance indicate increased cardiopulmonary workload.",
+    "Early dietitian input and energy-dense prescriptions are critical for this population.",
+    "Immunocompromised children require a lower threshold for infection workup and admission when feeding is compromised.",
+    "Prolonged empiric therapies, such as PPI use, should be reassessed due to infection risks and drug interactions."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Feeding and Eating Disorders",
+    "Growth Disorders",
+    "Chronic Disease",
+    "Immunocompromised Host",
+    "Nutritional Requirements",
+    "Energy Metabolism",
+    "Pediatric Nutrition",
+    "Infection Control"
+  ],
+  "tags_custom": [
+    "faltering growth",
+    "chronic disease nutrition",
+    "immunocompromised children",
+    "early referral triggers",
+    "energy-dense feeding"
+  ],
+  "reference_quote": "WHO guidance indicates higher energy needs in HIV and emphasizes food hygiene and close growth monitoring.",
+  "document_key_topics": [
+    "Faltering growth in chronic disease",
+    "Nutritional modifications for immunocompromised children",
+    "Early referral and dietitian input",
+    "Integrated infection and nutrition management"
+  ],
+  "chunk_heading": "FEEDING DIFFICULTIES & FALTERING GROWTH;SPECIAL POPULATION MODIFICATIONS AND EARLY REFERRAL TRIGGERS;CHRONIC DISEASE AND IMMUNOCOMPROMISED STATE MODIFICATIONS;",
+  "topic": "FEEDING DIFFICULTIES & FALTERING GROWTH",
+  "subtopic": "SPECIAL POPULATION MODIFICATIONS AND EARLY REFERRAL TRIGGERS",
+  "sub_subtopic": "CHRONIC DISEASE AND IMMUNOCOMPROMISED STATE MODIFICATIONS",
+  "heading_path": "FEEDING DIFFICULTIES & FALTERING GROWTH;SPECIAL POPULATION MODIFICATIONS AND EARLY REFERRAL TRIGGERS;CHRONIC DISEASE AND IMMUNOCOMPROMISED STATE MODIFICATIONS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2x2"
+}

@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Management of post-traumatic and retained hardware infections involves prevention, surgical debridement, culture-directed antibiotics, and potential hardware removal, with therapy lasting 6-12 weeks or longer if necessary.",
+  "learning_objectives": [
+    "Understand the distinction between post-traumatic osteomyelitis and hematogenous infections.",
+    "Learn the role of early surgical intervention and perioperative antibiotics in infection prevention.",
+    "Identify appropriate management strategies for early versus delayed hardware-associated infections.",
+    "Recognize the importance of prolonged therapy and counseling families about relapse risks."
+  ],
+  "key_facts": [
+    "Post-traumatic osteomyelitis is commonly associated with open fractures, penetrating wounds, or postoperative contamination.",
+    "Prevention includes copious irrigation, aggressive debridement, stabilization, and timely perioperative antibiotics.",
+    "Early infections may allow for debridement and implant retention if the construct is stable, but delayed infections often require hardware removal.",
+    "Therapy duration is typically 6-12 weeks, extending longer if necrotic bone remains or implants cannot be removed.",
+    "Retained hardware increases relapse risk, and suppressive oral therapy may be considered in select cases."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Osteomyelitis",
+    "Postoperative Complications",
+    "Surgical Wound Infection",
+    "Debridement",
+    "Anti-Bacterial Agents",
+    "Orthopedic Procedures",
+    "Hardware-Associated Infections",
+    "Pseudomonas Infections"
+  ],
+  "tags_custom": [
+    "Post-traumatic infections",
+    "Retained hardware management",
+    "Pediatric bone infections",
+    "Surgical source control",
+    "Infection prevention"
+  ],
+  "reference_quote": "Prevention remains fundamental: copious irrigation, aggressive debridement, stabilization, and timely perioperative antibiotics reduce later infection burden more effectively than delayed prolonged treatment. (Indian Academy of Pediatrics Consensus Statement)",
+  "document_key_topics": [
+    "Post-traumatic osteomyelitis management",
+    "Hardware-associated infection strategies",
+    "Role of surgical debridement and antibiotics",
+    "Prevention and counseling in bone infections"
+  ],
+  "chunk_heading": "BONE INFECTIONS;SURGICAL SOURCE CONTROL AND IMPLANT ASSOCIATED INFECTIONS;POST TRAUMATIC AND RETAINED HARDWARE INFECTION MANAGEMENT;",
+  "topic": "BONE INFECTIONS",
+  "subtopic": "SURGICAL SOURCE CONTROL AND IMPLANT ASSOCIATED INFECTIONS",
+  "sub_subtopic": "POST TRAUMATIC AND RETAINED HARDWARE INFECTION MANAGEMENT",
+  "heading_path": "BONE INFECTIONS;SURGICAL SOURCE CONTROL AND IMPLANT ASSOCIATED INFECTIONS;POST TRAUMATIC AND RETAINED HARDWARE INFECTION MANAGEMENT;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1{3"
+}

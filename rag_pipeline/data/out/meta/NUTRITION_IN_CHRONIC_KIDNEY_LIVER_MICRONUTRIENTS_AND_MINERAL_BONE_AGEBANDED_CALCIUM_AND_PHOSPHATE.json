@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section outlines age-banded calcium and phosphate SDI targets for pediatric CKD, emphasizing proper mineralization, avoiding complications, and stage-based lab monitoring frequencies for CKD-MBD management.",
+  "learning_objectives": [
+    "Understand age-specific calcium and phosphate SDI targets for pediatric CKD patients.",
+    "Learn how to adjust dietary and medication-based calcium and phosphate intake to prevent complications like vascular calcification or adynamic bone disease.",
+    "Identify appropriate CKD stage-based monitoring frequencies for calcium, phosphate, and PTH levels.",
+    "Recognize the importance of using 'height age' for children with short stature in dietary planning."
+  ],
+  "key_facts": [
+    "Age-specific calcium SDI targets: 450\u2013700 mg/day (1\u20133 years), 700\u20131000 mg/day (4\u201310 years), 900\u20131300 mg/day (11\u201317 years).",
+    "Age-specific phosphate SDI targets: 250\u2013500 mg/day (1\u20133 years), 440\u2013800 mg/day (4\u201310 years), 640\u20131250 mg/day (11\u201317 years).",
+    "Total calcium intake (diet + medications) should not exceed twice the SDI except under special circumstances with monitoring.",
+    "CKD G2\u2013G3: monitor calcium/phosphate every 6\u201312 months; CKD G4: every 3\u20136 months; CKD G5/dialysis: every 1\u20133 months.",
+    "Persistent hyperphosphatemia or hyperparathyroidism is managed by dietary phosphate restriction and phosphate binders, not by removing core protein foods.",
+    "PTH monitoring is less frequent in early CKD stages but increases to every 3\u20136 months in advanced CKD or dialysis."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Chronic Kidney Disease-Mineral and Bone Disorder",
+    "Calcium",
+    "Phosphates",
+    "Dietary Management",
+    "Pediatric Nephrology",
+    "Parathyroid Hormone",
+    "Nutritional Requirements",
+    "Renal Dialysis"
+  ],
+  "tags_custom": [
+    "Pediatric CKD nutrition",
+    "Calcium and phosphate targets",
+    "CKD-MBD monitoring",
+    "Dietary guidelines"
+  ],
+  "reference_quote": "The dietary management of calcium and phosphate in children with CKD stages 2\u20135 and on dialysis\u2014clinical practice recommendations from the Pediatric R...",
+  "document_key_topics": [
+    "Age-banded calcium and phosphate SDI targets in pediatric CKD",
+    "Stage-based CKD-MBD lab monitoring frequencies",
+    "Dietary and medication-based calcium and phosphate management",
+    "Management of hyperphosphatemia and hyperparathyroidism in CKD"
+  ],
+  "chunk_heading": "NUTRITION IN CHRONIC KIDNEY & LIVER DISEASE;MICRONUTRIENTS AND MINERAL BONE DISORDER IN PEDIATRIC CKD;AGE-BANDED CALCIUM AND PHOSPHATE SDI TARGETS WITH CKD-MBD LAB MONITORING FREQUENCY;",
+  "topic": "NUTRITION IN CHRONIC KIDNEY & LIVER DISEASE",
+  "subtopic": "MICRONUTRIENTS AND MINERAL BONE DISORDER IN PEDIATRIC CKD",
+  "sub_subtopic": "AGE-BANDED CALCIUM AND PHOSPHATE SDI TARGETS WITH CKD-MBD LAB MONITORING FREQUENCY",
+  "heading_path": "NUTRITION IN CHRONIC KIDNEY & LIVER DISEASE;MICRONUTRIENTS AND MINERAL BONE DISORDER IN PEDIATRIC CKD;AGE-BANDED CALCIUM AND PHOSPHATE SDI TARGETS WITH CKD-MBD LAB MONITORING FREQUENCY;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "3x2"
+}

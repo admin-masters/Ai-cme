@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Defines a minimum nutrition monitoring dataset with timing by phenotype for children with chronic kidney and liver disease, emphasizing structured follow-up and specific metrics for intervention thresholds.",
+  "learning_objectives": [
+    "Understand the importance of structured nutrition monitoring datasets for chronic kidney and liver disease.",
+    "Learn the recommended monitoring cadence for infants, high-risk children, and advanced CKD/CLD cases.",
+    "Identify key metrics such as MUAC, TSF, fluid-confounded weight, and lab trends for decision-making.",
+    "Recognize the role of phenotype-specific monitoring in cholestasis and supplementation changes."
+  ],
+  "key_facts": [
+    "Monitor weight, height velocity, MUAC, and TSF every visit or every 2\u20134 weeks for infants/high-risk children.",
+    "Advanced CKD/unstable disease: check sodium, potassium, bicarbonate, urea/creatinine, phosphate, calcium, and PTH every 1\u20133 months.",
+    "CLD-specific labs: bilirubin, INR, and cautious interpretation of albumin as a nutrition marker.",
+    "Fat-soluble vitamins and trace elements should be monitored every 3\u20136 months in cholestasis or supplementation changes.",
+    "Stable earlier-stage disease: reassess diet quality, physical activity, and tube feeding needs every 6\u201312 months."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Chronic Kidney Disease",
+    "Chronic Liver Disease",
+    "Nutrition Assessment",
+    "Growth Monitoring",
+    "Phenotype",
+    "Micronutrients",
+    "Malnutrition",
+    "Dietary Supplements"
+  ],
+  "tags_custom": [
+    "pediatric nutrition",
+    "monitoring protocols",
+    "fluid-confounded weight",
+    "phenotype-specific care",
+    "growth metrics"
+  ],
+  "reference_quote": "Always document whether weight is fluid-confounded; if it is, prioritize height velocity and MUAC/TSF as response markers.",
+  "document_key_topics": [
+    "Minimum nutrition monitoring dataset for CKD and CLD",
+    "Timing and frequency of monitoring by phenotype",
+    "Key metrics for growth and nutrition assessment",
+    "Phenotype-specific lab trends and supplementation monitoring"
+  ],
+  "chunk_heading": "NUTRITION IN CHRONIC KIDNEY & LIVER DISEASE;MONITORING CADENCE AND ESCALATION THRESHOLDS FOR INTERVENTION;MINIMUM NUTRITION MONITORING DATASET WITH TIMING BY PHENOTYPE;",
+  "topic": "NUTRITION IN CHRONIC KIDNEY & LIVER DISEASE",
+  "subtopic": "MONITORING CADENCE AND ESCALATION THRESHOLDS FOR INTERVENTION",
+  "sub_subtopic": "MINIMUM NUTRITION MONITORING DATASET WITH TIMING BY PHENOTYPE",
+  "heading_path": "NUTRITION IN CHRONIC KIDNEY & LIVER DISEASE;MONITORING CADENCE AND ESCALATION THRESHOLDS FOR INTERVENTION;MINIMUM NUTRITION MONITORING DATASET WITH TIMING BY PHENOTYPE;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "2h2"
+}

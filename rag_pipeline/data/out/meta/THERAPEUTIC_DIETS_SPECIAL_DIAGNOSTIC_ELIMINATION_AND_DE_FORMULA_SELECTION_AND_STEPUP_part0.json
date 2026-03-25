@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Guidance on formula selection and escalation for non-breastfed infants with suspected cow's milk protein allergy (CMPA), emphasizing diagnostic elimination, re-challenge plans, and tailored interventions based on severity.",
+  "learning_objectives": [
+    "Understand the role of extensively hydrolyzed formula (eHF) as the first-line option for CMPA in non-anaphylactic cases.",
+    "Identify criteria for using amino acid formula (AAF) in severe CMPA presentations.",
+    "Learn the importance of time-limited diagnostic elimination and reintroduction strategies in CMPA management.",
+    "Evaluate alternative formula options, including hydrolyzed rice and soy formulas, based on availability and tolerance."
+  ],
+  "key_facts": [
+    "Extensively hydrolyzed formula (eHF) is the first-line choice for most non-anaphylactic CMPA cases due to cost-effectiveness and adequate nutrition.",
+    "Amino acid formula (AAF) is recommended for severe CMPA cases, including anaphylaxis, severe enteropathy, or growth compromise.",
+    "Diagnostic elimination should be time-limited, typically 2\u20134 weeks, followed by planned reintroduction to confirm CMPA diagnosis.",
+    "Hydrolyzed rice formula can be an alternative to cow milk-based eHF in cases of intolerance.",
+    "Soy formula is generally reserved for infants older than 6 months and should be used cautiously due to potential cross-reactivity in CMPA."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Cow's Milk Protein Allergy",
+    "Hypoallergenic Formula",
+    "Amino Acid Formula",
+    "Soy Formula",
+    "Hydrolyzed Formula",
+    "Diagnostic Elimination Diet",
+    "Food Hypersensitivity",
+    "Infant Nutrition"
+  ],
+  "tags_custom": [
+    "CMPA management",
+    "formula selection",
+    "non-breastfed infants",
+    "dietary intervention",
+    "diagnostic strategy"
+  ],
+  "reference_quote": "Extensively hydrolyzed formula (eHF) is the usual first-line option for most non-anaphylactic presentations; it provides adequate nutrition with lower cost than amino acid formulas and is recommended in Indian and international guidance.",
+  "document_key_topics": [
+    "Formula selection for CMPA in non-breastfed infants",
+    "Diagnostic elimination and reintroduction strategies",
+    "Criteria for using eHF and AAF in CMPA management",
+    "Alternative formula options for CMPA"
+  ],
+  "chunk_heading": "THERAPEUTIC DIETS & SPECIAL INTERVENTIONS;DIAGNOSTIC ELIMINATION AND DE- LABELING IN SUSPECTED COW'S MILK PROTEIN ALLERGY;FORMULA SELECTION AND STEP-UP ESCALATION IN NON-BREASTFED INFANTS;",
+  "topic": "THERAPEUTIC DIETS & SPECIAL INTERVENTIONS",
+  "subtopic": "DIAGNOSTIC ELIMINATION AND DE- LABELING IN SUSPECTED COW'S MILK PROTEIN ALLERGY",
+  "sub_subtopic": "FORMULA SELECTION AND STEP-UP ESCALATION IN NON-BREASTFED INFANTS",
+  "heading_path": "THERAPEUTIC DIETS & SPECIAL INTERVENTIONS;DIAGNOSTIC ELIMINATION AND DE- LABELING IN SUSPECTED COW'S MILK PROTEIN ALLERGY;FORMULA SELECTION AND STEP-UP ESCALATION IN NON-BREASTFED INFANTS;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1s1.1"
+}

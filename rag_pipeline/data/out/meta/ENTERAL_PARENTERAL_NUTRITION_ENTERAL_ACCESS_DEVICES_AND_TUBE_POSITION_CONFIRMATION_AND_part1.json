@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section focuses on confirming enteral tube position and implementing an aspiration prevention bundle, referencing guidelines and tools for safe enteral feeding practices.",
+  "learning_objectives": [
+    "Understand the importance of accurate enteral tube position confirmation to prevent complications.",
+    "Learn the components of an aspiration prevention bundle for enteral feeding safety.",
+    "Familiarize with evidence-based guidelines such as NICE CG32 and ASPEN NOVEL for tube placement verification.",
+    "Identify key policies and tools for safe enteral feeding in adult and pediatric patients."
+  ],
+  "key_facts": [
+    "NICE CG32 emphasizes the use of pH testing and radiographic confirmation for tube placement verification.",
+    "The ASPEN NOVEL lanyard card provides a quick reference for nasogastric tube placement verification in adults.",
+    "NSW Health policy outlines specific protocols for enteral feeding tube administration and safety.",
+    "Pediatric guidelines (ASPEN/SCCM 2017) highlight the importance of tailored nutrition support in critically ill children.",
+    "Aspiration prevention bundles often include head-of-bed elevation (30-45 degrees) and regular monitoring of gastric residual volumes."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Enteral Nutrition",
+    "Parenteral Nutrition",
+    "Aspiration Pneumonia",
+    "Nasogastric Intubation",
+    "Feeding Tubes",
+    "Nutrition Support",
+    "Critical Care",
+    "Pediatrics"
+  ],
+  "tags_custom": [
+    "Tube Positioning",
+    "Aspiration Prevention",
+    "Feeding Safety",
+    "Clinical Guidelines",
+    "Nutrition Therapy"
+  ],
+  "reference_quote": "\"NICE CG32 recommends pH testing and radiographic confirmation as standard methods for verifying tube placement.\"",
+  "document_key_topics": [
+    "Enteral tube position confirmation",
+    "Aspiration prevention strategies",
+    "Evidence-based guidelines for feeding safety",
+    "Pediatric and adult nutrition support"
+  ],
+  "chunk_heading": "ENTERAL & PARENTERAL NUTRITION;ENTERAL ACCESS DEVICES AND ASPIRATION PREVENTION;TUBE POSITION CONFIRMATION AND ASPIRATION PREVENTION BUNDLE;",
+  "topic": "ENTERAL & PARENTERAL NUTRITION",
+  "subtopic": "ENTERAL ACCESS DEVICES AND ASPIRATION PREVENTION",
+  "sub_subtopic": "TUBE POSITION CONFIRMATION AND ASPIRATION PREVENTION BUNDLE",
+  "heading_path": "ENTERAL & PARENTERAL NUTRITION;ENTERAL ACCESS DEVICES AND ASPIRATION PREVENTION;TUBE POSITION CONFIRMATION AND ASPIRATION PREVENTION BUNDLE;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2p2.2"
+}

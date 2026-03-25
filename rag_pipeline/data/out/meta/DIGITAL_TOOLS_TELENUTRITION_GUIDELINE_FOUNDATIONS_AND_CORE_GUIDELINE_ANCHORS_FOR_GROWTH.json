@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section outlines tele-nutrition guidelines in India, focusing on growth standards, malnutrition thresholds, and supplementation protocols, referencing WHO and IAP growth charts, and MoHFW operational guidance for SAM management and micronutrient schedules.",
+  "learning_objectives": [
+    "Understand the role of WHO and IAP growth charts in tele-nutrition for Indian children.",
+    "Identify malnutrition thresholds and criteria for moderate and severe acute malnutrition (SAM).",
+    "Learn the age-specific micronutrient supplementation and prophylaxis schedules in India.",
+    "Apply MoHFW operational guidelines for SAM management in tele-nutrition services."
+  ],
+  "key_facts": [
+    "WHO child growth standards are used for children aged 0\u201360 months, with preterm-specific tools for preterm infants.",
+    "IAP 2015 growth charts are recommended for Indian children aged 5\u201318 years.",
+    "Moderate acute malnutrition (MAM) is defined as weight-for-height between -3 and -2 z-scores and/or MUAC \u2265115 mm and <125 mm for children aged 6\u201359 months.",
+    "Severe acute malnutrition (SAM) includes MUAC <115 mm, very low weight-for-height, or bilateral pitting oedema.",
+    "Vitamin A prophylaxis is scheduled for 9 doses between 9 months and 5 years, as per NHM guidelines.",
+    "National Deworming Day recommends albendazole for ages 1\u201319 years, with a caution to avoid deworming when sick."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Telemedicine",
+    "Nutrition Assessment",
+    "Child Growth",
+    "Malnutrition",
+    "Micronutrients",
+    "Iron-Deficiency Anemia",
+    "Vitamin A Deficiency",
+    "Deworming"
+  ],
+  "tags_custom": [
+    "Tele-nutrition guidelines",
+    "Child malnutrition",
+    "Growth monitoring",
+    "Indian health policies"
+  ],
+  "reference_quote": "WHO child growth standards support assessment from 0\u201360 months, and preterm tools should be used for preterm infants until transition to term standards.",
+  "document_key_topics": [
+    "Growth monitoring and standards",
+    "Malnutrition thresholds and management",
+    "Micronutrient supplementation schedules",
+    "Tele-nutrition regulatory guidance in India"
+  ],
+  "chunk_heading": "DIGITAL TOOLS & TELE-NUTRITION;GUIDELINE FOUNDATIONS AND REGULATORY SCOPE FOR TELE-NUTRITION IN INDIA;CORE GUIDELINE ANCHORS FOR GROWTH, MALNUTRITION, AND SUPPLEMENTATION;",
+  "topic": "DIGITAL TOOLS & TELE-NUTRITION",
+  "subtopic": "GUIDELINE FOUNDATIONS AND REGULATORY SCOPE FOR TELE-NUTRITION IN INDIA",
+  "sub_subtopic": "CORE GUIDELINE ANCHORS FOR GROWTH, MALNUTRITION, AND SUPPLEMENTATION",
+  "heading_path": "DIGITAL TOOLS & TELE-NUTRITION;GUIDELINE FOUNDATIONS AND REGULATORY SCOPE FOR TELE-NUTRITION IN INDIA;CORE GUIDELINE ANCHORS FOR GROWTH, MALNUTRITION, AND SUPPLEMENTATION;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "1h7"
+}

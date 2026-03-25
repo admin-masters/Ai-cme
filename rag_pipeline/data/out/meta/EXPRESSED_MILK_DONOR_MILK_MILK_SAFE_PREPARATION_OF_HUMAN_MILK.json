@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "Guidelines for safe preparation of human milk fortifiers (HMF) and osmolality management to ensure nutritional safety and minimize contamination risks in expressed and donor milk handling.",
+  "learning_objectives": [
+    "Understand the importance of sterile preparation and handling of human milk fortifiers (HMF).",
+    "Learn strategies to manage osmolality in fortified human milk to reduce gastrointestinal risks.",
+    "Identify time and temperature guidelines for safe storage and use of fortified milk.",
+    "Recognize contamination risks and mitigation strategies in milk preparation and feeding."
+  ],
+  "key_facts": [
+    "Powdered HMF products are not sterile and should be prepared in a clean area with proper hygiene practices.",
+    "Fortified milk should be refrigerated promptly and used within 24 hours; discard if held at room temperature beyond unit limits.",
+    "Continuous tube feeds should have a hang time limit of 4 hours, with syringes and tubing changed on schedule.",
+    "Fortified feeds should ideally remain below 450 mOsm/kg to minimize gastrointestinal injury risk.",
+    "Osmolality can increase over time after mixing, especially with multiple modulars like protein and electrolytes.",
+    "Sterile liquid fortifiers reduce contamination risk but may be cost-prohibitive in certain regions like India."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Human Milk",
+    "Milk Banks",
+    "Infant Nutrition",
+    "Milk Fortifiers",
+    "Osmolality",
+    "Contamination Control",
+    "Enteral Nutrition",
+    "Neonatal Care"
+  ],
+  "tags_custom": [
+    "fortified milk safety",
+    "preterm infant nutrition",
+    "milk preparation guidelines",
+    "contamination prevention",
+    "osmolality management"
+  ],
+  "reference_quote": "Fortification of human milk for preterm infants: update and recommendations of the European Milk Bank Association Working Group \u2014 https://pmc.ncbi.nlm...",
+  "document_key_topics": [
+    "Safe preparation of human milk fortifiers",
+    "Osmolality management in fortified milk",
+    "Contamination prevention in milk handling",
+    "Storage and feeding guidelines for fortified milk"
+  ],
+  "chunk_heading": "EXPRESSED MILK, DONOR MILK & MILK BANKING;SAFE PREPARATION OF HUMAN MILK FORTIFIERS AND OSMOLALITY MANAGEMENT;",
+  "topic": "EXPRESSED MILK, DONOR MILK & MILK BANKING",
+  "subtopic": "SAFE PREPARATION OF HUMAN MILK FORTIFIERS AND OSMOLALITY MANAGEMENT",
+  "sub_subtopic": null,
+  "heading_path": "EXPRESSED MILK, DONOR MILK & MILK BANKING;SAFE PREPARATION OF HUMAN MILK FORTIFIERS AND OSMOLALITY MANAGEMENT;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "2v"
+}

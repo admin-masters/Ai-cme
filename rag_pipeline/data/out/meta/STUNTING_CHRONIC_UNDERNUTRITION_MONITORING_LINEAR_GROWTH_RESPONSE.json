@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section discusses monitoring linear growth in children and adolescents, focusing on early indicators, anthropometric response timelines, and criteria for escalation in non-responders to nutritional interventions.",
+  "learning_objectives": [
+    "Understand the importance of monitoring short-interval process indicators for linear growth response.",
+    "Learn how to assess growth velocity and interpret anthropometric data over 8\u201312 weeks.",
+    "Identify criteria for defining non-response and when to escalate evaluation or refer cases.",
+    "Recognize red flags such as disproportion, pubertal arrest, or systemic symptoms in growth monitoring."
+  ],
+  "key_facts": [
+    "Short-interval process indicators include meal structure, protein intake, IFA supplementation, deworming, and morbidity reduction (tracked over 2\u20134 weeks).",
+    "Height trajectory changes require 8\u201312 weeks; typical mid-childhood growth velocity is 5\u20136 cm/year.",
+    "Non-response is defined as no improvement in growth velocity or continued downward height Z score after 8\u201312 weeks of adherence and reduced morbidity.",
+    "Red flags for escalation include height < -3 SD, pubertal arrest, chronic diarrhea, organomegaly, or persistent systemic symptoms.",
+    "Delayed puberty can mimic growth failure in adolescents, requiring careful interpretation of growth velocity."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Stunting",
+    "Growth Disorders",
+    "Child Nutrition",
+    "Anthropometry",
+    "Puberty",
+    "Malnutrition",
+    "Growth Velocity",
+    "Chronic Disease"
+  ],
+  "tags_custom": [
+    "linear growth monitoring",
+    "non-responder escalation",
+    "nutritional interventions",
+    "growth velocity assessment",
+    "red flag identification"
+  ],
+  "reference_quote": "In mid-childhood, a typical reference range is about 5\u20136 cm/year; persistent velocity clearly below this, especially with continued centile crossing, should not be labeled 'just stunting.'",
+  "document_key_topics": [
+    "Monitoring linear growth response in children and adolescents",
+    "Defining non-response and criteria for escalation",
+    "Anthropometric assessment and growth velocity interpretation",
+    "Red flags and referral guidelines in growth monitoring"
+  ],
+  "chunk_heading": "STUNTING, CHRONIC UNDERNUTRITION & DETERMINANTS;MONITORING LINEAR GROWTH RESPONSE AND ESCALATION IN NON-RESPONDERS;",
+  "topic": "STUNTING, CHRONIC UNDERNUTRITION & DETERMINANTS",
+  "subtopic": "MONITORING LINEAR GROWTH RESPONSE AND ESCALATION IN NON-RESPONDERS",
+  "sub_subtopic": null,
+  "heading_path": "STUNTING, CHRONIC UNDERNUTRITION & DETERMINANTS;MONITORING LINEAR GROWTH RESPONSE AND ESCALATION IN NON-RESPONDERS;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "7\u0080"
+}

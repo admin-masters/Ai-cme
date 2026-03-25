@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This template standardizes elimination diet prescriptions for food allergy management in clinical settings, focusing on documentation, monitoring, and safety protocols for children with IgE and non-IgE mediated allergies.",
+  "learning_objectives": [
+    "Understand the structure and components of an elimination diet prescription template for food allergy management.",
+    "Learn how to document suspected allergy phenotypes and triggers, including IgE and non-IgE mediated reactions.",
+    "Identify objective endpoints and stop rules for elimination diets to ensure accurate diagnosis and patient safety.",
+    "Recognize the importance of nutritional replacement plans and dietitian referrals in multi-food elimination scenarios."
+  ],
+  "key_facts": [
+    "Elimination diet duration varies: 72 hours for FPIAP, 2\u20136 weeks for non-IgE GI elimination, and 8\u201312 weeks for EoE induction.",
+    "Objective endpoints include stool blood, vomiting frequency, weight gain velocity, sleep, and school attendance.",
+    "Stop rules recommend discontinuing elimination diets if no improvement is observed by the planned stop date.",
+    "Safety plans include IM epinephrine dosing and emergency care access for anaphylaxis management.",
+    "Dietitian referral triggers include avoidance of more than one major food group, faltering growth, food refusal, or caregiver anxiety."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Food Hypersensitivity",
+    "Elimination Diet",
+    "IgE-mediated Allergy",
+    "Non-IgE-mediated Allergy",
+    "Eosinophilic Esophagitis",
+    "Nutritional Monitoring",
+    "Anaphylaxis",
+    "Diet Therapy"
+  ],
+  "tags_custom": [
+    "pediatric food allergy",
+    "diet prescription template",
+    "nutritional safety",
+    "clinical documentation",
+    "multi-food elimination"
+  ],
+  "reference_quote": "WAO DRACMA guideline update emphasizes nutritional management strategies for cow\u2019s milk allergy, including elimination diets and safe substitutes. (Reference 2)",
+  "document_key_topics": [
+    "Elimination diet prescription structure",
+    "Monitoring and endpoints for food allergy management",
+    "Safety protocols for anaphylaxis and emergency care",
+    "Nutritional replacement and dietitian referral criteria"
+  ],
+  "chunk_heading": "FOOD ALLERGY & THERAPEUTIC ELIMINATION DIETS;DOCUMENTATION TEMPLATES FOR ELIMINATION AND REINTRODUCTION;ELIMINATION DIET PRESCRIPTION TEMPLATE FOR CLINIC USE;",
+  "topic": "FOOD ALLERGY & THERAPEUTIC ELIMINATION DIETS",
+  "subtopic": "DOCUMENTATION TEMPLATES FOR ELIMINATION AND REINTRODUCTION",
+  "sub_subtopic": "ELIMINATION DIET PRESCRIPTION TEMPLATE FOR CLINIC USE",
+  "heading_path": "FOOD ALLERGY & THERAPEUTIC ELIMINATION DIETS;DOCUMENTATION TEMPLATES FOR ELIMINATION AND REINTRODUCTION;ELIMINATION DIET PRESCRIPTION TEMPLATE FOR CLINIC USE;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u00a41"
+}

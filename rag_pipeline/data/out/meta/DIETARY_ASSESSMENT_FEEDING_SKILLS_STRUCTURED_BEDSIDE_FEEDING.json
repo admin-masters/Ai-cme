@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "Structured bedside feeding evaluation integrates dietary history with observable feeding skills, focusing on environment, oral-peripheral screening, and real-time feeding observation to assess appetite, skill, safety, and caregiver strategies within 10\u201315 minutes.",
+  "learning_objectives": [
+    "Understand the workflow of a structured bedside feeding evaluation for pediatric patients.",
+    "Identify key factors influencing feeding performance, including environment, posture, and oral-peripheral function.",
+    "Learn to document feeding observations using IDDSI texture levels and assess readiness, pacing, and airway safety.",
+    "Recognize thresholds for referral to specialists or instrumental swallow testing."
+  ],
+  "key_facts": [
+    "Structured bedside feeding evaluations can be completed in 10\u201315 minutes in a clinical setting.",
+    "Pre-feed review includes growth patterns, prematurity, neurologic history, respiratory symptoms, and reflux symptoms.",
+    "Feeding environment factors such as seating, distractions, and caregiver involvement significantly impact intake.",
+    "Observation includes readiness, bite size, chewing, suck-swallow-breathe coordination, and signs of airway compromise (e.g., cough, wet voice).",
+    "Immediate modifications include seating support, slower pacing, smaller bites, and predictable mealtime routines.",
+    "IDDSI texture levels are recommended for standardized communication across teams."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Feeding Behavior",
+    "Pediatrics",
+    "Dysphagia",
+    "Dietary Assessment",
+    "Swallowing Disorders",
+    "Caregivers",
+    "Posture",
+    "Respiratory Function Tests"
+  ],
+  "tags_custom": [
+    "bedside feeding evaluation",
+    "pediatric feeding skills",
+    "IDDSI framework",
+    "caregiver strategies",
+    "feeding environment"
+  ],
+  "reference_quote": "Development of eating skills in infants and toddlers from a neuropediatric perspective \u2014 https://www.asha.org/practice-portal/clinical-topics/pediatric-feeding-and-swallowing/",
+  "document_key_topics": [
+    "Structured bedside feeding evaluation workflow",
+    "Pediatric feeding and swallowing assessment",
+    "Environmental and caregiver factors in feeding",
+    "IDDSI framework for texture standardization"
+  ],
+  "chunk_heading": "DIETARY ASSESSMENT & FEEDING SKILLS EVALUATION;STRUCTURED BEDSIDE FEEDING EVALUATION WORKFLOW;",
+  "topic": "DIETARY ASSESSMENT & FEEDING SKILLS EVALUATION",
+  "subtopic": "STRUCTURED BEDSIDE FEEDING EVALUATION WORKFLOW",
+  "sub_subtopic": null,
+  "heading_path": "DIETARY ASSESSMENT & FEEDING SKILLS EVALUATION;STRUCTURED BEDSIDE FEEDING EVALUATION WORKFLOW;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "1t"
+}

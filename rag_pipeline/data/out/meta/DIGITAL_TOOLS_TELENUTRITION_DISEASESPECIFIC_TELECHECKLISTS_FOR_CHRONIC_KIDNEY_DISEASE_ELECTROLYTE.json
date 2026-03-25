@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "This checklist-driven tele-nutrition guide for chronic kidney disease (CKD) focuses on managing electrolyte risks and diet safety, emphasizing individualized advice based on lab trends, symptoms, and medical context.",
+  "learning_objectives": [
+    "Understand the importance of individualized dietary advice for CKD patients based on lab results and clinical context.",
+    "Identify high-potassium food sources and cultural dietary staples that may require modification in CKD.",
+    "Recognize symptoms and triggers of hyperkalemia or electrolyte instability requiring urgent medical evaluation.",
+    "Apply a decision algorithm to provide interim dietary guidance while arranging updated lab tests."
+  ],
+  "key_facts": [
+    "Electrolyte disturbances in CKD can be life-threatening, requiring individualized dietary restrictions.",
+    "High-potassium foods include banana, coconut water, certain lentils, and tomato-based gravies.",
+    "Symptoms like weakness, palpitations, paresthesias, and reduced urine output may indicate hyperkalemia.",
+    "Urgent medical review is required if labs are overdue and intake, hydration, or medications have changed.",
+    "Interim guidance includes avoiding very high-potassium 'bolus' items and salt substitutes until labs are updated.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Chronic Kidney Disease",
+    "Electrolyte Imbalance",
+    "Hyperkalemia",
+    "Dietary Therapy",
+    "Telemedicine",
+    "Nutrition Assessment",
+    "Potassium",
+    "Patient Safety"
+  ],
+  "tags_custom": [
+    "CKD tele-nutrition",
+    "electrolyte management",
+    "diet safety",
+    "pediatric CKD"
+  ],
+  "reference_quote": "\u2018Potassium in your CKD diet\u2019 emphasizes the need for individualized dietary potassium management to prevent hyperkalemia (Source: KDOQI Clinical Practice Guideline for Nutrition in CKD: 2020 Update).",
+  "document_key_topics": [
+    "Tele-nutrition for CKD",
+    "Electrolyte risk management",
+    "Dietary safety in chronic disease"
+  ],
+  "chunk_heading": "DIGITAL TOOLS & TELE-NUTRITION;DISEASE-SPECIFIC TELE-CHECKLISTS FOR CHRONIC DISEASE AND NEURODISABILITY;CHRONIC KIDNEY DISEASE ELECTROLYTE RISK AND DIET SAFETY TELE-CHECKLIST;",
+  "topic": "DIGITAL TOOLS & TELE-NUTRITION",
+  "subtopic": "DISEASE-SPECIFIC TELE-CHECKLISTS FOR CHRONIC DISEASE AND NEURODISABILITY",
+  "sub_subtopic": "CHRONIC KIDNEY DISEASE ELECTROLYTE RISK AND DIET SAFETY TELE-CHECKLIST",
+  "heading_path": "DIGITAL TOOLS & TELE-NUTRITION;DISEASE-SPECIFIC TELE-CHECKLISTS FOR CHRONIC DISEASE AND NEURODISABILITY;CHRONIC KIDNEY DISEASE ELECTROLYTE RISK AND DIET SAFETY TELE-CHECKLIST;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1\u008d3"
+}

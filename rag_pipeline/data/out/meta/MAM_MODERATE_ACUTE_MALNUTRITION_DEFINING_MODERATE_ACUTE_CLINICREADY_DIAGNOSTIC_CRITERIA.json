@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "Defines moderate acute malnutrition (MAM) in Indian clinics using WHO criteria, emphasizing diagnostic accuracy, misclassification pitfalls, and outpatient management for uncomplicated cases.",
+  "learning_objectives": [
+    "Understand WHO criteria for diagnosing moderate acute malnutrition (MAM) in children aged 6\u201359 months.",
+    "Identify key diagnostic metrics like MUAC and weight-for-height z-scores for MAM in Indian clinics.",
+    "Learn to differentiate MAM from underweight and wasting with complications.",
+    "Apply practical bedside screening methods for MAM during sick-child visits."
+  ],
+  "key_facts": [
+    "WHO defines MAM as weight-for-height/length z-scores between -2 and -3 and/or MUAC 115\u2013124 mm, with no bilateral pitting oedema.",
+    "Indian clinics use a safety-first definition: moderate wasting by either metric, clinically stable, with appetite, and no acute danger signs.",
+    "Underweight (low weight-for-age) should not be equated with MAM, as it may indicate chronic stunting.",
+    "Persistent pitting oedema is checked by pressing both feet for several seconds.",
+    "Indian manuals often describe MAM as 70\u201380% of median weight-for-height or MUAC 115\u2013125 mm, managed as outpatient cases."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Malnutrition",
+    "Wasting Syndrome",
+    "Child Nutrition Disorders",
+    "Anthropometry",
+    "Mid-Upper Arm Circumference",
+    "Nutritional Assessment",
+    "India",
+    "Outpatient Care"
+  ],
+  "tags_custom": [
+    "moderate acute malnutrition",
+    "diagnostic criteria",
+    "Indian clinics",
+    "misclassification pitfalls",
+    "supplementary feeding"
+  ],
+  "reference_quote": "WHO defines moderate wasting as weight-for-height/length z-scores between -2 and -3 and/or MUAC 115\u2013124 mm, with no bilateral pitting oedema. (Reference 1)",
+  "document_key_topics": [
+    "Moderate acute malnutrition diagnostic criteria",
+    "Misclassification pitfalls in malnutrition diagnosis",
+    "Outpatient management of uncomplicated MAM cases"
+  ],
+  "chunk_heading": "(MAM) MODERATE ACUTE MALNUTRITION AND SUPPLEMENTARY FEEDING;DEFINING MODERATE ACUTE MALNUTRITION IN INDIAN CLINICS;CLINIC-READY DIAGNOSTIC CRITERIA AND MISCLASSIFICATION PITFALLS;",
+  "topic": "(MAM) MODERATE ACUTE MALNUTRITION AND SUPPLEMENTARY FEEDING",
+  "subtopic": "DEFINING MODERATE ACUTE MALNUTRITION IN INDIAN CLINICS",
+  "sub_subtopic": "CLINIC-READY DIAGNOSTIC CRITERIA AND MISCLASSIFICATION PITFALLS",
+  "heading_path": "(MAM) MODERATE ACUTE MALNUTRITION AND SUPPLEMENTARY FEEDING;DEFINING MODERATE ACUTE MALNUTRITION IN INDIAN CLINICS;CLINIC-READY DIAGNOSTIC CRITERIA AND MISCLASSIFICATION PITFALLS;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1b1"
+}

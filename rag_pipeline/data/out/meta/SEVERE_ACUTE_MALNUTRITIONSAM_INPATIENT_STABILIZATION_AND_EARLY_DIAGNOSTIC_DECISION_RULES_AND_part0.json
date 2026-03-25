@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "Guidelines for diagnostic decision-making and resource-adapted test interpretation in inpatient stabilization of children with severe acute malnutrition (SAM). Emphasis on phased testing, syndromic management, and monitoring during rehydration and feed transitions.",
+  "learning_objectives": [
+    "Understand the phased approach to diagnostic testing in SAM management.",
+    "Identify core tests and their indications during inpatient stabilization of SAM.",
+    "Learn to interpret clinical signs and syndromic pathways when resources are limited.",
+    "Recognize the importance of monitoring vital trends during rehydration and feed transitions."
+  ],
+  "key_facts": [
+    "Normal or borderline test results do not exclude severe disease in SAM.",
+    "Core tests include bedside glucose, hemoglobin, electrolytes (potassium, phosphate), and infection screening (urinalysis, blood culture, chest radiograph).",
+    "Malaria testing is essential in endemic areas or when fever/hypothermia lacks a clear focus.",
+    "Rising respiratory rate or pulse during rehydration indicates overhydration and requires reassessment.",
+    "Dysentery requires empiric antibiotics without waiting for stool culture results.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Severe Acute Malnutrition",
+    "Diagnostic Techniques and Procedures",
+    "Electrolyte Imbalance",
+    "Sepsis",
+    "Rehydration Solutions",
+    "Malaria",
+    "Respiratory Distress Syndrome",
+    "Diarrhea"
+  ],
+  "tags_custom": [
+    "SAM diagnostics",
+    "resource-limited settings",
+    "syndromic management",
+    "inpatient monitoring",
+    "clinical decision-making"
+  ],
+  "reference_quote": "Testing is mainly for syndromic localization, antimicrobial narrowing, and detection of dangerous electrolyte shifts during fluids and feed transition.",
+  "document_key_topics": [
+    "Phased diagnostic testing in SAM",
+    "Syndromic management in resource-limited settings",
+    "Monitoring during rehydration and feed transitions",
+    "Core tests and their indications in SAM"
+  ],
+  "chunk_heading": "SEVERE ACUTE MALNUTRITION-(SAM) MANAGEMENT;INPATIENT STABILIZATION AND EARLY MONITORING;DIAGNOSTIC DECISION RULES AND RESOURCE-ADAPTED TEST  INTERPRETATION;",
+  "topic": "SEVERE ACUTE MALNUTRITION-(SAM) MANAGEMENT",
+  "subtopic": "INPATIENT STABILIZATION AND EARLY MONITORING",
+  "sub_subtopic": "DIAGNOSTIC DECISION RULES AND RESOURCE-ADAPTED TEST  INTERPRETATION",
+  "heading_path": "SEVERE ACUTE MALNUTRITION-(SAM) MANAGEMENT;INPATIENT STABILIZATION AND EARLY MONITORING;DIAGNOSTIC DECISION RULES AND RESOURCE-ADAPTED TEST  INTERPRETATION;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "3l2.1"
+}

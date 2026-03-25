@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "Structured tele-assessment of infant feeding and complementary feeding errors focuses on identifying technique errors, assessing hydration and growth, and correcting high-impact feeding practices through culturally feasible counseling and follow-ups.",
+  "learning_objectives": [
+    "Understand the core domains of structured tele-assessment for infant feeding, including neonatal history, feeding methods, and red flags.",
+    "Identify common complementary feeding errors in India and develop culturally feasible counseling strategies.",
+    "Apply decision algorithms to prioritize corrections and escalate cases with persistent growth issues or red flags."
+  ],
+  "key_facts": [
+    "Core domains include birth history, feeding method, frequency, latch, output, and red flags like dehydration or respiratory distress.",
+    "Common complementary feeding errors in India include late introduction, low energy density porridges, and micronutrient-poor diets.",
+    "Structured follow-ups are essential; escalate cases if growth does not improve after two follow-ups or if red flags emerge.",
+    "Video-based observation of feeding techniques can rapidly correct errors such as latch and positioning.",
+    "Safety requires avoiding 'feeding-only' framing when illness or dehydration is present.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Infant Nutrition",
+    "Breastfeeding",
+    "Complementary Feeding",
+    "Telemedicine",
+    "Growth Disorders",
+    "Feeding Behavior",
+    "Micronutrients",
+    "Counseling"
+  ],
+  "tags_custom": [
+    "tele-nutrition",
+    "feeding errors",
+    "infant growth",
+    "cultural counseling",
+    "structured assessment"
+  ],
+  "reference_quote": "Faltering growth: recognition and management (NICE NG75) emphasizes structured assessment and escalation for organic disease when growth does not improve after follow-ups.",
+  "document_key_topics": [
+    "Structured tele-assessment for infant feeding",
+    "Complementary feeding errors and counseling",
+    "Decision algorithms for feeding correction and escalation"
+  ],
+  "chunk_heading": "DIGITAL TOOLS & TELE-NUTRITION;TELE-COUNSELLING WORKFLOWS FOR INFANT FEEDING AND COMMON DIETARY PROBLEMS;STRUCTURED TELE-ASSESSMENT OF INFANT FEEDING AND COMPLEMENTARY FEEDING ERRORS;",
+  "topic": "DIGITAL TOOLS & TELE-NUTRITION",
+  "subtopic": "TELE-COUNSELLING WORKFLOWS FOR INFANT FEEDING AND COMMON DIETARY PROBLEMS",
+  "sub_subtopic": "STRUCTURED TELE-ASSESSMENT OF INFANT FEEDING AND COMPLEMENTARY FEEDING ERRORS",
+  "heading_path": "DIGITAL TOOLS & TELE-NUTRITION;TELE-COUNSELLING WORKFLOWS FOR INFANT FEEDING AND COMMON DIETARY PROBLEMS;STRUCTURED TELE-ASSESSMENT OF INFANT FEEDING AND COMPLEMENTARY FEEDING ERRORS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u00871"
+}

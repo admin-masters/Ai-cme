@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "This section focuses on anthropometry-based malnutrition classification and referral thresholds for infants and young children under 2 years, addressing clinical decision pathways for feeding difficulties and growth faltering using WHO and national guidelines.",
+  "learning_objectives": [
+    "Understand the anthropometric criteria for classifying malnutrition in children under 2 years.",
+    "Learn referral thresholds for severe acute malnutrition (SAM) and moderate acute malnutrition (MAM).",
+    "Explore clinical decision pathways for managing feeding difficulties and growth faltering.",
+    "Familiarize with WHO and national guidelines for malnutrition management."
+  ],
+  "key_facts": [
+    "Severe acute malnutrition (SAM) is defined by weight-for-height Z-score < -3 or visible severe wasting.",
+    "Moderate acute malnutrition (MAM) is classified by weight-for-height Z-score between -2 and -3.",
+    "WHO recommends immediate referral for children with SAM to specialized care facilities.",
+    "IMNCI guidelines emphasize early identification and management of malnutrition at community and facility levels.",
+    "Anthropometric tools like mid-upper arm circumference (MUAC) < 11.5 cm are critical for SAM diagnosis.",
+    "WHO child growth standards provide benchmarks for assessing growth faltering in children under 2 years."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Malnutrition",
+    "Anthropometry",
+    "Child Nutrition Disorders",
+    "Growth Disorders",
+    "Severe Acute Malnutrition",
+    "Feeding Behavior",
+    "Referral and Consultation",
+    "Infant Nutritional Physiological Phenomena"
+  ],
+  "tags_custom": [
+    "feeding difficulties",
+    "growth faltering",
+    "malnutrition thresholds",
+    "clinical pathways",
+    "referral criteria"
+  ],
+  "reference_quote": "WHO child growth standards provide a reliable framework for assessing malnutrition and growth faltering in children under 2 years. (Source: https://www.who.int/tools/child-growth)",
+  "document_key_topics": [
+    "Anthropometry-based malnutrition classification",
+    "Referral thresholds for SAM and MAM",
+    "Clinical decision pathways for feeding difficulties",
+    "Growth faltering in children under 2 years"
+  ],
+  "chunk_heading": "INFANT & YOUNG CHILD FEEDING UNDER 2 YEARS;CLINICAL DECISION PATHWAYS FOR  FEEDING DIFFICULTIES AND GROWTH FALTERING;ANTHROPOMETRY-BASED MALNUTRITION CLASSIFICATION AND REFERRAL THRESHOLDS;",
+  "topic": "INFANT & YOUNG CHILD FEEDING UNDER 2 YEARS",
+  "subtopic": "CLINICAL DECISION PATHWAYS FOR  FEEDING DIFFICULTIES AND GROWTH FALTERING",
+  "sub_subtopic": "ANTHROPOMETRY-BASED MALNUTRITION CLASSIFICATION AND REFERRAL THRESHOLDS",
+  "heading_path": "INFANT & YOUNG CHILD FEEDING UNDER 2 YEARS;CLINICAL DECISION PATHWAYS FOR  FEEDING DIFFICULTIES AND GROWTH FALTERING;ANTHROPOMETRY-BASED MALNUTRITION CLASSIFICATION AND REFERRAL THRESHOLDS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "4\u00861.2"
+}

@@ -1,0 +1,47 @@
+{
+  "chunk_summary": "This section discusses strain-specific probiotic trials for managing functional GI symptoms in infants and children, emphasizing evidence-based strains, dosage guidelines, and time-limited symptom management strategies.",
+  "learning_objectives": [
+    "Understand the importance of excluding red flags and confirming normal growth before initiating probiotic trials for functional GI symptoms.",
+    "Identify strain-specific probiotics and their recommended dosages for colic and functional abdominal pain disorders.",
+    "Learn how to implement time-limited probiotic trials with explicit stop rules and endpoints."
+  ],
+  "key_facts": [
+    "L. reuteri DSM 17938: Recommended dose is 1\u00d710^8 CFU/day for at least 21 days in breastfed infants with colic-like symptoms.",
+    "B. lactis BB-12: Suggested dose is 10^8 CFU/day for 21\u201328 days in breastfed infants with colic-like symptoms.",
+    "LGG: Often used at 10^9\u20133\u00d710^9 CFU twice daily for certain IBS phenotypes in older children, though trial results are inconsistent.",
+    "Probiotic trials should be framed as time-limited symptom management, not microbiome balancing.",
+    "Stop rules: For colic, discontinue if no reduction in crying by 2\u20133 weeks; for functional pain, stop if no improvement by 4 weeks or if red flags emerge."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Probiotics",
+    "Gastrointestinal Diseases",
+    "Infant Nutrition",
+    "Colic",
+    "Irritable Bowel Syndrome",
+    "Lactobacillus reuteri",
+    "Bifidobacterium lactis",
+    "Synbiotics"
+  ],
+  "tags_custom": [
+    "functional GI symptoms",
+    "strain-specific probiotics",
+    "pediatric colic management",
+    "time-limited trials",
+    "evidence-based prescribing"
+  ],
+  "reference_quote": "For functional gastrointestinal symptoms, the first decision is always to exclude red flags and confirm normal growth. (ESPGHAN position paper, 2023)",
+  "document_key_topics": [
+    "Strain-specific probiotics for colic and functional GI symptoms",
+    "Dosage guidelines for pediatric probiotic trials",
+    "Time-limited symptom management strategies"
+  ],
+  "chunk_heading": "RESEARCH & EMERGING CONCEPTS;STRAIN SPECIFIC PROBIOTIC AND SYNBIOTIC PRESCRIBING;FUNCTIONAL GI SYMPTOMS AND STRAIN SPECIFIC PROBIOTIC TRIALS;",
+  "topic": "RESEARCH & EMERGING CONCEPTS",
+  "subtopic": "STRAIN SPECIFIC PROBIOTIC AND SYNBIOTIC PRESCRIBING",
+  "sub_subtopic": "FUNCTIONAL GI SYMPTOMS AND STRAIN SPECIFIC PROBIOTIC TRIALS",
+  "heading_path": "RESEARCH & EMERGING CONCEPTS;STRAIN SPECIFIC PROBIOTIC AND SYNBIOTIC PRESCRIBING;FUNCTIONAL GI SYMPTOMS AND STRAIN SPECIFIC PROBIOTIC TRIALS;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1r4"
+}

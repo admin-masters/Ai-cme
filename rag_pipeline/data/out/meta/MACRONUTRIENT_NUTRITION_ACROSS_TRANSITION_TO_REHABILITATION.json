@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Guidelines for transitioning children with severe acute malnutrition (SAM) to rehabilitation focus on safe feeding progression, electrolyte management, and antibiotic use to prevent complications like refeeding syndrome and infections.",
+  "learning_objectives": [
+    "Understand the criteria for transitioning from F-75 to F-100 or catch-up diets in SAM rehabilitation.",
+    "Learn the protocols for electrolyte supplementation during the transition phase to prevent refeeding syndrome.",
+    "Recognize the role of antibiotics in managing infections during SAM rehabilitation.",
+    "Identify discharge criteria and follow-up strategies for children recovering from SAM."
+  ],
+  "key_facts": [
+    "Transition to F-100 or catch-up diet only when appetite improves, problems resolve, and edema reduces.",
+    "Weight gain of \u22655 g/kg/day for at least 3 consecutive days is a practical trigger for transition.",
+    "Potassium supplementation: 3\u20134 mEq/kg/day for at least two weeks; magnesium replacement includes an initial IM dose followed by oral/enteral supplementation.",
+    "Oral amoxicillin (15 mg/kg every 8 hours for 5 days) is standard for uncomplicated SAM; parenteral antibiotics are used for complicated cases.",
+    "Discharge criteria include clinical stability, resolved edema, good appetite, and upward weight trajectory."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Severe Acute Malnutrition",
+    "Refeeding Syndrome",
+    "Electrolyte Imbalance",
+    "Antibiotic Prophylaxis",
+    "Nutritional Rehabilitation",
+    "Child Nutrition Disorders",
+    "Potassium Deficiency",
+    "Magnesium Deficiency"
+  ],
+  "tags_custom": [
+    "SAM rehabilitation",
+    "pediatric nutrition",
+    "transition feeding",
+    "electrolyte safety",
+    "antibiotic protocols"
+  ],
+  "reference_quote": "Transition to rehabilitation is the highest-risk phase in SAM if done too fast. Move from F-75 to F-100 or catch-up diet only when appetite has clearly improved, major problems are resolving, and edema is minimal or reducing. (Source: Operational Guidelines on Facility Based Management of Children with Severe Acute Malnutrition)",
+  "document_key_topics": [
+    "Transition feeding in severe acute malnutrition",
+    "Electrolyte management during rehabilitation",
+    "Antibiotic use in SAM treatment",
+    "Discharge and follow-up criteria for SAM recovery"
+  ],
+  "chunk_heading": "MACRONUTRIENT NUTRITION ACROSS CHILDHOOD;TRANSITION TO REHABILITATION ELECTROLYTE AND ANTIBIOTIC SAFETY IN SEVERE ACUTE MALNUTRITION;",
+  "topic": "MACRONUTRIENT NUTRITION ACROSS CHILDHOOD",
+  "subtopic": "TRANSITION TO REHABILITATION ELECTROLYTE AND ANTIBIOTIC SAFETY IN SEVERE ACUTE MALNUTRITION",
+  "sub_subtopic": null,
+  "heading_path": "MACRONUTRIENT NUTRITION ACROSS CHILDHOOD;TRANSITION TO REHABILITATION ELECTROLYTE AND ANTIBIOTIC SAFETY IN SEVERE ACUTE MALNUTRITION;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2\u0081"
+}

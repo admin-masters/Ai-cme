@@ -1,0 +1,47 @@
+{
+  "chunk_summary": "This section outlines safety stop rules, red-flag screening, and fallback measures for pediatric tele-nutrition, emphasizing emergency limitations and technology failure protocols.",
+  "learning_objectives": [
+    "Understand the importance of red-flag screening in pediatric tele-nutrition encounters.",
+    "Identify key emergency red flags requiring immediate referral or in-person care.",
+    "Learn fallback strategies for technology failures during tele-nutrition consultations."
+  ],
+  "key_facts": [
+    "Red-flag screening must occur within the first minutes of a tele-nutrition encounter and be documented.",
+    "High-yield red flags include signs of shock, severe dehydration, altered sensorium, respiratory distress, and suspected severe anemia.",
+    "Technology failure is a safety issue; fallback options include switching to audio, asynchronous photo uploads, or urgent in-person referrals.",
+    "Telemedicine in emergencies is limited to first aid, life-saving measures, counseling, and referral advice.",
+    "A mandatory 'red flags checked' field should be embedded in tele-notes to ensure proper documentation and referral.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Telemedicine",
+    "Pediatrics",
+    "Nutrition Disorders",
+    "Emergency Medical Services",
+    "Dehydration",
+    "Anemia",
+    "Technology",
+    "Referral and Consultation"
+  ],
+  "tags_custom": [
+    "tele-nutrition safety",
+    "pediatric emergencies",
+    "technology fallback",
+    "red-flag screening"
+  ],
+  "reference_quote": "Telemedicine guidance cautions against telemedicine as a substitute for emergency care when in-person care is available; in emergencies it should be limited to first aid, life-saving measures, counseling, and referral advice.",
+  "document_key_topics": [
+    "Safety stop rules in tele-nutrition",
+    "Red-flag screening for pediatric emergencies",
+    "Fallback measures for technology failures"
+  ],
+  "chunk_heading": "DIGITAL TOOLS & TELE-NUTRITION;CLINICAL USE CASES, TELE-APPROPRIATENESS, AND SAFETY STOP RULES;RED FLAGS, EMERGENCY LIMITATIONS, AND TECHNOLOGY FAILURE FALLBACKS;",
+  "topic": "DIGITAL TOOLS & TELE-NUTRITION",
+  "subtopic": "CLINICAL USE CASES, TELE-APPROPRIATENESS, AND SAFETY STOP RULES",
+  "sub_subtopic": "RED FLAGS, EMERGENCY LIMITATIONS, AND TECHNOLOGY FAILURE FALLBACKS",
+  "heading_path": "DIGITAL TOOLS & TELE-NUTRITION;CLINICAL USE CASES, TELE-APPROPRIATENESS, AND SAFETY STOP RULES;RED FLAGS, EMERGENCY LIMITATIONS, AND TECHNOLOGY FAILURE FALLBACKS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1m3"
+}

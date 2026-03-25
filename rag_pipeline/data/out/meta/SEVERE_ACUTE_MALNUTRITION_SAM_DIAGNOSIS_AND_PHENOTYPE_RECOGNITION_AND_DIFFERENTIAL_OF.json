@@ -1,0 +1,47 @@
+{
+  "chunk_summary": "This section discusses the clinical recognition, grading, and differential diagnosis of bilateral pitting oedema in severe acute malnutrition (SAM), emphasizing its impact on management priorities and infection risk.",
+  "learning_objectives": [
+    "Understand the clinical method for diagnosing bilateral pitting oedema in SAM using thumb pressure.",
+    "Differentiate oedematous SAM from non-oedematous SAM and recognize its implications for treatment and monitoring.",
+    "Identify atypical oedema patterns and evaluate for alternative diagnoses such as nephrotic syndrome or heart failure."
+  ],
+  "key_facts": [
+    "Bilateral pitting oedema is confirmed by pressing the dorsum of each foot for 10 seconds; persistent pits indicate nutritional oedema.",
+    "Oedema severity is graded as + (feet only), ++ (feet plus lower legs/hands), and +++ (generalized, including face).",
+    "Oedematous SAM phenotypes have higher inpatient mortality compared to non-oedematous cases in Indian facility data.",
+    "Do not use diuretics for nutritional oedema; sodium loads or diuresis can precipitate shock or cardiac failure.",
+    "Early weight loss during treatment may reflect oedema resolution rather than clinical deterioration."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Severe Acute Malnutrition",
+    "Kwashiorkor",
+    "Edema",
+    "Pitting Edema",
+    "Electrolyte Imbalance",
+    "Nephrotic Syndrome",
+    "Heart Failure",
+    "Ascites"
+  ],
+  "tags_custom": [
+    "nutritional oedema",
+    "SAM management",
+    "clinical grading",
+    "infection risk",
+    "differential diagnosis"
+  ],
+  "reference_quote": "Oedema in SAM reflects systemic metabolic and electrolyte derangements (not isolated fluid excess), and sodium loads or diuresis can precipitate shock or cardiac failure. (WHO Pocket Book of Hospital Care for Children)",
+  "document_key_topics": [
+    "Recognition and grading of nutritional oedema in SAM",
+    "Impact of oedema on treatment and monitoring priorities",
+    "Differential diagnosis of atypical oedema patterns"
+  ],
+  "chunk_heading": "SEVERE ACUTE MALNUTRITION (SAM) MANAGEMENT;DIAGNOSIS AND PHENOTYPE CLASSIFICATION;RECOGNITION AND DIFFERENTIAL OF BILATERAL PITTING OEDEMA;",
+  "topic": "SEVERE ACUTE MALNUTRITION (SAM) MANAGEMENT",
+  "subtopic": "DIAGNOSIS AND PHENOTYPE CLASSIFICATION",
+  "sub_subtopic": "RECOGNITION AND DIFFERENTIAL OF BILATERAL PITTING OEDEMA",
+  "heading_path": "SEVERE ACUTE MALNUTRITION (SAM) MANAGEMENT;DIAGNOSIS AND PHENOTYPE CLASSIFICATION;RECOGNITION AND DIFFERENTIAL OF BILATERAL PITTING OEDEMA;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1c2"
+}

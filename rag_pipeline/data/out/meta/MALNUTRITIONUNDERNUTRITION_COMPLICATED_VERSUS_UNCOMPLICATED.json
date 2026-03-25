@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "This section outlines the triage process for severe acute malnutrition (SAM), emphasizing the distinction between complicated cases requiring inpatient care and uncomplicated cases eligible for outpatient management.",
+  "learning_objectives": [
+    "Understand the criteria for classifying SAM as complicated or uncomplicated.",
+    "Learn the clinical signs and danger indicators for complicated SAM requiring inpatient care.",
+    "Recognize the importance of reassessing SAM classification at every contact.",
+    "Understand the risks of fluid resuscitation in severely malnourished children."
+  ],
+  "key_facts": [
+    "Complicated SAM includes IMNCI danger signs, severe illness (e.g., pneumonia), dehydration, persistent vomiting, altered sensorium, hypothermia, severe anemia, or failed appetite test.",
+    "Uncomplicated SAM requires alertness, clinical stability, no danger signs, and passing a standardized appetite test.",
+    "Sepsis and pneumonia in SAM may present with minimal fever; low admission thresholds are recommended.",
+    "Fluid resuscitation in SAM must be cautious to avoid heart failure; prioritize antibiotics, warming, and glucose over rapid boluses.",
+    "Reassess SAM classification at every contact due to the risk of rapid deterioration.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Malnutrition",
+    "Severe Acute Malnutrition",
+    "Pneumonia",
+    "Sepsis",
+    "Fluid Therapy",
+    "Child Health",
+    "Nutrition Disorders",
+    "Triage"
+  ],
+  "tags_custom": [
+    "SAM triage",
+    "pediatric malnutrition",
+    "clinical guidelines",
+    "outpatient care",
+    "inpatient stabilization"
+  ],
+  "reference_quote": "Classify as complicated SAM if any of the following are present: IMNCI general danger signs, severe illness classification (e.g., severe pneumonia), dehydration with diarrhea, persistent vomiting, altered sensorium/apathy, hypothermia, severe pallor/anemia, extensive skin or eye lesions, post-measles state, severe bilateral oedema, or failed appetite test. (Source: IMNCI Chart Booklet for Medical Officers, 2023)",
+  "document_key_topics": [
+    "Classification of severe acute malnutrition (SAM)",
+    "Criteria for complicated versus uncomplicated SAM",
+    "Clinical management and triage guidelines for SAM",
+    "Risks and precautions in fluid therapy for malnourished children"
+  ],
+  "chunk_heading": "MALNUTRITION\u2014UNDERNUTRITION: SCREENING & CLASSIFICATION;COMPLICATED VERSUS  UNCOMPLICATED SEVERE ACUTE MALNUTRITION TRIAGE;",
+  "topic": "MALNUTRITION\u2014UNDERNUTRITION: SCREENING & CLASSIFICATION",
+  "subtopic": "COMPLICATED VERSUS  UNCOMPLICATED SEVERE ACUTE MALNUTRITION TRIAGE",
+  "sub_subtopic": null,
+  "heading_path": "MALNUTRITION\u2014UNDERNUTRITION: SCREENING & CLASSIFICATION;COMPLICATED VERSUS  UNCOMPLICATED SEVERE ACUTE MALNUTRITION TRIAGE;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2q"
+}

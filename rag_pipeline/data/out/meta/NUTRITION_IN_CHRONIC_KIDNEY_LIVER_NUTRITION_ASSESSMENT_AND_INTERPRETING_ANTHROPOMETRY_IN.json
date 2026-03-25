@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "This section discusses interpreting anthropometric measures like MUAC, TSF, and height velocity in children with CKD or liver disease, emphasizing adjustments for edema, ascites, and growth standards.",
+  "learning_objectives": [
+    "Understand the limitations of weight-based indices in children with CKD or liver disease due to fluid shifts.",
+    "Learn to use MUAC, TSF, and height velocity as reliable proxies for nutritional assessment in fluid-overloaded states.",
+    "Identify appropriate growth references for children under 5 years and older Indian children.",
+    "Recognize red flags in growth trends and their implications for nutritional interventions."
+  ],
+  "key_facts": [
+    "Weight is unreliable in CKD with nephrotic edema or cirrhosis with ascites; use MUAC and TSF instead.",
+    "WHO growth standards are recommended for children under 5 years; Revised IAP charts are preferred for older Indian children.",
+    "Crossing down one major percentile channel over 3\u20136 months or a sustained fall in MUAC/TSF despite stable weight warrants intervention.",
+    "Height velocity and z-scores are critical for assessing chronic nutritional adequacy.",
+    "In infants, head circumference should be monitored due to risks of neurodevelopmental impairment from chronic undernutrition."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Chronic Kidney Disease",
+    "Liver Cirrhosis",
+    "Anthropometry",
+    "Edema",
+    "Ascites",
+    "Mid-Upper Arm Circumference",
+    "Skinfold Thickness",
+    "Growth Disorders"
+  ],
+  "tags_custom": [
+    "Pediatric nutrition",
+    "Fluid overload assessment",
+    "Growth monitoring",
+    "CKD and liver disease",
+    "Nutritional red flags"
+  ],
+  "reference_quote": "Weight-based indices can be misleading when extracellular fluid expands. In CKD, nephrotic-range edema or aggressive ultrafiltration can shift weight without changing muscle or fat; in cirrhosis, ascites and organomegaly can mask severe tissue loss.",
+  "document_key_topics": [
+    "Anthropometric assessment in CKD and liver disease",
+    "Impact of edema and ascites on nutritional evaluation",
+    "Growth standards and trend-based monitoring"
+  ],
+  "chunk_heading": "NUTRITION IN CHRONIC KIDNEY & LIVER DISEASE;NUTRITION ASSESSMENT AND TREND-BASED MONITORING;INTERPRETING ANTHROPOMETRY IN EDEMA AND ASCITES USING MUAC TSF AND HEIGHT VELOCITY;",
+  "topic": "NUTRITION IN CHRONIC KIDNEY & LIVER DISEASE",
+  "subtopic": "NUTRITION ASSESSMENT AND TREND-BASED MONITORING",
+  "sub_subtopic": "INTERPRETING ANTHROPOMETRY IN EDEMA AND ASCITES USING MUAC TSF AND HEIGHT VELOCITY",
+  "heading_path": "NUTRITION IN CHRONIC KIDNEY & LIVER DISEASE;NUTRITION ASSESSMENT AND TREND-BASED MONITORING;INTERPRETING ANTHROPOMETRY IN EDEMA AND ASCITES USING MUAC TSF AND HEIGHT VELOCITY;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1e1"
+}

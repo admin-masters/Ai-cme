@@ -1,0 +1,51 @@
+{
+  "chunk_summary": "Obstructive sleep apnea (OSA) is prevalent in children with obesity, impacting metabolic health, behavior, and quality of life. Screening requires structured history-taking and physical examination, with polysomnography as the diagnostic standard. Management includes adenotonsillectomy, weight control, and CPAP for persistent cases.",
+  "learning_objectives": [
+    "Understand the relationship between obesity and obstructive sleep apnea (OSA) in children.",
+    "Learn structured screening methods for OSA, including sleep history and physical examination.",
+    "Recognize the role of polysomnography and adenotonsillectomy in OSA diagnosis and management.",
+    "Identify the importance of continued metabolic follow-up post-OSA treatment in obesity clinics."
+  ],
+  "key_facts": [
+    "OSA is common in children with obesity and worsens metabolic risk, behavior, and quality of life.",
+    "AAP guidelines recommend in-laboratory polysomnography as the standard diagnostic test for suspected OSA.",
+    "Adenotonsillectomy is first-line therapy for OSA in children with adenotonsillar hypertrophy.",
+    "Obesity increases OSA risk even without significant tonsillar hypertrophy.",
+    "OSA treatment improves cardiometabolic outcomes, especially in children with comorbidities like hypertension or insulin resistance.",
+    "India-specific pitfall: metabolic follow-up often stops after ENT surgery, which should be avoided.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Obesity",
+    "Sleep Apnea, Obstructive",
+    "Polysomnography",
+    "Adenotonsillectomy",
+    "Child",
+    "Risk Reduction",
+    "Cardiometabolic Risk",
+    "Snoring"
+  ],
+  "tags_custom": [
+    "Pediatric Obesity",
+    "OSA Screening",
+    "Metabolic Follow-up",
+    "ENT Referral",
+    "Sleep Medicine"
+  ],
+  "reference_quote": "AAP childhood OSAS guideline recommends that children who frequently snore be evaluated for OSAS and that in-laboratory polysomnography is the standard diagnostic test when OSAS is suspected.",
+  "document_key_topics": [
+    "Obstructive sleep apnea in children with obesity",
+    "Structured screening and diagnostic pathways for OSA",
+    "Management strategies including adenotonsillectomy and CPAP",
+    "Importance of continued metabolic follow-up post-OSA treatment"
+  ],
+  "chunk_heading": "OVERNUTRITION & OBESITY MANAGEMENT;COMORBIDITY SCREENING WITH ACTIONABLE PATHWAYS;OBSTRUCTIVE SLEEP APNEA SCREENING AND POLYSOMNOGRAPHY REFERRAL;",
+  "topic": "OVERNUTRITION & OBESITY MANAGEMENT",
+  "subtopic": "COMORBIDITY SCREENING WITH ACTIONABLE PATHWAYS",
+  "sub_subtopic": "OBSTRUCTIVE SLEEP APNEA SCREENING AND POLYSOMNOGRAPHY REFERRAL",
+  "heading_path": "OVERNUTRITION & OBESITY MANAGEMENT;COMORBIDITY SCREENING WITH ACTIONABLE PATHWAYS;OBSTRUCTIVE SLEEP APNEA SCREENING AND POLYSOMNOGRAPHY REFERRAL;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1z12"
+}

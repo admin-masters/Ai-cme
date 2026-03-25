@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "This section discusses texture modification using the IDDSI framework for children with neurodisability, emphasizing safety, consistency, and hydration while addressing thickening trade-offs and cultural dietary practices.",
+  "learning_objectives": [
+    "Understand the application of the IDDSI framework for texture modification in neurodisability feeding support.",
+    "Identify the trade-offs between starch-based and gum-based thickeners, including safety concerns for infants.",
+    "Learn to prescribe and monitor texture-modified diets, including hydration and treatment burden considerations.",
+    "Adapt texture modification strategies to cultural dietary practices, such as Indian diets."
+  ],
+  "key_facts": [
+    "The IDDSI framework replaces vague terms like 'semi-thick' with testable levels for drinks and foods.",
+    "Families can use the 10 mL syringe flow test at home to confirm drink thickness.",
+    "Thickened fluids may reduce overt aspiration signs but have limited pediatric evidence for pneumonia prevention.",
+    "Starch-based thickeners may lose viscosity during oral processing, while gum-based thickeners are more stable but costly.",
+    "Xanthan gum-based thickeners are contraindicated in premature infants due to risks like NEC (necrotizing enterocolitis).",
+    "Texture plans must include hydration plans to prevent dehydration and constipation."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Neurodevelopmental Disorders",
+    "Deglutition Disorders",
+    "Dietary Modification",
+    "Thickened Liquids",
+    "Pediatric Nutrition",
+    "Hydration",
+    "Xanthan Gum",
+    "Necrotizing Enterocolitis"
+  ],
+  "tags_custom": [
+    "IDDSI framework",
+    "texture modification",
+    "feeding safety",
+    "Indian dietary practices",
+    "thickener trade-offs"
+  ],
+  "reference_quote": "FDA warning (via CDC Health Alert Network): do not feed SimplyThick to infants born before 37 weeks \u2014 https://stacks.cdc.gov/view/cdc/25230/cdc_25230_",
+  "document_key_topics": [
+    "IDDSI framework for texture modification",
+    "Thickener safety and trade-offs",
+    "Hydration and treatment burden in feeding support",
+    "Cultural adaptation of texture-modified diets"
+  ],
+  "chunk_heading": "NEURODISABILITY AND FEEDING SUPPORT;TEXTURE MODIFICATION USING IDDSI WITH THICKENING TRADE-OFFS;",
+  "topic": "NEURODISABILITY AND FEEDING SUPPORT",
+  "subtopic": "TEXTURE MODIFICATION USING IDDSI WITH THICKENING TRADE-OFFS",
+  "sub_subtopic": null,
+  "heading_path": "NEURODISABILITY AND FEEDING SUPPORT;TEXTURE MODIFICATION USING IDDSI WITH THICKENING TRADE-OFFS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1o"
+}

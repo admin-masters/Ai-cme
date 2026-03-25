@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Outpatient workflow for feeding problems and growth faltering in children 6\u201324 months involves growth assessment, structured feeding evaluation, clinical screening, and tailored interventions based on findings, including counselling, investigations, or urgent referral for severe malnutrition.",
+  "learning_objectives": [
+    "Understand the steps for assessing growth and feeding in children aged 6\u201324 months during outpatient visits.",
+    "Identify clinical signs and risk factors requiring urgent referral for severe acute malnutrition.",
+    "Learn to document key feeding and growth parameters for effective follow-up and counselling."
+  ],
+  "key_facts": [
+    "Growth assessment includes weight-for-length/height plotting, mid-upper arm circumference (MUAC) measurement (if wasting is suspected), and checking for bilateral pitting edema.",
+    "Structured feeding assessment evaluates texture acceptance, meal/snack frequency, bowl volume, milk/beverage intake, food group diversity, and safety practices.",
+    "Clinical red flags include feeding taking >30 minutes, coughing/choking, recurrent pneumonia, persistent vomiting, blood in stool, chronic diarrhea, or developmental delay.",
+    "Urgent referral is required for severe acute malnutrition: weight-for-length/height very low, MUAC <115 mm (6\u201359 months), or bilateral pitting edema.",
+    "Counselling and 2\u20134 week follow-up are recommended for stable growth with weak feeding domains (e.g., low diversity, unsafe storage).",
+    "Investigations and earlier review are needed if growth falters despite adequate intake or if malabsorption, chronic infection, endocrine disease, or anemia is suspected."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Complementary Feeding",
+    "Growth Disorders",
+    "Malnutrition",
+    "Pediatric Assessment",
+    "Feeding Behavior",
+    "Nutritional Status",
+    "Child Nutrition Disorders",
+    "Dietary Practices"
+  ],
+  "tags_custom": [
+    "Outpatient workflow",
+    "Feeding problems",
+    "Growth faltering",
+    "Severe acute malnutrition",
+    "Pediatric nutrition"
+  ],
+  "reference_quote": "WHO guideline for complementary feeding of infants and young children 6\u201323 months of age (2023): 'Structured feeding assessments and growth monitoring are critical for identifying and managing feeding problems and growth faltering in young children.'",
+  "document_key_topics": [
+    "Growth and risk classification in children 6\u201324 months",
+    "Structured feeding assessment and clinical screening",
+    "Management of severe acute malnutrition",
+    "Counselling and follow-up for feeding problems"
+  ],
+  "chunk_heading": "COMPLEMENTARY FEEDING 6\u201324 MONTHS;CLINICAL FOUNDATIONS AND CLINIC WORKFLOW;OUTPATIENT WORKFLOW FOR FEEDING PROBLEMS AND GROWTH FALTERING;",
+  "topic": "COMPLEMENTARY FEEDING 6\u201324 MONTHS",
+  "subtopic": "CLINICAL FOUNDATIONS AND CLINIC WORKFLOW",
+  "sub_subtopic": "OUTPATIENT WORKFLOW FOR FEEDING PROBLEMS AND GROWTH FALTERING",
+  "heading_path": "COMPLEMENTARY FEEDING 6\u201324 MONTHS;CLINICAL FOUNDATIONS AND CLINIC WORKFLOW;OUTPATIENT WORKFLOW FOR FEEDING PROBLEMS AND GROWTH FALTERING;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1c2"
+}

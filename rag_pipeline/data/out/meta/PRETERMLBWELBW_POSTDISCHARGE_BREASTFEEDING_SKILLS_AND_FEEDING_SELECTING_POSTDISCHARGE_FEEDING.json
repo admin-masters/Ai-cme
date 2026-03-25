@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "Guidance on selecting post-discharge feeding modalities for preterm/LBW/ELBW infants, focusing on safety, endurance, and resource constraints, with an emphasis on breastfeeding and alternative feeding methods.",
+  "learning_objectives": [
+    "Understand the physiological factors influencing post-discharge feeding modality selection for preterm/LBW/ELBW infants.",
+    "Learn safe practices for preparing and delivering breast milk and formula in resource-constrained settings.",
+    "Identify signs of feeding inefficiency or aspiration and determine when tube feeding is necessary.",
+    "Explore infection risk mitigation strategies for oral feeding methods in low-resource environments."
+  ],
+  "key_facts": [
+    "Mother\u2019s milk is preferred for VLBW/ELBW infants and should be fortified when indicated.",
+    "Powdered formula is not sterile; improper preparation or over-concentration can be unsafe.",
+    "Cup or spoon/paladai feeding may be safer than bottle feeding in areas with sanitation constraints.",
+    "Tube feeding is recommended for recurrent aspiration, fatigue during feeding, or inability to meet daily intake needs.",
+    "Operational safety for tube feeding includes gravity feeds, continuous observation, and stopping feeds for signs of distress (e.g., cyanosis, vomiting).",
+    "Exclusive breastfeeding with prolonged feeds (e.g., 40\u201345 minutes) may indicate inefficiency and require intervention."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Infant, Premature",
+    "Low Birth Weight Infant",
+    "Breastfeeding",
+    "Enteral Nutrition",
+    "Feeding Behavior",
+    "Respiratory Function Tests",
+    "Infant Formula",
+    "Feeding Methods"
+  ],
+  "tags_custom": [
+    "post-discharge nutrition",
+    "feeding safety",
+    "resource-constrained feeding",
+    "tube feeding protocols",
+    "oral feeding efficiency"
+  ],
+  "reference_quote": "Powdered formula is not sterile and over-concentration is unsafe. (Source: WHO, Feeding of low birth weight babies)",
+  "document_key_topics": [
+    "Post-discharge feeding modalities for preterm/LBW/ELBW infants",
+    "Safety and efficiency in breastfeeding and formula feeding",
+    "Tube feeding protocols and operational safety",
+    "Resource-constrained feeding methods and infection risk"
+  ],
+  "chunk_heading": "PRETERM/LBW/ELBW POST-DISCHARGE NUTRITION;BREASTFEEDING SKILLS AND FEEDING SAFETY DECISIONS;SELECTING POST-DISCHARGE FEEDING MODALITY BASED ON SAFETY AND ENDURANCE;",
+  "topic": "PRETERM/LBW/ELBW POST-DISCHARGE NUTRITION",
+  "subtopic": "BREASTFEEDING SKILLS AND FEEDING SAFETY DECISIONS",
+  "sub_subtopic": "SELECTING POST-DISCHARGE FEEDING MODALITY BASED ON SAFETY AND ENDURANCE",
+  "heading_path": "PRETERM/LBW/ELBW POST-DISCHARGE NUTRITION;BREASTFEEDING SKILLS AND FEEDING SAFETY DECISIONS;SELECTING POST-DISCHARGE FEEDING MODALITY BASED ON SAFETY AND ENDURANCE;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u00805"
+}

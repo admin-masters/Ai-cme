@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "FPIES home action plans focus on symptom management, emergency care protocols, and supervised tolerance testing to prevent severe reactions and nutritional harm.",
+  "learning_objectives": [
+    "Understand the role of ondansetron in managing mild-to-moderate FPIES episodes and its dosing guidelines.",
+    "Learn the importance of supervised oral food challenges (OFC) for tolerance testing in FPIES management.",
+    "Recognize the risks of multi-food avoidance and the need for early dietitian involvement in cases with multiple triggers."
+  ],
+  "key_facts": [
+    "Ondansetron dosing for FPIES: 2 mg (8\u201315 kg), 4 mg (15\u201330 kg), and 6\u20138 mg (>30 kg), with a ceiling of 8 mg per dose.",
+    "Severe FPIES reactions require IV fluids; IM epinephrine and antihistamines are not effective treatments.",
+    "Tolerance testing involves supervised oral food challenges with protein-based dosing of 0.3 g food protein/kg (range 0.06\u20130.6 g/kg) over 30\u201360 minutes, followed by 4+ hours of observation.",
+    "Home challenges are not recommended due to the risk of severe reactions requiring IV fluids.",
+    "Supervised re-challenges should be scheduled within 12 months of the last reaction, individualized by trigger and clinical course."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Food Hypersensitivity",
+    "Non-IgE Mediated Food Allergy",
+    "Ondansetron",
+    "Oral Food Challenge",
+    "Emergency Medical Services",
+    "Diet Therapy",
+    "Pediatric Nutrition",
+    "Fluid Therapy"
+  ],
+  "tags_custom": [
+    "FPIES management",
+    "oral tolerance testing",
+    "emergency care protocols",
+    "nutrition protection",
+    "multi-food avoidance risks"
+  ],
+  "reference_quote": "A written action plan should state that FPIES is not treated with IM epinephrine or antihistamines, and that severe reactions require IV fluids.",
+  "document_key_topics": [
+    "FPIES acute care protocols",
+    "Ondansetron dosing and safety",
+    "Supervised oral food challenges for tolerance testing",
+    "Nutrition protection in FPIES management"
+  ],
+  "chunk_heading": "FOOD ALLERGY & THERAPEUTIC ELIMINATION DIETS;FPIES ACUTE CARE AND SAFE RE-CHALLENGE;FPIES HOME ACTION PLAN AND TOLERANCE TESTING;",
+  "topic": "FOOD ALLERGY & THERAPEUTIC ELIMINATION DIETS",
+  "subtopic": "FPIES ACUTE CARE AND SAFE RE-CHALLENGE",
+  "sub_subtopic": "FPIES HOME ACTION PLAN AND TOLERANCE TESTING",
+  "heading_path": "FOOD ALLERGY & THERAPEUTIC ELIMINATION DIETS;FPIES ACUTE CARE AND SAFE RE-CHALLENGE;FPIES HOME ACTION PLAN AND TOLERANCE TESTING;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u00822.1"
+}

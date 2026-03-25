@@ -1,0 +1,47 @@
+{
+  "chunk_summary": "Structured, family-based dietary and activity interventions for pediatric obesity focus on reducing sugar, refined grains, and screen time while promoting balanced meals, physical activity, and scheduled follow-ups.",
+  "learning_objectives": [
+    "Understand stepwise dietary modifications for managing pediatric obesity in Indian households.",
+    "Learn the importance of structured follow-ups and BMI trajectory tracking in obesity management.",
+    "Identify when to escalate care, including referrals to multidisciplinary programs or specialized interventions."
+  ],
+  "key_facts": [
+    "Eliminate sugar-sweetened beverages, energy drinks, and routine fruit juice consumption.",
+    "Adopt a 'plate rule': half vegetables/fruit, one-quarter staple (e.g., rice/roti), and one-quarter protein (e.g., dal, eggs, chicken).",
+    "Encourage at least 60 minutes of moderate to vigorous physical activity daily.",
+    "Follow-up should occur every 4\u20136 weeks initially, then every 1\u20133 months based on risk.",
+    "Escalate care if no BMI improvement is seen after 3\u20136 months of adherence or if comorbidities like hypertension or NAFLD are present."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Pediatric Obesity",
+    "Dietary Management",
+    "Physical Activity",
+    "Body Mass Index",
+    "Behavioral Therapy",
+    "Nutritional Requirements",
+    "Follow-Up Studies",
+    "Comorbidity"
+  ],
+  "tags_custom": [
+    "Indian dietary guidelines",
+    "Pediatric weight management",
+    "Structured follow-up",
+    "Family-based interventions"
+  ],
+  "reference_quote": "Weight goals depend on age and severity. In younger children, weight maintenance with continued linear growth can reduce BMI over time; in adolescents with severe obesity, slow, supervised weight loss may be appropriate.",
+  "document_key_topics": [
+    "Dietary modifications for pediatric obesity",
+    "Physical activity and screen time reduction",
+    "Structured follow-up and BMI tracking",
+    "Escalation of care for severe obesity or comorbidities"
+  ],
+  "chunk_heading": "MACRONUTRIENT NUTRITION ACROSS CHILDHOOD;STEPWISE DIET AND ACTIVITY MANAGEMENT IN PEDIATRIC OBESITY WITH FOLLOW UP;",
+  "topic": "MACRONUTRIENT NUTRITION ACROSS CHILDHOOD",
+  "subtopic": "STEPWISE DIET AND ACTIVITY MANAGEMENT IN PEDIATRIC OBESITY WITH FOLLOW UP",
+  "sub_subtopic": null,
+  "heading_path": "MACRONUTRIENT NUTRITION ACROSS CHILDHOOD;STEPWISE DIET AND ACTIVITY MANAGEMENT IN PEDIATRIC OBESITY WITH FOLLOW UP;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2~"
+}

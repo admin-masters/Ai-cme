@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section outlines a tele-nutrition checklist for managing celiac disease, focusing on dietary adherence, symptom monitoring, growth assessment, and micronutrient risks, with escalation triggers for persistent issues.",
+  "learning_objectives": [
+    "Understand the components of a tele-nutrition checklist for celiac disease management.",
+    "Identify key areas for monitoring dietary adherence and gluten exposure in telehealth settings.",
+    "Recognize symptoms and growth patterns that may indicate relapse or complications.",
+    "Learn escalation criteria for referring patients to pediatric gastroenterology."
+  ],
+  "key_facts": [
+    "Celiac disease management requires strict adherence to a lifelong gluten-free diet.",
+    "Hidden gluten sources include spices, sauces, processed snacks, and cross-contamination in shared kitchens.",
+    "Growth assessment should focus on trajectory and trigger faltering growth pathways if centile thresholds are crossed.",
+    "First-line serology includes tTG IgA and total IgA, with interpretation dependent on timing and adherence.",
+    "Escalation is needed for persistent symptoms, growth faltering, or anemia unresponsive to therapy.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Celiac Disease",
+    "Telemedicine",
+    "Dietary Adherence",
+    "Growth Disorders",
+    "Micronutrient Deficiencies",
+    "Anemia",
+    "Pediatric Gastroenterology",
+    "Gluten-Free Diet"
+  ],
+  "tags_custom": [
+    "tele-nutrition",
+    "dietary management",
+    "relapse prevention",
+    "pediatric care"
+  ],
+  "reference_quote": "Celiac disease care depends on strict dietary adherence and structured follow-up, making it suitable for tele-nutrition when escalation rules are explicit.",
+  "document_key_topics": [
+    "Celiac disease dietary adherence",
+    "Tele-nutrition for chronic disease",
+    "Growth and micronutrient monitoring",
+    "Escalation criteria for persistent symptoms"
+  ],
+  "chunk_heading": "DIGITAL TOOLS & TELE-NUTRITION;DISEASE-SPECIFIC TELE-CHECKLISTS FOR CHRONIC DISEASE AND NEURODISABILITY;CELIAC DISEASE ADHERENCE AND RELAPSE RISK TELE-CHECKLIST;",
+  "topic": "DIGITAL TOOLS & TELE-NUTRITION",
+  "subtopic": "DISEASE-SPECIFIC TELE-CHECKLISTS FOR CHRONIC DISEASE AND NEURODISABILITY",
+  "sub_subtopic": "CELIAC DISEASE ADHERENCE AND RELAPSE RISK TELE-CHECKLIST",
+  "heading_path": "DIGITAL TOOLS & TELE-NUTRITION;DISEASE-SPECIFIC TELE-CHECKLISTS FOR CHRONIC DISEASE AND NEURODISABILITY;CELIAC DISEASE ADHERENCE AND RELAPSE RISK TELE-CHECKLIST;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u008b1.1"
+}

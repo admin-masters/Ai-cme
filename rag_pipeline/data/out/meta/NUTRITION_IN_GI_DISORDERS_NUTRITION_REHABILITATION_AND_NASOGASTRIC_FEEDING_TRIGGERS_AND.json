@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Nasogastric feeding is essential for malnourished children with persistent diarrhea when oral intake is inadequate (<80% of prescribed volume for 2\u20133 feeds). Safety protocols include trained staff, tube position confirmation, and gradual de-escalation based on oral intake recovery and weight gain.",
+  "learning_objectives": [
+    "Understand triggers for initiating nasogastric feeding in malnourished children with persistent diarrhea.",
+    "Learn safety protocols for nasogastric tube insertion and feeding management.",
+    "Recognize criteria for transitioning from nasogastric feeding to oral intake.",
+    "Identify risks such as aspiration and feeding aversion in severely malnourished children."
+  ],
+  "key_facts": [
+    "Nasogastric feeding is initiated when oral intake is <80% of prescribed volume for 2\u20133 consecutive feeds.",
+    "Safe feeding techniques include gravity or gentle pressure feeding and avoiding bottle feeding due to aspiration risk.",
+    "Tube position must be confirmed before each feed according to local protocols.",
+    "De-escalation criteria: oral intake \u226580% of target across a full day or two consecutive full feeds, with weight gain and no vomiting or respiratory symptoms.",
+    "Prolonged tube feeding or recurrent aspiration requires specialist review for underlying neurologic or structural issues."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Malnutrition",
+    "Diarrhea",
+    "Nasogastric Intubation",
+    "Feeding Methods",
+    "Aspiration Pneumonia",
+    "Child Nutrition Disorders",
+    "Enteral Nutrition",
+    "Safety Management"
+  ],
+  "tags_custom": [
+    "nasogastric feeding protocols",
+    "pediatric malnutrition care",
+    "feeding safety",
+    "persistent diarrhea management",
+    "nutrition rehabilitation"
+  ],
+  "reference_quote": "Offer the stabilization feed orally first at each feed, then use a nasogastric tube when the child cannot take enough orally. A minimum acceptable intake is about 80% of the prescribed volume; if the child takes <80% for 2\u20133 consecutive feeds, initiate NG supplementation rather than waiting for appetite recovery. (National Health Mission)",
+  "document_key_topics": [
+    "Nasogastric feeding triggers in malnourished children",
+    "Safety protocols for nasogastric feeding",
+    "Criteria for transitioning from tube feeding to oral intake",
+    "Aspiration risk and feeding aversion management"
+  ],
+  "chunk_heading": "NUTRITION IN GI DISORDERS & MALABSORPTION;NUTRITION REHABILITATION AND PERSISTENT DIARRHEA PROTOCOLS;NASOGASTRIC FEEDING TRIGGERS AND SAFETY MONITORING;",
+  "topic": "NUTRITION IN GI DISORDERS & MALABSORPTION",
+  "subtopic": "NUTRITION REHABILITATION AND PERSISTENT DIARRHEA PROTOCOLS",
+  "sub_subtopic": "NASOGASTRIC FEEDING TRIGGERS AND SAFETY MONITORING",
+  "heading_path": "NUTRITION IN GI DISORDERS & MALABSORPTION;NUTRITION REHABILITATION AND PERSISTENT DIARRHEA PROTOCOLS;NASOGASTRIC FEEDING TRIGGERS AND SAFETY MONITORING;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2s6"
+}

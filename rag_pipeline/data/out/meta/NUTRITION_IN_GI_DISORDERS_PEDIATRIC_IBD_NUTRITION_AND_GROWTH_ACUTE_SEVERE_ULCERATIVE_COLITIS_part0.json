@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Acute severe ulcerative colitis in pediatric patients requires structured nutrition support, emphasizing oral or enteral intake, proactive electrolyte management, and timely escalation of therapy to prevent complications like malnutrition and toxic megacolon.",
+  "learning_objectives": [
+    "Understand the role of nutrition in managing acute severe ulcerative colitis in pediatric patients.",
+    "Identify indications for oral, enteral, or bowel rest nutrition strategies in hospitalized children.",
+    "Learn the importance of proactive electrolyte correction and structured monitoring in acute severe colitis.",
+    "Recognize the time-based escalation protocols for corticosteroid therapy and surgical intervention."
+  ],
+  "key_facts": [
+    "Prolonged bowel rest and delayed escalation worsen protein-energy deficit, anemia, and electrolyte imbalance.",
+    "Enteral nutrition is preferred when oral intake is not tolerated; bowel rest is reserved for toxic megacolon or imminent surgery.",
+    "Daily monitoring should include body weight, caloric intake, hydration, and electrolytes.",
+    "Hypokalemia, hypomagnesemia, and hypophosphatemia can exacerbate complications like ileus and colonic dilatation.",
+    "Intravenous methylprednisolone should not exceed 7\u201310 days; reduce to 1 mg/kg/day (up to 40 mg/day) once response is observed.",
+    "Failure to improve should prompt reassessment for rescue therapy and early surgical consultation."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Ulcerative Colitis",
+    "Pediatrics",
+    "Enteral Nutrition",
+    "Electrolyte Imbalance",
+    "Nutritional Support",
+    "Corticosteroids",
+    "Malnutrition",
+    "Toxic Megacolon"
+  ],
+  "tags_custom": [
+    "Pediatric IBD",
+    "Acute colitis management",
+    "Nutrition therapy",
+    "Electrolyte correction"
+  ],
+  "reference_quote": "Updated pediatric acute severe colitis guidance recommends continuing a regular diet in most hospitalized cases rather than default nil by mouth.",
+  "document_key_topics": [
+    "Nutrition strategies in acute severe ulcerative colitis",
+    "Electrolyte management in pediatric IBD",
+    "Corticosteroid therapy protocols",
+    "Indications for surgical intervention in severe colitis"
+  ],
+  "chunk_heading": "NUTRITION IN GI DISORDERS & MALABSORPTION;PEDIATRIC IBD NUTRITION AND GROWTH PRESERVATION;ACUTE SEVERE ULCERATIVE COLITIS NUTRITION SUPPORT;",
+  "topic": "NUTRITION IN GI DISORDERS & MALABSORPTION",
+  "subtopic": "PEDIATRIC IBD NUTRITION AND GROWTH PRESERVATION",
+  "sub_subtopic": "ACUTE SEVERE ULCERATIVE COLITIS NUTRITION SUPPORT",
+  "heading_path": "NUTRITION IN GI DISORDERS & MALABSORPTION;PEDIATRIC IBD NUTRITION AND GROWTH PRESERVATION;ACUTE SEVERE ULCERATIVE COLITIS NUTRITION SUPPORT;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "2\u00827.1"
+}

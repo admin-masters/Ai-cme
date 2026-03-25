@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "This section outlines an India-adapted 24-hour dietary recall script for assessing child feeding practices, emphasizing structured probing, portion estimation, and contextual factors to ensure comprehensive data collection.",
+  "learning_objectives": [
+    "Understand the structure and purpose of the India-adapted 24-hour dietary recall interview script.",
+    "Learn to use targeted probes to capture detailed dietary intake, including meals, snacks, and supplements.",
+    "Develop skills to estimate portion sizes using household measures and natural units.",
+    "Recognize the importance of contextual factors like illness, travel, or fasting in dietary assessments."
+  ],
+  "key_facts": [
+    "The script starts with a time anchor: 'Tell me everything your child ate or drank from when they woke up yesterday until they slept.'",
+    "Probing sequence includes six categories: meals/snacks, milk feeds, mixed dishes, forgotten items, supplements/medicines, and context.",
+    "Portion sizes are recorded using household measures (e.g., katori, glass, ladle) and natural units (e.g., number of idlis, chapatis).",
+    "For packaged foods, record brand, packet size, and consumed quantity.",
+    "If time is limited, prioritize energy-dense items, protein sources, fruits, vegetables, and liquid calories.",
+    "Close the interview with a recap and correction: 'What did I miss?'",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Dietary Assessment",
+    "Feeding Behavior",
+    "Child Nutrition",
+    "Dietary Recall",
+    "Nutrition Surveys",
+    "Portion Size",
+    "India",
+    "Nutrition Assessment"
+  ],
+  "tags_custom": [
+    "24-hour recall",
+    "child feeding practices",
+    "dietary intake",
+    "nutrition evaluation"
+  ],
+  "reference_quote": "A brief, standardized script improves completeness and reduces variability across interviewers.",
+  "document_key_topics": [
+    "India-adapted 24-hour dietary recall methodology",
+    "Probing techniques for dietary assessment",
+    "Portion size estimation and recording",
+    "Contextual factors in child feeding evaluation"
+  ],
+  "chunk_heading": "DIETARY ASSESSMENT & FEEDING SKILLS EVALUATION;INDIA-ADAPTED 24-HOUR RECALL INTERVIEW SCRIPT;",
+  "topic": "DIETARY ASSESSMENT & FEEDING SKILLS EVALUATION",
+  "subtopic": "INDIA-ADAPTED 24-HOUR RECALL INTERVIEW SCRIPT",
+  "sub_subtopic": null,
+  "heading_path": "DIETARY ASSESSMENT & FEEDING SKILLS EVALUATION;INDIA-ADAPTED 24-HOUR RECALL INTERVIEW SCRIPT;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1e"
+}

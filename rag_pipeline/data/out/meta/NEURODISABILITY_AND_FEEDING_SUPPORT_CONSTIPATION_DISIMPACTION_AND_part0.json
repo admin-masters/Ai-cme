@@ -1,0 +1,47 @@
+{
+  "chunk_summary": "This protocol addresses constipation management in neurodisability, emphasizing disimpaction, maintenance, and tapering strategies tailored to dysphagia-related challenges and hydration needs.",
+  "learning_objectives": [
+    "Understand the phases of constipation management: disimpaction, maintenance, and tapering in neurodisability.",
+    "Learn appropriate dosing and administration of polyethylene glycol (PEG) for disimpaction and maintenance.",
+    "Recognize neurodisability-specific considerations, including hydration strategies and anticholinergic side effects."
+  ],
+  "key_facts": [
+    "Fecal impaction signs include overflow soiling, palpable fecaloma, abdominal distension, or pain.",
+    "Oral PEG disimpaction: 1.5\u20132 g/kg/day in two doses for 3\u20136 days; inpatient PEG solution: 25 mL/kg/hour for 4\u20136 hours.",
+    "Maintenance PEG dose: 0.5\u20131 g/kg/day, titrated to one soft stool daily; lactulose is an alternative.",
+    "Hydration strategies are critical due to reduced fluid intake from unsafe swallowing.",
+    "Tapering should occur after 2\u20133 months of success, over 2\u20133 months, with stool diary monitoring."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Constipation",
+    "Neurodisability",
+    "Polyethylene Glycol",
+    "Dysphagia",
+    "Fecal Impaction",
+    "Laxatives",
+    "Hydration",
+    "Anticholinergics"
+  ],
+  "tags_custom": [
+    "feeding support",
+    "bowel management",
+    "pediatric neurodisability",
+    "constipation protocol",
+    "PEG dosing"
+  ],
+  "reference_quote": "Suspect fecal impaction when there is overflow soiling, a palpable fecaloma, abdominal distension or pain, or long-standing constipation not responding to low-dose laxatives.",
+  "document_key_topics": [
+    "Constipation disimpaction in neurodisability",
+    "Maintenance strategies for bowel health",
+    "Hydration and anticholinergic considerations"
+  ],
+  "chunk_heading": "NEURODISABILITY AND FEEDING SUPPORT;CONSTIPATION DISIMPACTION AND MAINTENANCE PROTOCOL IN NEURODISABILITY;",
+  "topic": "NEURODISABILITY AND FEEDING SUPPORT",
+  "subtopic": "CONSTIPATION DISIMPACTION AND MAINTENANCE PROTOCOL IN NEURODISABILITY",
+  "sub_subtopic": null,
+  "heading_path": "NEURODISABILITY AND FEEDING SUPPORT;CONSTIPATION DISIMPACTION AND MAINTENANCE PROTOCOL IN NEURODISABILITY;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1s.1"
+}

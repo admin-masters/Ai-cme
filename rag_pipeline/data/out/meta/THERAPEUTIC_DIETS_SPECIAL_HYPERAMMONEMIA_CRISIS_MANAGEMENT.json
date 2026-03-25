@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Acute hyperammonemia in urea cycle disorders requires immediate protein cessation, high-calorie dextrose, nitrogen-scavenging drugs, and specialist intervention to prevent neurologic damage. Dialysis may be necessary for severe cases, and protein reintroduction must follow protocols to ensure metabolic stability and growth.",
+  "learning_objectives": [
+    "Understand the emergency management steps for hyperammonemia in urea cycle disorders, including drug protocols and dietary interventions.",
+    "Recognize the importance of early ammonia testing in neonates with unexplained encephalopathy or respiratory alkalosis.",
+    "Learn the dosing framework for sodium phenylacetate, sodium benzoate, and arginine in hyperammonemia crises.",
+    "Appreciate the need for protocolized protein reintroduction to prevent long-term complications."
+  ],
+  "key_facts": [
+    "Acute hyperammonemia management includes protein cessation, high-calorie dextrose, and nitrogen-scavenging drugs.",
+    "IV sodium phenylacetate and sodium benzoate: loading dose of 250 mg/kg over 90 minutes, maintenance dose of 250 mg/kg over 24 hours.",
+    "Arginine hydrochloride: 600 mg/kg loading dose and 600 mg/kg maintenance dose over 24 hours.",
+    "Dialysis is required if ammonia levels are very high or rising with encephalopathy.",
+    "Prolonged unsupervised protein restriction is harmful and must be avoided.",
+    "Standardized escalation protocols in district hospitals can reduce preventable morbidity in India."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Hyperammonemia",
+    "Urea Cycle Disorders",
+    "Nitrogen Metabolism",
+    "Sodium Phenylacetate",
+    "Sodium Benzoate",
+    "Arginine",
+    "Dialysis",
+    "Pediatric Emergency Medicine"
+  ],
+  "tags_custom": [
+    "acute metabolic crisis",
+    "protein cessation",
+    "neonatal encephalopathy",
+    "emergency protocols"
+  ],
+  "reference_quote": "\"A representative institutional dosing framework for the IV sodium phenylacetate and sodium benzoate combination includes a loading dose of 250 mg/kg over 90 minutes with arginine hydrochloride 600 mg/kg, followed by a maintenance infusion of 250 mg/kg over 24 hours with arginine 600 mg/kg over 24 hours.\"",
+  "document_key_topics": [
+    "Hyperammonemia crisis management",
+    "Nitrogen-scavenging drug protocols",
+    "Protein reintroduction after stabilization",
+    "Dialysis in severe hyperammonemia"
+  ],
+  "chunk_heading": "THERAPEUTIC DIETS & SPECIAL INTERVENTIONS;HYPERAMMONEMIA CRISIS MANAGEMENT WITH DRUG-LINKED PROTEIN CESSATION IN UREA CYCLE DISORDERS;",
+  "topic": "THERAPEUTIC DIETS & SPECIAL INTERVENTIONS",
+  "subtopic": "HYPERAMMONEMIA CRISIS MANAGEMENT WITH DRUG-LINKED PROTEIN CESSATION IN UREA CYCLE DISORDERS",
+  "sub_subtopic": null,
+  "heading_path": "THERAPEUTIC DIETS & SPECIAL INTERVENTIONS;HYPERAMMONEMIA CRISIS MANAGEMENT WITH DRUG-LINKED PROTEIN CESSATION IN UREA CYCLE DISORDERS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "3\u0084"
+}

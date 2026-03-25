@@ -1,0 +1,47 @@
+{
+  "chunk_summary": "This section discusses implementation research designs for nutrition practice, emphasizing design choices, reporting standards, and dual outcomes to ensure effective and replicable interventions.",
+  "learning_objectives": [
+    "Understand the application of PDSA cycles, pragmatic trials, and stepped-wedge cluster designs in nutrition practice.",
+    "Learn to define and track dual outcomes, including clinical and implementation metrics.",
+    "Explore reporting standards like TIDieR and StaRI for replicable implementation studies."
+  ],
+  "key_facts": [
+    "PDSA cycles are ideal for rapid iteration within a single clinic or ward.",
+    "PRECIS-2 tool helps specify the pragmatism of trials for real-world effectiveness.",
+    "Dual outcomes include clinical metrics (e.g., BMI trajectory, hemoglobin change) and implementation metrics (e.g., reach, fidelity, sustainability).",
+    "TIDieR checklist ensures full intervention description, including delivery, dose, and tailoring.",
+    "StaRI principles focus on reporting implementation strategies and context alongside outcomes."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Implementation Science",
+    "Nutrition Therapy",
+    "Clinical Trials as Topic",
+    "Outcome Assessment, Health Care",
+    "Research Design",
+    "Program Evaluation",
+    "Health Behavior",
+    "Evidence-Based Practice"
+  ],
+  "tags_custom": [
+    "nutrition implementation",
+    "dual outcomes",
+    "reporting standards",
+    "pragmatic trials",
+    "measurement systems"
+  ],
+  "reference_quote": "Implementation outcomes taxonomy defines key metrics like reach, fidelity, acceptability, and sustainability to distinguish 'not delivered' from 'ineffective.' (Proctor et al.)",
+  "document_key_topics": [
+    "Implementation research designs for nutrition practice",
+    "Dual outcomes in clinical and implementation metrics",
+    "Reporting standards for replicable interventions"
+  ],
+  "chunk_heading": "RESEARCH & EMERGING CONCEPTS;IMPLEMENTATION RESEARCH DESIGNS FOR NUTRITION PRACTICE;DESIGN CHOICES REPORTING STANDARDS AND DUAL OUTCOMES;",
+  "topic": "RESEARCH & EMERGING CONCEPTS",
+  "subtopic": "IMPLEMENTATION RESEARCH DESIGNS FOR NUTRITION PRACTICE",
+  "sub_subtopic": "DESIGN CHOICES REPORTING STANDARDS AND DUAL OUTCOMES",
+  "heading_path": "RESEARCH & EMERGING CONCEPTS;IMPLEMENTATION RESEARCH DESIGNS FOR NUTRITION PRACTICE;DESIGN CHOICES REPORTING STANDARDS AND DUAL OUTCOMES;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u008f3"
+}

@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Case-based management decisions in SAM discharge and outpatient care emphasize tailored approaches based on clinical metrics, caregiver reliability, and follow-up adherence to ensure safe recovery and prevent complications.",
+  "learning_objectives": [
+    "Understand the importance of using admission criteria for discharge decisions in SAM management.",
+    "Learn to address feeding effectiveness in infants with low weight-for-length and weak suck.",
+    "Develop strategies for tracing and managing defaulters in outpatient CMAM programs.",
+    "Recognize and manage SAM with complications such as severe pneumonia and suspected HIV."
+  ],
+  "key_facts": [
+    "Discharge should require repeated edema-free stability and not rely solely on weight-for-height normalization.",
+    "MUAC <125 mm indicates continued therapy despite WHZ improvement.",
+    "Infants with weak suck require urgent lactation support and feeding effectiveness assessment, not just therapeutic milk.",
+    "Defaulters in outpatient CMAM must be traced immediately to assess illness, social barriers, or danger signs.",
+    "Severe pneumonia in SAM with suspected HIV requires broad antibiotics, high-dose cotrimoxazole for PCP, and ART initiation after stabilization."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Malnutrition",
+    "Severe Acute Malnutrition",
+    "Outpatient Care",
+    "Infant Nutrition Disorders",
+    "Anthropometry",
+    "HIV Infections",
+    "Pneumonia",
+    "Therapeutic Feeding"
+  ],
+  "tags_custom": [
+    "SAM discharge criteria",
+    "CMAM defaulter management",
+    "Infant feeding support",
+    "HIV and SAM complications",
+    "Follow-up adherence"
+  ],
+  "reference_quote": "Correct approach is to anchor recovery to the admission criterion and require repeated edema-free stability; discordance is common and continued therapy with close follow-up is safer than single-metric discharge. (WHO Guideline, 2023)",
+  "document_key_topics": [
+    "Discharge criteria in SAM management",
+    "Outpatient care for SAM cases",
+    "Management of SAM with complications",
+    "Follow-up and caregiver reliability in SAM treatment"
+  ],
+  "chunk_heading": "SEVERE ACUTE MALNUTRITION-(SAM) MANAGEMENT;CASE-BASED MANAGEMENT  DECISIONS IN DISCHARGE AND OUTPATIENT CARE;",
+  "topic": "SEVERE ACUTE MALNUTRITION-(SAM) MANAGEMENT",
+  "subtopic": "CASE-BASED MANAGEMENT  DECISIONS IN DISCHARGE AND OUTPATIENT CARE",
+  "sub_subtopic": null,
+  "heading_path": "SEVERE ACUTE MALNUTRITION-(SAM) MANAGEMENT;CASE-BASED MANAGEMENT  DECISIONS IN DISCHARGE AND OUTPATIENT CARE;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "4\u0093"
+}

@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section outlines the delivery ecosystems for pediatric micronutrient programs in India, focusing on Anganwadi, school, and health-system touchpoints, with governance escalation paths for operational issues and entitlements versus clinical treatments.",
+  "learning_objectives": [
+    "Understand the three delivery ecosystems for pediatric micronutrient programs: Anganwadi, schools, and health-system touchpoints.",
+    "Differentiate between entitlements (e.g., prophylactic IFA, VAS) and clinical treatments (e.g., therapeutic iron, vitamin A for measles).",
+    "Learn governance escalation paths for operational issues in Anganwadi and school ecosystems.",
+    "Recognize the role of fortification and FSSAI regulation in nutrition programs."
+  ],
+  "key_facts": [
+    "Anganwadi/ICDS (Poshan 2.0) delivers take-home rations (THR) or hot cooked meals (HCM) to registered children.",
+    "PM POSHAN integrates weekly IFA supplementation and biannual National Deworming Day (NDD) in schools.",
+    "Health-system touchpoints include VHND/VHSND, sub-centres, and PHCs for scheduled VAS, IFA, and deworming.",
+    "Governance escalation paths include AWW \u2192 supervisor/sector in-charge \u2192 CDPO for Anganwadi issues.",
+    "Prophylactic IFA should be paused during therapeutic iron treatment to avoid double dosing."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Micronutrients",
+    "Child Nutrition",
+    "Iron Deficiency",
+    "Vitamin A Deficiency",
+    "Public Health Programs",
+    "Health Systems",
+    "Fortification",
+    "Governance"
+  ],
+  "tags_custom": [
+    "Anganwadi programs",
+    "School-based nutrition",
+    "Pediatric micronutrient delivery",
+    "Governance escalation",
+    "Fortification strategies"
+  ],
+  "reference_quote": "Mission Saksham Anganwadi and POSHAN 2.0 documents emphasize the importance of governance escalation paths for operational issues in Anganwadi ecosystems.",
+  "document_key_topics": [
+    "Pediatric micronutrient delivery ecosystems",
+    "Entitlements versus clinical treatments",
+    "Governance escalation paths",
+    "Fortification and regulatory frameworks"
+  ],
+  "chunk_heading": "NATIONAL NUTRITION & FORTIFICATION PROGRAMS IN INDIA;MICRONUTRIENT PROGRAM PLATFORMS AND PEDIATRIC TOUCHPOINTS;PROGRAMME DELIVERY ECOSYSTEMS AND GOVERNANCE ESCALATION PATHS;",
+  "topic": "NATIONAL NUTRITION & FORTIFICATION PROGRAMS IN INDIA",
+  "subtopic": "MICRONUTRIENT PROGRAM PLATFORMS AND PEDIATRIC TOUCHPOINTS",
+  "sub_subtopic": "PROGRAMME DELIVERY ECOSYSTEMS AND GOVERNANCE ESCALATION PATHS",
+  "heading_path": "NATIONAL NUTRITION & FORTIFICATION PROGRAMS IN INDIA;MICRONUTRIENT PROGRAM PLATFORMS AND PEDIATRIC TOUCHPOINTS;PROGRAMME DELIVERY ECOSYSTEMS AND GOVERNANCE ESCALATION PATHS;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "1b1"
+}

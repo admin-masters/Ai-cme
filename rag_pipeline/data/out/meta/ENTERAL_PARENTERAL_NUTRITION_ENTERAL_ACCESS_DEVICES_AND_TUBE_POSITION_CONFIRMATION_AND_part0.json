@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section discusses tube position confirmation and aspiration prevention strategies for enteral feeding, emphasizing verification methods, risk reduction bundles, and clinical guidelines for safe practice.",
+  "learning_objectives": [
+    "Understand the importance of verifying tube position before use and during clinical changes.",
+    "Learn methods for aspiration risk reduction during enteral feeding, including positioning and feeding adjustments.",
+    "Recognize when radiographic confirmation is necessary for tube placement.",
+    "Identify limitations of pH testing and alternative strategies in resource-constrained settings."
+  ],
+  "key_facts": [
+    "Tube misplacement is a high-severity preventable harm; position must be verified before first use and each feed/medication.",
+    "Gastric pH testing is reliable when pH \u22645.5, but less so with PPI therapy, continuous feeding, or ileus; stricter pediatric cutoffs (e.g., \u22644) may apply.",
+    "Radiographic confirmation is required if aspirate is unobtainable, pH is abnormal, or respiratory symptoms occur.",
+    "Semi-upright positioning (\u226530 degrees) during and ~30 minutes post-feed reduces aspiration risk.",
+    "Switch bolus feeding to continuous delivery or escalate to postpyloric feeding if emesis or aspiration occurs."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Enteral Nutrition",
+    "Aspiration Pneumonia",
+    "Feeding Tubes",
+    "Radiography",
+    "pH Monitoring",
+    "Risk Reduction",
+    "Postural Support",
+    "Pediatric Nutrition"
+  ],
+  "tags_custom": [
+    "Tube placement verification",
+    "Aspiration prevention bundle",
+    "Feeding safety",
+    "Clinical guidelines",
+    "Pediatric feeding protocols"
+  ],
+  "reference_quote": "Tube misplacement is a high-severity, preventable harm, so 'check position' must be operationalized. (Source: NICE Guidance CG32)",
+  "document_key_topics": [
+    "Tube position confirmation methods",
+    "Aspiration prevention strategies",
+    "Clinical guidelines for enteral feeding",
+    "Risk management in pediatric nutrition"
+  ],
+  "chunk_heading": "ENTERAL & PARENTERAL NUTRITION;ENTERAL ACCESS DEVICES AND ASPIRATION PREVENTION;TUBE POSITION CONFIRMATION AND ASPIRATION PREVENTION BUNDLE;",
+  "topic": "ENTERAL & PARENTERAL NUTRITION",
+  "subtopic": "ENTERAL ACCESS DEVICES AND ASPIRATION PREVENTION",
+  "sub_subtopic": "TUBE POSITION CONFIRMATION AND ASPIRATION PREVENTION BUNDLE",
+  "heading_path": "ENTERAL & PARENTERAL NUTRITION;ENTERAL ACCESS DEVICES AND ASPIRATION PREVENTION;TUBE POSITION CONFIRMATION AND ASPIRATION PREVENTION BUNDLE;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2p2.1"
+}

@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Obesity severity bands and lifestyle intensity thresholds guide therapy escalation in Indian children, emphasizing structured interventions and early action for class 2\u20133 obesity to mitigate cardiometabolic risks.",
+  "learning_objectives": [
+    "Understand obesity severity bands and their adult-equivalent BMI cutoffs for Indian children aged 5\u201318 years.",
+    "Learn the minimum requirements for intensive health behavior and lifestyle treatment (IHBLT) in pediatric obesity care.",
+    "Recognize the importance of waist circumference and its role in predicting MASLD and dysglycemia risk.",
+    "Identify criteria for therapy escalation based on obesity class and metabolic markers."
+  ],
+  "key_facts": [
+    "Class 2 obesity is defined as 120% to <140% of the adult-equivalent BMI of 27; class 3 obesity is \u2265140%.",
+    "Clinically meaningful IHBLT requires ~26 hours of contact over 3\u201312 months, with optimal results at \u226552 hours.",
+    "A practical minimum for IHBLT in Indian settings is 4\u20136 structured contacts within 12 weeks, including family sessions.",
+    "Waist circumference should be recorded alongside BMI to assess central adiposity and related risks like MASLD.",
+    "Escalate therapy intensity for class 2\u20133 obesity or worsening ALT, BP, glycemia, or lipids despite initial advice."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Pediatric Obesity",
+    "Body Mass Index",
+    "Cardiometabolic Risk",
+    "Lifestyle Modification",
+    "Nonalcoholic Fatty Liver Disease",
+    "Dysglycemia",
+    "Behavior Therapy",
+    "Risk Assessment"
+  ],
+  "tags_custom": [
+    "Indian pediatric guidelines",
+    "Obesity severity bands",
+    "Lifestyle therapy thresholds",
+    "Central adiposity risks",
+    "Therapy escalation criteria"
+  ],
+  "reference_quote": "Evidence-based obesity care shows a dose-response relationship for intensive health behavior and lifestyle treatment (IHBLT), with clinically meaningful benefit typically requiring at least ~26 hours of contact over 3\u201312 months and greater consistency at \u226552 hours. (Reference 2)",
+  "document_key_topics": [
+    "Obesity severity bands and BMI cutoffs for Indian children",
+    "Lifestyle therapy intensity thresholds and structured interventions",
+    "Role of waist circumference in predicting metabolic risks",
+    "Criteria for therapy escalation in pediatric obesity care"
+  ],
+  "chunk_heading": "METABOLIC RISK IN CHILDREN;OBESITY SEVERITY ASSESSMENT AND THERAPY ESCALATION;OBESITY SEVERITY BANDS AND LIFESTYLE INTENSITY THRESHOLDS;",
+  "topic": "METABOLIC RISK IN CHILDREN",
+  "subtopic": "OBESITY SEVERITY ASSESSMENT AND THERAPY ESCALATION",
+  "sub_subtopic": "OBESITY SEVERITY BANDS AND LIFESTYLE INTENSITY THRESHOLDS",
+  "heading_path": "METABOLIC RISK IN CHILDREN;OBESITY SEVERITY ASSESSMENT AND THERAPY ESCALATION;OBESITY SEVERITY BANDS AND LIFESTYLE INTENSITY THRESHOLDS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u00981.1"
+}

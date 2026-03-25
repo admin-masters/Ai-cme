@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Blenderized tube feed (BTF) safety focuses on short hang times, bacterial growth risks, and micronutrient completeness. Recipes require standardization, monitoring, and periodic lab assessments to ensure nutritional adequacy and safety.",
+  "learning_objectives": [
+    "Understand food safety guidelines for blenderized tube feeds, including hang time limits and bacterial growth risks.",
+    "Identify common micronutrient deficiencies in BTF recipes and strategies to address them.",
+    "Learn monitoring protocols for patients on BTF, including anthropometric trends and lab assessments.",
+    "Explore challenges in vegetarian diets and limited access to fortified foods in BTF planning."
+  ],
+  "key_facts": [
+    "Prepared BTF should have a hang time of \u22642 hours at room temperature, stricter in high ambient temperatures.",
+    "Micronutrient gaps in BTF recipes often include iron, zinc, calcium, vitamin D, and vitamin B12.",
+    "Protein inadequacy is common in starch-dominant recipes; standardization with planned protein sources is recommended.",
+    "Vegetarian diets in regions like India increase risks of iron and vitamin B12 deficiencies.",
+    "Monitoring should include weight/length, MUAC trends, hydration, stool patterns, and tube patency.",
+    "Periodic labs (e.g., CBC, iron studies, vitamin D) are essential for long-term non-commercial BTF use."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Enteral Nutrition",
+    "Parenteral Nutrition",
+    "Blenderized Tube Feeding",
+    "Micronutrients",
+    "Food Safety",
+    "Dietary Monitoring",
+    "Vegetarian Diet",
+    "Nutritional Deficiency"
+  ],
+  "tags_custom": [
+    "BTF safety",
+    "micronutrient gaps",
+    "vegetarian nutrition",
+    "tube feeding monitoring",
+    "pediatric nutrition"
+  ],
+  "reference_quote": "Prepared blenderized feeds should have a short hang time (commonly \u22642 hours), and the limit should be stricter during high ambient temperatures because bacterial growth accelerates. \u2014 ASPEN blenderized tube feedings practice tool",
+  "document_key_topics": [
+    "Blenderized tube feed food safety",
+    "Micronutrient completeness in BTF recipes",
+    "Monitoring protocols for BTF patients"
+  ],
+  "chunk_heading": "ENTERAL & PARENTERAL NUTRITION;FORMULA TYPES AND BLENDERIZED TUBE FEED SAFETY;BLENDERIZED FEED FOOD SAFETY AND MICRONUTRIENT COMPLETENESS;",
+  "topic": "ENTERAL & PARENTERAL NUTRITION",
+  "subtopic": "FORMULA TYPES AND BLENDERIZED TUBE FEED SAFETY",
+  "sub_subtopic": "BLENDERIZED FEED FOOD SAFETY AND MICRONUTRIENT COMPLETENESS",
+  "heading_path": "ENTERAL & PARENTERAL NUTRITION;FORMULA TYPES AND BLENDERIZED TUBE FEED SAFETY;BLENDERIZED FEED FOOD SAFETY AND MICRONUTRIENT COMPLETENESS;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "2z6"
+}

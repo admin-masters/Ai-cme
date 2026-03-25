@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "This section discusses bedside nutrition assessment in chronic cardiorespiratory disease, focusing on identifying limiting factors through history, physical exam, and anthropometry to guide tailored nutritional interventions.",
+  "learning_objectives": [
+    "Understand the importance of triaging children with chronic cardiorespiratory disease for nutritional care.",
+    "Identify red flags such as feeding fatigue, malabsorption, and edema in nutrition assessment.",
+    "Learn to use anthropometric measures like MUAC, weight-for-length, and BMI for risk stratification.",
+    "Recognize the role of history-taking in diagnosing feeding difficulties and malnutrition."
+  ],
+  "key_facts": [
+    "Feeding fatigue in tachypneic infants is indicated by feed durations >20\u201330 minutes.",
+    "Bulky, oily, foul stools may suggest cystic fibrosis (CF).",
+    "Mid-upper arm circumference (MUAC) is used for children aged 6\u201359 months.",
+    "In CF, weight-for-length (WFL) should be \u226550th percentile for children under 2 years, and BMI \u226550th percentile for ages 2\u201320 years.",
+    "Edema may indicate malnutrition or cardiac failure and requires careful evaluation.",
+    "Diuretics can cause electrolyte depletion, and acid suppression should be used only when indicated."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Nutrition Assessment",
+    "Chronic Disease",
+    "Cardiopulmonary Resuscitation",
+    "Malnutrition",
+    "Anthropometry",
+    "Cystic Fibrosis",
+    "Edema",
+    "Pediatrics"
+  ],
+  "tags_custom": [
+    "feeding difficulties",
+    "nutritional risk stratification",
+    "pediatric nutrition",
+    "cardiorespiratory disease",
+    "malabsorption"
+  ],
+  "reference_quote": "High-quality nutrition care starts with triage that separates children who need monitored initiation from those who need rapid catch-up, while simultaneously identifying those in whom malabsorption or feeding safety dominates.",
+  "document_key_topics": [
+    "Bedside nutrition assessment in chronic cardiorespiratory disease",
+    "Identification of feeding-related red flags",
+    "Anthropometric measures for nutritional risk stratification",
+    "Role of history and physical exam in diagnosing malnutrition"
+  ],
+  "chunk_heading": "NUTRITION IN CHRONIC CARDIORESPIRATORY DISEASE;BEDSIDE NUTRITION ASSESSMENT AND RISK STRATIFICATION;HISTORY AND EXAM THAT IDENTIFIES THE LIMITING STEP;",
+  "topic": "NUTRITION IN CHRONIC CARDIORESPIRATORY DISEASE",
+  "subtopic": "BEDSIDE NUTRITION ASSESSMENT AND RISK STRATIFICATION",
+  "sub_subtopic": "HISTORY AND EXAM THAT IDENTIFIES THE LIMITING STEP",
+  "heading_path": "NUTRITION IN CHRONIC CARDIORESPIRATORY DISEASE;BEDSIDE NUTRITION ASSESSMENT AND RISK STRATIFICATION;HISTORY AND EXAM THAT IDENTIFIES THE LIMITING STEP;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "1i1"
+}

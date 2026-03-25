@@ -1,0 +1,47 @@
+{
+  "chunk_summary": "Guidance on severity stratification and response criteria for growth faltering, emphasizing urgency classification, structured interventions, and escalation pathways based on clinical features and weight trajectory.",
+  "learning_objectives": [
+    "Understand severity stratification criteria for growth faltering based on weight trajectory and clinical context.",
+    "Learn appropriate interventions and escalation pathways for high, moderate, and low concern cases.",
+    "Identify non-response criteria and implement follow-up plans, including adherence checks and referrals."
+  ],
+  "key_facts": [
+    "High concern: Weight crossing down \u22652 major centile spaces or weight-for-length/height below the lowest centile band.",
+    "Moderate concern: Plateauing weight gain over 2\u20133 visits or insufficient intake reported by caregivers.",
+    "Low concern: Transient dips during short illness with rapid catch-up and normal exam findings.",
+    "Response window: Visible upward change in weight velocity should occur within 2\u20134 weeks in stable children.",
+    "Escalation criteria: Persistent vomiting, edema, dehydration, or feeding refusal require urgent reassessment."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Growth Disorders",
+    "Child Nutrition",
+    "Weight Gain",
+    "Feeding Behavior",
+    "Nutritional Counseling",
+    "Disease Severity",
+    "Referral and Consultation",
+    "Child Development"
+  ],
+  "tags_custom": [
+    "growth faltering",
+    "severity stratification",
+    "non-response criteria",
+    "nutrition counseling",
+    "escalation pathways"
+  ],
+  "reference_quote": "High concern features include weight crossing down \u22652 major centile spaces, weight-for-length/height below the lowest centile band, or any weight loss after infancy, especially with diarrhea, vomiting, fever, night sweats, edema, or developmental regression. (NICE NG75)",
+  "document_key_topics": [
+    "Severity stratification in growth faltering",
+    "Non-response criteria and follow-up plans",
+    "Condition-specific escalation pathways"
+  ],
+  "chunk_heading": "NUTRITION COUNSELLING & BEHAVIOUR CHANGE SKILLS;CONDITION-SPECIFIC COUNSELLING AND ESCALATION PATHWAYS;SEVERITY STRATIFICATION AND NON- RESPONSE CRITERIA IN GROWTH FALTERING;",
+  "topic": "NUTRITION COUNSELLING & BEHAVIOUR CHANGE SKILLS",
+  "subtopic": "CONDITION-SPECIFIC COUNSELLING AND ESCALATION PATHWAYS",
+  "sub_subtopic": "SEVERITY STRATIFICATION AND NON- RESPONSE CRITERIA IN GROWTH FALTERING",
+  "heading_path": "NUTRITION COUNSELLING & BEHAVIOUR CHANGE SKILLS;CONDITION-SPECIFIC COUNSELLING AND ESCALATION PATHWAYS;SEVERITY STRATIFICATION AND NON- RESPONSE CRITERIA IN GROWTH FALTERING;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1}4"
+}

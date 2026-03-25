@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section discusses the evaluation and management of non-response to nutrition therapy in children, including timelines for expected weight changes, adherence checks, and escalation to investigate organic causes or refer for specialist care.",
+  "learning_objectives": [
+    "Understand the expected timeline for weight changes after initiating nutrition therapy in children.",
+    "Identify key factors to assess when evaluating non-response to nutrition interventions.",
+    "Recognize clinical red flags that warrant escalation or referral in cases of growth faltering.",
+    "Learn the first-line workup for common organic causes of non-response in resource-limited settings."
+  ],
+  "key_facts": [
+    "Weight gain should be measurable within 2\u20134 weeks of improved meal frequency and energy density in cases of uncomplicated dietary insufficiency.",
+    "Red flags for escalation include weight-for-length/height < -3 SD, bilateral pedal edema, recurrent pneumonia, chronic diarrhea (>14 days), and developmental regression.",
+    "Systematic screening for organic causes includes chronic infections (e.g., TB, HIV), celiac disease, inflammatory bowel disease, renal disease, congenital heart disease, and endocrine disorders.",
+    "A pragmatic first-line workup includes complete blood count, urinalysis, stool exam (occult blood/parasites), and targeted tests like tissue transglutaminase IgA for suspected celiac disease.",
+    "Referral should not be delayed if the child is clinically unwell, dehydrated, hypoxic, has edema, or if there are safeguarding concerns."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Child Nutrition Disorders",
+    "Failure to Thrive",
+    "Nutritional Therapy",
+    "Growth Disorders",
+    "Malnutrition",
+    "Pediatric Assessment",
+    "Celiac Disease",
+    "Tuberculosis"
+  ],
+  "tags_custom": [
+    "non-response evaluation",
+    "pediatric nutrition",
+    "growth faltering",
+    "escalation workup",
+    "clinical red flags"
+  ],
+  "reference_quote": "\"In uncomplicated dietary insufficiency, improved meal frequency and energy density should produce measurable weight change within 2\u20134 weeks.\" (NICE NG75, 2017)",
+  "document_key_topics": [
+    "Non-response to nutrition therapy in children",
+    "Timelines for weight change after dietary interventions",
+    "Clinical red flags and escalation criteria",
+    "First-line workup for organic causes of growth faltering"
+  ],
+  "chunk_heading": "MACRONUTRIENT NUTRITION ACROSS CHILDHOOD;NON-RESPONSE AFTER NUTRITION THERAPY TIMELINES AND ESCALATION WORKUP;",
+  "topic": "MACRONUTRIENT NUTRITION ACROSS CHILDHOOD",
+  "subtopic": "NON-RESPONSE AFTER NUTRITION THERAPY TIMELINES AND ESCALATION WORKUP",
+  "sub_subtopic": null,
+  "heading_path": "MACRONUTRIENT NUTRITION ACROSS CHILDHOOD;NON-RESPONSE AFTER NUTRITION THERAPY TIMELINES AND ESCALATION WORKUP;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1p"
+}

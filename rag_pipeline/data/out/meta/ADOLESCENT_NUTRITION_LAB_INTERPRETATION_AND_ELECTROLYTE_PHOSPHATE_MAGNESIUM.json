@@ -1,0 +1,47 @@
+{
+  "chunk_summary": "This section addresses electrolyte shifts, QTc interpretation, and monitoring protocols in adolescents at risk of refeeding syndrome due to malnutrition or dietary restriction.",
+  "learning_objectives": [
+    "Understand the role of phosphate, magnesium, and potassium in refeeding syndrome risk.",
+    "Learn protocols for serial electrolyte monitoring and urgent hypophosphatemia treatment.",
+    "Interpret ECG findings, including prolonged QTc thresholds, in malnourished adolescents.",
+    "Recognize the importance of thiamine supplementation in severe dietary restriction."
+  ],
+  "key_facts": [
+    "Refeeding syndrome risk is highest in the first 24\u201348 hours of nutritional rehabilitation.",
+    "Prolonged QTc is clinically significant at \u2265460 ms in younger adolescents and above sex-specific limits in older teens.",
+    "Hypophosphatemia, hypokalemia, and hypomagnesemia can cause arrhythmias, weakness, and respiratory compromise.",
+    "Baseline electrolytes (phosphate, magnesium, potassium, glucose) should be obtained before increasing energy density.",
+    "Magnesium repletion is essential for correcting hypokalemia effectively."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Adolescent Nutrition",
+    "Refeeding Syndrome",
+    "Electrolyte Imbalance",
+    "Hypophosphatemia",
+    "Hypokalemia",
+    "Hypomagnesemia",
+    "QT Interval",
+    "ECG Monitoring"
+  ],
+  "tags_custom": [
+    "Refeeding risk",
+    "Electrolyte monitoring",
+    "QTc thresholds",
+    "Malnutrition protocols"
+  ],
+  "reference_quote": "Treat prolonged QTc as clinically significant: a practical teaching threshold is QTc \u2265460 ms in younger adolescents, and above sex-specific upper limits in older teens.",
+  "document_key_topics": [
+    "Electrolyte shifts in refeeding syndrome",
+    "QTc interpretation in malnourished adolescents",
+    "Monitoring protocols for nutritional rehabilitation"
+  ],
+  "chunk_heading": "ADOLESCENT NUTRITION;LAB INTERPRETATION AND RESOURCE-ADAPTED DECISION RULES;ELECTROLYTE PHOSPHATE MAGNESIUM AND QTC INTERPRETATION IN REFEEDING RISK;",
+  "topic": "ADOLESCENT NUTRITION",
+  "subtopic": "LAB INTERPRETATION AND RESOURCE-ADAPTED DECISION RULES",
+  "sub_subtopic": "ELECTROLYTE PHOSPHATE MAGNESIUM AND QTC INTERPRETATION IN REFEEDING RISK",
+  "heading_path": "ADOLESCENT NUTRITION;LAB INTERPRETATION AND RESOURCE-ADAPTED DECISION RULES;ELECTROLYTE PHOSPHATE MAGNESIUM AND QTC INTERPRETATION IN REFEEDING RISK;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "1l2"
+}

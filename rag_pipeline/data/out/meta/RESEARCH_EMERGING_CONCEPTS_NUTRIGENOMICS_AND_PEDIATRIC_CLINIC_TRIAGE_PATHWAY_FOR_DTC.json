@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section outlines a clinic triage pathway for managing pediatric direct-to-consumer (DTC) nutrigenetic reports, emphasizing safety, clinical validity, and practical guardrails for genetic test stewardship in diverse populations.",
+  "learning_objectives": [
+    "Understand the steps for triaging pediatric DTC nutrigenetic reports in clinical settings.",
+    "Recognize the limitations of DTC genetic tests, including analytic and clinical validity issues.",
+    "Learn to identify and address potential harm from DTC reports, such as disordered eating or restrictive diets.",
+    "Implement practical guidelines for confirmatory testing and ethical data handling."
+  ],
+  "key_facts": [
+    "Step 1: Screen for harm, including food-group elimination, fasting, or disordered eating, especially in adolescents.",
+    "Step 2: Many DTC reports rely on single nucleotide variants and lack clinical validity or utility.",
+    "Step 3: Confirmatory testing is only warranted for specific clinical presentations, such as extreme lipid levels or recurrent pancreatitis.",
+    "Step 4: Use labs with recognized quality systems like NABL accreditation or ISO 15189.",
+    "Polygenic scores and gene\u2013diet interactions often perform poorly across diverse ancestry groups, such as in India."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Nutrigenomics",
+    "Genetic Testing",
+    "Pediatrics",
+    "Direct-to-Consumer Testing",
+    "Clinical Validity",
+    "Polygenic Risk Scores",
+    "Dietary Patterns",
+    "Mental Health"
+  ],
+  "tags_custom": [
+    "DTC genetic reports",
+    "pediatric nutrition",
+    "test stewardship",
+    "clinical triage",
+    "genotype-based diets"
+  ],
+  "reference_quote": "Ethical and policy issues in genetic testing and screening of children \u2014 https://pubmed.ncbi.nlm.nih.gov/23428972/",
+  "document_key_topics": [
+    "Pediatric genetic test stewardship",
+    "Triage pathway for DTC nutrigenetic reports",
+    "Limitations of DTC genetic testing",
+    "Ethical and practical guidelines for genetic data use"
+  ],
+  "chunk_heading": "RESEARCH & EMERGING CONCEPTS;NUTRIGENOMICS AND PEDIATRIC GENETIC TEST STEWARDSHIP;CLINIC TRIAGE PATHWAY FOR DTC NUTRIGENETIC REPORTS;",
+  "topic": "RESEARCH & EMERGING CONCEPTS",
+  "subtopic": "NUTRIGENOMICS AND PEDIATRIC GENETIC TEST STEWARDSHIP",
+  "sub_subtopic": "CLINIC TRIAGE PATHWAY FOR DTC NUTRIGENETIC REPORTS",
+  "heading_path": "RESEARCH & EMERGING CONCEPTS;NUTRIGENOMICS AND PEDIATRIC GENETIC TEST STEWARDSHIP;CLINIC TRIAGE PATHWAY FOR DTC NUTRIGENETIC REPORTS;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "1~3"
+}

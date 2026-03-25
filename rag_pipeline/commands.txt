@@ -1,0 +1,3 @@
+python stage1_chunk_pdf.py --in data/input_pdfs
+python stage2_meta_tag.py  --topic "neonatology"
+python stage3_vector_index.py

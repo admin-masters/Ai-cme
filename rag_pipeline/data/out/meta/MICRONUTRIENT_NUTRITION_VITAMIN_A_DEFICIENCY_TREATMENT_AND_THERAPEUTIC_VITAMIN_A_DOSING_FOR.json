@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Guidelines for therapeutic vitamin A dosing in children with xerophthalmia or measles, emphasizing age-based regimens, follow-up, and management of side effects.",
+  "learning_objectives": [
+    "Understand age-based therapeutic vitamin A dosing schedules for xerophthalmia and measles.",
+    "Recognize the importance of follow-up doses and caregiver education in vitamin A treatment.",
+    "Identify expected responses and manage side effects of high-dose vitamin A therapy.",
+    "Evaluate non-response cases and consider alternative diagnoses or malnutrition pathways."
+  ],
+  "key_facts": [
+    "Therapeutic vitamin A dosing: 50,000 IU for infants <6 months, 100,000 IU for 6\u201312 months, and 200,000 IU for children >12 months.",
+    "Treatment schedule: Three doses on day 1, day 2, and day 14 for xerophthalmia; two consecutive days for measles.",
+    "Vitamin A is critical in measles care, especially for malnourished or severely ill children with eye signs.",
+    "Transient nausea or vomiting may occur after high-dose therapy but does not justify stopping treatment.",
+    "Non-response management includes verifying doses, assessing malabsorption, and enrolling in nutrition rehabilitation."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Vitamin A",
+    "Xerophthalmia",
+    "Measles",
+    "Micronutrients",
+    "Malnutrition",
+    "Ocular Diseases",
+    "Therapeutics",
+    "Child Health"
+  ],
+  "tags_custom": [
+    "Vitamin A dosing",
+    "Eye signs treatment",
+    "Measles care",
+    "Nutrition rehabilitation",
+    "Caregiver education"
+  ],
+  "reference_quote": "Vitamin A is also part of supportive care in measles because measles can precipitate deficiency and worsen ocular outcomes. (WHO Pocket Book of Hospital Care for Children)",
+  "document_key_topics": [
+    "Therapeutic vitamin A dosing for xerophthalmia",
+    "Vitamin A in measles management",
+    "Caregiver education and follow-up in treatment",
+    "Non-response evaluation and malnutrition pathways"
+  ],
+  "chunk_heading": "MICRONUTRIENT NUTRITION;VITAMIN A DEFICIENCY TREATMENT AND PROPHYLAXIS DECISIONS;THERAPEUTIC VITAMIN A DOSING FOR EYE SIGNS AND MEASLES;",
+  "topic": "MICRONUTRIENT NUTRITION",
+  "subtopic": "VITAMIN A DEFICIENCY TREATMENT AND PROPHYLAXIS DECISIONS",
+  "sub_subtopic": "THERAPEUTIC VITAMIN A DOSING FOR EYE SIGNS AND MEASLES",
+  "heading_path": "MICRONUTRIENT NUTRITION;VITAMIN A DEFICIENCY TREATMENT AND PROPHYLAXIS DECISIONS;THERAPEUTIC VITAMIN A DOSING FOR EYE SIGNS AND MEASLES;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u007f2"
+}

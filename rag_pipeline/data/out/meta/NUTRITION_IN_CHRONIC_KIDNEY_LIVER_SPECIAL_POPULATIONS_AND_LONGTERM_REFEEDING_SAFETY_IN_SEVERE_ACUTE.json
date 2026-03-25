@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "Refeeding safety in severe acute malnutrition (SAM) with CKD or CLD requires careful electrolyte monitoring, individualized supplementation, and cautious nutritional escalation to prevent refeeding syndrome and fluid overload.",
+  "learning_objectives": [
+    "Understand the risks of refeeding syndrome in children with SAM and CKD or CLD.",
+    "Learn appropriate potassium, phosphate, and magnesium supplementation strategies in CKD stage 4\u20135.",
+    "Recognize the importance of monitoring electrolytes and fluid balance during nutritional escalation.",
+    "Identify safe feeding practices in cholestasis or cirrhosis with ascites."
+  ],
+  "key_facts": [
+    "Children with SAM and CKD/CLD are at high risk for hypoglycemia, hypothermia, infection, and fluid overload.",
+    "Indian stabilization protocols recommend potassium (3\u20134 mEq/kg/day) and magnesium supplementation with 'no added salt' diets for uncomplicated SAM.",
+    "In CKD stage 4\u20135, potassium and phosphate supplementation should be based on measured values and dialysis losses.",
+    "Electrolytes should be monitored closely during the first 72 hours of refeeding, often daily or more frequently in unstable cases.",
+    "In cholestasis/cirrhosis with ascites, energy-dense feeds and early enteral support are preferred to meet nutritional targets within fluid constraints."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Refeeding Syndrome",
+    "Severe Acute Malnutrition",
+    "Chronic Kidney Disease",
+    "Chronic Liver Disease",
+    "Electrolyte Imbalance",
+    "Nutritional Support",
+    "Hypophosphatemia",
+    "Fluid Overload"
+  ],
+  "tags_custom": [
+    "SAM with CKD/CLD",
+    "Refeeding safety",
+    "Electrolyte monitoring",
+    "Pediatric nutrition"
+  ],
+  "reference_quote": "Indian stabilization protocols commonly include potassium (about 3\u20134 mEq/kg/day) and magnesium supplementation with 'no added salt' diets during initial stabilization, reflecting typical total-body potassium and magnesium deficits in uncomplicated SAM.",
+  "document_key_topics": [
+    "Refeeding syndrome in SAM with CKD/CLD",
+    "Electrolyte monitoring and supplementation",
+    "Nutritional escalation strategies",
+    "Fluid management in cholestasis/cirrhosis"
+  ],
+  "chunk_heading": "NUTRITION IN CHRONIC KIDNEY & LIVER DISEASE;SPECIAL POPULATIONS AND LONG-TERM OUTPATIENT COUNSELING;REFEEDING SAFETY IN SEVERE ACUTE MALNUTRITION WITH CKD OR CLD;",
+  "topic": "NUTRITION IN CHRONIC KIDNEY & LIVER DISEASE",
+  "subtopic": "SPECIAL POPULATIONS AND LONG-TERM OUTPATIENT COUNSELING",
+  "sub_subtopic": "REFEEDING SAFETY IN SEVERE ACUTE MALNUTRITION WITH CKD OR CLD",
+  "heading_path": "NUTRITION IN CHRONIC KIDNEY & LIVER DISEASE;SPECIAL POPULATIONS AND LONG-TERM OUTPATIENT COUNSELING;REFEEDING SAFETY IN SEVERE ACUTE MALNUTRITION WITH CKD OR CLD;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "5\u00841"
+}

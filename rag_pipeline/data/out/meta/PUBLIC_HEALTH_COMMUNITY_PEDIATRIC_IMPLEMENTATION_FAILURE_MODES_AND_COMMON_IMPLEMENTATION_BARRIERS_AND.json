@@ -1,0 +1,47 @@
+{
+  "chunk_summary": "This section discusses common barriers in implementing pediatric nutrition programs in India, including supply continuity, anthropometry errors, and coverage without intake, with corrective actions to address these issues.",
+  "learning_objectives": [
+    "Identify and address supply continuity failures in pediatric nutrition programs.",
+    "Understand anthropometry errors and implement corrective actions like re-measurement and equipment calibration.",
+    "Recognize and mitigate 'coverage without intake' issues through observation and preparation demonstrations."
+  ],
+  "key_facts": [
+    "Supply continuity failure involves non-receipt or irregular receipt of supplementary nutrition or school meals.",
+    "Anthropometry errors can distort stunting and wasting trends; corrective actions include re-measurement and equipment calibration.",
+    "Coverage without intake occurs when services are received but not consumed, requiring interventions like plate-waste observation and addressing food safety concerns.",
+    "PM POSHAN guidelines emphasize meal quality, safety, and child-first feeding practices.",
+    "Vignette-based teaching improves recall of corrective actions in field scenarios.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Pediatric Nutrition",
+    "Public Health",
+    "Anthropometry",
+    "Nutrition Programs",
+    "Food Safety",
+    "Health Equity",
+    "India",
+    "Malnutrition"
+  ],
+  "tags_custom": [
+    "implementation barriers",
+    "corrective actions",
+    "nutrition equity",
+    "field interventions"
+  ],
+  "reference_quote": "\u2018Coverage without intake\u2019 is identified when services are \u2018received\u2019 but the child does not consume them. Corrective actions include preparation demonstration for THR (thickness and child-first feeding), plate-waste observation in PM POSHAN, and addressing fear after any food safety incident with transparent corrective steps. (Source: PM POSHAN Guidelines, 2023)",
+  "document_key_topics": [
+    "Implementation barriers in pediatric nutrition programs",
+    "Corrective actions for supply continuity and anthropometry errors",
+    "Addressing equity and acceptability in nutrition programs"
+  ],
+  "chunk_heading": "PUBLIC HEALTH & COMMUNITY PEDIATRIC NUTRITION;IMPLEMENTATION FAILURE MODES AND EQUITY CONTEXTS IN INDIA;COMMON IMPLEMENTATION BARRIERS AND FIELD CORRECTIVE ACTIONS;",
+  "topic": "PUBLIC HEALTH & COMMUNITY PEDIATRIC NUTRITION",
+  "subtopic": "IMPLEMENTATION FAILURE MODES AND EQUITY CONTEXTS IN INDIA",
+  "sub_subtopic": "COMMON IMPLEMENTATION BARRIERS AND FIELD CORRECTIVE ACTIONS",
+  "heading_path": "PUBLIC HEALTH & COMMUNITY PEDIATRIC NUTRITION;IMPLEMENTATION FAILURE MODES AND EQUITY CONTEXTS IN INDIA;COMMON IMPLEMENTATION BARRIERS AND FIELD CORRECTIVE ACTIONS;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "1\u00a01"
+}

@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "POSHAN Tracker and growth data are used for follow-up in India's nutrition programs, focusing on registration, weight monitoring, and supplementary nutrition distribution, with clinical decisions anchored on child records and growth trajectories.",
+  "learning_objectives": [
+    "Understand the clinical applications of POSHAN Tracker for child registration and nutrition monitoring.",
+    "Learn how to interpret growth data using weight points and MUAC for clinical follow-up.",
+    "Identify limitations of national program data systems in proving biological benefit.",
+    "Explore verification methods for immunization and maternal\u2013child service schedules."
+  ],
+  "key_facts": [
+    "POSHAN Tracker records registration, weights, and nutrition distribution but does not confirm consumption or absorption.",
+    "Growth monitoring requires at least three weight points on the MCP card to assess stability or faltering.",
+    "MUAC is recommended for assessing wasting risk in children.",
+    "Irregular spikes or long gaps in weight data suggest measurement errors or missed sessions.",
+    "HMIS dashboards provide system performance trends but lack child-specific dose verification.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Child Nutrition Disorders",
+    "Growth Monitoring",
+    "Nutrition Policy",
+    "Health Information Systems",
+    "Maternal and Child Health",
+    "Anthropometry",
+    "Wasting Syndrome",
+    "India"
+  ],
+  "tags_custom": [
+    "POSHAN Tracker",
+    "Growth Data Analysis",
+    "Clinical Follow-Up",
+    "Nutrition Programs",
+    "Monitoring Indicators"
+  ],
+  "reference_quote": "POSHAN Tracker is strongest for checking whether a child is registered, whether weights are being entered, and whether supplementary nutrition distribution is being recorded.",
+  "document_key_topics": [
+    "POSHAN Tracker functionality and limitations",
+    "Growth monitoring for clinical decision-making",
+    "Verification methods for maternal\u2013child services"
+  ],
+  "chunk_heading": "NATIONAL NUTRITION AND FORTIFICATION PROGRAMS IN INDIA;IMPLEMENTATION ROLES, MONITORING INDICATORS, AND CLINIC DOCUMENTATION;CLINICAL USE OF POSHAN TRACKER AND GROWTH DATA FOR FOLLOW-UP;",
+  "topic": "NATIONAL NUTRITION AND FORTIFICATION PROGRAMS IN INDIA",
+  "subtopic": "IMPLEMENTATION ROLES, MONITORING INDICATORS, AND CLINIC DOCUMENTATION",
+  "sub_subtopic": "CLINICAL USE OF POSHAN TRACKER AND GROWTH DATA FOR FOLLOW-UP",
+  "heading_path": "NATIONAL NUTRITION AND FORTIFICATION PROGRAMS IN INDIA;IMPLEMENTATION ROLES, MONITORING INDICATORS, AND CLINIC DOCUMENTATION;CLINICAL USE OF POSHAN TRACKER AND GROWTH DATA FOR FOLLOW-UP;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "2\u00873"
+}

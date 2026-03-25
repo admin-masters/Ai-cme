@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "Hybrid effectiveness-implementation designs integrate clinical impact and implementation strategies, aiding nutrition practice by addressing effectiveness and real-world uptake challenges.",
+  "learning_objectives": [
+    "Understand the three types of hybrid effectiveness-implementation designs and their applications in nutrition practice.",
+    "Learn how to select the appropriate hybrid design based on clinical and implementation priorities.",
+    "Identify key outcomes for clinical and implementation research in nutrition interventions.",
+    "Explore the use of frameworks like CFIR and RE-AIM for guiding implementation research."
+  ],
+  "key_facts": [
+    "Type 1 hybrid focuses on clinical effectiveness with secondary implementation outcomes; useful for early feasibility and fidelity data.",
+    "Type 2 hybrid has dual aims of effectiveness and implementation; requires pre-specification of clinical (e.g., growth, HbA1c) and implementation outcomes (e.g., adoption, cost).",
+    "Type 3 hybrid prioritizes implementation with secondary clinical outcomes; suitable for interventions with strong evidence but poor uptake (e.g., ORS + zinc for diarrhea).",
+    "Frameworks like CFIR and RE-AIM help guide implementation research and ensure generalizability.",
+    "Implementation units can include providers, clinics, or schools, and adaptation documentation is critical for scalability."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Implementation Science",
+    "Nutrition Therapy",
+    "Pediatrics",
+    "Clinical Effectiveness",
+    "Health Services Research",
+    "Evidence-Based Practice",
+    "Program Evaluation",
+    "Health Behavior"
+  ],
+  "tags_custom": [
+    "hybrid designs",
+    "nutrition interventions",
+    "implementation strategies",
+    "real-world uptake"
+  ],
+  "reference_quote": "\"Effectiveness-implementation hybrid designs: combining elements of clinical effectiveness and implementation research.\"",
+  "document_key_topics": [
+    "Hybrid effectiveness-implementation designs",
+    "Nutrition practice research",
+    "Implementation frameworks (CFIR, RE-AIM)",
+    "Clinical and implementation outcome measurement"
+  ],
+  "chunk_heading": "RESEARCH & EMERGING CONCEPTS;IMPLEMENTATION RESEARCH DESIGNS FOR NUTRITION PRACTICE;HYBRID EFFECTIVENESS IMPLEMENTATION DESIGN SELECTION;",
+  "topic": "RESEARCH & EMERGING CONCEPTS",
+  "subtopic": "IMPLEMENTATION RESEARCH DESIGNS FOR NUTRITION PRACTICE",
+  "sub_subtopic": "HYBRID EFFECTIVENESS IMPLEMENTATION DESIGN SELECTION",
+  "heading_path": "RESEARCH & EMERGING CONCEPTS;IMPLEMENTATION RESEARCH DESIGNS FOR NUTRITION PRACTICE;HYBRID EFFECTIVENESS IMPLEMENTATION DESIGN SELECTION;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u008e2"
+}

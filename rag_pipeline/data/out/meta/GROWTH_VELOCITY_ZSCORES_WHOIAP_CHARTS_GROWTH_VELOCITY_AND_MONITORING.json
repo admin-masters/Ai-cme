@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Guidelines for growth velocity monitoring intervals using WHO/IAP charts, emphasizing age-based schedules, documentation, and high-risk group follow-up.",
+  "learning_objectives": [
+    "Understand age-based growth monitoring intervals for children using WHO/IAP charts.",
+    "Learn documentation practices for growth measurements, including weight, height, and BMI.",
+    "Identify high-risk groups requiring tighter follow-up in growth monitoring.",
+    "Recognize the importance of complete referral packets with growth charts for specialist assessments."
+  ],
+  "key_facts": [
+    "Monthly monitoring is recommended for children under 3 years in community settings (ICDS).",
+    "Clinical schedule: monthly from 6\u201312 months, every 2\u20133 months from 1\u20132 years, every 3\u20136 months from 2\u20135 years, and annually thereafter.",
+    "Head circumference should be recorded routinely through 24 months, longer if neurologic concerns exist.",
+    "BMI should be computed and plotted annually from 5 years onward to detect early adiposity rebound and obesity.",
+    "High-risk groups include preterm infants, low birth weight children, and those recovering from severe acute malnutrition."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Growth Monitoring",
+    "Child Development",
+    "Body Mass Index",
+    "Failure to Thrive",
+    "Pediatric Nutrition",
+    "Anthropometry",
+    "Growth Charts",
+    "Malnutrition"
+  ],
+  "tags_custom": [
+    "WHO/IAP guidelines",
+    "growth velocity",
+    "monitoring intervals",
+    "high-risk follow-up",
+    "documentation practices"
+  ],
+  "reference_quote": "A pragmatic clinical schedule is: at every contact in the first 6 months, at least monthly from 6\u201312 months, every 2\u20133 months from 1\u20132 years, every 3\u20136 months from 2\u20135 years, and at least annually thereafter.",
+  "document_key_topics": [
+    "Growth velocity monitoring intervals",
+    "Age-based documentation schedules",
+    "High-risk group follow-up",
+    "Referral practices with growth charts"
+  ],
+  "chunk_heading": "GROWTH VELOCITY, Z-SCORES; WHO/IAP CHARTS);GROWTH VELOCITY AND MONITORING INTERVALS;AGE-BASED MONITORING SCHEDULES AND DOCUMENTATION;",
+  "topic": "GROWTH VELOCITY, Z-SCORES",
+  "subtopic": "WHO/IAP CHARTS)",
+  "sub_subtopic": "GROWTH VELOCITY AND MONITORING INTERVALS",
+  "heading_path": "GROWTH VELOCITY, Z-SCORES; WHO/IAP CHARTS);GROWTH VELOCITY AND MONITORING INTERVALS;AGE-BASED MONITORING SCHEDULES AND DOCUMENTATION;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2\u008334"
+}

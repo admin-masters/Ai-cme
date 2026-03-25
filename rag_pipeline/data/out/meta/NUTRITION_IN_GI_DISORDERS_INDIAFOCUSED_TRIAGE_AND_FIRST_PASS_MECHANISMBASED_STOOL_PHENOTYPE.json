@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "Mechanism-based stool phenotype classification guides nutrition actions for chronic diarrhea in India, focusing on physiology-driven interventions to prevent harmful dietary cycles and support GI health during triage and assessment.",
+  "learning_objectives": [
+    "Understand stool phenotype classification (watery, fatty, inflammatory) and its role in chronic diarrhea management.",
+    "Identify mechanisms of absorption failure (luminal, mucosal, post-mucosal) and their nutritional implications.",
+    "Apply physiology-driven nutrition strategies to avoid harmful empiric dietary restrictions.",
+    "Recognize India-specific considerations for inflammatory diarrhea, including intestinal TB and IBD."
+  ],
+  "key_facts": [
+    "Chronic diarrhea is classified by stool phenotype: watery (osmotic, secretory, functional), fatty, and inflammatory.",
+    "Watery diarrhea: Osmotic patterns worsen with high carbohydrate loads; secretory persists during fasting; functional linked to excess juices/sorbitol and low dietary fat.",
+    "Fatty stools indicate fat maldigestion/malabsorption (e.g., pancreatic insufficiency, bile acid issues); avoid low-fat diets and support fat-soluble vitamins.",
+    "Inflammatory diarrhea (blood/mucus, fever, weight loss) requires urgent evaluation for IBD, infection, or intestinal TB in India.",
+    "Nutrition rules: Continue breastfeeding, avoid milk dilution, use mechanism-driven trials (e.g., low-lactose for secondary lactase deficiency) with explicit stop rules.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Diarrhea",
+    "Malabsorption Syndromes",
+    "Nutrition Therapy",
+    "Gastrointestinal Diseases",
+    "India",
+    "Fatty Acids",
+    "Inflammatory Bowel Diseases",
+    "Pancreatic Insufficiency"
+  ],
+  "tags_custom": [
+    "stool phenotype classification",
+    "India-specific GI care",
+    "mechanism-based nutrition",
+    "chronic diarrhea management",
+    "malabsorption triage"
+  ],
+  "reference_quote": "Persistent diarrhea requires mechanism-based classification to guide nutrition actions and prevent harmful empiric dietary cycles. (Source: IAP Standard Treatment Guidelines, Chapter 030)",
+  "document_key_topics": [
+    "Mechanism-based stool phenotype classification",
+    "Nutrition strategies for chronic diarrhea",
+    "India-specific considerations for GI disorders",
+    "Absorption failure mechanisms and interventions"
+  ],
+  "chunk_heading": "NUTRITION IN GI DISORDERS & MALABSORPTION;INDIA-FOCUSED TRIAGE AND FIRST- PASS ASSESSMENT;MECHANISM-BASED STOOL PHENOTYPE CLASSIFICATION AND INITIAL NUTRITION ACTIONS;",
+  "topic": "NUTRITION IN GI DISORDERS & MALABSORPTION",
+  "subtopic": "INDIA-FOCUSED TRIAGE AND FIRST- PASS ASSESSMENT",
+  "sub_subtopic": "MECHANISM-BASED STOOL PHENOTYPE CLASSIFICATION AND INITIAL NUTRITION ACTIONS",
+  "heading_path": "NUTRITION IN GI DISORDERS & MALABSORPTION;INDIA-FOCUSED TRIAGE AND FIRST- PASS ASSESSMENT;MECHANISM-BASED STOOL PHENOTYPE CLASSIFICATION AND INITIAL NUTRITION ACTIONS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2e1"
+}

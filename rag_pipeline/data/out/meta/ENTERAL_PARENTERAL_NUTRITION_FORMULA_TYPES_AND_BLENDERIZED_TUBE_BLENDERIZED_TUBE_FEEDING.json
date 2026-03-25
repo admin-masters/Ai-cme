@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Blenderized tube feeding (BTF) involves pureed food-based enteral nutrition, requiring safety protocols to address contamination risks, nutrient gaps, and contraindications for critically ill or high-risk patients.",
+  "learning_objectives": [
+    "Understand the indications for blenderized tube feeding, including stable gastrointestinal function and caregiver preference for whole-food feeding.",
+    "Identify contraindications for BTF, such as severe immunocompromise, uncontrolled aspiration risk, or postpyloric feeding requirements.",
+    "Learn safety measures for BTF, including recipe standardization, sanitation, and tube size considerations.",
+    "Explore practical challenges of BTF in resource-limited settings, such as unreliable refrigeration or clean water."
+  ],
+  "key_facts": [
+    "Blenderized tube feeding (BTF) is suitable for children with stable gastrointestinal function and bolus delivery feasibility.",
+    "Contraindications include severe immunocompromise, uncontrolled aspiration risk, and postpyloric feeding needs.",
+    "Higher viscosity of BTF increases obstruction risk; a \u226514 French gastrostomy tube is commonly recommended.",
+    "Continuous feeding with long hang times is unsuitable for BTF due to contamination risks.",
+    "Unreliable clean water and refrigeration are practical barriers to BTF in resource-limited settings."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Enteral Nutrition",
+    "Parenteral Nutrition",
+    "Blenderized Tube Feeding",
+    "Gastrostomy",
+    "Immunocompromised Host",
+    "Aspiration Pneumonia",
+    "Food Safety",
+    "Caregiver Education"
+  ],
+  "tags_custom": [
+    "tube feeding safety",
+    "whole-food nutrition",
+    "contraindications",
+    "resource-limited settings",
+    "pediatric nutrition"
+  ],
+  "reference_quote": "Contemporary guidance no longer treats BTF as inherently unsafe, but it requires a structured safety screen because evidence is limited and contamination/nutrient gaps are predictable when protocols are absent. (ASPEN blenderized tube feedings practice tool)",
+  "document_key_topics": [
+    "Blenderized tube feeding indications",
+    "Contraindications for BTF",
+    "Safety protocols for BTF",
+    "Challenges in resource-limited settings"
+  ],
+  "chunk_heading": "ENTERAL & PARENTERAL NUTRITION;FORMULA TYPES AND BLENDERIZED TUBE FEED SAFETY;BLENDERIZED TUBE FEEDING INDICATIONS AND CONTRAINDICATIONS;",
+  "topic": "ENTERAL & PARENTERAL NUTRITION",
+  "subtopic": "FORMULA TYPES AND BLENDERIZED TUBE FEED SAFETY",
+  "sub_subtopic": "BLENDERIZED TUBE FEEDING INDICATIONS AND CONTRAINDICATIONS",
+  "heading_path": "ENTERAL & PARENTERAL NUTRITION;FORMULA TYPES AND BLENDERIZED TUBE FEED SAFETY;BLENDERIZED TUBE FEEDING INDICATIONS AND CONTRAINDICATIONS;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "2y5"
+}

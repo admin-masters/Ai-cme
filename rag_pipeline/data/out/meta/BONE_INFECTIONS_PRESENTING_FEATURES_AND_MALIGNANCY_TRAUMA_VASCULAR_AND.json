@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section discusses malignancy, trauma, vascular, and inflammatory mimics of bone infections, emphasizing red flag features for differential diagnosis in pediatric cases.",
+  "learning_objectives": [
+    "Identify malignancy-related symptoms that mimic bone infections, such as night pain and weight loss.",
+    "Differentiate between vaso-occlusive bone infarction and osteomyelitis in children with sickle cell disease.",
+    "Recognize red flag features like persistent fever, rising CRP, or destructive imaging for reassessment of diagnosis.",
+    "Understand the role of repeat imaging and tissue diagnosis in cases with atypical progression."
+  ],
+  "key_facts": [
+    "Malignancy mimics include leukemia, lymphoma, Ewing sarcoma, and osteosarcoma, presenting with limp, bony tenderness, or low-grade fever.",
+    "Red flags include fever persisting beyond 3-4 days of therapy, rising CRP, or destructive imaging crossing anatomic boundaries.",
+    "Children with sickle cell disease may experience vaso-occlusive bone infarction, which differs from osteomyelitis by diffuse pain and less swelling.",
+    "Marked limb swelling disproportionate to tenderness may indicate deep venous thrombosis rather than infection.",
+    "Juvenile idiopathic arthritis evolves less explosively than septic arthritis and produces joint stiffness and pain."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Bone Diseases",
+    "Osteomyelitis",
+    "Neoplasms",
+    "Sickle Cell Disease",
+    "Juvenile Arthritis",
+    "Deep Vein Thrombosis",
+    "Diagnostic Imaging",
+    "C-Reactive Protein"
+  ],
+  "tags_custom": [
+    "pediatric bone infections",
+    "malignancy mimics",
+    "red flag features",
+    "vascular complications",
+    "differential diagnosis"
+  ],
+  "reference_quote": "Clues that favor malignancy include night pain, weight loss, pallor, bruising, generalized lymphadenopathy, multifocal pain, cytopenias, elevated lactate dehydrogenase, or pain that fails to improve after appropriately chosen antibiotics. (Source: Indian Academy of Pediatrics Consensus Statement)",
+  "document_key_topics": [
+    "Malignancy mimics in bone infections",
+    "Differentiating vaso-occlusive infarction from osteomyelitis",
+    "Red flag features for reassessment",
+    "Inflammatory and vascular conditions mimicking infections"
+  ],
+  "chunk_heading": "BONE INFECTIONS;PRESENTING FEATURES AND DIFFERENTIAL DIAGNOSIS;MALIGNANCY TRAUMA VASCULAR AND INFLAMMATORY MIMICS WITH RED FLAG FEATURES;",
+  "topic": "BONE INFECTIONS",
+  "subtopic": "PRESENTING FEATURES AND DIFFERENTIAL DIAGNOSIS",
+  "sub_subtopic": "MALIGNANCY TRAUMA VASCULAR AND INFLAMMATORY MIMICS WITH RED FLAG FEATURES",
+  "heading_path": "BONE INFECTIONS;PRESENTING FEATURES AND DIFFERENTIAL DIAGNOSIS;MALIGNANCY TRAUMA VASCULAR AND INFLAMMATORY MIMICS WITH RED FLAG FEATURES;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1g3"
+}

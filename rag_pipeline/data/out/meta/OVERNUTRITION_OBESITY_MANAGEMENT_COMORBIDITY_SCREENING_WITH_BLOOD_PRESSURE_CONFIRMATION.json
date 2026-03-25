@@ -1,0 +1,47 @@
+{
+  "chunk_summary": "Guidelines for confirming and managing blood pressure in children with obesity, including proper measurement techniques, use of ambulatory BP monitoring (ABPM), and treatment thresholds based on pediatric hypertension guidelines.",
+  "learning_objectives": [
+    "Understand the importance of accurate blood pressure measurement in children with obesity.",
+    "Learn when to use ambulatory blood pressure monitoring (ABPM) to confirm hypertension.",
+    "Identify treatment thresholds and referral criteria for pediatric hypertension.",
+    "Recognize high-risk phenotypes requiring specialized management."
+  ],
+  "key_facts": [
+    "Single BP readings are often inaccurate; confirmation requires proper technique and repeat measurements across visits.",
+    "Ambulatory BP monitoring (ABPM) is recommended for persistent elevated BP, stage 1 hypertension across three visits, or suspected white-coat/masked hypertension.",
+    "Start antihypertensive medication if hypertension persists after lifestyle changes, is symptomatic, or coexists with diabetes or chronic kidney disease.",
+    "Follow-up intervals: 3\u20136 months for lifestyle management, 4\u20136 weeks for medication titration until target BP is achieved.",
+    "Refer to pediatric nephrology or cardiology for stage 2 hypertension, suspected secondary causes, or target organ damage."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Hypertension",
+    "Pediatric Obesity",
+    "Ambulatory Blood Pressure Monitoring",
+    "Blood Pressure Determination",
+    "Hypertension, White Coat",
+    "Hypertension, Masked",
+    "Chronic Kidney Disease",
+    "Obstructive Sleep Apnea"
+  ],
+  "tags_custom": [
+    "Pediatric Hypertension",
+    "Obesity Comorbidities",
+    "BP Monitoring",
+    "Lifestyle Interventions"
+  ],
+  "reference_quote": "\"The AAP 2017 pediatric hypertension guideline emphasizes ABPM to confirm hypertension and to reduce misclassification from white-coat or masked hypertension.\" (AAP Clinical Practice Guideline, 2017)",
+  "document_key_topics": [
+    "Blood pressure measurement techniques in children with obesity",
+    "Use of ambulatory blood pressure monitoring (ABPM)",
+    "Treatment thresholds and referral criteria for pediatric hypertension"
+  ],
+  "chunk_heading": "OVERNUTRITION & OBESITY MANAGEMENT;COMORBIDITY SCREENING WITH ACTIONABLE PATHWAYS;BLOOD PRESSURE CONFIRMATION, AMBULATORY MONITORING, AND TREATMENT THRESHOLDS;",
+  "topic": "OVERNUTRITION & OBESITY MANAGEMENT",
+  "subtopic": "COMORBIDITY SCREENING WITH ACTIONABLE PATHWAYS",
+  "sub_subtopic": "BLOOD PRESSURE CONFIRMATION, AMBULATORY MONITORING, AND TREATMENT THRESHOLDS",
+  "heading_path": "OVERNUTRITION & OBESITY MANAGEMENT;COMORBIDITY SCREENING WITH ACTIONABLE PATHWAYS;BLOOD PRESSURE CONFIRMATION, AMBULATORY MONITORING, AND TREATMENT THRESHOLDS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1q3"
+}

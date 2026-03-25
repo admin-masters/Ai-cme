@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section discusses functional dysphagia risk stratification using GMFCS and EDACS, emphasizing risk communication, classification levels, and a triage schema for feeding safety in neurodisability contexts.",
+  "learning_objectives": [
+    "Understand the EDACS classification system and its levels for assessing eating and drinking safety and efficiency.",
+    "Learn how GMFCS levels correlate with dysphagia and aspiration risk in neurodisability.",
+    "Apply a triage schema to stratify dysphagia risk based on EDACS and GMFCS levels.",
+    "Recognize the role of Mini-EDACS in assessing feeding development in children aged 18-36 months."
+  ],
+  "key_facts": [
+    "EDACS levels range from I (safe and efficient) to V (unsafe, tube feeding likely needed).",
+    "Mini-EDACS is used for children aged 18-36 months to assess early feeding skills.",
+    "High GMFCS levels (IV-V) are associated with increased dysphagia and aspiration risk due to factors like scoliosis, reflux, and ineffective cough.",
+    "A triage schema categorizes risk as low (EDACS I-II, GMFCS I-III, no recurrent infections), moderate (EDACS III or EDACS II with complications), or high (EDACS IV-V or severe feeding-related issues).",
+    "In India, delayed complementary feeding and caregiver fear of choking are common, making EDACS and its Hindi translation particularly relevant."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Dysphagia",
+    "Feeding and Eating Disorders",
+    "Cerebral Palsy",
+    "Risk Assessment",
+    "Gross Motor Function Classification System",
+    "Pediatric Feeding Disorders",
+    "Aspiration Pneumonia",
+    "Tube Feeding"
+  ],
+  "tags_custom": [
+    "EDACS",
+    "GMFCS",
+    "Functional Dysphagia",
+    "Feeding Safety",
+    "Pediatric Neurodisability"
+  ],
+  "reference_quote": "EDACS classifies usual eating and drinking performance (from age 3 years) by safety (choking and aspiration risk) and efficiency (time, effort, oral loss): level I is safe and efficient; level V cannot eat or drink safely and tube feeding may be needed.",
+  "document_key_topics": [
+    "EDACS classification system and levels",
+    "GMFCS and its relationship to dysphagia risk",
+    "Triage schema for functional dysphagia risk",
+    "Mini-EDACS for early feeding assessment"
+  ],
+  "chunk_heading": "NEURODISABILITY AND FEEDING SUPPORT;FUNCTIONAL DYSPHAGIA RISK STRATIFICATION USING GMFCS AND EDACS;",
+  "topic": "NEURODISABILITY AND FEEDING SUPPORT",
+  "subtopic": "FUNCTIONAL DYSPHAGIA RISK STRATIFICATION USING GMFCS AND EDACS",
+  "sub_subtopic": null,
+  "heading_path": "NEURODISABILITY AND FEEDING SUPPORT;FUNCTIONAL DYSPHAGIA RISK STRATIFICATION USING GMFCS AND EDACS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1c"
+}

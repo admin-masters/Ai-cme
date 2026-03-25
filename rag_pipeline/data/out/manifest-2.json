@@ -1,0 +1,922 @@
+[
+  {
+    "chunk_id": "BONE_INFECTIONS_EPIDEMIOLOGY_AND_MICROBIAL_CLINICAL_BURDEN_AND_EPIDEMIOLOGIC",
+    "pdf_source": "Bone_Infections.pdf",
+    "topic": "BONE INFECTIONS",
+    "subtopic": "EPIDEMIOLOGY AND MICROBIAL PATHOGENESIS",
+    "sub_subtopic": "CLINICAL BURDEN AND EPIDEMIOLOGIC PATTERNS",
+    "heading_path": "BONE INFECTIONS;EPIDEMIOLOGY AND MICROBIAL PATHOGENESIS;CLINICAL BURDEN AND EPIDEMIOLOGIC PATTERNS;",
+    "references": [
+      "Indian Academy of Pediatrics Consensus Statement on Diagnosis and Management of Bone and Joint Infections in Children \u2014 https://www.indianpediatrics.net/mar2024/209.pdf",
+      "Clinical Spectrum and Microbial Etiology of Bone and Joint Infections in Children: A Retrospective Analysis from South India \u2014 https://pmc.ncbi.nlm.nih.gov/articles/PMC10160895/",
+      "Update on the Management of Pediatric Acute Osteomyelitis and Septic Arthritis \u2014 https://pmc.ncbi.nlm.nih.gov/articles/PMC4926389/",
+      "Texas Children\u2019s Hospital Musculoskeletal Infections Guideline 2024 \u2014 https://www.texaschildrens.org/sites/tc/files/uploads/documents/outcomes/2024%20standards/MS K%20Infections%20Guideline%20FINAL%20FEB%202024.pdf"
+    ],
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "blob_url": "https://cmetyphoid.blob.core.windows.net/typhoidnew/BONE_INFECTIONS_EPIDEMIOLOGY_AND_MICROBIAL_CLINICAL_BURDEN_AND_EPIDEMIOLOGIC.pdf",
+    "char_count": 1764,
+    "sequence": "1b1",
+    "meta_blob": "https://cmetyphoid.blob.core.windows.net/typhoidnew/BONE_INFECTIONS_EPIDEMIOLOGY_AND_MICROBIAL_CLINICAL_BURDEN_AND_EPIDEMIOLOGIC_330361.json"
+  },
+  {
+    "chunk_id": "BONE_INFECTIONS_EPIDEMIOLOGY_AND_MICROBIAL_AGE_STRATIFIED_PATHOGENS_AND",
+    "pdf_source": "Bone_Infections.pdf",
+    "topic": "BONE INFECTIONS",
+    "subtopic": "EPIDEMIOLOGY AND MICROBIAL PATHOGENESIS",
+    "sub_subtopic": "AGE STRATIFIED PATHOGENS AND ROUTES OF INFECTION",
+    "heading_path": "BONE INFECTIONS;EPIDEMIOLOGY AND MICROBIAL PATHOGENESIS;AGE STRATIFIED PATHOGENS AND ROUTES OF INFECTION;",
+    "references": [
+      "Indian Academy of Pediatrics Consensus Statement on Diagnosis and Management of Bone and Joint Infections in Children \u2014 https://www.indianpediatrics.net/mar2024/209.pdf",
+      "Clinical Spectrum and Microbial Etiology of Bone and Joint Infections in Children: A Retrospective Analysis from South India \u2014 https://pmc.ncbi.nlm.nih.gov/articles/PMC10160895/",
+      "Update on the Management of Pediatric Acute Osteomyelitis and Septic Arthritis \u2014 https://pmc.ncbi.nlm.nih.gov/articles/PMC4926389/",
+      "Treatment Guidelines 2019 \u2014 https://www.icmr.gov.in/icmrobject/custom_data/pdf/resource- guidelines/Treatment_Guidelines_2019_Final.pdf"
+    ],
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "blob_url": "https://cmetyphoid.blob.core.windows.net/typhoidnew/BONE_INFECTIONS_EPIDEMIOLOGY_AND_MICROBIAL_AGE_STRATIFIED_PATHOGENS_AND.pdf",
+    "char_count": 1647,
+    "sequence": "1c2",
+    "meta_blob": "https://cmetyphoid.blob.core.windows.net/typhoidnew/BONE_INFECTIONS_EPIDEMIOLOGY_AND_MICROBIAL_AGE_STRATIFIED_PATHOGENS_AND_906665.json"
+  },
+  {
+    "chunk_id": "BONE_INFECTIONS_PRESENTING_FEATURES_AND_ACUTE_LIMB_PAIN_LIMP_AND",
+    "pdf_source": "Bone_Infections.pdf",
+    "topic": "BONE INFECTIONS",
+    "subtopic": "PRESENTING FEATURES AND DIFFERENTIAL DIAGNOSIS",
+    "sub_subtopic": "ACUTE LIMB PAIN LIMP AND PSEUDOPARALYSIS PATTERNS",
+    "heading_path": "BONE INFECTIONS;PRESENTING FEATURES AND DIFFERENTIAL DIAGNOSIS;ACUTE LIMB PAIN LIMP AND PSEUDOPARALYSIS PATTERNS;",
+    "references": [
+      "Indian Academy of Pediatrics Consensus Statement on Diagnosis and Management of Bone and Joint Infections in Children \u2014 https://www.indianpediatrics.net/mar2024/209.pdf",
+      "Update on the Management of Pediatric Acute Osteomyelitis and Septic Arthritis \u2014 https://pmc.ncbi.nlm.nih.gov/articles/PMC4926389/",
+      "The Diagnosis and Management of Pediatric Spine Infections \u2014 https://pmc.ncbi.nlm.nih.gov/articles/PMC8323075/",
+      "Texas Children\u2019s Hospital Musculoskeletal Infections Guideline 2024 \u2014 https://www.texaschildrens.org/sites/tc/files/uploads/documents/outcomes/2024%20standards/MS K%20Infections%20Guideline%20FINAL%20FEB%202024.pdf"
+    ],
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "blob_url": "https://cmetyphoid.blob.core.windows.net/typhoidnew/BONE_INFECTIONS_PRESENTING_FEATURES_AND_ACUTE_LIMB_PAIN_LIMP_AND.pdf",
+    "char_count": 1683,
+    "sequence": "1e1",
+    "meta_blob": "https://cmetyphoid.blob.core.windows.net/typhoidnew/BONE_INFECTIONS_PRESENTING_FEATURES_AND_ACUTE_LIMB_PAIN_LIMP_AND_034709.json"
+  },
+  {
+    "chunk_id": "BONE_INFECTIONS_PRESENTING_FEATURES_AND_DISTINGUISHING_SEPTIC_ARTHRITIS",
+    "pdf_source": "Bone_Infections.pdf",
+    "topic": "BONE INFECTIONS",
+    "subtopic": "PRESENTING FEATURES AND DIFFERENTIAL DIAGNOSIS",
+    "sub_subtopic": "DISTINGUISHING SEPTIC ARTHRITIS FROM TRANSIENT SYNOVITIS IN A LIMPING CHILD",
+    "heading_path": "BONE INFECTIONS;PRESENTING FEATURES AND DIFFERENTIAL DIAGNOSIS;DISTINGUISHING SEPTIC ARTHRITIS FROM TRANSIENT SYNOVITIS IN A LIMPING CHILD;",
+    "references": [
+      "Indian Academy of Pediatrics Consensus Statement on Diagnosis and Management of Bone and Joint Infections in Children \u2014 https://www.indianpediatrics.net/mar2024/209.pdf",
+      "PIDS/IDSA 2023 Guidelines for Diagnosing and Managing Acute Bacterial Arthritis in Pediatrics \u2014 https://www.idsociety.org/practice-guideline/acute-bacterial-arthritis-in-pediatrics2/",
+      "Texas Children\u2019s Hospital Musculoskeletal Infections Guideline 2024 \u2014 https://www.texaschildrens.org/sites/tc/files/uploads/documents/outcomes/2024%20standards/MS K%20Infections%20Guideline%20FINAL%20FEB%202024.pdf",
+      "Update on the Management of Pediatric Acute Osteomyelitis and Septic Arthritis \u2014 https://pmc.ncbi.nlm.nih.gov/articles/PMC4926389/"
+    ],
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "blob_url": "https://cmetyphoid.blob.core.windows.net/typhoidnew/BONE_INFECTIONS_PRESENTING_FEATURES_AND_DISTINGUISHING_SEPTIC_ARTHRITIS.pdf",
+    "char_count": 1600,
+    "sequence": "1f2",
+    "meta_blob": "https://cmetyphoid.blob.core.windows.net/typhoidnew/BONE_INFECTIONS_PRESENTING_FEATURES_AND_DISTINGUISHING_SEPTIC_ARTHRITIS_815875.json"
+  },
+  {
+    "chunk_id": "BONE_INFECTIONS_PRESENTING_FEATURES_AND_MALIGNANCY_TRAUMA_VASCULAR_AND",
+    "pdf_source": "Bone_Infections.pdf",
+    "topic": "BONE INFECTIONS",
+    "subtopic": "PRESENTING FEATURES AND DIFFERENTIAL DIAGNOSIS",
+    "sub_subtopic": "MALIGNANCY TRAUMA VASCULAR AND INFLAMMATORY MIMICS WITH RED FLAG FEATURES",
+    "heading_path": "BONE INFECTIONS;PRESENTING FEATURES AND DIFFERENTIAL DIAGNOSIS;MALIGNANCY TRAUMA VASCULAR AND INFLAMMATORY MIMICS WITH RED FLAG FEATURES;",
+    "references": [
+      "Indian Academy of Pediatrics Consensus Statement on Diagnosis and Management of Bone and Joint Infections in Children \u2014 https://www.indianpediatrics.net/mar2024/209.pdf",
+      "Texas Children\u2019s Hospital Musculoskeletal Infections Guideline 2024 \u2014 https://www.texaschildrens.org/sites/tc/files/uploads/documents/outcomes/2024%20standards/MS K%20Infections%20Guideline%20FINAL%20FEB%202024.pdf",
+      "Update on the Management of Pediatric Acute Osteomyelitis and Septic Arthritis \u2014 https://pmc.ncbi.nlm.nih.gov/articles/PMC4926389/",
+      "The Diagnosis and Management of Pediatric Spine Infections \u2014 https://pmc.ncbi.nlm.nih.gov/articles/PMC8323075/"
+    ],
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "blob_url": "https://cmetyphoid.blob.core.windows.net/typhoidnew/BONE_INFECTIONS_PRESENTING_FEATURES_AND_MALIGNANCY_TRAUMA_VASCULAR_AND.pdf",
+    "char_count": 1711,
+    "sequence": "1g3",
+    "meta_blob": "https://cmetyphoid.blob.core.windows.net/typhoidnew/BONE_INFECTIONS_PRESENTING_FEATURES_AND_MALIGNANCY_TRAUMA_VASCULAR_AND_630264.json"
+  },
+  {
+    "chunk_id": "BONE_INFECTIONS_DIAGNOSTIC_EVALUATION_AND_IMAGING_INITIAL_LABORATORY_TESTING_AND",
+    "pdf_source": "Bone_Infections.pdf",
+    "topic": "BONE INFECTIONS",
+    "subtopic": "DIAGNOSTIC EVALUATION AND IMAGING SELECTION",
+    "sub_subtopic": "INITIAL LABORATORY TESTING AND MICROBIOLOGIC SAMPLING STRATEGY",
+    "heading_path": "BONE INFECTIONS;DIAGNOSTIC EVALUATION AND IMAGING SELECTION;INITIAL LABORATORY TESTING AND MICROBIOLOGIC SAMPLING STRATEGY;",
+    "references": [
+      "Indian Academy of Pediatrics Consensus Statement on Diagnosis and Management of Bone and Joint Infections in Children \u2014 https://www.indianpediatrics.net/mar2024/209.pdf",
+      "PIDS/IDSA 2023 Guidelines for Diagnosing and Managing Acute Bacterial Arthritis in Pediatrics \u2014 https://www.idsociety.org/practice-guideline/acute-bacterial-arthritis-in-pediatrics2/",
+      "Update on the Management of Pediatric Acute Osteomyelitis and Septic Arthritis \u2014 https://pmc.ncbi.nlm.nih.gov/articles/PMC4926389/",
+      "Texas Children\u2019s Hospital Musculoskeletal Infections Guideline 2024 \u2014 https://www.texaschildrens.org/sites/tc/files/uploads/documents/outcomes/2024%20standards/MS K%20Infections%20Guideline%20FINAL%20FEB%202024.pdf"
+    ],
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "blob_url": "https://cmetyphoid.blob.core.windows.net/typhoidnew/BONE_INFECTIONS_DIAGNOSTIC_EVALUATION_AND_IMAGING_INITIAL_LABORATORY_TESTING_AND.pdf",
+    "char_count": 1540,
+    "sequence": "1i1",
+    "meta_blob": "https://cmetyphoid.blob.core.windows.net/typhoidnew/BONE_INFECTIONS_DIAGNOSTIC_EVALUATION_AND_IMAGING_INITIAL_LABORATORY_TESTING_AND_538070.json"
+  },
+  {
+    "chunk_id": "BONE_INFECTIONS_DIAGNOSTIC_EVALUATION_AND_IMAGING_SYNOVIAL_FLUID_CELL_COUNT",
+    "pdf_source": "Bone_Infections.pdf",
+    "topic": "BONE INFECTIONS",
+    "subtopic": "DIAGNOSTIC EVALUATION AND IMAGING SELECTION",
+    "sub_subtopic": "SYNOVIAL FLUID CELL COUNT INTERPRETATION AND INFLAMMATORY MARKER THRESHOLDS",
+    "heading_path": "BONE INFECTIONS;DIAGNOSTIC EVALUATION AND IMAGING SELECTION;SYNOVIAL FLUID CELL COUNT INTERPRETATION AND INFLAMMATORY MARKER THRESHOLDS;",
+    "references": [
+      "Synovial fluid cell counts and its role in the diagnosis of paediatric septic arthritis \u2014 https://pmc.ncbi.nlm.nih.gov/articles/PMC6701437/",
+      "PIDS/IDSA 2023 Guidelines for Diagnosing and Managing Acute Bacterial Arthritis in Pediatrics \u2014 https://www.idsociety.org/practice-guideline/acute-bacterial-arthritis-in-pediatrics2/",
+      "Indian Academy of Pediatrics Consensus Statement on Diagnosis and Management of Bone and Joint Infections in Children \u2014 https://www.indianpediatrics.net/mar2024/209.pdf",
+      "PIDS/IDSA Guideline on Diagnosis and Management of Acute Hematogenous Osteomyelitis in Pediatrics \u2014 https://www.idsociety.org/practice-guideline/bone-and-joint-infections---osteomyelitis/"
+    ],
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "blob_url": "https://cmetyphoid.blob.core.windows.net/typhoidnew/BONE_INFECTIONS_DIAGNOSTIC_EVALUATION_AND_IMAGING_SYNOVIAL_FLUID_CELL_COUNT.pdf",
+    "char_count": 1676,
+    "sequence": "1j2",
+    "meta_blob": "https://cmetyphoid.blob.core.windows.net/typhoidnew/BONE_INFECTIONS_DIAGNOSTIC_EVALUATION_AND_IMAGING_SYNOVIAL_FLUID_CELL_COUNT_513643.json"
+  },
+  {
+    "chunk_id": "BONE_INFECTIONS_DIAGNOSTIC_EVALUATION_AND_IMAGING_TIMING_OF_ANTIBIOTICS_RELATIVE_TO",
+    "pdf_source": "Bone_Infections.pdf",
+    "topic": "BONE INFECTIONS",
+    "subtopic": "DIAGNOSTIC EVALUATION AND IMAGING SELECTION",
+    "sub_subtopic": "TIMING OF ANTIBIOTICS RELATIVE TO JOINT ASPIRATION AND BONE BIOPSY",
+    "heading_path": "BONE INFECTIONS;DIAGNOSTIC EVALUATION AND IMAGING SELECTION;TIMING OF ANTIBIOTICS RELATIVE TO JOINT ASPIRATION AND BONE BIOPSY;",
+    "references": [
+      "PIDS/IDSA 2023 Guidelines for Diagnosing and Managing Acute Bacterial Arthritis in Pediatrics \u2014 https://www.idsociety.org/practice-guideline/acute-bacterial-arthritis-in-pediatrics2/",
+      "PIDS/IDSA Guideline on Diagnosis and Management of Acute Hematogenous Osteomyelitis in Pediatrics \u2014 https://www.idsociety.org/practice-guideline/bone-and-joint-infections---osteomyelitis/",
+      "Indian Academy of Pediatrics Consensus Statement on Diagnosis and Management of Bone and Joint Infections in Children \u2014 https://www.indianpediatrics.net/mar2024/209.pdf",
+      "Texas Children\u2019s Hospital Musculoskeletal Infections Guideline 2024 \u2014 https://www.texaschildrens.org/sites/tc/files/uploads/documents/outcomes/2024%20standards/MS K%20Infections%20Guideline%20FINAL%20FEB%202024.pdf"
+    ],
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "blob_url": "https://cmetyphoid.blob.core.windows.net/typhoidnew/BONE_INFECTIONS_DIAGNOSTIC_EVALUATION_AND_IMAGING_TIMING_OF_ANTIBIOTICS_RELATIVE_TO.pdf",
+    "char_count": 1597,
+    "sequence": "1k3",
+    "meta_blob": "https://cmetyphoid.blob.core.windows.net/typhoidnew/BONE_INFECTIONS_DIAGNOSTIC_EVALUATION_AND_IMAGING_TIMING_OF_ANTIBIOTICS_RELATIVE_TO_890911.json"
+  },
+  {
+    "chunk_id": "BONE_INFECTIONS_DIAGNOSTIC_EVALUATION_AND_IMAGING_PROCEDURAL_PRINCIPLES_FOR",
+    "pdf_source": "Bone_Infections.pdf",
+    "topic": "BONE INFECTIONS",
+    "subtopic": "DIAGNOSTIC EVALUATION AND IMAGING SELECTION",
+    "sub_subtopic": "PROCEDURAL PRINCIPLES FOR ASPIRATION BIOPSY AND SPECIMEN HANDLING",
+    "heading_path": "BONE INFECTIONS;DIAGNOSTIC EVALUATION AND IMAGING SELECTION;PROCEDURAL PRINCIPLES FOR ASPIRATION BIOPSY AND SPECIMEN HANDLING;",
+    "references": [
+      "PIDS/IDSA 2023 Guidelines for Diagnosing and Managing Acute Bacterial Arthritis in Pediatrics \u2014 https://www.idsociety.org/practice-guideline/acute-bacterial-arthritis-in-pediatrics2/",
+      "PIDS/IDSA Guideline on Diagnosis and Management of Acute Hematogenous Osteomyelitis in Pediatrics \u2014 https://www.idsociety.org/practice-guideline/bone-and-joint-infections---osteomyelitis/",
+      "Indian Academy of Pediatrics Consensus Statement on Diagnosis and Management of Bone and Joint Infections in Children \u2014 https://www.indianpediatrics.net/mar2024/209.pdf",
+      "Update on the Management of Pediatric Acute Osteomyelitis and Septic Arthritis \u2014 https://pmc.ncbi.nlm.nih.gov/articles/PMC4926389/"
+    ],
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "blob_url": "https://cmetyphoid.blob.core.windows.net/typhoidnew/BONE_INFECTIONS_DIAGNOSTIC_EVALUATION_AND_IMAGING_PROCEDURAL_PRINCIPLES_FOR.pdf",
+    "char_count": 1643,
+    "sequence": "1l4",
+    "meta_blob": "https://cmetyphoid.blob.core.windows.net/typhoidnew/BONE_INFECTIONS_DIAGNOSTIC_EVALUATION_AND_IMAGING_PROCEDURAL_PRINCIPLES_FOR_002289.json"
+  },
+  {
+    "chunk_id": "BONE_INFECTIONS_DIAGNOSTIC_EVALUATION_AND_IMAGING_IMAGING_PATHWAY_AND_CULTURE",
+    "pdf_source": "Bone_Infections.pdf",
+    "topic": "BONE INFECTIONS",
+    "subtopic": "DIAGNOSTIC EVALUATION AND IMAGING SELECTION",
+    "sub_subtopic": "IMAGING PATHWAY AND CULTURE NEGATIVE DIAGNOSTIC DECISIONS",
+    "heading_path": "BONE INFECTIONS;DIAGNOSTIC EVALUATION AND IMAGING SELECTION;IMAGING PATHWAY AND CULTURE NEGATIVE DIAGNOSTIC DECISIONS;",
+    "references": [
+      "Indian Academy of Pediatrics Consensus Statement on Diagnosis and Management of Bone and Joint Infections in Children \u2014 https://www.indianpediatrics.net/mar2024/209.pdf",
+      "Texas Children\u2019s Hospital Musculoskeletal Infections Guideline 2024 \u2014 https://www.texaschildrens.org/sites/tc/files/uploads/documents/outcomes/2024%20standards/MS K%20Infections%20Guideline%20FINAL%20FEB%202024.pdf",
+      "Update on the Management of Pediatric Acute Osteomyelitis and Septic Arthritis \u2014 https://pmc.ncbi.nlm.nih.gov/articles/PMC4926389/",
+      "The Diagnosis and Management of Pediatric Spine Infections \u2014 https://pmc.ncbi.nlm.nih.gov/articles/PMC8323075/"
+    ],
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "blob_url": "https://cmetyphoid.blob.core.windows.net/typhoidnew/BONE_INFECTIONS_DIAGNOSTIC_EVALUATION_AND_IMAGING_IMAGING_PATHWAY_AND_CULTURE.pdf",
+    "char_count": 1558,
+    "sequence": "1m5",
+    "meta_blob": "https://cmetyphoid.blob.core.windows.net/typhoidnew/BONE_INFECTIONS_DIAGNOSTIC_EVALUATION_AND_IMAGING_IMAGING_PATHWAY_AND_CULTURE_442626.json"
+  },
+  {
+    "chunk_id": "BONE_INFECTIONS_DIAGNOSTIC_EVALUATION_AND_IMAGING_MOLECULAR_DIAGNOSTICS_WHOLE_BODY",
+    "pdf_source": "Bone_Infections.pdf",
+    "topic": "BONE INFECTIONS",
+    "subtopic": "DIAGNOSTIC EVALUATION AND IMAGING SELECTION",
+    "sub_subtopic": "MOLECULAR DIAGNOSTICS WHOLE BODY MRI AND CULTURE NEGATIVE PATHWAYS",
+    "heading_path": "BONE INFECTIONS;DIAGNOSTIC EVALUATION AND IMAGING SELECTION;MOLECULAR DIAGNOSTICS WHOLE BODY MRI AND CULTURE NEGATIVE PATHWAYS;",
+    "references": [
+      "PIDS/IDSA 2023 Guidelines for Diagnosing and Managing Acute Bacterial Arthritis in Pediatrics \u2014 https://www.idsociety.org/practice-guideline/acute-bacterial-arthritis-in-pediatrics2/",
+      "PIDS/IDSA Guideline on Diagnosis and Management of Acute Hematogenous Osteomyelitis in Pediatrics \u2014 https://www.idsociety.org/practice-guideline/bone-and-joint-infections---osteomyelitis/",
+      "Chronic Nonbacterial Osteomyelitis in Children \u2014 https://pmc.ncbi.nlm.nih.gov/articles/PMC8303960/",
+      "Indian Academy of Pediatrics Consensus Statement on Diagnosis and Management of Bone and Joint Infections in Children \u2014 https://www.indianpediatrics.net/mar2024/209.pdf"
+    ],
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "blob_url": "https://cmetyphoid.blob.core.windows.net/typhoidnew/BONE_INFECTIONS_DIAGNOSTIC_EVALUATION_AND_IMAGING_MOLECULAR_DIAGNOSTICS_WHOLE_BODY.pdf",
+    "char_count": 1726,
+    "sequence": "1n6",
+    "meta_blob": "https://cmetyphoid.blob.core.windows.net/typhoidnew/BONE_INFECTIONS_DIAGNOSTIC_EVALUATION_AND_IMAGING_MOLECULAR_DIAGNOSTICS_WHOLE_BODY_316142.json"
+  },
+  {
+    "chunk_id": "BONE_INFECTIONS_CLINICAL_DISPOSITION_AND_INPATIENT_INTENSIVE_CARE_AND_EARLY",
+    "pdf_source": "Bone_Infections.pdf",
+    "topic": "BONE INFECTIONS",
+    "subtopic": "CLINICAL DISPOSITION AND MONITORING DECISIONS",
+    "sub_subtopic": "INPATIENT INTENSIVE CARE AND EARLY DISCHARGE CRITERIA",
+    "heading_path": "BONE INFECTIONS;CLINICAL DISPOSITION AND MONITORING DECISIONS;INPATIENT INTENSIVE CARE AND EARLY DISCHARGE CRITERIA;",
+    "references": [
+      "Texas Children\u2019s Hospital Musculoskeletal Infections Guideline 2024 \u2014 https://www.texaschildrens.org/sites/tc/files/uploads/documents/outcomes/2024%20standards/MS K%20Infections%20Guideline%20FINAL%20FEB%202024.pdf",
+      "Indian Academy of Pediatrics Consensus Statement on Diagnosis and Management of Bone and Joint Infections in Children \u2014 https://www.indianpediatrics.net/mar2024/209.pdf",
+      "Update on the Management of Pediatric Acute Osteomyelitis and Septic Arthritis \u2014 https://pmc.ncbi.nlm.nih.gov/articles/PMC4926389/",
+      "PIDS/IDSA 2023 Guidelines for Diagnosing and Managing Acute Bacterial Arthritis in Pediatrics \u2014 https://www.idsociety.org/practice-guideline/acute-bacterial-arthritis-in-pediatrics2/"
+    ],
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "blob_url": "https://cmetyphoid.blob.core.windows.net/typhoidnew/BONE_INFECTIONS_CLINICAL_DISPOSITION_AND_INPATIENT_INTENSIVE_CARE_AND_EARLY.pdf",
+    "char_count": 1659,
+    "sequence": "1p1",
+    "meta_blob": "https://cmetyphoid.blob.core.windows.net/typhoidnew/BONE_INFECTIONS_CLINICAL_DISPOSITION_AND_INPATIENT_INTENSIVE_CARE_AND_EARLY_916742.json"
+  },
+  {
+    "chunk_id": "BONE_INFECTIONS_THERAPEUTIC_PATHWAY_FOR_ACUTE_EMPIRIC_THERAPY_AND_EARLY_SOURCE",
+    "pdf_source": "Bone_Infections.pdf",
+    "topic": "BONE INFECTIONS",
+    "subtopic": "THERAPEUTIC PATHWAY FOR ACUTE HEMATOGENOUS OSTEOMYELITIS",
+    "sub_subtopic": "EMPIRIC THERAPY AND EARLY SOURCE CONTROL DECISIONS",
+    "heading_path": "BONE INFECTIONS;THERAPEUTIC PATHWAY FOR ACUTE HEMATOGENOUS OSTEOMYELITIS;EMPIRIC THERAPY AND EARLY SOURCE CONTROL DECISIONS;",
+    "references": [
+      "Indian Academy of Pediatrics Consensus Statement on Diagnosis and Management of Bone and Joint Infections in Children \u2014 https://www.indianpediatrics.net/mar2024/209.pdf",
+      "Update on the Management of Pediatric Acute Osteomyelitis and Septic Arthritis \u2014 https://pmc.ncbi.nlm.nih.gov/articles/PMC4926389/",
+      "Texas Children\u2019s Hospital Musculoskeletal Infections Guideline 2024 \u2014 https://www.texaschildrens.org/sites/tc/files/uploads/documents/outcomes/2024%20standards/MS K%20Infections%20Guideline%20FINAL%20FEB%202024.pdf",
+      "Treatment Guidelines 2019 \u2014 https://www.icmr.gov.in/icmrobject/custom_data/pdf/resource- guidelines/Treatment_Guidelines_2019_Final.pdf"
+    ],
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "blob_url": "https://cmetyphoid.blob.core.windows.net/typhoidnew/BONE_INFECTIONS_THERAPEUTIC_PATHWAY_FOR_ACUTE_EMPIRIC_THERAPY_AND_EARLY_SOURCE.pdf",
+    "char_count": 1644,
+    "sequence": "1r1",
+    "meta_blob": "https://cmetyphoid.blob.core.windows.net/typhoidnew/BONE_INFECTIONS_THERAPEUTIC_PATHWAY_FOR_ACUTE_EMPIRIC_THERAPY_AND_EARLY_SOURCE_122164.json"
+  },
+  {
+    "chunk_id": "BONE_INFECTIONS_THERAPEUTIC_PATHWAY_FOR_ACUTE_INTRAVENOUS_TO_ORAL_TRANSITION_AND",
+    "pdf_source": "Bone_Infections.pdf",
+    "topic": "BONE INFECTIONS",
+    "subtopic": "THERAPEUTIC PATHWAY FOR ACUTE HEMATOGENOUS OSTEOMYELITIS",
+    "sub_subtopic": "INTRAVENOUS TO ORAL TRANSITION AND EARLY TREATMENT FAILURE REVIEW",
+    "heading_path": "BONE INFECTIONS;THERAPEUTIC PATHWAY FOR ACUTE HEMATOGENOUS OSTEOMYELITIS;INTRAVENOUS TO ORAL TRANSITION AND EARLY TREATMENT FAILURE REVIEW;",
+    "references": [
+      "Indian Academy of Pediatrics Consensus Statement on Diagnosis and Management of Bone and Joint Infections in Children \u2014 https://www.indianpediatrics.net/mar2024/209.pdf",
+      "Update on the Management of Pediatric Acute Osteomyelitis and Septic Arthritis \u2014 https://pmc.ncbi.nlm.nih.gov/articles/PMC4926389/",
+      "Texas Children\u2019s Hospital Musculoskeletal Infections Guideline 2024 \u2014 https://www.texaschildrens.org/sites/tc/files/uploads/documents/outcomes/2024%20standards/MS K%20Infections%20Guideline%20FINAL%20FEB%202024.pdf",
+      "PIDS/IDSA Guideline on Diagnosis and Management of Acute Hematogenous Osteomyelitis in Pediatrics \u2014 https://www.idsociety.org/practice-guideline/bone-and-joint-infections---osteomyelitis/"
+    ],
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "blob_url": "https://cmetyphoid.blob.core.windows.net/typhoidnew/BONE_INFECTIONS_THERAPEUTIC_PATHWAY_FOR_ACUTE_INTRAVENOUS_TO_ORAL_TRANSITION_AND.pdf",
+    "char_count": 1864,
+    "sequence": "1s2",
+    "meta_blob": "https://cmetyphoid.blob.core.windows.net/typhoidnew/BONE_INFECTIONS_THERAPEUTIC_PATHWAY_FOR_ACUTE_INTRAVENOUS_TO_ORAL_TRANSITION_AND_812551.json"
+  },
+  {
+    "chunk_id": "BONE_INFECTIONS_EMERGENCY_CARE_OF_ACUTE_SEPTIC_EMERGENCY_JOINT_ASPIRATION_AND",
+    "pdf_source": "Bone_Infections.pdf",
+    "topic": "BONE INFECTIONS",
+    "subtopic": "EMERGENCY CARE OF ACUTE SEPTIC ARTHRITIS",
+    "sub_subtopic": "EMERGENCY JOINT ASPIRATION AND DRAINAGE PATHWAY",
+    "heading_path": "BONE INFECTIONS;EMERGENCY CARE OF ACUTE SEPTIC ARTHRITIS;EMERGENCY JOINT ASPIRATION AND DRAINAGE PATHWAY;",
+    "references": [
+      "Indian Academy of Pediatrics Consensus Statement on Diagnosis and Management of Bone and Joint Infections in Children \u2014 https://www.indianpediatrics.net/mar2024/209.pdf",
+      "PIDS/IDSA 2023 Guidelines for Diagnosing and Managing Acute Bacterial Arthritis in Pediatrics \u2014 https://www.idsociety.org/practice-guideline/acute-bacterial-arthritis-in-pediatrics2/",
+      "Texas Children\u2019s Hospital Musculoskeletal Infections Guideline 2024 \u2014 https://www.texaschildrens.org/sites/tc/files/uploads/documents/outcomes/2024%20standards/MS K%20Infections%20Guideline%20FINAL%20FEB%202024.pdf",
+      "Update on the Management of Pediatric Acute Osteomyelitis and Septic Arthritis \u2014 https://pmc.ncbi.nlm.nih.gov/articles/PMC4926389/"
+    ],
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "blob_url": "https://cmetyphoid.blob.core.windows.net/typhoidnew/BONE_INFECTIONS_EMERGENCY_CARE_OF_ACUTE_SEPTIC_EMERGENCY_JOINT_ASPIRATION_AND.pdf",
+    "char_count": 1666,
+    "sequence": "1u1",
+    "meta_blob": "https://cmetyphoid.blob.core.windows.net/typhoidnew/BONE_INFECTIONS_EMERGENCY_CARE_OF_ACUTE_SEPTIC_EMERGENCY_JOINT_ASPIRATION_AND_254795.json"
+  },
+  {
+    "chunk_id": "BONE_INFECTIONS_EMERGENCY_CARE_OF_ACUTE_SEPTIC_ANTIBIOTIC_DURATION_AND_ADJACENT",
+    "pdf_source": "Bone_Infections.pdf",
+    "topic": "BONE INFECTIONS",
+    "subtopic": "EMERGENCY CARE OF ACUTE SEPTIC ARTHRITIS",
+    "sub_subtopic": "ANTIBIOTIC DURATION AND ADJACENT OSTEOMYELITIS ASSESSMENT",
+    "heading_path": "BONE INFECTIONS;EMERGENCY CARE OF ACUTE SEPTIC ARTHRITIS;ANTIBIOTIC DURATION AND ADJACENT OSTEOMYELITIS ASSESSMENT;",
+    "references": [
+      "Indian Academy of Pediatrics Consensus Statement on Diagnosis and Management of Bone and Joint Infections in Children \u2014 https://www.indianpediatrics.net/mar2024/209.pdf",
+      "PIDS/IDSA 2023 Guidelines for Diagnosing and Managing Acute Bacterial Arthritis in Pediatrics \u2014 https://www.idsociety.org/practice-guideline/acute-bacterial-arthritis-in-pediatrics2/",
+      "Texas Children\u2019s Hospital Musculoskeletal Infections Guideline 2024 \u2014 https://www.texaschildrens.org/sites/tc/files/uploads/documents/outcomes/2024%20standards/MS K%20Infections%20Guideline%20FINAL%20FEB%202024.pdf",
+      "Update on the Management of Pediatric Acute Osteomyelitis and Septic Arthritis \u2014 https://pmc.ncbi.nlm.nih.gov/articles/PMC4926389/"
+    ],
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "blob_url": "https://cmetyphoid.blob.core.windows.net/typhoidnew/BONE_INFECTIONS_EMERGENCY_CARE_OF_ACUTE_SEPTIC_ANTIBIOTIC_DURATION_AND_ADJACENT.pdf",
+    "char_count": 1689,
+    "sequence": "1v2",
+    "meta_blob": "https://cmetyphoid.blob.core.windows.net/typhoidnew/BONE_INFECTIONS_EMERGENCY_CARE_OF_ACUTE_SEPTIC_ANTIBIOTIC_DURATION_AND_ADJACENT_251665.json"
+  },
+  {
+    "chunk_id": "BONE_INFECTIONS_EMERGENCY_CARE_OF_ACUTE_SEPTIC_SHORT_COURSE_VERSUS_STANDARD",
+    "pdf_source": "Bone_Infections.pdf",
+    "topic": "BONE INFECTIONS",
+    "subtopic": "EMERGENCY CARE OF ACUTE SEPTIC ARTHRITIS",
+    "sub_subtopic": "SHORT COURSE VERSUS STANDARD COURSE ANTIBIOTIC DURATION SELECTION",
+    "heading_path": "BONE INFECTIONS;EMERGENCY CARE OF ACUTE SEPTIC ARTHRITIS;SHORT COURSE VERSUS STANDARD COURSE ANTIBIOTIC DURATION SELECTION;",
+    "references": [
+      "Indian Academy of Pediatrics Consensus Statement on Diagnosis and Management of Bone and Joint Infections in Children \u2014 https://www.indianpediatrics.net/mar2024/209.pdf",
+      "PIDS/IDSA 2023 Guidelines for Diagnosing and Managing Acute Bacterial Arthritis in Pediatrics \u2014 https://www.idsociety.org/practice-guideline/acute-bacterial-arthritis-in-pediatrics2/",
+      "Update on the Management of Pediatric Acute Osteomyelitis and Septic Arthritis \u2014 https://pmc.ncbi.nlm.nih.gov/articles/PMC4926389/",
+      "Texas Children\u2019s Hospital Musculoskeletal Infections Guideline 2024 \u2014 https://www.texaschildrens.org/sites/tc/files/uploads/documents/outcomes/2024%20standards/MS K%20Infections%20Guideline%20FINAL%20FEB%202024.pdf"
+    ],
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "blob_url": "https://cmetyphoid.blob.core.windows.net/typhoidnew/BONE_INFECTIONS_EMERGENCY_CARE_OF_ACUTE_SEPTIC_SHORT_COURSE_VERSUS_STANDARD.pdf",
+    "char_count": 1600,
+    "sequence": "1w3",
+    "meta_blob": "https://cmetyphoid.blob.core.windows.net/typhoidnew/BONE_INFECTIONS_EMERGENCY_CARE_OF_ACUTE_SEPTIC_SHORT_COURSE_VERSUS_STANDARD_561023.json"
+  },
+  {
+    "chunk_id": "BONE_INFECTIONS_SURGICAL_SOURCE_CONTROL_AND_OPERATIVE_INDICATIONS_IN_ACUTE",
+    "pdf_source": "Bone_Infections.pdf",
+    "topic": "BONE INFECTIONS",
+    "subtopic": "SURGICAL SOURCE CONTROL AND IMPLANT ASSOCIATED INFECTIONS",
+    "sub_subtopic": "OPERATIVE INDICATIONS IN ACUTE OSTEOARTICULAR INFECTION",
+    "heading_path": "BONE INFECTIONS;SURGICAL SOURCE CONTROL AND IMPLANT ASSOCIATED INFECTIONS;OPERATIVE INDICATIONS IN ACUTE OSTEOARTICULAR INFECTION;",
+    "references": [
+      "Indian Academy of Pediatrics Consensus Statement on Diagnosis and Management of Bone and Joint Infections in Children \u2014 https://www.indianpediatrics.net/mar2024/209.pdf",
+      "Update on the Management of Pediatric Acute Osteomyelitis and Septic Arthritis \u2014 https://pmc.ncbi.nlm.nih.gov/articles/PMC4926389/",
+      "Texas Children\u2019s Hospital Musculoskeletal Infections Guideline 2024 \u2014 https://www.texaschildrens.org/sites/tc/files/uploads/documents/outcomes/2024%20standards/MS K%20Infections%20Guideline%20FINAL%20FEB%202024.pdf",
+      "PIDS/IDSA 2023 Guidelines for Diagnosing and Managing Acute Bacterial Arthritis in Pediatrics \u2014 https://www.idsociety.org/practice-guideline/acute-bacterial-arthritis-in-pediatrics2/"
+    ],
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "blob_url": "https://cmetyphoid.blob.core.windows.net/typhoidnew/BONE_INFECTIONS_SURGICAL_SOURCE_CONTROL_AND_OPERATIVE_INDICATIONS_IN_ACUTE.pdf",
+    "char_count": 1702,
+    "sequence": "1y1",
+    "meta_blob": "https://cmetyphoid.blob.core.windows.net/typhoidnew/BONE_INFECTIONS_SURGICAL_SOURCE_CONTROL_AND_OPERATIVE_INDICATIONS_IN_ACUTE_672398.json"
+  },
+  {
+    "chunk_id": "BONE_INFECTIONS_SURGICAL_SOURCE_CONTROL_AND_ABSCESS_SIZE_THRESHOLDS_AND_JOINT",
+    "pdf_source": "Bone_Infections.pdf",
+    "topic": "BONE INFECTIONS",
+    "subtopic": "SURGICAL SOURCE CONTROL AND IMPLANT ASSOCIATED INFECTIONS",
+    "sub_subtopic": "ABSCESS SIZE THRESHOLDS AND JOINT SPECIFIC DRAINAGE DECISIONS",
+    "heading_path": "BONE INFECTIONS;SURGICAL SOURCE CONTROL AND IMPLANT ASSOCIATED INFECTIONS;ABSCESS SIZE THRESHOLDS AND JOINT SPECIFIC DRAINAGE DECISIONS;",
+    "references": [
+      "PIDS/IDSA Guideline on Diagnosis and Management of Acute Hematogenous Osteomyelitis in Pediatrics \u2014 https://www.idsociety.org/practice-guideline/bone-and-joint-infections---osteomyelitis/",
+      "PIDS/IDSA 2023 Guidelines for Diagnosing and Managing Acute Bacterial Arthritis in Pediatrics \u2014 https://www.idsociety.org/practice-guideline/acute-bacterial-arthritis-in-pediatrics2/",
+      "Indian Academy of Pediatrics Consensus Statement on Diagnosis and Management of Bone and Joint Infections in Children \u2014 https://www.indianpediatrics.net/mar2024/209.pdf",
+      "Texas Children\u2019s Hospital Musculoskeletal Infections Guideline 2024 \u2014 https://www.texaschildrens.org/sites/tc/files/uploads/documents/outcomes/2024%20standards/MS K%20Infections%20Guideline%20FINAL%20FEB%202024.pdf"
+    ],
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "blob_url": "https://cmetyphoid.blob.core.windows.net/typhoidnew/BONE_INFECTIONS_SURGICAL_SOURCE_CONTROL_AND_ABSCESS_SIZE_THRESHOLDS_AND_JOINT.pdf",
+    "char_count": 1677,
+    "sequence": "1z2",
+    "meta_blob": "https://cmetyphoid.blob.core.windows.net/typhoidnew/BONE_INFECTIONS_SURGICAL_SOURCE_CONTROL_AND_ABSCESS_SIZE_THRESHOLDS_AND_JOINT_567094.json"
+  },
+  {
+    "chunk_id": "BONE_INFECTIONS_SURGICAL_SOURCE_CONTROL_AND_POST_TRAUMATIC_AND_RETAINED",
+    "pdf_source": "Bone_Infections.pdf",
+    "topic": "BONE INFECTIONS",
+    "subtopic": "SURGICAL SOURCE CONTROL AND IMPLANT ASSOCIATED INFECTIONS",
+    "sub_subtopic": "POST TRAUMATIC AND RETAINED HARDWARE INFECTION MANAGEMENT",
+    "heading_path": "BONE INFECTIONS;SURGICAL SOURCE CONTROL AND IMPLANT ASSOCIATED INFECTIONS;POST TRAUMATIC AND RETAINED HARDWARE INFECTION MANAGEMENT;",
+    "references": [
+      "Indian Academy of Pediatrics Consensus Statement on Diagnosis and Management of Bone and Joint Infections in Children \u2014 https://www.indianpediatrics.net/mar2024/209.pdf",
+      "Update on the Management of Pediatric Acute Osteomyelitis and Septic Arthritis \u2014 https://pmc.ncbi.nlm.nih.gov/articles/PMC4926389/",
+      "Texas Children\u2019s Hospital Musculoskeletal Infections Guideline 2024 \u2014 https://www.texaschildrens.org/sites/tc/files/uploads/documents/outcomes/2024%20standards/MS K%20Infections%20Guideline%20FINAL%20FEB%202024.pdf",
+      "Treatment Guidelines 2019 \u2014 https://www.icmr.gov.in/icmrobject/custom_data/pdf/resource- guidelines/Treatment_Guidelines_2019_Final.pdf"
+    ],
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "blob_url": "https://cmetyphoid.blob.core.windows.net/typhoidnew/BONE_INFECTIONS_SURGICAL_SOURCE_CONTROL_AND_POST_TRAUMATIC_AND_RETAINED.pdf",
+    "char_count": 1569,
+    "sequence": "1{3",
+    "meta_blob": "https://cmetyphoid.blob.core.windows.net/typhoidnew/BONE_INFECTIONS_SURGICAL_SOURCE_CONTROL_AND_POST_TRAUMATIC_AND_RETAINED_491240.json"
+  },
+  {
+    "chunk_id": "BONE_INFECTIONS_PATHOGEN_SPECIFIC_ANTIMICROBIAL_STAPHYLOCOCCAL_METHICILLIN",
+    "pdf_source": "Bone_Infections.pdf",
+    "topic": "BONE INFECTIONS",
+    "subtopic": "PATHOGEN SPECIFIC ANTIMICROBIAL REGIMENS",
+    "sub_subtopic": "STAPHYLOCOCCAL METHICILLIN SUSCEPTIBLE AND METHICILLIN RESISTANT REGIMENS",
+    "heading_path": "BONE INFECTIONS;PATHOGEN SPECIFIC ANTIMICROBIAL REGIMENS;STAPHYLOCOCCAL METHICILLIN SUSCEPTIBLE AND METHICILLIN RESISTANT REGIMENS;",
+    "references": [
+      "Indian Academy of Pediatrics Consensus Statement on Diagnosis and Management of Bone and Joint Infections in Children \u2014 https://www.indianpediatrics.net/mar2024/209.pdf",
+      "Treatment Guidelines 2019 \u2014 https://www.icmr.gov.in/icmrobject/custom_data/pdf/resource- guidelines/Treatment_Guidelines_2019_Final.pdf",
+      "Texas Children\u2019s Hospital Musculoskeletal Infections Guideline 2024 \u2014 https://www.texaschildrens.org/sites/tc/files/uploads/documents/outcomes/2024%20standards/MS K%20Infections%20Guideline%20FINAL%20FEB%202024.pdf",
+      "Update on the Management of Pediatric Acute Osteomyelitis and Septic Arthritis \u2014 https://pmc.ncbi.nlm.nih.gov/articles/PMC4926389/"
+    ],
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "blob_url": "https://cmetyphoid.blob.core.windows.net/typhoidnew/BONE_INFECTIONS_PATHOGEN_SPECIFIC_ANTIMICROBIAL_STAPHYLOCOCCAL_METHICILLIN.pdf",
+    "char_count": 1666,
+    "sequence": "1}1",
+    "meta_blob": "https://cmetyphoid.blob.core.windows.net/typhoidnew/BONE_INFECTIONS_PATHOGEN_SPECIFIC_ANTIMICROBIAL_STAPHYLOCOCCAL_METHICILLIN_028802.json"
+  },
+  {
+    "chunk_id": "BONE_INFECTIONS_PATHOGEN_SPECIFIC_ANTIMICROBIAL_DOSING_PRINCIPLES_THERAPEUTIC_DRUG",
+    "pdf_source": "Bone_Infections.pdf",
+    "topic": "BONE INFECTIONS",
+    "subtopic": "PATHOGEN SPECIFIC ANTIMICROBIAL REGIMENS",
+    "sub_subtopic": "DOSING PRINCIPLES THERAPEUTIC DRUG MONITORING AND ORAL STEP DOWN SELECTION",
+    "heading_path": "BONE INFECTIONS;PATHOGEN SPECIFIC ANTIMICROBIAL REGIMENS;DOSING PRINCIPLES THERAPEUTIC DRUG MONITORING AND ORAL STEP DOWN SELECTION;",
+    "references": [
+      "Indian Academy of Pediatrics Consensus Statement on Diagnosis and Management of Bone and Joint Infections in Children \u2014 https://www.indianpediatrics.net/mar2024/209.pdf",
+      "Treatment Guidelines for Antimicrobial Use in Common Syndromes 2019 \u2014 https://www.icmr.gov.in/icmrobject/custom_data/pdf/resource- guidelines/Treatment_Guidelines_2019_Final.pdf",
+      "Texas Children\u2019s Hospital Musculoskeletal Infections Guideline 2024 \u2014 https://www.texaschildrens.org/sites/tc/files/uploads/documents/outcomes/2024%20standards/MS K%20Infections%20Guideline%20FINAL%20FEB%202024.pdf",
+      "Update on the Management of Pediatric Acute Osteomyelitis and Septic Arthritis \u2014 https://pmc.ncbi.nlm.nih.gov/articles/PMC4926389/"
+    ],
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "blob_url": "https://cmetyphoid.blob.core.windows.net/typhoidnew/BONE_INFECTIONS_PATHOGEN_SPECIFIC_ANTIMICROBIAL_DOSING_PRINCIPLES_THERAPEUTIC_DRUG.pdf",
+    "char_count": 1711,
+    "sequence": "1~2",
+    "meta_blob": "https://cmetyphoid.blob.core.windows.net/typhoidnew/BONE_INFECTIONS_PATHOGEN_SPECIFIC_ANTIMICROBIAL_DOSING_PRINCIPLES_THERAPEUTIC_DRUG_465735.json"
+  },
+  {
+    "chunk_id": "BONE_INFECTIONS_PATHOGEN_SPECIFIC_ANTIMICROBIAL_REGIMENS_FOR_KINGELLA_STREPTOCOCCAL",
+    "pdf_source": "Bone_Infections.pdf",
+    "topic": "BONE INFECTIONS",
+    "subtopic": "PATHOGEN SPECIFIC ANTIMICROBIAL REGIMENS",
+    "sub_subtopic": "REGIMENS FOR KINGELLA STREPTOCOCCAL AND HAEMOPHILUS INFECTIONS",
+    "heading_path": "BONE INFECTIONS;PATHOGEN SPECIFIC ANTIMICROBIAL REGIMENS;REGIMENS FOR KINGELLA STREPTOCOCCAL AND HAEMOPHILUS INFECTIONS;",
+    "references": [
+      "Indian Academy of Pediatrics Consensus Statement on Diagnosis and Management of Bone and Joint Infections in Children \u2014 https://www.indianpediatrics.net/mar2024/209.pdf",
+      "PIDS/IDSA 2023 Guidelines for Diagnosing and Managing Acute Bacterial Arthritis in Pediatrics \u2014 https://www.idsociety.org/practice-guideline/acute-bacterial-arthritis-in-pediatrics2/",
+      "Update on the Management of Pediatric Acute Osteomyelitis and Septic Arthritis \u2014 https://pmc.ncbi.nlm.nih.gov/articles/PMC4926389/",
+      "Clinical Spectrum and Microbial Etiology of Bone and Joint Infections in Children: A Retrospective Analysis from South India \u2014 https://pmc.ncbi.nlm.nih.gov/articles/PMC10160895/"
+    ],
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "blob_url": "https://cmetyphoid.blob.core.windows.net/typhoidnew/BONE_INFECTIONS_PATHOGEN_SPECIFIC_ANTIMICROBIAL_REGIMENS_FOR_KINGELLA_STREPTOCOCCAL.pdf",
+    "char_count": 1707,
+    "sequence": "1\u007f3",
+    "meta_blob": "https://cmetyphoid.blob.core.windows.net/typhoidnew/BONE_INFECTIONS_PATHOGEN_SPECIFIC_ANTIMICROBIAL_REGIMENS_FOR_KINGELLA_STREPTOCOCCAL_009984.json"
+  },
+  {
+    "chunk_id": "BONE_INFECTIONS_PATHOGEN_SPECIFIC_ANTIMICROBIAL_SALMONELLA_AND_OTHER_GRAM_NEGATIVE",
+    "pdf_source": "Bone_Infections.pdf",
+    "topic": "BONE INFECTIONS",
+    "subtopic": "PATHOGEN SPECIFIC ANTIMICROBIAL REGIMENS",
+    "sub_subtopic": "SALMONELLA AND OTHER GRAM NEGATIVE BONE INFECTIONS WITH FLUOROQUINOLONE GUIDANCE",
+    "heading_path": "BONE INFECTIONS;PATHOGEN SPECIFIC ANTIMICROBIAL REGIMENS;SALMONELLA AND OTHER GRAM NEGATIVE BONE INFECTIONS WITH FLUOROQUINOLONE GUIDANCE;",
+    "references": [
+      "Indian Academy of Pediatrics Consensus Statement on Diagnosis and Management of Bone and Joint Infections in Children \u2014 https://www.indianpediatrics.net/mar2024/209.pdf",
+      "Treatment Guidelines for Antimicrobial Use in Common Syndromes 2019 \u2014 https://www.icmr.gov.in/icmrobject/custom_data/pdf/resource- guidelines/Treatment_Guidelines_2019_Final.pdf",
+      "Salmonella Osteomyelitis and Septic Arthritis in Children \u2014 https://esmed.org/MRA/mra/article/view/3100",
+      "Update on the Management of Pediatric Acute Osteomyelitis and Septic Arthritis \u2014 https://pmc.ncbi.nlm.nih.gov/articles/PMC4926389/"
+    ],
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "blob_url": "https://cmetyphoid.blob.core.windows.net/typhoidnew/BONE_INFECTIONS_PATHOGEN_SPECIFIC_ANTIMICROBIAL_SALMONELLA_AND_OTHER_GRAM_NEGATIVE.pdf",
+    "char_count": 1872,
+    "sequence": "1\u00804",
+    "meta_blob": "https://cmetyphoid.blob.core.windows.net/typhoidnew/BONE_INFECTIONS_PATHOGEN_SPECIFIC_ANTIMICROBIAL_SALMONELLA_AND_OTHER_GRAM_NEGATIVE_757367.json"
+  },
+  {
+    "chunk_id": "BONE_INFECTIONS_TUBERCULOUS_AND_FUNGAL_BONE_INDIAN_DIAGNOSTIC_CLUES_AND_TISSUE",
+    "pdf_source": "Bone_Infections.pdf",
+    "topic": "BONE INFECTIONS",
+    "subtopic": "TUBERCULOUS AND FUNGAL BONE INFECTIONS",
+    "sub_subtopic": "INDIAN DIAGNOSTIC CLUES AND TISSUE CONFIRMATION",
+    "heading_path": "BONE INFECTIONS;TUBERCULOUS AND FUNGAL BONE INFECTIONS;INDIAN DIAGNOSTIC CLUES AND TISSUE CONFIRMATION;",
+    "references": [
+      "Indian Academy of Pediatrics Consensus Statement on Diagnosis and Management of Bone and Joint Infections in Children \u2014 https://www.indianpediatrics.net/mar2024/209.pdf",
+      "The Diagnosis and Management of Pediatric Spine Infections \u2014 https://pmc.ncbi.nlm.nih.gov/articles/PMC8323075/",
+      "Update on the Management of Pediatric Acute Osteomyelitis and Septic Arthritis \u2014 https://pmc.ncbi.nlm.nih.gov/articles/PMC4926389/",
+      "Texas Children\u2019s Hospital Musculoskeletal Infections Guideline 2024 \u2014 https://www.texaschildrens.org/sites/tc/files/uploads/documents/outcomes/2024%20standards/MS K%20Infections%20Guideline%20FINAL%20FEB%202024.pdf"
+    ],
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "blob_url": "https://cmetyphoid.blob.core.windows.net/typhoidnew/BONE_INFECTIONS_TUBERCULOUS_AND_FUNGAL_BONE_INDIAN_DIAGNOSTIC_CLUES_AND_TISSUE.pdf",
+    "char_count": 1691,
+    "sequence": "1\u00821",
+    "meta_blob": "https://cmetyphoid.blob.core.windows.net/typhoidnew/BONE_INFECTIONS_TUBERCULOUS_AND_FUNGAL_BONE_INDIAN_DIAGNOSTIC_CLUES_AND_TISSUE_273590.json"
+  },
+  {
+    "chunk_id": "BONE_INFECTIONS_TUBERCULOUS_AND_FUNGAL_BONE_ANTITUBERCULAR_TREATMENT_DURATION",
+    "pdf_source": "Bone_Infections.pdf",
+    "topic": "BONE INFECTIONS",
+    "subtopic": "TUBERCULOUS AND FUNGAL BONE INFECTIONS",
+    "sub_subtopic": "ANTITUBERCULAR TREATMENT DURATION AND SURGICAL INDICATIONS",
+    "heading_path": "BONE INFECTIONS;TUBERCULOUS AND FUNGAL BONE INFECTIONS;ANTITUBERCULAR TREATMENT DURATION AND SURGICAL INDICATIONS;",
+    "references": [
+      "Indian Academy of Pediatrics Consensus Statement on Diagnosis and Management of Bone and Joint Infections in Children \u2014 https://www.indianpediatrics.net/mar2024/209.pdf",
+      "Guidelines for Management of Paediatric TB 2022 \u2014 https://tbcindia-wp.azurewebsites.net/wp- content/uploads/2023/05/9534339438Paediatric_TB_Mangement_Guideline_22082022_V1.pdf",
+      "Paediatric and Adolescent Osteoarticular Tuberculosis Standard Treatment Workflow \u2014 https://www.icmr.gov.in/icmrobject/uploads/STWs/1725964681_4_paediatric_osteoarticular_tb.pdf",
+      "Paediatric osteoarticular tuberculosis: A review \u2014 https://pmc.ncbi.nlm.nih.gov/articles/PMC7026562/"
+    ],
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "blob_url": "https://cmetyphoid.blob.core.windows.net/typhoidnew/BONE_INFECTIONS_TUBERCULOUS_AND_FUNGAL_BONE_ANTITUBERCULAR_TREATMENT_DURATION.pdf",
+    "char_count": 1789,
+    "sequence": "1\u00832",
+    "meta_blob": "https://cmetyphoid.blob.core.windows.net/typhoidnew/BONE_INFECTIONS_TUBERCULOUS_AND_FUNGAL_BONE_ANTITUBERCULAR_TREATMENT_DURATION_522557.json"
+  },
+  {
+    "chunk_id": "BONE_INFECTIONS_TUBERCULOUS_AND_FUNGAL_BONE_BRUCELLA_ATYPICAL_MYCOBACTERIAL",
+    "pdf_source": "Bone_Infections.pdf",
+    "topic": "BONE INFECTIONS",
+    "subtopic": "TUBERCULOUS AND FUNGAL BONE INFECTIONS",
+    "sub_subtopic": "BRUCELLA ATYPICAL MYCOBACTERIAL AND FUNGAL OSTEOMYELITIS IN SELECTED HOSTS",
+    "heading_path": "BONE INFECTIONS;TUBERCULOUS AND FUNGAL BONE INFECTIONS;BRUCELLA ATYPICAL MYCOBACTERIAL AND FUNGAL OSTEOMYELITIS IN SELECTED HOSTS;",
+    "references": [
+      "Pediatric brucellosis: An update review for the new millennium \u2014 https://pmc.ncbi.nlm.nih.gov/articles/PMC5938645/",
+      "Osteomyelitis in Immunocompromised Children and Neonates \u2014 https://pmc.ncbi.nlm.nih.gov/articles/PMC8665553/",
+      "Fungal Osteomyelitis: A Systematic Review of Reported Cases \u2014 https://pmc.ncbi.nlm.nih.gov/articles/PMC10383745/",
+      "Paediatric osteoarticular tuberculosis: A review \u2014 https://pmc.ncbi.nlm.nih.gov/articles/PMC7026562/"
+    ],
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "blob_url": "https://cmetyphoid.blob.core.windows.net/typhoidnew/BONE_INFECTIONS_TUBERCULOUS_AND_FUNGAL_BONE_BRUCELLA_ATYPICAL_MYCOBACTERIAL.pdf",
+    "char_count": 1749,
+    "sequence": "1\u00843",
+    "meta_blob": "https://cmetyphoid.blob.core.windows.net/typhoidnew/BONE_INFECTIONS_TUBERCULOUS_AND_FUNGAL_BONE_BRUCELLA_ATYPICAL_MYCOBACTERIAL_545352.json"
+  },
+  {
+    "chunk_id": "BONE_INFECTIONS_SUBACUTE_CHRONIC_AND_AUTOINFLAMMATO_SUBACUTE_OSTEOMYELITIS_AND_BRODIE",
+    "pdf_source": "Bone_Infections.pdf",
+    "topic": "BONE INFECTIONS",
+    "subtopic": "SUBACUTE CHRONIC AND AUTOINFLAMMATORY BONE LESIONS",
+    "sub_subtopic": "SUBACUTE OSTEOMYELITIS AND BRODIE ABSCESS EVALUATION",
+    "heading_path": "BONE INFECTIONS;SUBACUTE CHRONIC AND AUTOINFLAMMATORY BONE LESIONS;SUBACUTE OSTEOMYELITIS AND BRODIE ABSCESS EVALUATION;",
+    "references": [
+      "Indian Academy of Pediatrics Consensus Statement on Diagnosis and Management of Bone and Joint Infections in Children \u2014 https://www.indianpediatrics.net/mar2024/209.pdf",
+      "Update on the Management of Pediatric Acute Osteomyelitis and Septic Arthritis \u2014 https://pmc.ncbi.nlm.nih.gov/articles/PMC4926389/",
+      "Texas Children\u2019s Hospital Musculoskeletal Infections Guideline 2024 \u2014 https://www.texaschildrens.org/sites/tc/files/uploads/documents/outcomes/2024%20standards/MS K%20Infections%20Guideline%20FINAL%20FEB%202024.pdf",
+      "Clinical Spectrum and Microbial Etiology of Bone and Joint Infections in Children: A Retrospective Analysis from South India \u2014 https://pmc.ncbi.nlm.nih.gov/articles/PMC10160895/"
+    ],
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "blob_url": "https://cmetyphoid.blob.core.windows.net/typhoidnew/BONE_INFECTIONS_SUBACUTE_CHRONIC_AND_AUTOINFLAMMATO_SUBACUTE_OSTEOMYELITIS_AND_BRODIE.pdf",
+    "char_count": 1685,
+    "sequence": "1\u00861",
+    "meta_blob": "https://cmetyphoid.blob.core.windows.net/typhoidnew/BONE_INFECTIONS_SUBACUTE_CHRONIC_AND_AUTOINFLAMMATO_SUBACUTE_OSTEOMYELITIS_AND_BRODIE_065519.json"
+  },
+  {
+    "chunk_id": "BONE_INFECTIONS_SUBACUTE_CHRONIC_AND_AUTOINFLAMMATO_CHRONIC_OSTEOMYELITIS_WITH",
+    "pdf_source": "Bone_Infections.pdf",
+    "topic": "BONE INFECTIONS",
+    "subtopic": "SUBACUTE CHRONIC AND AUTOINFLAMMATORY BONE LESIONS",
+    "sub_subtopic": "CHRONIC OSTEOMYELITIS WITH SEQUESTRUM AND SINUS TRACT DISEASE",
+    "heading_path": "BONE INFECTIONS;SUBACUTE CHRONIC AND AUTOINFLAMMATORY BONE LESIONS;CHRONIC OSTEOMYELITIS WITH SEQUESTRUM AND SINUS TRACT DISEASE;",
+    "references": [
+      "Indian Academy of Pediatrics Consensus Statement on Diagnosis and Management of Bone and Joint Infections in Children \u2014 https://www.indianpediatrics.net/mar2024/209.pdf",
+      "Update on the Management of Pediatric Acute Osteomyelitis and Septic Arthritis \u2014 https://pmc.ncbi.nlm.nih.gov/articles/PMC4926389/",
+      "Texas Children\u2019s Hospital Musculoskeletal Infections Guideline 2024 \u2014 https://www.texaschildrens.org/sites/tc/files/uploads/documents/outcomes/2024%20standards/MS K%20Infections%20Guideline%20FINAL%20FEB%202024.pdf",
+      "Treatment Guidelines 2019 \u2014 https://www.icmr.gov.in/icmrobject/custom_data/pdf/resource- guidelines/Treatment_Guidelines_2019_Final.pdf"
+    ],
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "blob_url": "https://cmetyphoid.blob.core.windows.net/typhoidnew/BONE_INFECTIONS_SUBACUTE_CHRONIC_AND_AUTOINFLAMMATO_CHRONIC_OSTEOMYELITIS_WITH.pdf",
+    "char_count": 1658,
+    "sequence": "1\u00872",
+    "meta_blob": "https://cmetyphoid.blob.core.windows.net/typhoidnew/BONE_INFECTIONS_SUBACUTE_CHRONIC_AND_AUTOINFLAMMATO_CHRONIC_OSTEOMYELITIS_WITH_787164.json"
+  },
+  {
+    "chunk_id": "BONE_INFECTIONS_SUBACUTE_CHRONIC_AND_AUTOINFLAMMATO_CHRONIC_NONBACTERIAL_OSTEOMYELITIS",
+    "pdf_source": "Bone_Infections.pdf",
+    "topic": "BONE INFECTIONS",
+    "subtopic": "SUBACUTE CHRONIC AND AUTOINFLAMMATORY BONE LESIONS",
+    "sub_subtopic": "CHRONIC NONBACTERIAL OSTEOMYELITIS DIAGNOSTIC DIFFERENTIATION AND THERAPY",
+    "heading_path": "BONE INFECTIONS;SUBACUTE CHRONIC AND AUTOINFLAMMATORY BONE LESIONS;CHRONIC NONBACTERIAL OSTEOMYELITIS DIAGNOSTIC DIFFERENTIATION AND THERAPY;",
+    "references": [
+      "Chronic Nonbacterial Osteomyelitis in Children \u2014 https://pmc.ncbi.nlm.nih.gov/articles/PMC8303960/",
+      "Indian Academy of Pediatrics Consensus Statement on Diagnosis and Management of Bone and Joint Infections in Children \u2014 https://www.indianpediatrics.net/mar2024/209.pdf",
+      "Texas Children\u2019s Hospital Musculoskeletal Infections Guideline 2024 \u2014 https://www.texaschildrens.org/sites/tc/files/uploads/documents/outcomes/2024%20standards/MS K%20Infections%20Guideline%20FINAL%20FEB%202024.pdf",
+      "Update on the Management of Pediatric Acute Osteomyelitis and Septic Arthritis \u2014 https://pmc.ncbi.nlm.nih.gov/articles/PMC4926389/"
+    ],
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "blob_url": "https://cmetyphoid.blob.core.windows.net/typhoidnew/BONE_INFECTIONS_SUBACUTE_CHRONIC_AND_AUTOINFLAMMATO_CHRONIC_NONBACTERIAL_OSTEOMYELITIS.pdf",
+    "char_count": 1618,
+    "sequence": "1\u00883",
+    "meta_blob": "https://cmetyphoid.blob.core.windows.net/typhoidnew/BONE_INFECTIONS_SUBACUTE_CHRONIC_AND_AUTOINFLAMMATO_CHRONIC_NONBACTERIAL_OSTEOMYELITIS_551708.json"
+  },
+  {
+    "chunk_id": "BONE_INFECTIONS_SPINAL_PELVIC_AND_SACROILIAC_VERTEBRAL_OSTEOMYELITIS_DISCITIS",
+    "pdf_source": "Bone_Infections.pdf",
+    "topic": "BONE INFECTIONS",
+    "subtopic": "SPINAL PELVIC AND SACROILIAC INFECTIONS",
+    "sub_subtopic": "VERTEBRAL OSTEOMYELITIS DISCITIS AND NEUROLOGIC RISK ASSESSMENT",
+    "heading_path": "BONE INFECTIONS;SPINAL PELVIC AND SACROILIAC INFECTIONS;VERTEBRAL OSTEOMYELITIS DISCITIS AND NEUROLOGIC RISK ASSESSMENT;",
+    "references": [
+      "The Diagnosis and Management of Pediatric Spine Infections \u2014 https://pmc.ncbi.nlm.nih.gov/articles/PMC8323075/",
+      "Indian Academy of Pediatrics Consensus Statement on Diagnosis and Management of Bone and Joint Infections in Children \u2014 https://www.indianpediatrics.net/mar2024/209.pdf",
+      "Texas Children\u2019s Hospital Musculoskeletal Infections Guideline 2024 \u2014 https://www.texaschildrens.org/sites/tc/files/uploads/documents/outcomes/2024%20standards/MS K%20Infections%20Guideline%20FINAL%20FEB%202024.pdf",
+      "Update on the Management of Pediatric Acute Osteomyelitis and Septic Arthritis \u2014 https://pmc.ncbi.nlm.nih.gov/articles/PMC4926389/"
+    ],
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "blob_url": "https://cmetyphoid.blob.core.windows.net/typhoidnew/BONE_INFECTIONS_SPINAL_PELVIC_AND_SACROILIAC_VERTEBRAL_OSTEOMYELITIS_DISCITIS.pdf",
+    "char_count": 1542,
+    "sequence": "1\u008a1",
+    "meta_blob": "https://cmetyphoid.blob.core.windows.net/typhoidnew/BONE_INFECTIONS_SPINAL_PELVIC_AND_SACROILIAC_VERTEBRAL_OSTEOMYELITIS_DISCITIS_075367.json"
+  },
+  {
+    "chunk_id": "BONE_INFECTIONS_SPINAL_PELVIC_AND_SACROILIAC_PELVIC_OSTEOMYELITIS_AND",
+    "pdf_source": "Bone_Infections.pdf",
+    "topic": "BONE INFECTIONS",
+    "subtopic": "SPINAL PELVIC AND SACROILIAC INFECTIONS",
+    "sub_subtopic": "PELVIC OSTEOMYELITIS AND SACROILIAC INFECTION RECOGNITION",
+    "heading_path": "BONE INFECTIONS;SPINAL PELVIC AND SACROILIAC INFECTIONS;PELVIC OSTEOMYELITIS AND SACROILIAC INFECTION RECOGNITION;",
+    "references": [
+      "Indian Academy of Pediatrics Consensus Statement on Diagnosis and Management of Bone and Joint Infections in Children \u2014 https://www.indianpediatrics.net/mar2024/209.pdf",
+      "Texas Children\u2019s Hospital Musculoskeletal Infections Guideline 2024 \u2014 https://www.texaschildrens.org/sites/tc/files/uploads/documents/outcomes/2024%20standards/MS K%20Infections%20Guideline%20FINAL%20FEB%202024.pdf",
+      "Update on the Management of Pediatric Acute Osteomyelitis and Septic Arthritis \u2014 https://pmc.ncbi.nlm.nih.gov/articles/PMC4926389/",
+      "The Diagnosis and Management of Pediatric Spine Infections \u2014 https://pmc.ncbi.nlm.nih.gov/articles/PMC8323075/"
+    ],
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "blob_url": "https://cmetyphoid.blob.core.windows.net/typhoidnew/BONE_INFECTIONS_SPINAL_PELVIC_AND_SACROILIAC_PELVIC_OSTEOMYELITIS_AND.pdf",
+    "char_count": 1576,
+    "sequence": "1\u008b2",
+    "meta_blob": "https://cmetyphoid.blob.core.windows.net/typhoidnew/BONE_INFECTIONS_SPINAL_PELVIC_AND_SACROILIAC_PELVIC_OSTEOMYELITIS_AND_156934.json"
+  },
+  {
+    "chunk_id": "BONE_INFECTIONS_DIAGNOSTIC_AND_THERAPEUTIC_NEONATAL_OSTEOARTICULAR_INFECTION",
+    "pdf_source": "Bone_Infections.pdf",
+    "topic": "BONE INFECTIONS",
+    "subtopic": "DIAGNOSTIC AND THERAPEUTIC MODIFICATIONS IN NEONATES AND YOUNG CHILDREN",
+    "sub_subtopic": "NEONATAL OSTEOARTICULAR INFECTION PRESENTATION AND TREATMENT MODIFICATIONS",
+    "heading_path": "BONE INFECTIONS;DIAGNOSTIC AND THERAPEUTIC MODIFICATIONS IN NEONATES AND YOUNG CHILDREN;NEONATAL OSTEOARTICULAR INFECTION PRESENTATION AND TREATMENT MODIFICATIONS;",
+    "references": [
+      "Indian Academy of Pediatrics Consensus Statement on Diagnosis and Management of Bone and Joint Infections in Children \u2014 https://www.indianpediatrics.net/mar2024/209.pdf",
+      "Update on the Management of Pediatric Acute Osteomyelitis and Septic Arthritis \u2014 https://pmc.ncbi.nlm.nih.gov/articles/PMC4926389/",
+      "Texas Children\u2019s Hospital Musculoskeletal Infections Guideline 2024 \u2014 https://www.texaschildrens.org/sites/tc/files/uploads/documents/outcomes/2024%20standards/MS K%20Infections%20Guideline%20FINAL%20FEB%202024.pdf",
+      "Clinical Spectrum and Microbial Etiology of Bone and Joint Infections in Children: A Retrospective Analysis from South India \u2014 https://pmc.ncbi.nlm.nih.gov/articles/PMC10160895/"
+    ],
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "blob_url": "https://cmetyphoid.blob.core.windows.net/typhoidnew/BONE_INFECTIONS_DIAGNOSTIC_AND_THERAPEUTIC_NEONATAL_OSTEOARTICULAR_INFECTION.pdf",
+    "char_count": 1915,
+    "sequence": "1\u008d1",
+    "meta_blob": "https://cmetyphoid.blob.core.windows.net/typhoidnew/BONE_INFECTIONS_DIAGNOSTIC_AND_THERAPEUTIC_NEONATAL_OSTEOARTICULAR_INFECTION_230216.json"
+  },
+  {
+    "chunk_id": "BONE_INFECTIONS_DIAGNOSTIC_AND_THERAPEUTIC_INFANTS_AND_TODDLERS_WITH_KINGELLA",
+    "pdf_source": "Bone_Infections.pdf",
+    "topic": "BONE INFECTIONS",
+    "subtopic": "DIAGNOSTIC AND THERAPEUTIC MODIFICATIONS IN NEONATES AND YOUNG CHILDREN",
+    "sub_subtopic": "INFANTS AND TODDLERS WITH KINGELLA PREDOMINANT DISEASE PATTERNS",
+    "heading_path": "BONE INFECTIONS;DIAGNOSTIC AND THERAPEUTIC MODIFICATIONS IN NEONATES AND YOUNG CHILDREN;INFANTS AND TODDLERS WITH KINGELLA PREDOMINANT DISEASE PATTERNS;",
+    "references": [
+      "Indian Academy of Pediatrics Consensus Statement on Diagnosis and Management of Bone and Joint Infections in Children \u2014 https://www.indianpediatrics.net/mar2024/209.pdf",
+      "Clinical Spectrum and Microbial Etiology of Bone and Joint Infections in Children: A Retrospective Analysis from South India \u2014 https://pmc.ncbi.nlm.nih.gov/articles/PMC10160895/",
+      "Update on the Management of Pediatric Acute Osteomyelitis and Septic Arthritis \u2014 https://pmc.ncbi.nlm.nih.gov/articles/PMC4926389/",
+      "PIDS/IDSA 2023 Guidelines for Diagnosing and Managing Acute Bacterial Arthritis in Pediatrics \u2014 https://www.idsociety.org/practice-guideline/acute-bacterial-arthritis-in-pediatrics2/"
+    ],
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "blob_url": "https://cmetyphoid.blob.core.windows.net/typhoidnew/BONE_INFECTIONS_DIAGNOSTIC_AND_THERAPEUTIC_INFANTS_AND_TODDLERS_WITH_KINGELLA.pdf",
+    "char_count": 1840,
+    "sequence": "1\u008e2",
+    "meta_blob": "https://cmetyphoid.blob.core.windows.net/typhoidnew/BONE_INFECTIONS_DIAGNOSTIC_AND_THERAPEUTIC_INFANTS_AND_TODDLERS_WITH_KINGELLA_489224.json"
+  },
+  {
+    "chunk_id": "BONE_INFECTIONS_CLINICAL_MANAGEMENT_IN_ADOLESCENTS_ADOLESCENT_SEXUALLY_TRANSMITTED",
+    "pdf_source": "Bone_Infections.pdf",
+    "topic": "BONE INFECTIONS",
+    "subtopic": "CLINICAL MANAGEMENT IN ADOLESCENTS AND VULNERABLE HOSTS",
+    "sub_subtopic": "ADOLESCENT SEXUALLY TRANSMITTED INFECTION PREGNANCY AND ADHERENCE CONSIDERATIONS",
+    "heading_path": "BONE INFECTIONS;CLINICAL MANAGEMENT IN ADOLESCENTS AND VULNERABLE HOSTS;ADOLESCENT SEXUALLY TRANSMITTED INFECTION PREGNANCY AND ADHERENCE CONSIDERATIONS;",
+    "references": [
+      "PIDS/IDSA 2023 Guidelines for Diagnosing and Managing Acute Bacterial Arthritis in Pediatrics \u2014 https://www.idsociety.org/practice-guideline/acute-bacterial-arthritis-in-pediatrics2/",
+      "Indian Academy of Pediatrics Consensus Statement on Diagnosis and Management of Bone and Joint Infections in Children \u2014 https://www.indianpediatrics.net/mar2024/209.pdf",
+      "Texas Children\u2019s Hospital Musculoskeletal Infections Guideline 2024 \u2014 https://www.texaschildrens.org/sites/tc/files/uploads/documents/outcomes/2024%20standards/MS K%20Infections%20Guideline%20FINAL%20FEB%202024.pdf",
+      "Update on the Management of Pediatric Acute Osteomyelitis and Septic Arthritis \u2014 https://pmc.ncbi.nlm.nih.gov/articles/PMC4926389/"
+    ],
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "blob_url": "https://cmetyphoid.blob.core.windows.net/typhoidnew/BONE_INFECTIONS_CLINICAL_MANAGEMENT_IN_ADOLESCENTS_ADOLESCENT_SEXUALLY_TRANSMITTED.pdf",
+    "char_count": 1536,
+    "sequence": "1\u00901",
+    "meta_blob": "https://cmetyphoid.blob.core.windows.net/typhoidnew/BONE_INFECTIONS_CLINICAL_MANAGEMENT_IN_ADOLESCENTS_ADOLESCENT_SEXUALLY_TRANSMITTED_495321.json"
+  },
+  {
+    "chunk_id": "BONE_INFECTIONS_CLINICAL_MANAGEMENT_IN_ADOLESCENTS_SICKLE_CELL_DISEASE_AND",
+    "pdf_source": "Bone_Infections.pdf",
+    "topic": "BONE INFECTIONS",
+    "subtopic": "CLINICAL MANAGEMENT IN ADOLESCENTS AND VULNERABLE HOSTS",
+    "sub_subtopic": "SICKLE CELL DISEASE AND DIFFERENTIATION FROM BONE INFARCTION",
+    "heading_path": "BONE INFECTIONS;CLINICAL MANAGEMENT IN ADOLESCENTS AND VULNERABLE HOSTS;SICKLE CELL DISEASE AND DIFFERENTIATION FROM BONE INFARCTION;",
+    "references": [
+      "Indian Academy of Pediatrics Consensus Statement on Diagnosis and Management of Bone and Joint Infections in Children \u2014 https://www.indianpediatrics.net/mar2024/209.pdf",
+      "Update on the Management of Pediatric Acute Osteomyelitis and Septic Arthritis \u2014 https://pmc.ncbi.nlm.nih.gov/articles/PMC4926389/",
+      "Clinical Spectrum and Microbial Etiology of Bone and Joint Infections in Children: A Retrospective Analysis from South India \u2014 https://pmc.ncbi.nlm.nih.gov/articles/PMC10160895/",
+      "Treatment Guidelines 2019 \u2014 https://www.icmr.gov.in/icmrobject/custom_data/pdf/resource- guidelines/Treatment_Guidelines_2019_Final.pdf"
+    ],
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "blob_url": "https://cmetyphoid.blob.core.windows.net/typhoidnew/BONE_INFECTIONS_CLINICAL_MANAGEMENT_IN_ADOLESCENTS_SICKLE_CELL_DISEASE_AND.pdf",
+    "char_count": 1604,
+    "sequence": "1\u00912",
+    "meta_blob": "https://cmetyphoid.blob.core.windows.net/typhoidnew/BONE_INFECTIONS_CLINICAL_MANAGEMENT_IN_ADOLESCENTS_SICKLE_CELL_DISEASE_AND_155951.json"
+  },
+  {
+    "chunk_id": "BONE_INFECTIONS_CLINICAL_MANAGEMENT_IN_ADOLESCENTS_IMMUNOCOMPROMISED_AND_SEVERELY",
+    "pdf_source": "Bone_Infections.pdf",
+    "topic": "BONE INFECTIONS",
+    "subtopic": "CLINICAL MANAGEMENT IN ADOLESCENTS AND VULNERABLE HOSTS",
+    "sub_subtopic": "IMMUNOCOMPROMISED AND SEVERELY MALNOURISHED CHILDREN",
+    "heading_path": "BONE INFECTIONS;CLINICAL MANAGEMENT IN ADOLESCENTS AND VULNERABLE HOSTS;IMMUNOCOMPROMISED AND SEVERELY MALNOURISHED CHILDREN;",
+    "references": [
+      "Indian Academy of Pediatrics Consensus Statement on Diagnosis and Management of Bone and Joint Infections in Children \u2014 https://www.indianpediatrics.net/mar2024/209.pdf",
+      "Update on the Management of Pediatric Acute Osteomyelitis and Septic Arthritis \u2014 https://pmc.ncbi.nlm.nih.gov/articles/PMC4926389/",
+      "Texas Children\u2019s Hospital Musculoskeletal Infections Guideline 2024 \u2014 https://www.texaschildrens.org/sites/tc/files/uploads/documents/outcomes/2024%20standards/MS K%20Infections%20Guideline%20FINAL%20FEB%202024.pdf",
+      "Clinical Spectrum and Microbial Etiology of Bone and Joint Infections in Children: A Retrospective Analysis from South India \u2014 https://pmc.ncbi.nlm.nih.gov/articles/PMC10160895/"
+    ],
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "blob_url": "https://cmetyphoid.blob.core.windows.net/typhoidnew/BONE_INFECTIONS_CLINICAL_MANAGEMENT_IN_ADOLESCENTS_IMMUNOCOMPROMISED_AND_SEVERELY.pdf",
+    "char_count": 1585,
+    "sequence": "1\u00923",
+    "meta_blob": "https://cmetyphoid.blob.core.windows.net/typhoidnew/BONE_INFECTIONS_CLINICAL_MANAGEMENT_IN_ADOLESCENTS_IMMUNOCOMPROMISED_AND_SEVERELY_424373.json"
+  },
+  {
+    "chunk_id": "BONE_INFECTIONS_INDIA_SPECIFIC_OPERATIONAL_AND_RESOURCE_ADAPTED_IMAGING",
+    "pdf_source": "Bone_Infections.pdf",
+    "topic": "BONE INFECTIONS",
+    "subtopic": "INDIA SPECIFIC OPERATIONAL AND REFERRAL CONSIDERATIONS",
+    "sub_subtopic": "RESOURCE ADAPTED IMAGING ANTIBIOGRAM AND REFERRAL PATHWAYS",
+    "heading_path": "BONE INFECTIONS;INDIA SPECIFIC OPERATIONAL AND REFERRAL CONSIDERATIONS;RESOURCE ADAPTED IMAGING ANTIBIOGRAM AND REFERRAL PATHWAYS;",
+    "references": [
+      "Indian Academy of Pediatrics Consensus Statement on Diagnosis and Management of Bone and Joint Infections in Children \u2014 https://www.indianpediatrics.net/mar2024/209.pdf",
+      "Treatment Guidelines for Antimicrobial Use in Common Syndromes 2019 \u2014 https://www.icmr.gov.in/icmrobject/custom_data/pdf/resource- guidelines/Treatment_Guidelines_2019_Final.pdf",
+      "Clinical Spectrum and Microbial Etiology of Bone and Joint Infections in Children: A Retrospective Analysis from South India \u2014 https://pmc.ncbi.nlm.nih.gov/articles/PMC10160895/",
+      "Texas Children\u2019s Hospital Musculoskeletal Infections Guideline 2024 \u2014 https://www.texaschildrens.org/sites/tc/files/uploads/documents/outcomes/2024%20standards/MS K%20Infections%20Guideline%20FINAL%20FEB%202024.pdf"
+    ],
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "blob_url": "https://cmetyphoid.blob.core.windows.net/typhoidnew/BONE_INFECTIONS_INDIA_SPECIFIC_OPERATIONAL_AND_RESOURCE_ADAPTED_IMAGING.pdf",
+    "char_count": 1768,
+    "sequence": "1\u00941",
+    "meta_blob": "https://cmetyphoid.blob.core.windows.net/typhoidnew/BONE_INFECTIONS_INDIA_SPECIFIC_OPERATIONAL_AND_RESOURCE_ADAPTED_IMAGING_052873.json"
+  },
+  {
+    "chunk_id": "BONE_INFECTIONS_INDIA_SPECIFIC_OPERATIONAL_AND_TUBERCULOSIS_PROGRAM_LINKAGE_DRUG",
+    "pdf_source": "Bone_Infections.pdf",
+    "topic": "BONE INFECTIONS",
+    "subtopic": "INDIA SPECIFIC OPERATIONAL AND REFERRAL CONSIDERATIONS",
+    "sub_subtopic": "TUBERCULOSIS PROGRAM LINKAGE DRUG ACCESS AND FAMILY COUNSELING STRATEGIES",
+    "heading_path": "BONE INFECTIONS;INDIA SPECIFIC OPERATIONAL AND REFERRAL CONSIDERATIONS;TUBERCULOSIS PROGRAM LINKAGE DRUG ACCESS AND FAMILY COUNSELING STRATEGIES;",
+    "references": [
+      "Guidelines for Management of Paediatric TB 2022 \u2014 https://tbcindia-wp.azurewebsites.net/wp- content/uploads/2023/05/9534339438Paediatric_TB_Mangement_Guideline_22082022_V1.pdf",
+      "Paediatric and Adolescent Osteoarticular Tuberculosis Standard Treatment Workflow \u2014 https://www.icmr.gov.in/icmrobject/uploads/STWs/1725964681_4_paediatric_osteoarticular_tb.pdf",
+      "Indian Academy of Pediatrics Consensus Statement on Diagnosis and Management of Bone and Joint Infections in Children \u2014 https://www.indianpediatrics.net/mar2024/209.pdf",
+      "Paediatric osteoarticular tuberculosis: A review \u2014 https://pmc.ncbi.nlm.nih.gov/articles/PMC7026562/"
+    ],
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "blob_url": "https://cmetyphoid.blob.core.windows.net/typhoidnew/BONE_INFECTIONS_INDIA_SPECIFIC_OPERATIONAL_AND_TUBERCULOSIS_PROGRAM_LINKAGE_DRUG.pdf",
+    "char_count": 1766,
+    "sequence": "1\u00952",
+    "meta_blob": "https://cmetyphoid.blob.core.windows.net/typhoidnew/BONE_INFECTIONS_INDIA_SPECIFIC_OPERATIONAL_AND_TUBERCULOSIS_PROGRAM_LINKAGE_DRUG_066229.json"
+  },
+  {
+    "chunk_id": "BONE_INFECTIONS_COMPLICATIONS_AND_LONG_TERM_ABSCESS_PYOMYOSITIS_THROMBOSIS_AND",
+    "pdf_source": "Bone_Infections.pdf",
+    "topic": "BONE INFECTIONS",
+    "subtopic": "COMPLICATIONS AND LONG TERM OUTCOMES",
+    "sub_subtopic": "ABSCESS PYOMYOSITIS THROMBOSIS AND SEPTIC SHOCK MANAGEMENT",
+    "heading_path": "BONE INFECTIONS;COMPLICATIONS AND LONG TERM OUTCOMES;ABSCESS PYOMYOSITIS THROMBOSIS AND SEPTIC SHOCK MANAGEMENT;",
+    "references": [
+      "Indian Academy of Pediatrics Consensus Statement on Diagnosis and Management of Bone and Joint Infections in Children \u2014 https://www.indianpediatrics.net/mar2024/209.pdf",
+      "Update on the Management of Pediatric Acute Osteomyelitis and Septic Arthritis \u2014 https://pmc.ncbi.nlm.nih.gov/articles/PMC4926389/",
+      "Texas Children\u2019s Hospital Musculoskeletal Infections Guideline 2024 \u2014 https://www.texaschildrens.org/sites/tc/files/uploads/documents/outcomes/2024%20standards/MS K%20Infections%20Guideline%20FINAL%20FEB%202024.pdf",
+      "Clinical Spectrum and Microbial Etiology of Bone and Joint Infections in Children: A Retrospective Analysis from South India \u2014 https://pmc.ncbi.nlm.nih.gov/articles/PMC10160895/"
+    ],
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "blob_url": "https://cmetyphoid.blob.core.windows.net/typhoidnew/BONE_INFECTIONS_COMPLICATIONS_AND_LONG_TERM_ABSCESS_PYOMYOSITIS_THROMBOSIS_AND.pdf",
+    "char_count": 1707,
+    "sequence": "1\u00971",
+    "meta_blob": "https://cmetyphoid.blob.core.windows.net/typhoidnew/BONE_INFECTIONS_COMPLICATIONS_AND_LONG_TERM_ABSCESS_PYOMYOSITIS_THROMBOSIS_AND_890271.json"
+  },
+  {
+    "chunk_id": "BONE_INFECTIONS_COMPLICATIONS_AND_LONG_TERM_GROWTH_PLATE_INJURY_AVASCULAR",
+    "pdf_source": "Bone_Infections.pdf",
+    "topic": "BONE INFECTIONS",
+    "subtopic": "COMPLICATIONS AND LONG TERM OUTCOMES",
+    "sub_subtopic": "GROWTH PLATE INJURY AVASCULAR NECROSIS AND MULTIFOCAL DISEASE",
+    "heading_path": "BONE INFECTIONS;COMPLICATIONS AND LONG TERM OUTCOMES;GROWTH PLATE INJURY AVASCULAR NECROSIS AND MULTIFOCAL DISEASE;",
+    "references": [
+      "Indian Academy of Pediatrics Consensus Statement on Diagnosis and Management of Bone and Joint Infections in Children \u2014 https://www.indianpediatrics.net/mar2024/209.pdf",
+      "Update on the Management of Pediatric Acute Osteomyelitis and Septic Arthritis \u2014 https://pmc.ncbi.nlm.nih.gov/articles/PMC4926389/",
+      "Texas Children\u2019s Hospital Musculoskeletal Infections Guideline 2024 \u2014 https://www.texaschildrens.org/sites/tc/files/uploads/documents/outcomes/2024%20standards/MS K%20Infections%20Guideline%20FINAL%20FEB%202024.pdf",
+      "The Diagnosis and Management of Pediatric Spine Infections \u2014 https://pmc.ncbi.nlm.nih.gov/articles/PMC8323075/"
+    ],
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "blob_url": "https://cmetyphoid.blob.core.windows.net/typhoidnew/BONE_INFECTIONS_COMPLICATIONS_AND_LONG_TERM_GROWTH_PLATE_INJURY_AVASCULAR.pdf",
+    "char_count": 1644,
+    "sequence": "1\u00982",
+    "meta_blob": "https://cmetyphoid.blob.core.windows.net/typhoidnew/BONE_INFECTIONS_COMPLICATIONS_AND_LONG_TERM_GROWTH_PLATE_INJURY_AVASCULAR_912973.json"
+  },
+  {
+    "chunk_id": "BONE_INFECTIONS_COUNSELING_LONGITUDINAL_FOLLOW_UP_COUNSELING_FOLLOW_UP_SCHEDULE_AND",
+    "pdf_source": "Bone_Infections.pdf",
+    "topic": "BONE INFECTIONS",
+    "subtopic": "COUNSELING LONGITUDINAL FOLLOW UP AND PREVENTIVE CARE",
+    "sub_subtopic": "COUNSELING FOLLOW UP SCHEDULE AND PREVENTIVE STRATEGIES",
+    "heading_path": "BONE INFECTIONS;COUNSELING LONGITUDINAL FOLLOW UP AND PREVENTIVE CARE;COUNSELING FOLLOW UP SCHEDULE AND PREVENTIVE STRATEGIES;",
+    "references": [
+      "Indian Academy of Pediatrics Consensus Statement on Diagnosis and Management of Bone and Joint Infections in Children \u2014 https://www.indianpediatrics.net/mar2024/209.pdf",
+      "Update on the Management of Pediatric Acute Osteomyelitis and Septic Arthritis \u2014 https://pmc.ncbi.nlm.nih.gov/articles/PMC4926389/",
+      "Texas Children\u2019s Hospital Musculoskeletal Infections Guideline 2024 \u2014 https://www.texaschildrens.org/sites/tc/files/uploads/documents/outcomes/2024%20standards/MS K%20Infections%20Guideline%20FINAL%20FEB%202024.pdf",
+      "Treatment Guidelines 2019 \u2014 https://www.icmr.gov.in/icmrobject/custom_data/pdf/resource- guidelines/Treatment_Guidelines_2019_Final.pdf"
+    ],
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "blob_url": "https://cmetyphoid.blob.core.windows.net/typhoidnew/BONE_INFECTIONS_COUNSELING_LONGITUDINAL_FOLLOW_UP_COUNSELING_FOLLOW_UP_SCHEDULE_AND.pdf",
+    "char_count": 1824,
+    "sequence": "1\u009a1",
+    "meta_blob": "https://cmetyphoid.blob.core.windows.net/typhoidnew/BONE_INFECTIONS_COUNSELING_LONGITUDINAL_FOLLOW_UP_COUNSELING_FOLLOW_UP_SCHEDULE_AND_023222.json"
+  },
+  {
+    "chunk_id": "BONE_INFECTIONS_COUNSELING_LONGITUDINAL_FOLLOW_UP_DISCHARGE_READINESS_REHABILITATION",
+    "pdf_source": "Bone_Infections.pdf",
+    "topic": "BONE INFECTIONS",
+    "subtopic": "COUNSELING LONGITUDINAL FOLLOW UP AND PREVENTIVE CARE",
+    "sub_subtopic": "DISCHARGE READINESS REHABILITATION AND HIGH RISK SURVEILLANCE PLANNING",
+    "heading_path": "BONE INFECTIONS;COUNSELING LONGITUDINAL FOLLOW UP AND PREVENTIVE CARE;DISCHARGE READINESS REHABILITATION AND HIGH RISK SURVEILLANCE PLANNING;",
+    "references": [
+      "Indian Academy of Pediatrics Consensus Statement on Diagnosis and Management of Bone and Joint Infections in Children \u2014 https://www.indianpediatrics.net/mar2024/209.pdf",
+      "Texas Children\u2019s Hospital Musculoskeletal Infections Guideline 2024 \u2014 https://www.texaschildrens.org/sites/tc/files/uploads/documents/outcomes/2024%20standards/MS K%20Infections%20Guideline%20FINAL%20FEB%202024.pdf",
+      "Update on the Management of Pediatric Acute Osteomyelitis and Septic Arthritis \u2014 https://pmc.ncbi.nlm.nih.gov/articles/PMC4926389/",
+      "PIDS/IDSA Guideline on Diagnosis and Management of Acute Hematogenous Osteomyelitis in Pediatrics \u2014 https://www.idsociety.org/practice-guideline/bone-and-joint-infections---osteomyelitis/"
+    ],
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "blob_url": "https://cmetyphoid.blob.core.windows.net/typhoidnew/BONE_INFECTIONS_COUNSELING_LONGITUDINAL_FOLLOW_UP_DISCHARGE_READINESS_REHABILITATION.pdf",
+    "char_count": 1741,
+    "sequence": "1\u009b2",
+    "meta_blob": "https://cmetyphoid.blob.core.windows.net/typhoidnew/BONE_INFECTIONS_COUNSELING_LONGITUDINAL_FOLLOW_UP_DISCHARGE_READINESS_REHABILITATION_104060.json"
+  },
+  {
+    "chunk_id": "BONE_INFECTIONS_CLINICAL_CASE_APPLICATIONS_IN_SEPTIC_HIP_ARTHRITIS_SYNOVIAL",
+    "pdf_source": "Bone_Infections.pdf",
+    "topic": "BONE INFECTIONS",
+    "subtopic": "CLINICAL CASE APPLICATIONS IN DIAGNOSTIC AND THERAPEUTIC DECISION MAKING",
+    "sub_subtopic": "SEPTIC HIP ARTHRITIS SYNOVIAL FLUID INTERPRETATION AND EARLY STEP DOWN DECISIONS",
+    "heading_path": "BONE INFECTIONS;CLINICAL CASE APPLICATIONS IN DIAGNOSTIC AND THERAPEUTIC DECISION MAKING;SEPTIC HIP ARTHRITIS SYNOVIAL FLUID INTERPRETATION AND EARLY STEP DOWN DECISIONS;",
+    "references": [
+      "PIDS/IDSA 2023 Guidelines for Diagnosing and Managing Acute Bacterial Arthritis in Pediatrics \u2014 https://www.idsociety.org/practice-guideline/acute-bacterial-arthritis-in-pediatrics2/",
+      "Indian Academy of Pediatrics Consensus Statement on Diagnosis and Management of Bone and Joint Infections in Children \u2014 https://www.indianpediatrics.net/mar2024/209.pdf",
+      "Synovial fluid cell counts and its role in the diagnosis of paediatric septic arthritis \u2014 https://pmc.ncbi.nlm.nih.gov/articles/PMC6701437/",
+      "Texas Children\u2019s Hospital Musculoskeletal Infections Guideline 2024 \u2014 https://www.texaschildrens.org/sites/tc/files/uploads/documents/outcomes/2024%20standards/MS K%20Infections%20Guideline%20FINAL%20FEB%202024.pdf"
+    ],
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "blob_url": "https://cmetyphoid.blob.core.windows.net/typhoidnew/BONE_INFECTIONS_CLINICAL_CASE_APPLICATIONS_IN_SEPTIC_HIP_ARTHRITIS_SYNOVIAL.pdf",
+    "char_count": 1782,
+    "sequence": "1\u009d1",
+    "meta_blob": "https://cmetyphoid.blob.core.windows.net/typhoidnew/BONE_INFECTIONS_CLINICAL_CASE_APPLICATIONS_IN_SEPTIC_HIP_ARTHRITIS_SYNOVIAL_470039.json"
+  },
+  {
+    "chunk_id": "BONE_INFECTIONS_CLINICAL_CASE_APPLICATIONS_IN_SALMONELLA_OSTEOMYELITIS_NEONATAL",
+    "pdf_source": "Bone_Infections.pdf",
+    "topic": "BONE INFECTIONS",
+    "subtopic": "CLINICAL CASE APPLICATIONS IN DIAGNOSTIC AND THERAPEUTIC DECISION MAKING",
+    "sub_subtopic": "SALMONELLA OSTEOMYELITIS NEONATAL INFECTION AND HIGH RISK HOST EVALUATION",
+    "heading_path": "BONE INFECTIONS;CLINICAL CASE APPLICATIONS IN DIAGNOSTIC AND THERAPEUTIC DECISION MAKING;SALMONELLA OSTEOMYELITIS NEONATAL INFECTION AND HIGH RISK HOST EVALUATION;",
+    "references": [
+      "Indian Academy of Pediatrics Consensus Statement on Diagnosis and Management of Bone and Joint Infections in Children \u2014 https://www.indianpediatrics.net/mar2024/209.pdf",
+      "Salmonella Osteomyelitis and Septic Arthritis in Children \u2014 https://esmed.org/MRA/mra/article/view/3100",
+      "PIDS/IDSA Guideline on Diagnosis and Management of Acute Hematogenous Osteomyelitis in Pediatrics \u2014 https://www.idsociety.org/practice-guideline/bone-and-joint-infections---osteomyelitis/",
+      "Osteomyelitis in Immunocompromised Children and Neonates \u2014 https://pmc.ncbi.nlm.nih.gov/articles/PMC8665553/"
+    ],
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "blob_url": "https://cmetyphoid.blob.core.windows.net/typhoidnew/BONE_INFECTIONS_CLINICAL_CASE_APPLICATIONS_IN_SALMONELLA_OSTEOMYELITIS_NEONATAL.pdf",
+    "char_count": 1876,
+    "sequence": "1\u009e2",
+    "meta_blob": "https://cmetyphoid.blob.core.windows.net/typhoidnew/BONE_INFECTIONS_CLINICAL_CASE_APPLICATIONS_IN_SALMONELLA_OSTEOMYELITIS_NEONATAL_205161.json"
+  },
+  {
+    "chunk_id": "BONE_INFECTIONS_CLINICAL_CASE_APPLICATIONS_IN_BRODIE_ABSCESS_AND_CHRONIC_LESION",
+    "pdf_source": "Bone_Infections.pdf",
+    "topic": "BONE INFECTIONS",
+    "subtopic": "CLINICAL CASE APPLICATIONS IN DIAGNOSTIC AND THERAPEUTIC DECISION MAKING",
+    "sub_subtopic": "BRODIE ABSCESS AND CHRONIC LESION BIOPSY BASED MANAGEMENT DECISIONS",
+    "heading_path": "BONE INFECTIONS;CLINICAL CASE APPLICATIONS IN DIAGNOSTIC AND THERAPEUTIC DECISION MAKING;BRODIE ABSCESS AND CHRONIC LESION BIOPSY BASED MANAGEMENT DECISIONS;",
+    "references": [
+      "Indian Academy of Pediatrics Consensus Statement on Diagnosis and Management of Bone and Joint Infections in Children \u2014 https://www.indianpediatrics.net/mar2024/209.pdf",
+      "Update on the Management of Pediatric Acute Osteomyelitis and Septic Arthritis \u2014 https://pmc.ncbi.nlm.nih.gov/articles/PMC4926389/",
+      "Chronic Nonbacterial Osteomyelitis in Children \u2014 https://pmc.ncbi.nlm.nih.gov/articles/PMC8303960/",
+      "Paediatric osteoarticular tuberculosis: A review \u2014 https://pmc.ncbi.nlm.nih.gov/articles/PMC7026562/"
+    ],
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "blob_url": "https://cmetyphoid.blob.core.windows.net/typhoidnew/BONE_INFECTIONS_CLINICAL_CASE_APPLICATIONS_IN_BRODIE_ABSCESS_AND_CHRONIC_LESION.pdf",
+    "char_count": 1792,
+    "sequence": "1\u009e2",
+    "meta_blob": "https://cmetyphoid.blob.core.windows.net/typhoidnew/BONE_INFECTIONS_CLINICAL_CASE_APPLICATIONS_IN_BRODIE_ABSCESS_AND_CHRONIC_LESION_068906.json"
+  }
+]

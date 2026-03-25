@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section discusses phenotype-specific feeding pathway modifications tailored to neurodisability types, focusing on nutritional and respiratory care strategies for conditions like SMA and cerebral palsy.",
+  "learning_objectives": [
+    "Understand phenotype-specific feeding pathway modifications for neurodisabilities.",
+    "Identify nutritional management strategies for children with neurological impairments.",
+    "Explore respiratory health considerations in feeding support for cerebral palsy.",
+    "Evaluate gastrostomy tube feeding guidelines for pediatric neurodisability care."
+  ],
+  "key_facts": [
+    "Consensus-based care recommendations for SMA emphasize tailored nutritional and respiratory support (Reference 1).",
+    "ESPGHAN guidelines highlight nutritional management for children with neurological impairments, including energy requirements and feeding methods (Reference 3).",
+    "Respiratory health in cerebral palsy is a critical factor in feeding pathway modifications (Reference 2).",
+    "Gastrostomy tube feeding is recommended for children with severe feeding difficulties to ensure adequate nutrition (Reference 4).",
+    "Feeding pathway modifications must consider phenotype-specific needs, such as swallowing difficulties or respiratory compromise."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Neurodisability",
+    "Feeding Behavior",
+    "Nutritional Support",
+    "Cerebral Palsy",
+    "Spinal Muscular Atrophy",
+    "Gastrostomy",
+    "Respiratory Function Tests",
+    "Pediatric Nutrition"
+  ],
+  "tags_custom": [
+    "phenotype-specific feeding",
+    "neurological impairments",
+    "pediatric feeding pathways",
+    "nutritional care guidelines",
+    "respiratory health in neurodisability"
+  ],
+  "reference_quote": "Consensus-based care recommendations for spinal muscular atrophy emphasize the importance of tailored nutritional and respiratory support to improve quality of life (Reference 1).",
+  "document_key_topics": [
+    "Phenotype-specific feeding pathway modifications",
+    "Nutritional management in neurodisability",
+    "Respiratory health in cerebral palsy",
+    "Gastrostomy tube feeding guidelines"
+  ],
+  "chunk_heading": "NEURODISABILITY AND FEEDING SUPPORT;PHENOTYPE-SPECIFIC FEEDING PATHWAY MODIFICATIONS ACROSS NEURODISABILITY TYPES;",
+  "topic": "NEURODISABILITY AND FEEDING SUPPORT",
+  "subtopic": "PHENOTYPE-SPECIFIC FEEDING PATHWAY MODIFICATIONS ACROSS NEURODISABILITY TYPES",
+  "sub_subtopic": null,
+  "heading_path": "NEURODISABILITY AND FEEDING SUPPORT;PHENOTYPE-SPECIFIC FEEDING PATHWAY MODIFICATIONS ACROSS NEURODISABILITY TYPES;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1~.2"
+}

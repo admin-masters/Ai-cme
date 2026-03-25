@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section discusses the differentiation and management of breastfeeding-associated neonatal jaundice, including breastfeeding jaundice and breast milk jaundice, with emphasis on evaluation, treatment thresholds, and breastfeeding continuation strategies.",
+  "learning_objectives": [
+    "Understand the clinical differentiation between breastfeeding jaundice and breast milk jaundice.",
+    "Learn management strategies to optimize milk intake and prevent severe hyperbilirubinemia.",
+    "Recognize when to escalate evaluation for underlying causes such as hemolysis or cholestasis.",
+    "Apply phototherapy guidelines and bilirubin nomograms in neonatal jaundice management."
+  ],
+  "key_facts": [
+    "Breastfeeding jaundice typically peaks around days 3\u20135 and is associated with suboptimal milk intake and delayed meconium clearance.",
+    "Management includes feeding 8\u201312 times per day, correcting latch, and using breast compressions; supplementation may be needed if intake remains inadequate.",
+    "Phototherapy should not be delayed; assess bilirubin using TcB or serum TSB and apply age-specific nomograms.",
+    "Breast milk jaundice starts after the first week and can persist for weeks in thriving infants; breastfeeding should continue without routine interruption.",
+    "Prolonged jaundice beyond 14 days in term infants (or 21 days in preterm infants) requires direct bilirubin measurement to exclude cholestasis."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Breastfeeding",
+    "Neonatal Jaundice",
+    "Hyperbilirubinemia",
+    "Phototherapy",
+    "Bilirubin",
+    "Cholestasis",
+    "Hemolysis",
+    "Lactation Management"
+  ],
+  "tags_custom": [
+    "breastfeeding jaundice",
+    "neonatal care",
+    "bilirubin thresholds",
+    "feeding optimization",
+    "jaundice evaluation"
+  ],
+  "reference_quote": "Jaundice is common in breastfed infants, and breastfeeding should usually continue during evaluation and treatment. (ABM Clinical Protocol #22)",
+  "document_key_topics": [
+    "Breastfeeding jaundice and its management",
+    "Breast milk jaundice and prolonged jaundice evaluation",
+    "Phototherapy and bilirubin assessment",
+    "Exclusion of underlying causes like hemolysis and cholestasis"
+  ],
+  "chunk_heading": "BREASTFEEDING & LACTATION MANAGEMENT;BREASTFEEDING-ASSOCIATED NEONATAL JAUNDICE DIFFERENTIATION AND MANAGEMENT;",
+  "topic": "BREASTFEEDING & LACTATION MANAGEMENT",
+  "subtopic": "BREASTFEEDING-ASSOCIATED NEONATAL JAUNDICE DIFFERENTIATION AND MANAGEMENT",
+  "sub_subtopic": null,
+  "heading_path": "BREASTFEEDING & LACTATION MANAGEMENT;BREASTFEEDING-ASSOCIATED NEONATAL JAUNDICE DIFFERENTIATION AND MANAGEMENT;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1g"
+}

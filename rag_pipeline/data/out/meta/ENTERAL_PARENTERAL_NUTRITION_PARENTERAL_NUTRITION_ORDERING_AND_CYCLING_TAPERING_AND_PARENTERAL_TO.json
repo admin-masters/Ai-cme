@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Guidelines for safe tapering, cycling, and transitioning from parenteral to enteral nutrition, focusing on hypoglycemia prevention, glucose monitoring, and stepwise PN reduction strategies.",
+  "learning_objectives": [
+    "Understand the risks of hypoglycemia during PN interruption and strategies to prevent it.",
+    "Learn how to implement cycling PN in stable patients and monitor glucose levels effectively.",
+    "Master the stepwise approach to transitioning from PN to enteral nutrition, including stop rules.",
+    "Recognize the importance of tracking total daily intake from all nutritional sources."
+  ],
+  "key_facts": [
+    "Abrupt PN cessation can cause hypoglycemia, especially in infants and small children.",
+    "Taper PN over 1\u20132 hours or use 10% dextrose-containing maintenance fluids to prevent hypoglycemia.",
+    "Cycling PN (12\u201318 hours/day) is useful for stable patients with cholestasis or preparing for home PN.",
+    "Transition to enteral feeding involves halving PN calories when EN reaches ~50% of goal.",
+    "Discontinue PN when EN provides 66\u201375% of needs for 24\u201348 hours with stable electrolytes.",
+    "Prompt alternative dextrose infusion is critical during unexpected PN interruptions."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Parenteral Nutrition",
+    "Enteral Nutrition",
+    "Hypoglycemia",
+    "Glucose Monitoring",
+    "Nutritional Transition",
+    "Cholestasis",
+    "Infant Nutrition",
+    "Dextrose Infusion"
+  ],
+  "tags_custom": [
+    "PN tapering",
+    "cycling PN",
+    "PN to EN transition",
+    "pediatric nutrition",
+    "hypoglycemia prevention"
+  ],
+  "reference_quote": "Prevention starts with prescribing details: avoid abrupt cessation in infants and small children, and write a taper strategy.",
+  "document_key_topics": [
+    "Hypoglycemia prevention during PN interruption",
+    "Cycling PN for stable patients",
+    "Stepwise transition from PN to EN"
+  ],
+  "chunk_heading": "ENTERAL & PARENTERAL NUTRITION;PARENTERAL NUTRITION ORDERING AND CALCULATION SAFETY;CYCLING TAPERING AND PARENTERAL TO ENTERAL TRANSITION STOP RULES;",
+  "topic": "ENTERAL & PARENTERAL NUTRITION",
+  "subtopic": "PARENTERAL NUTRITION ORDERING AND CALCULATION SAFETY",
+  "sub_subtopic": "CYCLING TAPERING AND PARENTERAL TO ENTERAL TRANSITION STOP RULES",
+  "heading_path": "ENTERAL & PARENTERAL NUTRITION;PARENTERAL NUTRITION ORDERING AND CALCULATION SAFETY;CYCLING TAPERING AND PARENTERAL TO ENTERAL TRANSITION STOP RULES;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "2\u00864"
+}

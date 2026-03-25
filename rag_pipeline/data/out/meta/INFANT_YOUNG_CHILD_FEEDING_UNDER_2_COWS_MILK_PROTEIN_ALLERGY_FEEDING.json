@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "Guidelines for managing cow's milk protein allergy (CMPA) in infants under 2 years, focusing on feeding plans, formula selection, and nutrient compensation during elimination diets.",
+  "learning_objectives": [
+    "Understand the clinical presentation and diagnosis of cow's milk protein allergy (CMPA) in infants.",
+    "Learn appropriate feeding strategies, including maternal elimination diets and formula selection.",
+    "Identify nutrient compensation strategies during complementary feeding for CMPA-affected infants.",
+    "Recognize the importance of supervised reintroduction of cow's milk in older children."
+  ],
+  "key_facts": [
+    "CMPA often presents in the first year with symptoms like eczema, vomiting, diarrhea, or blood-streaked stools.",
+    "For exclusively breastfed infants with CMPA, maternal elimination of dairy is the first-line strategy, with calcium and vitamin D supplementation as needed.",
+    "Extensively hydrolyzed formula (EHF) is recommended if breast milk is unavailable; amino acid formula (AAF) is reserved for severe cases or EHF non-response.",
+    "Soy formula can be considered after 6 months, but goat or ruminant milks should be avoided due to cross-reactivity.",
+    "Reintroduction of cow's milk should be planned via supervised oral challenge or milk ladder, as many children outgrow CMPA."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Cow's Milk Protein Allergy",
+    "Infant Nutrition",
+    "Hypoallergenic Formula",
+    "Breastfeeding",
+    "Complementary Feeding",
+    "Food Hypersensitivity",
+    "Calcium Deficiency",
+    "Dietary Management"
+  ],
+  "tags_custom": [
+    "CMPA feeding plan",
+    "formula selection",
+    "nutrient compensation",
+    "infant allergy management"
+  ],
+  "reference_quote": "The feeding plan must remove the trigger protein while maintaining adequate energy, calcium, and micronutrients. \u2014 Guidelines on diagnosis and management of cow\u2019s milk protein allergy (PubMed, 32844758)",
+  "document_key_topics": [
+    "Clinical presentation and diagnosis of CMPA",
+    "Feeding strategies for CMPA-affected infants",
+    "Nutrient compensation during elimination diets",
+    "Reintroduction of cow's milk in older children"
+  ],
+  "chunk_heading": "INFANT & YOUNG CHILD FEEDING UNDER 2 YEARS;COW'S MILK PROTEIN ALLERGY  FEEDING PLAN AND FORMULA SELECTION;",
+  "topic": "INFANT & YOUNG CHILD FEEDING UNDER 2 YEARS",
+  "subtopic": "COW'S MILK PROTEIN ALLERGY  FEEDING PLAN AND FORMULA SELECTION",
+  "sub_subtopic": null,
+  "heading_path": "INFANT & YOUNG CHILD FEEDING UNDER 2 YEARS;COW'S MILK PROTEIN ALLERGY  FEEDING PLAN AND FORMULA SELECTION;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "4\u0090"
+}

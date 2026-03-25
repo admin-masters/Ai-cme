@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "This section outlines a structured approach to assess risk of bias and outcome validity in RCTs, emphasizing internal validity, clinical relevance, and robust evidence appraisal for safe clinical adoption.",
+  "learning_objectives": [
+    "Understand the structured use of the RoB 2 tool for assessing risk of bias in RCTs.",
+    "Evaluate clinical relevance and patient-centered outcomes in evidence appraisal.",
+    "Translate relative effects into absolute effects, including NNT and NNH calculations.",
+    "Identify and address potential conflicts of interest and selective reporting in clinical research."
+  ],
+  "key_facts": [
+    "The RoB 2 tool assesses randomization, allocation concealment, deviations from intended interventions, missing data, and selective reporting.",
+    "Endpoints should be patient-important and age-appropriate; surrogate markers like microbiome diversity or dysbiosis scores may have low clinical utility.",
+    "Relative risk (RR) or odds ratio (OR) should be converted into absolute risk difference, and NNT (number needed to treat) or NNH (number needed to harm) calculated using realistic baseline risks.",
+    "High heterogeneity (e.g., high I2), inconsistent effect directions, or unclear strain identity should downgrade confidence in findings.",
+    "Special populations (e.g., neonates, immunocompromised patients) require tailored harm evaluations.",
+    "Manufacturer involvement and selective publication can distort perceived benefits and should be critically assessed."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Risk of Bias",
+    "Randomized Controlled Trials as Topic",
+    "Outcome Assessment, Health Care",
+    "Evidence-Based Practice",
+    "Clinical Trials as Topic",
+    "Biomarkers",
+    "Patient-Centered Care",
+    "Meta-Analysis as Topic"
+  ],
+  "tags_custom": [
+    "risk assessment",
+    "clinical evidence appraisal",
+    "RCT methodology",
+    "biomarker evaluation",
+    "healthcare decision-making"
+  ],
+  "reference_quote": "RoB 2: Revised Cochrane risk-of-bias tool for randomized trials \u2014 https://methods.cochrane.org/bias/resources/rob-2-revised-cochrane-risk-bias-toolrandomized-t",
+  "document_key_topics": [
+    "Risk of bias assessment in RCTs",
+    "Clinical relevance of outcomes",
+    "Absolute vs. relative effect measures",
+    "Evaluating conflicts of interest in research"
+  ],
+  "chunk_heading": "RESEARCH & EMERGING CONCEPTS;EVIDENCE APPRAISAL TOOLKIT FOR SAFE CLINICAL ADOPTION;RISK OF BIAS AND OUTCOME VALIDITY SCREENING;",
+  "topic": "RESEARCH & EMERGING CONCEPTS",
+  "subtopic": "EVIDENCE APPRAISAL TOOLKIT FOR SAFE CLINICAL ADOPTION",
+  "sub_subtopic": "RISK OF BIAS AND OUTCOME VALIDITY SCREENING",
+  "heading_path": "RESEARCH & EMERGING CONCEPTS;EVIDENCE APPRAISAL TOOLKIT FOR SAFE CLINICAL ADOPTION;RISK OF BIAS AND OUTCOME VALIDITY SCREENING;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1c2"
+}

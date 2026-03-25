@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Defines criteria for triaging children with SAM into inpatient care for complicated cases or outpatient CMAM pathways for uncomplicated cases, emphasizing danger signs, oedema thresholds, and caregiver reliability.",
+  "learning_objectives": [
+    "Understand the criteria for distinguishing complicated versus uncomplicated SAM cases.",
+    "Learn the danger signs and medical complications requiring inpatient care for SAM.",
+    "Recognize the role of oedema severity in determining SAM management pathways.",
+    "Identify caregiver-related barriers impacting outpatient SAM treatment feasibility."
+  ],
+  "key_facts": [
+    "Complicated SAM includes medical complications like hypoglycemia, fever \u226539\u00b0C, or severe oedema (+++).",
+    "Uncomplicated SAM requires no danger signs, a passed appetite test, and reliable caregiver support.",
+    "Severe oedema (+++) is an automatic inpatient indication per Indian protocols.",
+    "WHO 2023 guidelines allow trained community teams to treat selected oedematous SAM cases outside hospitals.",
+    "Practical complications like caregiver barriers (distance, hygiene) justify inpatient initiation."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Severe Acute Malnutrition",
+    "Nutritional Oedema",
+    "Child Nutrition Disorders",
+    "Inpatient Care",
+    "Outpatient Care",
+    "Anthropometry",
+    "Danger Signs",
+    "Appetite Test"
+  ],
+  "tags_custom": [
+    "SAM triage criteria",
+    "Complicated SAM management",
+    "Oedema thresholds",
+    "Caregiver barriers",
+    "CMAM pathways"
+  ],
+  "reference_quote": "Severe oedema (+++) is an automatic inpatient indication in Indian protocols. The 2023 WHO guideline allows trained community teams to treat selected children with nutritional oedema outside hospital, but outpatient system reliability varies across India.",
+  "document_key_topics": [
+    "Complicated versus uncomplicated SAM criteria",
+    "Danger signs and medical complications in SAM",
+    "Role of oedema in SAM management pathways",
+    "Caregiver reliability in outpatient SAM treatment"
+  ],
+  "chunk_heading": "SEVERE ACUTE MALNUTRITION-(SAM) MANAGEMENT;TRIAGE AND  DISPOSITION BETWEEN INPATIENT AND CMAM PATHWAYS;COMPLICATED VERSUS UNCOMPLICATED SAM DISPOSITION CRITERIA;",
+  "topic": "SEVERE ACUTE MALNUTRITION-(SAM) MANAGEMENT",
+  "subtopic": "TRIAGE AND  DISPOSITION BETWEEN INPATIENT AND CMAM PATHWAYS",
+  "sub_subtopic": "COMPLICATED VERSUS UNCOMPLICATED SAM DISPOSITION CRITERIA",
+  "heading_path": "SEVERE ACUTE MALNUTRITION-(SAM) MANAGEMENT;TRIAGE AND  DISPOSITION BETWEEN INPATIENT AND CMAM PATHWAYS;COMPLICATED VERSUS UNCOMPLICATED SAM DISPOSITION CRITERIA;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1f1"
+}

@@ -1,0 +1,47 @@
+{
+  "chunk_summary": "This section outlines a stoplight-based approach to electrolyte monitoring and escalation in refeeding risk, emphasizing practical thresholds and clinical actions to prevent complications in malnourished patients.",
+  "learning_objectives": [
+    "Understand the stoplight framework for monitoring electrolytes during refeeding in malnourished patients.",
+    "Identify clinical and laboratory thresholds for escalating care in refeeding syndrome.",
+    "Learn to communicate refeeding risks and monitoring plans effectively to caregivers.",
+    "Recognize the importance of thiamine supplementation and avoiding high-carbohydrate loads in refeeding."
+  ],
+  "key_facts": [
+    "Green: Electrolytes (phosphate, potassium, magnesium) stable within reference range; continue calorie increases.",
+    "Yellow: Electrolytes below normal or drop significantly within 72 hours; pause calorie advancement, start oral supplementation, and recheck labs within 24 hours.",
+    "Red: Severe hypophosphatemia (<2 mg/dL or <0.65 mmol/L), symptomatic weakness, or ECG changes; manage in a monitored setting with urgent replacement.",
+    "Daily clinical surrogates like sudden weight gain, edema, tachycardia, or breathlessness should prompt review even before lab results return.",
+    "Outpatient refeeding yellow/red flags require same-day contact and low referral thresholds due to limited home monitoring."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Refeeding Syndrome",
+    "Electrolyte Imbalance",
+    "Hypophosphatemia",
+    "Malnutrition",
+    "Nutritional Support",
+    "Thiamine Deficiency",
+    "Clinical Monitoring",
+    "Pediatric Nutrition"
+  ],
+  "tags_custom": [
+    "Stoplight thresholds",
+    "Refeeding risk",
+    "Electrolyte management",
+    "Caregiver communication"
+  ],
+  "reference_quote": "\"Electrolyte monitoring is the practical lever that prevents refeeding complications. Use age- and lab-specific reference ranges, but apply a simple stoplight approach so teams act consistently.\"",
+  "document_key_topics": [
+    "Electrolyte monitoring in refeeding risk",
+    "Stoplight thresholds for clinical action",
+    "Caregiver communication in outpatient refeeding"
+  ],
+  "chunk_heading": "NUTRITION COUNSELLING & BEHAVIOUR CHANGE SKILLS;CONDITION-SPECIFIC COUNSELLING AND ESCALATION PATHWAYS;STOPLIGHT ELECTROLYTE THRESHOLDS AND ESCALATION IN REFEEDING RISK;",
+  "topic": "NUTRITION COUNSELLING & BEHAVIOUR CHANGE SKILLS",
+  "subtopic": "CONDITION-SPECIFIC COUNSELLING AND ESCALATION PATHWAYS",
+  "sub_subtopic": "STOPLIGHT ELECTROLYTE THRESHOLDS AND ESCALATION IN REFEEDING RISK",
+  "heading_path": "NUTRITION COUNSELLING & BEHAVIOUR CHANGE SKILLS;CONDITION-SPECIFIC COUNSELLING AND ESCALATION PATHWAYS;STOPLIGHT ELECTROLYTE THRESHOLDS AND ESCALATION IN REFEEDING RISK;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1\u008411"
+}

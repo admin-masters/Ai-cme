@@ -1,0 +1,47 @@
+{
+  "chunk_summary": "Guidance on formula selection and safe weaning decisions for infants 0\u201324 months, including contraindications to breastfeeding, formula types for specific conditions, and early weaning considerations.",
+  "learning_objectives": [
+    "Understand medical indications for formula feeding when breastfeeding is contraindicated or not feasible.",
+    "Identify appropriate formula types based on infant age and medical diagnosis.",
+    "Recognize risks of unmodified animal milk use before 12 months and counsel families on safe weaning practices."
+  ],
+  "key_facts": [
+    "Classic galactosemia is an absolute contraindication to breastfeeding.",
+    "Standard cow\u2019s milk-based formula is suitable for term infants up to 12 months if breastfeeding is not possible.",
+    "Extensively hydrolyzed or amino-acid formulas are recommended for confirmed cow\u2019s milk protein allergy with significant symptoms.",
+    "Unmodified cow or buffalo milk should not be used as the main milk before 12 months due to high renal solute load and low iron content.",
+    "HIV-exposed infants in India are generally recommended exclusive breastfeeding with maternal ART and infant prophylaxis unless safe replacement feeding criteria are met."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Infant Nutrition",
+    "Breastfeeding",
+    "Infant Formula",
+    "Weaning",
+    "Galactosemia",
+    "HIV Infections",
+    "Lactose Intolerance",
+    "Milk Hypersensitivity"
+  ],
+  "tags_custom": [
+    "formula feeding guidelines",
+    "safe weaning practices",
+    "infant feeding contraindications",
+    "early nutrition decisions"
+  ],
+  "reference_quote": "WHO guidance generally favors exclusive breastfeeding with maternal ART and infant prophylaxis; replacement feeding is reserved for families who can reliably meet the criteria for safe and sustainable preparation. (Reference 2)",
+  "document_key_topics": [
+    "Indications for formula feeding",
+    "Safe weaning practices",
+    "Contraindications to breastfeeding",
+    "Formula selection for specific medical conditions"
+  ],
+  "chunk_heading": "INFANT & YOUNG CHILD FEEDING 0\u201324 MONTHS;FORMULA FEEDING AND PROTECTED MIXED FEEDING;INDICATIONS FOR FORMULA SELECTION AND SAFE WEANING DECISIONS;",
+  "topic": "INFANT & YOUNG CHILD FEEDING 0\u201324 MONTHS",
+  "subtopic": "FORMULA FEEDING AND PROTECTED MIXED FEEDING",
+  "sub_subtopic": "INDICATIONS FOR FORMULA SELECTION AND SAFE WEANING DECISIONS",
+  "heading_path": "INFANT & YOUNG CHILD FEEDING 0\u201324 MONTHS;FORMULA FEEDING AND PROTECTED MIXED FEEDING;INDICATIONS FOR FORMULA SELECTION AND SAFE WEANING DECISIONS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1k1"
+}

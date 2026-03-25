@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section discusses outpatient risk triage and follow-up intervals for children following vegetarian and regional feeding patterns, emphasizing growth standards, malnutrition management, and iron deficiency anemia guidelines.",
+  "learning_objectives": [
+    "Understand outpatient risk triage protocols for children with vegetarian and regional feeding patterns.",
+    "Learn follow-up intervals for monitoring growth and nutritional status in children.",
+    "Identify key guidelines for managing severe acute malnutrition (SAM) in outpatient settings.",
+    "Explore the role of plant-based diets in pediatric health outcomes."
+  ],
+  "key_facts": [
+    "WHO Child Growth Standards provide benchmarks for assessing pediatric growth and nutrition (Reference 1).",
+    "Operational guidelines recommend facility-based management for children with severe acute malnutrition (SAM) (Reference 2).",
+    "Iron deficiency anemia is addressed in IAP Standard Treatment Guidelines, emphasizing early detection and supplementation (Reference 5).",
+    "Plant-based diets in children are linked to secular trends and health outcomes, requiring tailored nutritional strategies (Reference 4).",
+    "Complementary feeding practices are outlined in IAP Parental Guidelines, focusing on balanced nutrition (Reference 3)."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Vegetarian Diet",
+    "Child Nutrition",
+    "Malnutrition",
+    "Iron Deficiency Anemia",
+    "Growth Standards",
+    "Outpatient Care",
+    "Follow-Up Studies",
+    "Feeding Behavior"
+  ],
+  "tags_custom": [
+    "pediatric nutrition",
+    "regional feeding patterns",
+    "vegetarian diets",
+    "malnutrition triage",
+    "follow-up intervals"
+  ],
+  "reference_quote": "WHO Child Growth Standards provide a universal benchmark for assessing growth and nutritional status in children (Reference 1).",
+  "document_key_topics": [
+    "Vegetarian feeding patterns in children",
+    "Outpatient triage for malnutrition",
+    "Follow-up intervals for pediatric care",
+    "Iron deficiency anemia management"
+  ],
+  "chunk_heading": "VEGETARIAN & REGIONAL FEEDING PATTERNS;OUTPATIENT RISK TRIAGE WITH FOLLOWUP INTERVALS;",
+  "topic": "VEGETARIAN & REGIONAL FEEDING PATTERNS",
+  "subtopic": "OUTPATIENT RISK TRIAGE WITH FOLLOWUP INTERVALS",
+  "sub_subtopic": null,
+  "heading_path": "VEGETARIAN & REGIONAL FEEDING PATTERNS;OUTPATIENT RISK TRIAGE WITH FOLLOWUP INTERVALS;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "1c.2"
+}

@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "This section outlines expected response timelines and escalation triggers for micronutrient supplementation, focusing on Vitamin A, zinc, and conditions like rickets and megaloblastic anemia, with standardized reassessment checkpoints.",
+  "learning_objectives": [
+    "Understand the expected response timelines for Vitamin A and zinc supplementation.",
+    "Identify escalation triggers for nonresponse in micronutrient interventions.",
+    "Review standardized guidelines for managing rickets and megaloblastic anemia.",
+    "Apply WHO and Indian Academy of Pediatrics guidelines to clinical scenarios."
+  ],
+  "key_facts": [
+    "Vitamin A supplementation is guided by the National Health Mission (NHM) guidelines (Ref 4).",
+    "Zinc supplementation is recommended by WHO for managing diarrhoea (Ref 5).",
+    "Rickets management follows Indian Academy of Pediatrics guidelines (Ref 2).",
+    "Megaloblastic anemia treatment is detailed in Indian Academy of Pediatrics guidelines (Ref 3).",
+    "Standardized reassessment checkpoints are critical for identifying nonresponse in micronutrient interventions."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Micronutrients",
+    "Vitamin A",
+    "Zinc",
+    "Rickets",
+    "Megaloblastic Anemia",
+    "Diarrhea",
+    "Nutritional Deficiencies",
+    "Pediatrics"
+  ],
+  "tags_custom": [
+    "Micronutrient supplementation",
+    "Response timelines",
+    "Escalation triggers",
+    "Clinical guidelines"
+  ],
+  "reference_quote": "Zinc supplementation in the management of diarrhoea \u2014 https://www.who.int/tools/elena/interventions/zinc-diarrhoea",
+  "document_key_topics": [
+    "Vitamin A supplementation",
+    "Zinc supplementation for diarrhoea",
+    "Management of rickets",
+    "Megaloblastic anemia treatment"
+  ],
+  "chunk_heading": "MICRONUTRIENT NUTRITION;STANDARDIZED REASSESSMENT AND NONRESPONSE DECISION CHECKPOINTS;EXPECTED RESPONSE TIMELINES AND ESCALATION TRIGGERS;",
+  "topic": "MICRONUTRIENT NUTRITION",
+  "subtopic": "STANDARDIZED REASSESSMENT AND NONRESPONSE DECISION CHECKPOINTS",
+  "sub_subtopic": "EXPECTED RESPONSE TIMELINES AND ESCALATION TRIGGERS",
+  "heading_path": "MICRONUTRIENT NUTRITION;STANDARDIZED REASSESSMENT AND NONRESPONSE DECISION CHECKPOINTS;EXPECTED RESPONSE TIMELINES AND ESCALATION TRIGGERS;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "1\u00a26"
+}

@@ -1,0 +1,46 @@
+{
+  "chunk_summary": "This section outlines post-discharge management of electrolyte derangements in preterm, LBW, and ELBW infants, emphasizing micronutrient support, lab monitoring, and clinical pathways for addressing hypochloremia and other imbalances.",
+  "learning_objectives": [
+    "Understand the importance of monitoring electrolytes in preterm/LBW/ELBW infants post-discharge.",
+    "Identify clinical pathways for managing hypochloremia and other electrolyte imbalances.",
+    "Learn recommended micronutrient supplementation strategies for preterm infants after NICU discharge."
+  ],
+  "key_facts": [
+    "Hypochloremia in preterm infants can lead to growth failure and metabolic alkalosis (PMC7281990).",
+    "Micronutrient supplementation post-discharge includes iron, vitamin D, and calcium to support growth and development (AAP guidelines).",
+    "Electrolyte monitoring should be performed regularly, especially in infants with evolving BPD (Brigham and Women\u2019s Hospital guideline).",
+    "Low birth weight infants require tailored feeding strategies to meet their nutritional needs (Government of India guideline).",
+    "Preterm infants are at higher risk for electrolyte imbalances due to immature renal function and increased losses."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Infant, Premature",
+    "Low Birth Weight",
+    "Electrolyte Imbalance",
+    "Hypochloremia",
+    "Micronutrients",
+    "Post-Discharge Care",
+    "Bronchopulmonary Dysplasia",
+    "Growth and Development"
+  ],
+  "tags_custom": [
+    "Electrolyte management",
+    "Preterm nutrition",
+    "Post-NICU care",
+    "Infant feeding strategies"
+  ],
+  "reference_quote": "Hypochloremia in preterm infants: clinical consequences and management \u2014 'Hypochloremia can result in metabolic alkalosis and growth failure, requiring careful monitoring and intervention.' (PMC7281990)",
+  "document_key_topics": [
+    "Electrolyte derangements in preterm infants",
+    "Micronutrient supplementation post-discharge",
+    "Lab monitoring protocols for LBW/ELBW infants"
+  ],
+  "chunk_heading": "PRETERM/LBW/ELBW POST-DISCHARGE NUTRITION;MICRONUTRIENT SUPPORT AND LAB MONITORING AFTER DISCHARGE;RESPONSE PATHWAY FOR ELECTROLYTE DERANGEMENTS AFTER DISCHARGE;",
+  "topic": "PRETERM/LBW/ELBW POST-DISCHARGE NUTRITION",
+  "subtopic": "MICRONUTRIENT SUPPORT AND LAB MONITORING AFTER DISCHARGE",
+  "sub_subtopic": "RESPONSE PATHWAY FOR ELECTROLYTE DERANGEMENTS AFTER DISCHARGE",
+  "heading_path": "PRETERM/LBW/ELBW POST-DISCHARGE NUTRITION;MICRONUTRIENT SUPPORT AND LAB MONITORING AFTER DISCHARGE;RESPONSE PATHWAY FOR ELECTROLYTE DERANGEMENTS AFTER DISCHARGE;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2\u008b7.2"
+}

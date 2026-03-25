@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Guidelines for empiric antibiotic regimens in severe acute malnutrition (SAM), including step-down criteria for transitioning from IV/IM to oral therapy based on clinical improvement and renal safety considerations.",
+  "learning_objectives": [
+    "Understand empiric antibiotic regimens for uncomplicated outpatient and complicated inpatient SAM cases.",
+    "Learn step-down criteria for transitioning from IV/IM to oral antibiotic therapy in SAM management.",
+    "Recognize renal safety protocols, including withholding gentamicin in cases of oliguria/anuria.",
+    "Identify escalation protocols for worsening clinical status or septic shock in SAM patients."
+  ],
+  "key_facts": [
+    "For uncomplicated outpatient SAM, oral amoxicillin 15 mg/kg per dose every 8 hours for 5 days is recommended.",
+    "First-line regimen for complicated inpatient SAM: Ampicillin 50 mg/kg every 6 hours plus gentamicin 7.5 mg/kg once daily for 7 days.",
+    "Add cloxacillin 100 mg/kg/day in 4 divided doses for staphylococcal infections with extensive skin lesions or abscesses.",
+    "Escalate therapy at 48\u201372 hours if septic shock or worsening clinical status occurs; options include cefotaxime 150 mg/kg/day or ceftriaxone 100 mg/kg/day.",
+    "Withhold gentamicin if oliguria/anuria is present and reassess hydration, perfusion, and renal function before restarting.",
+    "Step down to oral therapy once the child is clinically improving, tolerating enteral feeds, and can complete the course reliably."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Severe Acute Malnutrition",
+    "Antibiotic Therapy",
+    "Infection Management",
+    "Gentamicin",
+    "Ampicillin",
+    "Ceftriaxone",
+    "Renal Function",
+    "Pediatric Nutrition Disorders"
+  ],
+  "tags_custom": [
+    "SAM antibiotic regimens",
+    "step-down criteria",
+    "renal safety protocols",
+    "pediatric infection management"
+  ],
+  "reference_quote": "Empiric antibiotics in SAM must be 'ready to prescribe,' because invasive infection can present without fever and delays increase mortality. (MoHFW, 2011)",
+  "document_key_topics": [
+    "Empiric antibiotic regimens for SAM",
+    "Step-down criteria for transitioning therapy",
+    "Renal safety protocols in SAM management",
+    "Escalation guidelines for septic shock or worsening clinical status"
+  ],
+  "chunk_heading": "SEVERE ACUTE MALNUTRITION-(SAM) MANAGEMENT;INFECTION MANAGEMENT AND  METABOLIC CORRECTIONS;READY-TO-PRESCRIBE ANTIBIOTIC REGIMENS WITH  STEP-DOWN CRITERIA;",
+  "topic": "SEVERE ACUTE MALNUTRITION-(SAM) MANAGEMENT",
+  "subtopic": "INFECTION MANAGEMENT AND  METABOLIC CORRECTIONS",
+  "sub_subtopic": "READY-TO-PRESCRIBE ANTIBIOTIC REGIMENS WITH  STEP-DOWN CRITERIA",
+  "heading_path": "SEVERE ACUTE MALNUTRITION-(SAM) MANAGEMENT;INFECTION MANAGEMENT AND  METABOLIC CORRECTIONS;READY-TO-PRESCRIBE ANTIBIOTIC REGIMENS WITH  STEP-DOWN CRITERIA;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "3r1"
+}

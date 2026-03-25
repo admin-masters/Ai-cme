@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "This section outlines first-hour anaphylaxis management, emphasizing immediate epinephrine administration, ABC assessment, and observation for biphasic reactions, with discharge planning and caregiver education.",
+  "learning_objectives": [
+    "Understand the immediate steps for managing suspected anaphylaxis, including epinephrine dosing and ABC assessment.",
+    "Recognize the importance of observation for biphasic reactions and discharge planning with caregiver education.",
+    "Differentiate between anaphylaxis and FPIES to avoid inappropriate treatment.",
+    "Learn the role of adjunct therapies and their timing in anaphylaxis management."
+  ],
+  "key_facts": [
+    "Administer intramuscular epinephrine at 0.01 mg/kg per dose (1 mg/mL, 1:1000) into the anterolateral thigh, repeating every 5\u201310 minutes if symptoms persist.",
+    "Biphasic reactions occur in 1\u201320% of cases, often within 10 hours but up to 72 hours post-recovery.",
+    "Position the child supine or sitting (if vomiting/respiratory distress) and provide high-flow oxygen as indicated.",
+    "In refractory shock, escalate to IV epinephrine and vasopressors after isotonic fluid bolus (20 mL/kg).",
+    "FPIES is not IgE-mediated; focus on hydration and antiemesis rather than epinephrine in such cases."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Anaphylaxis",
+    "Epinephrine",
+    "Emergency Medical Services",
+    "Biphasic Reaction",
+    "Food Hypersensitivity",
+    "Fluid Therapy",
+    "Pediatrics",
+    "Shock"
+  ],
+  "tags_custom": [
+    "First-hour management",
+    "FPIES differentiation",
+    "Caregiver education",
+    "Emergency action plan"
+  ],
+  "reference_quote": "India-adapted guidance recommends positioning the child supine (or sitting if vomiting/respiratory distress), rapid ABC assessment, high-flow oxygen when indicated, and prompt intramuscular epinephrine 0.01 mg/kg per dose (1 mg/mL, '1:1000') into the anterolateral thigh.",
+  "document_key_topics": [
+    "Anaphylaxis emergency management",
+    "Epinephrine administration guidelines",
+    "Biphasic reaction observation and prevention",
+    "Differentiation of FPIES from IgE-mediated anaphylaxis"
+  ],
+  "chunk_heading": "FOOD ALLERGY & THERAPEUTIC ELIMINATION DIETS;TIME-CRITICAL EMERGENCY MANAGEMENT AT FIRST CONTACT;FIRST-HOUR ANAPHYLAXIS TREATMENT AND OBSERVATION;",
+  "topic": "FOOD ALLERGY & THERAPEUTIC ELIMINATION DIETS",
+  "subtopic": "TIME-CRITICAL EMERGENCY MANAGEMENT AT FIRST CONTACT",
+  "sub_subtopic": "FIRST-HOUR ANAPHYLAXIS TREATMENT AND OBSERVATION",
+  "heading_path": "FOOD ALLERGY & THERAPEUTIC ELIMINATION DIETS;TIME-CRITICAL EMERGENCY MANAGEMENT AT FIRST CONTACT;FIRST-HOUR ANAPHYLAXIS TREATMENT AND OBSERVATION;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1n2"
+}

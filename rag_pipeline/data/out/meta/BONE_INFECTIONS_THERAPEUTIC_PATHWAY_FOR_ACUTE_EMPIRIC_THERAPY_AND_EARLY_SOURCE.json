@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Empiric therapy for acute hematogenous osteomyelitis must prioritize Staphylococcus aureus coverage, tailored by age, host factors, and local epidemiology, with early imaging for source control decisions.",
+  "learning_objectives": [
+    "Understand the role of empiric antibiotic therapy in managing acute hematogenous osteomyelitis.",
+    "Identify key pathogens and host factors influencing initial treatment choices.",
+    "Recognize the importance of early imaging for abscess detection and source control.",
+    "Learn specific antibiotic regimens based on age, comorbidities, and local resistance patterns."
+  ],
+  "key_facts": [
+    "Empiric therapy must cover Staphylococcus aureus; cloxacillin or cefazolin is suitable in areas with low methicillin resistance.",
+    "Children under 3 months or with healthcare exposure require broader coverage, including Gram-negative bacilli.",
+    "Vancomycin or anti-MRSA agents are recommended in severe cases or high methicillin-resistant prevalence areas.",
+    "Kingella is underdetected in India but should be considered in toddlers; cefuroxime or ceftriaxone is appropriate.",
+    "Children with sickle cell disease need Salmonella coverage; penetrating injuries require Pseudomonas consideration.",
+    "Early MRI aids in diagnosing and identifying abscesses requiring drainage or aspiration."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Osteomyelitis",
+    "Staphylococcus aureus",
+    "Empiric Therapy",
+    "Magnetic Resonance Imaging",
+    "Antibiotic Prophylaxis",
+    "Sepsis",
+    "Gram-Negative Bacterial Infections",
+    "Methicillin-Resistant Staphylococcus aureus"
+  ],
+  "tags_custom": [
+    "acute osteomyelitis management",
+    "pediatric bone infections",
+    "source control strategies",
+    "antibiotic regimens",
+    "pathogen-specific therapy"
+  ],
+  "reference_quote": "Empiric therapy must cover Staphylococcus aureus, with cloxacillin or cefazolin as appropriate choices in settings with low methicillin resistance. \u2014 Indian Academy of Pediatrics Consensus Statement",
+  "document_key_topics": [
+    "Empiric antibiotic therapy for acute hematogenous osteomyelitis",
+    "Role of imaging in source control and abscess management",
+    "Pathogen-specific considerations in pediatric osteomyelitis"
+  ],
+  "chunk_heading": "BONE INFECTIONS;THERAPEUTIC PATHWAY FOR ACUTE HEMATOGENOUS OSTEOMYELITIS;EMPIRIC THERAPY AND EARLY SOURCE CONTROL DECISIONS;",
+  "topic": "BONE INFECTIONS",
+  "subtopic": "THERAPEUTIC PATHWAY FOR ACUTE HEMATOGENOUS OSTEOMYELITIS",
+  "sub_subtopic": "EMPIRIC THERAPY AND EARLY SOURCE CONTROL DECISIONS",
+  "heading_path": "BONE INFECTIONS;THERAPEUTIC PATHWAY FOR ACUTE HEMATOGENOUS OSTEOMYELITIS;EMPIRIC THERAPY AND EARLY SOURCE CONTROL DECISIONS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1r1"
+}

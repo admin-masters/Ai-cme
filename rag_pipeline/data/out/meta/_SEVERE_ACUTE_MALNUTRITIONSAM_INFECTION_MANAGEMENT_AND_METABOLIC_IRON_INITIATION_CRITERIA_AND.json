@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Iron supplementation in SAM is delayed until the rehabilitation phase to avoid oxidative stress during stabilization. Initiation requires clinical stability, controlled infection, and adherence to dosing guidelines.",
+  "learning_objectives": [
+    "Understand the rationale for delaying iron supplementation during SAM stabilization.",
+    "Identify clinical criteria for initiating iron during the rehabilitation phase.",
+    "Learn appropriate dosing and monitoring protocols for iron supplementation in SAM.",
+    "Recognize alternative management strategies for severe anemia in SAM."
+  ],
+  "key_facts": [
+    "Iron supplementation is delayed until the rehabilitation phase to prevent oxidative stress during stabilization.",
+    "Initiate elemental iron at 3 mg/kg/day only after clinical stability, including improved appetite, resolved hypothermia, and controlled infection.",
+    "Iron supplementation should be paired with folate and nutrition rehabilitation without escalating doses to force hemoglobin recovery.",
+    "Severe anemia (Hb <4 g/dL or Hb 4\u20136 g/dL with respiratory distress) requires cautious blood transfusion per facility protocol.",
+    "Persistent poor weight gain or anemia triggers reassessment for infection, inflammation, parasitosis, or hemoglobinopathy."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Severe Acute Malnutrition",
+    "Iron Supplementation",
+    "Oxidative Stress",
+    "Anemia",
+    "Rehabilitation",
+    "Micronutrients",
+    "Blood Transfusion",
+    "Infection Control"
+  ],
+  "tags_custom": [
+    "SAM management",
+    "iron dosing",
+    "rehabilitation phase",
+    "clinical stability",
+    "anemia protocols"
+  ],
+  "reference_quote": "Iron supplementation should only begin during the rehabilitation phase when the child is clinically stable and infection is controlled. (WHO, Pocket book of hospital care for children)",
+  "document_key_topics": [
+    "Iron supplementation in SAM",
+    "Clinical criteria for rehabilitation phase interventions",
+    "Management of severe anemia in SAM",
+    "Monitoring and reassessment during SAM treatment"
+  ],
+  "chunk_heading": "- SEVERE ACUTE MALNUTRITION-(SAM) MANAGEMENT;INFECTION MANAGEMENT AND METABOLIC CORRECTIONS;IRON INITIATION CRITERIA AND DOSING DURING REHABILITATION;",
+  "topic": "- SEVERE ACUTE MALNUTRITION-(SAM) MANAGEMENT",
+  "subtopic": "INFECTION MANAGEMENT AND METABOLIC CORRECTIONS",
+  "sub_subtopic": "IRON INITIATION CRITERIA AND DOSING DURING REHABILITATION",
+  "heading_path": "- SEVERE ACUTE MALNUTRITION-(SAM) MANAGEMENT;INFECTION MANAGEMENT AND METABOLIC CORRECTIONS;IRON INITIATION CRITERIA AND DOSING DURING REHABILITATION;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "3d2"
+}

@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Guidelines for initiating, composing, monitoring, and weaning parenteral nutrition (PN) in chronic cardiorespiratory disease, emphasizing safety protocols, refeeding risk, and ICU coordination.",
+  "learning_objectives": [
+    "Understand indications for initiating parenteral nutrition in chronic cardiorespiratory disease.",
+    "Learn strategies to mitigate refeeding syndrome during PN initiation.",
+    "Identify key monitoring parameters for safe PN administration in ICU settings.",
+    "Recognize the importance of tailoring PN composition to respiratory and fluid management needs."
+  ],
+  "key_facts": [
+    "PN is indicated when enteral intake is <60\u201375% of targets for >48\u201372 hours and recovery is unlikely within the next day.",
+    "Baseline phosphate, magnesium, and thiamine are critical in children with refeeding risk before significant calorie delivery.",
+    "Daily monitoring of glucose, electrolytes, phosphate, and magnesium is essential during the first 72 hours of PN initiation.",
+    "Excessive dextrose in PN can increase CO2 production, which is detrimental in respiratory disease.",
+    "PN fluid volume must align with the cardiopulmonary plan to avoid excess fluid burden.",
+    "Central line care bundles are mandatory to prevent catheter-related infections."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Parenteral Nutrition",
+    "Refeeding Syndrome",
+    "Chronic Disease",
+    "Respiratory Insufficiency",
+    "Cardiovascular Diseases",
+    "Nutritional Support",
+    "Critical Care",
+    "Electrolyte Imbalance"
+  ],
+  "tags_custom": [
+    "PN safety protocols",
+    "ICU nutrition management",
+    "refeeding risk mitigation",
+    "cardiorespiratory nutrition"
+  ],
+  "reference_quote": "PN is indicated when enteral feeding is not feasible, not safe, or cannot meet minimum requirements despite a structured enteral strategy. (Mehta et al.)",
+  "document_key_topics": [
+    "Parenteral nutrition initiation and monitoring",
+    "Refeeding syndrome prevention and management",
+    "Nutritional strategies in chronic cardiorespiratory disease",
+    "ICU coordination for PN safety"
+  ],
+  "chunk_heading": "NUTRITION IN CHRONIC CARDIORESPIRATORY DISEASE;HIGH STAKES SAFETY PROTOCOLS REFERRAL TRIGGERS AND ICU COORDINATION;PARENTERAL NUTRITION INITIATION COMPOSITION MONITORING AND WEANING;",
+  "topic": "NUTRITION IN CHRONIC CARDIORESPIRATORY DISEASE",
+  "subtopic": "HIGH STAKES SAFETY PROTOCOLS REFERRAL TRIGGERS AND ICU COORDINATION",
+  "sub_subtopic": "PARENTERAL NUTRITION INITIATION COMPOSITION MONITORING AND WEANING",
+  "heading_path": "NUTRITION IN CHRONIC CARDIORESPIRATORY DISEASE;HIGH STAKES SAFETY PROTOCOLS REFERRAL TRIGGERS AND ICU COORDINATION;PARENTERAL NUTRITION INITIATION COMPOSITION MONITORING AND WEANING;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1\u008b2"
+}

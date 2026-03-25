@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Post-discharge nutrition for preterm infants with NEC or surgical bowel conditions focuses on addressing malabsorption, micronutrient deficiencies, and growth failure through specialized feeding strategies and close monitoring.",
+  "learning_objectives": [
+    "Understand the nutritional challenges faced by preterm infants post-NEC or bowel surgery.",
+    "Learn strategies for managing malabsorption and micronutrient deficiencies in infants with ileal loss or enterostomy.",
+    "Identify appropriate feeding options, including human milk fortification and specialized formulas.",
+    "Recognize the importance of proactive monitoring and referral to gastroenterology when growth remains poor."
+  ],
+  "key_facts": [
+    "Infants with ileal loss are at risk for vitamin B12 deficiency and zinc deficiency.",
+    "Human milk is the preferred base feed, but fortification or specialized formulas may be required for adequate nutrition.",
+    "Loose stools and poor growth may indicate carbohydrate malabsorption or formula intolerance, requiring hydrolyzed or elemental formulas.",
+    "Electrolytes should be closely monitored in cases of significant stool losses.",
+    "Structured nutrition escalation should precede gastroenterology referral if growth remains poor."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Necrotizing Enterocolitis",
+    "Preterm Infant",
+    "Low Birth Weight Infant",
+    "Postoperative Care",
+    "Malabsorption Syndromes",
+    "Micronutrients",
+    "Enteral Nutrition",
+    "Growth Disorders"
+  ],
+  "tags_custom": [
+    "NEC post-discharge nutrition",
+    "short bowel syndrome",
+    "specialized infant formulas",
+    "feeding intolerance",
+    "growth monitoring"
+  ],
+  "reference_quote": "Infants with enterostomy or short bowel are at risk for zinc deficiency and other trace element losses; document whether additional supplementation is needed rather than relying on standard preterm vitamin drops alone. (University of Virginia)",
+  "document_key_topics": [
+    "Post-discharge nutrition for preterm infants",
+    "Management of NEC and surgical bowel conditions",
+    "Micronutrient supplementation and malabsorption",
+    "Specialized feeding strategies and growth monitoring"
+  ],
+  "chunk_heading": "PRETERM/LBW/ELBW POST-DISCHARGE NUTRITION;COMORBIDITY-SPECIFIC NUTRITION MODIFICATIONS AFTER DISCHARGE;POST-NEC AND SURGICAL BOWEL NUTRITION STRATEGY;",
+  "topic": "PRETERM/LBW/ELBW POST-DISCHARGE NUTRITION",
+  "subtopic": "COMORBIDITY-SPECIFIC NUTRITION MODIFICATIONS AFTER DISCHARGE",
+  "sub_subtopic": "POST-NEC AND SURGICAL BOWEL NUTRITION STRATEGY",
+  "heading_path": "PRETERM/LBW/ELBW POST-DISCHARGE NUTRITION;COMORBIDITY-SPECIFIC NUTRITION MODIFICATIONS AFTER DISCHARGE;POST-NEC AND SURGICAL BOWEL NUTRITION STRATEGY;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2\u00963"
+}

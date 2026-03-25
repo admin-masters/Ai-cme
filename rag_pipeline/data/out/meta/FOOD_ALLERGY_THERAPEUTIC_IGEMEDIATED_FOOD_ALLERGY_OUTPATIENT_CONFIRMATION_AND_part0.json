@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "This section outlines the outpatient pathway for confirming and managing IgE-mediated food allergies after anaphylaxis, emphasizing structured follow-up, diagnostic methods, and safety planning for home and school settings.",
+  "learning_objectives": [
+    "Understand the importance of structured outpatient pathways after anaphylaxis to prevent recurrence and improve safety.",
+    "Learn diagnostic approaches for IgE-mediated food allergies, including allergy-focused history, targeted testing, and supervised oral food challenges (OFC).",
+    "Recognize the components of a home-and-school safety bundle for confirmed food allergies.",
+    "Explore proactive follow-up strategies to reassess accidental exposures and refresh emergency training."
+  ],
+  "key_facts": [
+    "Post-anaphylaxis follow-up should occur within 1\u20132 weeks to review diagnosis and action plans, and at 3\u20136 months to reassess exposures and training.",
+    "Indian guidelines recommend using skin prick tests (SPT) or food-specific IgE testing for diagnosis, with supervised oral food challenges (OFC) as the gold standard when history and tests are discordant.",
+    "A positive allergy test without symptoms indicates sensitization, not allergy.",
+    "Every confirmed IgE-mediated food allergy requires a safety bundle: avoidance counseling, emergency action plan, and access to intramuscular epinephrine with training.",
+    "School safety planning should include a written note specifying allergens, symptom recognition, and epinephrine storage."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Food Hypersensitivity",
+    "Anaphylaxis",
+    "Immunoglobulin E",
+    "Skin Tests",
+    "Oral Food Challenge",
+    "Epinephrine",
+    "Patient Education",
+    "Risk Assessment"
+  ],
+  "tags_custom": [
+    "IgE-mediated allergy",
+    "post-anaphylaxis care",
+    "school safety planning",
+    "structured follow-up"
+  ],
+  "reference_quote": "Indian guidance emphasizes that a convincing immediate reaction history plus a positive SPT (or food-specific sIgE when SPT is not feasible) supports diagnosis, while a positive test without symptoms indicates sensitization.",
+  "document_key_topics": [
+    "Outpatient management after anaphylaxis",
+    "Diagnostic methods for IgE-mediated food allergies",
+    "Safety planning for food allergy in home and school settings",
+    "Proactive follow-up strategies for allergy care"
+  ],
+  "chunk_heading": "FOOD ALLERGY & THERAPEUTIC ELIMINATION DIETS;IGE-MEDIATED FOOD ALLERGY OUTPATIENT PATHWAY;OUTPATIENT CONFIRMATION AND FOLLOW-UP AFTER ANAPHYLAXIS;",
+  "topic": "FOOD ALLERGY & THERAPEUTIC ELIMINATION DIETS",
+  "subtopic": "IGE-MEDIATED FOOD ALLERGY OUTPATIENT PATHWAY",
+  "sub_subtopic": "OUTPATIENT CONFIRMATION AND FOLLOW-UP AFTER ANAPHYLAXIS",
+  "heading_path": "FOOD ALLERGY & THERAPEUTIC ELIMINATION DIETS;IGE-MEDIATED FOOD ALLERGY OUTPATIENT PATHWAY;OUTPATIENT CONFIRMATION AND FOLLOW-UP AFTER ANAPHYLAXIS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1q1.1"
+}

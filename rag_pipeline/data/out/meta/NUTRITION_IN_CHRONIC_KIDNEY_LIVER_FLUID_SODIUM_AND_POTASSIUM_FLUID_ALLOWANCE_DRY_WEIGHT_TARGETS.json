@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "This section discusses fluid and sodium management strategies in pediatric CKD, emphasizing individualized fluid allowances, sodium restriction, and monitoring for sodium depletion or excess to prevent complications like hypertension and growth failure.",
+  "learning_objectives": [
+    "Understand fluid allowance calculations and dry weight targets in pediatric CKD.",
+    "Learn sodium restriction strategies based on age-specific guidelines and clinical conditions.",
+    "Identify signs of sodium depletion and appropriate interventions in pediatric CKD.",
+    "Recognize the role of dietary sodium sources in managing fluid and thirst in children with CKD."
+  ],
+  "key_facts": [
+    "Fluid allowance in pediatric CKD includes insensible losses, urine output, and replacement for additional losses (e.g., vomiting, diarrhea).",
+    "Interdialytic weight gain up to 5% above dry weight is acceptable; higher gains indicate excess sodium/fluid intake or inadequate dialysis.",
+    "Sodium restriction should follow age-based guidelines: infants use AI ranges, older children should not exceed CDRR thresholds.",
+    "Sodium depletion requires increased intake, especially in cases of renal/extrarenal losses, hypotension, or growth failure.",
+    "Common high-sodium foods to limit include papad, achar, namkeen, instant noodles, and restaurant gravies."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Chronic Kidney Disease",
+    "Pediatrics",
+    "Fluid Therapy",
+    "Sodium, Dietary",
+    "Hypertension",
+    "Dialysis",
+    "Nutritional Requirements",
+    "Growth Disorders"
+  ],
+  "tags_custom": [
+    "pediatric CKD management",
+    "sodium restriction strategies",
+    "fluid allowance guidelines",
+    "dietary sodium sources"
+  ],
+  "reference_quote": "Fluid prescriptions in pediatric CKD are safest when written as a calculation plus a monitoring target. (KDOQI Clinical Practice Guidelines for Nutrition in Children with CKD: 2008 Update)",
+  "document_key_topics": [
+    "Fluid allowance and dry weight targets in pediatric CKD",
+    "Sodium restriction and dietary strategies",
+    "Monitoring for sodium depletion and excess",
+    "Interdialytic weight gain and dialysis adherence"
+  ],
+  "chunk_heading": "NUTRITION IN CHRONIC KIDNEY & LIVER DISEASE;FLUID SODIUM AND POTASSIUM STRATEGIES IN PEDIATRIC CKD;FLUID ALLOWANCE DRY WEIGHT TARGETS AND SODIUM STRATEGY IN CKD;",
+  "topic": "NUTRITION IN CHRONIC KIDNEY & LIVER DISEASE",
+  "subtopic": "FLUID SODIUM AND POTASSIUM STRATEGIES IN PEDIATRIC CKD",
+  "sub_subtopic": "FLUID ALLOWANCE DRY WEIGHT TARGETS AND SODIUM STRATEGY IN CKD",
+  "heading_path": "NUTRITION IN CHRONIC KIDNEY & LIVER DISEASE;FLUID SODIUM AND POTASSIUM STRATEGIES IN PEDIATRIC CKD;FLUID ALLOWANCE DRY WEIGHT TARGETS AND SODIUM STRATEGY IN CKD;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2s1"
+}

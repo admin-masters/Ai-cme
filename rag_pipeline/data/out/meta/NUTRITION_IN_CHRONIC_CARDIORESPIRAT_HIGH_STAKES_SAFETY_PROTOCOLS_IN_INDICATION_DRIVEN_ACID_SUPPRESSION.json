@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "Guidelines for pediatric acid suppression in chronic cardiorespiratory disease emphasize indication-driven use, reassessment plans, and pediatric stop rules to minimize risks like infections and exacerbations.",
+  "learning_objectives": [
+    "Understand the risks associated with chronic PPI use in pediatric populations with cardiorespiratory disease.",
+    "Learn criteria for prescribing PPIs, including GERD complications and therapeutic trials.",
+    "Apply pediatric stop rules for PPI therapy, including reassessment and deprescribing protocols."
+  ],
+  "key_facts": [
+    "PPI exposure in young children is associated with higher risk of serious infections (Lassalle et al., 2023).",
+    "Chronic PPI therapy in cystic fibrosis correlates with increased pulmonary exacerbations and hospitalizations (Ayoub et al., 2017).",
+    "Reassess PPI therapy after 4\u20138 weeks; taper and stop if symptoms improve.",
+    "PPIs should not be prescribed for weight gain or slow feeding without clear indications.",
+    "Document indication, start date, and stop date in the nutrition plan to ensure deprescribing during follow-up."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Gastroesophageal Reflux Disease",
+    "Proton Pump Inhibitors",
+    "Pediatrics",
+    "Cystic Fibrosis",
+    "Nutrition Therapy",
+    "Cardiorespiratory Disorders",
+    "Drug Deprescribing",
+    "Aspiration Pneumonia"
+  ],
+  "tags_custom": [
+    "acid suppression safety",
+    "pediatric nutrition protocols",
+    "GERD management",
+    "CF-related nutrition",
+    "feeding intolerance"
+  ],
+  "reference_quote": "PPI exposure in young children is associated with higher risk of serious infections (Lassalle et al., 2023).",
+  "document_key_topics": [
+    "Indication-driven acid suppression in pediatrics",
+    "Risks of chronic PPI use in cardiorespiratory disease",
+    "Pediatric stop rules for PPI therapy",
+    "Nutrition rehabilitation in chronic disease"
+  ],
+  "chunk_heading": "NUTRITION IN CHRONIC CARDIORESPIRATORY DISEASE;HIGH STAKES SAFETY PROTOCOLS IN NUTRITION REHABILITATION;INDICATION DRIVEN ACID SUPPRESSION WITH PEDIATRIC STOP RULES;",
+  "topic": "NUTRITION IN CHRONIC CARDIORESPIRATORY DISEASE",
+  "subtopic": "HIGH STAKES SAFETY PROTOCOLS IN NUTRITION REHABILITATION",
+  "sub_subtopic": "INDICATION DRIVEN ACID SUPPRESSION WITH PEDIATRIC STOP RULES",
+  "heading_path": "NUTRITION IN CHRONIC CARDIORESPIRATORY DISEASE;HIGH STAKES SAFETY PROTOCOLS IN NUTRITION REHABILITATION;INDICATION DRIVEN ACID SUPPRESSION WITH PEDIATRIC STOP RULES;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u008a3"
+}

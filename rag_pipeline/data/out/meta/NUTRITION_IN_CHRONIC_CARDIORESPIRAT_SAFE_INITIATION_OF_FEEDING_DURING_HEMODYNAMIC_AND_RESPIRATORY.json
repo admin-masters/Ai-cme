@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "Guidelines for initiating enteral feeding in neonates and infants with chronic cardiorespiratory disease focus on risk-stratified approaches, monitoring hemodynamic and respiratory stability, and structured feeding plans to minimize complications.",
+  "learning_objectives": [
+    "Understand hemodynamic and respiratory thresholds for safe enteral feeding initiation in neonates and infants with chronic cardiorespiratory disease.",
+    "Learn risk-stratified feeding strategies, including trophic volumes and explicit hold parameters.",
+    "Recognize signs of clinical deterioration during feeding, such as cyanosis, tachypnea, or rising oxygen needs.",
+    "Develop structured feeding plans with documented routes, volumes, caloric density, and stop rules."
+  ],
+  "key_facts": [
+    "Enteral feeding can be initiated when perfusion is stable, lactate is not rising, and vasoactive support is stable or decreasing.",
+    "Human milk is preferred for neonatal and infant congenital heart disease (CHD) patients when available.",
+    "Start with trophic volumes and advance cautiously based on perfusion, abdominal signs, and respiratory support.",
+    "In preterm chronic lung disease (CLD), feeding should not precipitate significant tachypnea or desaturation.",
+    "Systemic hypoperfusion physiology (e.g., ductal-dependent left-sided obstruction) requires conservative feeding advancement and tighter monitoring.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Enteral Nutrition",
+    "Congenital Heart Disease",
+    "Chronic Lung Disease",
+    "Neonatal Feeding",
+    "Hemodynamics",
+    "Respiratory Insufficiency",
+    "Risk Assessment",
+    "Parenteral Nutrition"
+  ],
+  "tags_custom": [
+    "cardiorespiratory feeding thresholds",
+    "neonatal nutrition guidelines",
+    "risk-stratified feeding",
+    "structured feeding plans",
+    "clinical deterioration signs"
+  ],
+  "reference_quote": "Nutrition guidelines for the pediatric and neonatal congenital heart patient emphasize human milk and risk-stratified feeding initiation during cardiorespiratory instability. (Source: Pediatric Cardiac Intensive Care Society)",
+  "document_key_topics": [
+    "Risk-stratified enteral feeding initiation in cardiorespiratory disease",
+    "Hemodynamic and respiratory stability thresholds for feeding",
+    "Structured feeding plans to minimize complications",
+    "Management of systemic hypoperfusion physiology during feeding"
+  ],
+  "chunk_heading": "NUTRITION IN CHRONIC CARDIORESPIRATORY DISEASE;SAFE INITIATION OF FEEDING DURING CARDIORESPIRATORY INSTABILITY;HEMODYNAMIC AND RESPIRATORY THRESHOLDS FOR ENTERAL INITIATION;",
+  "topic": "NUTRITION IN CHRONIC CARDIORESPIRATORY DISEASE",
+  "subtopic": "SAFE INITIATION OF FEEDING DURING CARDIORESPIRATORY INSTABILITY",
+  "sub_subtopic": "HEMODYNAMIC AND RESPIRATORY THRESHOLDS FOR ENTERAL INITIATION",
+  "heading_path": "NUTRITION IN CHRONIC CARDIORESPIRATORY DISEASE;SAFE INITIATION OF FEEDING DURING CARDIORESPIRATORY INSTABILITY;HEMODYNAMIC AND RESPIRATORY THRESHOLDS FOR ENTERAL INITIATION;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1m1"
+}

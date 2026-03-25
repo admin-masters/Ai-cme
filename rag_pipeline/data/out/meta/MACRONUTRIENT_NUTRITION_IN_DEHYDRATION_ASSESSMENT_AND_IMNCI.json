@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "This section discusses dehydration assessment and management in children, including IMNCI ORS plans, IV fluid protocols, and zinc supplementation, emphasizing structured evaluation and reassessment to prevent harm.",
+  "learning_objectives": [
+    "Understand the IMNCI dehydration classification and corresponding treatment plans (A, B, C).",
+    "Learn the appropriate use of ORS and IV fluids in children with dehydration.",
+    "Recognize the importance of zinc supplementation and early feeding in recovery.",
+    "Identify warning signs requiring escalation of care in dehydrated children."
+  ],
+  "key_facts": [
+    "Plan A: Home-based ORS after each loose stool (50\u2013100 mL for children <2 years, 100\u2013200 mL for 2\u201310 years).",
+    "Plan B: ORS 75 mL/kg over 4 hours under observation, with adjustments for vomiting.",
+    "Plan C: IV fluids (RL or 0.9% NS) 100 mL/kg; infants: 30 mL/kg in 1 hour, 70 mL/kg in 5 hours; older children: 30 mL/kg in 30 minutes, 70 mL/kg in 2.5 hours.",
+    "Zinc supplementation: 10 mg/day for 2\u20136 months, 20 mg/day for older infants and children, for 14 days.",
+    "Reassess hydration status after each fluid step to avoid over- or under-resuscitation.",
+    "Escalate care for shock, persistent vomiting, blood in stool, altered sensorium, or severe acute malnutrition."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Dehydration",
+    "Oral Rehydration Solutions",
+    "Fluid Therapy",
+    "Zinc",
+    "Child Nutrition Disorders",
+    "Acute Diarrhea",
+    "Rehydration Solutions",
+    "Pediatric Emergency Care"
+  ],
+  "tags_custom": [
+    "IMNCI guidelines",
+    "ORS management",
+    "IV fluid protocols",
+    "zinc supplementation",
+    "pediatric dehydration"
+  ],
+  "reference_quote": "Plan C (severe dehydration) is urgent IV isotonic fluid (RL or 0.9% NS) 100 mL/kg: in infants, 30 mL/kg in 1 hour then 70 mL/kg in 5 hours; in older children, 30 mL/kg in 30 minutes then 70 mL/kg in 2.5 hours, with frequent reassessment.",
+  "document_key_topics": [
+    "Dehydration assessment in children",
+    "IMNCI ORS and fluid management plans",
+    "Zinc supplementation in diarrhea",
+    "Early feeding and caregiver education"
+  ],
+  "chunk_heading": "MACRONUTRIENT NUTRITION IN CHILDHOOD;DEHYDRATION ASSESSMENT AND IMNCI ORS AND INTRAVENOUS FLUID MANAGEMENT;",
+  "topic": "MACRONUTRIENT NUTRITION IN CHILDHOOD",
+  "subtopic": "DEHYDRATION ASSESSMENT AND IMNCI ORS AND INTRAVENOUS FLUID MANAGEMENT",
+  "sub_subtopic": null,
+  "heading_path": "MACRONUTRIENT NUTRITION IN CHILDHOOD;DEHYDRATION ASSESSMENT AND IMNCI ORS AND INTRAVENOUS FLUID MANAGEMENT;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "4y"
+}

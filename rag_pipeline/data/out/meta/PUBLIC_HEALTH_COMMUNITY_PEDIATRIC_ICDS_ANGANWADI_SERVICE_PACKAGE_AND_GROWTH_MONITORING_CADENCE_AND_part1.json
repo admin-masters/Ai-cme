@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section focuses on growth monitoring frequency and referral triggers within the ICDS Anganwadi Service Package, emphasizing community-based and facility-based management of acute malnutrition in children under public health and pediatric nutrition frameworks.",
+  "learning_objectives": [
+    "Understand the cadence of growth monitoring in ICDS Anganwadi centers.",
+    "Identify clinical referral triggers for children with severe acute malnutrition (SAM).",
+    "Learn community-based management protocols for acute malnutrition (CMAM).",
+    "Explore facility-based management guidelines for SAM as per NHM operational standards."
+  ],
+  "key_facts": [
+    "Growth monitoring is conducted monthly for children under 5 years in Anganwadi centers.",
+    "Referral triggers include weight-for-height Z-score < -3 SD or visible signs of severe wasting.",
+    "Community-based management of acute malnutrition (CMAM) is outlined in the October 2023 protocol.",
+    "Facility-based management of SAM includes therapeutic feeding and medical care per NHM guidelines.",
+    "POSHAN ILA Module 08 provides standardized tools for growth assessment and escalation decisions."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Child Nutrition Disorders",
+    "Growth Monitoring",
+    "Malnutrition",
+    "Community Health Services",
+    "Referral and Consultation",
+    "Pediatric Nutrition",
+    "Severe Acute Malnutrition",
+    "Public Health"
+  ],
+  "tags_custom": [
+    "ICDS Anganwadi",
+    "Growth Assessment",
+    "Referral Protocols",
+    "CMAM Guidelines",
+    "SAM Management"
+  ],
+  "reference_quote": "Community-based management of acute malnutrition protocol (CMAM) (10 Oct 2023) emphasizes early identification and referral of children with severe acute malnutrition through Anganwadi centers.",
+  "document_key_topics": [
+    "Growth monitoring cadence in ICDS Anganwadi centers",
+    "Referral triggers for severe acute malnutrition (SAM)",
+    "Community-based management of acute malnutrition (CMAM)",
+    "Facility-based management guidelines for SAM"
+  ],
+  "chunk_heading": "PUBLIC HEALTH & COMMUNITY PEDIATRIC NUTRITION;ICDS ANGANWADI SERVICE PACKAGE AND CLINICAL LINKAGE;GROWTH MONITORING CADENCE AND REFERRAL ESCALATION TRIGGERS;",
+  "topic": "PUBLIC HEALTH & COMMUNITY PEDIATRIC NUTRITION",
+  "subtopic": "ICDS ANGANWADI SERVICE PACKAGE AND CLINICAL LINKAGE",
+  "sub_subtopic": "GROWTH MONITORING CADENCE AND REFERRAL ESCALATION TRIGGERS",
+  "heading_path": "PUBLIC HEALTH & COMMUNITY PEDIATRIC NUTRITION;ICDS ANGANWADI SERVICE PACKAGE AND CLINICAL LINKAGE;GROWTH MONITORING CADENCE AND REFERRAL ESCALATION TRIGGERS;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1o3.2"
+}

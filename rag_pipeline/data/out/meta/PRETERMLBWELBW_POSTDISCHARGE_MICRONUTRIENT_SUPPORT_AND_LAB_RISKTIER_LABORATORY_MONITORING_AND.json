@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Guidelines for risk-tiered lab monitoring and action thresholds in preterm/LBW/ELBW infants post-discharge, focusing on biochemical markers, iron status, bone health, and renal function, with specific numeric cutoffs and targeted imaging recommendations.",
+  "learning_objectives": [
+    "Understand the timing and frequency of lab monitoring for preterm/LBW/ELBW infants post-discharge.",
+    "Identify key biochemical markers and their thresholds for iron deficiency, bone health, and renal function.",
+    "Learn when to initiate targeted imaging based on lab results and clinical suspicion.",
+    "Recognize risk factors requiring earlier or more frequent monitoring, such as diuretics, cholestasis, or hypercaloric feeds."
+  ],
+  "key_facts": [
+    "Biochemical markers should be reviewed around 1 month post-discharge, with earlier checks for high-risk infants.",
+    "Ferritin <35\u201340 \u00b5g/L suggests iron deficiency, while >300 \u00b5g/L indicates overload (absent inflammation or liver disease).",
+    "Bone health markers: ALP >900 IU/L with phosphorus <4.6 mg/dL indicate low bone mineral density.",
+    "Electrolytes with urea/creatinine are essential for infants on hypercaloric feeds or prolonged diuretics.",
+    "Serum 25-hydroxyvitamin D monitoring is recommended in cholestasis or high-dose supplementation cases.",
+    "Targeted imaging includes bone radiographs for biochemical abnormalities or fractures and renal ultrasounds for nephrocalcinosis risk."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Infant, Premature",
+    "Low Birth Weight",
+    "Micronutrients",
+    "Iron Deficiency",
+    "Bone Density",
+    "Nephrocalcinosis",
+    "Vitamin D",
+    "Nutritional Support"
+  ],
+  "tags_custom": [
+    "post-discharge care",
+    "risk-based monitoring",
+    "biochemical markers",
+    "preterm nutrition"
+  ],
+  "reference_quote": "A practical timing anchor from the ABM protocol framework is to review biochemical markers around 1 month after discharge (and again later in infancy if risk persists).",
+  "document_key_topics": [
+    "Risk-tiered lab monitoring for preterm/LBW/ELBW infants",
+    "Biochemical markers and thresholds for iron and bone health",
+    "Targeted imaging for bone and renal abnormalities",
+    "Nutritional and micronutrient support post-discharge"
+  ],
+  "chunk_heading": "PRETERM/LBW/ELBW  POST-DISCHARGE  NUTRITION;MICRONUTRIENT  SUPPORT  AND LAB  MONITORING  AFTER  DISCHARGE;RISK-TIER  LABORATORY  MONITORING  AND ACTION THRESHOLDS;",
+  "topic": "PRETERM/LBW/ELBW  POST-DISCHARGE  NUTRITION",
+  "subtopic": "MICRONUTRIENT  SUPPORT  AND LAB  MONITORING  AFTER  DISCHARGE",
+  "sub_subtopic": "RISK-TIER  LABORATORY  MONITORING  AND ACTION THRESHOLDS",
+  "heading_path": "PRETERM/LBW/ELBW  POST-DISCHARGE  NUTRITION;MICRONUTRIENT  SUPPORT  AND LAB  MONITORING  AFTER  DISCHARGE;RISK-TIER  LABORATORY  MONITORING  AND ACTION THRESHOLDS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2a1"
+}

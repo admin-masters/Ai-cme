@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "This section discusses fat-soluble vitamin dosing and monitoring in pediatric cholestasis, emphasizing nutritional management in chronic liver disease and referencing key clinical guidelines.",
+  "learning_objectives": [
+    "Understand the role of fat-soluble vitamins in managing pediatric cholestasis.",
+    "Identify appropriate dosing and monitoring strategies for fat-soluble vitamins in chronic liver disease.",
+    "Recognize the impact of cholestasis on micronutrient absorption and liver function.",
+    "Apply evidence-based guidelines for nutritional support in pediatric liver disease."
+  ],
+  "key_facts": [
+    "Cholestasis impairs absorption of fat-soluble vitamins (A, D, E, K), necessitating supplementation.",
+    "Vitamin A deficiency can lead to night blindness; monitoring serum retinol levels is recommended.",
+    "Vitamin D supplementation should aim to maintain serum 25-hydroxyvitamin D levels >30 ng/mL.",
+    "Vitamin E deficiency is associated with neurological symptoms; alpha-tocopherol levels should be monitored.",
+    "Vitamin K is critical for coagulation; supplementation may be required to correct prolonged prothrombin time.",
+    "Guidelines recommend individualized dosing based on severity of deficiency and liver function."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Cholestasis",
+    "Fat-Soluble Vitamins",
+    "Vitamin A Deficiency",
+    "Vitamin D Deficiency",
+    "Vitamin E Deficiency",
+    "Vitamin K Deficiency",
+    "Pediatric Liver Diseases",
+    "Nutritional Support"
+  ],
+  "tags_custom": [
+    "Pediatric cholestasis",
+    "Vitamin supplementation",
+    "Liver disease nutrition",
+    "Micronutrient monitoring"
+  ],
+  "reference_quote": "Cholestasis significantly impairs the absorption of fat-soluble vitamins, necessitating careful monitoring and individualized supplementation strategies. (Source: NASPGHAN and ESPGHAN Joint Position Paper)",
+  "document_key_topics": [
+    "Fat-soluble vitamin deficiencies in cholestasis",
+    "Nutritional management in pediatric liver disease",
+    "Guidelines for vitamin dosing and monitoring"
+  ],
+  "chunk_heading": "NUTRITION IN CHRONIC KIDNEY & LIVER DISEASE;MICRONUTRIENTS AND FLUID MANAGEMENT IN PEDIATRIC CHRONIC LIVER DISEASE;FAT-SOLUBLE VITAMIN DOSING AND MONITORING IN CHOLESTASIS;",
+  "topic": "NUTRITION IN CHRONIC KIDNEY & LIVER DISEASE",
+  "subtopic": "MICRONUTRIENTS AND FLUID MANAGEMENT IN PEDIATRIC CHRONIC LIVER DISEASE",
+  "sub_subtopic": "FAT-SOLUBLE VITAMIN DOSING AND MONITORING IN CHOLESTASIS",
+  "heading_path": "NUTRITION IN CHRONIC KIDNEY & LIVER DISEASE;MICRONUTRIENTS AND FLUID MANAGEMENT IN PEDIATRIC CHRONIC LIVER DISEASE;FAT-SOLUBLE VITAMIN DOSING AND MONITORING IN CHOLESTASIS;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "3\u007f1.2"
+}

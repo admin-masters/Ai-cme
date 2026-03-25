@@ -1,0 +1,46 @@
+{
+  "chunk_summary": "Severe anemia in children requires urgent triage, stabilization, and referral, with transfusion decisions based on hemoglobin levels and clinical signs of decompensation.",
+  "learning_objectives": [
+    "Understand the clinical signs and thresholds for severe anemia triage in children.",
+    "Learn the hemoglobin thresholds that guide transfusion decisions in severe anemia cases.",
+    "Identify immediate management steps for severe anemia, including oxygen, hydration, and diagnostic tests.",
+    "Integrate severe anemia management into the Anemia Mukt Bharat (AMB) T3 workflow."
+  ],
+  "key_facts": [
+    "Severe anemia with cardiorespiratory compromise is a medical emergency.",
+    "Transfusion is typically indicated at hemoglobin <4 g/dL or 4\u20136 g/dL with clinical signs of heart failure, shock, or respiratory distress.",
+    "Stabilization includes oxygen for hypoxia, correction of dehydration, and urgent referral or admission.",
+    "Oral iron is not suitable for acute management as it does not rapidly restore oxygen-carrying capacity.",
+    "The AMB T3 workflow classifies severe anemia in school/community camps as an immediate referral category."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Anemia, Severe",
+    "Iron-Deficiency Anemia",
+    "Blood Transfusion",
+    "Triage",
+    "Child Health",
+    "Oxygen Therapy",
+    "Dehydration",
+    "Emergency Medical Services"
+  ],
+  "tags_custom": [
+    "Severe anemia management",
+    "Pediatric emergency care",
+    "Anemia Mukt Bharat"
+  ],
+  "reference_quote": "Hemoglobin thresholds used in hospital guidance commonly trigger transfusion decisions at very low levels (for example, <4 g/dL even without symptoms, or 4\u20136 g/dL when there are clinical signs of heart failure, shock, or respiratory distress).",
+  "document_key_topics": [
+    "Severe anemia triage and management in children",
+    "Hemoglobin thresholds for transfusion decisions",
+    "Integration of AMB T3 workflow in anemia management"
+  ],
+  "chunk_heading": "NATIONAL NUTRITION AND FORTIFICATION PROGRAMS IN INDIA;ANEMIA MUKT BHARAT AND CLINICAL IRON MANAGEMENT;SEVERE ANEMIA TRIAGE AND TRANSFUSION REFERRAL   DECISIONS;",
+  "topic": "NATIONAL NUTRITION AND FORTIFICATION PROGRAMS IN INDIA",
+  "subtopic": "ANEMIA MUKT BHARAT AND CLINICAL IRON MANAGEMENT",
+  "sub_subtopic": "SEVERE ANEMIA TRIAGE AND TRANSFUSION REFERRAL   DECISIONS",
+  "heading_path": "NATIONAL NUTRITION AND FORTIFICATION PROGRAMS IN INDIA;ANEMIA MUKT BHARAT AND CLINICAL IRON MANAGEMENT;SEVERE ANEMIA TRIAGE AND TRANSFUSION REFERRAL   DECISIONS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2w5.1"
+}

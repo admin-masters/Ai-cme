@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "Guidelines for accurate MUAC and oedema measurement in outpatient care, emphasizing standardization, repeatability, and safety in borderline cases.",
+  "learning_objectives": [
+    "Understand the correct technique for measuring MUAC using a non-stretch tape.",
+    "Learn the systematic approach to assess bilateral pitting oedema and differentiate it from local pathology.",
+    "Recognize the importance of repeating borderline measurements to ensure accurate classification.",
+    "Identify the role of standardized tools and techniques in reducing misclassification in outpatient care."
+  ],
+  "key_facts": [
+    "MUAC should be measured on the left arm, identifying the midpoint between the acromion and olecranon, and read to the nearest millimeter.",
+    "Measurements must be repeated at least twice to confirm borderline values and reduce errors.",
+    "Bilateral pitting oedema is assessed by pressing both feet for several seconds and confirming persistent pitting.",
+    "Unilateral swelling is not considered nutritional oedema and suggests local pathology.",
+    "In India, program entry criteria may differ, with some workflows emphasizing WHZ plus oedema alongside MUAC.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Anthropometry",
+    "Mid-Upper Arm Circumference",
+    "Nutritional Status",
+    "Oedema",
+    "Malnutrition",
+    "Child, Preschool",
+    "Risk Assessment",
+    "Community Health Services"
+  ],
+  "tags_custom": [
+    "MUAC measurement",
+    "borderline malnutrition",
+    "oedema assessment",
+    "outpatient care",
+    "standardized techniques"
+  ],
+  "reference_quote": "Anthropometry is a clinical skill because it determines diagnosis, risk stratification, entitlement to supplementary rations, and follow-up intensity.",
+  "document_key_topics": [
+    "MUAC measurement technique",
+    "Oedema assessment in malnutrition",
+    "Standardization in outpatient anthropometry",
+    "Borderline malnutrition management"
+  ],
+  "chunk_heading": "FEEDING;ANTHROPOMETRY AND BORDERLINE INTERPRETATION IN OUTPATIENT CARE;MEASUREMENT TECHNIQUE FOR MUAC LENGTH AND OEDEMA;",
+  "topic": "FEEDING",
+  "subtopic": "ANTHROPOMETRY AND BORDERLINE INTERPRETATION IN OUTPATIENT CARE",
+  "sub_subtopic": "MEASUREMENT TECHNIQUE FOR MUAC LENGTH AND OEDEMA",
+  "heading_path": "FEEDING;ANTHROPOMETRY AND BORDERLINE INTERPRETATION IN OUTPATIENT CARE;MEASUREMENT TECHNIQUE FOR MUAC LENGTH AND OEDEMA;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2d1"
+}

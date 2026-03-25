@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "This section focuses on glucose infusion rate (GIR) calculations and carbohydrate titration targets in pediatric parenteral nutrition, emphasizing safety protocols and evidence-based guidelines from ESPGHAN/ESPEN/ESPR and NSW Health policies.",
+  "learning_objectives": [
+    "Understand the principles of GIR calculation in pediatric parenteral nutrition.",
+    "Identify safe carbohydrate titration targets to prevent complications such as hyperglycemia.",
+    "Apply ESPGHAN/ESPEN/ESPR guidelines to optimize parenteral nutrition safety.",
+    "Recognize the importance of monitoring and adjusting carbohydrate infusion rates."
+  ],
+  "key_facts": [
+    "Glucose Infusion Rate (GIR) is calculated as mg/kg/min and is critical for preventing hyperglycemia in pediatric patients.",
+    "Recommended GIR targets for neonates are typically 4-6 mg/kg/min, while older children may tolerate up to 8-10 mg/kg/min.",
+    "Excessive carbohydrate infusion can lead to complications such as hyperglycemia, lipogenesis, and hepatic dysfunction.",
+    "ESPEN guidelines emphasize gradual titration of carbohydrates to avoid metabolic disturbances.",
+    "NSW Health policy highlights the importance of regular monitoring of blood glucose levels during parenteral nutrition."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Parenteral Nutrition",
+    "Glucose Infusion Rate",
+    "Carbohydrates",
+    "Pediatrics",
+    "Hyperglycemia",
+    "Nutrition Therapy",
+    "Metabolic Diseases",
+    "Clinical Guidelines"
+  ],
+  "tags_custom": [
+    "GIR calculation",
+    "carbohydrate titration",
+    "pediatric nutrition safety",
+    "parenteral nutrition protocols"
+  ],
+  "reference_quote": "Gradual titration of carbohydrates is recommended to avoid hyperglycemia and other metabolic complications in pediatric parenteral nutrition. (ESPGHAN/ESPEN/ESPR guidelines)",
+  "document_key_topics": [
+    "Glucose Infusion Rate (GIR) calculation",
+    "Carbohydrate titration targets",
+    "Safety protocols in pediatric parenteral nutrition",
+    "Guidelines for preventing metabolic complications"
+  ],
+  "chunk_heading": "ENTERAL & PARENTERAL NUTRITION;PARENTERAL NUTRITION ORDERING AND CALCULATION SAFETY;GIR CALCULATION AND CARBOHYDRATE TITRATION TARGETS;",
+  "topic": "ENTERAL & PARENTERAL NUTRITION",
+  "subtopic": "PARENTERAL NUTRITION ORDERING AND CALCULATION SAFETY",
+  "sub_subtopic": "GIR CALCULATION AND CARBOHYDRATE TITRATION TARGETS",
+  "heading_path": "ENTERAL & PARENTERAL NUTRITION;PARENTERAL NUTRITION ORDERING AND CALCULATION SAFETY;GIR CALCULATION AND CARBOHYDRATE TITRATION TARGETS;",
+  "reference_count": 2,
+  "has_guidelines": false,
+  "sequence": "2\u00842.2"
+}

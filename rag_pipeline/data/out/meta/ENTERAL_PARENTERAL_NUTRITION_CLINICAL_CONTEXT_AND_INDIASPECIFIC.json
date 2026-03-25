@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "This section discusses pediatric enteral and parenteral nutrition in India, emphasizing the impact of undernutrition, resource constraints, and the need for standardized protocols to improve outcomes in low-resource settings.",
+  "learning_objectives": [
+    "Understand the clinical importance of enteral and parenteral nutrition in pediatric care, especially in the Indian context.",
+    "Identify key challenges in implementing nutrition support in resource-limited settings.",
+    "Learn strategies to mitigate preventable harms such as aspiration, electrolyte shifts, and central line infections.",
+    "Recognize the role of standardized protocols in improving nutrition delivery and patient outcomes."
+  ],
+  "key_facts": [
+    "NFHS-5 (2019\u20132021) reports 35.5% stunting and 19.3% wasting among under-5 children in India.",
+    "Enteral and parenteral nutrition directly influence wound healing, immune function, ventilator weaning, and hospital length of stay.",
+    "Key preventable harms in Indian wards include aspiration during tube feeds, electrolyte shifts (e.g., phosphate and magnesium during refeeding), and central line infections or thrombosis during PN.",
+    "Resource constraints in India include inconsistent availability of pumps, pH strips, commercial formulas, and refrigeration for feeds.",
+    "Protocols should define minimum safe standards such as hang times, flushing, delivered-volume documentation, and 'stop feeds' triggers."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Enteral Nutrition",
+    "Parenteral Nutrition",
+    "Pediatric Nutrition",
+    "Undernutrition",
+    "Refeeding Syndrome",
+    "Central Venous Catheter-Related Infections",
+    "India",
+    "Clinical Protocols"
+  ],
+  "tags_custom": [
+    "Low-resource settings",
+    "Nutrition risk assessment",
+    "Pediatric malnutrition",
+    "Hospital nutrition protocols"
+  ],
+  "reference_quote": "National survey data from NFHS-5 (2019\u20132021) report stunting 35.5% and wasting 19.3% among under-5 children, so many hospitalized children start illness with limited reserves.",
+  "document_key_topics": [
+    "Pediatric undernutrition in India",
+    "Enteral and parenteral nutrition practices",
+    "Challenges in low-resource healthcare settings",
+    "Standardized protocols for nutrition support"
+  ],
+  "chunk_heading": "ENTERAL & PARENTERAL NUTRITION;CLINICAL CONTEXT AND INDIA-SPECIFIC QUALITY GOALS;",
+  "topic": "ENTERAL & PARENTERAL NUTRITION",
+  "subtopic": "CLINICAL CONTEXT AND INDIA-SPECIFIC QUALITY GOALS",
+  "sub_subtopic": null,
+  "heading_path": "ENTERAL & PARENTERAL NUTRITION;CLINICAL CONTEXT AND INDIA-SPECIFIC QUALITY GOALS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1a"
+}

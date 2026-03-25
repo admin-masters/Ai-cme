@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "This section outlines a structured 24-hour recall method for assessing diet adequacy in children with chronic undernutrition, emphasizing energy, protein targets, and dietary diversity to guide interventions based on adequacy ratios.",
+  "learning_objectives": [
+    "Understand the use of 24-hour recall for rapid diet adequacy assessment in chronic undernutrition.",
+    "Learn to calculate and interpret the diet adequacy ratio to guide nutritional interventions.",
+    "Identify strategies to improve dietary diversity and nutrient density in food-insecure settings.",
+    "Recognize the importance of addressing infection burden and feeding dynamics in cases of poor growth despite adequate intake."
+  ],
+  "key_facts": [
+    "Diet adequacy ratio = (reported intake \u00f7 target) \u00d7 100.",
+    "If the adequacy ratio is <75%, prioritize securing a minimum meal structure (3 meals + snacks) and adding a consistent protein source daily.",
+    "For ratios of 75\u201390%, focus on nutrient density by replacing sugary beverages and ultraprocessed snacks with protein-rich snacks and fruits/vegetables.",
+    "Ratios >90% with poor growth velocity require investigation of infection burden, enteric exposure, or chronic disease red flags.",
+    "Dietary diversity should be assessed using the ICMR-NIN food group framework, documenting missing groups for follow-up."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Stunting",
+    "Malnutrition",
+    "Dietary Assessment",
+    "Dietary Proteins",
+    "Dietary Diversity",
+    "Food Insecurity",
+    "Child Nutrition Disorders",
+    "Nutritional Requirements"
+  ],
+  "tags_custom": [
+    "24-hour recall",
+    "diet adequacy ratio",
+    "chronic undernutrition",
+    "nutritional counseling"
+  ],
+  "reference_quote": "\"Use a structured 24-hour recall, recorded meal-by-meal, then compare what the child actually consumed to the calculated energy and protein targets.\" (Dietary Guidelines for Indians 2024)",
+  "document_key_topics": [
+    "Stunting and chronic undernutrition",
+    "Diet adequacy assessment using 24-hour recall",
+    "Nutritional interventions based on adequacy ratios",
+    "Dietary diversity and nutrient density"
+  ],
+  "chunk_heading": "STUNTING, CHRONIC UNDERNUTRITION & DETERMINANTS;QUANTITATIVE NUTRITION PRESCRIPTION FOR CHRONIC UNDERNUTRITION;RAPID DIET ADEQUACY ASSESSMENT USING 24-HOUR RECALL;",
+  "topic": "STUNTING, CHRONIC UNDERNUTRITION & DETERMINANTS",
+  "subtopic": "QUANTITATIVE NUTRITION PRESCRIPTION FOR CHRONIC UNDERNUTRITION",
+  "sub_subtopic": "RAPID DIET ADEQUACY ASSESSMENT USING 24-HOUR RECALL",
+  "heading_path": "STUNTING, CHRONIC UNDERNUTRITION & DETERMINANTS;QUANTITATIVE NUTRITION PRESCRIPTION FOR CHRONIC UNDERNUTRITION;RAPID DIET ADEQUACY ASSESSMENT USING 24-HOUR RECALL;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "7}3"
+}

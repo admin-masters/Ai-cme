@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "Guidance for managing uncomplicated SAM when outpatient therapeutic feeding programs are unavailable, emphasizing structured feeding counseling, follow-up, and risk-based inpatient admission thresholds.",
+  "learning_objectives": [
+    "Understand the management of SAM without access to outpatient therapeutic feeding programs.",
+    "Learn structured feeding counseling techniques using locally available energy-dense foods.",
+    "Identify risk factors for inpatient admission in severe malnutrition cases.",
+    "Recognize the importance of early follow-up and written return precautions for higher-risk outpatient cases."
+  ],
+  "key_facts": [
+    "Uncomplicated SAM cases without OTP/CMAM should be labeled as 'higher-risk outpatient' and require structured feeding counseling.",
+    "Weekly early reviews are clinically defensible for severe anthropometric deficits.",
+    "Written return precautions include symptoms like vomiting, fever, lethargy, worsening cough, diarrhea, or new oedema.",
+    "Outpatient failure in severe malnutrition can be rapid; inpatient admission thresholds should be lower when follow-up reliability is low.",
+    "Community-based care must complement inpatient services, with implementation varying across states and districts.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Malnutrition",
+    "Severe Acute Malnutrition",
+    "Community Health Services",
+    "Nutritional Support",
+    "Energy Intake",
+    "Risk Assessment",
+    "Child Nutrition Disorders",
+    "Feeding Behavior"
+  ],
+  "tags_custom": [
+    "SAM management",
+    "feeding counseling",
+    "outpatient care gaps",
+    "community nutrition",
+    "follow-up protocols"
+  ],
+  "reference_quote": "Facility-based guidance recognizes that community-based care must complement inpatient services, but implementation varies across states and districts. (Reference 1)",
+  "document_key_topics": [
+    "Management of SAM without outpatient therapeutic feeding programs",
+    "Structured feeding counseling using locally available foods",
+    "Risk-based inpatient admission thresholds",
+    "Importance of follow-up and return precautions in malnutrition care"
+  ],
+  "chunk_heading": "MALNUTRITION\u2014UNDERNUTRITION: SCREENING & CLASSIFICATION;PROGRAM- LINKED PATHWAYS WHEN OUTPATIENT THERAPEUTIC FEEDING IS UNAVAILABLE;",
+  "topic": "MALNUTRITION\u2014UNDERNUTRITION: SCREENING & CLASSIFICATION",
+  "subtopic": "PROGRAM- LINKED PATHWAYS WHEN OUTPATIENT THERAPEUTIC FEEDING IS UNAVAILABLE",
+  "sub_subtopic": null,
+  "heading_path": "MALNUTRITION\u2014UNDERNUTRITION: SCREENING & CLASSIFICATION;PROGRAM- LINKED PATHWAYS WHEN OUTPATIENT THERAPEUTIC FEEDING IS UNAVAILABLE;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "3\u007f"
+}

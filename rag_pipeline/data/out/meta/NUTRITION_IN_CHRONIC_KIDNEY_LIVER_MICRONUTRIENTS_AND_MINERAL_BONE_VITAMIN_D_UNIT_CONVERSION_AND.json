@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Guidance on vitamin D unit conversion, repletion course design, and reassessment in pediatric CKD, emphasizing safety, monitoring, and separation of native and active vitamin D therapies.",
+  "learning_objectives": [
+    "Understand the importance of unit consistency in vitamin D measurement and conversion in pediatric CKD.",
+    "Learn how to design and monitor a finite vitamin D repletion course based on severity and reassessment timelines.",
+    "Differentiate between native vitamin D repletion and active vitamin D analogue therapy in CKD-MBD management.",
+    "Recognize the risks of hypercalcemia and adynamic bone disease during vitamin D therapy."
+  ],
+  "key_facts": [
+    "Serum 25(OH)D is reported as ng/mL or nmol/L; use the conversion: nmol/L = 2.496 \u00d7 (ng/mL).",
+    "Repletion should target <30 ng/mL (approximately 75 nmol/L) and be reassessed after 8\u201312 weeks.",
+    "Monitor calcium, phosphate, and PTH trends during repletion to avoid hypercalcemia.",
+    "Do not use calcitriol/alfacalcidol to treat low 25(OH)D; reserve active analogues for CKD-MBD with persistent PTH elevation.",
+    "Document stopping rules (e.g., target reached, hypercalcemia) and next lab date to ensure continuity of care."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Vitamin D",
+    "Chronic Kidney Disease-Mineral and Bone Disorder",
+    "Pediatrics",
+    "Hypercalcemia",
+    "Parathyroid Hormone",
+    "Calcium",
+    "Phosphate",
+    "Calcitriol"
+  ],
+  "tags_custom": [
+    "Vitamin D repletion",
+    "CKD pediatric guidelines",
+    "Unit conversion",
+    "CKD-MBD management",
+    "Hypercalcemia risk"
+  ],
+  "reference_quote": "Do not use calcitriol/alfacalcidol to treat low 25(OH)D; active analogues are reserved for CKD\u2013mineral bone disorder when PTH remains persistently above stage-appropriate targets despite correction of modifiable factors (phosphate control, calcium balance, and native vitamin D status).",
+  "document_key_topics": [
+    "Vitamin D unit conversion in CKD",
+    "Repletion course design and reassessment",
+    "Separation of native and active vitamin D therapies",
+    "Monitoring for hypercalcemia and CKD-MBD risks"
+  ],
+  "chunk_heading": "NUTRITION IN CHRONIC KIDNEY & LIVER DISEASE;MICRONUTRIENTS AND MINERAL BONE DISORDER IN PEDIATRIC CKD;VITAMIN D UNIT CONVERSION AND REPLETION COURSE REASSESSMENT IN CKD;",
+  "topic": "NUTRITION IN CHRONIC KIDNEY & LIVER DISEASE",
+  "subtopic": "MICRONUTRIENTS AND MINERAL BONE DISORDER IN PEDIATRIC CKD",
+  "sub_subtopic": "VITAMIN D UNIT CONVERSION AND REPLETION COURSE REASSESSMENT IN CKD",
+  "heading_path": "NUTRITION IN CHRONIC KIDNEY & LIVER DISEASE;MICRONUTRIENTS AND MINERAL BONE DISORDER IN PEDIATRIC CKD;VITAMIN D UNIT CONVERSION AND REPLETION COURSE REASSESSMENT IN CKD;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "3z4"
+}

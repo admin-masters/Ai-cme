@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "FPE is a severe non-IgE cow's milk protein allergy phenotype requiring intensive evaluation and management, including formula escalation from eHF to AAF based on response and severity, with a focus on nutritional rescue and planned reintroduction.",
+  "learning_objectives": [
+    "Understand the clinical presentation and diagnostic approach for food protein-induced enteropathy (FPE).",
+    "Learn the stepwise management of FPE, including formula escalation from eHF to AAF.",
+    "Recognize when to refer to gastroenterology or hospitalize for severe cases.",
+    "Develop a plan for supervised milk reintroduction to prevent prolonged avoidance and undernutrition."
+  ],
+  "key_facts": [
+    "FPE is a non-IgE-mediated cow's milk protein allergy characterized by chronic diarrhea, vomiting, malabsorption, and failure to thrive.",
+    "Initial management includes elimination diets, starting with extensively hydrolyzed formula (eHF) for 2 weeks, with escalation to amino acid formula (AAF) if severe malabsorption or no response occurs.",
+    "Hospitalization is required for dehydration, electrolyte disturbance, or protein-losing enteropathy.",
+    "Endoscopic confirmation is not mandatory but gastroenterology referral is advised for severe or uncertain cases.",
+    "Prolonged formula trials without diagnostic endpoints delay nutritional rehabilitation and should be avoided."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Food Hypersensitivity",
+    "Milk Hypersensitivity",
+    "Enteropathy",
+    "Malabsorption Syndromes",
+    "Hypoalbuminemia",
+    "Failure to Thrive",
+    "Amino Acids",
+    "Hydrolyzed Protein Formulas"
+  ],
+  "tags_custom": [
+    "FPE management",
+    "formula escalation",
+    "non-IgE allergy",
+    "nutritional rehabilitation"
+  ],
+  "reference_quote": "Management combines strict elimination with rapid nutrition rescue. If formula is required, start with eHF and assess response over a defined short window (about 2 weeks). Escalate to AAF when there is severe disease, ongoing malabsorption, hypoalbuminemia, or failure to respond to a properly implemented eHF trial. (Source: Indian Pediatrics, 2020)",
+  "document_key_topics": [
+    "Food protein-induced enteropathy (FPE)",
+    "Nutritional impact and malabsorption in cow's milk protein allergy",
+    "Formula escalation: eHF to AAF",
+    "Supervised milk reintroduction"
+  ],
+  "chunk_heading": "FOOD ALLERGY & THERAPEUTIC ELIMINATION DIETS;COWS MILK PROTEIN ALLERGY PHENOTYPE MANAGEMENT;FPE MALABSORPTION EVALUATION AND FORMULA ESCALATION;",
+  "topic": "FOOD ALLERGY & THERAPEUTIC ELIMINATION DIETS",
+  "subtopic": "COWS MILK PROTEIN ALLERGY PHENOTYPE MANAGEMENT",
+  "sub_subtopic": "FPE MALABSORPTION EVALUATION AND FORMULA ESCALATION",
+  "heading_path": "FOOD ALLERGY & THERAPEUTIC ELIMINATION DIETS;COWS MILK PROTEIN ALLERGY PHENOTYPE MANAGEMENT;FPE MALABSORPTION EVALUATION AND FORMULA ESCALATION;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "1|4"
+}

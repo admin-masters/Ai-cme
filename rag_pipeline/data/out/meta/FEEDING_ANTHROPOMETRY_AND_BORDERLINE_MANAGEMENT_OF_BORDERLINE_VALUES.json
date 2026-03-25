@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section addresses the management of borderline anthropometric values and discordant metrics in outpatient care, emphasizing technical validation, clinical risk stratification, and follow-up strategies for malnourished children.",
+  "learning_objectives": [
+    "Understand the significance of borderline MUAC and WHZ values in malnutrition risk assessment.",
+    "Learn technical steps to confirm anthropometric measurements and address discordance.",
+    "Identify clinical risk factors for prioritizing intensive dietary support and follow-up.",
+    "Explore strategies for managing children with borderline metrics in resource-limited settings."
+  ],
+  "key_facts": [
+    "Borderline MUAC values: 124\u2013125 mm; WHZ near -2 are common indicators of malnutrition risk.",
+    "Mortality risk is highest when both MUAC and WHZ are low, requiring intensified follow-up.",
+    "WHO recommends prioritizing children with MUAC 115\u2013119 mm, WAZ < -3, age < 24 months, or comorbidities like HIV or TB.",
+    "Technical validation includes repeating measurements, confirming equipment calibration, and ensuring proper technique.",
+    "In clinics without specialized foods, tighter follow-up and linkage to supplementary feeding are essential for high-risk children."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Malnutrition",
+    "Anthropometry",
+    "Mid-Upper Arm Circumference",
+    "Weight-for-Height Z Score",
+    "Nutritional Support",
+    "Child Health",
+    "Risk Assessment",
+    "Outpatient Care"
+  ],
+  "tags_custom": [
+    "Borderline metrics",
+    "Malnutrition management",
+    "Clinical risk stratification",
+    "Supplementary feeding",
+    "WHO guidelines"
+  ],
+  "reference_quote": "WHO provides practical risk factors to decide when counselling alone is unlikely to be sufficient and when children should be prioritized for more intensive dietary support and closer follow-up: MUAC 115\u2013119 mm, weight-for-age (WAZ) < -3, age <24 months, failure to recover after other interventions, relapse or prior severe wasting, comorbidity (for example HIV, TB, disability), and severe adverse social circumstances.",
+  "document_key_topics": [
+    "Borderline anthropometric values",
+    "Discordance between MUAC and WHZ",
+    "Clinical risk stratification",
+    "Management strategies for malnourished children"
+  ],
+  "chunk_heading": "FEEDING;ANTHROPOMETRY AND BORDERLINE INTERPRETATION IN OUTPATIENT CARE;MANAGEMENT OF BORDERLINE VALUES AND DISCORDANT METRICS;",
+  "topic": "FEEDING",
+  "subtopic": "ANTHROPOMETRY AND BORDERLINE INTERPRETATION IN OUTPATIENT CARE",
+  "sub_subtopic": "MANAGEMENT OF BORDERLINE VALUES AND DISCORDANT METRICS",
+  "heading_path": "FEEDING;ANTHROPOMETRY AND BORDERLINE INTERPRETATION IN OUTPATIENT CARE;MANAGEMENT OF BORDERLINE VALUES AND DISCORDANT METRICS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "3c2"
+}

@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Guidelines for prescribing and safely using RUSF and LNS for moderate wasting, including dosing, administration, and storage recommendations, with emphasis on preventing operational failures and ensuring adherence.",
+  "learning_objectives": [
+    "Understand the prescribed dosing and energy contributions of RUSF and LNS for children with moderate wasting.",
+    "Learn safe-use practices to prevent contamination, displacement, and choking risks during RUSF administration.",
+    "Identify the differences between RUTF and RUSF in terms of intended use and nutritional goals.",
+    "Apply weight-banded energy targets to calculate appropriate supplementary feeding regimens."
+  ],
+  "key_facts": [
+    "WHO recovery target: 100\u2013130 kcal/kg/day total energy needs, with 40\u201360% from supplements (40\u201378 kcal/kg/day).",
+    "Weight-banded RUSF energy targets: 6 kg child needs 240\u2013468 kcal/day; 8 kg child 320\u2013624 kcal/day; 10 kg child 400\u2013780 kcal/day.",
+    "RUSF is typically provided as one 100 g sachet/day, delivering 535 kcal, and is not a breast-milk substitute.",
+    "Prescribed RUSF courses often last 8\u201312 weeks, with early reassessment for adherence and displacement.",
+    "Safe-use practices include giving RUSF after meals, storing sealed packets away from heat/pests, and avoiding mixing with water to reduce contamination risk."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Malnutrition",
+    "Nutritional Support",
+    "Dietary Supplements",
+    "Child Nutrition Disorders",
+    "Energy Intake",
+    "Food Safety",
+    "Lipid-Based Nutrient Supplements",
+    "Ready-to-Use Therapeutic Food"
+  ],
+  "tags_custom": [
+    "RUSF dosing",
+    "safe feeding practices",
+    "moderate wasting",
+    "child nutrition",
+    "supplementary feeding"
+  ],
+  "reference_quote": "UNICEF specifications describe RUSF as eaten directly from the sachet without cooking or dilution, typically as one 100 g sachet per day providing about 535 kcal, and not as a breast-milk substitute.",
+  "document_key_topics": [
+    "Prescribed dosing of RUSF and LNS",
+    "Safe-use practices for supplementary feeding",
+    "Energy requirements for moderate wasting in children",
+    "Differences between RUTF and RUSF"
+  ],
+  "chunk_heading": "FEEDING;SUPPLEMENTARY FEEDING REGIMENS AND SAFE PRODUCT USE;PRESCRIBABLE DOSING AND SAFE USE OF RUSF AND LNS;",
+  "topic": "FEEDING",
+  "subtopic": "SUPPLEMENTARY FEEDING REGIMENS AND SAFE PRODUCT USE",
+  "sub_subtopic": "PRESCRIBABLE DOSING AND SAFE USE OF RUSF AND LNS",
+  "heading_path": "FEEDING;SUPPLEMENTARY FEEDING REGIMENS AND SAFE PRODUCT USE;PRESCRIBABLE DOSING AND SAFE USE OF RUSF AND LNS;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "4h2"
+}

@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section outlines performance thresholds and monitoring metrics for managing malnutrition in pediatric outpatient and facility-based care, emphasizing recovery, defaulter, and death rates, as well as OPD checklist protocols for program evaluation and corrective action.",
+  "learning_objectives": [
+    "Understand performance thresholds for pediatric malnutrition programs, including recovery, defaulter, and death rates.",
+    "Learn how to use OPD checklists and anthropometric data for monitoring and evaluation.",
+    "Identify corrective actions for high defaulter or death rates in malnutrition programs.",
+    "Analyze outpatient monitoring workflows and referral triggers for nonresponse cases."
+  ],
+  "key_facts": [
+    "Recovery rate should be above 75%, defaulter rate below 15%, and death rate below 5%.",
+    "Average weight gain during rehabilitation should be at least 8 g/kg/day; flag if lower.",
+    "A defaulter is defined as a child absent for three consecutive days without discharge.",
+    "Nonresponse triggers include failure to gain weight for two weeks or nonrecovery after three months.",
+    "Rapid OPD assessments include anthropometry, diet recall, and Anganwadi food consumption tracking."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Malnutrition",
+    "Pediatrics",
+    "Community Health Services",
+    "Nutritional Rehabilitation",
+    "Program Evaluation",
+    "Anthropometry",
+    "Health Monitoring",
+    "Outpatient Clinics"
+  ],
+  "tags_custom": [
+    "Pediatric Nutrition",
+    "Malnutrition Monitoring",
+    "Corrective Action",
+    "OPD Checklist",
+    "Performance Metrics"
+  ],
+  "reference_quote": "Acceptable program thresholds used for service monitoring include recovery rate above 75%, death rate below 5%, defaulter rate below 15%, and average weight gain during rehabilitation at or above about 8 g/kg/day.",
+  "document_key_topics": [
+    "Performance thresholds for malnutrition programs",
+    "Monitoring and evaluation metrics for outpatient and facility care",
+    "Corrective actions for high defaulter or death rates",
+    "OPD checklist and rapid assessment protocols"
+  ],
+  "chunk_heading": "PUBLIC HEALTH & COMMUNITY PEDIATRIC NUTRITION;MONITORING AND EVALUATION METRICS FOR PROGRAM CORRECTIVE ACTION;NRC AND OUTPATIENT PERFORMANCE THRESHOLDS WITH OPD CHECKLIST;",
+  "topic": "PUBLIC HEALTH & COMMUNITY PEDIATRIC NUTRITION",
+  "subtopic": "MONITORING AND EVALUATION METRICS FOR PROGRAM CORRECTIVE ACTION",
+  "sub_subtopic": "NRC AND OUTPATIENT PERFORMANCE THRESHOLDS WITH OPD CHECKLIST",
+  "heading_path": "PUBLIC HEALTH & COMMUNITY PEDIATRIC NUTRITION;MONITORING AND EVALUATION METRICS FOR PROGRAM CORRECTIVE ACTION;NRC AND OUTPATIENT PERFORMANCE THRESHOLDS WITH OPD CHECKLIST;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1\u009e6"
+}

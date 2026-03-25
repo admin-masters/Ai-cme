@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "This section outlines modifications in severe acute malnutrition (SAM) management for infants under six months with major comorbidities, emphasizing tailored approaches for TB, HIV, neurodisability, congenital heart disease, CKD, and CLD.",
+  "learning_objectives": [
+    "Understand how comorbidities modify standard SAM management protocols in infants under six months.",
+    "Learn specific adjustments for feeding, fluid management, and antibiotic use in TB, HIV, and neurodisability cases.",
+    "Recognize the importance of monitoring and discharge planning tailored to comorbid conditions.",
+    "Identify risks such as aspiration, refeeding syndrome, and slower weight recovery in comorbid SAM cases."
+  ],
+  "key_facts": [
+    "TB management: Screen non-responders early; pyridoxine prophylaxis is essential with isoniazid-containing regimens.",
+    "HIV management: Start ART after stabilizing sepsis; add high-dose cotrimoxazole for PCP if severe pneumonia with hypoxia is present.",
+    "Neurodisability: Use slower feeds, head elevation, and NG support; caregiver training is mandatory for discharge.",
+    "Congenital heart disease: Escalate feeds slowly, restrict fluids, and monitor respiratory rate and pulse during feed advancement.",
+    "CKD/CLD: Avoid nephrotoxic antibiotics; cautiously interpret electrolytes and monitor phosphate replacement in refeeding syndrome.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Severe Acute Malnutrition",
+    "Infant Nutrition Disorders",
+    "Comorbidity",
+    "Tuberculosis",
+    "HIV Infections",
+    "Neurodevelopmental Disorders",
+    "Congenital Heart Disease",
+    "Chronic Kidney Disease"
+  ],
+  "tags_custom": [
+    "SAM management modifications",
+    "infant comorbidities",
+    "feeding protocols",
+    "critical care pediatrics",
+    "refeeding syndrome"
+  ],
+  "reference_quote": "Maintain a low threshold for screening TB in non-responders; do not rely on a negative TST. Coordinate diagnostics and follow-up with NTEP. (Reference 3: National Tuberculosis Elimination Programme, Paediatric TB management guideline)",
+  "document_key_topics": [
+    "Severe acute malnutrition management in infants under six months",
+    "Impact of comorbidities on SAM treatment protocols",
+    "Tailored feeding and fluid strategies for specific conditions",
+    "Monitoring and discharge planning in complex SAM cases"
+  ],
+  "chunk_heading": "SEVERE  ACUTE  MALNUTRITION-(SAM)  MANAGEMENT;INFANTS  UNDER  SIX MONTHS   AND COMORBIDITY MODIFICATIONS;SAM MANAGEMENT MODIFICATIONS IN MAJOR  COMORBIDITIES;",
+  "topic": "SEVERE  ACUTE  MALNUTRITION-(SAM)  MANAGEMENT",
+  "subtopic": "INFANTS  UNDER  SIX MONTHS   AND COMORBIDITY MODIFICATIONS",
+  "sub_subtopic": "SAM MANAGEMENT MODIFICATIONS IN MAJOR  COMORBIDITIES",
+  "heading_path": "SEVERE  ACUTE  MALNUTRITION-(SAM)  MANAGEMENT;INFANTS  UNDER  SIX MONTHS   AND COMORBIDITY MODIFICATIONS;SAM MANAGEMENT MODIFICATIONS IN MAJOR  COMORBIDITIES;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "4c1"
+}

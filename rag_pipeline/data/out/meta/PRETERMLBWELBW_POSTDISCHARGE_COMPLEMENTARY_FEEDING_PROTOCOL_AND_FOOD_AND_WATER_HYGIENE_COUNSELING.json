@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Hygiene counseling for preterm/LBW/ELBW infants focuses on safe formula preparation, breast milk handling, and feeding equipment cleaning to prevent infections and ensure growth stability post-discharge.",
+  "learning_objectives": [
+    "Understand the importance of hygiene in preventing infections and diarrheal illness in preterm/LBW/ELBW infants.",
+    "Learn safe preparation and storage practices for powdered infant formula and expressed breast milk.",
+    "Identify appropriate feeding equipment and cleaning protocols for home feeding.",
+    "Recognize common hygiene errors and their potential medical risks."
+  ],
+  "key_facts": [
+    "Powdered infant formula is not sterile; reconstitute with water at ~70\u00b0C to reduce bacterial risk.",
+    "Do not store reconstituted formula at room temperature or reuse leftover milk after a feed.",
+    "Breast milk should be labeled with the time expressed and discarded if kept beyond the safe window for the local context.",
+    "Cup/spoon/paladai feeding is safer than bottles in many settings due to easier cleaning and reduced biofilm formation.",
+    "Families using bottles must demonstrate proper cleaning and sterilization routines.",
+    "Avoid adding honey, sugar, ghee, cereal water, or unprescribed powders to milk feeds."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Infant, Low Birth Weight",
+    "Infant, Premature",
+    "Infant Nutrition",
+    "Hygiene",
+    "Infant Formula",
+    "Breast Milk",
+    "Food Safety",
+    "Feeding Methods"
+  ],
+  "tags_custom": [
+    "preterm nutrition",
+    "infant feeding hygiene",
+    "formula preparation",
+    "breast milk safety"
+  ],
+  "reference_quote": "Powdered infant formula is not sterile. Use safe water for reconstitution and clean, boiled utensils. When feasible, preparing formula with hot water (about 70\u00b0C) reduces bacterial risk. (Source: WHO)",
+  "document_key_topics": [
+    "Hygiene counseling for preterm/LBW/ELBW infants",
+    "Safe preparation and storage of infant formula",
+    "Breast milk handling and safety",
+    "Feeding equipment cleaning and sterilization"
+  ],
+  "chunk_heading": "PRETERM/LBW/ELBW POST-DISCHARGE NUTRITION;COMPLEMENTARY FEEDING PROTOCOL AND HYGIENE COUNSELING;FOOD AND WATER HYGIENE COUNSELING FOR HOME FEEDING;",
+  "topic": "PRETERM/LBW/ELBW POST-DISCHARGE NUTRITION",
+  "subtopic": "COMPLEMENTARY FEEDING PROTOCOL AND HYGIENE COUNSELING",
+  "sub_subtopic": "FOOD AND WATER HYGIENE COUNSELING FOR HOME FEEDING",
+  "heading_path": "PRETERM/LBW/ELBW POST-DISCHARGE NUTRITION;COMPLEMENTARY FEEDING PROTOCOL AND HYGIENE COUNSELING;FOOD AND WATER HYGIENE COUNSELING FOR HOME FEEDING;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "2\u00925"
+}

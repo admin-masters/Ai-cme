@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section provides quick reference anchors for outpatient macronutrient decisions in children, emphasizing growth assessment, macronutrient distribution, hydration, and program-specific guidelines like PM POSHAN meals.",
+  "learning_objectives": [
+    "Understand age-specific macronutrient distribution ranges and hydration targets for children.",
+    "Learn how to address growth faltering and obesity in outpatient pediatric care.",
+    "Incorporate program-specific guidelines, such as PM POSHAN, into nutritional counseling.",
+    "Apply WHO and IAP growth standards to assess and monitor pediatric growth."
+  ],
+  "key_facts": [
+    "Macronutrient distribution (AMDR): Fat 30\u201340% (1\u20133 years), 25\u201335% (4\u201318 years); Carbohydrate 45\u201365%; Protein 5\u201320% (1\u20133 years), 10\u201330% (4\u201318 years).",
+    "Fibre targets: 19 g/day (1\u20133 years), 25 g/day (4\u20138 years), 31 g/day boys and 26 g/day girls (9\u201313 years), 38 g/day males and 26 g/day females (14\u201318 years).",
+    "Hydration (total water AI): 1.3 L/day (1\u20133 years), 1.7 L/day (4\u20138 years), increasing with heat and activity.",
+    "Growth faltering: Aim for weight gain 2\u20133\u00d7 the median for age; reassess at 2 weeks and escalate at 4 weeks if no improvement.",
+    "PM POSHAN meals provide ~450 kcal/12 g protein (primary) and ~700 kcal/20 g protein (upper primary); families should supplement with protein and fruit."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Child Nutrition",
+    "Macronutrients",
+    "Dietary Reference Intakes",
+    "Growth Disorders",
+    "Obesity",
+    "Hydration",
+    "Dietary Fiber",
+    "Pediatric Nutritional Physiological Phenomena"
+  ],
+  "tags_custom": [
+    "Pediatric Nutrition",
+    "Outpatient Care",
+    "Growth Monitoring",
+    "School Meal Programs",
+    "Nutritional Guidelines"
+  ],
+  "reference_quote": "Macronutrient distribution anchor (AMDR): ages 1\u20133 years fat 30\u201340% of energy; ages 4\u201318 years fat 25\u201335%; carbohydrate 45\u201365%; protein 5\u201320% (1\u20133) and 10\u201330% (4\u201318).",
+  "document_key_topics": [
+    "Macronutrient distribution and hydration targets for children",
+    "Growth monitoring and response strategies",
+    "Obesity management in pediatric outpatient care",
+    "Integration of PM POSHAN program into nutritional planning"
+  ],
+  "chunk_heading": "MACRONUTRIENT NUTRITION ACROSS CHILDHOOD;CLINIC QUICK REFERENCE ANCHORS FOR OUTPATIENT MACRONUTRIENT DECISIONS;",
+  "topic": "MACRONUTRIENT NUTRITION ACROSS CHILDHOOD",
+  "subtopic": "CLINIC QUICK REFERENCE ANCHORS FOR OUTPATIENT MACRONUTRIENT DECISIONS",
+  "sub_subtopic": null,
+  "heading_path": "MACRONUTRIENT NUTRITION ACROSS CHILDHOOD;CLINIC QUICK REFERENCE ANCHORS FOR OUTPATIENT MACRONUTRIENT DECISIONS;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "2\u0082"
+}

@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "Defines routine indicators with numerators and denominators for monitoring pediatric nutrition programs, emphasizing measurable fractions for corrective actions and operational examples like growth monitoring, THR continuity, and PM POSHAN meal-days.",
+  "learning_objectives": [
+    "Understand the importance of defining routine indicators with explicit numerators and denominators in pediatric nutrition programs.",
+    "Learn to translate program questions into measurable fractions for effective monitoring and evaluation.",
+    "Familiarize with operational examples such as growth monitoring coverage, THR continuity, and PM POSHAN meal-days.",
+    "Recognize the need for quality checks when interpreting outcome indicators from routine data."
+  ],
+  "key_facts": [
+    "Growth monitoring coverage (0\u20133 years): Numerator = children weighed; Denominator = expected children to be weighed.",
+    "THR continuity: Numerator = beneficiaries receiving full ration; Denominator = registered eligible beneficiaries.",
+    "PM POSHAN meal-days: Numerator = school days with meals served; Denominator = eligible school days.",
+    "NDD coverage: Numerator = children 1\u201319 years swallowing albendazole; Denominator = total enrolled children 1\u201319 years.",
+    "WIFS adherence proxy: Numerator = adolescents consuming weekly IFA dose; Denominator = enrolled adolescents scheduled for the dose."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Public Health",
+    "Pediatric Nutrition",
+    "Monitoring and Evaluation",
+    "Growth Monitoring",
+    "School Feeding Programs",
+    "Deworming",
+    "Iron Supplementation",
+    "Nutrition Indicators"
+  ],
+  "tags_custom": [
+    "Routine Indicators",
+    "Corrective Action Metrics",
+    "Community Nutrition Programs",
+    "Data Quality Checks",
+    "Operational Guidelines"
+  ],
+  "reference_quote": "Teach residents to translate each program question into a measurable fraction and to record the data source and frequency.",
+  "document_key_topics": [
+    "Routine indicator definitions for pediatric nutrition programs",
+    "Operational examples of monitoring metrics",
+    "Importance of data quality in outcome interpretation"
+  ],
+  "chunk_heading": "PUBLIC HEALTH & COMMUNITY PEDIATRIC NUTRITION;MONITORING AND EVALUATION METRICS FOR PROGRAM CORRECTIVE ACTION;ROUTINE INDICATOR DEFINITIONS WITH NUMERATOR AND DENOMINATOR;",
+  "topic": "PUBLIC HEALTH & COMMUNITY PEDIATRIC NUTRITION",
+  "subtopic": "MONITORING AND EVALUATION METRICS FOR PROGRAM CORRECTIVE ACTION",
+  "sub_subtopic": "ROUTINE INDICATOR DEFINITIONS WITH NUMERATOR AND DENOMINATOR",
+  "heading_path": "PUBLIC HEALTH & COMMUNITY PEDIATRIC NUTRITION;MONITORING AND EVALUATION METRICS FOR PROGRAM CORRECTIVE ACTION;ROUTINE INDICATOR DEFINITIONS WITH NUMERATOR AND DENOMINATOR;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "1\u009a2"
+}

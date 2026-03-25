@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Defines stunting as HAZ < -2, outlines three action levels for management, and emphasizes the need for planned follow-up cadence to address chronic growth constraints in children under 5 years.",
+  "learning_objectives": [
+    "Understand the definition of stunting and its clinical implications.",
+    "Differentiate between the three action levels of stunting and their follow-up protocols.",
+    "Recognize the importance of early referral for stunting with red flags for pathology.",
+    "Learn the role of WASH and micronutrient interventions in managing stunting."
+  ],
+  "key_facts": [
+    "Stunting is defined as height-for-age z-score (HAZ) < -2 on WHO Child Growth Standards for children aged 0\u20135 years.",
+    "Stunting is associated with adverse neurodevelopment and long-term human-capital losses.",
+    "Action Level 1: Uncomplicated stunting (HAZ < -2, no danger signs); follow-up monthly, then every 3 months after improvement.",
+    "Action Level 2: Stunting with recurrent morbidity or anemia phenotype; follow-up every 2\u20134 weeks, then monthly after stabilization.",
+    "Action Level 3: Stunting with red flags (e.g., poor growth velocity, dysmorphism, developmental delay); initiate tiered evaluation and early referral.",
+    "Linear growth responds slowly, requiring planned follow-up cadence rather than acute 'treat and exit' approaches."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Stunting",
+    "Child Nutrition Disorders",
+    "Growth Disorders",
+    "Pediatric Nutrition",
+    "Anthropometry",
+    "Child Development",
+    "Malnutrition",
+    "Public Health"
+  ],
+  "tags_custom": [
+    "stunting management",
+    "community health",
+    "growth monitoring",
+    "pediatric growth"
+  ],
+  "reference_quote": "Stunting is defined as height-for-age z-score (HAZ) < -2 on the WHO Child Growth Standards (0\u20135 years).",
+  "document_key_topics": [
+    "Definition and clinical implications of stunting",
+    "Action levels for stunting management",
+    "Follow-up cadence for stunting cases",
+    "Early referral for stunting with red flags"
+  ],
+  "chunk_heading": "PUBLIC HEALTH & COMMUNITY PEDIATRIC NUTRITION;STUNTING FOCUSED COMMUNITY MANAGEMENT PATHWAYS;STUNTING DEFINITION ACTION LEVELS AND FOLLOW UP CADENCE;",
+  "topic": "PUBLIC HEALTH & COMMUNITY PEDIATRIC NUTRITION",
+  "subtopic": "STUNTING FOCUSED COMMUNITY MANAGEMENT PATHWAYS",
+  "sub_subtopic": "STUNTING DEFINITION ACTION LEVELS AND FOLLOW UP CADENCE",
+  "heading_path": "PUBLIC HEALTH & COMMUNITY PEDIATRIC NUTRITION;STUNTING FOCUSED COMMUNITY MANAGEMENT PATHWAYS;STUNTING DEFINITION ACTION LEVELS AND FOLLOW UP CADENCE;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1d1"
+}

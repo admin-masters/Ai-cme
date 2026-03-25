@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Guidelines for interpreting ferritin levels in children, considering inflammation markers like CRP/AGP, to avoid misdiagnosing iron deficiency in clinical settings.",
+  "learning_objectives": [
+    "Understand the role of ferritin as an iron store marker and its limitations during inflammation.",
+    "Learn the ferritin cutoff values for diagnosing iron deficiency in children with and without inflammation.",
+    "Identify appropriate clinical actions based on ferritin levels and inflammation status.",
+    "Recognize when to prioritize hemoglobinopathy evaluation over iron supplementation."
+  ],
+  "key_facts": [
+    "Ferritin is an acute-phase reactant and must be interpreted alongside inflammation markers (CRP/AGP).",
+    "Ferritin <12 micrograms/L (children <5 years) or <15 micrograms/L (children \u22655 years) indicates iron deficiency without inflammation.",
+    "Ferritin <30 micrograms/L is a pragmatic cutoff for iron deficiency in the presence of inflammation.",
+    "Do not order ferritin alone during acute febrile illness; elevated ferritin may falsely suggest iron sufficiency.",
+    "In microcytosis with low ferritin, treat iron deficiency and address underlying causes like dietary issues or deworming.",
+    "For microcytosis with non-low ferritin and active inflammation, recheck after recovery rather than escalating to parenteral iron."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Ferritins",
+    "Iron Deficiency",
+    "C-Reactive Protein",
+    "Acute-Phase Reaction",
+    "Inflammation",
+    "Pediatrics",
+    "Anemia, Iron-Deficiency",
+    "Hemoglobinopathies"
+  ],
+  "tags_custom": [
+    "Ferritin interpretation",
+    "Pediatric iron deficiency",
+    "Inflammation cutoffs",
+    "Cost-effective testing"
+  ],
+  "reference_quote": "Ferritin concentrations for the assessment of iron status and iron deficiency \u2014 When ferritin is intermediate and inflammation is present, phenotype and response planning become more valuable than chasing mul.",
+  "document_key_topics": [
+    "Ferritin as a marker of iron stores",
+    "Impact of inflammation on ferritin interpretation",
+    "Clinical guidelines for diagnosing iron deficiency in children",
+    "Management strategies for microcytosis and anemia"
+  ],
+  "chunk_heading": "MICRONUTRIENT NUTRITION;COST-AWARE MICRONUTRIENT TEST SELECTION IN CLINIC;FERRITIN INTERPRETATION WITH INFLAMMATION CUTOFFS;",
+  "topic": "MICRONUTRIENT NUTRITION",
+  "subtopic": "COST-AWARE MICRONUTRIENT TEST SELECTION IN CLINIC",
+  "sub_subtopic": "FERRITIN INTERPRETATION WITH INFLAMMATION CUTOFFS",
+  "heading_path": "MICRONUTRIENT NUTRITION;COST-AWARE MICRONUTRIENT TEST SELECTION IN CLINIC;FERRITIN INTERPRETATION WITH INFLAMMATION CUTOFFS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1l2.1"
+}

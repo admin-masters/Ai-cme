@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Referral criteria for escalating moderate acute malnutrition cases to facility care include clinical deterioration, severe wasting thresholds, and complications requiring urgent intervention. Handover documentation ensures continuity of care and prevents information loss during transitions.",
+  "learning_objectives": [
+    "Understand the clinical criteria for escalating moderate acute malnutrition cases to facility-based care.",
+    "Learn pre-referral actions to stabilize children before transport to a facility.",
+    "Recognize the importance of handover documentation in ensuring continuity of care.",
+    "Identify community pathways for post-stabilization monitoring and supplementary feeding."
+  ],
+  "key_facts": [
+    "Escalation is required for MUAC <115 mm, WHZ/WLZ <-3, or bilateral pitting oedema.",
+    "Complications like severe dehydration, respiratory distress, or hypothermia necessitate facility care.",
+    "Pre-referral actions include preventing hypoglycemia, cautious dehydration treatment, and first-dose antibiotics for severe infections.",
+    "Handover notes must include anthropometry (weight, height/length, MUAC, oedema), appetite status, and referral reasons.",
+    "In India, referrals are directed to NRCs or paediatric wards implementing FBMC guidelines."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Malnutrition",
+    "Nutritional Support",
+    "Referral and Consultation",
+    "Pediatric Nutrition",
+    "Anthropometry",
+    "Community Health Services",
+    "Dehydration",
+    "Feeding Behavior"
+  ],
+  "tags_custom": [
+    "moderate wasting",
+    "facility escalation",
+    "handover documentation",
+    "pre-referral stabilization",
+    "community pathways"
+  ],
+  "reference_quote": "Refer to the nearest NRC or paediatric ward implementing FBMC operational guidance for stabilization and nutrition rehabilitation. \u2014 Strengthening facility-based paediatric care: operational guidelines",
+  "document_key_topics": [
+    "Referral criteria for moderate acute malnutrition",
+    "Pre-referral stabilization actions",
+    "Handover documentation for facility care",
+    "Community pathways for post-stabilization care"
+  ],
+  "chunk_heading": "MODERATE ACUTE MALNUTRITION (MAM) AND SUPPLEMENTARY FEEDING;FOLLOW-UP ALGORITHMS AND ESCALATION PATHWAYS;REFERRAL CRITERIA AND HANDOVER DOCUMENTATION FOR ESCALATION TO FACILITY CARE;",
+  "topic": "MODERATE ACUTE MALNUTRITION (MAM) AND SUPPLEMENTARY FEEDING",
+  "subtopic": "FOLLOW-UP ALGORITHMS AND ESCALATION PATHWAYS",
+  "sub_subtopic": "REFERRAL CRITERIA AND HANDOVER DOCUMENTATION FOR ESCALATION TO FACILITY CARE",
+  "heading_path": "MODERATE ACUTE MALNUTRITION (MAM) AND SUPPLEMENTARY FEEDING;FOLLOW-UP ALGORITHMS AND ESCALATION PATHWAYS;REFERRAL CRITERIA AND HANDOVER DOCUMENTATION FOR ESCALATION TO FACILITY CARE;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "3n4"
+}

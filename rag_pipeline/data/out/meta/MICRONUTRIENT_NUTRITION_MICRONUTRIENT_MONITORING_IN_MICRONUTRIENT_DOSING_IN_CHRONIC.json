@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "Micronutrient dosing in chronic malabsorption states requires tailored approaches due to altered absorption and biomarker reliability in conditions like celiac disease, IBD, cholestasis, and CKD. Standard prophylaxis often fails, necessitating disease-specific monitoring and specialist-directed interventions.",
+  "learning_objectives": [
+    "Understand the impact of chronic malabsorption states on micronutrient deficiencies and biomarker reliability.",
+    "Identify appropriate dosing strategies for fat-soluble vitamins in cholestasis and chronic liver disease.",
+    "Recognize the limitations of oral iron in inflammatory conditions and the indications for parenteral iron.",
+    "Apply CKD\u2013MBD protocols for calcium, phosphate, and PTH management in chronic kidney disease."
+  ],
+  "key_facts": [
+    "Celiac disease and IBD often cause combined deficiencies in iron, folate, B12 (with ileal involvement), and zinc.",
+    "Oral iron may fail in active inflammation; parenteral iron should be considered if Hb does not improve.",
+    "Cholestasis increases the risk of fat-soluble vitamin (A, D, E, K) deficiencies; water-miscible preparations are preferred.",
+    "CKD alters calcium\u2013phosphate\u2013PTH physiology; management should follow stage-based CKD\u2013MBD protocols.",
+    "Fat-soluble vitamin replacement requires careful monitoring due to narrow toxicity thresholds.",
+    "Ferritin levels may be unreliable in inflammation, as they can mask depleted iron stores."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Micronutrients",
+    "Malabsorption Syndromes",
+    "Celiac Disease",
+    "Inflammatory Bowel Diseases",
+    "Cholestasis",
+    "Chronic Kidney Disease-Mineral and Bone Disorder",
+    "Iron Deficiency",
+    "Fat-Soluble Vitamins"
+  ],
+  "tags_custom": [
+    "Micronutrient dosing",
+    "Chronic malabsorption",
+    "Specialist-directed care",
+    "Nutritional deficiencies",
+    "Disease-specific protocols"
+  ],
+  "reference_quote": "Oral iron commonly fails in active inflammation or significant malabsorption; if a correctly dosed oral trial does not raise Hb as expected, consider parenteral iron and gastroenterology review.",
+  "document_key_topics": [
+    "Micronutrient deficiencies in chronic malabsorption states",
+    "Disease-specific monitoring and dosing strategies",
+    "Management of fat-soluble vitamin deficiencies",
+    "CKD\u2013MBD protocols for calcium and phosphate balance"
+  ],
+  "chunk_heading": "MICRONUTRIENT NUTRITION;MICRONUTRIENT MONITORING IN HIGH-RISK CLINICAL CONDITIONS;MICRONUTRIENT DOSING IN CHRONIC MALABSORPTION STATES;",
+  "topic": "MICRONUTRIENT NUTRITION",
+  "subtopic": "MICRONUTRIENT MONITORING IN HIGH-RISK CLINICAL CONDITIONS",
+  "sub_subtopic": "MICRONUTRIENT DOSING IN CHRONIC MALABSORPTION STATES",
+  "heading_path": "MICRONUTRIENT NUTRITION;MICRONUTRIENT MONITORING IN HIGH-RISK CLINICAL CONDITIONS;MICRONUTRIENT DOSING IN CHRONIC MALABSORPTION STATES;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u00962"
+}

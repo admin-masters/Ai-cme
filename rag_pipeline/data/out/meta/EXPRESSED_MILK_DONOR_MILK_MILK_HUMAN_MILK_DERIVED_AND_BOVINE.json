@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "This section discusses the selection of human milk-derived versus bovine milk-derived fortifiers for preterm infants, emphasizing resource-sensitive decisions, clinical evidence, and practical considerations in NICU settings.",
+  "learning_objectives": [
+    "Understand the differences between human milk-derived and bovine milk-derived fortifiers in terms of availability, cost, and clinical outcomes.",
+    "Identify the risk\u2013benefit considerations for fortifier selection in preterm infants, particularly those at high risk of gut injury.",
+    "Learn practical guidelines for fortifier use, including feeding orders, osmolality management, and contamination control.",
+    "Explain the role of fortifiers to families, emphasizing their temporary use and the importance of maternal milk or donor human milk."
+  ],
+  "key_facts": [
+    "Bovine milk-derived fortifiers are widely used due to availability, lower cost, and predictable nutrient supplementation.",
+    "Human milk-derived fortifiers may be beneficial for extremely low birth weight infants or those with prior NEC, but evidence on reducing NEC, sepsis, or mortality is mixed.",
+    "In resource-limited settings, preterm formula powder may be used under dietitian oversight when bovine fortifiers are unavailable.",
+    "Fortifier type and strength should be specified in feeding orders, and osmolality should be reassessed when combining fortifiers or modulars.",
+    "Fortifiers are a time-limited tool to meet preterm nutrient needs while maternal milk or donor human milk provides core biologic protection.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Infant, Premature",
+    "Milk, Human",
+    "Milk Proteins",
+    "Necrotizing Enterocolitis",
+    "Sepsis",
+    "Nutritional Support",
+    "Infant Formula",
+    "Dietary Supplements"
+  ],
+  "tags_custom": [
+    "NICU nutrition",
+    "human milk fortifiers",
+    "bovine milk fortifiers",
+    "preterm infant feeding",
+    "donor milk banking"
+  ],
+  "reference_quote": "Human milk-derived fortifiers compared with bovine milk-derived fortifiers in preterm infants: systematic review and meta-analysis \u2014 https://pubmed.ncbi.nlm.nih.gov/...",
+  "document_key_topics": [
+    "Human milk-derived fortifiers",
+    "Bovine milk-derived fortifiers",
+    "Nutritional strategies for preterm infants",
+    "Risk\u2013benefit analysis in NICU feeding practices"
+  ],
+  "chunk_heading": "EXPRESSED MILK, DONOR MILK & MILK BANKING;HUMAN MILK DERIVED AND BOVINE FORTIFIER SELECTION;",
+  "topic": "EXPRESSED MILK, DONOR MILK & MILK BANKING",
+  "subtopic": "HUMAN MILK DERIVED AND BOVINE FORTIFIER SELECTION",
+  "sub_subtopic": null,
+  "heading_path": "EXPRESSED MILK, DONOR MILK & MILK BANKING;HUMAN MILK DERIVED AND BOVINE FORTIFIER SELECTION;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2z"
+}

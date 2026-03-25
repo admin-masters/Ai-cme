@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section discusses managing borderline anthropometric values (e.g., MUAC 124\u2013125 mm, WHZ near -2) and discordant metrics in outpatient care, emphasizing risk stratification, follow-up, and program eligibility criteria.",
+  "learning_objectives": [
+    "Understand the significance of borderline MUAC and WHZ values in clinical risk assessment.",
+    "Learn technical steps to confirm anthropometric measurements and address discordance.",
+    "Identify WHO risk factors for prioritizing intensive dietary support and follow-up.",
+    "Explore strategies for managing children with borderline metrics in resource-limited settings."
+  ],
+  "key_facts": [
+    "Borderline MUAC values: 124\u2013125 mm; WHZ near -2 indicate overlapping but distinct risk phenotypes.",
+    "Mortality risk is highest when both MUAC and WHZ are low.",
+    "WHO risk factors include MUAC 115\u2013119 mm, WAZ < -3, age < 24 months, comorbidities (e.g., HIV, TB), and severe social circumstances.",
+    "Technical confirmation involves repeating measurements, calibrating equipment, and ensuring proper technique.",
+    "In clinics without specialized foods, tighter follow-up and linkage to supplementary feeding are recommended."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Anthropometry",
+    "Malnutrition",
+    "Mid-Upper Arm Circumference",
+    "Weight-for-Height Z-score",
+    "Risk Assessment",
+    "Dietary Support",
+    "Outpatient Clinics",
+    "Child Nutrition Disorders"
+  ],
+  "tags_custom": [
+    "borderline metrics",
+    "clinical risk stratification",
+    "discordant anthropometry",
+    "supplementary feeding",
+    "WHO guidelines"
+  ],
+  "reference_quote": "Mortality risk is highest when both MUAC and WHZ are low. (Source: https://www.ncbi.nlm.nih.gov/books/NBK601642/)",
+  "document_key_topics": [
+    "Management of borderline anthropometric values",
+    "Discordance between MUAC and WHZ metrics",
+    "WHO risk factors for dietary support prioritization",
+    "Follow-up strategies in resource-limited outpatient care"
+  ],
+  "chunk_heading": "FEEDING;ANTHROPOMETRY AND BORDERLINE INTERPRETATION IN OUTPATIENT CARE;MANAGEMENT OF BORDERLINE VALUES AND DISCORDANT METRICS;",
+  "topic": "FEEDING",
+  "subtopic": "ANTHROPOMETRY AND BORDERLINE INTERPRETATION IN OUTPATIENT CARE",
+  "sub_subtopic": "MANAGEMENT OF BORDERLINE VALUES AND DISCORDANT METRICS",
+  "heading_path": "FEEDING;ANTHROPOMETRY AND BORDERLINE INTERPRETATION IN OUTPATIENT CARE;MANAGEMENT OF BORDERLINE VALUES AND DISCORDANT METRICS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2e2.1"
+}

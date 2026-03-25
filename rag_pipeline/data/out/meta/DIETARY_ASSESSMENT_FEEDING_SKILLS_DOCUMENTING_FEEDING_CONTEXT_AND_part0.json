@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section emphasizes documenting feeding context and integrating it into nutrition prescriptions, focusing on meal dynamics, caregiver behavior, and actionable follow-up metrics to address feeding challenges and improve outcomes.",
+  "learning_objectives": [
+    "Understand the importance of documenting feeding context in dietary assessments.",
+    "Learn to identify and address barriers to effective feeding, such as meal duration and texture challenges.",
+    "Develop actionable nutrition prescriptions that include caregiver behavior targets and measurable follow-up metrics."
+  ],
+  "key_facts": [
+    "A diet prescription must document four elements: what is offered, what is consumed, how it is offered, and the child's response.",
+    "Meals taking longer than 30 minutes may require smaller, more frequent meals with defined stop times.",
+    "Use IDDSI terms for texture levels to ensure consistent communication across teams.",
+    "If milk displaces solids, specify timing (e.g., milk after solids) and volume limits.",
+    "Include caregiver behavior targets such as 'no screens during meals' and 'offer finger foods for autonomy.'",
+    "Follow-up metrics should be explicit, such as meal duration, number of solid meals, or texture acceptance."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Dietary Assessment",
+    "Feeding Behavior",
+    "Caregivers",
+    "Child Nutrition Disorders",
+    "Swallowing Disorders",
+    "Pediatric Feeding",
+    "Nutritional Therapy",
+    "Food Texture"
+  ],
+  "tags_custom": [
+    "feeding context",
+    "nutrition prescriptions",
+    "caregiver strategies",
+    "pediatric feeding",
+    "meal dynamics"
+  ],
+  "reference_quote": "Use IDDSI terms when communicating across teams to ensure consistency in texture level descriptions. (Source: https://iddsi.org/framework/)",
+  "document_key_topics": [
+    "Documenting feeding context in dietary assessments",
+    "Integrating feeding observations into nutrition prescriptions",
+    "Addressing feeding challenges through caregiver and child-focused strategies",
+    "Establishing measurable follow-up metrics for feeding progress"
+  ],
+  "chunk_heading": "DIETARY ASSESSMENT & FEEDING SKILLS EVALUATION;DOCUMENTING FEEDING CONTEXT AND INTEGRATING INTO NUTRITION PRESCRIPTIONS;",
+  "topic": "DIETARY ASSESSMENT & FEEDING SKILLS EVALUATION",
+  "subtopic": "DOCUMENTING FEEDING CONTEXT AND INTEGRATING INTO NUTRITION PRESCRIPTIONS",
+  "sub_subtopic": null,
+  "heading_path": "DIETARY ASSESSMENT & FEEDING SKILLS EVALUATION;DOCUMENTING FEEDING CONTEXT AND INTEGRATING INTO NUTRITION PRESCRIPTIONS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1m.1"
+}

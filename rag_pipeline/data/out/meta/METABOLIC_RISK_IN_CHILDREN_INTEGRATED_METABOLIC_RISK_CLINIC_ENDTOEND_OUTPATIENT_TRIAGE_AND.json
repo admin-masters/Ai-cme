@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "This section outlines a structured outpatient triage and risk staging workflow for metabolic risk in children in India, emphasizing targeted assessments, risk stratification, and phenotype-specific interventions to reduce missed comorbidities and optimize care pathways.",
+  "learning_objectives": [
+    "Understand the triage criteria for urgent referral in children with metabolic risk factors.",
+    "Learn to implement a standardized first-visit checklist for metabolic risk assessment.",
+    "Identify appropriate laboratory tests and risk staging timelines for pediatric patients.",
+    "Apply phenotype-specific lifestyle interventions based on metabolic risk patterns."
+  ],
+  "key_facts": [
+    "Same-day referral is required for symptoms like ketosis, DKA/HHS, stage 2 HTN, severe hypertriglyceridemia, or advanced liver disease signs.",
+    "Standardized first-visit checklist includes diet, sleep, activity, family history, and early-life factors like LBW or prematurity.",
+    "Minimum lab tests include fasting lipid profile, ALT, and glycemia (fasting plasma glucose and/or HbA1c; OGTT if needed).",
+    "Risk staging timelines: low risk (review in 4\u20136 months), moderate risk (recheck in 8\u201312 weeks), high risk (review in 2\u20136 weeks with referral planning).",
+    "Phenotype-specific interventions: high TG patterns require sugar and refined starch reduction; high LDL-C patterns need saturated/trans-fat reduction and fiber increase."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Metabolic Syndrome",
+    "Pediatrics",
+    "Obesity",
+    "Hypertension",
+    "Dyslipidemias",
+    "Non-alcoholic Fatty Liver Disease",
+    "Diabetes Mellitus",
+    "Risk Assessment"
+  ],
+  "tags_custom": [
+    "Metabolic risk in children",
+    "Outpatient triage",
+    "Risk staging",
+    "Lifestyle interventions",
+    "India-specific workflow"
+  ],
+  "reference_quote": "Use a single front-to-back pathway to reduce missed comorbidities and avoid non-targeted 'panel' testing. (Source: IAP guidelines, 2023)",
+  "document_key_topics": [
+    "Outpatient triage for metabolic risk in children",
+    "Risk staging and follow-up timelines",
+    "Phenotype-specific lifestyle interventions"
+  ],
+  "chunk_heading": "METABOLIC RISK IN CHILDREN;INTEGRATED METABOLIC RISK CLINIC WORKFLOW IN INDIA;END-TO-END OUTPATIENT TRIAGE AND RISK STAGING;",
+  "topic": "METABOLIC RISK IN CHILDREN",
+  "subtopic": "INTEGRATED METABOLIC RISK CLINIC WORKFLOW IN INDIA",
+  "sub_subtopic": "END-TO-END OUTPATIENT TRIAGE AND RISK STAGING",
+  "heading_path": "METABOLIC RISK IN CHILDREN;INTEGRATED METABOLIC RISK CLINIC WORKFLOW IN INDIA;END-TO-END OUTPATIENT TRIAGE AND RISK STAGING;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "1p1"
+}

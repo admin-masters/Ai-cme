@@ -1,0 +1,47 @@
+{
+  "chunk_summary": "This section outlines OPD documentation templates and risk communication strategies for national nutrition programs, emphasizing consistent documentation, adverse event management, and linkage actions to ensure program efficacy and trust.",
+  "learning_objectives": [
+    "Understand the structure and components of OPD documentation templates for nutrition programs.",
+    "Learn how to manage and document adverse events related to fortified foods and deworming interventions.",
+    "Identify linkage actions and follow-up protocols for missed doses or exclusions in nutrition programs."
+  ],
+  "key_facts": [
+    "Vitamin A supplementation (VAS) and IFA prophylaxis should be documented, including dose frequency (biweekly syrup/weekly tablet).",
+    "Deworming history (e.g., NDD or facility-based) and use of fortified staples (PDS, school meals, market) must be recorded.",
+    "Risk communication involves explaining minor adverse effects (e.g., vomiting after albendazole) and danger signs in simple terms.",
+    "Caregivers should be directed to report adverse events to school nodal teachers, ration dealers, or local health facilities.",
+    "Exclusions like transfusion-dependent hemoglobinopathy should be documented to avoid inappropriate IFA supplementation.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Nutrition Programs",
+    "Food Fortification",
+    "Risk Communication",
+    "Deworming",
+    "Vitamin A Supplementation",
+    "Iron-Folic Acid Supplementation",
+    "Adverse Event Reporting",
+    "Public Health Documentation"
+  ],
+  "tags_custom": [
+    "OPD templates",
+    "nutrition risk management",
+    "adverse event protocols",
+    "program monitoring"
+  ],
+  "reference_quote": "Consistent documentation is the clinician\u2019s highest-leverage implementation tool because it reduces duplication and creates an escalation trail.",
+  "document_key_topics": [
+    "OPD documentation templates for nutrition programs",
+    "Risk communication strategies for fortified foods and deworming",
+    "Adverse event management and escalation protocols"
+  ],
+  "chunk_heading": "NATIONAL NUTRITION AND FORTIFICATION PROGRAMS IN INDIA;IMPLEMENTATION ROLES, MONITORING INDICATORS, AND CLINIC DOCUMENTATION;OPD DOCUMENTATION TEMPLATES AND RISK COMMUNICATION SCRIPTS;",
+  "topic": "NATIONAL NUTRITION AND FORTIFICATION PROGRAMS IN INDIA",
+  "subtopic": "IMPLEMENTATION ROLES, MONITORING INDICATORS, AND CLINIC DOCUMENTATION",
+  "sub_subtopic": "OPD DOCUMENTATION TEMPLATES AND RISK COMMUNICATION SCRIPTS",
+  "heading_path": "NATIONAL NUTRITION AND FORTIFICATION PROGRAMS IN INDIA;IMPLEMENTATION ROLES, MONITORING INDICATORS, AND CLINIC DOCUMENTATION;OPD DOCUMENTATION TEMPLATES AND RISK COMMUNICATION SCRIPTS;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "2\u00895.1"
+}

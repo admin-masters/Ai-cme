@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "WASH interventions alone are insufficient to reverse stunting but remain critical for reducing diarrhea and infection, which contribute to chronic undernutrition. Counseling should integrate safe water, sanitation, hygiene, and infection prevention with feeding practices to mitigate growth suppression in children.",
+  "learning_objectives": [
+    "Understand the role of WASH interventions in reducing diarrhea and infection-related growth suppression.",
+    "Identify practical WASH counseling strategies for outpatient pediatric care.",
+    "Evaluate the limitations of WASH interventions in addressing stunting and chronic undernutrition.",
+    "Incorporate therapeutic zinc and ORS in managing diarrhea to support growth recovery."
+  ],
+  "key_facts": [
+    "Chronic exposure to enteric pathogens contributes to stunting by diverting nutrients toward immune activation.",
+    "WASH Benefits and SHINE trials showed that household WASH packages alone did not significantly improve linear growth.",
+    "Key WASH behaviors include safe water storage, handwashing with soap, and safe disposal of child feces.",
+    "Diarrhea episodes should be treated with early ORS and therapeutic zinc to mitigate growth suppression.",
+    "Repeated diarrhea episodes can flatten growth velocity over months, necessitating growth monitoring post-illness.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Stunting",
+    "Chronic Undernutrition",
+    "Water Supply",
+    "Sanitation",
+    "Hygiene",
+    "Diarrhea",
+    "Zinc",
+    "Child Growth"
+  ],
+  "tags_custom": [
+    "WASH interventions",
+    "infection prevention",
+    "pediatric nutrition",
+    "growth monitoring"
+  ],
+  "reference_quote": "The correct clinical interpretation is not 'WASH does not matter,' but 'WASH alone is usually not sufficient to reverse stunting.'",
+  "document_key_topics": [
+    "Stunting and chronic undernutrition",
+    "WASH interventions and infection prevention",
+    "Diarrhea management with ORS and zinc",
+    "Counseling for safe water, sanitation, and hygiene practices"
+  ],
+  "chunk_heading": "STUNTING, CHRONIC UNDERNUTRITION & DETERMINANTS;WATER  SANITATION AND HYGIENE COUNSELING AND INFECTION PREVENTION;",
+  "topic": "STUNTING, CHRONIC UNDERNUTRITION & DETERMINANTS",
+  "subtopic": "WATER  SANITATION AND HYGIENE COUNSELING AND INFECTION PREVENTION",
+  "sub_subtopic": null,
+  "heading_path": "STUNTING, CHRONIC UNDERNUTRITION & DETERMINANTS;WATER  SANITATION AND HYGIENE COUNSELING AND INFECTION PREVENTION;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "3l"
+}

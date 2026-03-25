@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section discusses iodine deficiency and thyroid dysfunction, focusing on population-level indicators versus individual diagnosis, with reference to NIDDCP guidelines and global iodine data sources.",
+  "learning_objectives": [
+    "Understand the distinction between population-level iodine indicators and individual diagnostic approaches.",
+    "Analyze the role of iodine deficiency in thyroid dysfunction and public health policies.",
+    "Review the NIDDCP guidelines for addressing iodine deficiency in India.",
+    "Explore global and regional iodine deficiency data for informed decision-making."
+  ],
+  "key_facts": [
+    "Iodine deficiency is a leading cause of preventable thyroid dysfunction globally.",
+    "The NIDDCP (National Iodine Deficiency Disorders Control Programme) was revised in 2006 to strengthen iodine deficiency prevention in India.",
+    "Population-level indicators, such as urinary iodine concentration, are used to assess iodine status in communities.",
+    "WHO recommends a median urinary iodine concentration of 100-199 \u00b5g/L for adequate iodine nutrition in populations.",
+    "India has made significant progress in reducing iodine deficiency, but challenges remain in certain regions (IGN, 2023).",
+    "Individual diagnosis of iodine deficiency often involves thyroid function tests and clinical assessment."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Iodine Deficiency",
+    "Thyroid Diseases",
+    "Micronutrients",
+    "Public Health",
+    "Nutrition Policy",
+    "Urinary Iodine Concentration",
+    "Endocrine System"
+  ],
+  "tags_custom": [
+    "Iodine Nutrition",
+    "Population Health Indicators",
+    "Thyroid Dysfunction",
+    "NIDDCP Guidelines",
+    "India Public Health"
+  ],
+  "reference_quote": "The NIDDCP guidelines (2006) emphasize the importance of universal salt iodization and monitoring urinary iodine levels to combat iodine deficiency disorders in India.",
+  "document_key_topics": [
+    "Iodine deficiency and thyroid dysfunction",
+    "Population-level iodine indicators",
+    "Individual iodine diagnosis methods",
+    "NIDDCP policy guidelines"
+  ],
+  "chunk_heading": "MICRONUTRIENT NUTRITION;IODINE DEFICIENCY AND THYROID DYSFUNCTION DECISIONS;POPULATION INDICATORS VS INDIVIDUAL IODINE DIAGNOSIS;",
+  "topic": "MICRONUTRIENT NUTRITION",
+  "subtopic": "IODINE DEFICIENCY AND THYROID DYSFUNCTION DECISIONS",
+  "sub_subtopic": "POPULATION INDICATORS VS INDIVIDUAL IODINE DIAGNOSIS",
+  "heading_path": "MICRONUTRIENT NUTRITION;IODINE DEFICIENCY AND THYROID DYSFUNCTION DECISIONS;POPULATION INDICATORS VS INDIVIDUAL IODINE DIAGNOSIS;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1{2.2"
+}

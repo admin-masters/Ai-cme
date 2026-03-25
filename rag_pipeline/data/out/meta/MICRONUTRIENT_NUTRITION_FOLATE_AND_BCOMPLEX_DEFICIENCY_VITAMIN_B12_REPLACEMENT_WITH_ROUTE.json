@@ -1,0 +1,47 @@
+{
+  "chunk_summary": "Guidelines for Vitamin B12 replacement in children, focusing on route selection based on severity, malabsorption, and adherence, with specific dosing regimens and monitoring recommendations.",
+  "learning_objectives": [
+    "Understand the criteria for selecting oral versus parenteral Vitamin B12 replacement routes.",
+    "Learn the specific dosing regimens for Vitamin B12 replacement in infants and older children.",
+    "Recognize the expected clinical responses and complications during Vitamin B12 therapy.",
+    "Identify steps to address non-response to Vitamin B12 treatment."
+  ],
+  "key_facts": [
+    "Oral Vitamin B12: 500 mcg/day for infants, 1000 mcg/day for older children for 4\u20136 weeks, followed by maintenance for at least 3 months.",
+    "Parenteral Vitamin B12: IM/IV hydroxocobalamin or cyanocobalamin 1000 mcg daily for 1\u20132 weeks, then weekly until hematologic normalization.",
+    "Neurologic recovery may take weeks to months and may be incomplete if treatment is delayed.",
+    "Monitor for hypokalemia during rapid marrow recovery in severely anemic or malnourished children.",
+    "Non-response requires reassessment of diagnosis, adherence, and evaluation for combined deficiencies or malabsorption."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Vitamin B12 Deficiency",
+    "Megaloblastic Anemia",
+    "Parenteral Nutrition",
+    "Oral Administration",
+    "Neurologic Manifestations",
+    "Pediatric Nutrition",
+    "Micronutrients",
+    "Malabsorption Syndromes"
+  ],
+  "tags_custom": [
+    "Vitamin B12 replacement",
+    "Pediatric anemia",
+    "Route decision-making",
+    "Nutritional deficiencies"
+  ],
+  "reference_quote": "High-dose oral therapy is effective for dietary deficiency when adherence is reliable: a practical approach is oral B12 500 micrograms/day in infants and 1000 micrograms/day in older children for at least 4\u20136 weeks.",
+  "document_key_topics": [
+    "Vitamin B12 replacement therapy",
+    "Route selection criteria for B12 administration",
+    "Monitoring and managing treatment response"
+  ],
+  "chunk_heading": "MICRONUTRIENT NUTRITION;FOLATE AND B-COMPLEX DEFICIENCY DECISION PATHWAYS;VITAMIN B12 REPLACEMENT WITH ROUTE DECISION RULES;",
+  "topic": "MICRONUTRIENT NUTRITION",
+  "subtopic": "FOLATE AND B-COMPLEX DEFICIENCY DECISION PATHWAYS",
+  "sub_subtopic": "VITAMIN B12 REPLACEMENT WITH ROUTE DECISION RULES",
+  "heading_path": "MICRONUTRIENT NUTRITION;FOLATE AND B-COMPLEX DEFICIENCY DECISION PATHWAYS;VITAMIN B12 REPLACEMENT WITH ROUTE DECISION RULES;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1\u00913"
+}

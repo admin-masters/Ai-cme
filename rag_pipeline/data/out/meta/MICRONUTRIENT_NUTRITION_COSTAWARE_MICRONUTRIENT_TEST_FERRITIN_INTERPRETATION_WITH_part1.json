@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section discusses ferritin interpretation in the context of inflammation, focusing on cost-effective test selection in clinical settings for micronutrient nutrition management.",
+  "learning_objectives": [
+    "Understand the role of ferritin as a biomarker for iron status in the presence of inflammation.",
+    "Learn cost-effective strategies for selecting micronutrient tests in clinical practice.",
+    "Identify appropriate ferritin cutoff values for diagnosing iron deficiency in inflammatory conditions.",
+    "Explore guidelines for managing nutritional anemia in children."
+  ],
+  "key_facts": [
+    "Ferritin levels can be elevated in inflammatory states, making interpretation challenging.",
+    "WHO guidelines suggest ferritin cutoffs of <30 \u00b5g/L in the presence of inflammation to diagnose iron deficiency.",
+    "The IAP recommends using ferritin alongside C-reactive protein (CRP) or alpha-1-acid glycoprotein (AGP) to account for inflammation.",
+    "Daily iron supplementation is recommended for children with confirmed iron deficiency anemia, as per consensus guidelines.",
+    "Cost-effective test selection involves prioritizing ferritin and CRP/AGP over more expensive panels in resource-limited settings."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Ferritins",
+    "Iron Deficiency",
+    "Inflammation",
+    "Nutritional Anemia",
+    "C-Reactive Protein",
+    "Alpha-1-Acid Glycoprotein",
+    "Micronutrients",
+    "Pediatrics"
+  ],
+  "tags_custom": [
+    "Ferritin interpretation",
+    "Inflammation cutoffs",
+    "Cost-effective testing",
+    "Iron deficiency anemia",
+    "Pediatric nutrition"
+  ],
+  "reference_quote": "\"Ferritin concentrations <30 \u00b5g/L in the presence of inflammation are indicative of iron deficiency.\" (Source: WHO guidelines)",
+  "document_key_topics": [
+    "Ferritin as a biomarker in inflammation",
+    "Cost-aware micronutrient test selection",
+    "Iron deficiency anemia management",
+    "Pediatric nutritional guidelines"
+  ],
+  "chunk_heading": "MICRONUTRIENT NUTRITION;COST-AWARE MICRONUTRIENT TEST SELECTION IN CLINIC;FERRITIN INTERPRETATION WITH INFLAMMATION CUTOFFS;",
+  "topic": "MICRONUTRIENT NUTRITION",
+  "subtopic": "COST-AWARE MICRONUTRIENT TEST SELECTION IN CLINIC",
+  "sub_subtopic": "FERRITIN INTERPRETATION WITH INFLAMMATION CUTOFFS",
+  "heading_path": "MICRONUTRIENT NUTRITION;COST-AWARE MICRONUTRIENT TEST SELECTION IN CLINIC;FERRITIN INTERPRETATION WITH INFLAMMATION CUTOFFS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1l2.2"
+}

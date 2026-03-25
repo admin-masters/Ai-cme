@@ -1,0 +1,46 @@
+{
+  "chunk_summary": "This section outlines outpatient diagnostic strategies and oral iron response monitoring for pediatric anemia under India's Anemia Mukt Bharat program, emphasizing practical phenotype assessment, therapeutic trials, and adherence verification.",
+  "learning_objectives": [
+    "Understand the diagnostic approach for pediatric iron deficiency anemia in outpatient settings.",
+    "Learn therapeutic oral iron dosing guidelines and response monitoring protocols.",
+    "Identify causes of nonresponse to oral iron therapy and appropriate follow-up actions."
+  ],
+  "key_facts": [
+    "Iron deficiency anemia is suggested by pallor, microcytosis, high RDW, and poor dietary iron intake.",
+    "Therapeutic oral iron dose: 3\u20136 mg/kg/day of elemental iron; lower doses (2\u20133 mg/kg/day) may improve adherence due to fewer gastrointestinal side effects.",
+    "A hemoglobin rise of \u22651 g/dL after 2 weeks supports iron responsiveness.",
+    "Treatment duration: 8\u201312 weeks to normalize hemoglobin and replenish iron stores.",
+    "Ferritin levels should be interpreted alongside CRP due to inflammation-related elevation."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Iron Deficiency Anemia",
+    "Pediatrics",
+    "Oral Iron Therapy",
+    "Hemoglobin",
+    "Ferritin",
+    "Inflammation Markers",
+    "Dietary Iron",
+    "Adherence"
+  ],
+  "tags_custom": [
+    "Anemia Mukt Bharat",
+    "Outpatient Management",
+    "Iron Response Monitoring",
+    "Therapeutic Guidelines"
+  ],
+  "reference_quote": "The therapeutic oral dose is usually 3\u20136 mg/kg/day of elemental iron (not '5 mL syrup'). Many children respond to 2\u20133 mg/kg/day with fewer gastrointestinal adverse effects, improving adherence.",
+  "document_key_topics": [
+    "Outpatient diagnostic approach for pediatric anemia",
+    "Oral iron therapy dosing and response monitoring",
+    "Nonresponse evaluation and follow-up strategies"
+  ],
+  "chunk_heading": "NATIONAL NUTRITION AND FORTIFICATION PROGRAMS IN INDIA;ANEMIA MUKT BHARAT AND CLINICAL IRON MANAGEMENT;OUTPATIENT DIAGNOSTIC APPROACH AND ORAL IRON  RESPONSE MONITORING;",
+  "topic": "NATIONAL NUTRITION AND FORTIFICATION PROGRAMS IN INDIA",
+  "subtopic": "ANEMIA MUKT BHARAT AND CLINICAL IRON MANAGEMENT",
+  "sub_subtopic": "OUTPATIENT DIAGNOSTIC APPROACH AND ORAL IRON  RESPONSE MONITORING",
+  "heading_path": "NATIONAL NUTRITION AND FORTIFICATION PROGRAMS IN INDIA;ANEMIA MUKT BHARAT AND CLINICAL IRON MANAGEMENT;OUTPATIENT DIAGNOSTIC APPROACH AND ORAL IRON  RESPONSE MONITORING;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2u3"
+}

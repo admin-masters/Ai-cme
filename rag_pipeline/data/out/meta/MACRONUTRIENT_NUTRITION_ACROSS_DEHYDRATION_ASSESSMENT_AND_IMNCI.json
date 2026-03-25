@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Guidelines for assessing dehydration and managing fluids in children, including IMNCI plans, ORS, IV fluids, zinc supplementation, and caregiver education.",
+  "learning_objectives": [
+    "Understand IMNCI dehydration management plans (A, B, C) for children.",
+    "Learn fluid resuscitation protocols for severe dehydration using IV isotonic fluids.",
+    "Recognize signs of dehydration and reassess fluid needs after each intervention.",
+    "Educate caregivers on home-based ORS use and warning signs requiring escalation."
+  ],
+  "key_facts": [
+    "Plan A: ORS 50\u2013100 mL after each stool for children <2 years; 100\u2013200 mL for 2\u201310 years.",
+    "Plan B: ORS 75 mL/kg over 4 hours with observation; pause for vomiting and restart with small sips.",
+    "Plan C: IV isotonic fluids (RL or 0.9% NS) 100 mL/kg; infants: 30 mL/kg in 1 hour, 70 mL/kg in 5 hours; older children: 30 mL/kg in 30 minutes, 70 mL/kg in 2.5 hours.",
+    "Zinc supplementation: 10 mg/day for 2\u20136 months; 20 mg/day for older infants and children for 14 days.",
+    "Signs of dehydration: lethargy, sunken eyes, thirst, poor skin pinch, low urine output, altered sensorium."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Dehydration",
+    "Oral Rehydration Solutions",
+    "Fluid Therapy",
+    "Diarrhea",
+    "Zinc",
+    "Child Nutrition",
+    "Malnutrition",
+    "Caregiver Education"
+  ],
+  "tags_custom": [
+    "IMNCI guidelines",
+    "pediatric hydration",
+    "ORS protocols",
+    "zinc supplementation",
+    "fluid management"
+  ],
+  "reference_quote": "For acute watery diarrhea, follow IMNCI dehydration plans and treat vomiting with small frequent sips. Plan A (no dehydration) is home-based ORS after each loose stool plus continued feeding.",
+  "document_key_topics": [
+    "Dehydration assessment in children",
+    "IMNCI fluid management plans",
+    "Zinc supplementation for diarrhea",
+    "Caregiver education on hydration and warning signs"
+  ],
+  "chunk_heading": "MACRONUTRIENT NUTRITION ACROSS CHILDHOOD;DEHYDRATION ASSESSMENT AND IMNCI ORS AND INTRAVENOUS FLUID MANAGEMENT;",
+  "topic": "MACRONUTRIENT NUTRITION ACROSS CHILDHOOD",
+  "subtopic": "DEHYDRATION ASSESSMENT AND IMNCI ORS AND INTRAVENOUS FLUID MANAGEMENT",
+  "sub_subtopic": null,
+  "heading_path": "MACRONUTRIENT NUTRITION ACROSS CHILDHOOD;DEHYDRATION ASSESSMENT AND IMNCI ORS AND INTRAVENOUS FLUID MANAGEMENT;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2z"
+}

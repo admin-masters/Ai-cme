@@ -1,0 +1,47 @@
+{
+  "chunk_summary": "Guidelines for postnatal CMV evaluation and milk handling in extremely preterm infants, including risk-reduction strategies, diagnostic steps, and management protocols to balance infection prevention with the benefits of human milk.",
+  "learning_objectives": [
+    "Understand the graded risk-reduction options for handling maternal expressed breast milk (EBM) in preterm infants at risk of CMV infection.",
+    "Identify clinical signs of postnatal CMV infection in very preterm infants and appropriate diagnostic actions.",
+    "Learn criteria for starting and stopping temporary milk handling interventions based on gestational age, weight, or postmenstrual age (PMA).",
+    "Recognize the importance of shared decision-making and documentation in CMV risk management."
+  ],
+  "key_facts": [
+    "Risk-reduction options include untreated maternal EBM, freeze\u2013thaw milk, short-term heat treatment, or pasteurized donor milk (DHM).",
+    "CMV-safe DHM or heat-treated milk should be used for infants below a defined gestation/weight or until a specific PMA.",
+    "Suspect postnatal CMV if a preterm infant develops sepsis-like symptoms with thrombocytopenia, hepatitis, pneumonitis, or unexplained deterioration.",
+    "Diagnostic action includes CMV PCR testing of infant urine or whole blood and reviewing maternal serostatus.",
+    "If CMV testing is positive, manage with clinical monitoring and targeted antivirals, and return to unprocessed milk when the infant is stable or reaches maturity."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Cytomegalovirus Infections",
+    "Infant, Premature",
+    "Breast Milk",
+    "Milk Banks",
+    "Pasteurization",
+    "Sepsis",
+    "Polymerase Chain Reaction",
+    "Risk Management"
+  ],
+  "tags_custom": [
+    "CMV in preterm infants",
+    "milk handling protocols",
+    "neonatal infection prevention",
+    "donor milk safety"
+  ],
+  "reference_quote": "Human breast milk-acquired cytomegalovirus infection in preterm infants: current prevention of cytomegalovirus (https://stacks.cdc.gov/view/cdc/106847).",
+  "document_key_topics": [
+    "Postnatal CMV evaluation in preterm infants",
+    "Temporary milk handling strategies",
+    "Risk-reduction options for expressed breast milk"
+  ],
+  "chunk_heading": "EXPRESSED MILK, DONOR MILK & MILK BANKING;POSTNATAL CMV EVALUATION AND TEMPORARY MILK HANDLING;",
+  "topic": "EXPRESSED MILK, DONOR MILK & MILK BANKING",
+  "subtopic": "POSTNATAL CMV EVALUATION AND TEMPORARY MILK HANDLING",
+  "sub_subtopic": null,
+  "heading_path": "EXPRESSED MILK, DONOR MILK & MILK BANKING;POSTNATAL CMV EVALUATION AND TEMPORARY MILK HANDLING;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2\u0081"
+}

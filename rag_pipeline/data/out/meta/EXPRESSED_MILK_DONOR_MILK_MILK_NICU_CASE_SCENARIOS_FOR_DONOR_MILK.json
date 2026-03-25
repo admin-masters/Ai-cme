@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "NICU donor milk decisions focus on prioritizing high-risk infants, managing limited supply, and transitioning to maternal milk while preventing NEC and ensuring safety protocols.",
+  "learning_objectives": [
+    "Understand donor milk allocation strategies in NICU settings based on NEC risk and infant stability.",
+    "Learn protocols for transitioning from donor milk to maternal expressed breast milk (EBM).",
+    "Recognize the importance of fortification timing and tolerance monitoring in recovering NEC cases.",
+    "Develop skills for documenting consent, traceability, and triage decisions in donor milk usage."
+  ],
+  "key_facts": [
+    "Extremely low birth weight (ELBW) infants, such as a 26-week, 820 g infant, are at highest NEC risk and require immediate donor milk initiation.",
+    "DHM feeds should be fortified once intake reaches 80\u2013100 mL/kg/day per unit policy.",
+    "In cases of limited DHM supply, priority is given to ventilated or high-risk infants over stable, older preterm infants.",
+    "Recovering NEC infants require cautious feed advancement and delayed fortification until tolerance is established.",
+    "Maternal milk expression should be supported with 8\u201310 sessions/day to replace DHM as volumes increase."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Infant, Premature",
+    "Necrotizing Enterocolitis",
+    "Milk Banks",
+    "Human Milk",
+    "Enteral Nutrition",
+    "Infant Nutrition Disorders",
+    "Lactation",
+    "Feeding Methods"
+  ],
+  "tags_custom": [
+    "NICU donor milk decisions",
+    "NEC prevention strategies",
+    "maternal milk support",
+    "milk fortification protocols",
+    "infant feeding triage"
+  ],
+  "reference_quote": "Donor human milk significantly reduces the risk of necrotising enterocolitis in very preterm or very low birth weight infants. (Source: Cochrane Library)",
+  "document_key_topics": [
+    "Donor milk allocation in NICU",
+    "NEC prevention in preterm infants",
+    "Transitioning from donor milk to maternal milk",
+    "Milk fortification and tolerance monitoring"
+  ],
+  "chunk_heading": "EXPRESSED MILK, DONOR MILK & MILK BANKING;NICU CASE SCENARIOS FOR DONOR MILK DECISIONS;",
+  "topic": "EXPRESSED MILK, DONOR MILK & MILK BANKING",
+  "subtopic": "NICU CASE SCENARIOS FOR DONOR MILK DECISIONS",
+  "sub_subtopic": null,
+  "heading_path": "EXPRESSED MILK, DONOR MILK & MILK BANKING;NICU CASE SCENARIOS FOR DONOR MILK DECISIONS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2t"
+}

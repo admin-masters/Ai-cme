@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "High-risk tele-nutrition cases require urgent referral, including infant feeding risks, suspected SAM, eating disorders, and CKD-related electrolyte issues. Training should emphasize recognizing these scenarios and ensuring timely escalation to in-person care.",
+  "learning_objectives": [
+    "Identify high-risk tele-nutrition cases requiring urgent referral based on clinical indicators.",
+    "Understand the importance of safety stop rules in tele-nutrition to prevent delays in critical care.",
+    "Apply specific protocols for managing suspected SAM, eating disorders, and CKD-related risks in tele-nutrition.",
+    "Incorporate scenario-based training to improve tele-triage decision-making."
+  ],
+  "key_facts": [
+    "Infants under six months with reduced feeds, fewer wet diapers, and weight loss should be treated as high risk for dehydration or illness.",
+    "A mid-upper arm circumference (MUAC) of 112 mm in a 14-month-old indicates suspected severe acute malnutrition (SAM).",
+    "Adolescents with rapid weight loss and positive SCOFF screening require immediate escalation to in-person care for eating disorder evaluation.",
+    "Children with CKD and new symptoms like weakness or palpitations should not receive aggressive dietary restrictions without recent potassium results.",
+    "Tele-nutrition training should include 'hard stop' scenarios to ensure timely escalation to in-person care."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Telemedicine",
+    "Nutrition Disorders",
+    "Severe Acute Malnutrition",
+    "Eating Disorders",
+    "Chronic Kidney Disease",
+    "Electrolyte Imbalance",
+    "Pediatrics",
+    "Triage"
+  ],
+  "tags_custom": [
+    "tele-nutrition safety",
+    "high-risk cases",
+    "urgent referral",
+    "clinical protocols",
+    "tele-triage training"
+  ],
+  "reference_quote": "Telemedicine Practice Guidelines (MoHFW/Board of Governors, 2020): 'Telemedicine should not delay medical care in cases requiring urgent in-person evaluation.'",
+  "document_key_topics": [
+    "High-risk tele-nutrition presentations",
+    "Safety stop rules in tele-nutrition",
+    "Urgent referral protocols",
+    "Scenario-based tele-triage training"
+  ],
+  "chunk_heading": "DIGITAL TOOLS & TELE-NUTRITION;CLINICAL USE CASES, TELE-APPROPRIATENESS, AND SAFETY STOP RULES;HIGH-RISK TELE-NUTRITION PRESENTATIONS REQUIRING URGENT REFERRAL;",
+  "topic": "DIGITAL TOOLS & TELE-NUTRITION",
+  "subtopic": "CLINICAL USE CASES, TELE-APPROPRIATENESS, AND SAFETY STOP RULES",
+  "sub_subtopic": "HIGH-RISK TELE-NUTRITION PRESENTATIONS REQUIRING URGENT REFERRAL",
+  "heading_path": "DIGITAL TOOLS & TELE-NUTRITION;CLINICAL USE CASES, TELE-APPROPRIATENESS, AND SAFETY STOP RULES;HIGH-RISK TELE-NUTRITION PRESENTATIONS REQUIRING URGENT REFERRAL;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1n4"
+}

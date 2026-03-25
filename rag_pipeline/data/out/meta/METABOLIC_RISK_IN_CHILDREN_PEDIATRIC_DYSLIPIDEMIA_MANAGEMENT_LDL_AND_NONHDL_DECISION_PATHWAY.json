@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Guidelines for managing pediatric dyslipidemia focus on LDL-C and non-HDL-C thresholds, lifestyle interventions, and statin safety monitoring, especially in high-risk cases like familial hypercholesterolemia or youth-onset T2DM.",
+  "learning_objectives": [
+    "Differentiate between insulin-resistance lipid patterns and LDL-C-driven patterns in children.",
+    "Apply pediatric LDL-C and non-HDL-C cutpoints to guide dyslipidemia management decisions.",
+    "Understand statin initiation criteria and safety monitoring protocols in pediatric patients.",
+    "Recognize familial hypercholesterolemia and initiate timely interventions."
+  ],
+  "key_facts": [
+    "Acceptable LDL-C is <110 mg/dL; borderline-high is 110\u2013129 mg/dL; high is \u2265130 mg/dL.",
+    "Non-HDL-C thresholds: acceptable <120 mg/dL, borderline-high 120\u2013144 mg/dL, high \u2265145 mg/dL.",
+    "Familial hypercholesterolemia is strongly suspected with LDL-C \u2265190 mg/dL or \u2265160 mg/dL with family history.",
+    "Statins are indicated when LDL-C targets are unmet in high-risk cases like youth-onset T2DM or familial hypercholesterolemia.",
+    "Baseline liver enzymes and muscle toxicity risk must be assessed before starting statins, with follow-up labs 4\u201312 weeks after initiation or dose changes."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Pediatric Dyslipidemia",
+    "LDL Cholesterol",
+    "Non-HDL Cholesterol",
+    "Statins",
+    "Familial Hypercholesterolemia",
+    "Triglycerides",
+    "Type 2 Diabetes Mellitus",
+    "Lipid Metabolism Disorders"
+  ],
+  "tags_custom": [
+    "LDL-C thresholds",
+    "statin safety",
+    "pediatric lipid management",
+    "familial hypercholesterolemia",
+    "metabolic risk"
+  ],
+  "reference_quote": "Statins are used when LDL-C targets are not met despite lifestyle therapy in high-risk contexts such as youth-onset T2DM or probable familial hypercholesterolemia. (NHLBI, 2011)",
+  "document_key_topics": [
+    "Pediatric dyslipidemia management",
+    "LDL-C and non-HDL-C thresholds",
+    "Lifestyle interventions for lipid control",
+    "Statin safety and monitoring in children"
+  ],
+  "chunk_heading": "METABOLIC RISK IN CHILDREN;PEDIATRIC DYSLIPIDEMIA MANAGEMENT FOR METABOLIC RISK;LDL AND NON-HDL DECISION PATHWAY WITH STATIN SAFETY MONITORING;",
+  "topic": "METABOLIC RISK IN CHILDREN",
+  "subtopic": "PEDIATRIC DYSLIPIDEMIA MANAGEMENT FOR METABOLIC RISK",
+  "sub_subtopic": "LDL AND NON-HDL DECISION PATHWAY WITH STATIN SAFETY MONITORING",
+  "heading_path": "METABOLIC RISK IN CHILDREN;PEDIATRIC DYSLIPIDEMIA MANAGEMENT FOR METABOLIC RISK;LDL AND NON-HDL DECISION PATHWAY WITH STATIN SAFETY MONITORING;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u008c2"
+}

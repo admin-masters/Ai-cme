@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "Guidelines for monitoring and stop rules during inpatient stabilization of severe acute malnutrition (SAM), focusing on hydration, feeding, and diagnostic reassessment triggers within critical timepoints.",
+  "learning_objectives": [
+    "Understand the monitoring frequencies and stop rules for IV and oral/NG rehydration in SAM management.",
+    "Identify diagnostic reassessment triggers for failure to respond at specific timepoints (e.g., day 4, day 10).",
+    "Learn criteria for tracking feeding intake, weight, and oedema resolution during inpatient care.",
+    "Recognize signs of overhydration and complications requiring immediate intervention."
+  ],
+  "key_facts": [
+    "Monitor pulse and respiratory rate every 5\u201310 minutes during IV fluid administration; stop infusion if pulse rises by 15/min or respiratory rate rises by 5/min.",
+    "Reassess hydration every 30 minutes for the first 2 hours and hourly thereafter during oral/NG rehydration; stop if tachypnea, rising pulse, or periorbital puffiness develops.",
+    "Daily weight tracking and oedema grading are essential until resolution; failure to gain \u22655 g/kg/day for three consecutive days post-transition to free feeding requires reassessment.",
+    "Appetite should return by day 4; failure triggers evaluation for infections, electrolyte issues, or comorbidities like TB or HIV.",
+    "Oedema reduction should begin by day 4 and resolve by day 10; persistent oedema necessitates differential diagnosis for nephrotic syndrome or heart failure."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Severe Acute Malnutrition",
+    "Fluid Therapy",
+    "Monitoring, Physiologic",
+    "Rehydration Solutions",
+    "Edema",
+    "Nutritional Support",
+    "Diagnostic Techniques and Procedures",
+    "Child Health"
+  ],
+  "tags_custom": [
+    "SAM inpatient care",
+    "hydration monitoring",
+    "feeding protocols",
+    "failure to respond triggers",
+    "diagnostic reassessment"
+  ],
+  "reference_quote": "For any child receiving IV fluids for shock, Indian ward thresholds operationalize safety: record pulse and respiratory rate at the start and at least every 5\u201310 minutes, and stop the infusion immediately if respiratory rate rises by 5/min or pulse rises by 15/min, then reassess perfusion and liver size. (Reference 1)",
+  "document_key_topics": [
+    "Monitoring and stop rules for hydration in SAM",
+    "Feeding protocols and intake tracking",
+    "Diagnostic reassessment triggers for failure to respond"
+  ],
+  "chunk_heading": "SEVERE ACUTE MALNUTRITION (SAM) MANAGEMENT;INPATIENT  STABILIZATION AND EARLY MONITORING;MONITORING STOP RULES AND FAILURE TO RESPOND TIMEPOINTS;",
+  "topic": "SEVERE ACUTE MALNUTRITION (SAM) MANAGEMENT",
+  "subtopic": "INPATIENT  STABILIZATION AND EARLY MONITORING",
+  "sub_subtopic": "MONITORING STOP RULES AND FAILURE TO RESPOND TIMEPOINTS",
+  "heading_path": "SEVERE ACUTE MALNUTRITION (SAM) MANAGEMENT;INPATIENT  STABILIZATION AND EARLY MONITORING;MONITORING STOP RULES AND FAILURE TO RESPOND TIMEPOINTS;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1l1"
+}

@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section addresses the management of severe acute malnutrition (SAM) in children with suspected celiac disease or inflammatory bowel disease (IBD) in India, emphasizing stabilization before diagnostic or dietary interventions.",
+  "learning_objectives": [
+    "Understand the importance of stabilizing children with SAM before initiating diagnostic or dietary interventions.",
+    "Learn the appropriate steps for managing dehydration, hypoglycemia, and electrolyte imbalances in SAM cases.",
+    "Recognize the diagnostic considerations for celiac disease and IBD in children with SAM.",
+    "Differentiate between symptom-relief dietary restrictions and disease-defining dietary restrictions."
+  ],
+  "key_facts": [
+    "Stabilization of SAM includes treating dehydration, hypoglycemia, hypothermia, and infection risk, followed by structured feeding with frequent small feeds.",
+    "Refeeding precautions are critical for older children with prolonged starvation or baseline electrolyte abnormalities.",
+    "For suspected celiac disease, maintain gluten exposure during initial workup to ensure tTG-IgA and biopsy results remain interpretable.",
+    "For suspected IBD, avoid prolonged dietary trials and prioritize objective labs like CBC, albumin, and CRP to document growth failure and disease severity.",
+    "Children with SAM and persistent blood in stool, edema/hypoalbuminemia, or failure to gain weight after stabilization require early referral.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Severe Acute Malnutrition",
+    "Celiac Disease",
+    "Inflammatory Bowel Diseases",
+    "Pediatric Nutrition",
+    "Refeeding Syndrome",
+    "Electrolyte Imbalance",
+    "Dietary Management",
+    "India"
+  ],
+  "tags_custom": [
+    "SAM stabilization",
+    "Celiac disease diagnosis",
+    "Pediatric IBD management",
+    "India-specific guidelines"
+  ],
+  "reference_quote": "Stabilization comes first. Treat dehydration, hypoglycemia, hypothermia, and infection risk, then begin structured feeds using the facility-based SAM pathway with frequent small feeds and routine correction of potassium and magnesium deficits. (National Health Mission, 2013)",
+  "document_key_topics": [
+    "Stabilization protocols for SAM in children",
+    "Diagnostic considerations for celiac disease and IBD",
+    "Dietary management during SAM treatment",
+    "India-specific guidelines for malnutrition care"
+  ],
+  "chunk_heading": "NUTRITION IN GI DISORDERS & MALABSORPTION;INDIA-FOCUSED TRIAGE AND FIRST-PASS ASSESSMENT;SEVERE ACUTE MALNUTRITION WITH SUSPECTED CELIAC OR IBD SEQUENCING;",
+  "topic": "NUTRITION IN GI DISORDERS & MALABSORPTION",
+  "subtopic": "INDIA-FOCUSED TRIAGE AND FIRST-PASS ASSESSMENT",
+  "sub_subtopic": "SEVERE ACUTE MALNUTRITION WITH SUSPECTED CELIAC OR IBD SEQUENCING",
+  "heading_path": "NUTRITION IN GI DISORDERS & MALABSORPTION;INDIA-FOCUSED TRIAGE AND FIRST-PASS ASSESSMENT;SEVERE ACUTE MALNUTRITION WITH SUSPECTED CELIAC OR IBD SEQUENCING;",
+  "reference_count": 6,
+  "has_guidelines": false,
+  "sequence": "1c2"
+}

@@ -1,0 +1,46 @@
+{
+  "chunk_summary": "This section discusses the management of borderline anthropometric values, focusing on MUAC and WHZ as predictors of mortality and program outcomes in children under 5 years, with insights from CMAM initiatives and pooled analyses on wasting and stunting risks.",
+  "learning_objectives": [
+    "Understand the role of MUAC and WHZ in predicting mortality and program outcomes in children under 5 years.",
+    "Analyze the impact of wasting and stunting as risk factors for child mortality based on pooled data.",
+    "Explore the implementation of CMAM strategies for improving child nutrition in outpatient care settings."
+  ],
+  "key_facts": [
+    "MUAC (Mid-Upper Arm Circumference) and WHZ (Weight-for-Height Z-score) are critical metrics for assessing malnutrition and predicting mortality in children under 5 years.",
+    "Wasting and stunting significantly increase mortality risk, as highlighted in pooled analyses (PLOS ONE, 2013).",
+    "Community-Based Management of Acute Malnutrition (CMAM) programs, supported by NITI Aayog and UNICEF, aim to transform child nutrition in India (2023 report).",
+    "MUAC thresholds for severe acute malnutrition are typically <115 mm, while borderline values require close monitoring.",
+    "Discordant metrics (e.g., normal MUAC but low WHZ) necessitate tailored interventions to address specific nutritional risks."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Malnutrition",
+    "Anthropometry",
+    "Child Mortality",
+    "Wasting Syndrome",
+    "Stunting",
+    "Community Health Services",
+    "Nutrition Assessment",
+    "Pediatric Nutrition"
+  ],
+  "tags_custom": [
+    "MUAC and WHZ metrics",
+    "CMAM programs",
+    "Child nutrition strategies",
+    "Mortality risk factors"
+  ],
+  "reference_quote": "MUAC and WHZ are reliable predictors of mortality and program outcomes in children under 5 years, emphasizing the need for tailored interventions in outpatient care settings. (PLOS ONE, 2019)",
+  "document_key_topics": [
+    "Anthropometric predictors of child mortality",
+    "Management of borderline malnutrition metrics",
+    "Community-Based Management of Acute Malnutrition (CMAM)"
+  ],
+  "chunk_heading": "FEEDING;ANTHROPOMETRY AND BORDERLINE INTERPRETATION IN OUTPATIENT CARE;MANAGEMENT OF BORDERLINE VALUES AND DISCORDANT METRICS;",
+  "topic": "FEEDING",
+  "subtopic": "ANTHROPOMETRY AND BORDERLINE INTERPRETATION IN OUTPATIENT CARE",
+  "sub_subtopic": "MANAGEMENT OF BORDERLINE VALUES AND DISCORDANT METRICS",
+  "heading_path": "FEEDING;ANTHROPOMETRY AND BORDERLINE INTERPRETATION IN OUTPATIENT CARE;MANAGEMENT OF BORDERLINE VALUES AND DISCORDANT METRICS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2e2.2"
+}

@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Pediatric CKD diet prescriptions prioritize growth by meeting energy and protein needs, with lab-driven restrictions for electrolytes and minerals. Dialysis-specific adjustments and frequent reviews are essential for high-risk children.",
+  "learning_objectives": [
+    "Understand the importance of growth-first nutrition in pediatric CKD management.",
+    "Learn how to apply lab-driven restrictions for electrolytes and minerals in CKD patients.",
+    "Identify dialysis-specific dietary adjustments for protein and energy needs.",
+    "Recognize the role of frequent nutritional reviews in high-risk pediatric CKD cases."
+  ],
+  "key_facts": [
+    "Energy and protein intake should target the higher end of age-based ranges when growth is poor.",
+    "Dialysis-specific protein adjustments account for losses, with peritoneal and hemodialysis differing in allowances.",
+    "Electrolyte and mineral management should be based on trends in calcium, phosphate, PTH, alkaline phosphatase, and 25-hydroxyvitamin D levels.",
+    "Potassium restriction should only be applied for documented hyperkalemia trends to avoid reducing diet quality.",
+    "High-risk children, such as those on dialysis or with poor growth, require monthly or more frequent reviews.",
+    "In India, standardized growth-first protocols have reduced preventable growth failure in pediatric CKD patients."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Chronic Kidney Disease",
+    "Pediatric Nutrition",
+    "Dietary Proteins",
+    "Electrolyte Balance",
+    "Peritoneal Dialysis",
+    "Hemodialysis",
+    "Growth Disorders",
+    "Potassium Deficiency"
+  ],
+  "tags_custom": [
+    "pediatric CKD",
+    "dietary interventions",
+    "growth management",
+    "dialysis nutrition"
+  ],
+  "reference_quote": "Pediatric CKD nutrition should start with meeting energy and protein needs for growth, then apply lab-linked restrictions only when abnormalities persist.",
+  "document_key_topics": [
+    "Growth-focused nutrition in pediatric CKD",
+    "Lab-driven electrolyte and mineral management",
+    "Dialysis-specific dietary adjustments",
+    "Frequent nutritional reviews for high-risk children"
+  ],
+  "chunk_heading": "THERAPEUTIC DIETS & SPECIAL INTERVENTIONS;DIET PRESCRIPTIONS IN PEDIATRIC CHRONIC KIDNEY DISEASE WITH LAB-LINKED RESTRICTIONS;",
+  "topic": "THERAPEUTIC DIETS & SPECIAL INTERVENTIONS",
+  "subtopic": "DIET PRESCRIPTIONS IN PEDIATRIC CHRONIC KIDNEY DISEASE WITH LAB-LINKED RESTRICTIONS",
+  "sub_subtopic": null,
+  "heading_path": "THERAPEUTIC DIETS & SPECIAL INTERVENTIONS;DIET PRESCRIPTIONS IN PEDIATRIC CHRONIC KIDNEY DISEASE WITH LAB-LINKED RESTRICTIONS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1|"
+}

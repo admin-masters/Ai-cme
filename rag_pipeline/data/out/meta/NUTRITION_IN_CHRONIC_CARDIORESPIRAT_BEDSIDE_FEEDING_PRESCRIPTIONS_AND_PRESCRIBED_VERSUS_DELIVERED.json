@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section discusses operational failures in bedside feeding for chronic cardiorespiratory disease, focusing on under-delivery of prescribed calories, causes, and recovery strategies to prevent cumulative deficits, especially in critical care settings.",
+  "learning_objectives": [
+    "Understand common causes of under-delivery of prescribed calories in chronic cardiorespiratory disease patients.",
+    "Learn strategies to monitor and reconcile delivered versus prescribed calorie intake in hospital and home settings.",
+    "Develop missed-feed recovery plans tailored to individual patient needs and clinical conditions.",
+    "Recognize the importance of linking recovery plans to mechanism-based diagnoses, especially in high-risk patients."
+  ],
+  "key_facts": [
+    "Under-delivery of calories is a common operational failure, often due to caregiver dilution, missed feeds, or reliance on low-calorie drinks.",
+    "Delivered intake <90% of the target for more than 24 hours should be treated as a system error requiring immediate correction.",
+    "Missed-feed recovery methods include adding a bolus, increasing caloric density in subsequent feeds, or using nocturnal continuous feeds.",
+    "Children with heart failure or aspiration risk cannot safely recover calories through extra volume or hurried oral feeding.",
+    "Cumulative calorie deficits, especially around surgery or intensive care, predict worse recovery outcomes."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Chronic Disease",
+    "Cardiopulmonary Diseases",
+    "Enteral Nutrition",
+    "Caloric Intake",
+    "Nutritional Support",
+    "Pediatric Nutrition",
+    "Feeding Behavior",
+    "Critical Care"
+  ],
+  "tags_custom": [
+    "calorie delivery",
+    "missed feed recovery",
+    "pediatric feeding",
+    "nutrition monitoring",
+    "hospital feeding protocols"
+  ],
+  "reference_quote": "Explicitly document which recovery method is permitted for that child, because children with heart failure or aspiration risk cannot safely 'make up' calories by extra volume or hurried oral feeding.",
+  "document_key_topics": [
+    "Under-delivery of prescribed calories in chronic cardiorespiratory disease",
+    "Causes and prevention of feeding failures in hospital and home settings",
+    "Missed-feed recovery strategies and their clinical importance",
+    "Tailoring recovery plans to high-risk pediatric patients"
+  ],
+  "chunk_heading": "NUTRITION IN CHRONIC CARDIORESPIRATORY DISEASE;BEDSIDE FEEDING PRESCRIPTIONS AND DELIVERED CALORIE RELIABILITY;PRESCRIBED VERSUS DELIVERED CALORIE FAILURES AND MISSED FEED RECOVERY;",
+  "topic": "NUTRITION IN CHRONIC CARDIORESPIRATORY DISEASE",
+  "subtopic": "BEDSIDE FEEDING PRESCRIPTIONS AND DELIVERED CALORIE RELIABILITY",
+  "sub_subtopic": "PRESCRIBED VERSUS DELIVERED CALORIE FAILURES AND MISSED FEED RECOVERY",
+  "heading_path": "NUTRITION IN CHRONIC CARDIORESPIRATORY DISEASE;BEDSIDE FEEDING PRESCRIPTIONS AND DELIVERED CALORIE RELIABILITY;PRESCRIBED VERSUS DELIVERED CALORIE FAILURES AND MISSED FEED RECOVERY;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u00802"
+}

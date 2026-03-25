@@ -1,0 +1,47 @@
+{
+  "chunk_summary": "This section discusses dosing principles, therapeutic drug monitoring, and oral step-down selection for pathogen-specific antimicrobial regimens in pediatric bone infections, emphasizing precise dosing, monitoring, and transition planning.",
+  "learning_objectives": [
+    "Understand empiric and targeted antimicrobial dosing for pediatric bone infections.",
+    "Learn therapeutic drug monitoring protocols for agents like vancomycin and linezolid.",
+    "Identify oral step-down options based on bioavailability and pathogen susceptibility."
+  ],
+  "key_facts": [
+    "Cloxacillin: 150-200 mg/kg/day divided every 6 hours for typical pediatric bone infections.",
+    "Vancomycin: 45-60 mg/kg/day in divided doses for suspected or confirmed MRSA, with renal function monitoring.",
+    "Linezolid requires weekly complete blood count reviews during prolonged therapy due to risk of cytopenias.",
+    "Rifampicin is valuable for staphylococcal biofilm disease but requires liver enzyme monitoring.",
+    "Step-down oral agents include high-dose cephalexin, clindamycin, or trimethoprim-sulfamethoxazole based on susceptibility."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Bone Diseases, Infectious",
+    "Antimicrobial Agents",
+    "Drug Monitoring",
+    "Vancomycin",
+    "Linezolid",
+    "Rifampin",
+    "Pediatrics",
+    "Staphylococcal Infections"
+  ],
+  "tags_custom": [
+    "pediatric bone infections",
+    "antimicrobial dosing",
+    "oral step-down therapy",
+    "therapeutic drug monitoring",
+    "MRSA treatment"
+  ],
+  "reference_quote": "Empiric and targeted antimicrobial plans should be written with the dose, route, monitoring test, and expected step-down option specified from the start. (Source: Indian Academy of Pediatrics Consensus Statement)",
+  "document_key_topics": [
+    "Empiric and targeted antimicrobial dosing for pediatric bone infections",
+    "Therapeutic drug monitoring for agents like vancomycin and linezolid",
+    "Oral step-down therapy planning for pathogen-specific infections"
+  ],
+  "chunk_heading": "BONE INFECTIONS;PATHOGEN SPECIFIC ANTIMICROBIAL REGIMENS;DOSING PRINCIPLES THERAPEUTIC DRUG MONITORING AND ORAL STEP DOWN SELECTION;",
+  "topic": "BONE INFECTIONS",
+  "subtopic": "PATHOGEN SPECIFIC ANTIMICROBIAL REGIMENS",
+  "sub_subtopic": "DOSING PRINCIPLES THERAPEUTIC DRUG MONITORING AND ORAL STEP DOWN SELECTION",
+  "heading_path": "BONE INFECTIONS;PATHOGEN SPECIFIC ANTIMICROBIAL REGIMENS;DOSING PRINCIPLES THERAPEUTIC DRUG MONITORING AND ORAL STEP DOWN SELECTION;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1~2"
+}

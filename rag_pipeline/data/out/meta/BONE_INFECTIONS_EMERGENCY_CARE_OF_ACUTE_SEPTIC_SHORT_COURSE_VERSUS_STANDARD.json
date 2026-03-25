@@ -1,0 +1,47 @@
+{
+  "chunk_summary": "Guidelines for selecting short versus standard antibiotic courses in acute septic arthritis, emphasizing patient-specific factors and clinical response.",
+  "learning_objectives": [
+    "Understand the criteria for selecting short versus standard antibiotic courses in acute septic arthritis.",
+    "Identify clinical and laboratory markers that guide antibiotic duration decisions.",
+    "Recognize situations where longer antibiotic courses are mandatory.",
+    "Evaluate the role of imaging and follow-up in managing septic arthritis."
+  ],
+  "key_facts": [
+    "Traditional treatment for uncomplicated septic arthritis is 2-3 weeks of antibiotics after drainage.",
+    "Shorter courses (10-14 days) are possible for selected children with rapid improvement and no complications.",
+    "Criteria for shorter courses include afebrile status by the first week, steady improvement in joint mobility, and a clear downward CRP trajectory.",
+    "Longer courses are required for MRSA, bacteremia, delayed drainage, neonatal disease, or hip involvement.",
+    "Families must ensure prompt follow-up if symptoms recur after transitioning to oral antibiotics."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Septic Arthritis",
+    "Antibiotic Therapy",
+    "Pediatrics",
+    "Osteomyelitis",
+    "MRSA",
+    "C-Reactive Protein",
+    "Joint Infections",
+    "Treatment Duration"
+  ],
+  "tags_custom": [
+    "short-course antibiotics",
+    "pediatric infections",
+    "clinical decision-making",
+    "emergency care"
+  ],
+  "reference_quote": "Newer international guidance allows a shorter total course, sometimes as little as ten to fourteen days, in carefully selected children with primary bacterial arthritis who improve rapidly after prompt drainage.",
+  "document_key_topics": [
+    "Antibiotic duration in septic arthritis",
+    "Criteria for short-course therapy",
+    "Indications for extended antibiotic treatment"
+  ],
+  "chunk_heading": "BONE INFECTIONS;EMERGENCY CARE OF ACUTE SEPTIC ARTHRITIS;SHORT COURSE VERSUS STANDARD COURSE ANTIBIOTIC DURATION SELECTION;",
+  "topic": "BONE INFECTIONS",
+  "subtopic": "EMERGENCY CARE OF ACUTE SEPTIC ARTHRITIS",
+  "sub_subtopic": "SHORT COURSE VERSUS STANDARD COURSE ANTIBIOTIC DURATION SELECTION",
+  "heading_path": "BONE INFECTIONS;EMERGENCY CARE OF ACUTE SEPTIC ARTHRITIS;SHORT COURSE VERSUS STANDARD COURSE ANTIBIOTIC DURATION SELECTION;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1w3"
+}

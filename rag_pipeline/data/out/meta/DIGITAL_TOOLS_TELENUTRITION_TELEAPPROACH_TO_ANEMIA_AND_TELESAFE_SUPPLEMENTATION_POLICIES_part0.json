@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "This section outlines tele-safe supplementation policies for anemia and micronutrient deficiencies, emphasizing dosing, monitoring, and stop rules under tele-nutrition frameworks aligned with Indian health guidelines.",
+  "learning_objectives": [
+    "Understand tele-nutrition policies for safe supplementation of anemia and micronutrient deficiencies.",
+    "Learn therapeutic dosing guidelines for iron, vitamin D, and vitamin A in children based on Indian health protocols.",
+    "Recognize monitoring and stop rules for tele-prescribed supplements to prevent toxicity or misuse."
+  ],
+  "key_facts": [
+    "Therapeutic iron dosing for mild/moderate anemia in children: 3 mg/kg/day elemental iron for 2 months with 14-day follow-ups (MoHFW guidance).",
+    "Vitamin D prophylaxis in infancy: 400 IU/day from birth to 1 year (IAP guidance).",
+    "National vitamin A prophylaxis: 9 doses from 9 months to 5 years, including 100,000 IU at 9 months and 200,000 IU annually from 1\u20135 years (NHM guidelines).",
+    "Deworming protocol: Albendazole 200 mg for ages 1\u20132 years and 400 mg for ages 2\u201319 years, avoiding deworming during acute illness (NHM guidance).",
+    "Preterm/low birth weight infants: Enteral iron dosing commonly 2\u20133 mg/kg/day per WHO evidence summaries."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Telemedicine",
+    "Nutritional Supplementation",
+    "Anemia",
+    "Micronutrients",
+    "Iron Deficiency",
+    "Vitamin D",
+    "Vitamin A",
+    "Deworming"
+  ],
+  "tags_custom": [
+    "tele-nutrition",
+    "safe supplementation",
+    "pediatric dosing",
+    "monitoring protocols",
+    "Indian health guidelines"
+  ],
+  "reference_quote": "Prescribing decisions remain an RMP responsibility, and medication categories are restricted by consult type and modality. (Telemedicine Practice Guidelines, MoHFW)",
+  "document_key_topics": [
+    "Tele-nutrition policies for anemia and micronutrient deficiencies",
+    "Safe supplementation dosing and monitoring protocols",
+    "Indian health guidelines for iron, vitamin D, and vitamin A",
+    "Integration of deworming into anemia and growth pathways"
+  ],
+  "chunk_heading": "DIGITAL TOOLS & TELE-NUTRITION;TELE-APPROACH TO ANEMIA AND MICRONUTRIENT DEFICIENCIES WITH SAFE SUPPLEMENTATION;TELE-SAFE SUPPLEMENTATION POLICIES WITH DOSING, MONITORING, AND STOP RULES;",
+  "topic": "DIGITAL TOOLS & TELE-NUTRITION",
+  "subtopic": "TELE-APPROACH TO ANEMIA AND MICRONUTRIENT DEFICIENCIES WITH SAFE SUPPLEMENTATION",
+  "sub_subtopic": "TELE-SAFE SUPPLEMENTATION POLICIES WITH DOSING, MONITORING, AND STOP RULES",
+  "heading_path": "DIGITAL TOOLS & TELE-NUTRITION;TELE-APPROACH TO ANEMIA AND MICRONUTRIENT DEFICIENCIES WITH SAFE SUPPLEMENTATION;TELE-SAFE SUPPLEMENTATION POLICIES WITH DOSING, MONITORING, AND STOP RULES;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "1\u00853.1"
+}

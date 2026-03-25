@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "Guidelines for preventing refeeding syndrome in children with neurodisability, focusing on risk screening, conservative calorie advancement, electrolyte monitoring, and caregiver counseling.",
+  "learning_objectives": [
+    "Understand the risk factors and clinical markers of refeeding syndrome in children with neurodisability.",
+    "Learn the operational protocol for safe calorie advancement, including baseline assessments and electrolyte monitoring.",
+    "Recognize the importance of caregiver counseling and follow-up in preventing complications during refeeding."
+  ],
+  "key_facts": [
+    "Refeeding syndrome risk is highest in children with recent rapid weight loss, low BMI-for-age, or abnormal baseline electrolytes.",
+    "Initial calorie intake for high-risk children should be 40\u201350% of the calculated goal, with gradual advancement over several days.",
+    "Baseline labs should include phosphorus, potassium, magnesium, and glucose, with daily monitoring during early refeeding.",
+    "Hypophosphatemia is the classic marker of refeeding syndrome, but potassium and magnesium shifts and glucose instability are also critical.",
+    "Thiamine supplementation should be considered in high-risk cases.",
+    "Clinical warning signs include lethargy, vomiting, tachycardia, fluid overload, and increased respiratory effort."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Refeeding Syndrome",
+    "Nutritional Support",
+    "Electrolyte Imbalance",
+    "Hypophosphatemia",
+    "Pediatric Nutrition",
+    "Neurodisability",
+    "Tube Feeding",
+    "Thiamine Deficiency"
+  ],
+  "tags_custom": [
+    "calorie advancement",
+    "caregiver counseling",
+    "feeding safety",
+    "electrolyte monitoring"
+  ],
+  "reference_quote": "\"Start nutrition conservatively in high-risk children (commonly around 40\u201350% of calculated goal) and advance gradually over several days while monitoring electrolytes daily early in the course.\" (ASPEN consensus recommendations for refeeding syndrome)",
+  "document_key_topics": [
+    "Refeeding syndrome risk factors and markers",
+    "Safe calorie advancement protocols",
+    "Electrolyte monitoring and correction",
+    "Caregiver counseling and follow-up planning"
+  ],
+  "chunk_heading": "NEURODISABILITY & FEEDING SUPPORT;REFEEDING SYNDROME RISK SCREENING AND CALORIE ADVANCEMENT SAFETY;",
+  "topic": "NEURODISABILITY & FEEDING SUPPORT",
+  "subtopic": "REFEEDING SYNDROME RISK SCREENING AND CALORIE ADVANCEMENT SAFETY",
+  "sub_subtopic": null,
+  "heading_path": "NEURODISABILITY & FEEDING SUPPORT;REFEEDING SYNDROME RISK SCREENING AND CALORIE ADVANCEMENT SAFETY;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1i"
+}

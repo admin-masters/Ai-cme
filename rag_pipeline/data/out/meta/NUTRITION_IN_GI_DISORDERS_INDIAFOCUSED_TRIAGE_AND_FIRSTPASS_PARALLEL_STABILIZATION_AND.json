@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "Guidance on parallel stabilization and nutrition safety tests in Indian pediatric GI disorders, emphasizing immediate correction of dehydration, hypoglycemia, and electrolyte imbalances, with refeeding safeguards and first-pass lab tests to guide care escalation.",
+  "learning_objectives": [
+    "Understand the importance of parallel stabilization and nutritional assessment in pediatric GI disorders.",
+    "Identify critical triage findings that necessitate inpatient care and monitored refeeding.",
+    "Learn the first-pass lab tests required to assess nutrition safety and guide initial management.",
+    "Apply India-specific and global guidelines for managing malnutrition and GI disorders."
+  ],
+  "key_facts": [
+    "Severe dehydration, shock, or suspected sepsis require inpatient stabilization and parallel evaluation.",
+    "First-pass lab tests include CBC, blood glucose, serum electrolytes (potassium, magnesium, phosphate), and serum albumin.",
+    "PUCAI score \u226565 indicates acute severe colitis requiring urgent care.",
+    "Refeeding safeguards should align with NICE and ASPEN guidelines to prevent refeeding syndrome.",
+    "Initial nutrition plans must document route, energy density, and monitoring at the time of lab tests."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Gastrointestinal Diseases",
+    "Malabsorption Syndromes",
+    "Pediatrics",
+    "Refeeding Syndrome",
+    "Dehydration",
+    "Electrolyte Imbalance",
+    "Nutritional Support",
+    "Acute Severe Colitis"
+  ],
+  "tags_custom": [
+    "Indian pediatric guidelines",
+    "nutrition safety tests",
+    "triage and stabilization",
+    "refeeding protocols"
+  ],
+  "reference_quote": "Start with stabilization (airway, breathing, circulation) and immediately correct dehydration, hypoglycemia, hypothermia, and electrolyte derangements before waiting for confirmatory stool or endoscopy results.",
+  "document_key_topics": [
+    "Parallel stabilization in pediatric GI disorders",
+    "First-pass nutrition safety tests",
+    "India-specific triage and refeeding protocols",
+    "Management of acute severe colitis and malnutrition"
+  ],
+  "chunk_heading": "NUTRITION IN GI DISORDERS & MALABSORPTION;INDIA-FOCUSED TRIAGE AND FIRST-PASS ASSESSMENT;PARALLEL STABILIZATION AND FIRST-PASS NUTRITION SAFETY TESTS;",
+  "topic": "NUTRITION IN GI DISORDERS & MALABSORPTION",
+  "subtopic": "INDIA-FOCUSED TRIAGE AND FIRST-PASS ASSESSMENT",
+  "sub_subtopic": "PARALLEL STABILIZATION AND FIRST-PASS NUTRITION SAFETY TESTS",
+  "heading_path": "NUTRITION IN GI DISORDERS & MALABSORPTION;INDIA-FOCUSED TRIAGE AND FIRST-PASS ASSESSMENT;PARALLEL STABILIZATION AND FIRST-PASS NUTRITION SAFETY TESTS;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "1b1"
+}

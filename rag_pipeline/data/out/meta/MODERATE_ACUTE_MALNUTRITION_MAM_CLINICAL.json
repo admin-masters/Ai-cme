@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section focuses on the clinical aspects of moderate acute malnutrition (MAM), including syndrome recognition and bedside assessment, within the context of supplementary feeding programs.",
+  "learning_objectives": [
+    "Understand the clinical presentation and bedside assessment of moderate acute malnutrition (MAM).",
+    "Identify key criteria for diagnosing MAM in children and adults.",
+    "Learn the role of supplementary feeding in managing MAM.",
+    "Recognize the importance of early intervention in preventing severe malnutrition."
+  ],
+  "key_facts": [
+    "Moderate acute malnutrition (MAM) is defined by a weight-for-height Z-score between -2 and -3 or a mid-upper arm circumference (MUAC) of 11.5\u201312.5 cm in children aged 6\u201359 months.",
+    "MAM is a significant risk factor for mortality, with early detection and treatment reducing complications.",
+    "Supplementary feeding programs are designed to provide 500\u20131000 kcal/day to address energy deficits in MAM patients.",
+    "Bedside assessment includes evaluating clinical signs such as edema, muscle wasting, and appetite.",
+    "WHO guidelines recommend community-based management for MAM, with regular follow-up to monitor progress."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Malnutrition",
+    "Nutritional Support",
+    "Child Nutrition Disorders",
+    "Anthropometry",
+    "Feeding Methods",
+    "Nutritional Assessment",
+    "Community Health Services",
+    "Public Health Nutrition"
+  ],
+  "tags_custom": [
+    "Moderate malnutrition",
+    "Supplementary feeding",
+    "Clinical assessment",
+    "Community management",
+    "Nutrition programs"
+  ],
+  "reference_quote": "Moderate acute malnutrition (MAM) is a preventable and treatable condition that requires timely intervention to avoid progression to severe acute malnutrition (SAM).",
+  "document_key_topics": [
+    "Clinical assessment of MAM",
+    "Supplementary feeding guidelines",
+    "Community-based management of malnutrition",
+    "Early detection and intervention in MAM"
+  ],
+  "chunk_heading": "MODERATE ACUTE MALNUTRITION (MAM) AND SUPPLEMENTARY FEEDING;CLINICAL",
+  "topic": "MODERATE ACUTE MALNUTRITION (MAM) AND SUPPLEMENTARY FEEDING",
+  "subtopic": "CLINICAL",
+  "sub_subtopic": null,
+  "heading_path": "MODERATE ACUTE MALNUTRITION (MAM) AND SUPPLEMENTARY FEEDING;CLINICAL",
+  "reference_count": 0,
+  "has_guidelines": false,
+  "sequence": "2i"
+}

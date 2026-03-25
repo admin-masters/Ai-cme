@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "Digital tools and structured training improve growth monitoring accuracy using WHO/IAP charts, with innovations like mobile apps, EMR modules, and community-facing technologies enhancing quality metrics and reducing errors.",
+  "learning_objectives": [
+    "Understand the role of digital tools like WHO Anthro software and IAP-based apps in growth monitoring.",
+    "Identify key features of effective EMR/EHR growth modules for pediatric care.",
+    "Explore community-level innovations like tablet-based monitoring and SMS/IVR systems for follow-up.",
+    "Recognize the importance of structured training and quality metrics in anthropometric accuracy."
+  ],
+  "key_facts": [
+    "WHO Anthro software calculates percentiles and z-scores for ages 0\u20135 years, while AnthroPlus covers ages 5\u201319 years.",
+    "EMR/EHR growth modules should include unit checks, biologically implausible value flags, and centile-channel crossing alerts.",
+    "India uses mobile apps like AnthroCal for rapid BMI and percentile interpretation in school-age children.",
+    "Community innovations include tablet-based growth monitoring under POSHAN pilots and SMS/IVR systems for follow-up reminders.",
+    "Structured training and periodic refreshers improve anthropometric proficiency more than software upgrades.",
+    "A practical quality metric is the rate of 'outlier rechecks' completed during the same visit."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Growth Charts",
+    "Anthropometry",
+    "Body Mass Index",
+    "Electronic Health Records",
+    "Child Development",
+    "Community Health Services",
+    "Quality Improvement",
+    "Mobile Applications"
+  ],
+  "tags_custom": [
+    "Digital Growth Monitoring",
+    "Pediatric Health Tools",
+    "Anthropometric Accuracy",
+    "Community Innovations",
+    "Structured Training"
+  ],
+  "reference_quote": "Structured training with periodic refreshers improves anthropometric proficiency and reduces misclassification; simple clinic checklists often deliver a larger accuracy gain than any software upgrade.",
+  "document_key_topics": [
+    "Digital tools for growth monitoring",
+    "WHO/IAP growth charts and software",
+    "Community-based growth monitoring innovations",
+    "Importance of training in anthropometry"
+  ],
+  "chunk_heading": "GROWTH VELOCITY, Z-SCORES; WHO/IAP CHARTS);DIGITAL TOOLS AND QUALITY IMPROVEMENT METHODS;",
+  "topic": "GROWTH VELOCITY, Z-SCORES",
+  "subtopic": "WHO/IAP CHARTS)",
+  "sub_subtopic": "DIGITAL TOOLS AND QUALITY IMPROVEMENT METHODS",
+  "heading_path": "GROWTH VELOCITY, Z-SCORES; WHO/IAP CHARTS);DIGITAL TOOLS AND QUALITY IMPROVEMENT METHODS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2\u009148"
+}

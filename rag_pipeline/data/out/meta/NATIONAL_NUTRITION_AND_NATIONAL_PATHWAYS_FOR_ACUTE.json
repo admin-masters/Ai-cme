@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section outlines India's pathways for managing acute malnutrition in children aged 6\u201359 months, emphasizing identification, triage, and follow-up across community and facility-based care systems.",
+  "learning_objectives": [
+    "Understand the criteria for diagnosing severe and moderate acute malnutrition in children aged 6\u201359 months.",
+    "Learn the triage process for acute malnutrition, including danger signs and referral protocols.",
+    "Explore community-based and facility-based management pathways for acute malnutrition in India.",
+    "Recognize discharge criteria and relapse prevention strategies for malnourished children."
+  ],
+  "key_facts": [
+    "Severe acute malnutrition (SAM) is defined by WHZ < -3 SD, MUAC <115 mm, or bilateral pitting oedema.",
+    "Moderate acute malnutrition (MAM) is defined by WHZ between -3 and -2 SD and/or MUAC 115\u2013125 mm without oedema.",
+    "SAM with complications requires same-day referral to NRC or FB-SAM care; SAM without complications is managed in the community.",
+    "Discharge from facility-based care requires resolution of oedema, adequate intake on home-feasible foods, and follow-up accountability.",
+    "Infants under six months and children with major comorbidities require early escalation and breastfeeding restoration or safe feeding plans."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Malnutrition",
+    "Severe Acute Malnutrition",
+    "Community Health Services",
+    "Child Nutrition Disorders",
+    "Nutrition Assessment",
+    "India",
+    "Feeding Behavior",
+    "Referral and Consultation"
+  ],
+  "tags_custom": [
+    "acute malnutrition management",
+    "community-based care",
+    "facility-based care",
+    "nutrition programs India",
+    "child health guidelines"
+  ],
+  "reference_quote": "Treat acute malnutrition as a clinical emergency when any danger sign or complication is present: poor appetite/anorexia, fever or suspected sepsis, persistent vomiting, severe dehydration, respiratory distress, altered sensorium, hypoglycaemia suspicion, or oedema grade +++.",
+  "document_key_topics": [
+    "Criteria for diagnosing acute malnutrition",
+    "Community-based and facility-based management pathways",
+    "Triage and referral protocols for malnourished children",
+    "Discharge and relapse prevention strategies"
+  ],
+  "chunk_heading": "NATIONAL NUTRITION AND FORTIFICATION PROGRAMS IN INDIA;NATIONAL PATHWAYS FOR ACUTE MALNUTRITION MANAGEMENT ACROSS COMMUNITY AND FACILITY;",
+  "topic": "NATIONAL NUTRITION AND FORTIFICATION PROGRAMS IN INDIA",
+  "subtopic": "NATIONAL PATHWAYS FOR ACUTE MALNUTRITION MANAGEMENT ACROSS COMMUNITY AND FACILITY",
+  "sub_subtopic": null,
+  "heading_path": "NATIONAL NUTRITION AND FORTIFICATION PROGRAMS IN INDIA;NATIONAL PATHWAYS FOR ACUTE MALNUTRITION MANAGEMENT ACROSS COMMUNITY AND FACILITY;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2f"
+}

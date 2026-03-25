@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Guidelines for feeding infants under 2 years during fever and vomiting focus on small, frequent, energy-dense meals, breastfeeding, fluid intake, and hypoglycemia prevention, with escalation for severe symptoms.",
+  "learning_objectives": [
+    "Understand feeding strategies for infants during fever and vomiting to prevent hypoglycemia.",
+    "Learn the importance of breastfeeding and energy-dense complementary foods during illness.",
+    "Recognize signs requiring urgent care, such as severe dehydration or altered sensorium.",
+    "Implement post-illness catch-up feeding to support recovery and growth."
+  ],
+  "key_facts": [
+    "Breastfeeding should be continued more frequently during fever and vomiting for hydration and immune support.",
+    "Small, frequent, energy-dense meals enriched with oil, ghee, pulses, egg, or dairy are recommended during fever.",
+    "Complete fasting increases hypoglycemia risk in young infants; fluids should be offered in small, frequent sips.",
+    "Persistent vomiting, severe dehydration, convulsions, or altered sensorium require urgent medical care.",
+    "Post-illness feeding for 2 weeks supports catch-up growth and prevents undernutrition relapse."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Infant Nutrition",
+    "Breastfeeding",
+    "Fever",
+    "Vomiting",
+    "Hypoglycemia",
+    "Dehydration",
+    "Complementary Feeding",
+    "Catch-up Growth"
+  ],
+  "tags_custom": [
+    "feeding during illness",
+    "hospitalization recovery",
+    "energy-dense meals",
+    "urgent care signs",
+    "post-illness nutrition"
+  ],
+  "reference_quote": "During fever, appetite often drops while metabolic demand rises, so the feeding prescription should shift to 'small, frequent, energy-dense' rather than insisting on full meals. (WHO, 9789241548373)",
+  "document_key_topics": [
+    "Feeding strategies during fever and vomiting",
+    "Hypoglycemia prevention in young infants",
+    "Signs requiring urgent medical care",
+    "Post-illness catch-up feeding"
+  ],
+  "chunk_heading": "INFANT & YOUNG CHILD FEEDING UNDER 2 YEARS;FEEDING DURING ILLNESS HOSPITALIZATION AND RECOVERY;FEEDING DURING FEVER AND VOMITING WITH  HYPOGLYCEMIA PREVENTION;",
+  "topic": "INFANT & YOUNG CHILD FEEDING UNDER 2 YEARS",
+  "subtopic": "FEEDING DURING ILLNESS HOSPITALIZATION AND RECOVERY",
+  "sub_subtopic": "FEEDING DURING FEVER AND VOMITING WITH  HYPOGLYCEMIA PREVENTION",
+  "heading_path": "INFANT & YOUNG CHILD FEEDING UNDER 2 YEARS;FEEDING DURING ILLNESS HOSPITALIZATION AND RECOVERY;FEEDING DURING FEVER AND VOMITING WITH  HYPOGLYCEMIA PREVENTION;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "4\u00822.1"
+}

@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section discusses enteral and parenteral nutrition strategies for pediatric patients with intestinal failure and short bowel syndrome, focusing on proactive PN escalation, electrolyte management, and long-term complication prevention.",
+  "learning_objectives": [
+    "Understand the criteria for escalating to parenteral nutrition in pediatric intestinal failure.",
+    "Learn strategies to optimize enteral feeding in cases of malabsorption and high-output losses.",
+    "Recognize the importance of monitoring and preventing long-term PN complications such as cholestasis and metabolic bone disease.",
+    "Identify the role of specialized intestinal rehabilitation teams in managing complex cases."
+  ],
+  "key_facts": [
+    "High-output fluid losses and protein-energy underdelivery are dominant risks in intestinal failure.",
+    "Stool or stoma output should be monitored in mL/kg/day to guide enteral feeding advancement.",
+    "Electrolyte prescriptions should replace measured gastrointestinal losses, especially sodium, and include higher zinc dosing when outputs are high.",
+    "Proactive PN escalation is recommended if enteral targets cannot be met due to persistent high output, dehydration, or inability to advance beyond trophic volumes.",
+    "Long-term venous access requires structured monitoring for complications like cholestasis and metabolic bone disease.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Parenteral Nutrition",
+    "Enteral Nutrition",
+    "Intestinal Failure",
+    "Short Bowel Syndrome",
+    "Electrolyte Imbalance",
+    "Pediatric Nutrition",
+    "Cholestasis",
+    "Metabolic Bone Disease"
+  ],
+  "tags_custom": [
+    "high-output losses",
+    "intestinal rehabilitation",
+    "parenteral escalation",
+    "pediatric malabsorption"
+  ],
+  "reference_quote": "Electrolyte prescription should explicitly replace measured gastrointestinal losses (especially sodium) and include higher zinc dosing and monitoring when outputs are high.",
+  "document_key_topics": [
+    "Enteral and parenteral nutrition in pediatric intestinal failure",
+    "Criteria for proactive parenteral nutrition escalation",
+    "Management of high-output fluid and electrolyte losses",
+    "Prevention of long-term parenteral nutrition complications"
+  ],
+  "chunk_heading": "ENTERAL & PARENTERAL NUTRITION;DISEASE-SPECIFIC MODIFICATIONS IN HIGH-RISK PEDIATRIC CONDITIONS;INTESTINAL FAILURE AND SHORT BOWEL ESCALATION TO PARENTERAL SUPPORT;",
+  "topic": "ENTERAL & PARENTERAL NUTRITION",
+  "subtopic": "DISEASE-SPECIFIC MODIFICATIONS IN HIGH-RISK PEDIATRIC CONDITIONS",
+  "sub_subtopic": "INTESTINAL FAILURE AND SHORT BOWEL ESCALATION TO PARENTERAL SUPPORT",
+  "heading_path": "ENTERAL & PARENTERAL NUTRITION;DISEASE-SPECIFIC MODIFICATIONS IN HIGH-RISK PEDIATRIC CONDITIONS;INTESTINAL FAILURE AND SHORT BOWEL ESCALATION TO PARENTERAL SUPPORT;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "2\u00941"
+}

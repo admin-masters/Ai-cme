@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section discusses MUAC as a screening tool for malnutrition, emphasizing its validated use in children aged 6\u201359 months and emerging guidance for infants under six months, including new WHO criteria for identifying at-risk infants.",
+  "learning_objectives": [
+    "Understand the validated use of MUAC for malnutrition screening in children aged 6\u201359 months.",
+    "Learn the emerging WHO guidance for identifying malnutrition risk in infants under six months.",
+    "Recognize the importance of pairing infant MUAC with clinical assessments and local protocols.",
+    "Explore the criteria for identifying infants at risk of poor growth and development."
+  ],
+  "key_facts": [
+    "MUAC <115 mm is a standard criterion for severe acute malnutrition in children aged 6\u201359 months.",
+    "Infant MUAC is not equivalently validated for under six months but can be used as a pragmatic trigger for further assessment.",
+    "WHO 2023 guideline introduces an 'at risk of poor growth and development' framework for infants under six months.",
+    "Entry criteria for infants under six months include low weight-for-age, low weight-for-length, nutritional oedema, poor growth on sequential weights, and low infant MUAC.",
+    "Clinical assessment of feeding effectiveness, hydration, infection, and oedema is essential for infants under six months with low MUAC."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Malnutrition",
+    "Severe Acute Malnutrition",
+    "Mid-Upper Arm Circumference",
+    "Infant Nutrition",
+    "Growth Disorders",
+    "Anthropometry",
+    "Nutritional Assessment",
+    "World Health Organization"
+  ],
+  "tags_custom": [
+    "MUAC limitations",
+    "Infant malnutrition screening",
+    "WHO guidelines 2023",
+    "Age-specific malnutrition criteria",
+    "Clinical assessment protocols"
+  ],
+  "reference_quote": "The 2023 WHO wasting guideline includes an 'at risk of poor growth and development' framework for infants and lists several possible entry criteria (for example low weight-for-age, low weight-for-length, nutritional oedema, poor growth on sequential weights, and low infant MUAC for the 6 weeks to <6 months age band).",
+  "document_key_topics": [
+    "MUAC screening tool and age-specific limitations",
+    "Malnutrition criteria for infants under six months",
+    "WHO 2023 guidelines on wasting and nutritional oedema",
+    "Clinical assessment protocols for malnutrition in infants"
+  ],
+  "chunk_heading": "MALNUTRITION\u2014UNDERNUTRITION: SCREENING & CLASSIFICATION;DEFINITIONS OF STUNTING WASTING OEDEMA AND UNDERWEIGHT;MUAC AGE BAND LIMITATIONS AND UNDER SIX MONTHS UPDATES;",
+  "topic": "MALNUTRITION\u2014UNDERNUTRITION: SCREENING & CLASSIFICATION",
+  "subtopic": "DEFINITIONS OF STUNTING WASTING OEDEMA AND UNDERWEIGHT",
+  "sub_subtopic": "MUAC AGE BAND LIMITATIONS AND UNDER SIX MONTHS UPDATES",
+  "heading_path": "MALNUTRITION\u2014UNDERNUTRITION: SCREENING & CLASSIFICATION;DEFINITIONS OF STUNTING WASTING OEDEMA AND UNDERWEIGHT;MUAC AGE BAND LIMITATIONS AND UNDER SIX MONTHS UPDATES;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1b1"
+}

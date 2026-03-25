@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "This section discusses transitioning from diet counseling to acute malnutrition protocols for wasted children, focusing on vegetarian and regional feeding patterns, with guidance from WHO and national guidelines.",
+  "learning_objectives": [
+    "Understand the role of vegetarian and regional feeding patterns in addressing acute malnutrition in children.",
+    "Learn the operational guidelines for facility-based management of severe acute malnutrition (SAM).",
+    "Identify WHO-recommended child growth standards and their application in malnutrition protocols.",
+    "Explore complementary feeding practices as per IAP guidelines."
+  ],
+  "key_facts": [
+    "Severe acute malnutrition (SAM) affects children with weight-for-height Z-scores below -3 SD of the WHO Child Growth Standards.",
+    "Facility-based management of SAM includes therapeutic feeding and medical care as per NHM guidelines.",
+    "WHO recommends energy-dense therapeutic foods with 175-200 kcal/kg/day for children with SAM.",
+    "Vegetarian diets can be adapted to meet nutritional needs in regions with specific dietary practices.",
+    "Complementary feeding should begin at 6 months of age, as per IAP guidelines, to prevent malnutrition.",
+    "WHO Child Growth Standards provide benchmarks for assessing malnutrition in children under 5 years."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Malnutrition",
+    "Severe Acute Malnutrition",
+    "Diet Therapy",
+    "Child Nutrition Disorders",
+    "Vegetarian Diet",
+    "Feeding Behavior",
+    "Nutritional Requirements",
+    "Growth Disorders"
+  ],
+  "tags_custom": [
+    "acute malnutrition",
+    "vegetarian feeding",
+    "regional diets",
+    "child growth standards",
+    "complementary feeding"
+  ],
+  "reference_quote": "\"Facility-based management of children with severe acute malnutrition (SAM) includes therapeutic feeding and medical care as outlined in the operational guidelines.\" (Source: https://nhm.gov.in/images/pdf/programmes/childhealth/guidelines/operational_guidelines_on_fbmc_with_sam.pdf)",
+  "document_key_topics": [
+    "Vegetarian and regional feeding patterns",
+    "Management of severe acute malnutrition (SAM)",
+    "WHO child growth standards",
+    "Complementary feeding guidelines"
+  ],
+  "chunk_heading": "VEGETARIAN & REGIONAL FEEDING PATTERNS;SWITCHING FROM DIET COUNSELING TO ACUTE MALNUTRITION PROTOCOLS IN WASTED CHILDREN;",
+  "topic": "VEGETARIAN & REGIONAL FEEDING PATTERNS",
+  "subtopic": "SWITCHING FROM DIET COUNSELING TO ACUTE MALNUTRITION PROTOCOLS IN WASTED CHILDREN",
+  "sub_subtopic": null,
+  "heading_path": "VEGETARIAN & REGIONAL FEEDING PATTERNS;SWITCHING FROM DIET COUNSELING TO ACUTE MALNUTRITION PROTOCOLS IN WASTED CHILDREN;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1d.2"
+}

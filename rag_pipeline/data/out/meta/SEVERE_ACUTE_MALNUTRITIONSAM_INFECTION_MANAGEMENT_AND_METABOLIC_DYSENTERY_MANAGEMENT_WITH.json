@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Guidelines for managing dysentery in children with severe acute malnutrition (SAM), focusing on antibiotics, rehydration, and escalation protocols for resistant or severe cases.",
+  "learning_objectives": [
+    "Understand the first-line and second-line antibiotic regimens for dysentery in SAM.",
+    "Learn appropriate rehydration strategies tailored for malnourished children.",
+    "Recognize signs of treatment failure and criteria for escalation or referral.",
+    "Identify alternative diagnoses in cases of non-response to initial therapy."
+  ],
+  "key_facts": [
+    "Empiric antibiotics: Oral ciprofloxacin 15 mg/kg twice daily for 3 days; switch to parenteral ceftriaxone (100 mg/kg/day) if oral therapy fails or is contraindicated.",
+    "Rehydration: Use malnutrition-specific solutions like ReSoMal or diluted low-osmolar ORS with potassium/glucose; reassess every 30-60 minutes.",
+    "Continue breastfeeding and stabilization feeds (e.g., F-75) during treatment.",
+    "Escalation: Reassess at 48 hours if no improvement; consider resistant shigellosis, alternative diagnoses, or systemic complications.",
+    "Monitor for worsening edema, increased respiratory rate, or pulse rise during rehydration therapy.",
+    "Stool culture and local resistance patterns guide further management in resistant cases."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Severe Acute Malnutrition",
+    "Dysentery",
+    "Rehydration Solutions",
+    "Antibiotic Therapy",
+    "Ciprofloxacin",
+    "Ceftriaxone",
+    "Shigellosis",
+    "Pediatric Malnutrition"
+  ],
+  "tags_custom": [
+    "SAM dysentery management",
+    "antibiotic escalation",
+    "malnutrition rehydration",
+    "pediatric infection protocols"
+  ],
+  "reference_quote": "Treat any visible blood in stool as dysentery until proven otherwise. Severe malnutrition increases risk of invasive bacterial disease and complications, and dehydration assessment can be unreliable; therefore management must combine prompt antibiotics with cautious, closely monitored rehydration and continued feeding.",
+  "document_key_topics": [
+    "Dysentery management in SAM",
+    "Antibiotic regimens and escalation",
+    "Rehydration protocols for malnourished children",
+    "Criteria for referral and alternative diagnoses"
+  ],
+  "chunk_heading": "SEVERE ACUTE MALNUTRITION-(SAM) MANAGEMENT;INFECTION MANAGEMENT AND  METABOLIC CORRECTIONS;DYSENTERY MANAGEMENT WITH SECOND-LINE ESCALATION;",
+  "topic": "SEVERE ACUTE MALNUTRITION-(SAM) MANAGEMENT",
+  "subtopic": "INFECTION MANAGEMENT AND  METABOLIC CORRECTIONS",
+  "sub_subtopic": "DYSENTERY MANAGEMENT WITH SECOND-LINE ESCALATION",
+  "heading_path": "SEVERE ACUTE MALNUTRITION-(SAM) MANAGEMENT;INFECTION MANAGEMENT AND  METABOLIC CORRECTIONS;DYSENTERY MANAGEMENT WITH SECOND-LINE ESCALATION;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "3v5"
+}

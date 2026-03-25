@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "Rehydration in SAM requires cautious protocols due to overlapping signs with malnutrition. Use ReSoMal or modified ORS, with exceptions for cholera cases. Monitor closely for fluid overload and continue feeding during rehydration.",
+  "learning_objectives": [
+    "Understand the differences in dehydration management for SAM versus routine diarrhea care.",
+    "Learn the appropriate use of ReSoMal and modified ORS in malnourished children.",
+    "Recognize the exception for cholera cases requiring standard ORS to prevent hyponatremia.",
+    "Identify key monitoring parameters during rehydration in SAM."
+  ],
+  "key_facts": [
+    "Rehydration in SAM differs due to risks like heart failure from rapid rehydration.",
+    "ReSoMal is the preferred solution for SAM rehydration; use modified low-osmolarity ORS if unavailable.",
+    "In cholera or profuse watery diarrhea, standard ORS is preferred to prevent hyponatremia.",
+    "Shock in SAM requires cautious IV fluids and close monitoring for complications.",
+    "Rapid weight gain during rehydration may indicate fluid overload, not recovery.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Severe Acute Malnutrition",
+    "Dehydration",
+    "Oral Rehydration Solutions",
+    "Cholera",
+    "ReSoMal",
+    "Fluid Therapy",
+    "Malnutrition",
+    "Pediatric Feeding"
+  ],
+  "tags_custom": [
+    "SAM rehydration",
+    "ORS protocols",
+    "cholera exception",
+    "malnutrition care",
+    "rehydration monitoring"
+  ],
+  "reference_quote": "Treat any child with suspected SAM and diarrhea with a lower threshold for facility-based assessment. If there are shock features, manage as emergency per malnutrition protocols with cautious intravenous fluids and close monitoring.",
+  "document_key_topics": [
+    "Rehydration protocols in SAM",
+    "Use of ReSoMal and ORS in malnourished children",
+    "Cholera exception in rehydration",
+    "Monitoring during rehydration in SAM"
+  ],
+  "chunk_heading": "INFANT & YOUNG CHILD FEEDING UNDER 2 YEARS;FEEDING PROTOCOLS FOR PRETERM  LOW BIRTH WEIGHT AND MALNOURISHED INFANTS;REHYDRATION IN SAM INCLUDING  CHOLERA EXCEPTION AND ORS OPTIONS;",
+  "topic": "INFANT & YOUNG CHILD FEEDING UNDER 2 YEARS",
+  "subtopic": "FEEDING PROTOCOLS FOR PRETERM  LOW BIRTH WEIGHT AND MALNOURISHED INFANTS",
+  "sub_subtopic": "REHYDRATION IN SAM INCLUDING  CHOLERA EXCEPTION AND ORS OPTIONS",
+  "heading_path": "INFANT & YOUNG CHILD FEEDING UNDER 2 YEARS;FEEDING PROTOCOLS FOR PRETERM  LOW BIRTH WEIGHT AND MALNOURISHED INFANTS;REHYDRATION IN SAM INCLUDING  CHOLERA EXCEPTION AND ORS OPTIONS;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "4\u008e4.1"
+}

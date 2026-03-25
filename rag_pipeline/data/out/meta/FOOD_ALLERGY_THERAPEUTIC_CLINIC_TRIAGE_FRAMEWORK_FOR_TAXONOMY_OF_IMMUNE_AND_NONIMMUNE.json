@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "This section categorizes food hypersensitivity into immune-mediated (IgE, non-IgE, mixed) and nonimmune reactions, emphasizing diagnostic and therapeutic implications for elimination diets.",
+  "learning_objectives": [
+    "Differentiate between immune-mediated and nonimmune food hypersensitivity reactions.",
+    "Understand the clinical presentation and mechanisms of IgE, non-IgE, and mixed immune food allergies.",
+    "Recognize nonimmune food reactions and their management without allergy testing.",
+    "Apply the taxonomy to prevent unnecessary elimination diets and associated risks."
+  ],
+  "key_facts": [
+    "Food hypersensitivity includes both immune-mediated (food allergy) and nonimmune reactions.",
+    "IgE-mediated food allergy symptoms occur within minutes to 2 hours and include urticaria, wheeze, and cardiovascular compromise.",
+    "Non-IgE-mediated food allergy symptoms manifest hours to days later, often with gastrointestinal symptoms like diarrhea or blood in stool.",
+    "Nonimmune reactions include lactose intolerance, toxin-mediated reactions (e.g., scombroid), and pharmacologic effects (e.g., caffeine).",
+    "Broad elimination diets in nonimmune reactions can lead to iatrogenic undernutrition and caregiver anxiety.",
+    "Indian Academy of Pediatrics guidelines emphasize distinguishing immune food allergy from nonimmune intolerance."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Food Hypersensitivity",
+    "Food Allergy",
+    "IgE-mediated Hypersensitivity",
+    "Non-IgE-mediated Hypersensitivity",
+    "Lactose Intolerance",
+    "Eosinophilic Esophagitis",
+    "Elimination Diet",
+    "Gastrointestinal Diseases"
+  ],
+  "tags_custom": [
+    "immune vs nonimmune reactions",
+    "food allergy taxonomy",
+    "elimination diet risks",
+    "clinical triage framework"
+  ],
+  "reference_quote": "In Indian guidance, the IAP food allergy standard treatment guideline distinguishes immune food allergy from nonimmune intolerance and frames food allergy as a reproducible immune response on exposure.",
+  "document_key_topics": [
+    "Taxonomy of immune and nonimmune food reactions",
+    "Clinical implications of IgE and non-IgE food allergies",
+    "Management of nonimmune food reactions"
+  ],
+  "chunk_heading": "FOOD ALLERGY & THERAPEUTIC ELIMINATION DIETS;CLINIC TRIAGE FRAMEWORK FOR ADVERSE FOOD REACTIONS;TAXONOMY OF IMMUNE AND NONIMMUNE FOOD REACTIONS;",
+  "topic": "FOOD ALLERGY & THERAPEUTIC ELIMINATION DIETS",
+  "subtopic": "CLINIC TRIAGE FRAMEWORK FOR ADVERSE FOOD REACTIONS",
+  "sub_subtopic": "TAXONOMY OF IMMUNE AND NONIMMUNE FOOD REACTIONS",
+  "heading_path": "FOOD ALLERGY & THERAPEUTIC ELIMINATION DIETS;CLINIC TRIAGE FRAMEWORK FOR ADVERSE FOOD REACTIONS;TAXONOMY OF IMMUNE AND NONIMMUNE FOOD REACTIONS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1h1"
+}

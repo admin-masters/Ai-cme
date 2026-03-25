@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "Guidelines for the first hour of inpatient stabilization in SAM, focusing on hypoglycemia, hypothermia, infection management, and feeding protocols, including F-75 and fluid targets.",
+  "learning_objectives": [
+    "Understand the first-hour stabilization bundle for children with SAM.",
+    "Learn protocols for managing hypoglycemia, hypothermia, and infections in SAM.",
+    "Implement appropriate feeding strategies, including F-75 and fluid volume adjustments.",
+    "Identify and avoid harmful practices during the stabilization phase."
+  ],
+  "key_facts": [
+    "Treat hypoglycemia if glucose <54 mg/dL with 10% dextrose 5 mL/kg IV bolus, followed by oral/NG glucose.",
+    "Maintain 2-hourly feeding day and night to prevent fasting; use F-75 with a target of 130 mL/kg/day or 100 mL/kg/day if severe oedema is present.",
+    "Initiate active warming if axillary temperature <35\u00b0C using kangaroo care, blankets, and frequent feeding.",
+    "Start empiric antibiotics promptly as fever may be absent in SAM despite serious infections.",
+    "Avoid large-volume IV fluids unless shock criteria are met; do not administer RUTF via NG tube."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Severe Acute Malnutrition",
+    "Hypoglycemia",
+    "Hypothermia",
+    "Empiric Antibiotic Therapy",
+    "Enteral Nutrition",
+    "Fluid Therapy",
+    "Pediatric Emergency Care",
+    "Nutritional Support"
+  ],
+  "tags_custom": [
+    "SAM stabilization",
+    "first-hour care",
+    "feeding protocols",
+    "infection management"
+  ],
+  "reference_quote": "Prevent and treat hypoglycemia at arrival: check glucose, but treat immediately if lethargic, unconscious, or convulsing. A pragmatic threshold used in Indian protocols is <54 mg/dL: give 10% dextrose 5 mL/kg by IV bolus for severe symptoms.",
+  "document_key_topics": [
+    "First-hour stabilization bundle for SAM",
+    "Management of hypoglycemia and hypothermia",
+    "Feeding protocols with F-75 and fluid targets",
+    "Avoidance of harmful practices in SAM care"
+  ],
+  "chunk_heading": "SEVERE ACUTE MALNUTRITION-(SAM) MANAGEMENT;INPATIENT STABILIZATION AND EARLY MONITORING;FIRST HOUR BUNDLE AND STABILIZATION  FEEDING ORDERS;",
+  "topic": "SEVERE ACUTE MALNUTRITION-(SAM) MANAGEMENT",
+  "subtopic": "INPATIENT STABILIZATION AND EARLY MONITORING",
+  "sub_subtopic": "FIRST HOUR BUNDLE AND STABILIZATION  FEEDING ORDERS",
+  "heading_path": "SEVERE ACUTE MALNUTRITION-(SAM) MANAGEMENT;INPATIENT STABILIZATION AND EARLY MONITORING;FIRST HOUR BUNDLE AND STABILIZATION  FEEDING ORDERS;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "2j1"
+}

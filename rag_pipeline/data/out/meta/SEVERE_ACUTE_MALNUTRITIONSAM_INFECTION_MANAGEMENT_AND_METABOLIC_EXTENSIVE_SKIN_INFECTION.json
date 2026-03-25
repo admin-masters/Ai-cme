@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Management of extensive skin infections in oedematous SAM includes systemic antibiotics, anti-staphylococcal coverage, wound care, and monitoring for complications like dehydration and hypothermia.",
+  "learning_objectives": [
+    "Understand the risks of extensive skin infections in oedematous SAM and their systemic implications.",
+    "Learn appropriate antibiotic regimens, including anti-staphylococcal coverage, for complicated SAM cases.",
+    "Master wound care principles to prevent further skin damage and infection.",
+    "Recognize and manage associated complications such as dehydration and hypothermia."
+  ],
+  "key_facts": [
+    "Extensive skin breakdown in oedematous SAM can seed bacteremia even in afebrile children.",
+    "Standard parenteral antibiotics include ampicillin plus gentamicin; add cloxacillin for staphylococcal coverage in purulent or spreading lesions.",
+    "Escalate antibiotic therapy at 48\u201372 hours if no improvement, guided by local antibiogram and culture results.",
+    "Wound care includes gentle cleaning, barrier dressings (e.g., petrolatum or zinc-based), and avoiding caustic antiseptics.",
+    "Monitor for dehydration and hypothermia due to increased insensible fluid losses from open lesions."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Severe Acute Malnutrition",
+    "Skin Ulcer",
+    "Cellulitis",
+    "Staphylococcal Infections",
+    "Antibiotic Therapy",
+    "Wound Care",
+    "Kwashiorkor",
+    "Bacteremia"
+  ],
+  "tags_custom": [
+    "SAM infection management",
+    "skin breakdown care",
+    "anti-staphylococcal antibiotics",
+    "wound care protocols",
+    "complicated SAM"
+  ],
+  "reference_quote": "Treat weeping kwashiorkor dermatosis, ulceration, spreading cellulitis, or abscess as systemic infection risk and reassess antibiotic coverage early. (National Health Mission, Participant manual for facility-based care of severe acute malnutrition)",
+  "document_key_topics": [
+    "Extensive skin infection management in SAM",
+    "Anti-staphylococcal antibiotic coverage",
+    "Wound care principles for fragile skin",
+    "Monitoring and managing complications in SAM"
+  ],
+  "chunk_heading": "SEVERE ACUTE MALNUTRITION-(SAM) MANAGEMENT;INFECTION MANAGEMENT AND  METABOLIC CORRECTIONS;EXTENSIVE SKIN INFECTION MANAGEMENT AND ANTI STAPHYLOCOCCAL COVERAGE;",
+  "topic": "SEVERE ACUTE MALNUTRITION-(SAM) MANAGEMENT",
+  "subtopic": "INFECTION MANAGEMENT AND  METABOLIC CORRECTIONS",
+  "sub_subtopic": "EXTENSIVE SKIN INFECTION MANAGEMENT AND ANTI STAPHYLOCOCCAL COVERAGE",
+  "heading_path": "SEVERE ACUTE MALNUTRITION-(SAM) MANAGEMENT;INFECTION MANAGEMENT AND  METABOLIC CORRECTIONS;EXTENSIVE SKIN INFECTION MANAGEMENT AND ANTI STAPHYLOCOCCAL COVERAGE;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "3z8"
+}

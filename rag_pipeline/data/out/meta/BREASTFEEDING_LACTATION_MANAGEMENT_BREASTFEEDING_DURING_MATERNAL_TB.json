@@ -1,0 +1,46 @@
+{
+  "chunk_summary": "Guidelines for breastfeeding during maternal infections, including TB, hepatitis, and COVID-19, emphasize safety, infection control, and the benefits of breastfeeding with precautions like vaccination, prophylaxis, and hygiene measures.",
+  "learning_objectives": [
+    "Understand breastfeeding recommendations during maternal tuberculosis, including infection control and infant prophylaxis.",
+    "Learn safety guidelines for breastfeeding with hepatitis B and C, including vaccination protocols.",
+    "Recognize infection control measures for breastfeeding during febrile illnesses and COVID-19."
+  ],
+  "key_facts": [
+    "Breastfeeding is recommended during maternal pulmonary TB with effective anti-tubercular therapy; infants should receive INH prophylaxis and immunization.",
+    "For HBV, breastfeeding is safe if the infant receives a timely birth-dose vaccine and completes the series; HBIG is often required for infants of highly infectious mothers.",
+    "HCV is not a contraindication to breastfeeding unless nipples are cracked and bleeding.",
+    "During COVID-19, breastfeeding or expressed milk is encouraged with strict hand hygiene and masking; milk may contain protective antibodies.",
+    "Maternal febrile illnesses like influenza allow continued breastfeeding with precautions such as hand hygiene and masking."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Breastfeeding",
+    "Tuberculosis",
+    "Hepatitis B",
+    "Hepatitis C",
+    "COVID-19",
+    "Infection Control",
+    "Vaccination",
+    "Lactation Management"
+  ],
+  "tags_custom": [
+    "Maternal infections",
+    "Infant prophylaxis",
+    "Breastfeeding safety",
+    "Infection precautions"
+  ],
+  "reference_quote": "Breastfeeding is recommended while the mother receives effective anti-tubercular therapy. The main risk is airborne transmission, not milk; therefore, emphasize cough hygiene and a mask until the mother is no longer infectious.",
+  "document_key_topics": [
+    "Breastfeeding during maternal tuberculosis",
+    "Breastfeeding with hepatitis B and C",
+    "Breastfeeding during COVID-19 and febrile illnesses"
+  ],
+  "chunk_heading": "BREASTFEEDING & LACTATION MANAGEMENT;BREASTFEEDING DURING MATERNAL TB, HEPATITIS, AND COMMON INFECTIONS;",
+  "topic": "BREASTFEEDING & LACTATION MANAGEMENT",
+  "subtopic": "BREASTFEEDING DURING MATERNAL TB, HEPATITIS, AND COMMON INFECTIONS",
+  "sub_subtopic": null,
+  "heading_path": "BREASTFEEDING & LACTATION MANAGEMENT;BREASTFEEDING DURING MATERNAL TB, HEPATITIS, AND COMMON INFECTIONS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u0086"
+}

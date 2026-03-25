@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "Defines moderate acute malnutrition (MAM) in Indian clinics, emphasizing diagnostic criteria, misclassification risks, and operational guidelines for outpatient management using WHO-aligned metrics like MUAC and weight-for-height z-scores.",
+  "learning_objectives": [
+    "Understand the diagnostic criteria for moderate acute malnutrition (MAM) in children aged 6\u201359 months.",
+    "Differentiate between MAM and other forms of malnutrition, such as underweight or stunting.",
+    "Learn to identify and manage uncomplicated MAM versus wasting with complications in outpatient settings.",
+    "Recognize common misclassification pitfalls and ensure accurate measurements of MUAC and oedema."
+  ],
+  "key_facts": [
+    "MAM is defined as weight-for-height/length z-scores between -2 and -3 and/or MUAC 115\u2013124 mm, with no bilateral pitting oedema.",
+    "Indian clinics often use 70\u201380% of median weight-for-height or MUAC 115\u2013125 mm as operational thresholds.",
+    "Underweight (low weight-for-age) should not be equated with MAM, as it may indicate chronic stunting.",
+    "Oedema should be checked by pressing both feet for several seconds and observing for persistent pitting.",
+    "Borderline measurements should be repeated and triangulated with clinical signs like recent weight loss or poor intake.",
+    "WHO-aligned bedside screening includes visible wasting, oedema check, and MUAC or weight-for-length measurement."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Malnutrition",
+    "Wasting Syndrome",
+    "Mid-Upper Arm Circumference",
+    "Weight-for-Height",
+    "Nutritional Assessment",
+    "Child Nutrition Disorders",
+    "Edema",
+    "Outpatient Clinics, Hospital"
+  ],
+  "tags_custom": [
+    "MAM diagnosis",
+    "Indian malnutrition guidelines",
+    "pediatric nutrition",
+    "clinical screening tools",
+    "supplementary feeding"
+  ],
+  "reference_quote": "WHO defines moderate wasting as weight-for-height/length (WHZ/WLZ) between -2 and -3 z-scores and/or MUAC 115\u2013124 mm, with no bilateral pitting oedema. (Source: https://www.ncbi.nlm.nih.gov/books/NBK601642/)",
+  "document_key_topics": [
+    "Diagnostic criteria for moderate acute malnutrition (MAM)",
+    "Misclassification risks in malnutrition diagnosis",
+    "Outpatient management of uncomplicated MAM",
+    "WHO-aligned malnutrition screening tools"
+  ],
+  "chunk_heading": "MODERATE ACUTE MALNUTRITION (MAM) AND SUPPLEMENTARY FEEDING;DEFINING MODERATE ACUTE MALNUTRITION IN INDIAN CLINICS;CLINIC-READY DIAGNOSTIC CRITERIA AND MISCLASSIFICATION PITFALLS;",
+  "topic": "MODERATE ACUTE MALNUTRITION (MAM) AND SUPPLEMENTARY FEEDING",
+  "subtopic": "DEFINING MODERATE ACUTE MALNUTRITION IN INDIAN CLINICS",
+  "sub_subtopic": "CLINIC-READY DIAGNOSTIC CRITERIA AND MISCLASSIFICATION PITFALLS",
+  "heading_path": "MODERATE ACUTE MALNUTRITION (MAM) AND SUPPLEMENTARY FEEDING;DEFINING MODERATE ACUTE MALNUTRITION IN INDIAN CLINICS;CLINIC-READY DIAGNOSTIC CRITERIA AND MISCLASSIFICATION PITFALLS;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1b1"
+}

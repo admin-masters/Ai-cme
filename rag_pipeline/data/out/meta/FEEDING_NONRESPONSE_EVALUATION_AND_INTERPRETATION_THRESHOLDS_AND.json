@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section discusses interpretation thresholds and referral triggers for anemia, UTI, celiac disease, and TB in the context of feeding nonresponse, emphasizing diagnostic accuracy and urgency based on clinical and laboratory findings.",
+  "learning_objectives": [
+    "Understand referral triggers for severe anemia and the role of hemoglobin thresholds in guiding urgency.",
+    "Learn proper urine sampling techniques and culture thresholds for diagnosing UTI in non-toilet-trained children.",
+    "Recognize diagnostic criteria for celiac disease, including serology and histology, and avoid premature gluten-free diets.",
+    "Identify TB screening criteria in malnourished children and the importance of linking to diagnostic pathways."
+  ],
+  "key_facts": [
+    "Severe anemia is defined by WHO as hemoglobin <7 g/dL for ages 6\u201359 months and requires facility evaluation.",
+    "For UTI, culture thresholds vary by method: suprapubic aspiration (any growth), catheter (>10^4 CFU/mL), clean-catch midstream (>10^5 CFU/mL).",
+    "Celiac disease diagnosis requires compatible serology and histology; mild intraepithelial lymphocytosis alone is not specific.",
+    "TB screening is triggered by wasting plus cough/fever for \u22652 weeks or known contact, requiring immediate linkage to NTEP pathways.",
+    "Urine bags should be avoided in non-toilet-trained children due to high contamination risk leading to false positives."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Anemia",
+    "Urinary Tract Infections",
+    "Celiac Disease",
+    "Tuberculosis",
+    "Malnutrition",
+    "Pediatric Nutrition",
+    "Diagnostic Techniques and Procedures",
+    "Referral and Consultation"
+  ],
+  "tags_custom": [
+    "Feeding nonresponse",
+    "Diagnostic thresholds",
+    "Pediatric investigations",
+    "Referral criteria",
+    "Nutritional disorders"
+  ],
+  "reference_quote": "Severe anemia by WHO classification (hemoglobin under 7 g/dL for ages 6\u201359 months) or any anemia with cardiorespiratory symptoms should prompt facility evaluation for cause and need for transfusion rather than outpatient iron alone.",
+  "document_key_topics": [
+    "Anemia and hemoglobin thresholds",
+    "Urinary tract infection diagnosis",
+    "Celiac disease diagnostic criteria",
+    "Tuberculosis screening in malnourished children"
+  ],
+  "chunk_heading": "FEEDING;NONRESPONSE EVALUATION AND TARGETED INVESTIGATION;INTERPRETATION THRESHOLDS AND REFERRAL TRIGGERS FOR COMMON INVESTIGATIONS;",
+  "topic": "FEEDING",
+  "subtopic": "NONRESPONSE EVALUATION AND TARGETED INVESTIGATION",
+  "sub_subtopic": "INTERPRETATION THRESHOLDS AND REFERRAL TRIGGERS FOR COMMON INVESTIGATIONS",
+  "heading_path": "FEEDING;NONRESPONSE EVALUATION AND TARGETED INVESTIGATION;INTERPRETATION THRESHOLDS AND REFERRAL TRIGGERS FOR COMMON INVESTIGATIONS;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "3u3"
+}

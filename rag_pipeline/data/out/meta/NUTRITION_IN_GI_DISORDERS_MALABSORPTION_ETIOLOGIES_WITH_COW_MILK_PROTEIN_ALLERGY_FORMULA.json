@@ -1,0 +1,46 @@
+{
+  "chunk_summary": "Guidance on formula selection for cow's milk protein allergy (CMPA) in infants, emphasizing breastfeeding, elimination diets, and stepwise formula use to ensure nutritional adequacy and symptom resolution.",
+  "learning_objectives": [
+    "Understand the role of breastfeeding and maternal elimination diets in managing CMPA.",
+    "Learn the stepwise approach to formula selection, including indications for extensively hydrolyzed and amino-acid formulas.",
+    "Recognize the importance of reassessment and supervised reintroduction of cow's milk protein."
+  ],
+  "key_facts": [
+    "Breastfeeding is the default recommendation for CMPA, with maternal dairy elimination improving symptoms within 48\u201372 hours.",
+    "Extensively hydrolyzed formula is the first choice for supplementation; amino-acid formula is reserved for severe cases or non-response.",
+    "Soy formula is tolerated by many but has a 10% cross-reactivity rate and is not recommended for infants under 6 months.",
+    "Reevaluation of CMPA exclusion diets should occur every 6 months, with most exclusions lasting about 1 year.",
+    "Supervised reintroduction of cow's milk protein should follow a graded approach, starting with small volumes."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Cow's Milk Protein Allergy",
+    "Breastfeeding",
+    "Hypoallergenic Formula",
+    "Elimination Diet",
+    "Food Hypersensitivity",
+    "Soy Formula",
+    "Amino Acid Formula",
+    "Nutritional Status"
+  ],
+  "tags_custom": [
+    "CMPA management",
+    "infant nutrition",
+    "formula selection",
+    "elimination diet"
+  ],
+  "reference_quote": "IAP guidance supports maternal elimination of dairy as a first step and notes that symptom improvement may occur within 48\u201372 hours.",
+  "document_key_topics": [
+    "Cow's milk protein allergy management",
+    "Formula selection pathways for CMPA",
+    "Nutritional adequacy in CMPA treatment"
+  ],
+  "chunk_heading": "NUTRITION IN GI DISORDERS & MALABSORPTION;MALABSORPTION ETIOLOGIES WITH CONDITION-SPECIFIC DIET THERAPIES;COW MILK PROTEIN ALLERGY FORMULA SELECTION PATHWAY;",
+  "topic": "NUTRITION IN GI DISORDERS & MALABSORPTION",
+  "subtopic": "MALABSORPTION ETIOLOGIES WITH CONDITION-SPECIFIC DIET THERAPIES",
+  "sub_subtopic": "COW MILK PROTEIN ALLERGY FORMULA SELECTION PATHWAY",
+  "heading_path": "NUTRITION IN GI DISORDERS & MALABSORPTION;MALABSORPTION ETIOLOGIES WITH CONDITION-SPECIFIC DIET THERAPIES;COW MILK PROTEIN ALLERGY FORMULA SELECTION PATHWAY;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "2\u00917"
+}

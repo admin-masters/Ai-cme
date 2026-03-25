@@ -1,0 +1,47 @@
+{
+  "chunk_summary": "Guidance on anthropometry and growth interpretation in children with neurodisability, emphasizing alternative measures like segmental lengths and MUAC, and cautious use of growth charts for nutritional assessment.",
+  "learning_objectives": [
+    "Understand the limitations of traditional weight and height measurements in children with neurodisability.",
+    "Learn alternative anthropometric methods such as segmental measures and MUAC for growth assessment.",
+    "Interpret growth charts and body composition proxies in the context of neurodisability.",
+    "Recognize the importance of tracking trends over time rather than relying on single measurements."
+  ],
+  "key_facts": [
+    "Weight and height alone are insufficient for nutritional assessment in children with neurodisability due to factors like scoliosis and altered body composition.",
+    "Segmental measures such as knee height, tibial length, or ulna length can estimate stature when standing height is unreliable.",
+    "Mid-upper arm circumference (MUAC) and triceps skinfold are useful proxies for body composition but should be interpreted cautiously in severe CP.",
+    "WHO growth charts are appropriate up to 5 years of age if reliable height data is available; CP-specific charts can contextualize growth but should not normalize undernutrition.",
+    "Persistent low weight or falling growth velocity should trigger active nutritional intervention, regardless of the growth chart used."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Cerebral Palsy",
+    "Anthropometry",
+    "Nutritional Status",
+    "Growth Charts",
+    "Body Composition",
+    "Mid-Upper Arm Circumference",
+    "Child Nutrition Disorders",
+    "Neurological Impairments"
+  ],
+  "tags_custom": [
+    "Neurodisability",
+    "Feeding Support",
+    "Growth Monitoring",
+    "Pediatric Nutrition"
+  ],
+  "reference_quote": "\"Use segmental measures to estimate stature. Knee height or tibial length can be measured with a caliper or measuring tape and converted to estimated height using validated equations.\" (Source: ESPGHAN Advice Guide)",
+  "document_key_topics": [
+    "Alternative anthropometric methods for children with neurodisability",
+    "Use of growth charts and body composition proxies",
+    "Nutritional risk assessment in severe CP"
+  ],
+  "chunk_heading": "NEURODISABILITY & FEEDING SUPPORT;NEURODISABILITY-SPECIFIC ANTHROPOMETRY AND GROWTH INTERPRETATION;",
+  "topic": "NEURODISABILITY & FEEDING SUPPORT",
+  "subtopic": "NEURODISABILITY-SPECIFIC ANTHROPOMETRY AND GROWTH INTERPRETATION",
+  "sub_subtopic": null,
+  "heading_path": "NEURODISABILITY & FEEDING SUPPORT;NEURODISABILITY-SPECIFIC ANTHROPOMETRY AND GROWTH INTERPRETATION;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1g"
+}

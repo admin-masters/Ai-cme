@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Severe acute malnutrition requires facility-based management with a phased macronutrient delivery approach, focusing on stabilization and rehabilitation using specific feeding protocols and discharge criteria.",
+  "learning_objectives": [
+    "Understand the criteria for diagnosing severe acute malnutrition (SAM) in children.",
+    "Learn the phased approach to macronutrient delivery during stabilization and rehabilitation.",
+    "Recognize the importance of avoiding aggressive feeding and fluid management in SAM cases.",
+    "Identify discharge criteria and follow-up protocols for children recovering from SAM."
+  ],
+  "key_facts": [
+    "Severe acute malnutrition is defined by weight-for-length/height < -3 SD, MUAC <115 mm (6\u201359 months), or bilateral pitting edema.",
+    "Initial feeding uses F-75 formula to stabilize metabolism; transition to F-100 or catch-up diet occurs when appetite returns and edema resolves.",
+    "Avoid iron supplementation during stabilization unless indicated by national guidelines.",
+    "Dehydration in SAM is harder to assess; oral or nasogastric rehydration is preferred over IV fluids.",
+    "Discharge criteria include at least 15% weight gain from admission weight, edema resolution, and reliable feeding."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Malnutrition",
+    "Severe Acute Malnutrition",
+    "Child Nutrition Disorders",
+    "Macronutrients",
+    "Rehabilitation",
+    "Feeding Methods",
+    "Fluid Therapy",
+    "Micronutrients"
+  ],
+  "tags_custom": [
+    "SAM management",
+    "nutrition protocols",
+    "facility-based care",
+    "rehabilitation feeding",
+    "discharge planning"
+  ],
+  "reference_quote": "The WHO 2023 wasting guideline updates global recommendations; in India, follow national FBMC and nutrition rehabilitation centre protocols while tracking outcomes.",
+  "document_key_topics": [
+    "Severe acute malnutrition diagnosis and criteria",
+    "Phased macronutrient delivery for stabilization and rehabilitation",
+    "Feeding protocols and fluid management in SAM",
+    "Discharge planning and follow-up care for SAM recovery"
+  ],
+  "chunk_heading": "MACRONUTRIENT NUTRITION IN CHILDHOOD;FACILITY BASED MANAGEMENT  OF SEVERE ACUTE MALNUTRITION SAFE MACRONUTRIENT SEQUENCING;  Severe acute",
+  "topic": "MACRONUTRIENT NUTRITION IN CHILDHOOD",
+  "subtopic": "FACILITY BASED MANAGEMENT  OF SEVERE ACUTE MALNUTRITION SAFE MACRONUTRIENT SEQUENCING",
+  "sub_subtopic": "Severe acute",
+  "heading_path": "MACRONUTRIENT NUTRITION IN CHILDHOOD;FACILITY BASED MANAGEMENT  OF SEVERE ACUTE MALNUTRITION SAFE MACRONUTRIENT SEQUENCING;  Severe acute",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "4~1"
+}

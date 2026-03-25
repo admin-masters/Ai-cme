@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section addresses iodine deficiency prevention in pediatric nutrition, emphasizing universal salt iodization, proper storage practices, goitre evaluation, and public health responses to sentinel cases.",
+  "learning_objectives": [
+    "Understand the role of iodine in pediatric neuroprotection and cognitive development.",
+    "Learn how to counsel families on universal salt iodization and proper storage practices.",
+    "Identify and evaluate goitre cases in children, linking findings to public health interventions.",
+    "Recognize sentinel events and coordinate population-level responses to iodine deficiency."
+  ],
+  "key_facts": [
+    "Iodine deficiency during pregnancy and early life can cause irreversible cognitive impairment.",
+    "Universal salt iodization is the most effective strategy for iodine deficiency prevention.",
+    "Iodine content in salt decreases with heat and moisture exposure; store in a covered container away from stoves and damp areas.",
+    "Loose bulk salt is a risk factor in food-insecure settings; encourage switching to verified iodized salt.",
+    "Goitre with stunting or poor growth velocity warrants thyroid function testing and referral.",
+    "Population-level quality improvement of iodized salt supply is the appropriate response to multiple goitre cases in a community.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Iodine Deficiency Disorders",
+    "Goiter",
+    "Pediatric Nutrition",
+    "Salt Iodization",
+    "Thyroid Function Tests",
+    "Public Health",
+    "Nutritional Counseling",
+    "Food Security"
+  ],
+  "tags_custom": [
+    "Iodine deficiency prevention",
+    "Goitre evaluation",
+    "Salt storage practices",
+    "Community nutrition"
+  ],
+  "reference_quote": "Universal salt iodization is the most effective clinical action for iodine deficiency prevention rather than recommending unregulated iodine supplements. (Source: Revised guidelines: National Iodine Deficiency Disorders Control Programme)",
+  "document_key_topics": [
+    "Iodine deficiency prevention in pediatric populations",
+    "Universal salt iodization and storage practices",
+    "Goitre evaluation and public health responses"
+  ],
+  "chunk_heading": "PUBLIC HEALTH & COMMUNITY PEDIATRIC NUTRITION;MICRONUTRIENT PROGRAMS AND DEWORMING INTEGRATED WITH NUTRITION CARE;IODINE DEFICIENCY PREVENTION AND GOITRE EVALUATION;",
+  "topic": "PUBLIC HEALTH & COMMUNITY PEDIATRIC NUTRITION",
+  "subtopic": "MICRONUTRIENT PROGRAMS AND DEWORMING INTEGRATED WITH NUTRITION CARE",
+  "sub_subtopic": "IODINE DEFICIENCY PREVENTION AND GOITRE EVALUATION",
+  "heading_path": "PUBLIC HEALTH & COMMUNITY PEDIATRIC NUTRITION;MICRONUTRIENT PROGRAMS AND DEWORMING INTEGRATED WITH NUTRITION CARE;IODINE DEFICIENCY PREVENTION AND GOITRE EVALUATION;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1\u008a3"
+}

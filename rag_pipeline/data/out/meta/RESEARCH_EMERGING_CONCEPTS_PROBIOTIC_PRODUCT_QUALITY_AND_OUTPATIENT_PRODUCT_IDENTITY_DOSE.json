@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Guidelines for verifying probiotic product identity, dose, and storage in outpatient settings to ensure safety and efficacy, with emphasis on strain-specific evidence and regulatory compliance.",
+  "learning_objectives": [
+    "Understand the importance of verifying probiotic product labels for strain, dose, and storage conditions.",
+    "Identify safety risks associated with improper probiotic use in outpatient settings.",
+    "Learn to apply regulatory guidelines, such as FSSAI requirements, to assess probiotic product quality.",
+    "Recognize contraindications for live microbial supplementation in high-risk patients."
+  ],
+  "key_facts": [
+    "Probiotic labels must specify genus, species, strain designation, viable count at shelf life, serving size, and storage conditions (FSSAI standards).",
+    "Strain-specific evidence is critical; e.g., 'Lactobacillus reuteri DSM 17938' is not interchangeable with generic 'Lactobacillus reuteri.'",
+    "Common effective doses include 10^8 CFU/day for colic strains and 10^9\u201310^10 CFU/day for LGG, depending on the indication.",
+    "Refrigeration-dependent probiotics lose efficacy if the cold chain is not maintained.",
+    "Live probiotics are contraindicated in severe immunocompromise, central venous access, critical illness, or severe mucosal injury without specialist oversight."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Probiotics",
+    "Product Labeling",
+    "Dose-Response Relationship, Drug",
+    "Food Safety",
+    "Immunocompromised Host",
+    "Storage Conditions",
+    "Regulatory Compliance",
+    "Outpatient Care"
+  ],
+  "tags_custom": [
+    "Probiotic safety",
+    "Strain-specific evidence",
+    "Cold chain storage",
+    "FSSAI guidelines",
+    "Outpatient prescribing"
+  ],
+  "reference_quote": "The label should specify genus and species plus strain designation or culture collection number, the viable number at end of shelf life, the serving size that delivers the effective dose, and storage conditions including 'best use after opening.'",
+  "document_key_topics": [
+    "Probiotic product verification in outpatient care",
+    "Strain-specific evidence and dosing guidelines",
+    "Regulatory compliance with FSSAI standards",
+    "Safety considerations for live microbial supplementation"
+  ],
+  "chunk_heading": "RESEARCH & EMERGING CONCEPTS;PROBIOTIC PRODUCT QUALITY AND REGULATORY STEWARDSHIP;OUTPATIENT PRODUCT IDENTITY DOSE AND STORAGE VERIFICATION;",
+  "topic": "RESEARCH & EMERGING CONCEPTS",
+  "subtopic": "PROBIOTIC PRODUCT QUALITY AND REGULATORY STEWARDSHIP",
+  "sub_subtopic": "OUTPATIENT PRODUCT IDENTITY DOSE AND STORAGE VERIFICATION",
+  "heading_path": "RESEARCH & EMERGING CONCEPTS;PROBIOTIC PRODUCT QUALITY AND REGULATORY STEWARDSHIP;OUTPATIENT PRODUCT IDENTITY DOSE AND STORAGE VERIFICATION;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1v1"
+}

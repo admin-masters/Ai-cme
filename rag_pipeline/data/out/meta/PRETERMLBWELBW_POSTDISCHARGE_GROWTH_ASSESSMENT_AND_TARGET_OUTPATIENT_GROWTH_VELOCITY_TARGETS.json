@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "Outpatient growth targets for preterm/LBW/ELBW infants focus on actionable weight gain metrics, transitioning from inpatient g/kg/day to outpatient g/day targets, with specific thresholds for intervention and stepdown decisions based on growth and intake assessment.",
+  "learning_objectives": [
+    "Understand the transition from inpatient to outpatient growth velocity targets for preterm/LBW/ELBW infants.",
+    "Identify actionable weight gain thresholds for reassessment and intervention in outpatient care.",
+    "Differentiate growth monitoring strategies for late preterm versus VLBW/ELBW infants.",
+    "Apply unit guardrails to avoid confusion in growth velocity metrics."
+  ],
+  "key_facts": [
+    "In-hospital weight gain benchmarks: 15\u201320 g/kg/day between 23\u201336 weeks\u2019 gestation.",
+    "Outpatient poor weight gain threshold: <15 g/day triggers reassessment of intake and higher-calorie strategies.",
+    "Stepdown to 19\u201320 kcal/oz formula is suggested when weight gain is 30\u201340 g/day and growth is above the 10th percentile on WHO charts.",
+    "g/kg/day targets are primarily for inpatient and smaller preterm infants early in life.",
+    "g/day targets are used for outpatient action and stepdown decisions after discharge.",
+    "Growth issues should be assessed for underlying causes (e.g., inadequate intake, malabsorption, or illness) before changing nutritional strategies."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Infant, Premature",
+    "Infant, Low Birth Weight",
+    "Infant, Extremely Low Birth Weight",
+    "Growth and Development",
+    "Nutritional Requirements",
+    "Weight Gain",
+    "Postnatal Care",
+    "Enteral Nutrition"
+  ],
+  "tags_custom": [
+    "growth velocity",
+    "outpatient nutrition",
+    "preterm infant care",
+    "weight gain targets",
+    "nutritional assessment"
+  ],
+  "reference_quote": "The AAP uses poor weight gain <15 g/day as a trigger to reassess intake and consider higher-calorie strategies, and it suggests stepping down from higher-calorie feeds to standard 19\u201320 kcal/oz formula when weight gain is consistently about 30\u201340 g/day and growth is above the 10th percentile on WHO charts.",
+  "document_key_topics": [
+    "Outpatient growth velocity targets for preterm infants",
+    "Inpatient versus outpatient growth monitoring metrics",
+    "Nutritional strategies for suboptimal growth",
+    "Unit guardrails for growth assessment"
+  ],
+  "chunk_heading": "PRETERM/LBW/ELBW POST-DISCHARGE NUTRITION;GROWTH ASSESSMENT AND TARGET SETTING AFTER DISCHARGE;OUTPATIENT GROWTH VELOCITY TARGETS AND UNIT GUARDRAILS;",
+  "topic": "PRETERM/LBW/ELBW POST-DISCHARGE NUTRITION",
+  "subtopic": "GROWTH ASSESSMENT AND TARGET SETTING AFTER DISCHARGE",
+  "sub_subtopic": "OUTPATIENT GROWTH VELOCITY TARGETS AND UNIT GUARDRAILS",
+  "heading_path": "PRETERM/LBW/ELBW POST-DISCHARGE NUTRITION;GROWTH ASSESSMENT AND TARGET SETTING AFTER DISCHARGE;OUTPATIENT GROWTH VELOCITY TARGETS AND UNIT GUARDRAILS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1p4"
+}

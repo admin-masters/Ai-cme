@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section outlines methods for estimating age-specific energy and protein requirements using Indian reference values, emphasizing adjustments for clinical contexts and dietary gaps in children and infants.",
+  "learning_objectives": [
+    "Understand how to estimate energy and protein needs using Indian reference values (ICMR-NIN).",
+    "Learn to adjust dietary prescriptions for clinical contexts such as malnutrition, obesity, or chronic illnesses.",
+    "Identify and document dietary gaps using intake comparisons and validated food composition sources.",
+    "Apply weight-based approaches for rapid bedside estimations in infants and toddlers."
+  ],
+  "key_facts": [
+    "Indian reference values (ICMR-NIN) provide baseline energy and protein needs based on age, sex, and activity level.",
+    "Infants require higher energy (kcal/kg) and protein (g/kg/day) compared to toddlers, with needs decreasing as age increases.",
+    "Protein targets are higher during recovery from illness or severe malnutrition rehabilitation.",
+    "In obesity, calculations should reference ideal body weight rather than actual weight to avoid overprescription.",
+    "Dietary gaps can be quantified as a percentage of estimated needs (e.g., meeting ~70% of energy needs).",
+    "Locally validated food composition sources (IFCT) should be used for nutrient conversion from household measures."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Dietary Assessment",
+    "Energy Intake",
+    "Protein Requirements",
+    "Malnutrition",
+    "Obesity",
+    "Infant Nutrition",
+    "Child Nutrition",
+    "Food Composition"
+  ],
+  "tags_custom": [
+    "Indian dietary guidelines",
+    "Energy and protein estimation",
+    "Clinical nutrition adjustments",
+    "Feeding skills evaluation"
+  ],
+  "reference_quote": "Estimate daily energy and protein needs using age, sex, weight (or corrected age in preterm infants), and clinical context. Start with Indian reference values (ICMR-NIN) for age and activity, then adjust upward for catch-up growth or high metabolic demand.",
+  "document_key_topics": [
+    "Age-specific energy and protein requirements",
+    "Clinical adjustments for dietary needs",
+    "Quantification of dietary gaps",
+    "Use of Indian Food Composition Tables (IFCT)"
+  ],
+  "chunk_heading": "DIETARY ASSESSMENT & FEEDING SKILLS EVALUATION;AGE-SPECIFIC ENERGY AND PROTEIN REQUIREMENT ESTIMATION USING INDIAN REFERENCE VALUES;",
+  "topic": "DIETARY ASSESSMENT & FEEDING SKILLS EVALUATION",
+  "subtopic": "AGE-SPECIFIC ENERGY AND PROTEIN REQUIREMENT ESTIMATION USING INDIAN REFERENCE VALUES",
+  "sub_subtopic": null,
+  "heading_path": "DIETARY ASSESSMENT & FEEDING SKILLS EVALUATION;AGE-SPECIFIC ENERGY AND PROTEIN REQUIREMENT ESTIMATION USING INDIAN REFERENCE VALUES;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1k"
+}

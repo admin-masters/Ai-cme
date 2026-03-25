@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section outlines a structured clinical approach to assess stunted children, focusing on anthropometry, nutritional phenotypes, proportionality, syndromic cues, and functional screening to identify underlying causes and guide management strategies.",
+  "learning_objectives": [
+    "Understand the process of validating anthropometric measurements in stunted children.",
+    "Learn to classify nutritional phenotypes and identify urgent cases requiring stabilization.",
+    "Recognize proportionality and syndromic cues to differentiate between skeletal dysplasia, genetic syndromes, and chronic diseases.",
+    "Perform endocrine, developmental, and functional screenings to guide clinical decisions."
+  ],
+  "key_facts": [
+    "Stunting is defined as height-for-age Z-score (HAZ) < -2.",
+    "MUAC (mid-upper arm circumference) should be measured in children aged 6\u201359 months.",
+    "Concurrent wasting and stunting (WaSt) or nutritional edema requires immediate stabilization.",
+    "Proportional short stature may indicate chronic disease or micronutrient deficiencies, while disproportion suggests skeletal dysplasia or genetic syndromes.",
+    "Endocrine screening includes thyroid enlargement, pubertal staging, and blood pressure assessment for renal disease."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Stunting",
+    "Chronic Disease",
+    "Anthropometry",
+    "Malnutrition",
+    "Growth Disorders",
+    "Micronutrient Deficiencies",
+    "Endocrine System Diseases",
+    "Phenotype"
+  ],
+  "tags_custom": [
+    "Pediatric Nutrition",
+    "Clinical Examination",
+    "Growth Assessment",
+    "Stunted Growth",
+    "Phenotype Classification"
+  ],
+  "reference_quote": "Short stature in childhood: challenges and choices \u2014 'A structured clinical examination is essential to differentiate between proportionate and disproportionate short stature and identify underlying causes.'",
+  "document_key_topics": [
+    "Anthropometric validation and measurements",
+    "Nutritional phenotype classification",
+    "Proportionality and syndromic assessment",
+    "Endocrine and functional screening in stunted children"
+  ],
+  "chunk_heading": "STUNTING, CHRONIC UNDERNUTRITION & DETERMINANTS;STRUCTURED CLINICAL EXAMINATION AND PHENOTYPE TRIAGE IN STUNTED CHILDREN;",
+  "topic": "STUNTING, CHRONIC UNDERNUTRITION & DETERMINANTS",
+  "subtopic": "STRUCTURED CLINICAL EXAMINATION AND PHENOTYPE TRIAGE IN STUNTED CHILDREN",
+  "sub_subtopic": null,
+  "heading_path": "STUNTING, CHRONIC UNDERNUTRITION & DETERMINANTS;STRUCTURED CLINICAL EXAMINATION AND PHENOTYPE TRIAGE IN STUNTED CHILDREN;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "3d"
+}

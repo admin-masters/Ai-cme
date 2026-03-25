@@ -1,0 +1,46 @@
+{
+  "chunk_summary": "Emergency management of acute septic arthritis involves joint aspiration, drainage, and imaging to prevent cartilage damage, especially in critical joints like the hip.",
+  "learning_objectives": [
+    "Understand the clinical presentation and urgency of acute septic arthritis.",
+    "Learn the indications and techniques for joint aspiration and drainage.",
+    "Recognize imaging modalities and their role in diagnosis and management.",
+    "Identify when orthopedic involvement is necessary for septic arthritis cases."
+  ],
+  "key_facts": [
+    "Acute septic arthritis can cause rapid cartilage damage, particularly in the hip.",
+    "Synovial fluid analysis includes cell count, Gram stain, bacterial culture, and molecular testing.",
+    "Urgent operative drainage is often required for the hip due to elevated intracapsular pressure threatening femoral head perfusion.",
+    "Needle aspiration and lavage may suffice for peripheral joints like the knee, ankle, and shoulder if fluid is thin and clinical improvement is rapid.",
+    "Magnetic resonance imaging (MRI) is recommended when fever persists, inflammation is severe, or concurrent osteomyelitis is suspected.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Septic Arthritis",
+    "Joint Aspiration",
+    "Synovial Fluid Analysis",
+    "Magnetic Resonance Imaging",
+    "Orthopedic Procedures",
+    "Pediatric Musculoskeletal Infections"
+  ],
+  "tags_custom": [
+    "acute septic arthritis",
+    "emergency joint drainage",
+    "pediatric bone infections",
+    "hip joint management"
+  ],
+  "reference_quote": "The hip usually requires urgent operative drainage or repeat aspiration because elevated intracapsular pressure threatens femoral head perfusion. (Indian Academy of Pediatrics Consensus Statement)",
+  "document_key_topics": [
+    "Acute septic arthritis diagnosis and management",
+    "Joint aspiration and drainage techniques",
+    "Imaging and orthopedic involvement in septic arthritis"
+  ],
+  "chunk_heading": "BONE INFECTIONS;EMERGENCY CARE OF ACUTE SEPTIC ARTHRITIS;EMERGENCY JOINT ASPIRATION AND DRAINAGE PATHWAY;",
+  "topic": "BONE INFECTIONS",
+  "subtopic": "EMERGENCY CARE OF ACUTE SEPTIC ARTHRITIS",
+  "sub_subtopic": "EMERGENCY JOINT ASPIRATION AND DRAINAGE PATHWAY",
+  "heading_path": "BONE INFECTIONS;EMERGENCY CARE OF ACUTE SEPTIC ARTHRITIS;EMERGENCY JOINT ASPIRATION AND DRAINAGE PATHWAY;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1u1"
+}

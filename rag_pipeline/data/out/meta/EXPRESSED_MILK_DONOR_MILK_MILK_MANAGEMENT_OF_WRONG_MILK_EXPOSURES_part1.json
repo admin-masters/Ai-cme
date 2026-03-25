@@ -1,0 +1,47 @@
+{
+  "chunk_summary": "This section addresses the management of wrong milk exposures and administration errors in healthcare settings, focusing on expressed and donor milk. It highlights safety protocols, error prevention strategies, and corrective actions for incidents involving breast milk mix-ups.",
+  "learning_objectives": [
+    "Understand the risks and implications of wrong milk exposures in healthcare settings.",
+    "Learn protocols for managing breast milk administration errors effectively.",
+    "Identify preventive measures to reduce the likelihood of milk mix-ups.",
+    "Familiarize with guidelines for handling expressed and donor milk safely."
+  ],
+  "key_facts": [
+    "Breast milk mix-ups can pose risks of infectious disease transmission and allergic reactions.",
+    "Healthcare facilities should implement double-check systems to verify milk labeling and recipient identity.",
+    "The CDC recommends immediate reporting and evaluation of wrong milk exposures to assess potential health risks.",
+    "Proper storage and handling of expressed milk are critical to maintaining its safety and quality.",
+    "Training healthcare staff on milk handling protocols reduces administration errors."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Breast Milk",
+    "Milk Banks",
+    "Medical Errors",
+    "Patient Safety",
+    "Infectious Disease Transmission",
+    "Health Facility Administration",
+    "Human Milk",
+    "Risk Management"
+  ],
+  "tags_custom": [
+    "Milk mix-ups",
+    "Donor milk safety",
+    "Healthcare protocols",
+    "Error prevention"
+  ],
+  "reference_quote": "The CDC recommends immediate reporting and evaluation of wrong milk exposures to assess potential health risks. (Source: https://www.cdc.gov/breastfeeding/php/guidelinesrecommendations/other-mothers-)",
+  "document_key_topics": [
+    "Management of wrong milk exposures",
+    "Error prevention in milk administration",
+    "Safe handling of expressed and donor milk"
+  ],
+  "chunk_heading": "EXPRESSED MILK, DONOR MILK & MILK BANKING;MANAGEMENT OF WRONG MILK EXPOSURES AND ADMINISTRATION ERRORS;",
+  "topic": "EXPRESSED MILK, DONOR MILK & MILK BANKING",
+  "subtopic": "MANAGEMENT OF WRONG MILK EXPOSURES AND ADMINISTRATION ERRORS",
+  "sub_subtopic": null,
+  "heading_path": "EXPRESSED MILK, DONOR MILK & MILK BANKING;MANAGEMENT OF WRONG MILK EXPOSURES AND ADMINISTRATION ERRORS;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "2\u0082.2"
+}

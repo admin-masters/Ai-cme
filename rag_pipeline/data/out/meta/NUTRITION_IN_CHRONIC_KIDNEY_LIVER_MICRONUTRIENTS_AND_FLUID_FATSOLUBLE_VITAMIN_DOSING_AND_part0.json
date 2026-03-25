@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "This section discusses fat-soluble vitamin dosing, monitoring, and supplementation strategies in pediatric cholestasis, emphasizing individualized care, frequent monitoring, and specific dosing guidelines to prevent deficiencies and toxicities.",
+  "learning_objectives": [
+    "Understand the impact of cholestasis on fat-soluble vitamin absorption and the need for supplementation.",
+    "Learn specific dosing guidelines for vitamins A, D, E, and K in pediatric cholestasis.",
+    "Recognize the importance of monitoring schedules and interpreting lab results in the context of cholestasis.",
+    "Identify risks associated with vitamin toxicity and strategies to mitigate them."
+  ],
+  "key_facts": [
+    "Cholestasis impairs fat-soluble vitamin absorption, requiring water-miscible preparations and regular monitoring.",
+    "Vitamin A: 5000 IU/day (<10 kg) or 10,000 IU/day (>10 kg), with hepatotoxicity risk from excess dosing.",
+    "Vitamin D: 2000\u20135000 IU/day, titrated to serum levels.",
+    "Vitamin E: 15\u201325 IU/kg/day as TPGS, with deficiency best assessed using lipid-adjusted ratios.",
+    "Vitamin K: 2\u20135 mg/day, titrated to INR and bleeding risk; parenteral dosing reserved for coagulopathy due to anaphylactoid risk.",
+    "Monitoring frequency: Monthly in severe cases, every 3\u20136 months in stable patients."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Cholestasis",
+    "Fat-Soluble Vitamins",
+    "Vitamin A",
+    "Vitamin D",
+    "Vitamin E",
+    "Vitamin K",
+    "Pediatrics",
+    "Nutritional Deficiencies"
+  ],
+  "tags_custom": [
+    "Pediatric cholestasis",
+    "Vitamin supplementation",
+    "Nutritional monitoring",
+    "Fat-soluble vitamins",
+    "Liver disease management"
+  ],
+  "reference_quote": "Cholestasis causes malabsorption of fat-soluble vitamins, so supplementation must be paired with scheduled monitoring and dose adjustment rather than fixed 'one-time' dosing.",
+  "document_key_topics": [
+    "Fat-soluble vitamin dosing in cholestasis",
+    "Monitoring and lab interpretation in pediatric liver disease",
+    "Risks of vitamin deficiency and toxicity",
+    "Individualized supplementation strategies"
+  ],
+  "chunk_heading": "NUTRITION IN CHRONIC KIDNEY & LIVER DISEASE;MICRONUTRIENTS AND FLUID MANAGEMENT IN PEDIATRIC CHRONIC LIVER DISEASE;FAT-SOLUBLE VITAMIN DOSING AND MONITORING IN CHOLESTASIS;",
+  "topic": "NUTRITION IN CHRONIC KIDNEY & LIVER DISEASE",
+  "subtopic": "MICRONUTRIENTS AND FLUID MANAGEMENT IN PEDIATRIC CHRONIC LIVER DISEASE",
+  "sub_subtopic": "FAT-SOLUBLE VITAMIN DOSING AND MONITORING IN CHOLESTASIS",
+  "heading_path": "NUTRITION IN CHRONIC KIDNEY & LIVER DISEASE;MICRONUTRIENTS AND FLUID MANAGEMENT IN PEDIATRIC CHRONIC LIVER DISEASE;FAT-SOLUBLE VITAMIN DOSING AND MONITORING IN CHOLESTASIS;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "3\u007f1.1"
+}

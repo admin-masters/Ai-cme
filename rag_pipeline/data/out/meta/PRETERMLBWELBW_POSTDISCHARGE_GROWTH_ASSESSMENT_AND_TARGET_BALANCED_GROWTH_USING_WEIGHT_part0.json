@@ -1,0 +1,47 @@
+{
+  "chunk_summary": "Balanced growth assessment post-discharge for preterm/LBW/ELBW infants involves monitoring weight, length, and head circumference trajectories to ensure proportional development and avoid risks like overnutrition or inadequate brain growth.",
+  "learning_objectives": [
+    "Understand the importance of balanced growth assessment using weight, length, and head circumference post-discharge in preterm/LBW/ELBW infants.",
+    "Identify signs of growth faltering, including downward crossing of z-scores or percentile lines.",
+    "Learn strategies to prevent disproportionate catch-up growth and overnutrition risks in preterm infants."
+  ],
+  "key_facts": [
+    "Weight-only success can mask poor lean mass accretion, delayed linear growth, or inadequate brain growth.",
+    "AAP defines growth faltering risk as weight-for-age or weight-for-length falling very low or crossing two major percentile lines downward.",
+    "Head circumference is a proxy for brain growth; inadequate growth signals protein and intake concerns.",
+    "Weight-for-length >85th percentile is a trigger for revising supplementation per ABM protocol.",
+    "Excessive rapid catch-up growth increases later metabolic risk, emphasizing balanced catch-up over maximal weight gain."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Infant, Premature",
+    "Low Birth Weight Infant",
+    "Growth and Development",
+    "Head Circumference",
+    "Body Weight",
+    "Nutritional Status",
+    "Catch-Up Growth",
+    "Post-Discharge Care"
+  ],
+  "tags_custom": [
+    "balanced growth",
+    "growth faltering",
+    "nutrition protocols",
+    "post-discharge monitoring",
+    "metabolic risk"
+  ],
+  "reference_quote": "The ABM protocol uses >85th percentile weight-for-length as a trigger for revising supplementation, especially if length gain is lagging.",
+  "document_key_topics": [
+    "Balanced growth assessment post-discharge",
+    "Growth faltering risk and z-score monitoring",
+    "Preventing disproportionate catch-up growth"
+  ],
+  "chunk_heading": "PRETERM/LBW/ELBW POST-DISCHARGE NUTRITION;GROWTH ASSESSMENT AND TARGET SETTING AFTER DISCHARGE;BALANCED GROWTH USING WEIGHT LENGTH AND HEAD CIRCUMFERENCE;",
+  "topic": "PRETERM/LBW/ELBW POST-DISCHARGE NUTRITION",
+  "subtopic": "GROWTH ASSESSMENT AND TARGET SETTING AFTER DISCHARGE",
+  "sub_subtopic": "BALANCED GROWTH USING WEIGHT LENGTH AND HEAD CIRCUMFERENCE",
+  "heading_path": "PRETERM/LBW/ELBW POST-DISCHARGE NUTRITION;GROWTH ASSESSMENT AND TARGET SETTING AFTER DISCHARGE;BALANCED GROWTH USING WEIGHT LENGTH AND HEAD CIRCUMFERENCE;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1q5.1"
+}

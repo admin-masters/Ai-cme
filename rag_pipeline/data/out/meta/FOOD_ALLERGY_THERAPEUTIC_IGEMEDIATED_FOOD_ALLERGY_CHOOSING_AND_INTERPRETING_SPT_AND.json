@@ -1,0 +1,51 @@
+{
+  "chunk_summary": "Guidance on selecting and interpreting skin prick tests (SPT) and specific IgE (sIgE) for diagnosing IgE-mediated food allergies, emphasizing clinical context, test limitations, and resource-adapted strategies.",
+  "learning_objectives": [
+    "Understand the role of SPT and sIgE in confirming IgE-mediated food allergies.",
+    "Identify scenarios where SPT or sIgE testing is contraindicated or not feasible.",
+    "Learn resource-adapted strategies for managing suspected IgE-mediated allergies in limited settings.",
+    "Differentiate between sensitization and clinical allergy based on test results and history."
+  ],
+  "key_facts": [
+    "SPT and sIgE should only be used when pretest probability of IgE-mediated allergy is moderate to high.",
+    "A positive SPT or sIgE indicates sensitization, not clinical allergy, unless it aligns with a compatible reaction history.",
+    "Negative SPT or sIgE results lower the probability of IgE-mediated allergy but do not predict severity risk.",
+    "SPT is preferred when experienced operators and quality extracts are available, as results are immediate.",
+    "sIgE is recommended when SPT is contraindicated, such as in cases of severe eczema or inability to stop antihistamines.",
+    "For children with clear, reproducible immediate reactions but no access to SPT or sIgE, manage as likely IgE-mediated with avoidance, an emergency action plan, and referral for confirmatory testing or supervised oral food challenge (OFC).",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Food Hypersensitivity",
+    "Skin Tests",
+    "Immunoglobulin E",
+    "Allergy and Immunology",
+    "Eczema",
+    "Asthma",
+    "Oral Food Challenge",
+    "Emergency Treatment"
+  ],
+  "tags_custom": [
+    "IgE-mediated allergy",
+    "SPT vs sIgE",
+    "Food allergy diagnosis",
+    "Resource-limited settings",
+    "Allergy testing guidelines"
+  ],
+  "reference_quote": "Testing should confirm a well-founded clinical suspicion rather than create one. Start with a history that defines timing, organ systems, dose, and reproducibility; then choose targeted tests only when pretest probability is moderate to high. (Source: Rational Use of Allergy Testing, IAP Action Plan 2026)",
+  "document_key_topics": [
+    "Role of SPT and sIgE in food allergy diagnosis",
+    "Limitations and interpretation of allergy testing",
+    "Resource-adapted strategies for allergy management",
+    "Clinical differentiation between sensitization and allergy"
+  ],
+  "chunk_heading": "FOOD ALLERGY & THERAPEUTIC ELIMINATION DIETS;IGE-MEDIATED FOOD ALLERGY OUTPATIENT PATHWAY;CHOOSING AND INTERPRETING SPT AND SPECIFIC IGE;",
+  "topic": "FOOD ALLERGY & THERAPEUTIC ELIMINATION DIETS",
+  "subtopic": "IGE-MEDIATED FOOD ALLERGY OUTPATIENT PATHWAY",
+  "sub_subtopic": "CHOOSING AND INTERPRETING SPT AND SPECIFIC IGE",
+  "heading_path": "FOOD ALLERGY & THERAPEUTIC ELIMINATION DIETS;IGE-MEDIATED FOOD ALLERGY OUTPATIENT PATHWAY;CHOOSING AND INTERPRETING SPT AND SPECIFIC IGE;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1r2"
+}

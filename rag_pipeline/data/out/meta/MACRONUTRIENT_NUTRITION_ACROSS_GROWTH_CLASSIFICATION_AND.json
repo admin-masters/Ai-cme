@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "This section discusses pediatric growth classification and nutritional triage using WHO and IAP growth charts, emphasizing macronutrient decisions based on growth patterns and clinical indicators for children under 5 and those aged 5\u201318 years.",
+  "learning_objectives": [
+    "Understand the use of WHO growth standards for children under 5 and IAP growth charts for children aged 5\u201318 years.",
+    "Identify key growth indicators such as stunting, wasting, and overweight using z-scores and BMI-for-age.",
+    "Learn to triage pediatric nutritional needs based on growth patterns and clinical red flags.",
+    "Apply appropriate interventions for stunting, wasting, and other growth deviations in children."
+  ],
+  "key_facts": [
+    "WHO growth standards use z-scores: stunting is height-for-age < -2 SD, wasting is weight-for-height < -2 SD, and overweight is weight-for-height > +2 SD.",
+    "IAP 2015 growth charts for 5\u201318 years use BMI-for-age with adult-equivalent cut-offs: 23 for overweight risk and 27 for obesity risk in South Asian children.",
+    "Stunting with normal weight-for-height requires diet diversity and infection control, not short-term calorie increases unless wasting is present.",
+    "Negative energy balance (e.g., weight crossing down percentiles) requires intake quantification, red flag screening, and outpatient or inpatient care decisions.",
+    "Mini-case example: A 10-month-old with weight-for-length -3 SD and diarrhea needs dehydration care and energy-dense feeds during recovery."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Child Nutrition Disorders",
+    "Growth Charts",
+    "Body Mass Index",
+    "Stunting",
+    "Wasting Syndrome",
+    "Pediatric Obesity",
+    "Dietary Macronutrients",
+    "Nutrition Assessment"
+  ],
+  "tags_custom": [
+    "Pediatric growth",
+    "Nutritional triage",
+    "WHO standards",
+    "IAP charts",
+    "South Asian children"
+  ],
+  "reference_quote": "Revised IAP Growth Charts for Height, Weight and Body Mass Index for 5- to 18-year-old Indian Children (Indian Pediatrics, 2015).",
+  "document_key_topics": [
+    "WHO and IAP growth standards for children",
+    "Pediatric growth classification and z-scores",
+    "Nutritional triage and clinical interventions"
+  ],
+  "chunk_heading": "MACRONUTRIENT NUTRITION ACROSS CHILDHOOD;GROWTH CLASSIFICATION AND NUTRITIONAL TRIAGE USING WHO AND IAP CHARTS;",
+  "topic": "MACRONUTRIENT NUTRITION ACROSS CHILDHOOD",
+  "subtopic": "GROWTH CLASSIFICATION AND NUTRITIONAL TRIAGE USING WHO AND IAP CHARTS",
+  "sub_subtopic": null,
+  "heading_path": "MACRONUTRIENT NUTRITION ACROSS CHILDHOOD;GROWTH CLASSIFICATION AND NUTRITIONAL TRIAGE USING WHO AND IAP CHARTS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1a"
+}

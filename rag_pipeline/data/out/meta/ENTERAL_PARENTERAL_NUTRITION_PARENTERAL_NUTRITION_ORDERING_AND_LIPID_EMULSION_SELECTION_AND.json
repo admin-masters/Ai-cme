@@ -1,0 +1,47 @@
+{
+  "chunk_summary": "Guidelines for lipid emulsion selection and triglyceride monitoring in pediatric parenteral nutrition, emphasizing safe dosing, monitoring thresholds, and lipid type considerations to prevent complications like hypertriglyceridemia and essential fatty acid deficiency.",
+  "learning_objectives": [
+    "Understand the role of lipid emulsions in pediatric parenteral nutrition and their dosing guidelines.",
+    "Identify triglyceride action thresholds and appropriate responses to hypertriglyceridemia.",
+    "Evaluate the benefits and limitations of different lipid emulsion types, including soybean-based and fish-oil\u2013containing emulsions.",
+    "Recognize the risks of prolonged lipid avoidance, including essential fatty acid deficiency."
+  ],
+  "key_facts": [
+    "Typical pediatric lipid dosing is ~1\u20133 g/kg/day, with a maximum of ~3 g/kg/day in most children and up to ~4 g/kg/day in preterm/term infants under monitoring.",
+    "Lipids provide 25\u201350% of non-protein calories in many stable children.",
+    "Mixed-oil or fish-oil\u2013containing emulsions may reduce PN-associated cholestasis compared to pure soybean-based emulsions.",
+    "Triglyceride action thresholds: reduce lipid dose if >250 mg/dL (\u00bb2.8 mmol/L); hold lipids if >400 mg/dL (\u00bb4.5 mmol/L).",
+    "Prolonged lipid avoidance can lead to essential fatty acid deficiency."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Parenteral Nutrition",
+    "Lipid Emulsions",
+    "Hypertriglyceridemia",
+    "Essential Fatty Acids",
+    "Pediatric Nutrition",
+    "Soybean Oil",
+    "Fish Oils",
+    "Cholestasis"
+  ],
+  "tags_custom": [
+    "lipid dosing",
+    "triglyceride thresholds",
+    "pediatric PN safety",
+    "lipid emulsion types"
+  ],
+  "reference_quote": "Mixed-oil or fish-oil\u2013containing emulsions are often preferred in prolonged PN and intestinal failure because they may reduce risk of PN-associated cholestasis compared with pure soybean-based emulsions.",
+  "document_key_topics": [
+    "Lipid emulsion dosing and selection",
+    "Triglyceride monitoring and action thresholds",
+    "Prevention of PN-associated complications"
+  ],
+  "chunk_heading": "ENTERAL & PARENTERAL NUTRITION;PARENTERAL NUTRITION ORDERING AND CALCULATION SAFETY;LIPID EMULSION SELECTION AND TRIGLYCERIDE ACTION THRESHOLDS;",
+  "topic": "ENTERAL & PARENTERAL NUTRITION",
+  "subtopic": "PARENTERAL NUTRITION ORDERING AND CALCULATION SAFETY",
+  "sub_subtopic": "LIPID EMULSION SELECTION AND TRIGLYCERIDE ACTION THRESHOLDS",
+  "heading_path": "ENTERAL & PARENTERAL NUTRITION;PARENTERAL NUTRITION ORDERING AND CALCULATION SAFETY;LIPID EMULSION SELECTION AND TRIGLYCERIDE ACTION THRESHOLDS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2\u00853"
+}

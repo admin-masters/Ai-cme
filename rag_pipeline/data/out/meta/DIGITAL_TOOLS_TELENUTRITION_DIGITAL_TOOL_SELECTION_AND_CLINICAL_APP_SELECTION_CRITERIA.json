@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Guidelines for selecting child-safe clinical apps in tele-nutrition, emphasizing data protection, pediatric-specific features, and avoiding harmful practices like weight stigma.",
+  "learning_objectives": [
+    "Understand criteria for selecting clinician-facing digital tools in pediatric nutrition.",
+    "Identify harmful app features, including behavioral tracking and stigmatizing notifications.",
+    "Learn strategies to standardize clinic-approved growth calculators and diet logs.",
+    "Apply child-safe design principles to digital tools in pediatric weight management."
+  ],
+  "key_facts": [
+    "Clinician-facing tools must support indices like WAZ, HAZ, WHZ, and BAZ.",
+    "Child-safe apps should prohibit behavioral tracking and targeted advertising under data protection norms.",
+    "Avoid apps using adult BMI cut-offs or calorie targets without pediatric safeguards.",
+    "Weight stigma contributes to binge eating, social isolation, and avoidance of care.",
+    "Tools should allow data export into clinic records and provide offline functionality with low data use.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Telemedicine",
+    "Nutrition Therapy",
+    "Pediatrics",
+    "Child Safety",
+    "Body Mass Index",
+    "Data Protection",
+    "Behavioral Tracking",
+    "Weight Management"
+  ],
+  "tags_custom": [
+    "digital tools",
+    "child-safe design",
+    "clinical apps",
+    "weight stigma",
+    "tele-nutrition"
+  ],
+  "reference_quote": "Under child data protection norms, tools that perform behavioral tracking or targeted advertising directed at children create avoidable risk, even if the family 'agrees.'",
+  "document_key_topics": [
+    "Child-safe clinical app design",
+    "Avoiding harmful digital features in pediatric nutrition",
+    "Standardizing clinic-approved tools for growth and diet tracking"
+  ],
+  "chunk_heading": "DIGITAL TOOLS & TELE-NUTRITION;DIGITAL TOOL SELECTION AND CHILD-SAFE FEATURE DESIGN;CLINICAL APP SELECTION CRITERIA AND AVOIDING HARMFUL DIGITAL FEATURES;",
+  "topic": "DIGITAL TOOLS & TELE-NUTRITION",
+  "subtopic": "DIGITAL TOOL SELECTION AND CHILD-SAFE FEATURE DESIGN",
+  "sub_subtopic": "CLINICAL APP SELECTION CRITERIA AND AVOIDING HARMFUL DIGITAL FEATURES",
+  "heading_path": "DIGITAL TOOLS & TELE-NUTRITION;DIGITAL TOOL SELECTION AND CHILD-SAFE FEATURE DESIGN;CLINICAL APP SELECTION CRITERIA AND AVOIDING HARMFUL DIGITAL FEATURES;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1v1"
+}

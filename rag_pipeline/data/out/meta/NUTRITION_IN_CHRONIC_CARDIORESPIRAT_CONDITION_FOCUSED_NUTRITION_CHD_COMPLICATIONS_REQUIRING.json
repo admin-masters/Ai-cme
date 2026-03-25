@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Specialized nutrition algorithms for CHD complications address challenges like chylothorax, interstage growth failure, and protein-losing enteropathy, emphasizing tailored strategies for calorie delivery, protein supplementation, and monitoring fluid shifts and anthropometry.",
+  "learning_objectives": [
+    "Understand the role of specialized nutrition algorithms in managing CHD complications such as chylothorax and interstage growth failure.",
+    "Learn strategies for monitoring and addressing nutrition failure in single ventricle physiology and protein-losing enteropathy.",
+    "Identify numeric thresholds and red flags for intervention in CHD-related nutrition management.",
+    "Explore the use of MCT-rich formulas, defatted human milk, and supplemental PN in postoperative care."
+  ],
+  "key_facts": [
+    "Postoperative chylothorax requires reduced LCT intake, MCT-rich formulas, and monitoring chest drain output (>10 mL/kg/day or stagnant over 48\u201372 hours).",
+    "Interstage growth failure in single ventricle physiology necessitates steady weight gain monitoring, with red flags like no weight gain over 2\u20133 days or feeds >20\u201330 minutes with tachypnea.",
+    "Protein-losing enteropathy after Fontan surgery demands higher protein intake, low-LCT/MCT strategies, and fat-soluble vitamin supplementation.",
+    "Fluid shifts, lymph loss, and venous congestion distort anthropometry, making weight unreliable for assessing nutrition status.",
+    "Supplemental PN should be initiated if enteral delivery fails to meet 60\u201375% of targets to prevent severe hypoalbuminemia and edema."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Congenital Heart Defects",
+    "Chylothorax",
+    "Protein-Losing Enteropathy",
+    "Nutrition Therapy",
+    "Medium-Chain Triglycerides",
+    "Postoperative Care",
+    "Anthropometry",
+    "Growth Failure"
+  ],
+  "tags_custom": [
+    "CHD nutrition algorithms",
+    "pediatric cardiology nutrition",
+    "specialized feeding strategies",
+    "postoperative nutrition care",
+    "interstage growth monitoring"
+  ],
+  "reference_quote": "Several CHD complications predict rapid nutrition failure and require condition-specific algorithms rather than generic 'increase calories.'",
+  "document_key_topics": [
+    "Nutrition management in CHD complications",
+    "Postoperative chylothorax care",
+    "Interstage growth failure in single ventricle physiology",
+    "Protein-losing enteropathy after Fontan surgery"
+  ],
+  "chunk_heading": "NUTRITION IN CHRONIC CARDIORESPIRATORY DISEASE;CONDITION FOCUSED NUTRITION PATHWAYS FOR CHD CLD AND CF;CHD COMPLICATIONS REQUIRING SPECIALIZED NUTRITION ALGORITHMS;",
+  "topic": "NUTRITION IN CHRONIC CARDIORESPIRATORY DISEASE",
+  "subtopic": "CONDITION FOCUSED NUTRITION PATHWAYS FOR CHD CLD AND CF",
+  "sub_subtopic": "CHD COMPLICATIONS REQUIRING SPECIALIZED NUTRITION ALGORITHMS",
+  "heading_path": "NUTRITION IN CHRONIC CARDIORESPIRATORY DISEASE;CONDITION FOCUSED NUTRITION PATHWAYS FOR CHD CLD AND CF;CHD COMPLICATIONS REQUIRING SPECIALIZED NUTRITION ALGORITHMS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u008e2"
+}

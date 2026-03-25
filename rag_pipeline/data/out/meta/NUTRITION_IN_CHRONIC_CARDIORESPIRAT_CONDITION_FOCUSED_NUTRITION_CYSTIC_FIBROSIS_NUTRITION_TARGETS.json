@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Cystic fibrosis nutrition targets focus on growth-linked outcomes, energy needs exceeding healthy peers, and precise PERT titration to manage malabsorption and improve weight velocity.",
+  "learning_objectives": [
+    "Understand the role of nutrition as a disease-modifying therapy in cystic fibrosis.",
+    "Learn how to set growth-linked nutritional targets for children with CF based on age-specific percentiles.",
+    "Master the principles of PERT titration, including dosing guidelines and monitoring endpoints.",
+    "Recognize the importance of early intervention with enteral feeding to prevent severe wasting."
+  ],
+  "key_facts": [
+    "For children under 2 years, aim for weight-for-length (WFL) at or above the 50th percentile; for ages 2\u201320 years, aim for BMI at or above the 50th percentile.",
+    "Energy needs in CF often range from 110\u2013200% of typical requirements, individualized to infection burden and growth response.",
+    "PERT dosing: 2,000\u20134,000 lipase units per 120 mL formula for infants; 500\u20132,500 units/kg/meal and 250\u20131,250 units/kg/snack for older children.",
+    "Fecal elastase <200 \u00b5g/g confirms exocrine pancreatic insufficiency; if unavailable, use supervised PERT trials based on symptoms and weight velocity.",
+    "Avoid sustained PERT doses >10,000 units/kg/day or >6,000 units/kg/meal to prevent complications."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Cystic Fibrosis",
+    "Nutrition Therapy",
+    "Pancreatic Enzyme Replacement Therapy",
+    "Malnutrition",
+    "Growth Disorders",
+    "Energy Metabolism",
+    "Enteral Nutrition",
+    "Exocrine Pancreatic Insufficiency"
+  ],
+  "tags_custom": [
+    "CF nutrition targets",
+    "PERT dosing guidelines",
+    "growth monitoring",
+    "malabsorption management",
+    "enteral feeding strategies"
+  ],
+  "reference_quote": "Exocrine pancreatic insufficiency is a dominant, treatable driver of malnutrition, and PERT functions like a high-impact 'nutrition drug.'",
+  "document_key_topics": [
+    "Growth-linked nutritional targets in cystic fibrosis",
+    "Energy requirements and escalation strategies",
+    "Pancreatic enzyme replacement therapy (PERT) titration",
+    "Early intervention with enteral feeding to prevent wasting"
+  ],
+  "chunk_heading": "NUTRITION IN CHRONIC CARDIORESPIRATORY DISEASE;CONDITION FOCUSED NUTRITION  PATHWAYS FOR CHD CLD AND CF;CYSTIC FIBROSIS NUTRITION TARGETS AND PERT  TITRATION;",
+  "topic": "NUTRITION IN CHRONIC CARDIORESPIRATORY DISEASE",
+  "subtopic": "CONDITION FOCUSED NUTRITION  PATHWAYS FOR CHD CLD AND CF",
+  "sub_subtopic": "CYSTIC FIBROSIS NUTRITION TARGETS AND PERT  TITRATION",
+  "heading_path": "NUTRITION IN CHRONIC CARDIORESPIRATORY DISEASE;CONDITION FOCUSED NUTRITION  PATHWAYS FOR CHD CLD AND CF;CYSTIC FIBROSIS NUTRITION TARGETS AND PERT  TITRATION;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1\u00912"
+}

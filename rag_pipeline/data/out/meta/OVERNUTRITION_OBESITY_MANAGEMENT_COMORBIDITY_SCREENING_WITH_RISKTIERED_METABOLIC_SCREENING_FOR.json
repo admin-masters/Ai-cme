@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Risk-tiered metabolic screening for overweight and severe obesity integrates weight category and risk signals to guide screening intensity, particularly for South Asian phenotypes with early cardiometabolic risks.",
+  "learning_objectives": [
+    "Understand the risk-tiered approach to metabolic screening based on weight category and risk signals.",
+    "Identify specific screening protocols for overweight and obese children aged \u226510 years.",
+    "Recognize the importance of early screening in South Asian phenotypes with lower adiposity thresholds.",
+    "Apply practical tiers for clinic notes to ensure reproducible screening intensity."
+  ],
+  "key_facts": [
+    "Children aged \u226510 years with obesity should be screened for lipids, glucose metabolism, and steatotic liver disease at baseline.",
+    "Overweight children with risk factors require earlier screening, including fasting lipids, fasting glucose, HbA1c, and ALT, with reassessment in 12 months or sooner if trajectory worsens.",
+    "Obesity with severe phenotype or rapid progression warrants intensified follow-up and retesting within 3\u20136 months for dysglycemia and ALT trends.",
+    "South Asian phenotypes exhibit cardiometabolic risks earlier and at lower adiposity levels compared to other populations.",
+    "Low-risk overweight children can receive lifestyle interventions and age-based lipid screening with routine trajectory reassessment."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Obesity",
+    "Overweight",
+    "Metabolic Syndrome",
+    "Cardiometabolic Risk",
+    "Pediatric Obesity",
+    "Screening",
+    "South Asian Ethnicity",
+    "Risk Assessment"
+  ],
+  "tags_custom": [
+    "risk-tiered screening",
+    "childhood obesity management",
+    "South Asian health risks",
+    "metabolic screening protocols",
+    "early cardiometabolic intervention"
+  ],
+  "reference_quote": "For children aged \u226510 years with obesity, evaluate lipids, abnormal glucose metabolism, and steatotic liver disease risk at baseline. For children aged \u226510 years with overweight, screen when additional risk factors are present rather than applying a fixed laboratory bundle to all. (Source: Indian Academy of Pediatrics guidelines)",
+  "document_key_topics": [
+    "Risk-tiered metabolic screening",
+    "Comorbidity screening in pediatric obesity",
+    "South Asian cardiometabolic risk factors",
+    "Screening protocols for overweight and obesity"
+  ],
+  "chunk_heading": "OVERNUTRITION & OBESITY MANAGEMENT;COMORBIDITY SCREENING WITH ACTIONABLE PATHWAYS;RISK-TIERED METABOLIC SCREENING FOR OVERWEIGHT AND SEVERE OBESITY;",
+  "topic": "OVERNUTRITION & OBESITY MANAGEMENT",
+  "subtopic": "COMORBIDITY SCREENING WITH ACTIONABLE PATHWAYS",
+  "sub_subtopic": "RISK-TIERED METABOLIC SCREENING FOR OVERWEIGHT AND SEVERE OBESITY",
+  "heading_path": "OVERNUTRITION & OBESITY MANAGEMENT;COMORBIDITY SCREENING WITH ACTIONABLE PATHWAYS;RISK-TIERED METABOLIC SCREENING FOR OVERWEIGHT AND SEVERE OBESITY;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1p2"
+}

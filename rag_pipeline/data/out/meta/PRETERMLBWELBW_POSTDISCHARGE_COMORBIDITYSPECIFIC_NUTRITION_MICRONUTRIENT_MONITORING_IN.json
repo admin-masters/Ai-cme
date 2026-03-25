@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "Micronutrient monitoring in post-NEC and intestinal resection survivors focuses on addressing malabsorption, growth failure, and specific deficiencies (e.g., B12, fat-soluble vitamins) through structured surveillance and phenotype-based assessments post-discharge.",
+  "learning_objectives": [
+    "Understand the role of micronutrient monitoring in post-NEC and intestinal resection survivors.",
+    "Identify risk factors for specific deficiencies based on intestinal anatomy and symptoms.",
+    "Learn appropriate surveillance intervals and clinical proxies for monitoring malabsorption.",
+    "Recognize when to refer to pediatric gastroenterology or intestinal rehabilitation teams."
+  ],
+  "key_facts": [
+    "Ileal resection increases the risk of vitamin B12 deficiency and bile acid malabsorption.",
+    "Extensive small-bowel loss raises risks of fat-soluble vitamin (A/D/E/K) deficiency, zinc loss, and electrolyte depletion.",
+    "High stool output or watery stools can lead to chronic sodium and water losses, mimicking poor feeding.",
+    "Periodic checks every 1\u20133 months are recommended for high-risk infants post-discharge.",
+    "Clinical proxies for malabsorption include persistent diarrhea, poor linear growth, perianal rash, and recurrent dehydration.",
+    "Human milk is preferred, with fortification or specialized formulas as needed, but formula cycling without assessment is discouraged."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Necrotizing Enterocolitis",
+    "Short Bowel Syndrome",
+    "Micronutrients",
+    "Malabsorption Syndromes",
+    "Vitamin B12 Deficiency",
+    "Fat-Soluble Vitamins",
+    "Growth Disorders",
+    "Pediatric Gastroenterology"
+  ],
+  "tags_custom": [
+    "post-NEC nutrition",
+    "intestinal resection care",
+    "micronutrient surveillance",
+    "feeding tolerance",
+    "hydration monitoring"
+  ],
+  "reference_quote": "Ileal resection increases risk of vitamin B12 deficiency and bile acid malabsorption; extensive small-bowel loss increases risk of fat-soluble vitamin deficiency, zinc loss, and electrolyte depletion. (Source: University of Virginia GI Nutrition, Infants with NEC: nutritional management)",
+  "document_key_topics": [
+    "Micronutrient deficiencies in post-NEC survivors",
+    "Phenotype-based monitoring and clinical proxies",
+    "Feeding strategies post-intestinal resection",
+    "Referral to pediatric gastroenterology or rehabilitation teams"
+  ],
+  "chunk_heading": "PRETERM/LBW/ELBW POST-DISCHARGE NUTRITION;COMORBIDITY-SPECIFIC NUTRITION MODIFICATIONS AFTER DISCHARGE;MICRONUTRIENT MONITORING IN POST-NEC AND INTESTINAL RESECTION SURVIVORS;",
+  "topic": "PRETERM/LBW/ELBW POST-DISCHARGE NUTRITION",
+  "subtopic": "COMORBIDITY-SPECIFIC NUTRITION MODIFICATIONS AFTER DISCHARGE",
+  "sub_subtopic": "MICRONUTRIENT MONITORING IN POST-NEC AND INTESTINAL RESECTION SURVIVORS",
+  "heading_path": "PRETERM/LBW/ELBW POST-DISCHARGE NUTRITION;COMORBIDITY-SPECIFIC NUTRITION MODIFICATIONS AFTER DISCHARGE;MICRONUTRIENT MONITORING IN POST-NEC AND INTESTINAL RESECTION SURVIVORS;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "2\u00974"
+}

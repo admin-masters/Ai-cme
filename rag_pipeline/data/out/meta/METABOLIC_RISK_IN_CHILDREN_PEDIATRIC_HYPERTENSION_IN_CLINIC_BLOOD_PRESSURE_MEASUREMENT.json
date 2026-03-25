@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "This section discusses accurate blood pressure measurement techniques and percentile-based classification for pediatric hypertension in metabolic risk clinics, emphasizing the importance of standardized methods and age-specific thresholds.",
+  "learning_objectives": [
+    "Understand the importance of accurate blood pressure measurement in children with obesity-related metabolic risk.",
+    "Learn the standardized technique for clinic-based blood pressure measurement in pediatric patients.",
+    "Identify age-specific and percentile-based thresholds for classifying pediatric hypertension.",
+    "Recognize the limitations of oscillometric devices and the need for auscultatory confirmation."
+  ],
+  "key_facts": [
+    "Obesity-related cardiometabolic risk may first present as elevated blood pressure.",
+    "For ages 1 to <13 years, normal BP is <90th percentile; elevated BP is \u226590th to <95th percentile; stage 1 hypertension is \u226595th to <95th+12 mmHg; stage 2 hypertension is \u226595th+12 mmHg.",
+    "For adolescents \u226513 years, adult-aligned thresholds are used: normal <120/<80 mmHg; elevated 120/<80 to 129/<80 mmHg; stage 1 hypertension 130/80 to 139/89 mmHg; stage 2 hypertension \u2265140/90 mmHg.",
+    "Oscillometric devices can overestimate BP compared to auscultation; confirm elevated readings with auscultation.",
+    "Use a cuff with bladder length encircling 80\u2013100% of arm circumference and width at least 40% of mid-arm circumference."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Hypertension",
+    "Blood Pressure Determination",
+    "Pediatrics",
+    "Obesity",
+    "Cardiometabolic Risk",
+    "Blood Pressure Monitoring",
+    "Clinical Guidelines"
+  ],
+  "tags_custom": [
+    "pediatric hypertension",
+    "metabolic risk clinics",
+    "BP percentile classification",
+    "oscillometric vs auscultation",
+    "India-specific guidelines"
+  ],
+  "reference_quote": "Accurate BP measurement is foundational because obesity-related cardiometabolic risk may first present as elevated BP, and mismeasurement is a leading cause of over- and under-diagnosis.",
+  "document_key_topics": [
+    "Pediatric hypertension classification",
+    "Standardized blood pressure measurement techniques",
+    "Age-specific and percentile-based BP thresholds",
+    "Limitations of oscillometric devices in BP measurement"
+  ],
+  "chunk_heading": "METABOLIC RISK IN CHILDREN;PEDIATRIC HYPERTENSION IN METABOLIC RISK CLINICS;CLINIC BLOOD PRESSURE MEASUREMENT AND PERCENTILE CLASSIFICATION;",
+  "topic": "METABOLIC RISK IN CHILDREN",
+  "subtopic": "PEDIATRIC HYPERTENSION IN METABOLIC RISK CLINICS",
+  "sub_subtopic": "CLINIC BLOOD PRESSURE MEASUREMENT AND PERCENTILE CLASSIFICATION",
+  "heading_path": "METABOLIC RISK IN CHILDREN;PEDIATRIC HYPERTENSION IN METABOLIC RISK CLINICS;CLINIC BLOOD PRESSURE MEASUREMENT AND PERCENTILE CLASSIFICATION;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1r1"
+}

@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Guidelines for recording screenshots and clinical media in pediatric tele-nutrition emphasize explicit consent, secure storage, and layered documentation to ensure compliance with telemedicine practices and data protection laws in India.",
+  "learning_objectives": [
+    "Understand the importance of explicit and layered consent in tele-nutrition media documentation.",
+    "Learn best practices for secure storage and access control of clinical media in pediatric tele-nutrition.",
+    "Identify scenarios where recording teleconsultations is clinically justified and permissible.",
+    "Explore regulatory requirements for handling caregiver-owned recordings and child-specific media."
+  ],
+  "key_facts": [
+    "Recording teleconsultations should be optional and clinically justified, with a defined purpose such as training or quality audits.",
+    "Consent must be explicit, caregiver-specific, and documented, including details on storage location, retention period, and access control.",
+    "Child-specific media (e.g., feeding clips, meal photos) requires separate consent due to its durable nature.",
+    "Clinically required media must be stored in a clinic-controlled repository with role-based access; personal galleries are prohibited.",
+    "Retention timers should be applied to ensure media is deleted when no longer required for care or legal purposes.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Telemedicine",
+    "Nutrition Therapy",
+    "Pediatrics",
+    "Informed Consent",
+    "Data Storage",
+    "Medical Records",
+    "Privacy",
+    "Digital Health"
+  ],
+  "tags_custom": [
+    "tele-nutrition guidelines",
+    "clinical media consent",
+    "pediatric telemedicine",
+    "data protection",
+    "secure storage practices"
+  ],
+  "reference_quote": "Consent should be explicit, caregiver-specific, and documented in the tele-note. If the clinic records audio/video, obtain informed consent from the caregiver/guardian and document the purpose, storage location, retention period, and who can access it. (Telemedicine Practice Guidelines, MoHFW/Board of Governors, 2020)",
+  "document_key_topics": [
+    "Consent documentation for tele-nutrition media",
+    "Secure storage and access control for clinical media",
+    "Regulatory scope for pediatric tele-nutrition in India"
+  ],
+  "chunk_heading": "DIGITAL TOOLS & TELE-NUTRITION;GUIDELINE FOUNDATIONS AND REGULATORY SCOPE FOR TELE-NUTRITION IN INDIA;RECORDING SCREENSHOTS  AND CLINICAL MEDIA CONSENT DOCUMENTATION RULES;",
+  "topic": "DIGITAL TOOLS & TELE-NUTRITION",
+  "subtopic": "GUIDELINE FOUNDATIONS AND REGULATORY SCOPE FOR TELE-NUTRITION IN INDIA",
+  "sub_subtopic": "RECORDING SCREENSHOTS  AND CLINICAL MEDIA CONSENT DOCUMENTATION RULES",
+  "heading_path": "DIGITAL TOOLS & TELE-NUTRITION;GUIDELINE FOUNDATIONS AND REGULATORY SCOPE FOR TELE-NUTRITION IN INDIA;RECORDING SCREENSHOTS  AND CLINICAL MEDIA CONSENT DOCUMENTATION RULES;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "1d3"
+}

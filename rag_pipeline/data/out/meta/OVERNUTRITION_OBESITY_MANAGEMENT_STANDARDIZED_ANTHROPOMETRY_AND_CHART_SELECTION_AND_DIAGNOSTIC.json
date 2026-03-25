@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "This section discusses the selection of age-appropriate anthropometric charts and diagnostic thresholds for overnutrition and obesity in children, emphasizing WHO standards for under-5s and IAP BMI charts for ages 5\u201318 in Indian practice.",
+  "learning_objectives": [
+    "Understand the importance of accurate chart selection in pediatric obesity diagnosis.",
+    "Learn the WHO weight-for-length/height thresholds for children under 5 years.",
+    "Apply IAP 2015 BMI charts and thresholds for children aged 5\u201318 years in Indian practice.",
+    "Recognize the risks of mixing chart systems and the need for consistent documentation."
+  ],
+  "key_facts": [
+    "For children under 5 years, use WHO weight-for-length (0\u201324 months) or weight-for-height (24\u201359 months) charts.",
+    "Overweight is defined as > +2 SD and obesity as > +3 SD above the median for under-5s.",
+    "For children aged 5\u201318 years in Indian practice, use IAP 2015 BMI charts with overweight at adult-equivalent BMI 23 and obesity at BMI 27.",
+    "Severe obesity in IAP charts is classified as class 2 (120\u2013140% of BMI 27) and class 3 (\u2265140% of BMI 27).",
+    "Avoid mixing percentile-based systems (e.g., AAP) with IAP charts to ensure consistent clinical decisions."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Pediatric Obesity",
+    "Anthropometry",
+    "Body Mass Index",
+    "Overweight",
+    "Obesity",
+    "Growth Charts",
+    "Child Nutrition",
+    "Risk Assessment"
+  ],
+  "tags_custom": [
+    "IAP BMI charts",
+    "WHO growth standards",
+    "Pediatric obesity diagnosis",
+    "South Asian health"
+  ],
+  "reference_quote": "For children younger than 5 years, use WHO weight-for-length (0\u201324 months) or weight-for-height (24\u201359 months). Interpret overweight as > +2 SD and obesity as > +3 SD above the median.",
+  "document_key_topics": [
+    "WHO growth standards for under-5s",
+    "IAP 2015 BMI charts for ages 5\u201318",
+    "Diagnostic thresholds for pediatric obesity",
+    "Avoiding charting errors in clinical practice"
+  ],
+  "chunk_heading": "OVERNUTRITION & OBESITY MANAGEMENT;STANDARDIZED ANTHROPOMETRY AND CHART-BASED DIAGNOSIS;CHART SELECTION AND DIAGNOSTIC THRESHOLDS ACROSS AGE GROUPS;",
+  "topic": "OVERNUTRITION & OBESITY MANAGEMENT",
+  "subtopic": "STANDARDIZED ANTHROPOMETRY AND CHART-BASED DIAGNOSIS",
+  "sub_subtopic": "CHART SELECTION AND DIAGNOSTIC THRESHOLDS ACROSS AGE GROUPS",
+  "heading_path": "OVERNUTRITION & OBESITY MANAGEMENT;STANDARDIZED ANTHROPOMETRY AND CHART-BASED DIAGNOSIS;CHART SELECTION AND DIAGNOSTIC THRESHOLDS ACROSS AGE GROUPS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1e1"
+}

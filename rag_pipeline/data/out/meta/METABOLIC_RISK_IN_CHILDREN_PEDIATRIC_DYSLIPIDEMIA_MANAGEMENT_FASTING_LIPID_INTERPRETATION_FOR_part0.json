@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section discusses fasting lipid interpretation in pediatric insulin-resistance dyslipidemia, emphasizing triglycerides, HDL-C, and non-HDL-C cutpoints for metabolic risk management using NHLBI guidelines.",
+  "learning_objectives": [
+    "Understand the lipid profile patterns associated with pediatric insulin-resistance dyslipidemia.",
+    "Learn NHLBI cutpoints for triglycerides, HDL-C, and non-HDL-C in children and adolescents.",
+    "Identify secondary causes of dyslipidemia relevant to Indian practice before diagnosing primary dyslipidemia.",
+    "Differentiate between fasting and nonfasting lipid testing strategies for universal screening and metabolic risk clinics."
+  ],
+  "key_facts": [
+    "Insulin-resistance dyslipidemia is characterized by high triglycerides, low HDL-C, and elevated non-HDL-C.",
+    "NHLBI triglyceride cutpoints: ages 0\u20139 acceptable <75 mg/dL, borderline 75\u201399, high \u2265100; ages 10\u201319 acceptable <90, borderline 90\u2013129, high \u2265130.",
+    "NHLBI HDL-C cutpoints: acceptable >45 mg/dL, borderline 40\u201345, low <40.",
+    "Non-HDL-C cutpoints: acceptable <120 mg/dL, borderline 120\u2013144, high \u2265145.",
+    "Non-HDL-C testing is useful in nonfasting states and captures all atherogenic particles."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Dyslipidemias",
+    "Insulin Resistance",
+    "Pediatrics",
+    "Triglycerides",
+    "HDL Cholesterol",
+    "Non-HDL Cholesterol",
+    "Metabolic Syndrome",
+    "Obesity"
+  ],
+  "tags_custom": [
+    "pediatric dyslipidemia",
+    "insulin-resistance phenotype",
+    "fasting lipid testing",
+    "NHLBI guidelines",
+    "secondary dyslipidemia causes"
+  ],
+  "reference_quote": "Use the NHLBI pediatric cutpoints for interpretation: Triglycerides ages 0\u20139 acceptable <75 mg/dL, borderline 75\u201399, high \u2265100; ages 10\u201319 acceptable <90, borderline 90\u2013129, high \u2265130.",
+  "document_key_topics": [
+    "Insulin-resistance dyslipidemia in children",
+    "NHLBI lipid cutpoints for pediatric dyslipidemia",
+    "Fasting versus nonfasting lipid testing strategies",
+    "Secondary causes of dyslipidemia in Indian practice"
+  ],
+  "chunk_heading": "METABOLIC RISK IN CHILDREN;PEDIATRIC DYSLIPIDEMIA MANAGEMENT FOR METABOLIC RISK;FASTING LIPID INTERPRETATION FOR INSULIN RESISTANCE PHENOTYPE;",
+  "topic": "METABOLIC RISK IN CHILDREN",
+  "subtopic": "PEDIATRIC DYSLIPIDEMIA MANAGEMENT FOR METABOLIC RISK",
+  "sub_subtopic": "FASTING LIPID INTERPRETATION FOR INSULIN RESISTANCE PHENOTYPE",
+  "heading_path": "METABOLIC RISK IN CHILDREN;PEDIATRIC DYSLIPIDEMIA MANAGEMENT FOR METABOLIC RISK;FASTING LIPID INTERPRETATION FOR INSULIN RESISTANCE PHENOTYPE;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1\u008a1.1"
+}

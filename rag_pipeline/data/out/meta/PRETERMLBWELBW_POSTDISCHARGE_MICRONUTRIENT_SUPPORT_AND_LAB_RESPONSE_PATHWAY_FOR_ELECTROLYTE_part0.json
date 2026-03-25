@@ -1,0 +1,47 @@
+{
+  "chunk_summary": "Guidelines for managing electrolyte derangements in preterm/LBW/ELBW infants post-discharge, focusing on feeding errors, diuretic effects, and monitoring protocols to prevent complications like growth failure and dehydration.",
+  "learning_objectives": [
+    "Understand the causes and risks of electrolyte derangements in preterm/LBW/ELBW infants post-discharge.",
+    "Learn the stepwise approach to assess and correct electrolyte abnormalities, including feeding and hydration evaluation.",
+    "Recognize the importance of timely electrolyte monitoring and growth tracking in high-risk infants.",
+    "Identify appropriate interventions for specific conditions like hyponatremia, hypernatremia, and hypochloremic metabolic alkalosis."
+  ],
+  "key_facts": [
+    "Electrolyte derangements can result from concentrated feeds, reduced free water, or diuretic use.",
+    "Chronic hypochloremia and hyponatremia can impair growth and respiratory status in preterm infants.",
+    "For hypernatremia, stop unsafe feed concentration, provide free water, and escalate care if needed.",
+    "Electrolytes should be rechecked 1\u20132 weeks after any adjustment, or sooner in high-risk cases.",
+    "Tier 3 infants require an early electrolyte check at 2\u20134 weeks post-discharge, especially with diuretics or feed changes."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Electrolyte Imbalance",
+    "Infant, Premature",
+    "Infant, Low Birth Weight",
+    "Hyponatremia",
+    "Hypernatremia",
+    "Diuretics",
+    "Growth Disorders",
+    "Postnatal Care"
+  ],
+  "tags_custom": [
+    "Electrolyte management",
+    "Preterm infant nutrition",
+    "Post-discharge care",
+    "Growth monitoring"
+  ],
+  "reference_quote": "Electrolyte derangements are a predictable complication when feeds are concentrated, when total free water is reduced, or when loop/thiazide diuretics are continued after discharge.",
+  "document_key_topics": [
+    "Electrolyte derangements in preterm infants",
+    "Impact of feeding errors and diuretics on electrolytes",
+    "Monitoring and intervention protocols for electrolyte abnormalities"
+  ],
+  "chunk_heading": "PRETERM/LBW/ELBW POST-DISCHARGE NUTRITION;MICRONUTRIENT SUPPORT AND LAB MONITORING AFTER DISCHARGE;RESPONSE PATHWAY FOR ELECTROLYTE DERANGEMENTS AFTER DISCHARGE;",
+  "topic": "PRETERM/LBW/ELBW POST-DISCHARGE NUTRITION",
+  "subtopic": "MICRONUTRIENT SUPPORT AND LAB MONITORING AFTER DISCHARGE",
+  "sub_subtopic": "RESPONSE PATHWAY FOR ELECTROLYTE DERANGEMENTS AFTER DISCHARGE",
+  "heading_path": "PRETERM/LBW/ELBW POST-DISCHARGE NUTRITION;MICRONUTRIENT SUPPORT AND LAB MONITORING AFTER DISCHARGE;RESPONSE PATHWAY FOR ELECTROLYTE DERANGEMENTS AFTER DISCHARGE;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2\u008b7.1"
+}

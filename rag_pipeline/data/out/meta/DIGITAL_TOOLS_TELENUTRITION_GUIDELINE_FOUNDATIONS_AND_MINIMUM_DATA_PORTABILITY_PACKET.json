@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "This section outlines the minimum data portability requirements for tele-nutrition in India, focusing on standardized data export for longitudinal growth and nutrition care to ensure clinical safety and interoperability.",
+  "learning_objectives": [
+    "Understand the importance of data portability in longitudinal pediatric nutrition care.",
+    "Identify the three key bundles required for standardized tele-nutrition data export.",
+    "Learn how to implement de-duplication rules to minimize identity errors in shared-phone households.",
+    "Explore the role of FHIR standards in tele-nutrition data interoperability."
+  ],
+  "key_facts": [
+    "Data portability prevents rework, misclassification, and ensures medico-legal defensibility in pediatric care.",
+    "The minimum data packet includes three bundles: growth and measurement, clinical decisions, and plan/versioning.",
+    "Growth data must include anthropometry with units, methods, confidence grades, and locked growth references to prevent replotting errors.",
+    "De-duplication rules should match by ABHA or child name + DOB + caregiver phone, flagging near-matches for manual review.",
+    "Tele-nutrition tools must support one-click export in structured formats like FHIR bundles.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Telemedicine",
+    "Nutrition Therapy",
+    "Pediatrics",
+    "Electronic Health Records",
+    "Data Portability",
+    "Growth Charts",
+    "Interoperability",
+    "Health Information Exchange"
+  ],
+  "tags_custom": [
+    "Tele-nutrition guidelines",
+    "Pediatric growth tracking",
+    "Data interoperability",
+    "ABHA integration",
+    "FHIR standards"
+  ],
+  "reference_quote": "Electronic Health Record Standards for India, 2016: 'Data portability is essential for ensuring continuity of care and interoperability across health systems.'",
+  "document_key_topics": [
+    "Data portability in tele-nutrition",
+    "Standardized export for longitudinal growth care",
+    "De-duplication and identity matching in shared-phone households",
+    "FHIR-based interoperability for tele-nutrition tools"
+  ],
+  "chunk_heading": "DIGITAL TOOLS & TELE-NUTRITION;GUIDELINE FOUNDATIONS AND REGULATORY SCOPE FOR TELE-NUTRITION IN INDIA;MINIMUM DATA PORTABILITY PACKET FOR LONGITUDINAL GROWTH AND NUTRITION CARE;",
+  "topic": "DIGITAL TOOLS & TELE-NUTRITION",
+  "subtopic": "GUIDELINE FOUNDATIONS AND REGULATORY SCOPE FOR TELE-NUTRITION IN INDIA",
+  "sub_subtopic": "MINIMUM DATA PORTABILITY PACKET FOR LONGITUDINAL GROWTH AND NUTRITION CARE",
+  "heading_path": "DIGITAL TOOLS & TELE-NUTRITION;GUIDELINE FOUNDATIONS AND REGULATORY SCOPE FOR TELE-NUTRITION IN INDIA;MINIMUM DATA PORTABILITY PACKET FOR LONGITUDINAL GROWTH AND NUTRITION CARE;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "1g6"
+}

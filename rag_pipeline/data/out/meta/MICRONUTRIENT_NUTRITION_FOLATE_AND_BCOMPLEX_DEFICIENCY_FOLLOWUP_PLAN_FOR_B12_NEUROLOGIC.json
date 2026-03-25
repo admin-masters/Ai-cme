@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "This section outlines the follow-up plan for infants and children with neurologic presentations of vitamin B12 deficiency, emphasizing early treatment, structured follow-up, and red flags for escalation.",
+  "learning_objectives": [
+    "Understand the clinical presentation of vitamin B12 deficiency with neurologic symptoms in infancy and early childhood.",
+    "Learn the immediate treatment principles, including prioritization of parenteral B12 therapy.",
+    "Identify key components of baseline documentation and structured follow-up for affected children.",
+    "Recognize red flags requiring urgent escalation in B12 deficiency cases."
+  ],
+  "key_facts": [
+    "Vitamin B12 deficiency in infancy can present with neuroregression, tremor, hypotonia, irritability, seizures, or feeding refusal, often without anemia.",
+    "Immediate treatment should prioritize parenteral B12 therapy over oral therapy if neurologic symptoms are present.",
+    "Baseline documentation should include milestones, regression timeline, tone, reflexes, head circumference, and feeding patterns.",
+    "Early follow-up at 2\u20134 weeks should assess clinical response and adherence to therapy, while medium follow-up at ~3 months should include developmental screening and hearing assessment.",
+    "Red flags include persistent seizures, progressive regression, focal neurologic signs, or failure to improve in alertness/feeding within expected timelines."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Vitamin B12 Deficiency",
+    "Neurologic Manifestations",
+    "Infantile Tremor Syndrome",
+    "Parenteral Therapy",
+    "Developmental Screening",
+    "Cognitive Impairment",
+    "Nutritional Anemia",
+    "Inborn Errors of Metabolism"
+  ],
+  "tags_custom": [
+    "B12 deficiency follow-up",
+    "Pediatric neurology",
+    "Nutritional interventions",
+    "Developmental milestones"
+  ],
+  "reference_quote": "Delay in treatment risks incomplete neurologic recovery, so the follow-up plan should be written at the first visit. (IAP standard treatment guidelines: Megaloblastic anemia)",
+  "document_key_topics": [
+    "Vitamin B12 deficiency in infancy",
+    "Neurologic presentations and treatment",
+    "Structured follow-up and developmental screening",
+    "Red flags for urgent escalation"
+  ],
+  "chunk_heading": "MICRONUTRIENT NUTRITION;FOLATE AND B-COMPLEX DEFICIENCY DECISION PATHWAYS;FOLLOW-UP PLAN FOR B12 NEUROLOGIC  PRESENTATIONS;",
+  "topic": "MICRONUTRIENT NUTRITION",
+  "subtopic": "FOLATE AND B-COMPLEX DEFICIENCY DECISION PATHWAYS",
+  "sub_subtopic": "FOLLOW-UP PLAN FOR B12 NEUROLOGIC  PRESENTATIONS",
+  "heading_path": "MICRONUTRIENT NUTRITION;FOLATE AND B-COMPLEX DEFICIENCY DECISION PATHWAYS;FOLLOW-UP PLAN FOR B12 NEUROLOGIC  PRESENTATIONS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u00924"
+}

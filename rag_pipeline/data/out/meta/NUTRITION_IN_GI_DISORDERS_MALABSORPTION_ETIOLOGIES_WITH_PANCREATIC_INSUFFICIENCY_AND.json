@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "Pancreatic insufficiency requires high-calorie, unrestricted fat diets with pancreatic enzyme replacement therapy (PERT) tailored to clinical response. Proper dosing and administration are critical to avoid complications like fibrosing colonopathy.",
+  "learning_objectives": [
+    "Understand the role of pancreatic enzyme replacement therapy (PERT) in managing pancreatic insufficiency.",
+    "Learn appropriate PERT dosing guidelines for different age groups and meal types.",
+    "Recognize the importance of monitoring clinical response and avoiding excessive PERT dosing.",
+    "Identify common nutritional deficiencies associated with pancreatic insufficiency, such as fat-soluble vitamin deficiencies."
+  ],
+  "key_facts": [
+    "Pancreatic insufficiency requires high-calorie intake with unrestricted fat and PERT.",
+    "PERT dosing for infants: 2,000\u20134,000 lipase units per 120 mL formula or per breastfeed.",
+    "PERT dosing for older children: 500\u20132,500 lipase units/kg/meal and 250\u20131,250 units/kg/snack.",
+    "Doses >6,000 units/kg/meal are linked to fibrosing colonopathy and should be avoided.",
+    "Fecal pancreatic elastase-1 <100 mg/g is a practical screening marker for pancreatic insufficiency.",
+    "Enzymes must be taken with every fat-containing meal or snack for efficacy."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Pancreatic Insufficiency",
+    "Pancreatic Enzyme Replacement Therapy",
+    "Cystic Fibrosis",
+    "Fat Malabsorption",
+    "Nutritional Deficiencies",
+    "Fat-Soluble Vitamins",
+    "Exocrine Pancreatic Function",
+    "Fibrosing Colonopathy"
+  ],
+  "tags_custom": [
+    "PERT dosing",
+    "pediatric nutrition",
+    "malabsorption management",
+    "clinical guidelines"
+  ],
+  "reference_quote": "Write PERT like a drug and titrate to clinical response (improved stool quality and weight trajectory) rather than escalating indefinitely.",
+  "document_key_topics": [
+    "Pancreatic insufficiency and its nutritional management",
+    "Pancreatic enzyme replacement therapy (PERT) dosing guidelines",
+    "Screening and monitoring for pancreatic insufficiency"
+  ],
+  "chunk_heading": "NUTRITION IN GI DISORDERS & MALABSORPTION;MALABSORPTION ETIOLOGIES WITH CONDITION-SPECIFIC DIET THERAPIES;PANCREATIC INSUFFICIENCY AND PANCREATIC ENZYME REPLACEMENT THERAPY DOSING;",
+  "topic": "NUTRITION IN GI DISORDERS & MALABSORPTION",
+  "subtopic": "MALABSORPTION ETIOLOGIES WITH CONDITION-SPECIFIC DIET THERAPIES",
+  "sub_subtopic": "PANCREATIC INSUFFICIENCY AND PANCREATIC ENZYME REPLACEMENT THERAPY DOSING",
+  "heading_path": "NUTRITION IN GI DISORDERS & MALABSORPTION;MALABSORPTION ETIOLOGIES WITH CONDITION-SPECIFIC DIET THERAPIES;PANCREATIC INSUFFICIENCY AND PANCREATIC ENZYME REPLACEMENT THERAPY DOSING;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "2\u008b1"
+}

@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "This section outlines glycemic targets and annual complication screening protocols for youth-onset type 2 diabetes, emphasizing early intervention and tailored monitoring strategies to mitigate multi-organ risks.",
+  "learning_objectives": [
+    "Understand glycemic targets (<6.5% or <7%) for youth-onset type 2 diabetes and their contextual application.",
+    "Learn the annual screening schedule for complications, including nephropathy, retinopathy, and liver disease.",
+    "Recognize the importance of self-monitoring and CGM in managing youth-onset type 2 diabetes.",
+    "Identify specific screening needs for pubertal females, such as PCOS features."
+  ],
+  "key_facts": [
+    "HbA1c target: <6.5% when achievable without hypoglycemia; <7% early in therapy or with high psychosocial burden.",
+    "Screening schedule: Lipids, nephropathy, liver disease, BP, OSA, and depression annually starting at diagnosis.",
+    "Nephropathy screening: Urine albumin/creatinine ratio confirmed with two of three first-morning samples if elevated.",
+    "Retinopathy and neuropathy assessments: Annually from diagnosis, including vibration/light touch/ankle reflex tests.",
+    "Pubertal females: Annual PCOS screening for cycle irregularity, hirsutism, and acne linked to metabolic control."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Type 2 Diabetes Mellitus",
+    "Glycemic Control",
+    "Insulin Resistance",
+    "Pediatric Endocrinology",
+    "Diabetes Complications",
+    "Continuous Glucose Monitoring",
+    "Polycystic Ovary Syndrome",
+    "Obstructive Sleep Apnea"
+  ],
+  "tags_custom": [
+    "youth-onset diabetes",
+    "complication screening",
+    "HbA1c targets",
+    "metabolic risk"
+  ],
+  "reference_quote": "\"Measure HbA1c every 3 months until stable and at least twice yearly thereafter; a target <6.5% is appropriate for many youth when achievable without significant hypoglycemia.\" (ISPAD clinical practice consensus guidelines 2024)",
+  "document_key_topics": [
+    "Glycemic targets in youth-onset type 2 diabetes",
+    "Annual screening for diabetes complications",
+    "Self-monitoring and CGM in pediatric diabetes management",
+    "PCOS and metabolic risk in pubertal females"
+  ],
+  "chunk_heading": "METABOLIC RISK IN CHILDREN;DYSGLYCEMIA AND INSULIN RESISTANCE CLINICAL PATHWAY;GLYCEMIC TARGETS AND COMPLICATION SCREENING IN YOUTH-ONSET TYPE 2 DIABETES;",
+  "topic": "METABOLIC RISK IN CHILDREN",
+  "subtopic": "DYSGLYCEMIA AND INSULIN RESISTANCE CLINICAL PATHWAY",
+  "sub_subtopic": "GLYCEMIC TARGETS AND COMPLICATION SCREENING IN YOUTH-ONSET TYPE 2 DIABETES",
+  "heading_path": "METABOLIC RISK IN CHILDREN;DYSGLYCEMIA AND INSULIN RESISTANCE CLINICAL PATHWAY;GLYCEMIC TARGETS AND COMPLICATION SCREENING IN YOUTH-ONSET TYPE 2 DIABETES;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1~6"
+}

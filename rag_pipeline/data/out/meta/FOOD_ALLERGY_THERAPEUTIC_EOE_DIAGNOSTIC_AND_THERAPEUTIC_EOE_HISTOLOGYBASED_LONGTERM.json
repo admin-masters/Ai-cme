@@ -1,0 +1,47 @@
+{
+  "chunk_summary": "Histology-based long-term monitoring in EoE involves periodic endoscopy to assess remission and guide therapy adjustments, with individualized intervals and pragmatic strategies for resource-limited settings.",
+  "learning_objectives": [
+    "Understand the role of histology in long-term monitoring of eosinophilic esophagitis (EoE).",
+    "Learn the recommended timelines for endoscopic reassessment during induction and maintenance therapy.",
+    "Identify strategies to optimize monitoring in resource-limited settings.",
+    "Recognize the importance of individualized treatment plans in EoE management."
+  ],
+  "key_facts": [
+    "Histology and symptoms correlate imperfectly in EoE, necessitating periodic objective reassessment.",
+    "Endoscopy with biopsies is recommended 8\u201312 weeks after induction therapy initiation, or at least 4 weeks for elemental diets.",
+    "Maintenance therapy is advised after achieving histologic remission to prevent relapse and esophageal remodeling.",
+    "Stable remission may warrant endoscopic evaluation every 1\u20133 years, with earlier reassessment if symptoms like dysphagia or food impaction recur.",
+    "In resource-limited settings, step-up elimination strategies (e.g., milk-only or 2\u20134 food approaches) and validated symptom tools are recommended to reduce endoscopy burden."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Eosinophilic Esophagitis",
+    "Histology",
+    "Endoscopy",
+    "Dietary Therapy",
+    "Pediatric Gastroenterology",
+    "Maintenance Therapy",
+    "Esophageal Remodeling",
+    "Quality of Life"
+  ],
+  "tags_custom": [
+    "EoE monitoring",
+    "dietary elimination",
+    "pediatric endoscopy",
+    "resource-limited care"
+  ],
+  "reference_quote": "After starting induction therapy (diet, swallowed topical steroids, or PPI), repeat endoscopy with biopsies is typically planned after about 8\u201312 weeks to assess histologic response; for elemental diets, reassessment should not be earlier than about 4 weeks.",
+  "document_key_topics": [
+    "Histology-based monitoring in EoE",
+    "Induction and maintenance therapy timelines",
+    "Strategies for resource-limited settings"
+  ],
+  "chunk_heading": "FOOD ALLERGY & THERAPEUTIC ELIMINATION DIETS;EOE DIAGNOSTIC AND THERAPEUTIC PATHWAY;EOE HISTOLOGY-BASED LONG-TERM MONITORING SCHEDULE;",
+  "topic": "FOOD ALLERGY & THERAPEUTIC ELIMINATION DIETS",
+  "subtopic": "EOE DIAGNOSTIC AND THERAPEUTIC PATHWAY",
+  "sub_subtopic": "EOE HISTOLOGY-BASED LONG-TERM MONITORING SCHEDULE",
+  "heading_path": "FOOD ALLERGY & THERAPEUTIC ELIMINATION DIETS;EOE DIAGNOSTIC AND THERAPEUTIC PATHWAY;EOE HISTOLOGY-BASED LONG-TERM MONITORING SCHEDULE;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1\u00882"
+}

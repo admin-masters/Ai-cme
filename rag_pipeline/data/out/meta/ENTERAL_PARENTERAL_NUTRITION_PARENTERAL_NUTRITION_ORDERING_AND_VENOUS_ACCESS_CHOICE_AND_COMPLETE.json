@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section discusses safe practices for parenteral nutrition (PN), focusing on venous access choice and complete PN order content, including guidelines for nutrient dosing, monitoring, and infection prevention.",
+  "learning_objectives": [
+    "Understand the criteria for choosing central versus peripheral venous access for PN.",
+    "Learn how to write a complete and unambiguous PN prescription.",
+    "Recognize age-based protein dosing targets and adjustments for clinical conditions.",
+    "Identify key safety measures for PN administration, including monitoring and line management."
+  ],
+  "key_facts": [
+    "Central venous access (CVC or PICC) is preferred for full PN due to high osmolarity and glucose concentrations.",
+    "Peripheral PN is suitable only short-term with lower dextrose concentrations and close monitoring for thrombophlebitis.",
+    "Age-based protein dosing: ~2.5\u20133.5 g/kg/day for preterm infants, ~3 g/kg/day for term infants, and ~1\u20132 g/kg/day for older children.",
+    "PN prescriptions must include total fluid volume, infusion duration, amino acids, dextrose concentration, lipids, electrolytes, multivitamins, and trace elements.",
+    "Baseline labs (e.g., electrolytes, glucose, triglycerides, liver enzymes) should be obtained before starting PN, with stepwise advancement and monitoring."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Parenteral Nutrition",
+    "Central Venous Catheters",
+    "Peripheral Catheterization",
+    "Nutritional Requirements",
+    "Amino Acids",
+    "Dextrose",
+    "Electrolytes",
+    "Infusion Pumps"
+  ],
+  "tags_custom": [
+    "venous access",
+    "pediatric nutrition",
+    "PN safety",
+    "protein dosing",
+    "clinical monitoring"
+  ],
+  "reference_quote": "Central venous access (CVC or PICC) is preferred for full PN because osmolarity and glucose concentrations are usually too high for peripheral veins.",
+  "document_key_topics": [
+    "Venous access choice for PN",
+    "Complete PN prescription content",
+    "Age-based protein dosing",
+    "PN safety and monitoring"
+  ],
+  "chunk_heading": "ENTERAL & PARENTERAL NUTRITION;PARENTERAL NUTRITION ORDERING AND CALCULATION SAFETY;VENOUS ACCESS CHOICE AND COMPLETE PARENTERAL NUTRITION ORDER CONTENT;",
+  "topic": "ENTERAL & PARENTERAL NUTRITION",
+  "subtopic": "PARENTERAL NUTRITION ORDERING AND CALCULATION SAFETY",
+  "sub_subtopic": "VENOUS ACCESS CHOICE AND COMPLETE PARENTERAL NUTRITION ORDER CONTENT",
+  "heading_path": "ENTERAL & PARENTERAL NUTRITION;PARENTERAL NUTRITION ORDERING AND CALCULATION SAFETY;VENOUS ACCESS CHOICE AND COMPLETE PARENTERAL NUTRITION ORDER CONTENT;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2\u00831"
+}

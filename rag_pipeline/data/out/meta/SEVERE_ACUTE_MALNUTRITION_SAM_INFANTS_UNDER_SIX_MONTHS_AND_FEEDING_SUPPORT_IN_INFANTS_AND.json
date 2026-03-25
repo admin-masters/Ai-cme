@@ -1,0 +1,47 @@
+{
+  "chunk_summary": "Management of severe acute malnutrition (SAM) in infants under six months focuses on feeding support, prioritizing breastfeeding, and adapting care for comorbidities like HIV. Stabilization includes addressing metabolic issues and using techniques like supplementary suckling to ensure adequate intake and weight gain.",
+  "learning_objectives": [
+    "Understand criteria for identifying severe acute malnutrition in infants under six months, including weight-for-length <-3 SD and bilateral pedal oedema.",
+    "Learn feeding-first approaches, including breastfeeding support, expressed milk use, and supplementary suckling techniques.",
+    "Recognize modifications in SAM management for infants with comorbidities, such as HIV, and the role of prophylactic cotrimoxazole."
+  ],
+  "key_facts": [
+    "Infants under six months with SAM are identified using weight-for-length <-3 SD, visible severe wasting, or bilateral pedal oedema.",
+    "Admission criteria include ineffective suckling, hypoglycemia, hypothermia, or suspected serious bacterial infection.",
+    "Supplementary suckling technique (SST) combines breastfeeding with supplemental milk via a small tube to stimulate milk production and ensure intake.",
+    "HIV-exposed or infected infants require malnutrition stabilization before initiating antiretroviral therapy.",
+    "Discharge criteria include effective feeding, adequate weight gain, and weight-for-length improvement, with weekly follow-up."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Malnutrition",
+    "Infant Nutrition Disorders",
+    "Breastfeeding",
+    "HIV Infections",
+    "Therapeutic Feeding",
+    "Weight-for-Length",
+    "Supplementary Feeding",
+    "Pediatric Hospital Care"
+  ],
+  "tags_custom": [
+    "SAM management",
+    "infant feeding support",
+    "HIV comorbidity adaptations",
+    "breastfeeding techniques",
+    "nutritional stabilization"
+  ],
+  "reference_quote": "Infants under 6 months require a feeding-first pathway that treats the mother\u2013infant dyad together. (WHO ELENA guidance)",
+  "document_key_topics": [
+    "Feeding support in infants with SAM",
+    "Criteria for SAM identification in infants under six months",
+    "Management adaptations for comorbidities like HIV"
+  ],
+  "chunk_heading": "SEVERE ACUTE MALNUTRITION (SAM) MANAGEMENT;INFANTS UNDER SIX MONTHS AND COMORBIDITY MODIFICATIONS;FEEDING SUPPORT IN INFANTS AND COMORBIDITY ADAPTATIONS;",
+  "topic": "SEVERE ACUTE MALNUTRITION (SAM) MANAGEMENT",
+  "subtopic": "INFANTS UNDER SIX MONTHS AND COMORBIDITY MODIFICATIONS",
+  "sub_subtopic": "FEEDING SUPPORT IN INFANTS AND COMORBIDITY ADAPTATIONS",
+  "heading_path": "SEVERE ACUTE MALNUTRITION (SAM) MANAGEMENT;INFANTS UNDER SIX MONTHS AND COMORBIDITY MODIFICATIONS;FEEDING SUPPORT IN INFANTS AND COMORBIDITY ADAPTATIONS;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1\u00803"
+}

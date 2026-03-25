@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "A one-page prescription template for chronic kidney and liver disease patients, adapted for India, includes food swaps, lab-driven restrictions, and reassessment guidelines for clinic and ward implementation.",
+  "learning_objectives": [
+    "Understand how to create a one-page prescription template for chronic kidney and liver disease patients.",
+    "Learn to incorporate India-specific food swaps for realistic dietary adherence.",
+    "Identify key lab parameters and anthropometric measures for nutritional planning.",
+    "Develop strategies for reassessment and escalation based on clinical trends."
+  ],
+  "key_facts": [
+    "Reassess nutritional plans every 2\u20134 weeks using height velocity and MUAC trends.",
+    "Target intake: kcal/day or kcal/kg/day and g protein/kg/day, with oral densification or enteral support if intake <80% for 2 weeks.",
+    "Key labs for CKD: sodium, potassium (K+), bicarbonate/total CO2, phosphate, calcium, and PTH; for liver disease: bilirubin, INR, and albumin.",
+    "Avoid cola-type drinks, seasoning packets, potassium chloride substitutes, and packaged snacks with phosphate/potassium additives.",
+    "School tiffin template: controlled-salt home item (e.g., poha/upma/idli), protein item (e.g., egg/paneer/curd), low-additive snack (e.g., roasted makhana), and water."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Chronic Kidney Disease",
+    "Liver Cirrhosis",
+    "Nutrition Therapy",
+    "Dietary Restrictions",
+    "Anthropometry",
+    "India",
+    "Food Substitutes",
+    "Reassessment"
+  ],
+  "tags_custom": [
+    "India-adapted nutrition",
+    "CKD and liver disease diet",
+    "Food swaps",
+    "Clinical implementation",
+    "Prescription template"
+  ],
+  "reference_quote": "\u2018Translate restrictions into additive rules rather than food bans: no cola-type drinks, no seasoning packets, no \u201clowsalt\u201d potassium chloride substitutes, and avoid packaged snacks with phosphate/potassium additives.\u2019 (Source: https://www.kidney.org/sites/default/files/docs/cpgpednutr2008.pdf)",
+  "document_key_topics": [
+    "India-adapted food swaps for CKD and liver disease",
+    "Lab-driven dietary restrictions and reassessment",
+    "Anthropometric measures for nutritional planning"
+  ],
+  "chunk_heading": "NUTRITION IN CHRONIC KIDNEY & LIVER DISEASE;CLINIC AND WARD IMPLEMENTATION CHECKLIST;ONE-PAGE PRESCRIPTION TEMPLATE WITH INDIA-ADAPTED FOOD SWAPS;",
+  "topic": "NUTRITION IN CHRONIC KIDNEY & LIVER DISEASE",
+  "subtopic": "CLINIC AND WARD IMPLEMENTATION CHECKLIST",
+  "sub_subtopic": "ONE-PAGE PRESCRIPTION TEMPLATE WITH INDIA-ADAPTED FOOD SWAPS",
+  "heading_path": "NUTRITION IN CHRONIC KIDNEY & LIVER DISEASE;CLINIC AND WARD IMPLEMENTATION CHECKLIST;ONE-PAGE PRESCRIPTION TEMPLATE WITH INDIA-ADAPTED FOOD SWAPS;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "5\u00891.1"
+}

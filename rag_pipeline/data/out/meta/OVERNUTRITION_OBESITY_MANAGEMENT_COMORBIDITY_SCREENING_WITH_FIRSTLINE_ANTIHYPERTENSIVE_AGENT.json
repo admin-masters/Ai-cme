@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Guidelines for selecting first-line antihypertensive agents in pediatric patients with obesity and hypertension, emphasizing weight-based dosing, comorbidity-specific choices, and safety monitoring.",
+  "learning_objectives": [
+    "Understand criteria for initiating antihypertensive medication in pediatric patients with obesity.",
+    "Identify first-line antihypertensive agents based on comorbidity phenotypes and contraindications.",
+    "Apply weight-based dosing guidelines for antihypertensive medications in children.",
+    "Recognize the importance of safety monitoring, including serum creatinine and potassium checks."
+  ],
+  "key_facts": [
+    "First-line antihypertensive agents include ACE inhibitors (ACEi), ARBs, long-acting calcium channel blockers, and thiazide diuretics.",
+    "ACEi/ARB are preferred for hypertension with diabetes, albuminuria, or chronic kidney disease due to renoprotective effects.",
+    "Weight-based dosing examples: enalapril 0.08\u20130.6 mg/kg/day (max 40 mg/day), lisinopril 0.07\u20130.6 mg/kg/day (max 40 mg/day), losartan 0.7\u20131.4 mg/kg/day (max 100 mg/day), amlodipine 2.5\u201310 mg/day.",
+    "Beta blockers are not preferred as initial agents in routine pediatric hypertension care.",
+    "Monitor serum creatinine and potassium after initiating or escalating ACEi/ARB therapy."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Hypertension",
+    "Pediatric Obesity",
+    "Antihypertensive Agents",
+    "Weight-Based Dosing",
+    "Renal Function Tests",
+    "Calcium Channel Blockers",
+    "Angiotensin-Converting Enzyme Inhibitors",
+    "Angiotensin Receptor Blockers"
+  ],
+  "tags_custom": [
+    "Pediatric Hypertension",
+    "Obesity Management",
+    "Comorbidity Screening",
+    "Medication Safety",
+    "Weight-Based Guidelines"
+  ],
+  "reference_quote": "Preferred first-line classes for most children are an ACEi, ARB, long-acting calcium channel blocker, or thiazide diuretic; beta blockers are not preferred as initial agents in routine pediatric hypertension care.",
+  "document_key_topics": [
+    "First-line antihypertensive agent selection",
+    "Weight-based dosing for pediatric hypertension",
+    "Comorbidity-specific medication choices",
+    "Safety monitoring in antihypertensive therapy"
+  ],
+  "chunk_heading": "OVERNUTRITION & OBESITY MANAGEMENT;COMORBIDITY SCREENING WITH ACTIONABLE PATHWAYS;FIRST-LINE ANTIHYPERTENSIVE AGENT SELECTION AND WEIGHT-BASED DOSING;",
+  "topic": "OVERNUTRITION & OBESITY MANAGEMENT",
+  "subtopic": "COMORBIDITY SCREENING WITH ACTIONABLE PATHWAYS",
+  "sub_subtopic": "FIRST-LINE ANTIHYPERTENSIVE AGENT SELECTION AND WEIGHT-BASED DOSING",
+  "heading_path": "OVERNUTRITION & OBESITY MANAGEMENT;COMORBIDITY SCREENING WITH ACTIONABLE PATHWAYS;FIRST-LINE ANTIHYPERTENSIVE AGENT SELECTION AND WEIGHT-BASED DOSING;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1r4"
+}

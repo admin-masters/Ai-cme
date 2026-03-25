@@ -1,0 +1,47 @@
+{
+  "chunk_summary": "This section explores pediatric chronic liver disease (CLD) nutrition pitfalls through case vignettes, emphasizing decision-making strategies for growth failure, ascites, and hepatic encephalopathy management.",
+  "learning_objectives": [
+    "Understand the impact of excessive MCT use on essential fatty acid deficiency (EFAD) in cholestatic infants.",
+    "Develop strategies to manage ascites and hyponatremia in pediatric decompensated cirrhosis without compromising calorie delivery.",
+    "Learn the importance of restoring adequate protein intake in children with hepatic encephalopathy to support muscle mass and ammonia handling."
+  ],
+  "key_facts": [
+    "Excessive MCT use can precipitate EFAD and worsen growth in cholestatic infants; mixed MCT/LCT strategies are recommended.",
+    "Hyponatremia in pediatric cirrhosis should be managed with time-limited fluid restriction, sodium restriction, and calorie-dense feeds.",
+    "Serum sodium levels of 124 mmol/L indicate severe hyponatremia requiring careful monitoring and intervention.",
+    "Prolonged protein avoidance in hepatic encephalopathy can lead to muscle loss; protein reduction should be brief and target levels restored promptly.",
+    "Fat-soluble vitamin monitoring is critical in cholestatic infants to prevent deficiencies during nutritional interventions."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Chronic Liver Disease",
+    "Cholestasis",
+    "Essential Fatty Acid Deficiency",
+    "Ascites",
+    "Hyponatremia",
+    "Hepatic Encephalopathy",
+    "Pediatric Nutrition",
+    "Tube Feeding"
+  ],
+  "tags_custom": [
+    "CLD nutrition pitfalls",
+    "pediatric cirrhosis management",
+    "growth failure strategies",
+    "protein restoration in encephalopathy"
+  ],
+  "reference_quote": "Very high MCT reduces essential fatty acid delivery and can precipitate EFAD without improving calories. (NASPGHAN and ESPGHAN, 2019)",
+  "document_key_topics": [
+    "Nutrition strategies in pediatric chronic liver disease",
+    "Management of cholestasis-related growth failure",
+    "Interventions for ascites and hyponatremia in cirrhosis",
+    "Protein intake optimization in hepatic encephalopathy"
+  ],
+  "chunk_heading": "NUTRITION IN CHRONIC KIDNEY & LIVER DISEASE;CASE-BASED DECISION SEQUENCING IN PEDIATRIC CKD AND CLD;CASE VIGNETTES FOR COMMON CLD NUTRITION PITFALLS;",
+  "topic": "NUTRITION IN CHRONIC KIDNEY & LIVER DISEASE",
+  "subtopic": "CASE-BASED DECISION SEQUENCING IN PEDIATRIC CKD AND CLD",
+  "sub_subtopic": "CASE VIGNETTES FOR COMMON CLD NUTRITION PITFALLS",
+  "heading_path": "NUTRITION IN CHRONIC KIDNEY & LIVER DISEASE;CASE-BASED DECISION SEQUENCING IN PEDIATRIC CKD AND CLD;CASE VIGNETTES FOR COMMON CLD NUTRITION PITFALLS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "5\u008c2"
+}

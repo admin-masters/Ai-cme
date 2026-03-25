@@ -1,0 +1,46 @@
+{
+  "chunk_summary": "This section outlines hospitalization thresholds and inpatient monitoring for adolescents with eating disorders, focusing on medical instability, refeeding syndrome risk, and protocolized care for severe malnutrition or physiologic instability.",
+  "learning_objectives": [
+    "Identify hospitalization thresholds for adolescents with eating disorders based on physiologic instability and malnutrition.",
+    "Understand the criteria for inpatient monitoring, including vital signs, electrolyte management, and ECG monitoring.",
+    "Recognize the risks and management strategies for refeeding syndrome in malnourished adolescents."
+  ],
+  "key_facts": [
+    "Hospitalization is recommended for adolescents with <75% median BMI for age/sex, HR <50/min daytime or <45/min night, BP \u226490/45 mm Hg, or temperature <35.6\u00b0C.",
+    "Orthostatic changes of pulse >20/min or systolic BP drop >20 mm Hg are concerning, with >40/min pulse increase being particularly critical.",
+    "Refeeding syndrome risk is highest in the first days of nutrition rehabilitation; monitor electrolytes like phosphate and magnesium closely.",
+    "Daily weights, serial vitals, and ECGs are essential for inpatient monitoring, especially for bradycardia or prolonged QTc.",
+    "Higher-calorie, meal-based refeeding protocols are increasingly used, but escalation should be individualized and supervised by a multidisciplinary team."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Adolescent Nutrition",
+    "Eating Disorders",
+    "Hospitalization",
+    "Refeeding Syndrome",
+    "Electrolyte Imbalance",
+    "Bradycardia",
+    "Body Mass Index",
+    "Orthostatic Hypotension"
+  ],
+  "tags_custom": [
+    "Medical Instability",
+    "Inpatient Monitoring",
+    "Severe Malnutrition",
+    "Refeeding Protocols"
+  ],
+  "reference_quote": "Admit adolescents with suspected eating disorders when physiologic instability or severe malnutrition makes outpatient care unsafe. Common admission thresholds include \u226475% median BMI for age/sex, dehydration, electrolyte disturbance, or ECG abnormalities (notably prolonged QTc or severe bradycardia).",
+  "document_key_topics": [
+    "Hospitalization thresholds for eating disorders",
+    "Inpatient monitoring protocols",
+    "Refeeding syndrome risk and management"
+  ],
+  "chunk_heading": "ADOLESCENT NUTRITION;EATING DISORDERS IN ADOLESCENTS;HOSPITALIZATION THRESHOLDS AND INPATIENT MONITORING FOR MEDICAL INSTABILITY;",
+  "topic": "ADOLESCENT NUTRITION",
+  "subtopic": "EATING DISORDERS IN ADOLESCENTS",
+  "sub_subtopic": "HOSPITALIZATION THRESHOLDS AND INPATIENT MONITORING FOR MEDICAL INSTABILITY",
+  "heading_path": "ADOLESCENT NUTRITION;EATING DISORDERS IN ADOLESCENTS;HOSPITALIZATION THRESHOLDS AND INPATIENT MONITORING FOR MEDICAL INSTABILITY;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2\u00827"
+}

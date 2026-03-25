@@ -1,0 +1,46 @@
+{
+  "chunk_summary": "Guidance on pediatric fecal microbiota transplantation (FMT) referral for recurrent C. difficile infection, including thresholds, pre-referral data, and risk factors.",
+  "learning_objectives": [
+    "Understand the criteria for diagnosing recurrent C. difficile infection in pediatric patients.",
+    "Identify appropriate thresholds for FMT referral based on recurrence and severity.",
+    "Document pre-referral data, including prior treatments and risk factors, to optimize referral timing."
+  ],
+  "key_facts": [
+    "Recurrent C. difficile infection is defined as symptoms returning within 8 weeks after therapy completion.",
+    "FMT referral is supported after at least two clinically significant recurrences despite appropriate treatment.",
+    "Pre-referral documentation should include prior antibiotic regimens (dose, duration, adherence) and high-risk features like immunocompromise or chronic disease.",
+    "Severe or fulminant cases unresponsive to standard therapies warrant earlier FMT consideration.",
+    "NASPGHAN/ESPGHAN guidance emphasizes donor screening and post-procedure surveillance in FMT centers."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Fecal Microbiota Transplantation",
+    "Clostridioides difficile",
+    "Pediatrics",
+    "Recurrent Infection",
+    "Antibiotic Therapy",
+    "Immunocompromised Host",
+    "Inflammatory Bowel Diseases",
+    "Referral and Consultation"
+  ],
+  "tags_custom": [
+    "FMT referral criteria",
+    "pediatric gastroenterology",
+    "recurrent C. difficile",
+    "infection management"
+  ],
+  "reference_quote": "NASPGHAN/ESPGHAN guidance supports FMT consideration for recurrent infection, particularly after multiple recurrences, or for severe or fulminant disease not responding to standard therapies.",
+  "document_key_topics": [
+    "Pediatric FMT referral thresholds",
+    "Recurrent C. difficile infection management",
+    "Pre-referral documentation and risk assessment"
+  ],
+  "chunk_heading": "RESEARCH & EMERGING CONCEPTS;FECAL MICROBIOTA TRANSPLANTATION REFERRAL CRITERIA;RECURRENT CLOSTRIDIOIDES DIFFICILE REFERRAL THRESHOLDS AND BUNDLE;",
+  "topic": "RESEARCH & EMERGING CONCEPTS",
+  "subtopic": "FECAL MICROBIOTA TRANSPLANTATION REFERRAL CRITERIA",
+  "sub_subtopic": "RECURRENT CLOSTRIDIOIDES DIFFICILE REFERRAL THRESHOLDS AND BUNDLE",
+  "heading_path": "RESEARCH & EMERGING CONCEPTS;FECAL MICROBIOTA TRANSPLANTATION REFERRAL CRITERIA;RECURRENT CLOSTRIDIOIDES DIFFICILE REFERRAL THRESHOLDS AND BUNDLE;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1y1"
+}

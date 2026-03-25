@@ -1,0 +1,51 @@
+{
+  "chunk_summary": "Instrumental swallow tests guide feeding prescriptions for neurodisability, focusing on safety, hydration, and participation using IDDSI terms, PAS severity, and fatigue testing insights.",
+  "learning_objectives": [
+    "Understand how VFSS and FEES findings translate into feeding prescriptions for neurodisability.",
+    "Learn to use IDDSI standards and PAS for structured reporting and decision-making.",
+    "Identify fatigue-related aspiration patterns and integrate breaks into feeding plans.",
+    "Recognize scenarios where repeat instrumental swallow testing is justified."
+  ],
+  "key_facts": [
+    "Pre-swallow aspiration often reflects poor oral control with premature spillage, commonly triggered by thin liquids.",
+    "Post-swallow aspiration is linked to residue spillover (vallecular or pyriform) and worsens with fatigue.",
+    "PAS (Penetration-Aspiration Scale) standardizes severity and identifies silent aspiration risk.",
+    "Prescriptions should specify IDDSI textures, bolus volume limits, posture adjustments, pacing rules, and supervision levels.",
+    "Fatigue testing is critical in neurodisability; emerging aspiration after repeated swallows necessitates time limits and planned breaks.",
+    "Repeat testing is justified for major neurologic recovery, respiratory decline, or tube removal decisions.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Deglutition Disorders",
+    "Neurodevelopmental Disorders",
+    "Videofluoroscopic Swallowing Study",
+    "Flexible Endoscopic Evaluation of Swallowing",
+    "Penetration-Aspiration Scale",
+    "Cerebral Palsy",
+    "Hydration",
+    "Feeding Behavior"
+  ],
+  "tags_custom": [
+    "feeding prescriptions",
+    "aspiration management",
+    "fatigue testing",
+    "IDDSI guidelines",
+    "swallowing interventions"
+  ],
+  "reference_quote": "Use the PAS to standardize severity and identify silent aspiration risk, but base decisions on the child\u2019s overall physiology and response to strategies. (PubMed ID: 8721066)",
+  "document_key_topics": [
+    "Instrumental swallow test interpretation for neurodisability",
+    "Mapping VFSS/FEES findings to IDDSI-based feeding prescriptions",
+    "Fatigue-related aspiration and feeding adjustments",
+    "Criteria for repeat swallow testing in clinical decision-making"
+  ],
+  "chunk_heading": "NEURODISABILITY AND FEEDING SUPPORT;INSTRUMENTAL SWALLOW TEST REPORT TO PRESCRIPTION MAPPING;",
+  "topic": "NEURODISABILITY AND FEEDING SUPPORT",
+  "subtopic": "INSTRUMENTAL SWALLOW TEST REPORT TO PRESCRIPTION MAPPING",
+  "sub_subtopic": null,
+  "heading_path": "NEURODISABILITY AND FEEDING SUPPORT;INSTRUMENTAL SWALLOW TEST REPORT TO PRESCRIPTION MAPPING;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "1m"
+}

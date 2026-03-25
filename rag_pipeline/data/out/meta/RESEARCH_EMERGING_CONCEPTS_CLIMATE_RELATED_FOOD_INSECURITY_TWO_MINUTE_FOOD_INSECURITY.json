@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "A clinic response to climate-related food insecurity using a two-minute screening tool to identify risks, stratify clinical priorities, and manage malnutrition, dehydration, and infection in children.",
+  "learning_objectives": [
+    "Understand the impact of climate shocks on child health, including weight faltering and recurrent infections.",
+    "Learn to implement a three-question food insecurity screening tool in clinical settings.",
+    "Recognize the importance of zinc supplementation and ORS in managing diarrhoeal illness in food-insecure children.",
+    "Identify follow-up strategies for children with weight faltering or reduced dietary diversity after climate events."
+  ],
+  "key_facts": [
+    "A three-question screening tool assesses food insecurity in under two minutes.",
+    "Zinc supplementation guidelines: 10 mg/day for infants under 6 months and 20 mg/day for children 6\u201359 months, for 10\u201314 days.",
+    "Food insecurity amplifies risks of anaemia, growth decline, and recurrent infections.",
+    "Follow-up after illness or climate events should occur within 1\u20132 weeks for children with weight faltering or reduced dietary diversity.",
+    "ORS and zinc are affordable, high-impact interventions during diarrhoeal illness."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Food Insecurity",
+    "Climate Change",
+    "Child Nutrition Disorders",
+    "Diarrhea",
+    "Zinc",
+    "Oral Rehydration Solutions",
+    "Malnutrition",
+    "Risk Assessment"
+  ],
+  "tags_custom": [
+    "climate-related health risks",
+    "pediatric food insecurity",
+    "screening tools",
+    "malnutrition management",
+    "clinical follow-up strategies"
+  ],
+  "reference_quote": "A three-question adaptation of the 'Hunger Vital Sign' logic can be used as a clinic entry screen: 'In the last 12 months, did you worry that food at home would run out before you had money to buy more?'",
+  "document_key_topics": [
+    "Food insecurity screening in clinical settings",
+    "Impact of climate events on child health",
+    "Zinc supplementation and diarrhoeal illness management",
+    "Follow-up strategies for malnourished children"
+  ],
+  "chunk_heading": "RESEARCH & EMERGING CONCEPTS;CLIMATE RELATED FOOD INSECURITY CLINIC RESPONSE;TWO MINUTE FOOD INSECURITY SCREENING QUESTIONS;",
+  "topic": "RESEARCH & EMERGING CONCEPTS",
+  "subtopic": "CLIMATE RELATED FOOD INSECURITY CLINIC RESPONSE",
+  "sub_subtopic": "TWO MINUTE FOOD INSECURITY SCREENING QUESTIONS",
+  "heading_path": "RESEARCH & EMERGING CONCEPTS;CLIMATE RELATED FOOD INSECURITY CLINIC RESPONSE;TWO MINUTE FOOD INSECURITY SCREENING QUESTIONS;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1\u00881"
+}

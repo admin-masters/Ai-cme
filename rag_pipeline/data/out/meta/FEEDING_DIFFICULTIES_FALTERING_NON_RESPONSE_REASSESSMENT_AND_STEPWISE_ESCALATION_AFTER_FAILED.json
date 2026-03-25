@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "Stepwise escalation for faltering growth involves reassessment of non-response to outpatient plans, addressing adherence and amplifiers, and domain-based referrals to specialists when necessary.",
+  "learning_objectives": [
+    "Understand the criteria for defining non-response in faltering growth management.",
+    "Learn the stepwise approach to reassessment, including measurement validation and adherence checks.",
+    "Identify when and how to escalate care through domain-based referrals.",
+    "Apply targeted investigations and phased nutritional rehabilitation strategies."
+  ],
+  "key_facts": [
+    "Non-response is defined as lack of improvement in growth trajectory after 2\u20134 weeks of structured outpatient care.",
+    "Reassessment includes validating measurements, adherence checks, and addressing amplifiers like constipation, reflux, or iron deficiency.",
+    "NICE recommends referral to pediatric specialists for failure to respond to primary care interventions.",
+    "AAP emphasizes phased refeeding with increasing energy and protein targets after initial tolerance.",
+    "Domain-based referrals include SLP for feeding-skill issues, mental health for psychosocial concerns, and pediatric subspecialists for medical red flags."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Faltering Growth",
+    "Failure to Thrive",
+    "Pediatric Nutrition",
+    "Feeding Behavior",
+    "Referral and Consultation",
+    "Nutritional Rehabilitation",
+    "Growth Disorders",
+    "Pediatric Assessment"
+  ],
+  "tags_custom": [
+    "non-response pathway",
+    "stepwise escalation",
+    "feeding difficulties",
+    "domain-based referral"
+  ],
+  "reference_quote": "NICE explicitly lists failure to respond to interventions delivered in primary care as a reason to discuss with or refer to pediatric specialist services.",
+  "document_key_topics": [
+    "Non-response criteria in faltering growth",
+    "Stepwise reassessment and adherence validation",
+    "Targeted investigations and phased nutritional rehabilitation",
+    "Domain-based referral for specialized care"
+  ],
+  "chunk_heading": "FEEDING DIFFICULTIES & FALTERING GROWTH;NON RESPONSE REASSESSMENT AND DOMAIN BASED REFERRAL;STEPWISE ESCALATION AFTER FAILED OUTPATIENT PLAN;",
+  "topic": "FEEDING DIFFICULTIES & FALTERING GROWTH",
+  "subtopic": "NON RESPONSE REASSESSMENT AND DOMAIN BASED REFERRAL",
+  "sub_subtopic": "STEPWISE ESCALATION AFTER FAILED OUTPATIENT PLAN",
+  "heading_path": "FEEDING DIFFICULTIES & FALTERING GROWTH;NON RESPONSE REASSESSMENT AND DOMAIN BASED REFERRAL;STEPWISE ESCALATION AFTER FAILED OUTPATIENT PLAN;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "4\u00891"
+}

@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section focuses on interpreting high-risk lab results in severe malnutrition, emphasizing decision-driven investigations and immediate actions based on glucose, hemoglobin, electrolytes, and infection markers.",
+  "learning_objectives": [
+    "Understand the role of glucose as a stabilization trigger in severe malnutrition and its immediate management protocols.",
+    "Learn hemoglobin thresholds for transfusion and their associated clinical actions in severe malnutrition.",
+    "Recognize the importance of empiric supplementation for potassium and magnesium in malnourished children with weakness.",
+    "Identify infection evaluation protocols for TB and HIV in cases of persistent symptoms or non-response."
+  ],
+  "key_facts": [
+    "Hypoglycemia in severe malnutrition can be silent; treat immediately with glucose if bedside testing suggests hypoglycemia or if the child is lethargic, unconscious, or convulsing.",
+    "Transfuse whole blood/PRBC 10 ml/kg over 3 hours when hemoglobin is <4 g/dL, or 4\u20136.5 g/dL with respiratory distress, per ICMR guidelines.",
+    "Empiric potassium supplementation: 3\u20134 mmol/kg/day orally for ~2 weeks; magnesium supplementation: 0.4\u20130.6 mmol/kg/day with an initial IM dose.",
+    "Electrolyte depletion (potassium, magnesium) is common even with normal serum levels; supplementation should be protocol-based.",
+    "Persistent symptoms or non-response in severe malnutrition should prompt targeted testing for TB and HIV using program-specific algorithms."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Malnutrition",
+    "Severe Acute Malnutrition",
+    "Hypoglycemia",
+    "Hemoglobin",
+    "Electrolyte Imbalance",
+    "Potassium Deficiency",
+    "Magnesium Deficiency",
+    "Infectious Disease Screening"
+  ],
+  "tags_custom": [
+    "high-risk lab results",
+    "decision-based protocols",
+    "severe malnutrition management",
+    "empiric supplementation",
+    "infection screening"
+  ],
+  "reference_quote": "The ICMR severe malnutrition STW specifies transfusion thresholds: give whole blood/PRBC 10 ml/kg over 3 hours when Hb <4 g/dL, or when Hb 4\u20136.5 g/dL with respiratory distress, with close monitoring for heart failure.",
+  "document_key_topics": [
+    "Glucose management in severe malnutrition",
+    "Hemoglobin thresholds and transfusion protocols",
+    "Electrolyte supplementation in malnutrition",
+    "Infection screening for TB and HIV in non-responders"
+  ],
+  "chunk_heading": "MALNUTRITION\u2014UNDERNUTRITION: SCREENING & CLASSIFICATION;MINIMAL INVESTIGATION BUNDLES LINKED TO PHENOTYPE AND NON-RESPONSE;DECISION LINKED INTERPRETATION OF HIGH RISK LAB RESULTS;",
+  "topic": "MALNUTRITION\u2014UNDERNUTRITION: SCREENING & CLASSIFICATION",
+  "subtopic": "MINIMAL INVESTIGATION BUNDLES LINKED TO PHENOTYPE AND NON-RESPONSE",
+  "sub_subtopic": "DECISION LINKED INTERPRETATION OF HIGH RISK LAB RESULTS",
+  "heading_path": "MALNUTRITION\u2014UNDERNUTRITION: SCREENING & CLASSIFICATION;MINIMAL INVESTIGATION BUNDLES LINKED TO PHENOTYPE AND NON-RESPONSE;DECISION LINKED INTERPRETATION OF HIGH RISK LAB RESULTS;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "3}1"
+}

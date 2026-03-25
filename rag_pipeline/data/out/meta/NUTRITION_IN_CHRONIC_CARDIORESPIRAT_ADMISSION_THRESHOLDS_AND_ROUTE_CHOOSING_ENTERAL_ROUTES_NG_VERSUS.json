@@ -1,0 +1,47 @@
+{
+  "chunk_summary": "This section discusses the selection of enteral feeding routes (NG, post-pyloric, gastrostomy) in chronic cardiorespiratory disease, emphasizing safety, reliability, and minimizing aspiration risk or cardiopulmonary workload.",
+  "learning_objectives": [
+    "Understand the criteria for escalating enteral feeding routes in chronic cardiorespiratory disease.",
+    "Differentiate between NG, post-pyloric, and gastrostomy feeding based on safety and clinical indications.",
+    "Recognize the importance of defining escalation windows and measurable endpoints for nutrition interventions."
+  ],
+  "key_facts": [
+    "NG feeding is recommended when oral intake is <60\u201375% of needs or feeds exceed 20\u201330 minutes with tachypnea or fatigue.",
+    "Post-pyloric feeding is preferred for patients with gastric intolerance or high aspiration risk due to reflux and vomiting.",
+    "Gastrostomy is indicated for long-term feeding needs, repeated admissions, or oral skill therapy, especially in high-risk children with severe PH or unstable heart failure.",
+    "Escalation windows are typically 7\u201314 days with measurable endpoints like weight velocity or delivered percent of target.",
+    "NG feeding can be combined with daytime oral practice to preserve oral skills."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Enteral Nutrition",
+    "Nasogastric Intubation",
+    "Gastrostomy",
+    "Post-pyloric Feeding",
+    "Aspiration Pneumonia",
+    "Cardiorespiratory Disorders",
+    "Pediatric Nutrition",
+    "Feeding Methods"
+  ],
+  "tags_custom": [
+    "nutrition escalation",
+    "feeding safety",
+    "oral skill preservation",
+    "chronic disease management",
+    "pediatric feeding strategies"
+  ],
+  "reference_quote": "Route escalation should be framed as a choice between safety and reliability, not as 'failure of oral feeding.'",
+  "document_key_topics": [
+    "Enteral feeding route selection in chronic cardiorespiratory disease",
+    "Safety and reliability in nutrition escalation",
+    "Criteria for NG, post-pyloric, and gastrostomy feeding"
+  ],
+  "chunk_heading": "NUTRITION IN CHRONIC CARDIORESPIRATORY DISEASE;ADMISSION THRESHOLDS AND ROUTE ESCALATION FOR NUTRITION FAILURE;CHOOSING ENTERAL ROUTES NG VERSUS POST PYLORIC VERSUS GASTROSTOMY;",
+  "topic": "NUTRITION IN CHRONIC CARDIORESPIRATORY DISEASE",
+  "subtopic": "ADMISSION THRESHOLDS AND ROUTE ESCALATION FOR NUTRITION FAILURE",
+  "sub_subtopic": "CHOOSING ENTERAL ROUTES NG VERSUS POST PYLORIC VERSUS GASTROSTOMY",
+  "heading_path": "NUTRITION IN CHRONIC CARDIORESPIRATORY DISEASE;ADMISSION THRESHOLDS AND ROUTE ESCALATION FOR NUTRITION FAILURE;CHOOSING ENTERAL ROUTES NG VERSUS POST PYLORIC VERSUS GASTROSTOMY;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1|3"
+}

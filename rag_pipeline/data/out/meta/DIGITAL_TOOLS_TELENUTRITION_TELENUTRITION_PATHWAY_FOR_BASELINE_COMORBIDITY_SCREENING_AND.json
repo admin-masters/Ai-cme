@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section outlines baseline comorbidity screening and escalation checkpoints for tele-obesity care in pediatric populations in India, emphasizing accurate measurements, risk stratification, and clear escalation criteria for in-person care.",
+  "learning_objectives": [
+    "Understand the importance of baseline comorbidity screening in tele-nutrition pathways for pediatric obesity.",
+    "Learn to operationalize a minimum baseline dataset for tele-obesity care, including anthropometric and clinical parameters.",
+    "Identify escalation triggers requiring in-person assessment in pediatric tele-obesity care.",
+    "Apply WHO and IAP growth standards for accurate pediatric BMI classification."
+  ],
+  "key_facts": [
+    "WHO standards are used for children under 5 years, and IAP charts are used for ages 5\u201318 years for BMI classification.",
+    "Minimum baseline dataset includes height, weight, BMI, blood pressure, waist circumference, pubertal context, sleep screen, and psychosocial screen.",
+    "Baseline labs for children \u226510 years with obesity include fasting lipids, fasting glucose or HbA1c, and ALT.",
+    "Escalation triggers include symptoms of diabetes, suspected hypertension, sleep-disordered breathing, rapid weight gain with systemic symptoms, or positive eating disorder risk screen.",
+    "Implementation checkpoints are set at 4\u20136 weeks for behavior changes and 12 weeks for trajectory assessment."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Pediatric Obesity",
+    "Telemedicine",
+    "Body Mass Index",
+    "Comorbidity",
+    "Hypertension",
+    "Sleep Apnea Syndromes",
+    "Psychosocial Factors",
+    "India"
+  ],
+  "tags_custom": [
+    "tele-nutrition",
+    "baseline screening",
+    "pediatric care",
+    "escalation criteria",
+    "digital health tools"
+  ],
+  "reference_quote": "Clinical Practice Guideline for the Evaluation and Treatment of Children and Adolescents With Obesity (AAP, 2023): 'Classification must use pediatric references, not adult cutoffs.'",
+  "document_key_topics": [
+    "Baseline comorbidity screening in tele-obesity care",
+    "Escalation criteria for pediatric tele-nutrition pathways",
+    "Use of WHO and IAP growth standards for BMI classification",
+    "Implementation checkpoints for telecare interventions"
+  ],
+  "chunk_heading": "DIGITAL TOOLS & TELE-NUTRITION;TELE-NUTRITION PATHWAY FOR PEDIATRIC OBESITY AND METABOLIC RISK IN INDIA;BASELINE COMORBIDITY SCREENING AND ESCALATION CHECKPOINTS FOR TELE-OBESITY CARE;",
+  "topic": "DIGITAL TOOLS & TELE-NUTRITION",
+  "subtopic": "TELE-NUTRITION PATHWAY FOR PEDIATRIC OBESITY AND METABOLIC RISK IN INDIA",
+  "sub_subtopic": "BASELINE COMORBIDITY SCREENING AND ESCALATION CHECKPOINTS FOR TELE-OBESITY CARE",
+  "heading_path": "DIGITAL TOOLS & TELE-NUTRITION;TELE-NUTRITION PATHWAY FOR PEDIATRIC OBESITY AND METABOLIC RISK IN INDIA;BASELINE COMORBIDITY SCREENING AND ESCALATION CHECKPOINTS FOR TELE-OBESITY CARE;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u00802"
+}

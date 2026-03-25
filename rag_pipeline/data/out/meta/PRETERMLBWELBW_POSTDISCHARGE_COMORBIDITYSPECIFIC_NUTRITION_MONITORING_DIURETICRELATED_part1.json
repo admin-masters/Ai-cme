@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "This section focuses on monitoring diuretic-related complications in preterm, LBW, and ELBW infants post-discharge, including electrolyte imbalances, bone health, and renal issues, with guidance from authoritative clinical pathways and guidelines.",
+  "learning_objectives": [
+    "Understand the impact of diuretics on electrolyte balance, bone health, and renal function in preterm/LBW/ELBW infants.",
+    "Identify strategies for monitoring and managing nephrocalcinosis and metabolic bone disease post-discharge.",
+    "Apply clinical guidelines to optimize nutrition and mitigate diuretic-related complications in high-risk infants."
+  ],
+  "key_facts": [
+    "Preterm infants on diuretics are at increased risk for nephrocalcinosis, with incidence rates reported as high as 64% in some studies.",
+    "Diuretics like furosemide can lead to electrolyte imbalances, including hypokalemia and hypocalcemia, which may exacerbate bone demineralization.",
+    "Metabolic bone disease is a common complication in ELBW infants, requiring close monitoring of serum calcium, phosphate, and alkaline phosphatase levels.",
+    "Renal complications such as nephrocalcinosis may necessitate adjustments in diuretic dosing or alternative therapies.",
+    "Clinical pathways recommend regular imaging (e.g., renal ultrasound) and biochemical monitoring to detect early signs of nephrocalcinosis and bone disease."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Infant, Premature",
+    "Low Birth Weight Infant",
+    "Diuretics",
+    "Electrolyte Imbalance",
+    "Bone Diseases, Metabolic",
+    "Nephrocalcinosis",
+    "Renal Insufficiency",
+    "Post-Discharge Care"
+  ],
+  "tags_custom": [
+    "Preterm nutrition",
+    "Diuretic complications",
+    "Electrolyte monitoring",
+    "Bone health",
+    "Renal care"
+  ],
+  "reference_quote": "Nephrocalcinosis in neonates is a common complication associated with diuretic use, particularly furosemide, and requires careful monitoring of renal function and imaging studies. (AAP NeoReviews)",
+  "document_key_topics": [
+    "Diuretic-related complications in preterm infants",
+    "Electrolyte and bone health monitoring",
+    "Nephrocalcinosis management",
+    "Post-discharge nutrition strategies"
+  ],
+  "chunk_heading": "PRETERM/LBW/ELBW POST-DISCHARGE NUTRITION;COMORBIDITY-SPECIFIC NUTRITION MODIFICATIONS AFTER DISCHARGE;MONITORING DIURETIC-RELATED ELECTROLYTE BONE AND RENAL COMPLICATIONS;",
+  "topic": "PRETERM/LBW/ELBW POST-DISCHARGE NUTRITION",
+  "subtopic": "COMORBIDITY-SPECIFIC NUTRITION MODIFICATIONS AFTER DISCHARGE",
+  "sub_subtopic": "MONITORING DIURETIC-RELATED ELECTROLYTE BONE AND RENAL COMPLICATIONS",
+  "heading_path": "PRETERM/LBW/ELBW POST-DISCHARGE NUTRITION;COMORBIDITY-SPECIFIC NUTRITION MODIFICATIONS AFTER DISCHARGE;MONITORING DIURETIC-RELATED ELECTROLYTE BONE AND RENAL COMPLICATIONS;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "2\u00996.2"
+}

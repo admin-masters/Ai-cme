@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section discusses triage and antibiotic pathways for aspiration-related respiratory illnesses in children with neurodisability and dysphagia, emphasizing differentiation between pneumonitis and pneumonia, and appropriate antibiotic regimens based on aspiration physiology.",
+  "learning_objectives": [
+    "Understand the clinical differentiation between aspiration pneumonitis and aspiration pneumonia in children with neurodisability.",
+    "Learn triage criteria for hospitalization or observation in children with limited baseline respiratory reserve.",
+    "Identify appropriate antibiotic regimens for suspected aspiration pneumonia, including coverage for anaerobic pathogens.",
+    "Recognize the importance of reassessment and therapy adjustment at 48 hours."
+  ],
+  "key_facts": [
+    "Aspiration pneumonitis typically improves within ~48 hours, while pneumonia persists or worsens beyond ~48 hours.",
+    "Hospitalization is recommended for hypoxia, dehydration, or inability to maintain safe hydration or airway clearance.",
+    "Oral coamoxiclav is a pragmatic first choice in Indian outpatient practice for suspected aspiration pneumonia due to its anaerobic and community pathogen coverage.",
+    "High-dose amoxicillin (80 mg/kg/day in two divided doses for 5 days) is standard for community-acquired pneumonia but requires anaerobic coverage for aspiration-related cases.",
+    "Reassess therapy at 48 hours and narrow treatment if clinical improvement is observed."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Neurodisability",
+    "Dysphagia",
+    "Aspiration Pneumonia",
+    "Aspiration Pneumonitis",
+    "Antibiotic Therapy",
+    "Respiratory Distress",
+    "Community-Acquired Infections",
+    "Anaerobic Bacteria"
+  ],
+  "tags_custom": [
+    "feeding support",
+    "pediatric triage",
+    "antibiotic regimens",
+    "aspiration management",
+    "respiratory health"
+  ],
+  "reference_quote": "Evidence from hospitalized cohorts with neurologic impairment suggests that regimens with gram-negative coverage alone perform worse than regimens that include anaerobic/oral flora coverage.",
+  "document_key_topics": [
+    "Aspiration pneumonitis vs. pneumonia differentiation",
+    "Triage criteria for respiratory illness in neurodisability",
+    "Antibiotic regimens for aspiration-related infections",
+    "Reassessment and therapy adjustment in pediatric respiratory care"
+  ],
+  "chunk_heading": "NEURODISABILITY AND FEEDING SUPPORT;ASPIRATION-RELATED RESPIRATORY ILLNESS TRIAGE AND ANTIBIOTIC PATHWAY;",
+  "topic": "NEURODISABILITY AND FEEDING SUPPORT",
+  "subtopic": "ASPIRATION-RELATED RESPIRATORY ILLNESS TRIAGE AND ANTIBIOTIC PATHWAY",
+  "sub_subtopic": null,
+  "heading_path": "NEURODISABILITY AND FEEDING SUPPORT;ASPIRATION-RELATED RESPIRATORY ILLNESS TRIAGE AND ANTIBIOTIC PATHWAY;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1{.1"
+}

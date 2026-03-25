@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "This section focuses on recognizing time-critical syndromes and red flags in food allergy emergencies, emphasizing rapid identification and management of anaphylaxis and other severe allergic reactions at first contact.",
+  "learning_objectives": [
+    "Identify key red flags and symptoms of time-critical food allergy syndromes, including anaphylaxis.",
+    "Understand the initial emergency management steps for severe allergic reactions.",
+    "Familiarize with international and pediatric guidelines for food allergy and anaphylaxis management.",
+    "Recognize the importance of early diagnosis in conditions like FPIES and eosinophilic esophagitis."
+  ],
+  "key_facts": [
+    "Anaphylaxis is a life-threatening condition requiring immediate administration of intramuscular epinephrine (0.01 mg/kg, max 0.5 mg per dose).",
+    "Food Protein-Induced Enterocolitis Syndrome (FPIES) presents with delayed vomiting and lethargy, often misdiagnosed as sepsis in infants.",
+    "Eosinophilic esophagitis in children is associated with feeding difficulties and requires endoscopic biopsy for diagnosis.",
+    "The Indian Academy of Pediatrics (IAP) provides specific guidelines for managing food allergies and anaphylaxis in pediatric populations.",
+    "International consensus guidelines (2017) emphasize the importance of distinguishing FPIES from IgE-mediated food allergies."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Food Hypersensitivity",
+    "Anaphylaxis",
+    "Epinephrine",
+    "Food Protein-Induced Enterocolitis Syndrome",
+    "Eosinophilic Esophagitis",
+    "Emergency Medical Services",
+    "Pediatrics",
+    "Allergy and Immunology"
+  ],
+  "tags_custom": [
+    "time-critical management",
+    "food allergy emergencies",
+    "pediatric guidelines",
+    "syndrome recognition"
+  ],
+  "reference_quote": "Anaphylaxis is a medical emergency requiring immediate intramuscular epinephrine administration (0.01 mg/kg, max 0.5 mg per dose) as the first-line treatment. (Source: IAP Standard Treatment Guidelines: Anaphylaxis)",
+  "document_key_topics": [
+    "Recognition of time-critical food allergy syndromes",
+    "Emergency management of anaphylaxis",
+    "Guidelines for FPIES and eosinophilic esophagitis",
+    "Pediatric-focused allergy management protocols"
+  ],
+  "chunk_heading": "FOOD ALLERGY & THERAPEUTIC ELIMINATION DIETS;TIME-CRITICAL EMERGENCY MANAGEMENT AT FIRST CONTACT;TIME-CRITICAL SYNDROME RECOGNITION AND RED FLAGS;",
+  "topic": "FOOD ALLERGY & THERAPEUTIC ELIMINATION DIETS",
+  "subtopic": "TIME-CRITICAL EMERGENCY MANAGEMENT AT FIRST CONTACT",
+  "sub_subtopic": "TIME-CRITICAL SYNDROME RECOGNITION AND RED FLAGS",
+  "heading_path": "FOOD ALLERGY & THERAPEUTIC ELIMINATION DIETS;TIME-CRITICAL EMERGENCY MANAGEMENT AT FIRST CONTACT;TIME-CRITICAL SYNDROME RECOGNITION AND RED FLAGS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1m1.2"
+}

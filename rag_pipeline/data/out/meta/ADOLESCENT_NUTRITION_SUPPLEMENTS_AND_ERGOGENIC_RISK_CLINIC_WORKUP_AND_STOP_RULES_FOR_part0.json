@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "Guidelines for managing supplement-related adverse events in adolescents, including stop rules, focused history, syndrome-based workup, and counseling on safety and risk elimination.",
+  "learning_objectives": [
+    "Identify symptoms indicative of supplement-related adverse events in adolescents.",
+    "Understand the immediate stop rules and documentation process for suspected supplement harm.",
+    "Apply syndrome-based workup protocols for cardiovascular, hepatic, and other adverse effects.",
+    "Counsel families on the risks of supplement use and the importance of discontinuation."
+  ],
+  "key_facts": [
+    "Immediate stop rule: Discontinue all nonessential supplements and document ingredients, batch, and proprietary blends.",
+    "Key symptoms: Palpitations, insomnia, tremor, hypertension, jaundice, dark urine, severe gastrointestinal symptoms.",
+    "Workup for palpitations: Check vitals, orthostatics, ECG, electrolytes, and glucose; escalate if QTc is prolonged.",
+    "Hepatic injury evaluation: Perform AST/ALT, bilirubin, INR, and metabolic panel; refer urgently for coagulopathy or encephalopathy.",
+    "Do not recommend rechallenge after suspected supplement-related harm, especially with liver injury.",
+    "Adulteration and mislabeling are common in sports supplements; do not assume label accuracy.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Adolescent Nutrition",
+    "Dietary Supplements",
+    "Adverse Drug Reaction Reporting Systems",
+    "Hepatotoxicity",
+    "Cardiovascular Symptoms",
+    "Hypertension",
+    "Risk Management",
+    "Patient Education"
+  ],
+  "tags_custom": [
+    "Supplement Safety",
+    "Ergogenic Risks",
+    "Adolescent Health",
+    "Clinical Guidelines"
+  ],
+  "reference_quote": "Adulteration and mislabeling are recognized problems in sports supplements, so do not assume label accuracy. (Source: https://bjsm.bmj.com/content/early/2018/03/13/bjsports-2018-099027.alerts?versioned=true)",
+  "document_key_topics": [
+    "Adverse events from supplements in adolescents",
+    "Syndrome-based clinical workup protocols",
+    "Stop rules and risk management strategies",
+    "Counseling on supplement safety and elimination"
+  ],
+  "chunk_heading": "ADOLESCENT NUTRITION;SUPPLEMENTS AND ERGOGENIC RISK MANAGEMENT;CLINIC WORKUP AND STOP RULES FOR SUPPLEMENT-RELATED ADVERSE EVENTS;",
+  "topic": "ADOLESCENT NUTRITION",
+  "subtopic": "SUPPLEMENTS AND ERGOGENIC RISK MANAGEMENT",
+  "sub_subtopic": "CLINIC WORKUP AND STOP RULES FOR SUPPLEMENT-RELATED ADVERSE EVENTS",
+  "heading_path": "ADOLESCENT NUTRITION;SUPPLEMENTS AND ERGOGENIC RISK MANAGEMENT;CLINIC WORKUP AND STOP RULES FOR SUPPLEMENT-RELATED ADVERSE EVENTS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2\u00853.1"
+}

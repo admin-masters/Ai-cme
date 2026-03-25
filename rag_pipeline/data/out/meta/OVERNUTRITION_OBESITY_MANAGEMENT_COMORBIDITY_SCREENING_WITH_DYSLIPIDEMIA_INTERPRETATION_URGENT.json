@@ -1,0 +1,47 @@
+{
+  "chunk_summary": "This section addresses dyslipidemia management in pediatric obesity, focusing on lipid profile interpretation, urgent referral criteria, and statin therapy considerations within structured lifestyle interventions.",
+  "learning_objectives": [
+    "Understand lipid profile thresholds for pediatric dyslipidemia interpretation.",
+    "Identify urgent referral criteria for high-risk lipid phenotypes in children.",
+    "Learn statin therapy indications and considerations for pediatric patients with obesity-related dyslipidemia."
+  ],
+  "key_facts": [
+    "Total cholesterol thresholds: <170 mg/dL acceptable, 170\u2013199 mg/dL borderline, \u2265200 mg/dL high.",
+    "LDL thresholds: <110 mg/dL acceptable, 110\u2013129 mg/dL borderline, \u2265130 mg/dL high; urgent referral if LDL >190 mg/dL.",
+    "Triglycerides >500 mg/dL require urgent referral; fasting lipid panels are essential for accurate interpretation.",
+    "Statin therapy is considered for children \u226510 years with LDL \u2265190 mg/dL or \u2265160 mg/dL with additional risk factors after lifestyle interventions.",
+    "Dietary counseling should focus on reducing saturated fat, trans fat, refined carbohydrates, and sugary beverages."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Pediatric Obesity",
+    "Dyslipidemias",
+    "Hypercholesterolemia",
+    "Hypertriglyceridemia",
+    "Statins",
+    "Diet Therapy",
+    "Cardiology",
+    "Endocrinology"
+  ],
+  "tags_custom": [
+    "lipid management",
+    "urgent referral criteria",
+    "statin therapy",
+    "pediatric dyslipidemia",
+    "obesity comorbidities"
+  ],
+  "reference_quote": "NHLBI guidelines recommend urgent referral for LDL >190 mg/dL or triglycerides >500 mg/dL in pediatric patients with obesity-related dyslipidemia.",
+  "document_key_topics": [
+    "Pediatric dyslipidemia interpretation",
+    "Urgent referral for high-risk lipid phenotypes",
+    "Statin therapy in children with obesity"
+  ],
+  "chunk_heading": "OVERNUTRITION & OBESITY MANAGEMENT;COMORBIDITY SCREENING WITH ACTIONABLE PATHWAYS;DYSLIPIDEMIA INTERPRETATION, URGENT REFERRAL, AND STATIN CONSIDERATION;",
+  "topic": "OVERNUTRITION & OBESITY MANAGEMENT",
+  "subtopic": "COMORBIDITY SCREENING WITH ACTIONABLE PATHWAYS",
+  "sub_subtopic": "DYSLIPIDEMIA INTERPRETATION, URGENT REFERRAL, AND STATIN CONSIDERATION",
+  "heading_path": "OVERNUTRITION & OBESITY MANAGEMENT;COMORBIDITY SCREENING WITH ACTIONABLE PATHWAYS;DYSLIPIDEMIA INTERPRETATION, URGENT REFERRAL, AND STATIN CONSIDERATION;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1u7"
+}

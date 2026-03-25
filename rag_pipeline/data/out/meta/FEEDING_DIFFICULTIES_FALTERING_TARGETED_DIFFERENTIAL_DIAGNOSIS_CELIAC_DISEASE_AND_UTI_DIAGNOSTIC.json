@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "This section discusses diagnostic pathways for celiac disease and occult UTI as treatable causes of feeding difficulties and faltering growth in children, emphasizing screening protocols and referral criteria.",
+  "learning_objectives": [
+    "Understand the diagnostic criteria and serological testing for celiac disease in children.",
+    "Learn appropriate urine collection methods and diagnostic steps for occult UTI in pediatric patients.",
+    "Recognize the importance of dietary counseling and specialist referral in celiac disease management.",
+    "Identify clinical signs that warrant screening for celiac disease and UTI in children with faltering growth."
+  ],
+  "key_facts": [
+    "Celiac disease screening requires tissue transglutaminase IgA (tTG IgA) and total IgA levels; use IgG-based tests if IgA deficiency is present.",
+    "ESPGHAN criteria allow no-biopsy diagnosis for celiac disease if tTG IgA is \u226510\u00d7 upper limit of normal and endomysial antibody is positive.",
+    "Urine collection for UTI screening should use clean catch or catheterization to avoid false positives from bag specimens.",
+    "Dipstick/urinalysis is a screening tool for UTI but must be confirmed with culture before antibiotics.",
+    "Recurrent or atypical UTIs require follow-up imaging per pediatric UTI guidelines."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Celiac Disease",
+    "Urinary Tract Infections",
+    "Faltering Growth",
+    "Pediatric Gastroenterology",
+    "Serologic Tests",
+    "Dietary Counseling",
+    "Urinalysis",
+    "Pediatric Diagnostics"
+  ],
+  "tags_custom": [
+    "feeding difficulties",
+    "growth faltering",
+    "pediatric UTI",
+    "gluten-free diet",
+    "diagnostic pathways"
+  ],
+  "reference_quote": "ESPGHAN criteria allow a no-biopsy diagnosis in selected children with tTG IgA \u226510\u00d7 the upper limit of normal plus a positive endomysial antibody test on a second sample and compatible clinical features.",
+  "document_key_topics": [
+    "Celiac disease diagnostic criteria and management",
+    "Occult UTI screening and treatment in children",
+    "Faltering growth and feeding difficulties"
+  ],
+  "chunk_heading": "FEEDING DIFFICULTIES & FALTERING GROWTH;TARGETED DIFFERENTIAL DIAGNOSIS AND HIGH YIELD INVESTIGATIONS;CELIAC DISEASE AND UTI DIAGNOSTIC PATHWAYS;",
+  "topic": "FEEDING DIFFICULTIES & FALTERING GROWTH",
+  "subtopic": "TARGETED DIFFERENTIAL DIAGNOSIS AND HIGH YIELD INVESTIGATIONS",
+  "sub_subtopic": "CELIAC DISEASE AND UTI DIAGNOSTIC PATHWAYS",
+  "heading_path": "FEEDING DIFFICULTIES & FALTERING GROWTH;TARGETED DIFFERENTIAL DIAGNOSIS AND HIGH YIELD INVESTIGATIONS;CELIAC DISEASE AND UTI DIAGNOSTIC PATHWAYS;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "1n3"
+}

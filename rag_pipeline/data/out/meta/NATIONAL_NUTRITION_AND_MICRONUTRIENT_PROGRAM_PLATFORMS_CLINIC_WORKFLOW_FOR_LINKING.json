@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section outlines clinic workflows for linking children to nutrition and fortification services, emphasizing documentation, escalation paths, and program alignment for pediatric micronutrient interventions in India.",
+  "learning_objectives": [
+    "Understand the clinic workflow for linking children to entitled nutrition and fortification services.",
+    "Learn documentation practices for vitamin A supplementation, IFA prophylaxis, and deworming schedules.",
+    "Identify escalation pathways for missed services in anganwadi, immunization, and school-based programs."
+  ],
+  "key_facts": [
+    "Vitamin A supplementation (VAS) doses must be recorded in OPD notes or discharge summaries.",
+    "Prophylactic IFA is administered biweekly as syrup or weekly as tablets.",
+    "Deworming schedules should be documented, with missed services escalated to AWW, ASHA, or school health nodal teachers.",
+    "Exclusions like transfusion-dependent hemoglobinopathy require tailored program linkage notes.",
+    "Documentation should include follow-up dates to ensure frontline staff action without conflict.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Micronutrients",
+    "Vitamin A",
+    "Iron Deficiency Anemia",
+    "Deworming",
+    "Child Nutrition",
+    "Public Health Programs",
+    "India",
+    "Primary Health Care"
+  ],
+  "tags_custom": [
+    "clinic workflow",
+    "pediatric nutrition",
+    "service linkage",
+    "program escalation",
+    "documentation practices"
+  ],
+  "reference_quote": "Mission Saksham Anganwadi and POSHAN 2.0 documents emphasize frontline action through program alignment and escalation pathways for missed services.",
+  "document_key_topics": [
+    "Vitamin A supplementation and documentation",
+    "Iron and folic acid prophylaxis for children",
+    "Escalation pathways for missed nutrition services",
+    "Integration of anganwadi, school, and health systems"
+  ],
+  "chunk_heading": "NATIONAL NUTRITION AND FORTIFICATION PROGRAMS IN INDIA;MICRONUTRIENT PROGRAM PLATFORMS AND PEDIATRIC TOUCHPOINTS;CLINIC WORKFLOW FOR LINKING CHILDREN TO ENTITLED SERVICES;",
+  "topic": "NATIONAL NUTRITION AND FORTIFICATION PROGRAMS IN INDIA",
+  "subtopic": "MICRONUTRIENT PROGRAM PLATFORMS AND PEDIATRIC TOUCHPOINTS",
+  "sub_subtopic": "CLINIC WORKFLOW FOR LINKING CHILDREN TO ENTITLED SERVICES",
+  "heading_path": "NATIONAL NUTRITION AND FORTIFICATION PROGRAMS IN INDIA;MICRONUTRIENT PROGRAM PLATFORMS AND PEDIATRIC TOUCHPOINTS;CLINIC WORKFLOW FOR LINKING CHILDREN TO ENTITLED SERVICES;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2l8"
+}

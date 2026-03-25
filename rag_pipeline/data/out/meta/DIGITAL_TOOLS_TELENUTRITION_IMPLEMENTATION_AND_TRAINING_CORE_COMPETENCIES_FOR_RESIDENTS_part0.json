@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "Core competencies for tele-nutrition teams include clinical, safety, and communication skills tailored to digital delivery, with a focus on structured counseling, safety protocols, and special population needs.",
+  "learning_objectives": [
+    "Understand and apply tele-appropriateness triage with red-flag detection in tele-nutrition practice.",
+    "Demonstrate safe supplementation knowledge, including iron dosing schedules and vitamin D prophylaxis cautions.",
+    "Develop culturally feasible, non-stigmatizing counseling scripts and structured follow-up communication.",
+    "Address special population needs, such as preterm infant feeding safety and adolescent confidentiality."
+  ],
+  "key_facts": [
+    "Tele-nutrition requires explicit training in clinical, safety, and communication competencies.",
+    "Residents must know iron dosing schedules, vitamin D prophylaxis cautions, and vitamin A program schedules.",
+    "Dietitians can counsel and monitor but require RMP authorization for therapeutic-dose supplementation and test ordering.",
+    "Special skills include adolescent confidentiality with eating disorder risk screening using SCOFF.",
+    "Digital hygiene rules include same-day upload to medical records and role-based access to data.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Telemedicine",
+    "Nutrition Therapy",
+    "Clinical Competence",
+    "Patient Safety",
+    "Health Communication",
+    "Dietary Supplements",
+    "Adolescent Health",
+    "Infant Nutrition"
+  ],
+  "tags_custom": [
+    "tele-nutrition training",
+    "digital health competencies",
+    "special population care",
+    "safety protocols",
+    "structured counseling"
+  ],
+  "reference_quote": "Telemedicine Practice Guidelines emphasize the importance of capturing and documenting consent and guardian authorization (Reference 1).",
+  "document_key_topics": [
+    "Tele-nutrition core competencies",
+    "Safety and scope boundaries in tele-nutrition",
+    "Special population considerations in tele-nutrition",
+    "Digital hygiene and communication protocols"
+  ],
+  "chunk_heading": "DIGITAL TOOLS & TELE-NUTRITION;IMPLEMENTATION AND TRAINING COMPETENCIES FOR TELE-NUTRITION TEAMS;CORE COMPETENCIES FOR RESIDENTS AND TEAM MEMBERS DELIVERING TELE-NUTRITION;",
+  "topic": "DIGITAL TOOLS & TELE-NUTRITION",
+  "subtopic": "IMPLEMENTATION AND TRAINING COMPETENCIES FOR TELE-NUTRITION TEAMS",
+  "sub_subtopic": "CORE COMPETENCIES FOR RESIDENTS AND TEAM MEMBERS DELIVERING TELE-NUTRITION",
+  "heading_path": "DIGITAL TOOLS & TELE-NUTRITION;IMPLEMENTATION AND TRAINING COMPETENCIES FOR TELE-NUTRITION TEAMS;CORE COMPETENCIES FOR RESIDENTS AND TEAM MEMBERS DELIVERING TELE-NUTRITION;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "1\u00a11"
+}

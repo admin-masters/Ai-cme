@@ -1,0 +1,47 @@
+{
+  "chunk_summary": "This section outlines clinic-ready strategies for assessing adolescent nutrition, emphasizing structured evaluations, anthropometry, and resource-adapted baseline investigations tailored to severity and local guidelines.",
+  "learning_objectives": [
+    "Understand structured clinic assessments for adolescent nutrition, including dietary recall and anthropometry.",
+    "Identify appropriate baseline investigations based on severity and resource availability.",
+    "Apply adolescent-specific growth references like IAP 2015 and WHO 2007 for anthropometric evaluation."
+  ],
+  "key_facts": [
+    "IAP 2015 growth charts are widely used in Indian clinics for ages 5\u201318 years.",
+    "WHO 2007 defines thinness as BMI-for-age <-2 SD, overweight >+1 SD, and obesity >+2 SD.",
+    "Baseline investigations include CBC, ferritin, TSH, and 25(OH)D, with additional tests for overweight/obesity like fasting lipids, HbA1c, and ALT.",
+    "MASLD screening is recommended for adolescents \u226510 years with overweight/obesity.",
+    "Electrolytes, LFT, ECG, and micronutrient testing are advised for higher physiologic risk cases."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Adolescent Nutrition",
+    "Anthropometry",
+    "Body Mass Index",
+    "Micronutrient Deficiency",
+    "Obesity",
+    "Dietary Assessment",
+    "Growth Charts",
+    "Metabolic Syndrome"
+  ],
+  "tags_custom": [
+    "clinic-ready assessments",
+    "baseline investigations",
+    "adolescent health",
+    "nutrition screening",
+    "resource-adapted care"
+  ],
+  "reference_quote": "WHO 2007 reference defines thinness as BMI-for-age <-2 SD, overweight >+1 SD, and obesity >+2 SD. (Source: WHO growth reference data for 5\u201319 years)",
+  "document_key_topics": [
+    "Adolescent dietary assessment methods",
+    "Anthropometric evaluation using growth charts",
+    "Baseline investigations for nutritional and metabolic health"
+  ],
+  "chunk_heading": "ADOLESCENT NUTRITION;CLINIC-READY ASSESSMENT AND RESOURCE-ADAPTED BASELINE INVESTIGATIONS;",
+  "topic": "ADOLESCENT NUTRITION",
+  "subtopic": "CLINIC-READY ASSESSMENT AND RESOURCE-ADAPTED BASELINE INVESTIGATIONS",
+  "sub_subtopic": null,
+  "heading_path": "ADOLESCENT NUTRITION;CLINIC-READY ASSESSMENT AND RESOURCE-ADAPTED BASELINE INVESTIGATIONS;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "1j"
+}

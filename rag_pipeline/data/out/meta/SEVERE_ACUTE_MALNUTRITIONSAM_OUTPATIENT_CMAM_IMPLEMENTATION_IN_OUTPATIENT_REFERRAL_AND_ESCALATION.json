@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Outpatient CMAM in India emphasizes rapid referral and escalation criteria to ensure patient safety in managing severe acute malnutrition (SAM). Key triggers include danger signs, appetite test failure, edema changes, and social barriers to effective care.",
+  "learning_objectives": [
+    "Understand the outpatient referral and escalation criteria for SAM management in CMAM programs.",
+    "Identify clinical and social triggers for inpatient stabilization in SAM cases.",
+    "Learn the importance of monitoring recovery momentum and addressing barriers to outpatient care.",
+    "Recognize the risks of overhydration and diagnostic uncertainty in SAM management."
+  ],
+  "key_facts": [
+    "Immediate referral is required for danger signs such as lethargy, convulsions, hypothermia, hypoglycemia, or respiratory distress.",
+    "Failure to gain weight over two successive visits or new/worsening edema indicates high-risk non-response and requires escalation.",
+    "Suspected severe dehydration or shock should be treated as inpatient indications, not outpatient ORS trials, due to overhydration risks.",
+    "Social factors like caregiver inability to ensure safe feeding or reliable follow-up are valid medical triggers for inpatient care.",
+    "Outpatient CMAM relies on verified therapeutic food delivery and correct antibiotic use to ensure recovery.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Severe Acute Malnutrition",
+    "Community-Based Management of Acute Malnutrition",
+    "Nutritional Edema",
+    "Referral and Consultation",
+    "Dehydration",
+    "Edema",
+    "Hypoglycemia",
+    "Respiratory Distress Syndrome"
+  ],
+  "tags_custom": [
+    "SAM escalation criteria",
+    "CMAM outpatient care",
+    "India malnutrition programs",
+    "Inpatient referral triggers",
+    "Social barriers in SAM management"
+  ],
+  "reference_quote": "Outpatient CMAM is safe only when deterioration triggers rapid referral. Escalation criteria should be treated as patient-safety rules, because infection signs can be muted and weight change can be distorted by edema and intercurrent illness. (WHO, 2023)",
+  "document_key_topics": [
+    "Severe Acute Malnutrition (SAM) management",
+    "Outpatient CMAM implementation in India",
+    "Referral and escalation criteria in CMAM"
+  ],
+  "chunk_heading": "SEVERE ACUTE MALNUTRITION-(SAM) MANAGEMENT;OUTPATIENT CMAM IMPLEMENTATION IN INDIA;OUTPATIENT REFERRAL AND ESCALATION CRITERIA IN  CMAM;",
+  "topic": "SEVERE ACUTE MALNUTRITION-(SAM) MANAGEMENT",
+  "subtopic": "OUTPATIENT CMAM IMPLEMENTATION IN INDIA",
+  "sub_subtopic": "OUTPATIENT REFERRAL AND ESCALATION CRITERIA IN  CMAM",
+  "heading_path": "SEVERE ACUTE MALNUTRITION-(SAM) MANAGEMENT;OUTPATIENT CMAM IMPLEMENTATION IN INDIA;OUTPATIENT REFERRAL AND ESCALATION CRITERIA IN  CMAM;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "3\u00892"
+}

@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "Guidelines for household-level prescribing and adherence audits for THR and hot cooked meals, emphasizing operational prescription, storage, preparation, and follow-up to ensure effective supplementary feeding for children.",
+  "learning_objectives": [
+    "Understand the importance of operational prescription for THR and hot cooked meals to ensure effective intake.",
+    "Learn methods to reduce sharing and ensure proper storage and preparation of supplementary nutrition.",
+    "Identify strategies to audit adherence, including tracking days received, consumed, and preparation errors.",
+    "Recognize escalation protocols for addressing programmatic issues like stockouts or poor-quality supplies."
+  ],
+  "key_facts": [
+    "THR and hot cooked meals should be prescribed operationally, like medication, rather than assuming receipt equals intake.",
+    "Caregivers should be instructed to treat the ration as the child\u2019s medicine and follow a storage and serving plan to reduce sharing.",
+    "Preparation should aim for thick consistency with added fat to increase energy density, avoiding over-dilution into watery gruel or tea.",
+    "Adherence audits should track days received, days consumed by the child, sharing, storage, and preparation errors.",
+    "Escalation protocols include documenting issues, providing written linkage notes to supervisors, and involving social support services for persistent failures.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Child Nutrition Disorders",
+    "Dietary Supplements",
+    "Food Assistance",
+    "Nutrition Policy",
+    "Feeding Behavior",
+    "Caregivers",
+    "Food Safety",
+    "Malnutrition"
+  ],
+  "tags_custom": [
+    "THR adherence",
+    "hot cooked meals",
+    "supplementary feeding",
+    "child nutrition audits",
+    "caregiver education"
+  ],
+  "reference_quote": "\u2018This ration is the child\u2019s medicine.\u2019 (Source: Chunk Content)",
+  "document_key_topics": [
+    "Prescribing THR and hot cooked meals",
+    "Adherence audits for supplementary feeding",
+    "Caregiver education on storage and preparation",
+    "Escalation protocols for programmatic issues"
+  ],
+  "chunk_heading": "FEEDING;SUPPLEMENTARY FEEDING REGIMENS AND SAFE PRODUCT USE;HOUSEHOLD-LEVEL PRESCRIBING AND ADHERENCE AUDIT FOR THR AND HOT COOKED MEALS;",
+  "topic": "FEEDING",
+  "subtopic": "SUPPLEMENTARY FEEDING REGIMENS AND SAFE PRODUCT USE",
+  "sub_subtopic": "HOUSEHOLD-LEVEL PRESCRIBING AND ADHERENCE AUDIT FOR THR AND HOT COOKED MEALS",
+  "heading_path": "FEEDING;SUPPLEMENTARY FEEDING REGIMENS AND SAFE PRODUCT USE;HOUSEHOLD-LEVEL PRESCRIBING AND ADHERENCE AUDIT FOR THR AND HOT COOKED MEALS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "3o2"
+}

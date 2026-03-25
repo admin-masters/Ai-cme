@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "This section outlines procedural principles for aspiration biopsy and specimen handling in diagnosing bone infections, emphasizing aseptic technique, microbiology planning, and specimen prioritization for improved diagnostic yield.",
+  "learning_objectives": [
+    "Understand the procedural steps for joint aspiration and bone biopsy in diagnosing bone infections.",
+    "Learn specimen handling techniques to optimize microbiological and molecular diagnostic yield.",
+    "Recognize scenarios where bone biopsy is most valuable, such as chronic or atypical disease presentations."
+  ],
+  "key_facts": [
+    "Joint aspiration should collect enough fluid for cell count, differential, Gram stain, routine culture, and crystal analysis.",
+    "In cases of limited fluid volume, prioritize inoculation into blood culture bottles to improve organism recovery.",
+    "Bone biopsy is particularly valuable when blood cultures are negative or imaging suggests abscess, malignancy, TB, or fungal disease.",
+    "Multiple tissue cores improve diagnostic yield; specimens should be sent for bacterial, mycobacterial, fungal cultures, and histopathology.",
+    "Superficial swabs from draining sinuses correlate poorly with bone organisms and should not guide therapy.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Bone Diseases",
+    "Biopsy",
+    "Specimen Handling",
+    "Microbiology",
+    "Osteomyelitis",
+    "Septic Arthritis",
+    "Diagnostic Techniques and Procedures",
+    "Pediatric Infectious Diseases"
+  ],
+  "tags_custom": [
+    "aspiration biopsy",
+    "specimen prioritization",
+    "aseptic technique",
+    "diagnostic microbiology",
+    "pediatric bone infections"
+  ],
+  "reference_quote": "Joint aspiration and bone biopsy should be treated as diagnostic procedures with a defined microbiology plan rather than simple fluid removal. (PIDS/IDSA 2023 Guidelines)",
+  "document_key_topics": [
+    "Aspiration biopsy procedural principles",
+    "Specimen handling for microbiological yield",
+    "Diagnostic strategies for pediatric bone infections"
+  ],
+  "chunk_heading": "BONE INFECTIONS;DIAGNOSTIC EVALUATION AND IMAGING SELECTION;PROCEDURAL PRINCIPLES FOR ASPIRATION BIOPSY AND SPECIMEN HANDLING;",
+  "topic": "BONE INFECTIONS",
+  "subtopic": "DIAGNOSTIC EVALUATION AND IMAGING SELECTION",
+  "sub_subtopic": "PROCEDURAL PRINCIPLES FOR ASPIRATION BIOPSY AND SPECIMEN HANDLING",
+  "heading_path": "BONE INFECTIONS;DIAGNOSTIC EVALUATION AND IMAGING SELECTION;PROCEDURAL PRINCIPLES FOR ASPIRATION BIOPSY AND SPECIMEN HANDLING;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1l4"
+}

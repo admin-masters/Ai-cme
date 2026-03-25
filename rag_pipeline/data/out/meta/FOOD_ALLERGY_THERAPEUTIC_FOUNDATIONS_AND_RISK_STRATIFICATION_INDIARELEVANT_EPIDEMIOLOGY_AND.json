@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "This section discusses India-specific epidemiology and allergen patterns in pediatric food allergy, emphasizing regional dietary staples, common allergens by age, and diagnostic considerations to avoid unnecessary elimination diets.",
+  "learning_objectives": [
+    "Understand the distinction between sensitization and true clinical food allergy in Indian children.",
+    "Identify common food allergens in Indian pediatric populations across different age groups.",
+    "Learn diagnostic strategies tailored to Indian dietary patterns and cultural contexts.",
+    "Recognize the importance of cautious elimination diets for staple foods in vegetarian households."
+  ],
+  "key_facts": [
+    "Sensitization rates in India are often higher than clinically confirmed food allergy cases.",
+    "Common allergens in Indian infants include cow\u2019s milk protein, egg, and wheat, with milk-triggered non-IgE syndromes like FPIAP, FPIES, and FPE being significant.",
+    "In toddlers and preschoolers, milk, egg, wheat, and legumes (e.g., chickpea, lentils) are prominent allergens.",
+    "In school-age children and adolescents, peanut, tree nuts, sesame, fish, shellfish, and wheat are more relevant allergens.",
+    "Diagnostic reasoning should consider food form (raw, cooked, fermented), portion size, timing of symptoms, and co-factors like infections or NSAID use.",
+    "Staple foods in vegetarian households require higher thresholds for confirmation of allergy to avoid unnecessary dietary restrictions."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Food Hypersensitivity",
+    "Pediatrics",
+    "Epidemiology",
+    "Dietary Proteins",
+    "Allergens",
+    "India",
+    "Elimination Diet",
+    "Risk Assessment"
+  ],
+  "tags_custom": [
+    "India-specific food allergy",
+    "Pediatric allergens",
+    "Dietary staples",
+    "Non-IgE syndromes",
+    "Allergy diagnosis"
+  ],
+  "reference_quote": "Indian guidance emphasizes that positive tests often reflect sensitization rather than true clinical allergy, so prevalence perceptions should be calibrated to avoid reflex multi-food elimination.",
+  "document_key_topics": [
+    "India-specific food allergy epidemiology",
+    "Common pediatric allergens by age group",
+    "Diagnostic strategies for food allergy in India",
+    "Impact of dietary staples on elimination diets"
+  ],
+  "chunk_heading": "FOOD ALLERGY & THERAPEUTIC ELIMINATION DIETS;FOUNDATIONS AND RISK STRATIFICATION FOR PEDIATRIC FOOD ALLERGY;INDIA-RELEVANT EPIDEMIOLOGY AND ALLERGEN PATTERNS;",
+  "topic": "FOOD ALLERGY & THERAPEUTIC ELIMINATION DIETS",
+  "subtopic": "FOUNDATIONS AND RISK STRATIFICATION FOR PEDIATRIC FOOD ALLERGY",
+  "sub_subtopic": "INDIA-RELEVANT EPIDEMIOLOGY AND ALLERGEN PATTERNS",
+  "heading_path": "FOOD ALLERGY & THERAPEUTIC ELIMINATION DIETS;FOUNDATIONS AND RISK STRATIFICATION FOR PEDIATRIC FOOD ALLERGY;INDIA-RELEVANT EPIDEMIOLOGY AND ALLERGEN PATTERNS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1d3"
+}

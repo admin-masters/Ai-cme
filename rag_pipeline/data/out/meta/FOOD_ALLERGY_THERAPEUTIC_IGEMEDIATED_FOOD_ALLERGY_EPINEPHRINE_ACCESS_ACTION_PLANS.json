@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "This section outlines epinephrine access plans and school readiness for IgE-mediated food allergies, emphasizing safety protocols, dosing guidelines, and caregiver/school training to prevent delays in emergency management.",
+  "learning_objectives": [
+    "Understand the importance of epinephrine access as a systemic safety measure for IgE-mediated food allergies.",
+    "Learn proper intramuscular epinephrine dosing and administration techniques for emergencies.",
+    "Develop school readiness plans, including allergen documentation and emergency protocols.",
+    "Recognize the limitations and safeguards of resource-limited epinephrine delivery methods."
+  ],
+  "key_facts": [
+    "Standard intramuscular epinephrine dosing is 0.01 mg/kg of 1 mg/mL into the anterolateral thigh.",
+    "Epinephrine autoinjectors are the first choice, with device-specific training and renewal checks.",
+    "Pre-filled syringe programs should have strict safeguards, including 3-month replacement intervals and caregiver teach-back.",
+    "Epinephrine is not indicated for mild symptoms like isolated oral itch or a few hives without progression.",
+    "School readiness plans must include allergen documentation, symptom recognition, epinephrine storage details, and emergency calling procedures."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Food Hypersensitivity",
+    "Anaphylaxis",
+    "Epinephrine",
+    "Emergency Medical Services",
+    "Schools",
+    "Patient Education",
+    "Drug Administration Routes",
+    "Safety Management"
+  ],
+  "tags_custom": [
+    "IgE-mediated allergy",
+    "school readiness",
+    "epinephrine access",
+    "emergency protocols",
+    "caregiver training"
+  ],
+  "reference_quote": "The minimum safety bundle is a written action plan plus skills training using demonstration and teach-back, repeated at follow-up because technique decays. (Source: Anaphylaxis Management in OPD, IAP Action Plan 2026)",
+  "document_key_topics": [
+    "Epinephrine administration and dosing for food allergies",
+    "School readiness and emergency action plans",
+    "Safety protocols for resource-limited epinephrine access"
+  ],
+  "chunk_heading": "FOOD ALLERGY & THERAPEUTIC ELIMINATION DIETS;IGE-MEDIATED FOOD ALLERGY OUTPATIENT PATHWAY;EPINEPHRINE ACCESS ACTION PLANS AND SCHOOL READINESS;",
+  "topic": "FOOD ALLERGY & THERAPEUTIC ELIMINATION DIETS",
+  "subtopic": "IGE-MEDIATED FOOD ALLERGY OUTPATIENT PATHWAY",
+  "sub_subtopic": "EPINEPHRINE ACCESS ACTION PLANS AND SCHOOL READINESS",
+  "heading_path": "FOOD ALLERGY & THERAPEUTIC ELIMINATION DIETS;IGE-MEDIATED FOOD ALLERGY OUTPATIENT PATHWAY;EPINEPHRINE ACCESS ACTION PLANS AND SCHOOL READINESS;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "1s3"
+}

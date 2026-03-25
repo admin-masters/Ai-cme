@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "Ferritin-guided iron dose adjustment ensures safe and effective iron supplementation in preterm/LBW/ELBW infants post-discharge, considering factors like transfusions, inflammation, and growth needs.",
+  "learning_objectives": [
+    "Understand the role of ferritin in guiding iron supplementation for preterm/LBW/ELBW infants.",
+    "Learn criteria for adjusting iron doses based on ferritin levels and clinical context.",
+    "Identify risks of over- or under-supplementation and strategies to mitigate them.",
+    "Incorporate ferritin monitoring into discharge planning for high-risk infants."
+  ],
+  "key_facts": [
+    "Ferritin <35\u201340 \u00b5g/L with low or falling hemoglobin indicates iron deficiency; increase elemental iron to 3\u20134 mg/kg/day (up to 6 mg/kg/day in high-risk cases).",
+    "Reassess iron status 2\u20134 weeks after dose escalation.",
+    "Ferritin >300 \u00b5g/L without clear iron deficiency warrants reducing or holding iron supplementation, with reassessment in 4\u20136 weeks.",
+    "High ferritin may reflect inflammation, cholestasis, or recent transfusions, requiring specialist input.",
+    "Iron should be administered separately from large calcium/phosphate doses and not mixed into unfinished bottles."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Ferritin",
+    "Iron",
+    "Iron Deficiency",
+    "Infant, Premature",
+    "Low Birth Weight",
+    "Nutritional Support",
+    "Postnatal Care",
+    "Anemia, Iron-Deficiency"
+  ],
+  "tags_custom": [
+    "ferritin-guided dosing",
+    "iron supplementation",
+    "preterm nutrition",
+    "post-discharge care"
+  ],
+  "reference_quote": "Ferritin-guided adjustment improves safety when iron needs are uncertain (recent transfusions, inflammation, cholestasis, or rapid growth).",
+  "document_key_topics": [
+    "Ferritin-guided iron dose adjustment",
+    "Iron supplementation safety in preterm infants",
+    "Criteria for step-down or escalation of iron therapy",
+    "Post-discharge monitoring of micronutrient status"
+  ],
+  "chunk_heading": "PRETERM/LBW/ELBW POST-DISCHARGE NUTRITION;MICRONUTRIENT SUPPORT AND LAB MONITORING AFTER DISCHARGE;FERRITIN-GUIDED IRON DOSE ADJUSTMENT AND STEP-DOWN  CRITERIA;",
+  "topic": "PRETERM/LBW/ELBW POST-DISCHARGE NUTRITION",
+  "subtopic": "MICRONUTRIENT SUPPORT AND LAB MONITORING AFTER DISCHARGE",
+  "sub_subtopic": "FERRITIN-GUIDED IRON DOSE ADJUSTMENT AND STEP-DOWN  CRITERIA",
+  "heading_path": "PRETERM/LBW/ELBW POST-DISCHARGE NUTRITION;MICRONUTRIENT SUPPORT AND LAB MONITORING AFTER DISCHARGE;FERRITIN-GUIDED IRON DOSE ADJUSTMENT AND STEP-DOWN  CRITERIA;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1\u00862"
+}

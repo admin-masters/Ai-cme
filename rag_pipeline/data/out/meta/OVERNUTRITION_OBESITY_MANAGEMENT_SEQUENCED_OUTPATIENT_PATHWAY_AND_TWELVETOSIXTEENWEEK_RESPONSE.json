@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "Guidance on assessing 12\u201316-week response in obesity management, defining adequate/inadequate outcomes, and intensifying treatment using a sequenced approach, including lifestyle, pharmacotherapy, and comorbidity management.",
+  "learning_objectives": [
+    "Understand the criteria for adequate and inadequate response at 12\u201316 weeks in obesity management.",
+    "Learn the sequenced approach to intensify treatment when response is inadequate.",
+    "Recognize the role of pharmacotherapy as an adjunct to lifestyle interventions.",
+    "Identify the importance of documenting treatment decisions and setting explicit goals."
+  ],
+  "key_facts": [
+    "Adequate response includes a downward BMI trajectory or stabilization with improved fitness, behavior, or comorbidities.",
+    "Inadequate response includes rising BMI, persistent high-risk behaviors, or worsening comorbidities.",
+    "First step in intensification: increase lifestyle treatment dose (e.g., more frequent contact, group sessions, telehealth).",
+    "Adjunct pharmacotherapy is considered only if eligibility criteria are met and should aim for a safe BMI reduction of ~5% within 12 weeks.",
+    "IAP guidance emphasizes treating comorbidities actively rather than repeating 'screen and recheck.'",
+    "Explicit goals and stopping rules are required for medication therapy."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Obesity",
+    "Body Mass Index",
+    "Weight Loss",
+    "Lifestyle Modification",
+    "Pharmacotherapy",
+    "Comorbidity",
+    "Pediatric Obesity",
+    "Treatment Outcome"
+  ],
+  "tags_custom": [
+    "12-16 week assessment",
+    "treatment intensification",
+    "BMI trajectory",
+    "pediatric obesity management",
+    "lifestyle intervention"
+  ],
+  "reference_quote": "In IAP guidance, lack of a safe BMI reduction of about 5% after around 12 weeks of consistent use is a signal to reassess adherence, adverse effects, diagnosis, and the next escalation step.",
+  "document_key_topics": [
+    "12\u201316-week response assessment in obesity management",
+    "Criteria for adequate and inadequate response",
+    "Sequenced treatment intensification strategies",
+    "Role of pharmacotherapy and comorbidity management"
+  ],
+  "chunk_heading": "OVERNUTRITION & OBESITY MANAGEMENT;SEQUENCED OUTPATIENT PATHWAY AND FOLLOW-UP CADENCE;TWELVE-TO-SIXTEEN-WEEK RESPONSE ASSESSMENT AND INTENSIFICATION DECISIONS;",
+  "topic": "OVERNUTRITION & OBESITY MANAGEMENT",
+  "subtopic": "SEQUENCED OUTPATIENT PATHWAY AND FOLLOW-UP CADENCE",
+  "sub_subtopic": "TWELVE-TO-SIXTEEN-WEEK RESPONSE ASSESSMENT AND INTENSIFICATION DECISIONS",
+  "heading_path": "OVERNUTRITION & OBESITY MANAGEMENT;SEQUENCED OUTPATIENT PATHWAY AND FOLLOW-UP CADENCE;TWELVE-TO-SIXTEEN-WEEK RESPONSE ASSESSMENT AND INTENSIFICATION DECISIONS;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1\u00924"
+}

@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "Family-supported outpatient management for adolescent eating disorders emphasizes structured monitoring, family-based treatment, and clear escalation rules to ensure medical stability and weight restoration.",
+  "learning_objectives": [
+    "Understand the principles of family-based treatment for adolescents with eating disorders.",
+    "Identify medical and behavioral failure signals requiring escalation in outpatient care.",
+    "Learn the importance of structured meal plans and regular follow-up intervals in early-phase restriction.",
+    "Recognize the role of multidisciplinary teams and telehealth in resource-limited settings."
+  ],
+  "key_facts": [
+    "Family-based treatment is first-line for adolescents with anorexia nervosa, focusing on supervised meals and weight restoration.",
+    "Weekly reviews are recommended during early-phase restriction until weight gain and resolution of orthostatic symptoms are achieved.",
+    "Escalation is required for failure signals such as continued weight loss, syncope, worsening orthostasis, or suicidal ideation.",
+    "Baseline medical evaluation includes CBC, electrolytes, glucose, LFT, and ECG when indicated.",
+    "Structured meal plans should include three meals and snacks daily, with competitive sports and excessive exercise paused until stabilization.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Adolescent Nutrition",
+    "Eating Disorders",
+    "Anorexia Nervosa",
+    "Family Therapy",
+    "Outpatient Care",
+    "Weight Gain",
+    "Medical Monitoring",
+    "Telemedicine"
+  ],
+  "tags_custom": [
+    "family-based treatment",
+    "escalation protocols",
+    "adolescent health",
+    "structured meal plans"
+  ],
+  "reference_quote": "Family-based treatment principles are first-line for adolescents with anorexia nervosa: parents/caregivers supervise meals and snacks, reduce negotiation around intake, and prioritize weight restoration and medical stability.",
+  "document_key_topics": [
+    "Family-supported outpatient management for eating disorders",
+    "Escalation rules for medical and behavioral deterioration",
+    "Structured monitoring and meal planning in adolescents"
+  ],
+  "chunk_heading": "ADOLESCENT NUTRITION;EATING DISORDERS IN ADOLESCENTS;FAMILY-SUPPORTED OUTPATIENT MANAGEMENT WITH ESCALATION RULES;",
+  "topic": "ADOLESCENT NUTRITION",
+  "subtopic": "EATING DISORDERS IN ADOLESCENTS",
+  "sub_subtopic": "FAMILY-SUPPORTED OUTPATIENT MANAGEMENT WITH ESCALATION RULES",
+  "heading_path": "ADOLESCENT NUTRITION;EATING DISORDERS IN ADOLESCENTS;FAMILY-SUPPORTED OUTPATIENT MANAGEMENT WITH ESCALATION RULES;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1~3"
+}

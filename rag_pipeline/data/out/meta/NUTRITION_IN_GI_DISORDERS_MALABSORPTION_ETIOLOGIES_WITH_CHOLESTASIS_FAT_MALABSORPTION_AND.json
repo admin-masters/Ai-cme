@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Cholestasis causes fat and fat-soluble vitamin malabsorption, requiring individualized supplementation, energy-dense nutrition, and structured follow-up to address deficiencies and maintain essential fatty acid balance.",
+  "learning_objectives": [
+    "Understand the impact of cholestasis on fat and fat-soluble vitamin absorption.",
+    "Learn appropriate dosing strategies for fat-soluble vitamin replacement in pediatric cholestasis.",
+    "Recognize clinical signs of malabsorption and implement tailored nutrition interventions.",
+    "Explore the role of MCT and essential fatty acid management in cholestasis."
+  ],
+  "key_facts": [
+    "Cholestasis impairs bile acid\u2013dependent micelle formation, leading to fat malabsorption.",
+    "Vitamin A replacement: 5,000 units/day (<10 kg) or 10,000 units/day (>10 kg); up to 25,000 units/day for severe deficiency.",
+    "Vitamin D dosing: 2,000\u20135,000 units/day for low levels (8\u2013<20 ng/mL); higher doses for severe deficiency with monitoring.",
+    "Vitamin E (TPGS): 15\u201325 IU/kg/day; 25 IU/kg/day for deficiency treatment.",
+    "Vitamin K: 2\u20135 mg/day, with parenteral replacement when clinically indicated.",
+    "MCT is absorbed more directly than long-chain fats and can be used as a calorie source."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Cholestasis",
+    "Fat Malabsorption",
+    "Fat-Soluble Vitamins",
+    "Micelles",
+    "Vitamin A",
+    "Vitamin D",
+    "Vitamin E",
+    "Vitamin K"
+  ],
+  "tags_custom": [
+    "pediatric nutrition",
+    "cholestasis management",
+    "fat-soluble vitamin therapy",
+    "malabsorption treatment"
+  ],
+  "reference_quote": "\u2018Standard multivitamins\u2019 are often inadequate; individualized dosing and monitoring are required. (NASPGHAN position paper: Nutrition support of children with chronic liver disease)",
+  "document_key_topics": [
+    "Cholestasis and fat malabsorption mechanisms",
+    "Fat-soluble vitamin replacement strategies",
+    "Nutrition interventions for essential fatty acid balance",
+    "Clinical signs and management of malabsorption"
+  ],
+  "chunk_heading": "NUTRITION IN GI DISORDERS & MALABSORPTION;MALABSORPTION ETIOLOGIES WITH CONDITION-SPECIFIC DIET THERAPIES;CHOLESTASIS FAT MALABSORPTION AND FAT-SOLUBLE VITAMIN REPLACEMENT;",
+  "topic": "NUTRITION IN GI DISORDERS & MALABSORPTION",
+  "subtopic": "MALABSORPTION ETIOLOGIES WITH CONDITION-SPECIFIC DIET THERAPIES",
+  "sub_subtopic": "CHOLESTASIS FAT MALABSORPTION AND FAT-SOLUBLE VITAMIN REPLACEMENT",
+  "heading_path": "NUTRITION IN GI DISORDERS & MALABSORPTION;MALABSORPTION ETIOLOGIES WITH CONDITION-SPECIFIC DIET THERAPIES;CHOLESTASIS FAT MALABSORPTION AND FAT-SOLUBLE VITAMIN REPLACEMENT;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "2\u008f5"
+}

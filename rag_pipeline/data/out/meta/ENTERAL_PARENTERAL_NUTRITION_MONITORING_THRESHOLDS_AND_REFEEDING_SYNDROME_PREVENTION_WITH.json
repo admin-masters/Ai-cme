@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Refeeding syndrome prevention in pediatric patients involves thiamine supplementation, slow nutritional advancement, and close monitoring of electrolytes to mitigate risks of arrhythmia, respiratory failure, and neurologic deterioration.",
+  "learning_objectives": [
+    "Understand the pathophysiology of refeeding syndrome, including intracellular shifts of phosphate, potassium, and magnesium.",
+    "Learn pediatric thiamine dosing strategies for refeeding syndrome prevention.",
+    "Identify monitoring protocols for electrolytes and glucose during the first 72 hours of nutritional advancement.",
+    "Recognize risk factors for refeeding syndrome in children with severe wasting, SAM, or prolonged inadequate intake."
+  ],
+  "key_facts": [
+    "Refeeding syndrome is driven by carbohydrate-induced intracellular shifts of phosphate, potassium, and magnesium, compounded by thiamine depletion.",
+    "Pediatric thiamine dosing: 1\u20132 mg/kg once daily (maximum 100 mg), continued for 7\u201310 days.",
+    "Nutrition initiation should start at \u226450% of estimated energy requirements in substantial-risk patients, advancing slowly over 4\u20137 days.",
+    "Electrolytes (phosphate, potassium, magnesium, glucose) should be monitored daily for the first 72 hours, with prompt replacement of deficits.",
+    "Persistent electrolyte decline despite replacement signals ongoing refeeding physiology; caloric advancement should be slowed."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Refeeding Syndrome",
+    "Thiamine",
+    "Electrolyte Imbalance",
+    "Enteral Nutrition",
+    "Parenteral Nutrition",
+    "Pediatric Malnutrition",
+    "Severe Acute Malnutrition",
+    "Nutritional Monitoring"
+  ],
+  "tags_custom": [
+    "pediatric nutrition",
+    "electrolyte management",
+    "refeeding prevention",
+    "clinical protocols",
+    "risk mitigation"
+  ],
+  "reference_quote": "Prevention requires a protocol, not vigilance alone. Before initiating aggressive EN or PN, check baseline electrolytes including phosphate and magnesium, correct major deficits, and begin thiamine.",
+  "document_key_topics": [
+    "Refeeding syndrome pathophysiology and prevention",
+    "Thiamine supplementation in pediatric patients",
+    "Electrolyte monitoring during nutritional advancement",
+    "Risk factors for refeeding syndrome in malnourished children"
+  ],
+  "chunk_heading": "ENTERAL & PARENTERAL NUTRITION;MONITORING THRESHOLDS AND COMPLICATION RESPONSE PATHWAYS;REFEEDING SYNDROME PREVENTION WITH THIAMINE AND SLOW ADVANCEMENT;",
+  "topic": "ENTERAL & PARENTERAL NUTRITION",
+  "subtopic": "MONITORING THRESHOLDS AND COMPLICATION RESPONSE PATHWAYS",
+  "sub_subtopic": "REFEEDING SYNDROME PREVENTION WITH THIAMINE AND SLOW ADVANCEMENT",
+  "heading_path": "ENTERAL & PARENTERAL NUTRITION;MONITORING THRESHOLDS AND COMPLICATION RESPONSE PATHWAYS;REFEEDING SYNDROME PREVENTION WITH THIAMINE AND SLOW ADVANCEMENT;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2\u008f3"
+}

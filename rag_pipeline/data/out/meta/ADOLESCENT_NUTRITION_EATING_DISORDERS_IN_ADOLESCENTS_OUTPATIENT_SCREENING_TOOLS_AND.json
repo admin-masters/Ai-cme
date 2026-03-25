@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section discusses outpatient screening tools and medical risk stratification for eating disorders in adolescents, emphasizing tools like SCOFF and EAT-26, medical evaluations, and risk-based decision-making.",
+  "learning_objectives": [
+    "Understand the indications for screening adolescents for eating disorders.",
+    "Learn to use screening tools like SCOFF and EAT-26 effectively.",
+    "Identify key medical risk factors and appropriate diagnostic tests for adolescents with suspected eating disorders.",
+    "Recognize the importance of interpreting weight change trajectories and vital sign instability."
+  ],
+  "key_facts": [
+    "The SCOFF questionnaire uses a threshold of \u22652 'yes' responses to indicate the need for further evaluation.",
+    "EAT-26 scores \u226520 traditionally suggest the need for professional evaluation, though low scores do not exclude illness.",
+    "Medical risk assessment includes measuring resting heart rate, temperature, orthostatic vitals, and interpreting weight change trajectories.",
+    "Baseline labs for suspected eating disorders include CBC, electrolytes (magnesium, phosphate), glucose, LFT, urinalysis, and TSH, with targeted micronutrient tests based on diet history.",
+    "An ECG is recommended for significant weight loss, bradycardia, orthostasis, electrolyte abnormalities, palpitations, syncope, or stimulant supplement exposure.",
+    "Normal lab results do not exclude serious illness; decisions should prioritize vital sign instability and ongoing weight loss."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Adolescent Nutrition",
+    "Eating Disorders",
+    "Screening Tools",
+    "Medical Risk Assessment",
+    "SCOFF Questionnaire",
+    "EAT-26",
+    "Electrolyte Imbalance",
+    "Bradycardia"
+  ],
+  "tags_custom": [
+    "adolescent health",
+    "eating disorder screening",
+    "risk stratification",
+    "medical evaluation",
+    "diagnostic tools"
+  ],
+  "reference_quote": "SCOFF is a five-item screener; \u22652 'yes' responses is a commonly used threshold to trigger further evaluation.",
+  "document_key_topics": [
+    "Screening tools for eating disorders in adolescents",
+    "Medical risk stratification and diagnostic tests",
+    "Interpretation of weight change and vital signs"
+  ],
+  "chunk_heading": "ADOLESCENT NUTRITION;EATING DISORDERS IN ADOLESCENTS;OUTPATIENT SCREENING TOOLS AND MEDICAL RISK STRATIFICATION;",
+  "topic": "ADOLESCENT NUTRITION",
+  "subtopic": "EATING DISORDERS IN ADOLESCENTS",
+  "sub_subtopic": "OUTPATIENT SCREENING TOOLS AND MEDICAL RISK STRATIFICATION",
+  "heading_path": "ADOLESCENT NUTRITION;EATING DISORDERS IN ADOLESCENTS;OUTPATIENT SCREENING TOOLS AND MEDICAL RISK STRATIFICATION;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1}2"
+}

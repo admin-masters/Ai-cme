@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "Severe acute malnutrition (SAM) requires triage to determine the appropriate site of care, with WHO-defined criteria guiding management. Facility-based care is essential for complicated cases, while community-based rehabilitation is suitable for uncomplicated cases.",
+  "learning_objectives": [
+    "Understand the WHO criteria for defining severe acute malnutrition (SAM) and moderate acute malnutrition (MAM).",
+    "Differentiate between community-based and facility-based care for children with SAM.",
+    "Recognize the importance of early SAM detection and appropriate triage for inpatient or outpatient management.",
+    "Learn the operational guidelines for managing SAM in Indian public health systems."
+  ],
+  "key_facts": [
+    "SAM is defined by WHO as weight-for-length/height below -3 Z, MUAC <115 mm (ages 6\u201359 months), or bilateral nutritional edema.",
+    "MAM is defined as weight-for-length/height between -2 and -3 Z or MUAC 115\u2013125 mm.",
+    "Children with SAM and complications (e.g., edema, poor appetite) require facility-based care, while uncomplicated cases can be managed in the community.",
+    "Indian guidelines emphasize triage for hypoglycemia, hypothermia, dehydration, shock, severe anemia, infection, and poor appetite.",
+    "The inpatient goal for SAM is stabilization, not rapid weight gain, due to risks of overhydration and metabolic derangements.",
+    "WHO 2023 guidelines stress continuity of care post-discharge, linking facility care to community follow-up."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Malnutrition",
+    "Severe Acute Malnutrition",
+    "Nutritional Rehabilitation",
+    "Pediatric Nutrition Disorders",
+    "Community Health Services",
+    "Triage",
+    "Edema",
+    "Anthropometry"
+  ],
+  "tags_custom": [
+    "SAM management",
+    "WHO guidelines",
+    "Indian public health",
+    "Nutritional triage",
+    "Pediatric care"
+  ],
+  "reference_quote": "WHO standards define SAM using any of: weight-for-length/height below -3 Z, MUAC below 115 mm (ages 6\u201359 months), or bilateral nutritional edema.",
+  "document_key_topics": [
+    "Definition and criteria for SAM and MAM",
+    "Triage and site of care decisions for SAM",
+    "Facility-based vs. community-based management",
+    "Operational guidelines for SAM in India"
+  ],
+  "chunk_heading": "FEEDING DIFFICULTIES & FALTERING GROWTH;SEVERE ACUTE MALNUTRITION TRIAGE AND INPATIENT MANAGEMENT;SAM DEFINITION AND SITE OF CARE DECISIONS;",
+  "topic": "FEEDING DIFFICULTIES & FALTERING GROWTH",
+  "subtopic": "SEVERE ACUTE MALNUTRITION TRIAGE AND INPATIENT MANAGEMENT",
+  "sub_subtopic": "SAM DEFINITION AND SITE OF CARE DECISIONS",
+  "heading_path": "FEEDING DIFFICULTIES & FALTERING GROWTH;SEVERE ACUTE MALNUTRITION TRIAGE AND INPATIENT MANAGEMENT;SAM DEFINITION AND SITE OF CARE DECISIONS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "4\u008d1"
+}

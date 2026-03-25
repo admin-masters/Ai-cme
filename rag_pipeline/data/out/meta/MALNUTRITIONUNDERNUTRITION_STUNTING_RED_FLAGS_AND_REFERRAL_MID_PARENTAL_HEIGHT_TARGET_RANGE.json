@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section discusses the use of mid-parental height for assessing short stature, red flags for stunting, and differential diagnosis, emphasizing phenotype-based prioritization and referral triggers for underlying diseases.",
+  "learning_objectives": [
+    "Understand how to calculate mid-parental height and its role in assessing short stature.",
+    "Identify red flags and referral triggers for stunting and underlying diseases.",
+    "Differentiate between stunting with and without wasting and their clinical implications.",
+    "Recognize common treatable causes of stunting in specific populations, such as India."
+  ],
+  "key_facts": [
+    "Mid-parental height formula: Boys = (mother\u2019s height + father\u2019s height + 13) / 2; Girls = (mother\u2019s height + father\u2019s height - 13) / 2.",
+    "Stunting is defined as HAZ < -2 SD; stunting without wasting (WHZ/WLZ \u2265 -2) suggests long-term constraints.",
+    "Red flags for referral include progressive height velocity decline, delayed puberty, chronic diarrhea, recurrent infections, and dysmorphic features.",
+    "Concurrent wasting and stunting (WaSt phenotype) indicates higher short-term risk and requires urgent evaluation.",
+    "Common treatable causes of stunting in India include TB, HIV, celiac disease, hypothyroidism, and genetic syndromes."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Malnutrition",
+    "Stunting",
+    "Short Stature",
+    "Growth Disorders",
+    "Phenotype",
+    "Pediatric Endocrinology",
+    "Nutritional Status",
+    "Referral and Consultation"
+  ],
+  "tags_custom": [
+    "Mid-parental height",
+    "Stunting red flags",
+    "Pediatric growth assessment",
+    "WaSt phenotype",
+    "India-specific causes"
+  ],
+  "reference_quote": "Mid-parental height estimates expected genetic potential: for boys, (mother\u2019s height + father\u2019s height + 13) / 2; for girls, (mother\u2019s height + father\u2019s height - 13) / 2. (Source: American Academy of Pediatrics EQIPP clinical guide)",
+  "document_key_topics": [
+    "Mid-parental height and genetic potential",
+    "Stunting red flags and referral criteria",
+    "Differential diagnosis of stunting",
+    "WaSt phenotype and its clinical implications"
+  ],
+  "chunk_heading": "MALNUTRITION\u2014UNDERNUTRITION: SCREENING & CLASSIFICATION;STUNTING RED FLAGS AND REFERRAL TRIGGERS FOR UNDERLYING DISEASE;MID PARENTAL HEIGHT TARGET RANGE AND DIFFERENTIAL DIAGNOSIS;",
+  "topic": "MALNUTRITION\u2014UNDERNUTRITION: SCREENING & CLASSIFICATION",
+  "subtopic": "STUNTING RED FLAGS AND REFERRAL TRIGGERS FOR UNDERLYING DISEASE",
+  "sub_subtopic": "MID PARENTAL HEIGHT TARGET RANGE AND DIFFERENTIAL DIAGNOSIS",
+  "heading_path": "MALNUTRITION\u2014UNDERNUTRITION: SCREENING & CLASSIFICATION;STUNTING RED FLAGS AND REFERRAL TRIGGERS FOR UNDERLYING DISEASE;MID PARENTAL HEIGHT TARGET RANGE AND DIFFERENTIAL DIAGNOSIS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2{1"
+}

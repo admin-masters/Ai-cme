@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Parenteral iron is indicated for children with iron deficiency anemia when oral iron fails, is intolerable, or absorption is impaired. Safety monitoring includes hypersensitivity management and serum phosphate checks for high-dose ferric carboxymaltose infusions.",
+  "learning_objectives": [
+    "Identify clinical scenarios requiring escalation to parenteral iron therapy in pediatric anemia management.",
+    "Understand dosing guidelines for iron sucrose and ferric carboxymaltose in children and adolescents.",
+    "Recognize safety measures, including hypersensitivity reaction preparedness and serum phosphate monitoring.",
+    "Differentiate between parenteral iron and transfusion in decompensated anemia cases."
+  ],
+  "key_facts": [
+    "Iron sucrose dosing: 1\u20134 mg/kg elemental iron infused over ~1 hour, repeated weekly.",
+    "Ferric carboxymaltose dosing: ~15 mg/kg per infusion, with risk of hypophosphatemia.",
+    "Parenteral iron is indicated for malabsorption (e.g., celiac disease) or chronic inflammatory conditions.",
+    "Hypersensitivity reactions require administration in equipped settings.",
+    "Monitor hemoglobin and ferritin post-infusion to confirm response and avoid over-treatment."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Iron Deficiency Anemia",
+    "Parenteral Nutrition",
+    "Iron Sucrose",
+    "Ferric Carboxymaltose",
+    "Hypophosphatemia",
+    "Pediatric Nutrition",
+    "Safety Monitoring",
+    "Hemoglobin"
+  ],
+  "tags_custom": [
+    "Anemia Mukt Bharat",
+    "Clinical Iron Management",
+    "Parenteral Iron Therapy",
+    "Pediatric Guidelines",
+    "Safety Protocols"
+  ],
+  "reference_quote": "Indian pediatric recommendations describe iron sucrose dosing in the range of about 1\u20134 mg/kg elemental iron infused over about an hour, repeated weekly with agent-specific maximum elemental iron per infusion.",
+  "document_key_topics": [
+    "Indications for parenteral iron in pediatric anemia",
+    "Dosing guidelines for iron sucrose and ferric carboxymaltose",
+    "Safety monitoring during parenteral iron administration",
+    "Differentiation between parenteral iron and transfusion in severe anemia"
+  ],
+  "chunk_heading": "NATIONAL NUTRITION AND FORTIFICATION PROGRAMS IN INDIA;ANEMIA MUKT BHARAT AND CLINICAL IRON MANAGEMENT;PARENTERAL IRON INDICATIONS AND SAFETY MONITORING;",
+  "topic": "NATIONAL NUTRITION AND FORTIFICATION PROGRAMS IN INDIA",
+  "subtopic": "ANEMIA MUKT BHARAT AND CLINICAL IRON MANAGEMENT",
+  "sub_subtopic": "PARENTERAL IRON INDICATIONS AND SAFETY MONITORING",
+  "heading_path": "NATIONAL NUTRITION AND FORTIFICATION PROGRAMS IN INDIA;ANEMIA MUKT BHARAT AND CLINICAL IRON MANAGEMENT;PARENTERAL IRON INDICATIONS AND SAFETY MONITORING;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2y7"
+}

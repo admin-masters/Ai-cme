@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "Guidance on implementing feeding safety plans for a 9-year-old with EDACS III in a school setting, including IDDSI-based texture modifications, supervision, and emergency choking response aligned with AHA guidelines.",
+  "learning_objectives": [
+    "Understand the application of IDDSI standards for modified textures in school settings.",
+    "Develop a comprehensive feeding safety plan for children with neurodisability and EDACS III.",
+    "Identify stop criteria and emergency response protocols for choking in schools.",
+    "Recognize the importance of consistent feeding practices to prevent aspiration and fatigue-related deterioration."
+  ],
+  "key_facts": [
+    "The child has EDACS III, requiring 1:1 trained supervision during meals.",
+    "IDDSI codes must replace vague terms like 'thick liquids' for clarity and consistency.",
+    "Stop criteria include wet voice, persistent cough, choking, distress, drowsiness, or increased work of breathing.",
+    "Feeding during transport is not allowed to minimize aspiration risk.",
+    "Meal duration should have a hard maximum to prevent fatigue-related deterioration.",
+    "Emergency choking response must align with AHA guidelines, and trained personnel should be specified."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Cerebral Palsy",
+    "Deglutition Disorders",
+    "Feeding Behavior",
+    "Emergency Medical Services",
+    "Airway Obstruction",
+    "Patient Care Planning",
+    "Schools",
+    "Caregivers"
+  ],
+  "tags_custom": [
+    "IDDSI implementation",
+    "feeding safety",
+    "choking response",
+    "school-based care",
+    "neurodisability"
+  ],
+  "reference_quote": "\"Treat this as a safety systems problem: the child needs the same method every day, by every feeder, in every setting.\"",
+  "document_key_topics": [
+    "Feeding safety plans for neurodisability",
+    "IDDSI-based texture modifications",
+    "Choking response protocols in schools",
+    "Consistency in feeding practices"
+  ],
+  "chunk_heading": "NEURODISABILITY & FEEDING SUPPORT;CASE-BASED APPLICATION SCHOOL IMPLEMENTATION OF MODIFIED TEXTURES AND CHOKING RESPONSE;",
+  "topic": "NEURODISABILITY & FEEDING SUPPORT",
+  "subtopic": "CASE-BASED APPLICATION SCHOOL IMPLEMENTATION OF MODIFIED TEXTURES AND CHOKING RESPONSE",
+  "sub_subtopic": null,
+  "heading_path": "NEURODISABILITY & FEEDING SUPPORT;CASE-BASED APPLICATION SCHOOL IMPLEMENTATION OF MODIFIED TEXTURES AND CHOKING RESPONSE;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u0083"
+}

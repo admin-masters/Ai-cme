@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "Feeding pathways for neurodisability phenotypes must adapt to specific risks like aspiration, feeding inefficiency, and disease progression, with tailored interventions such as gastrostomy, FEES, and illness-specific feeding plans.",
+  "learning_objectives": [
+    "Understand phenotype-specific feeding challenges in neurodisability types such as CP, SMA, and progressive neurodegenerative disorders.",
+    "Identify triggers for tube feeding initiation, including feeding inefficiency (>3 hours/day) and aspiration risks.",
+    "Learn the role of FEES and structured feeding techniques in managing dysphagia and fatigue-related airway compromise."
+  ],
+  "key_facts": [
+    "Feeding inefficiency (>3 hours/day) and recurrent aspiration-related illness are key gastrostomy triggers in severe CP (GMFCS IV-V).",
+    "In SMA and DMD, bulbar weakness and fatigue increase aspiration risk; tube feeding should be considered earlier when meals are prolonged or weight falters.",
+    "FEES can assess safety changes during meals in neuromuscular disorders.",
+    "Progressive neurodegenerative disorders require early goal-focused discussions as tube feeding may not prevent secretion aspiration or reverse decline.",
+    "In acquired brain injury, swallowing may improve with rehabilitation, making tube feeding a temporary solution with planned reassessment."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Neurodisability",
+    "Cerebral Palsy",
+    "Spinal Muscular Atrophy",
+    "Dysphagia",
+    "Gastrostomy",
+    "Aspiration Pneumonia",
+    "Degenerative Neurological Disorders",
+    "Tube Feeding"
+  ],
+  "tags_custom": [
+    "feeding pathways",
+    "aspiration prevention",
+    "neuromuscular disorders",
+    "progressive neurodegeneration",
+    "rehabilitation feeding support"
+  ],
+  "reference_quote": "Feeding inefficiency (>3 hours/day), growth faltering, and recurrent aspiration-related respiratory illness are key drivers for gastrostomy discussions in severe motor impairment (GMFCS IV-V).",
+  "document_key_topics": [
+    "Phenotype-specific feeding pathway modifications",
+    "Aspiration prevention and tube feeding triggers",
+    "Feeding strategies for progressive and static neurodisabilities",
+    "Role of FEES and structured feeding techniques"
+  ],
+  "chunk_heading": "NEURODISABILITY & FEEDING SUPPORT;PHENOTYPE-SPECIFIC FEEDING PATHWAY MODIFICATIONS ACROSS NEURODISABILITY TYPES;",
+  "topic": "NEURODISABILITY & FEEDING SUPPORT",
+  "subtopic": "PHENOTYPE-SPECIFIC FEEDING PATHWAY MODIFICATIONS ACROSS NEURODISABILITY TYPES",
+  "sub_subtopic": null,
+  "heading_path": "NEURODISABILITY & FEEDING SUPPORT;PHENOTYPE-SPECIFIC FEEDING PATHWAY MODIFICATIONS ACROSS NEURODISABILITY TYPES;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1~"
+}

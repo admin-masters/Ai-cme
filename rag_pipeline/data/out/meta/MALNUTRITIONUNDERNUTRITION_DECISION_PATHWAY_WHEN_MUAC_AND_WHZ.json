@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "Guidance on managing discordant MUAC and WHZ/WLZ results in undernutrition screening, emphasizing measurement verification, oedema assessment, and a stepwise approach to classification and care decisions.",
+  "learning_objectives": [
+    "Understand the reasons for discordance between MUAC and WHZ/WLZ in malnutrition screening.",
+    "Learn the stepwise approach to verify measurements and classify severe acute malnutrition (SAM).",
+    "Identify criteria for inpatient versus outpatient care in SAM management.",
+    "Recognize the importance of follow-up plans and predefined failure triggers in outpatient care."
+  ],
+  "key_facts": [
+    "MUAC and WHZ/WLZ capture overlapping but distinct high-risk groups, leading to discordant results.",
+    "Step 1: Verify measurement quality, including MUAC tape tension and length/height positioning.",
+    "Step 2: Presence of bilateral pitting oedema classifies as SAM regardless of other indices.",
+    "Step 3: Apply 'worst-indicator wins'\u2014manage as SAM if either MUAC or WHZ/WLZ meets the threshold.",
+    "Step 4: Complicated SAM (danger signs, medical instability, failed appetite test) requires inpatient care.",
+    "Outpatient care for stable SAM cases requires weekly follow-ups and predefined failure triggers."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Malnutrition",
+    "Undernutrition",
+    "Severe Acute Malnutrition",
+    "Mid-Upper Arm Circumference",
+    "Weight-for-Height Z-score",
+    "Pitting Edema",
+    "Child Nutrition Disorders",
+    "Nutritional Assessment"
+  ],
+  "tags_custom": [
+    "MUAC vs WHZ discordance",
+    "SAM management pathway",
+    "Pediatric malnutrition",
+    "Screening protocols",
+    "Follow-up care"
+  ],
+  "reference_quote": "Discordant MUAC and WHZ/WLZ results are expected because the indicators capture overlapping but not identical high-risk groups. Mortality comparisons between 'MUAC-only' and 'WHZ-only' severe wasting vary by dataset and design; therefore neither indicator should replace the other, and discordance should be managed conservatively. (WHO guideline)",
+  "document_key_topics": [
+    "Discordance between MUAC and WHZ/WLZ in malnutrition screening",
+    "Stepwise approach to SAM classification and management",
+    "Criteria for inpatient versus outpatient care in SAM",
+    "Follow-up and monitoring in outpatient SAM care"
+  ],
+  "chunk_heading": "MALNUTRITION\u2014UNDERNUTRITION: SCREENING & CLASSIFICATION;DECISION PATHWAY WHEN MUAC AND WHZ DISAGREE;",
+  "topic": "MALNUTRITION\u2014UNDERNUTRITION: SCREENING & CLASSIFICATION",
+  "subtopic": "DECISION PATHWAY WHEN MUAC AND WHZ DISAGREE",
+  "sub_subtopic": null,
+  "heading_path": "MALNUTRITION\u2014UNDERNUTRITION: SCREENING & CLASSIFICATION;DECISION PATHWAY WHEN MUAC AND WHZ DISAGREE;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2u"
+}

@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Guidelines for managing metabolic bone disease in preterm/LBW/ELBW infants post-discharge, focusing on lab thresholds, nutrient delivery, and follow-up strategies.",
+  "learning_objectives": [
+    "Understand the biochemical screening thresholds for metabolic bone disease in preterm/LBW/ELBW infants.",
+    "Learn the staged response pathway for elevated ALP and low serum phosphorus levels.",
+    "Identify appropriate calcium, phosphorus, and vitamin D supplementation strategies.",
+    "Recognize severe cases requiring secondary tests and radiographic evaluation."
+  ],
+  "key_facts": [
+    "Elevated ALP >900 IU/L and phosphorus <4.6 mg/dL suggest low bone mineral density risk.",
+    "Recheck biochemistry within 2\u20134 weeks rather than waiting months.",
+    "Separate calcium and phosphate dosing to improve absorption and reduce binding.",
+    "Severe abnormalities may require secondary tests like serum calcium, PTH, and 25-hydroxyvitamin D.",
+    "Avoid escalating calories alone as weight gain can mask mineral deficits."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Metabolic Bone Disease",
+    "Preterm Infant",
+    "Low Birth Weight",
+    "Micronutrients",
+    "Vitamin D",
+    "Calcium",
+    "Phosphorus",
+    "Bone Density"
+  ],
+  "tags_custom": [
+    "post-discharge nutrition",
+    "lab monitoring",
+    "metabolic bone disease",
+    "nutrient supplementation",
+    "clinical pathways"
+  ],
+  "reference_quote": "Practical cutoffs used in neonatal pathways include ALP >900 IU/L together with phosphorus <4.6 mg/dL, suggesting low bone mineral density risk.",
+  "document_key_topics": [
+    "Biochemical screening thresholds for metabolic bone disease",
+    "Nutrient delivery strategies for calcium, phosphorus, and vitamin D",
+    "Follow-up intervals and secondary testing for severe abnormalities",
+    "Documentation of action plans in discharge or clinic notes"
+  ],
+  "chunk_heading": "PRETERM/LBW/ELBW POST-DISCHARGE NUTRITION;MICRONUTRIENT SUPPORT AND LAB MONITORING AFTER DISCHARGE;RESPONSE PATHWAY FOR METABOLIC BONE DISEASE LAB ABNORMALITIES;",
+  "topic": "PRETERM/LBW/ELBW POST-DISCHARGE NUTRITION",
+  "subtopic": "MICRONUTRIENT SUPPORT AND LAB MONITORING AFTER DISCHARGE",
+  "sub_subtopic": "RESPONSE PATHWAY FOR METABOLIC BONE DISEASE LAB ABNORMALITIES",
+  "heading_path": "PRETERM/LBW/ELBW POST-DISCHARGE NUTRITION;MICRONUTRIENT SUPPORT AND LAB MONITORING AFTER DISCHARGE;RESPONSE PATHWAY FOR METABOLIC BONE DISEASE LAB ABNORMALITIES;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2\u008a6.1"
+}

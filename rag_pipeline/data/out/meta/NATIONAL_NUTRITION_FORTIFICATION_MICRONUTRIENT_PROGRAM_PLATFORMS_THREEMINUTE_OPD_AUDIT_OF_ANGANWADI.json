@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "The three-minute OPD audit evaluates Anganwadi supplementary nutrition delivery, focusing on registration, consumption, preparation, and interruptions, to identify and escalate program failures for corrective action.",
+  "learning_objectives": [
+    "Understand the role of Anganwadi services in providing supplementary nutrition under NFSA standards.",
+    "Learn how to conduct a three-minute OPD audit to assess nutrition receipt and consumption.",
+    "Identify barriers to effective supplementary nutrition delivery and propose corrective actions.",
+    "Document and escalate program failures through appropriate governance channels."
+  ],
+  "key_facts": [
+    "Supplementary nutrition is a legal entitlement under the National Food Security Act (NFSA), Schedule II.",
+    "The audit focuses on four areas: registration, receipt versus consumption, preparation and palatability, and interruptions.",
+    "Repeated interruptions in nutrition delivery (e.g., stock-outs, Anganwadi closures) are considered governance failures.",
+    "Audit documentation includes anthropometry trends, feeding history, and a summary of nutrition receipt and consumption.",
+    "Escalation of issues follows a duty ladder: AWW \u2192 supervisor/sector in-charge \u2192 CDPO.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Child Nutrition Disorders",
+    "Micronutrients",
+    "Nutrition Policy",
+    "Community Health Services",
+    "Food Security",
+    "Growth Monitoring",
+    "Health Services Accessibility",
+    "India"
+  ],
+  "tags_custom": [
+    "Anganwadi programs",
+    "Supplementary nutrition audit",
+    "Pediatric nutrition",
+    "Governance failures",
+    "NFSA compliance"
+  ],
+  "reference_quote": "Supplementary nutrition through Anganwadi services is a legal entitlement anchored in the NFSA Schedule II nutrition standards, but state menus and delivery logistics vary.",
+  "document_key_topics": [
+    "Anganwadi supplementary nutrition programs",
+    "Three-minute OPD audit methodology",
+    "Barriers to effective nutrition delivery",
+    "Governance and escalation protocols"
+  ],
+  "chunk_heading": "NATIONAL NUTRITION & FORTIFICATION PROGRAMS IN INDIA;MICRONUTRIENT PROGRAM PLATFORMS AND PEDIATRIC TOUCHPOINTS;THREE-MINUTE OPD AUDIT OF ANGANWADI SUPPLEMENTARY NUTRITION;",
+  "topic": "NATIONAL NUTRITION & FORTIFICATION PROGRAMS IN INDIA",
+  "subtopic": "MICRONUTRIENT PROGRAM PLATFORMS AND PEDIATRIC TOUCHPOINTS",
+  "sub_subtopic": "THREE-MINUTE OPD AUDIT OF ANGANWADI SUPPLEMENTARY NUTRITION",
+  "heading_path": "NATIONAL NUTRITION & FORTIFICATION PROGRAMS IN INDIA;MICRONUTRIENT PROGRAM PLATFORMS AND PEDIATRIC TOUCHPOINTS;THREE-MINUTE OPD AUDIT OF ANGANWADI SUPPLEMENTARY NUTRITION;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1d3"
+}

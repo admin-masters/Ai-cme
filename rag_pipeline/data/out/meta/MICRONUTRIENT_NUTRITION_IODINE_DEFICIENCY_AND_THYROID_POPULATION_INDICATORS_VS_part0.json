@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section discusses the use of urinary iodine concentration (UIC) as a population-level indicator of iodine status, its limitations for individual diagnosis, and the role of thyroid function tests in clinical care.",
+  "learning_objectives": [
+    "Understand the role of median urinary iodine concentration (UIC) in assessing population iodine status.",
+    "Recognize the limitations of single-sample UIC for individual iodine diagnosis.",
+    "Identify appropriate diagnostic tests for thyroid dysfunction in individual care.",
+    "Analyze the impact of iodized salt programs on iodine deficiency and thyroid health."
+  ],
+  "key_facts": [
+    "Median UIC of 100\u2013199 \u00b5g/L indicates adequate iodine intake for populations.",
+    "Single-sample UIC has high variability and is unreliable for individual diagnosis.",
+    "Thyroid function tests (TSH, free T4) are essential for individual thyroid evaluation.",
+    "Goiter assessment post-iodization may involve autoimmune thyroiditis or other causes.",
+    "India shows improved iodized salt coverage but with state-level variations in deficiency and excess."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Iodine",
+    "Urinary Iodine Concentration",
+    "Thyroid Function Tests",
+    "Goiter",
+    "Iodized Salt",
+    "Thyroiditis",
+    "Nutritional Status",
+    "Public Health"
+  ],
+  "tags_custom": [
+    "iodine deficiency",
+    "population health indicators",
+    "thyroid dysfunction",
+    "salt iodization",
+    "diagnostic variability"
+  ],
+  "reference_quote": "The preferred indicator for iodine status at a population level is median urinary iodine concentration (UIC), because most absorbed iodine is excreted in urine and UIC reflects recent intake.",
+  "document_key_topics": [
+    "Population-level iodine status indicators",
+    "Limitations of individual UIC testing",
+    "Thyroid function tests for individual care",
+    "Impact of iodized salt programs on iodine nutrition"
+  ],
+  "chunk_heading": "MICRONUTRIENT NUTRITION;IODINE DEFICIENCY AND THYROID DYSFUNCTION DECISIONS;POPULATION INDICATORS VS INDIVIDUAL IODINE DIAGNOSIS;",
+  "topic": "MICRONUTRIENT NUTRITION",
+  "subtopic": "IODINE DEFICIENCY AND THYROID DYSFUNCTION DECISIONS",
+  "sub_subtopic": "POPULATION INDICATORS VS INDIVIDUAL IODINE DIAGNOSIS",
+  "heading_path": "MICRONUTRIENT NUTRITION;IODINE DEFICIENCY AND THYROID DYSFUNCTION DECISIONS;POPULATION INDICATORS VS INDIVIDUAL IODINE DIAGNOSIS;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1{2.1"
+}

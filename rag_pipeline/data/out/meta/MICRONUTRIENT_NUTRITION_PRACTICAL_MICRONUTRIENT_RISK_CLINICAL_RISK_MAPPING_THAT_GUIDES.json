@@ -1,0 +1,47 @@
+{
+  "chunk_summary": "This section outlines a practical approach to micronutrient risk assessment in children, focusing on clinical risk mapping to guide test selection based on age, diet, morbidity, and socioeconomic factors, particularly in the Indian context.",
+  "learning_objectives": [
+    "Understand the role of clinical risk mapping in identifying micronutrient deficiencies in children.",
+    "Learn to link dietary patterns, growth stages, and morbidity profiles to potential deficiencies.",
+    "Develop decision-first testing strategies considering cost, infection, and programmatic prophylaxis in resource-limited settings."
+  ],
+  "key_facts": [
+    "Micronutrient deficiencies in children are often linked to diet quality, growth velocity, and social determinants.",
+    "High-risk groups in India include exclusively breastfed infants beyond 6 months without iron-rich complementary feeding, preterm or LBW infants, and children with SAM.",
+    "Decision-first testing is critical in India due to distorted biomarkers from infections and cost constraints.",
+    "Pre-test probability statements (e.g., 'microcytosis with excess milk intake') should guide test selection and follow-up.",
+    "Programmatic prophylaxis, such as iron\u2013folic acid supplementation, may alter baseline micronutrient status."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Micronutrients",
+    "Nutritional Deficiencies",
+    "Anemia, Iron-Deficiency",
+    "Rickets",
+    "Pediatrics",
+    "Dietary Supplements",
+    "Growth and Development",
+    "India"
+  ],
+  "tags_custom": [
+    "clinical risk mapping",
+    "micronutrient testing",
+    "pediatric nutrition",
+    "resource-limited settings"
+  ],
+  "reference_quote": "High-yield risk groups in Indian practice include exclusive breastfeeding beyond 6 months without iron-rich complementary feeding, preterm or LBW infants, restrictive vegetarian diets, children with chronic diarrhea/celiac disease, and children with SAM.",
+  "document_key_topics": [
+    "Micronutrient deficiencies in children",
+    "Clinical risk mapping for test selection",
+    "Decision-first testing in resource-limited settings",
+    "High-risk pediatric groups in India"
+  ],
+  "chunk_heading": "MICRONUTRIENT NUTRITION;PRACTICAL MICRONUTRIENT RISK ASSESSMENT IN CLINIC;CLINICAL RISK MAPPING THAT GUIDES TEST SELECTION;",
+  "topic": "MICRONUTRIENT NUTRITION",
+  "subtopic": "PRACTICAL MICRONUTRIENT RISK ASSESSMENT IN CLINIC",
+  "sub_subtopic": "CLINICAL RISK MAPPING THAT GUIDES TEST SELECTION",
+  "heading_path": "MICRONUTRIENT NUTRITION;PRACTICAL MICRONUTRIENT RISK ASSESSMENT IN CLINIC;CLINICAL RISK MAPPING THAT GUIDES TEST SELECTION;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "1c1"
+}

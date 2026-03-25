@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "Guidance on caregiver communication about stunting and wasting, emphasizing urgency, follow-up intervals, and return precautions based on risk stratification.",
+  "learning_objectives": [
+    "Understand the differences between stunting and wasting in children and their implications for health.",
+    "Learn how to communicate urgency and follow-up plans to caregivers based on anthropometric findings.",
+    "Identify key return precautions and warning signs for caregivers to monitor.",
+    "Incorporate local support pathways like Anganwadi and NRC into malnutrition management."
+  ],
+  "key_facts": [
+    "Stunting indicates long-term growth issues, while wasting reflects acute malnutrition and short-term danger.",
+    "Severe wasting or danger signs (e.g., swelling of both feet) may require same-day evaluation or referral.",
+    "Follow-up intervals should match risk: weekly for severe wasting or faltering growth, longer for stable stunting.",
+    "Return immediately for signs like poor feeding, unusual sleepiness, fast breathing, or fever lasting >2 days.",
+    "In India, caregivers should be linked to Anganwadi nutrition programs, community health workers, and NRCs."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Malnutrition",
+    "Stunting",
+    "Wasting Syndrome",
+    "Growth Disorders",
+    "Anthropometry",
+    "Caregivers",
+    "Risk Assessment",
+    "Child Nutrition Disorders"
+  ],
+  "tags_custom": [
+    "caregiver communication",
+    "return precautions",
+    "child growth monitoring",
+    "malnutrition management"
+  ],
+  "reference_quote": "Wasting is more urgent because it is linked to short-term danger. If we see severe thinness, swelling of both feet, or any danger sign, we may recommend same-day evaluation or referral.",
+  "document_key_topics": [
+    "Differences between stunting and wasting",
+    "Risk stratification and urgency in malnutrition",
+    "Caregiver communication and return precautions",
+    "Integration with local support systems (e.g., Anganwadi, NRC)"
+  ],
+  "chunk_heading": "MALNUTRITION\u2014UNDERNUTRITION: SCREENING & CLASSIFICATION;CAREGIVER COMMUNICATION ON STUNTING VERSUS WASTING AND RETURN PRECAUTIONS;",
+  "topic": "MALNUTRITION\u2014UNDERNUTRITION: SCREENING & CLASSIFICATION",
+  "subtopic": "CAREGIVER COMMUNICATION ON STUNTING VERSUS WASTING AND RETURN PRECAUTIONS",
+  "sub_subtopic": null,
+  "heading_path": "MALNUTRITION\u2014UNDERNUTRITION: SCREENING & CLASSIFICATION;CAREGIVER COMMUNICATION ON STUNTING VERSUS WASTING AND RETURN PRECAUTIONS;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "2o"
+}

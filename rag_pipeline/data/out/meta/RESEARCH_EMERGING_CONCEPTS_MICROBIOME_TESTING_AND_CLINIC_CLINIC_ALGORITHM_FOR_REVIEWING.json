@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This algorithm outlines a structured approach for reviewing family-provided microbiome reports in pediatric clinics, emphasizing symptom-based evaluation, harm minimization, and evidence-based interventions while avoiding unnecessary supplements or restrictive diets.",
+  "learning_objectives": [
+    "Understand the clinical risks associated with interpreting family-provided microbiome reports.",
+    "Learn a stepwise algorithm for evaluating microbiome reports and prioritizing symptom-based care.",
+    "Identify red flags in pediatric patients that necessitate guideline-based evaluation over microbiome testing.",
+    "Apply harm-minimization counseling strategies to guide families on safe interventions."
+  ],
+  "key_facts": [
+    "Step 1: Screen for red flags such as poor growth, blood in stool, persistent fever, bilious vomiting, significant weight loss, severe anemia, or suspected IBD.",
+    "Step 2: Assess report credibility in 60 seconds by evaluating method (16S vs shotgun vs panel), metadata, and reference population.",
+    "Step 3: Pediatric microbiome varies with age, diet, infections, and antibiotics; current tests rarely diagnose conditions or prescribe definitive treatments.",
+    "Step 4: Interventions should be low-risk, with defined targets and stop rules (e.g., 2\u20134 weeks), avoiding multi-ingredient synbiotic stacks or broad food elimination.",
+    "Hydration and oral rehydration salts (ORS) are recommended first-line actions for diarrhea, per ESPGHAN guidelines."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Microbiota",
+    "Pediatrics",
+    "Clinical Algorithms",
+    "Gastrointestinal Diseases",
+    "Diet Therapy",
+    "Probiotics",
+    "Constipation",
+    "Diarrhea"
+  ],
+  "tags_custom": [
+    "microbiome counseling",
+    "pediatric care pathways",
+    "family-provided reports",
+    "harm minimization",
+    "symptom-based evaluation"
+  ],
+  "reference_quote": "Current tests rarely diagnose a condition or prescribe a single 'correct' product. Offer safer first-line actions tied to symptoms (hydration and ORS for diarrhea, standard constipation regimen, diet diversity, sleep, and activity).",
+  "document_key_topics": [
+    "Pediatric microbiome testing",
+    "Symptom-based clinical evaluation",
+    "Harm minimization in counseling families",
+    "Guideline-based interventions for red flags"
+  ],
+  "chunk_heading": "RESEARCH & EMERGING CONCEPTS;MICROBIOME TESTING AND CLINIC COUNSELING PATHWAYS;CLINIC ALGORITHM FOR REVIEWING FAMILY PROVIDED MICROBIOME REPORTS;",
+  "topic": "RESEARCH & EMERGING CONCEPTS",
+  "subtopic": "MICROBIOME TESTING AND CLINIC COUNSELING PATHWAYS",
+  "sub_subtopic": "CLINIC ALGORITHM FOR REVIEWING FAMILY PROVIDED MICROBIOME REPORTS",
+  "heading_path": "RESEARCH & EMERGING CONCEPTS;MICROBIOME TESTING AND CLINIC COUNSELING PATHWAYS;CLINIC ALGORITHM FOR REVIEWING FAMILY PROVIDED MICROBIOME REPORTS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1l5"
+}

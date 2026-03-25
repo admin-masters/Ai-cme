@@ -1,0 +1,47 @@
+{
+  "chunk_summary": "Guidelines for empiric antibiotic regimens in severe acute malnutrition (SAM) emphasize reassessment after 48\u201372 hours if no clinical improvement is observed, focusing on missed infections, resistant organisms, or alternate diagnoses.",
+  "learning_objectives": [
+    "Understand the role of empiric antibiotics in managing severe acute malnutrition (SAM).",
+    "Learn the importance of reassessment after 48\u201372 hours of antibiotic therapy in SAM cases.",
+    "Identify potential causes of treatment failure, including missed infections or resistant organisms.",
+    "Familiarize with WHO and ICMR guidelines on facility-based management of SAM."
+  ],
+  "key_facts": [
+    "Empiric antibiotics are recommended for children with complicated SAM to address potential infections.",
+    "Reassessment is critical after 48\u201372 hours if no clinical improvement is observed.",
+    "Missed infection focus, resistant organisms, or alternate diagnoses should be considered during reassessment.",
+    "WHO guidelines emphasize prevention and management of wasting and nutritional oedema in SAM.",
+    "ICMR STW provides specific protocols for severe acute malnutrition management in India."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Severe Acute Malnutrition",
+    "Empiric Antibiotic Therapy",
+    "Infectious Disease Management",
+    "Pediatric Nutrition Disorders",
+    "Nutritional Oedema",
+    "Antibiotic Resistance",
+    "Clinical Reassessment",
+    "Facility-Based Care"
+  ],
+  "tags_custom": [
+    "SAM management",
+    "pediatric antibiotics",
+    "clinical reassessment",
+    "malnutrition guidelines"
+  ],
+  "reference_quote": "If there is no clinical improvement after 48\u201372 hours, actively reassess for missed infection focus, resistant organisms, or an alternate diagnosis rather than simply 'continuing the same course.'",
+  "document_key_topics": [
+    "Empiric antibiotic regimens in SAM",
+    "Reassessment protocols for treatment failure",
+    "WHO and ICMR guidelines on SAM management"
+  ],
+  "chunk_heading": "PUBLIC HEALTH & COMMUNITY PEDIATRIC NUTRITION;FACILITY MANAGEMENT OF COMPLICATED SAM AND DISCHARGE PLANNING;EMPIRIC ANTIBIOTICS IN SEVERE ACUTE MALNUTRITION FIRST LINE REGIMENS;",
+  "topic": "PUBLIC HEALTH & COMMUNITY PEDIATRIC NUTRITION",
+  "subtopic": "FACILITY MANAGEMENT OF COMPLICATED SAM AND DISCHARGE PLANNING",
+  "sub_subtopic": "EMPIRIC ANTIBIOTICS IN SEVERE ACUTE MALNUTRITION FIRST LINE REGIMENS",
+  "heading_path": "PUBLIC HEALTH & COMMUNITY PEDIATRIC NUTRITION;FACILITY MANAGEMENT OF COMPLICATED SAM AND DISCHARGE PLANNING;EMPIRIC ANTIBIOTICS IN SEVERE ACUTE MALNUTRITION FIRST LINE REGIMENS;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1\u00802.2"
+}

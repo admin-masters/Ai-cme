@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "This section outlines a gastrostomy readiness checklist and route selection considerations for children with neurodisability and complex comorbidities, emphasizing risk mitigation, pre-procedure optimization, contraindication screening, and caregiver training readiness.",
+  "learning_objectives": [
+    "Understand the indications for gastrostomy in children with neurodisability, including unsafe swallowing, inefficient feeding, and caregiver burden.",
+    "Identify pre-procedure optimization targets, including respiratory infection treatment, reflux management, and constipation stabilization.",
+    "Recognize contraindications and practical thresholds for gastrostomy, such as INR >1.5 or platelets <50,000/mm\u00b3.",
+    "Evaluate caregiver readiness for post-procedure care, including site care and emergency planning."
+  ],
+  "key_facts": [
+    "Gastrostomy indications include unsafe swallowing (aspiration risk), inefficient feeding, and unsustainable caregiver burden.",
+    "Absolute contraindications: frank peritonitis and uncorrectable coagulopathy; practical thresholds: INR >1.5 or platelets <50,000/mm\u00b3.",
+    "Pre-procedure optimization includes treating respiratory infections, managing reflux, and stabilizing constipation to reduce postoperative complications.",
+    "Route selection should consider anatomy and comorbidities, such as severe scoliosis, prior abdominal surgery, or ventriculo-peritoneal shunts.",
+    "Concomitant fundoplication is not routine and should be reserved for refractory GERD after optimized management.",
+    "Caregiver training must include site care, flushing, medication delivery, and emergency dislodgement plans."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Gastrostomy",
+    "Neurodevelopmental Disorders",
+    "Feeding and Eating Disorders",
+    "Caregivers",
+    "Preoperative Care",
+    "Contraindications",
+    "Gastroesophageal Reflux",
+    "Pediatrics"
+  ],
+  "tags_custom": [
+    "gastrostomy readiness",
+    "complex comorbidities",
+    "caregiver training",
+    "feeding support",
+    "risk mitigation"
+  ],
+  "reference_quote": "\u2018Concomitant fundoplication should not be routine; reserve it for clearly documented, refractory GERD after optimized medical and feeding management.\u2019 (Source: ESPGHAN Position Paper)",
+  "document_key_topics": [
+    "Gastrostomy readiness and indications",
+    "Pre-procedure optimization and contraindications",
+    "Route selection based on anatomy and comorbidities",
+    "Caregiver training and emergency preparedness"
+  ],
+  "chunk_heading": "NEURODISABILITY AND FEEDING SUPPORT;GASTROSTOMY READINESS CHECKLIST AND ROUTE SELECTION IN COMPLEX COMORBIDITY;",
+  "topic": "NEURODISABILITY AND FEEDING SUPPORT",
+  "subtopic": "GASTROSTOMY READINESS CHECKLIST AND ROUTE SELECTION IN COMPLEX COMORBIDITY",
+  "sub_subtopic": null,
+  "heading_path": "NEURODISABILITY AND FEEDING SUPPORT;GASTROSTOMY READINESS CHECKLIST AND ROUTE SELECTION IN COMPLEX COMORBIDITY;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1y"
+}

@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section outlines clinic triage and standard evaluation protocols for patients presenting microbiome reports, emphasizing red flag exclusion, structured symptom history, and evidence-based counseling to prevent harm.",
+  "learning_objectives": [
+    "Understand the importance of triage in handling microbiome reports in outpatient settings.",
+    "Identify red flags such as fever, weight loss, and blood in stool that necessitate further investigation.",
+    "Learn structured approaches to symptom history, growth review, and targeted testing.",
+    "Develop counseling strategies to address patient expectations while adhering to evidence-based practices."
+  ],
+  "key_facts": [
+    "Red flags include fever, weight loss, persistent vomiting, blood in stool, severe growth faltering, and family history of inflammatory bowel disease.",
+    "Severe immunocompromise or central venous access is a red flag due to risks associated with live-microbe products.",
+    "Standard evaluation includes diet history, constipation assessment, psychosocial stressors, and screening for anaemia or celiac disease.",
+    "Structured symptom history should cover pain, stool, diet (including UPFs exposure), sleep, and stress patterns.",
+    "Microbiome reports are non-actionable for prescribing decisions due to insufficient medical evidence.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Microbiota",
+    "Clinical Protocols",
+    "Triage",
+    "Outpatient Clinics",
+    "Inflammatory Bowel Diseases",
+    "Dietary Patterns",
+    "Growth Disorders",
+    "Anemia"
+  ],
+  "tags_custom": [
+    "Microbiome counseling",
+    "Red flag evaluation",
+    "Structured symptom history",
+    "Evidence-based practice",
+    "Patient education"
+  ],
+  "reference_quote": "These reports often measure many bacteria, but the medical evidence is not strong enough to diagnose disease or prescribe targeted treatment from them.",
+  "document_key_topics": [
+    "Clinic triage for microbiome reports",
+    "Red flag identification and exclusion",
+    "Structured evaluation and counseling strategies"
+  ],
+  "chunk_heading": "RESEARCH & EMERGING CONCEPTS;MICROBIOME TESTING AND CLINIC COUNSELING PATHWAYS;CLINIC TRIAGE AND STANDARD EVALUATION BEFORE DISCUSSION;",
+  "topic": "RESEARCH & EMERGING CONCEPTS",
+  "subtopic": "MICROBIOME TESTING AND CLINIC COUNSELING PATHWAYS",
+  "sub_subtopic": "CLINIC TRIAGE AND STANDARD EVALUATION BEFORE DISCUSSION",
+  "heading_path": "RESEARCH & EMERGING CONCEPTS;MICROBIOME TESTING AND CLINIC COUNSELING PATHWAYS;CLINIC TRIAGE AND STANDARD EVALUATION BEFORE DISCUSSION;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1j3.1"
+}

@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "This section outlines the triage and initial treatment of youth-onset type 2 diabetes, emphasizing diagnostic steps, safety in hyperglycemia, and HbA1c-based treatment pathways for pediatric patients.",
+  "learning_objectives": [
+    "Understand the initial diagnostic steps for youth-onset type 2 diabetes, including ketone testing and baseline lab evaluations.",
+    "Differentiate between type 2 diabetes and other diabetes phenotypes in children using clinical cues.",
+    "Apply HbA1c-based treatment pathways for pediatric patients with type 2 diabetes, including metformin and insulin initiation.",
+    "Recognize when inpatient management is necessary for pediatric diabetes cases."
+  ],
+  "key_facts": [
+    "Youth-onset hyperglycemia should be treated as 'type uncertain' until proven otherwise.",
+    "Check capillary glucose and urine or blood ketones at first contact; refer urgently if ketones are positive or DKA/HHS symptoms are present.",
+    "Baseline labs include plasma glucose, HbA1c, fasting lipids, liver enzymes (ALT/AST), and urine albumin-to-creatinine ratio.",
+    "For HbA1c <8.5% without ketosis, start metformin and lifestyle therapy; for HbA1c \u22658.5% without ketosis, add basal insulin (0.25\u20130.5 units/kg/day).",
+    "In cases of DKA or HHS, initiate both basal and rapid-acting insulin and manage inpatient.",
+    "Diagnostic cues include obesity/acanthosis for insulin resistance, family history for MODY, and extreme insulin resistance with low fat/high TG for lipodystrophy."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Type 2 Diabetes Mellitus",
+    "Pediatrics",
+    "Hyperglycemia",
+    "Diabetic Ketoacidosis",
+    "Insulin Resistance",
+    "HbA1c",
+    "Metformin",
+    "Insulin Therapy"
+  ],
+  "tags_custom": [
+    "youth-onset diabetes",
+    "diabetes triage",
+    "HbA1c-guided treatment",
+    "pediatric endocrinology",
+    "diabetes comorbidities"
+  ],
+  "reference_quote": "Treat new pediatric hyperglycemia as 'type uncertain until proven otherwise' and prioritize ketosis safety. At first contact, check capillary glucose and urine or blood ketones.",
+  "document_key_topics": [
+    "Triage and safety in pediatric hyperglycemia",
+    "HbA1c-based treatment pathways for youth-onset type 2 diabetes",
+    "Differentiating diabetes phenotypes in children",
+    "Inpatient versus outpatient management criteria"
+  ],
+  "chunk_heading": "METABOLIC RISK IN CHILDREN;DYSGLYCEMIA AND INSULIN RESISTANCE CLINICAL PATHWAY;TRIAGE AND INITIAL TREATMENT OF YOUTH-ONSET TYPE 2 DIABETES;",
+  "topic": "METABOLIC RISK IN CHILDREN",
+  "subtopic": "DYSGLYCEMIA AND INSULIN RESISTANCE CLINICAL PATHWAY",
+  "sub_subtopic": "TRIAGE AND INITIAL TREATMENT OF YOUTH-ONSET TYPE 2 DIABETES",
+  "heading_path": "METABOLIC RISK IN CHILDREN;DYSGLYCEMIA AND INSULIN RESISTANCE CLINICAL PATHWAY;TRIAGE AND INITIAL TREATMENT OF YOUTH-ONSET TYPE 2 DIABETES;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1|5"
+}

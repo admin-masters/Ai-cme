@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Phased therapeutic feeding for severe acute malnutrition (SAM) involves stabilization with F-75, followed by catch-up feeding with F-100, alongside caregiver training and discharge planning to ensure continuity and prevent relapse.",
+  "learning_objectives": [
+    "Understand the phased therapeutic feeding approach for children with severe acute malnutrition (SAM).",
+    "Identify key priorities during the stabilization phase, including hypoglycemia and hypothermia prevention, infection treatment, and careful rehydration.",
+    "Learn the importance of caregiver training and discharge planning to prevent relapse and ensure continuity of care.",
+    "Recognize the role of community nutrition support and structured outpatient follow-up in reducing readmissions."
+  ],
+  "key_facts": [
+    "Therapeutic feeding is phased: F-75 is used for stabilization, and F-100 for catch-up feeding.",
+    "Stabilization focuses on preventing hypoglycemia, hypothermia, and infections, and avoiding fluid overload.",
+    "Dehydration assessment in SAM is challenging; rehydration must follow protocolized guidance rather than aggressive boluses.",
+    "Discharge planning includes caregiver training, danger sign recognition, and follow-up scheduling.",
+    "Relapse is common without clear discharge plans, missed infections, or unsustainable household food plans.",
+    "Linking discharge counseling with anganwadi monitoring and outpatient reviews improves outcomes."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Severe Acute Malnutrition",
+    "Therapeutic Feeding",
+    "Hypoglycemia",
+    "Hypothermia",
+    "Rehydration Solutions",
+    "Micronutrient Deficiency",
+    "Caregiver Education",
+    "Community Health Services"
+  ],
+  "tags_custom": [
+    "SAM management",
+    "phased feeding",
+    "discharge planning",
+    "nutrition continuity"
+  ],
+  "reference_quote": "Therapeutic feeding is phased. Facility protocols use a starter diet such as F-75 to provide maintenance energy while metabolic tolerance is restored, followed by a catch-up diet such as F-100 to drive weight gain once the child is clinically stable and appetite improves. (NHM, 2011)",
+  "document_key_topics": [
+    "Phased therapeutic feeding for SAM",
+    "Stabilization and rehabilitation priorities",
+    "Discharge planning and caregiver training",
+    "Community-based follow-up and relapse prevention"
+  ],
+  "chunk_heading": "FEEDING DIFFICULTIES & FALTERING GROWTH;SEVERE ACUTE MALNUTRITION TRIAGE AND INPATIENT MANAGEMENT;PHASED THERAPEUTIC FEEDING AND DISCHARGE CONTINUITY;",
+  "topic": "FEEDING DIFFICULTIES & FALTERING GROWTH",
+  "subtopic": "SEVERE ACUTE MALNUTRITION TRIAGE AND INPATIENT MANAGEMENT",
+  "sub_subtopic": "PHASED THERAPEUTIC FEEDING AND DISCHARGE CONTINUITY",
+  "heading_path": "FEEDING DIFFICULTIES & FALTERING GROWTH;SEVERE ACUTE MALNUTRITION TRIAGE AND INPATIENT MANAGEMENT;PHASED THERAPEUTIC FEEDING AND DISCHARGE CONTINUITY;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "4\u008e2"
+}

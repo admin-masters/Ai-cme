@@ -1,0 +1,45 @@
+{
+  "chunk_summary": "This section discusses safeguards against micronutrient duplication and the timing of iron supplementation in the management of severe acute malnutrition (SAM), referencing WHO and national guidelines.",
+  "learning_objectives": [
+    "Understand the importance of avoiding micronutrient duplication in SAM treatment protocols.",
+    "Learn the recommended timing and dosage of iron supplementation in SAM care.",
+    "Familiarize with WHO and national guidelines for micronutrient management in malnourished children."
+  ],
+  "key_facts": [
+    "Micronutrient duplication can lead to toxicity and adverse effects in SAM management.",
+    "Iron supplementation should be delayed until the stabilization phase in SAM to avoid complications such as infections.",
+    "WHO guidelines emphasize the use of ready-to-use therapeutic foods (RUTF) containing pre-mixed micronutrients to prevent duplication.",
+    "The Government of India recommends vitamin A supplementation as part of SAM care protocols.",
+    "WHO guidelines highlight the importance of monitoring for nutritional oedema during SAM treatment."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Micronutrients",
+    "Iron",
+    "Severe Acute Malnutrition",
+    "Vitamin A",
+    "Therapeutic Foods",
+    "Nutritional Oedema",
+    "Child Nutrition Disorders"
+  ],
+  "tags_custom": [
+    "SAM care",
+    "Iron timing",
+    "Micronutrient safeguards",
+    "Pediatric malnutrition"
+  ],
+  "reference_quote": "Iron supplementation should be delayed until the stabilization phase in SAM to avoid exacerbating infections. (Source: WHO pocket book of hospital care for children \u2014 https://www.ncbi.nlm.nih.gov/books/NBK154454/)",
+  "document_key_topics": [
+    "Micronutrient duplication safeguards",
+    "Iron supplementation timing in SAM",
+    "WHO and national guidelines for SAM care"
+  ],
+  "chunk_heading": "MICRONUTRIENT NUTRITION;MICRONUTRIENT SUPPLEMENTATION IN SEVERE ACUTE MALNUTRITION CARE;MICRONUTRIENT DUPLICATION SAFEGUARDS AND IRON TIMING IN SAM;",
+  "topic": "MICRONUTRIENT NUTRITION",
+  "subtopic": "MICRONUTRIENT SUPPLEMENTATION IN SEVERE ACUTE MALNUTRITION CARE",
+  "sub_subtopic": "MICRONUTRIENT DUPLICATION SAFEGUARDS AND IRON TIMING IN SAM",
+  "heading_path": "MICRONUTRIENT NUTRITION;MICRONUTRIENT SUPPLEMENTATION IN SEVERE ACUTE MALNUTRITION CARE;MICRONUTRIENT DUPLICATION SAFEGUARDS AND IRON TIMING IN SAM;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u00991.2"
+}

@@ -1,0 +1,47 @@
+{
+  "chunk_summary": "This section discusses common misconceptions in interpreting growth velocity and Z-scores using WHO/IAP charts, emphasizing accurate measurement, longitudinal tracking, and avoiding misclassification errors.",
+  "learning_objectives": [
+    "Understand the importance of longitudinal growth monitoring over single-point measurements.",
+    "Identify and correct common errors in growth chart interpretation, including centile crossing and measurement inaccuracies.",
+    "Recognize the limitations of laboratory markers like serum albumin and prealbumin in assessing nutritional status.",
+    "Learn the implications of mixing growth charts and the importance of using age-appropriate tools."
+  ],
+  "key_facts": [
+    "Downward centile crossing or slowing height velocity is a stronger indicator of pathology than a low percentile alone.",
+    "Measurement errors, such as incorrect age entry or switching between recumbent length and standing height, can lead to false growth interpretations.",
+    "Serum albumin and prealbumin are unreliable markers of nutrition status and are better indicators of inflammation or illness.",
+    "BMI can be misleading in stunted children, as normal or high BMI does not exclude micronutrient deficiencies or poor diet quality.",
+    "Mixing WHO under-5 standards with IAP school-age charts without proper documentation can create apparent centile shifts."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Growth Charts",
+    "Body Height",
+    "Body Weight",
+    "Body Mass Index",
+    "Child Development",
+    "Nutritional Status",
+    "Stunting",
+    "Anthropometry"
+  ],
+  "tags_custom": [
+    "growth monitoring",
+    "Z-scores interpretation",
+    "measurement errors",
+    "child nutrition"
+  ],
+  "reference_quote": "Serum albumin and prealbumin are not reliable measures of nutrition status and are better understood as illness and inflammation markers. (Reference 3)",
+  "document_key_topics": [
+    "Growth velocity and Z-scores",
+    "WHO/IAP chart interpretation",
+    "Common errors in growth monitoring"
+  ],
+  "chunk_heading": "GROWTH VELOCITY, Z-SCORES; WHO/IAP CHARTS);Z-SCORES AND GROWTH TRAJECTORY INTERPRETATION;COMMON MISINTERPRETATIONS IN GROWTH MONITORING;",
+  "topic": "GROWTH VELOCITY, Z-SCORES",
+  "subtopic": "WHO/IAP CHARTS)",
+  "sub_subtopic": "Z-SCORES AND GROWTH TRAJECTORY INTERPRETATION",
+  "heading_path": "GROWTH VELOCITY, Z-SCORES; WHO/IAP CHARTS);Z-SCORES AND GROWTH TRAJECTORY INTERPRETATION;COMMON MISINTERPRETATIONS IN GROWTH MONITORING;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2~29"
+}

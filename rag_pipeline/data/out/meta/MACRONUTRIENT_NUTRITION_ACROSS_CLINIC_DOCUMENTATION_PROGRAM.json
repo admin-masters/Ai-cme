@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Guidelines for integrating macronutrient counseling into clinic workflows, linking children to nutrition programs, and addressing common myths with practical scripts.",
+  "learning_objectives": [
+    "Understand how to document and classify growth and nutrition status in children using WHO z-scores or IAP BMI status.",
+    "Learn to link children with undernutrition to appropriate programs like ICDS/Mission POSHAN 2.0 and PM POSHAN.",
+    "Develop skills to address common nutrition myths using evidence-based counseling scripts.",
+    "Recognize when to refer children with severe malnutrition to facility-based management programs."
+  ],
+  "key_facts": [
+    "A usable nutrition note includes growth classification, nutrition diagnosis, specific food changes, and a dated follow-up plan.",
+    "PM POSHAN meals provide 450 kcal and 12 g protein for primary and 700 kcal and 20 g protein for upper primary children.",
+    "Children under 6 years with undernutrition should be linked to anganwadi services under ICDS/Mission POSHAN 2.0.",
+    "Severe wasting, edema, or complications require referral to a nutrition rehabilitation center under NHM.",
+    "Common myths include: 'Juice is not fruit; give whole fruit and water' and 'Protein powders are not needed; dal, milk, egg, or fish is safer and cheaper.'"
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Child Nutrition",
+    "Macronutrients",
+    "Malnutrition",
+    "Nutrition Counseling",
+    "Growth Disorders",
+    "Dietary Proteins",
+    "Nutrition Programs",
+    "Public Health"
+  ],
+  "tags_custom": [
+    "Nutrition Myths",
+    "Childhood Undernutrition",
+    "Clinic Documentation",
+    "Referral Programs",
+    "India Nutrition Schemes"
+  ],
+  "reference_quote": "Children under 6 years with undernutrition or food insecurity should be linked to anganwadi services under ICDS/Mission POSHAN 2.0 for supplementary nutrition and counseling.",
+  "document_key_topics": [
+    "Macronutrient counseling in clinical settings",
+    "Linking children to nutrition programs like ICDS and PM POSHAN",
+    "Addressing common nutrition myths with practical scripts",
+    "Referral and management of severe malnutrition cases"
+  ],
+  "chunk_heading": "MACRONUTRIENT NUTRITION ACROSS CHILDHOOD;CLINIC DOCUMENTATION PROGRAM REFERRAL AND COUNSELING SCRIPTS FOR COMMON MYTHS;",
+  "topic": "MACRONUTRIENT NUTRITION ACROSS CHILDHOOD",
+  "subtopic": "CLINIC DOCUMENTATION PROGRAM REFERRAL AND COUNSELING SCRIPTS FOR COMMON MYTHS",
+  "sub_subtopic": null,
+  "heading_path": "MACRONUTRIENT NUTRITION ACROSS CHILDHOOD;CLINIC DOCUMENTATION PROGRAM REFERRAL AND COUNSELING SCRIPTS FOR COMMON MYTHS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2\u0082"
+}

@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section emphasizes linking dietary findings with targeted investigations, prioritizing tailored nutrition plans and specific tests based on clinical discordance or symptoms, avoiding unnecessary broad panels.",
+  "learning_objectives": [
+    "Understand when to trigger targeted investigations based on dietary findings and clinical discordance.",
+    "Learn to prioritize nutrition and feeding plans before ordering broad laboratory panels.",
+    "Identify first-line tests for specific conditions such as anemia, malabsorption, or systemic disease.",
+    "Contextualize investigations to local epidemiology and clinical relevance."
+  ],
+  "key_facts": [
+    "Investigations should follow clinical discordance, such as persistent growth faltering despite adequate intake over 2\u20134 weeks.",
+    "First-line tests include CBC and ferritin for anemia, urine analysis for occult UTI, and celiac serology for gluten exposure.",
+    "Persistent microcytic anemia requires evaluation for chronic inflammation, blood loss, hemoglobinopathy, or celiac disease.",
+    "In obesity, endocrine evaluation is relevant when weight gain is paired with poor linear growth or pubertal delay.",
+    "In India, investigations should consider local risks like tuberculosis, celiac disease, and parasitic infections."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Dietary Assessment",
+    "Feeding Behavior",
+    "Growth Disorders",
+    "Malabsorption Syndromes",
+    "Anemia",
+    "Obesity",
+    "Endocrine System Diseases",
+    "Nutritional Status"
+  ],
+  "tags_custom": [
+    "targeted investigations",
+    "clinical discordance",
+    "nutrition planning",
+    "local epidemiology",
+    "feeding skills evaluation"
+  ],
+  "reference_quote": "Faltering growth: recognition and management (NICE NG75) emphasizes prioritizing nutrition plans and targeted investigations over broad panels in cases of growth faltering.",
+  "document_key_topics": [
+    "Dietary assessment and feeding skills evaluation",
+    "Targeted investigations for growth faltering",
+    "First-line tests for specific clinical conditions",
+    "Contextualizing investigations to local epidemiology"
+  ],
+  "chunk_heading": "DIETARY ASSESSMENT & FEEDING SKILLS EVALUATION;LINKING DIETARY FINDINGS WITH TARGETED INVESTIGATIONS;",
+  "topic": "DIETARY ASSESSMENT & FEEDING SKILLS EVALUATION",
+  "subtopic": "LINKING DIETARY FINDINGS WITH TARGETED INVESTIGATIONS",
+  "sub_subtopic": null,
+  "heading_path": "DIETARY ASSESSMENT & FEEDING SKILLS EVALUATION;LINKING DIETARY FINDINGS WITH TARGETED INVESTIGATIONS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u0081"
+}

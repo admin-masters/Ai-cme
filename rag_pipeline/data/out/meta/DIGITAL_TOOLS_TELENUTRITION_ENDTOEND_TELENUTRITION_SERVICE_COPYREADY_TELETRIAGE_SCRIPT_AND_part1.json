@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section focuses on a copy-ready tele-triage script and pathway-specific intake data fields within the end-to-end tele-nutrition service workflow, emphasizing digital tools, registries, and dashboards for tele-nutrition services.",
+  "learning_objectives": [
+    "Understand the structure and purpose of tele-triage scripts in tele-nutrition workflows.",
+    "Identify key intake data fields required for pathway-specific tele-nutrition services.",
+    "Explore the integration of digital tools and dashboards in tele-nutrition registries.",
+    "Learn about guidelines and recommendations for telemedicine and digital health interventions."
+  ],
+  "key_facts": [
+    "Telemedicine Practice Guidelines (2020) provide a framework for digital health services in India.",
+    "WHO's digital health guidelines emphasize the importance of monitoring and evaluating digital health interventions.",
+    "Pathway-specific intake data fields are critical for personalized tele-nutrition services.",
+    "Digital dashboards enhance the management and visualization of tele-nutrition registries.",
+    "The WHO Classification of Digital Health Interventions v1.0 categorizes digital tools for health system strengthening."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Telemedicine",
+    "Nutrition Therapy",
+    "Health Information Systems",
+    "Patient Care Management",
+    "Digital Health",
+    "Health Services Administration",
+    "Clinical Protocols",
+    "Data Collection"
+  ],
+  "tags_custom": [
+    "Tele-nutrition",
+    "Digital tools",
+    "Tele-triage",
+    "Health dashboards",
+    "Intake data fields"
+  ],
+  "reference_quote": "\"Telemedicine Practice Guidelines (MoHFW/Board of Governors, 2020) provide a comprehensive framework for the practice of telemedicine in India.\"",
+  "document_key_topics": [
+    "Tele-nutrition service workflows",
+    "Tele-triage scripts and intake data fields",
+    "Digital health tools and dashboards",
+    "Guidelines for telemedicine and digital health"
+  ],
+  "chunk_heading": "DIGITAL TOOLS & TELE-NUTRITION;END-TO-END TELE-NUTRITION SERVICE WORKFLOW, REGISTRIES, AND DASHBOARDS;COPY-READY TELE-TRIAGE SCRIPT AND PATHWAY-SPECIFIC INTAKE DATA FIELDS;",
+  "topic": "DIGITAL TOOLS & TELE-NUTRITION",
+  "subtopic": "END-TO-END TELE-NUTRITION SERVICE WORKFLOW, REGISTRIES, AND DASHBOARDS",
+  "sub_subtopic": "COPY-READY TELE-TRIAGE SCRIPT AND PATHWAY-SPECIFIC INTAKE DATA FIELDS",
+  "heading_path": "DIGITAL TOOLS & TELE-NUTRITION;END-TO-END TELE-NUTRITION SERVICE WORKFLOW, REGISTRIES, AND DASHBOARDS;COPY-READY TELE-TRIAGE SCRIPT AND PATHWAY-SPECIFIC INTAKE DATA FIELDS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u00922.2"
+}

@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Guidelines for preparing F-75 and F-100 therapeutic feeds with electrolyte fortification for managing severe acute malnutrition, emphasizing safety, hygiene, and proper supplementation.",
+  "learning_objectives": [
+    "Understand the preparation of F-75 and F-100 therapeutic feeds for SAM management.",
+    "Learn the importance of electrolyte fortification, including potassium and magnesium supplementation.",
+    "Identify practical ward checks to ensure safe and effective feeding practices.",
+    "Recognize hygiene and process issues in feed preparation to prevent complications like diarrhea."
+  ],
+  "key_facts": [
+    "F-75 is a starter diet made from milk, sugar, oil, and water; F-100 is a catch-up diet with higher milk content.",
+    "Electrolyte fortification requires added potassium and magnesium, with restricted sodium.",
+    "Feeds must be prepared with clean utensils, boiled or safe water, and discarded if kept beyond protocol time.",
+    "Double-check feed volume calculations against weight to prevent errors.",
+    "Night feeds must be delivered, and feeds should be warmed before administration.",
+    "Diarrhea after feed changes often indicates hygiene or mixing issues."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Severe Acute Malnutrition",
+    "Therapeutic Feeding",
+    "F-75",
+    "F-100",
+    "Electrolyte Balance",
+    "Potassium",
+    "Magnesium",
+    "Dietary Management"
+  ],
+  "tags_custom": [
+    "SAM management",
+    "therapeutic milk preparation",
+    "electrolyte supplementation",
+    "feeding safety",
+    "hygiene practices"
+  ],
+  "reference_quote": "Therapeutic feeding safety depends on correct preparation and mineral composition, not only calories. (National Health Mission, Participant manual for facility-based care of severe acute malnutrition)",
+  "document_key_topics": [
+    "F-75 and F-100 preparation",
+    "Electrolyte fortification in SAM management",
+    "Hygiene and safety in therapeutic feeding"
+  ],
+  "chunk_heading": "SEVERE ACUTE MALNUTRITION-(SAM) MANAGEMENT;THERAPEUTIC FEEDING AND  CATCH-UP GROWTH;F-75 AND F-100 PREPARATION WITH ELECTROLYTE FORTIFICATION;",
+  "topic": "SEVERE ACUTE MALNUTRITION-(SAM) MANAGEMENT",
+  "subtopic": "THERAPEUTIC FEEDING AND  CATCH-UP GROWTH",
+  "sub_subtopic": "F-75 AND F-100 PREPARATION WITH ELECTROLYTE FORTIFICATION",
+  "heading_path": "SEVERE ACUTE MALNUTRITION-(SAM) MANAGEMENT;THERAPEUTIC FEEDING AND  CATCH-UP GROWTH;F-75 AND F-100 PREPARATION WITH ELECTROLYTE FORTIFICATION;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "3\u007f2"
+}

@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "This section discusses evaluating non-response in children with MAM, distinguishing true non-response from adherence failure, and identifying red flags for targeted investigation.",
+  "learning_objectives": [
+    "Understand the distinction between non-response and adherence failure in children with MAM.",
+    "Learn methods to audit feeding practices and identify operational failures.",
+    "Recognize red flags for targeted evaluation, including chronic symptoms and comorbidities.",
+    "Apply WHO guidelines for managing wasting and nutritional oedema in children under 5."
+  ],
+  "key_facts": [
+    "Non-response evaluation should begin at the second follow-up, typically 2\u20134 weeks after intervention.",
+    "Common adherence failures include ration mixed into watery tea, unsafe storage, and caregiver misconceptions about solids causing diarrhoea.",
+    "Red flags for immediate evaluation include chronic diarrhoea, persistent vomiting, abdominal distension, oedema, recurrent fever, and known TB contact.",
+    "Congenital heart disease should be considered when tachypnoea, sweating, recurrent chest infections, or murmurs are present during feeding.",
+    "WHO guidance explicitly recognizes comorbidities like feeding dysfunction and disabilities as risk factors requiring intensive support."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Malnutrition",
+    "Feeding Behavior",
+    "Nutritional Support",
+    "Child Health",
+    "Anthropometry",
+    "Congenital Heart Disease",
+    "Diarrhea",
+    "Tuberculosis"
+  ],
+  "tags_custom": [
+    "MAM management",
+    "feeding adherence",
+    "nutritional evaluation",
+    "red flag symptoms",
+    "WHO guidelines"
+  ],
+  "reference_quote": "World Health Organization. 2023. Guideline on the prevention and management of wasting and nutritional oedema in infants and children under 5 years.",
+  "document_key_topics": [
+    "Non-response evaluation in MAM",
+    "Adherence failure in feeding interventions",
+    "Red flags for targeted investigation"
+  ],
+  "chunk_heading": "FEEDING;NONRESPONSE EVALUATION AND TARGETED INVESTIGATION;DISTINGUISHING NON-RESPONSE FROM ADHERENCE FAILURE;",
+  "topic": "FEEDING",
+  "subtopic": "NONRESPONSE EVALUATION AND TARGETED INVESTIGATION",
+  "sub_subtopic": "DISTINGUISHING NON-RESPONSE FROM ADHERENCE FAILURE",
+  "heading_path": "FEEDING;NONRESPONSE EVALUATION AND TARGETED INVESTIGATION;DISTINGUISHING NON-RESPONSE FROM ADHERENCE FAILURE;",
+  "reference_count": 2,
+  "has_guidelines": false,
+  "sequence": "3s1.1"
+}

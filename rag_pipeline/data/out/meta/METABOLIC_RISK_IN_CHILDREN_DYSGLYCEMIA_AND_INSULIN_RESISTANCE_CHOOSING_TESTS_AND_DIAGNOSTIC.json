@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "Guidelines for diagnosing dysglycemia in children focus on appropriate tests, diagnostic cutoffs, and risk-based screening after age 10 or pubertal onset, emphasizing the avoidance of overdiagnosis.",
+  "learning_objectives": [
+    "Understand the recommended diagnostic tests and cutoffs for dysglycemia in children.",
+    "Identify risk factors and appropriate timing for dysglycemia screening in pediatric populations.",
+    "Recognize the limitations of fasting insulin and HOMA-IR in dysglycemia screening.",
+    "Apply risk-based screening strategies for children with obesity or other risk factors."
+  ],
+  "key_facts": [
+    "Prediabetes diagnostic cutoffs: fasting glucose 100\u2013125 mg/dL, 2-hour OGTT 140\u2013199 mg/dL, HbA1c 5.7\u20136.4%.",
+    "Diabetes diagnostic cutoffs: fasting glucose \u2265126 mg/dL, 2-hour OGTT \u2265200 mg/dL, HbA1c \u22656.5% (confirmation required unless unequivocal hyperglycemia).",
+    "Glucose load for OGTT in children: 1.75 g/kg (maximum 75 g).",
+    "Screening recommended after age 10 or pubertal onset in overweight/obese children with additional risk factors.",
+    "OGTT is reserved for high-risk phenotypes (e.g., severe obesity, MASLD) or discordant/borderline results.",
+    "Fasting insulin and HOMA-IR are not recommended for screening due to variability."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Dysglycemia",
+    "Insulin Resistance",
+    "Pediatric Obesity",
+    "Prediabetic State",
+    "Diabetes Mellitus, Type 2",
+    "Oral Glucose Tolerance Test",
+    "Glycated Hemoglobin A",
+    "Risk Assessment"
+  ],
+  "tags_custom": [
+    "pediatric dysglycemia",
+    "screening guidelines",
+    "diagnostic thresholds",
+    "metabolic risk"
+  ],
+  "reference_quote": "The 2023 AAP obesity guideline recommends evaluating abnormal glucose metabolism using fasting plasma glucose, 2-hour plasma glucose after an oral glucose tolerance test (OGTT), or HbA1c.",
+  "document_key_topics": [
+    "Diagnostic tests and cutoffs for dysglycemia in children",
+    "Risk-based screening for dysglycemia in pediatric populations",
+    "Limitations of fasting insulin and HOMA-IR in screening"
+  ],
+  "chunk_heading": "METABOLIC RISK IN CHILDREN; DYSGLYCEMIA AND INSULIN RESISTANCE CLINICAL PATHWAY; CHOOSING TESTS AND DIAGNOSTIC CUTOFFS FOR DYSGLYCEMIA;",
+  "topic": "METABOLIC RISK IN CHILDREN",
+  "subtopic": "DYSGLYCEMIA AND INSULIN RESISTANCE CLINICAL PATHWAY",
+  "sub_subtopic": "CHOOSING TESTS AND DIAGNOSTIC CUTOFFS FOR DYSGLYCEMIA",
+  "heading_path": "METABOLIC RISK IN CHILDREN; DYSGLYCEMIA AND INSULIN RESISTANCE CLINICAL PATHWAY; CHOOSING TESTS AND DIAGNOSTIC CUTOFFS FOR DYSGLYCEMIA;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1v1"
+}

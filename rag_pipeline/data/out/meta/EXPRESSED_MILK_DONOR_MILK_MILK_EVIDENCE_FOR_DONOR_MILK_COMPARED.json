@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "Donor human milk (DHM) reduces necrotizing enterocolitis (NEC) risk in very preterm or low birth weight infants compared to formula, but requires fortification to address nutritional gaps and support growth. Evidence-based prioritization and transition plans are essential in resource-limited settings.",
+  "learning_objectives": [
+    "Understand the role of donor human milk (DHM) in reducing necrotizing enterocolitis (NEC) risk in preterm infants.",
+    "Identify nutritional limitations of DHM and the importance of timely fortification for growth.",
+    "Learn strategies for prioritizing DHM use and transitioning to maternal expressed breast milk (EBM).",
+    "Evaluate evidence-based guidelines for DHM supplementation in high-risk infants."
+  ],
+  "key_facts": [
+    "DHM reduces NEC risk in very preterm and very low birth weight infants compared to formula supplementation.",
+    "Pasteurized DHM often has lower protein and energy content than preterm maternal milk, requiring fortification.",
+    "Predominantly DHM diets can lead to slower in-hospital growth without timely fortification.",
+    "Evidence-based prioritization reserves DHM for infants at highest NEC risk, with frequent reassessment of eligibility.",
+    "Transition plans should replace DHM with maternal EBM stepwise as volumes rise, with formula considered only after family discussion.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Milk, Human",
+    "Necrotizing Enterocolitis",
+    "Infant, Premature",
+    "Infant, Low Birth Weight",
+    "Pasteurization",
+    "Nutritional Requirements",
+    "Growth and Development",
+    "Milk Banks"
+  ],
+  "tags_custom": [
+    "Donor milk prioritization",
+    "NEC prevention",
+    "Infant nutrition",
+    "Fortification strategies",
+    "Maternal milk transition"
+  ],
+  "reference_quote": "Randomized trials and systematic reviews consistently show lower NEC incidence with DHM compared with formula supplementation, with the largest absolute benefit in the smallest and most immature infants. (Source: Cochrane Library)",
+  "document_key_topics": [
+    "Necrotizing enterocolitis (NEC) prevention with donor human milk",
+    "Nutritional limitations and fortification of DHM",
+    "Evidence-based prioritization of DHM in resource-limited settings",
+    "Transitioning from DHM to maternal expressed breast milk (EBM)"
+  ],
+  "chunk_heading": "EXPRESSED MILK, DONOR MILK & MILK BANKING;EVIDENCE FOR DONOR MILK COMPARED WITH FORMULA;",
+  "topic": "EXPRESSED MILK, DONOR MILK & MILK BANKING",
+  "subtopic": "EVIDENCE FOR DONOR MILK COMPARED WITH FORMULA",
+  "sub_subtopic": null,
+  "heading_path": "EXPRESSED MILK, DONOR MILK & MILK BANKING;EVIDENCE FOR DONOR MILK COMPARED WITH FORMULA;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1b"
+}

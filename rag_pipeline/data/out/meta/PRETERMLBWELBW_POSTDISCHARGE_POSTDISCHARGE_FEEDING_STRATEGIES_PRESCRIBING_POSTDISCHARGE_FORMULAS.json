@@ -1,0 +1,47 @@
+{
+  "chunk_summary": "Guidelines for prescribing post-discharge formulas for preterm/LBW/ELBW infants, emphasizing stepwise escalation, nutrient-enriched formulas, and safety considerations for hydration and preparation practices.",
+  "learning_objectives": [
+    "Understand the caloric and nutrient differences between standard, higher-calorie, and post-discharge preterm formulas.",
+    "Learn the stepwise escalation strategy for addressing poor growth in preterm/LBW/ELBW infants post-discharge.",
+    "Recognize safety concerns, including hydration, renal solute load, and formula preparation for high-risk infants."
+  ],
+  "key_facts": [
+    "Standard term formula provides 19\u201320 kcal/oz (~0.67 kcal/mL).",
+    "Higher-calorie term formula (22\u201324 kcal/oz) is used when infants cannot consume sufficient volume.",
+    "Post-discharge preterm formula is nutrient-enriched, often 22 kcal/oz, with higher protein and minerals.",
+    "Stage 1: Optimize volume and frequency; Stage 2: Targeted enrichment; Stage 3: Reassess within 5\u20137 days.",
+    "Concentrations above 24 kcal/oz can reduce free water and increase renal solute load; monitor hydration and electrolytes.",
+    "Powdered formula is not sterile; high-risk infants require careful preparation and storage."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Infant, Premature",
+    "Infant, Low Birth Weight",
+    "Infant Nutrition",
+    "Infant Formula",
+    "Nutritional Requirements",
+    "Growth Disorders",
+    "Breastfeeding",
+    "Renal Function Tests"
+  ],
+  "tags_custom": [
+    "post-discharge nutrition",
+    "formula fortification",
+    "preterm growth strategies",
+    "feeding safety"
+  ],
+  "reference_quote": "Post-discharge preterm formula is nutrient-enriched (often 22 kcal/oz with higher protein and minerals than term formula) and can be used as a supplement or primary feed when growth is poor. (Source: American Academy of Pediatrics)",
+  "document_key_topics": [
+    "Post-discharge formula options for preterm/LBW/ELBW infants",
+    "Stepwise escalation in feeding strategies",
+    "Safety considerations in formula preparation and hydration"
+  ],
+  "chunk_heading": "PRETERM/LBW/ELBW POST-DISCHARGE NUTRITION;POST-DISCHARGE FEEDING STRATEGIES AND FORTIFICATION OPTIONS;PRESCRIBING POST-DISCHARGE FORMULAS WITH STEPWISE ESCALATION;",
+  "topic": "PRETERM/LBW/ELBW POST-DISCHARGE NUTRITION",
+  "subtopic": "POST-DISCHARGE FEEDING STRATEGIES AND FORTIFICATION OPTIONS",
+  "sub_subtopic": "PRESCRIBING POST-DISCHARGE FORMULAS WITH STEPWISE ESCALATION",
+  "heading_path": "PRETERM/LBW/ELBW POST-DISCHARGE NUTRITION;POST-DISCHARGE FEEDING STRATEGIES AND FORTIFICATION OPTIONS;PRESCRIBING POST-DISCHARGE FORMULAS WITH STEPWISE ESCALATION;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "1v2"
+}

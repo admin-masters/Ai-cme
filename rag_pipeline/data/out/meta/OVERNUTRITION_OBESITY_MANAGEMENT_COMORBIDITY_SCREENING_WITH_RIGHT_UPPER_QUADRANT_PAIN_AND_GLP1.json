@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section addresses GLP-1 receptor agonist-associated gallbladder events in pediatric obesity management, emphasizing screening for biliary symptoms during rapid weight changes and dose escalation, with actionable pathways for assessment and disposition decisions.",
+  "learning_objectives": [
+    "Understand the association between GLP-1 receptor agonists and gallbladder-related adverse events in pediatric obesity management.",
+    "Identify key symptoms of biliary disease, including RUQ pain, jaundice, and fever, and their diagnostic pathways.",
+    "Learn disposition criteria for urgent referral versus outpatient management of biliary complications.",
+    "Incorporate routine biliary symptom screening during rapid weight reduction or GLP-1 dose escalation."
+  ],
+  "key_facts": [
+    "GLP-1 receptor agonists, such as semaglutide, are associated with gallbladder-related adverse events like cholelithiasis and cholecystitis.",
+    "Trigger symptoms include RUQ pain, nausea, vomiting, jaundice, fever, dark urine, and pale stools.",
+    "First-line assessment includes abdominal ultrasound, liver function tests (bilirubin, ALT/AST, alkaline phosphatase, GGT), and complete blood count.",
+    "Serum lipase or amylase should be added when pain radiates to the back, indicating possible pancreatitis.",
+    "Same-day referral is required for fever, jaundice, persistent vomiting, suspected pancreatitis, or systemic toxicity.",
+    "Outpatient ultrasound within days is reasonable for uncomplicated biliary colic with stable vitals and no jaundice or fever."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Obesity",
+    "Gallstones",
+    "Cholecystitis",
+    "GLP-1 Receptor Agonists",
+    "Pediatric Obesity",
+    "Pancreatitis",
+    "Ultrasonography",
+    "Weight Reduction"
+  ],
+  "tags_custom": [
+    "RUQ pain",
+    "biliary disease screening",
+    "semaglutide adverse events",
+    "pediatric gallbladder management",
+    "rapid weight change risks"
+  ],
+  "reference_quote": "Wegovy (semaglutide) prescribing information highlights gallbladder-related adverse events, including cholelithiasis and cholecystitis, necessitating routine biliary symptom screening during dose escalation and rapid weight reduction.",
+  "document_key_topics": [
+    "GLP-1 receptor agonist-associated gallbladder events",
+    "Biliary disease screening in pediatric obesity",
+    "Disposition criteria for biliary complications"
+  ],
+  "chunk_heading": "OVERNUTRITION & OBESITY MANAGEMENT;COMORBIDITY SCREENING WITH ACTIONABLE PATHWAYS;RIGHT UPPER QUADRANT PAIN AND GLP-1 ASSOCIATED GALLBLADDER EVENTS;",
+  "topic": "OVERNUTRITION & OBESITY MANAGEMENT",
+  "subtopic": "COMORBIDITY SCREENING WITH ACTIONABLE PATHWAYS",
+  "sub_subtopic": "RIGHT UPPER QUADRANT PAIN AND GLP-1 ASSOCIATED GALLBLADDER EVENTS",
+  "heading_path": "OVERNUTRITION & OBESITY MANAGEMENT;COMORBIDITY SCREENING WITH ACTIONABLE PATHWAYS;RIGHT UPPER QUADRANT PAIN AND GLP-1 ASSOCIATED GALLBLADDER EVENTS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1y11"
+}

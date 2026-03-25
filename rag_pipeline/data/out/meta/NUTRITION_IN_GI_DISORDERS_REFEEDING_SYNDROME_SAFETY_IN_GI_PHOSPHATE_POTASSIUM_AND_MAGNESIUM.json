@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Guidelines for safe phosphate, potassium, and magnesium replacement in refeeding syndrome, emphasizing weight-based dosing, monitoring, and staged calorie advancement in GI disorders.",
+  "learning_objectives": [
+    "Understand the importance of phosphate as a priority electrolyte in refeeding syndrome management.",
+    "Learn weight-based dosing protocols for phosphate, potassium, and magnesium replacement in pediatric patients.",
+    "Recognize the need for monitoring and staged calorie advancement to prevent electrolyte imbalances.",
+    "Identify the role of magnesium in correcting hypokalemia and its dosing considerations."
+  ],
+  "key_facts": [
+    "Phosphate replacement: 0.2\u20130.36 mmol/kg per dose IV, with a daily ceiling of 2 mmol/kg/day.",
+    "Potassium replacement: Oral dose of 1\u20132 mmol/kg per dose (max 20 mmol per dose).",
+    "Magnesium replacement: Oral dose of 0.1\u20130.2 mmol/kg per dose, given 2\u20133 times daily.",
+    "Severe hypophosphatemia can cause respiratory failure and arrhythmias during calorie advancement.",
+    "Intravenous electrolyte replacement requires cardiac monitoring and adherence to local protocols.",
+    "Electrolyte levels should be rechecked before advancing calories after replacement therapy."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Refeeding Syndrome",
+    "Hypophosphatemia",
+    "Hypokalemia",
+    "Hypomagnesemia",
+    "Electrolyte Imbalance",
+    "Parenteral Nutrition",
+    "Pediatric Nutrition",
+    "Gastrointestinal Diseases"
+  ],
+  "tags_custom": [
+    "Electrolyte Replacement",
+    "Refeeding Safety",
+    "Pediatric Dosing",
+    "GI Disorders",
+    "Calorie Advancement"
+  ],
+  "reference_quote": "Treat severe hypophosphatemia as an emergency because it can precipitate respiratory failure and arrhythmias during calorie advancement.",
+  "document_key_topics": [
+    "Phosphate replacement in refeeding syndrome",
+    "Potassium and magnesium dosing in GI disorders",
+    "Monitoring and staged calorie advancement"
+  ],
+  "chunk_heading": "NUTRITION IN GI DISORDERS & MALABSORPTION;REFEEDING SYNDROME SAFETY IN GI DISEASE;PHOSPHATE POTASSIUM AND MAGNESIUM REPLACEMENT DOSING;",
+  "topic": "NUTRITION IN GI DISORDERS & MALABSORPTION",
+  "subtopic": "REFEEDING SYNDROME SAFETY IN GI DISEASE",
+  "sub_subtopic": "PHOSPHATE POTASSIUM AND MAGNESIUM REPLACEMENT DOSING",
+  "heading_path": "NUTRITION IN GI DISORDERS & MALABSORPTION;REFEEDING SYNDROME SAFETY IN GI DISEASE;PHOSPHATE POTASSIUM AND MAGNESIUM REPLACEMENT DOSING;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2\u00894"
+}

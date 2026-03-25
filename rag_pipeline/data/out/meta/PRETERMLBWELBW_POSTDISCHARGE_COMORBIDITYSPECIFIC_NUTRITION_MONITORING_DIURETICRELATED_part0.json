@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Post-discharge nutrition for preterm/LBW/ELBW infants on diuretics requires proactive monitoring of electrolytes, bone health, and renal complications, alongside tailored nutrition plans to mitigate risks like hypochloremia, nephrocalcinosis, and poor growth trajectories.",
+  "learning_objectives": [
+    "Understand the impact of loop and thiazide diuretics on hydration, electrolytes, bone mineralization, and renal health in preterm/LBW/ELBW infants.",
+    "Learn proactive monitoring strategies for electrolytes, bone health, and renal complications within 2\u20134 weeks post-discharge.",
+    "Identify red flags in infants on diuretics, such as dehydration, vomiting, lethargy, and poor weight gain, requiring immediate medical review.",
+    "Develop nutrition plans that ensure adequate calcium, phosphorus, and vitamin D delivery to support bone health."
+  ],
+  "key_facts": [
+    "Electrolyte monitoring should occur within 2\u20134 weeks post-discharge, earlier if diuretic doses or feed concentrations change.",
+    "Hypochloremia and hyponatremia are common complications that impair growth and respiratory status.",
+    "Diuretics increase urinary calcium losses, heightening bone risk; periodic bone screening (serum phosphorus, ALP \u00b1 calcium) is recommended.",
+    "Nephrocalcinosis risk increases with prolonged loop diuretic use; renal ultrasound is advised for hematuria or persistent electrolyte instability.",
+    "Families should monitor for red flags like dehydration, vomiting, lethargy, reduced urine output, or worsening weight trajectory."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Infant, Premature",
+    "Low Birth Weight",
+    "Diuretics",
+    "Electrolyte Imbalance",
+    "Bone Mineralization",
+    "Nephrocalcinosis",
+    "Nutrition Therapy",
+    "Post-Discharge Care"
+  ],
+  "tags_custom": [
+    "Preterm nutrition",
+    "Diuretic complications",
+    "Electrolyte monitoring",
+    "Bone health",
+    "Renal ultrasound"
+  ],
+  "reference_quote": "Electrolyte monitoring should be proactive, not reactive. Record the diuretic dose and expected duration, then plan early electrolytes (sodium, potassium, chloride, bicarbonate) with urea/creatinine within 2\u20134 weeks of discharge (earlier after dose changes or feed concentration changes).",
+  "document_key_topics": [
+    "Diuretic-related electrolyte monitoring in preterm infants",
+    "Bone health risks and screening in LBW/ELBW infants",
+    "Renal complications, including nephrocalcinosis, post-discharge",
+    "Nutrition adjustments for preterm infants on diuretics"
+  ],
+  "chunk_heading": "PRETERM/LBW/ELBW POST-DISCHARGE NUTRITION;COMORBIDITY-SPECIFIC NUTRITION MODIFICATIONS AFTER DISCHARGE;MONITORING DIURETIC-RELATED ELECTROLYTE BONE AND RENAL COMPLICATIONS;",
+  "topic": "PRETERM/LBW/ELBW POST-DISCHARGE NUTRITION",
+  "subtopic": "COMORBIDITY-SPECIFIC NUTRITION MODIFICATIONS AFTER DISCHARGE",
+  "sub_subtopic": "MONITORING DIURETIC-RELATED ELECTROLYTE BONE AND RENAL COMPLICATIONS",
+  "heading_path": "PRETERM/LBW/ELBW POST-DISCHARGE NUTRITION;COMORBIDITY-SPECIFIC NUTRITION MODIFICATIONS AFTER DISCHARGE;MONITORING DIURETIC-RELATED ELECTROLYTE BONE AND RENAL COMPLICATIONS;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "2\u00996.1"
+}

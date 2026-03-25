@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "Visit one in obesity management involves diagnostic confirmation, severity classification, etiologic triage, comorbidity identification, and initial treatment planning, using structured anthropometric and clinical guidelines.",
+  "learning_objectives": [
+    "Understand the structured approach to diagnostic confirmation and severity classification in pediatric obesity.",
+    "Learn to perform etiologic triage and identify cases requiring specialized referral.",
+    "Recognize red-flag comorbidities that necessitate urgent intervention.",
+    "Develop an initial treatment plan with actionable goals and follow-up cadence."
+  ],
+  "key_facts": [
+    "Use WHO weight-for-length/height charts for children under 5 years and IAP 2015 BMI charts for ages 5\u201318 years.",
+    "Overweight is defined as an adult-equivalent BMI of 23, and obesity as an adult-equivalent BMI of 27.",
+    "Class 2 and class 3 obesity are determined using the IAP percent-of-cutoff approach.",
+    "Red-flag comorbidities include stage 2 hypertension, random glucose \u2265200 mg/dL, SCFE, severe OSA, and suicidality.",
+    "Avoid broad endocrine testing in typical obesity to prevent false thyroid diagnoses and care delays."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Obesity",
+    "Pediatric Obesity",
+    "Body Mass Index",
+    "Anthropometry",
+    "Comorbidity",
+    "Hypertension",
+    "Obstructive Sleep Apnea",
+    "Diabetes Mellitus"
+  ],
+  "tags_custom": [
+    "Obesity management",
+    "Pediatric care",
+    "Diagnostic triage",
+    "Comorbidity screening"
+  ],
+  "reference_quote": "Avoid ordering broad endocrine tests in typical obesity; this commonly creates false thyroid labels and delays care. (AAP Clinical Practice Guideline, 2023)",
+  "document_key_topics": [
+    "Anthropometric assessment and BMI classification",
+    "Etiologic triage for obesity",
+    "Identification of red-flag comorbidities",
+    "Initial treatment planning and follow-up"
+  ],
+  "chunk_heading": "OVERNUTRITION & OBESITY MANAGEMENT;SEQUENCED OUTPATIENT PATHWAY AND FOLLOW-UP CADENCE;VISIT-ONE DIAGNOSTIC CONFIRMATION AND INITIAL TREATMENT CONTRACT;",
+  "topic": "OVERNUTRITION & OBESITY MANAGEMENT",
+  "subtopic": "SEQUENCED OUTPATIENT PATHWAY AND FOLLOW-UP CADENCE",
+  "sub_subtopic": "VISIT-ONE DIAGNOSTIC CONFIRMATION AND INITIAL TREATMENT CONTRACT",
+  "heading_path": "OVERNUTRITION & OBESITY MANAGEMENT;SEQUENCED OUTPATIENT PATHWAY AND FOLLOW-UP CADENCE;VISIT-ONE DIAGNOSTIC CONFIRMATION AND INITIAL TREATMENT CONTRACT;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u008f1"
+}

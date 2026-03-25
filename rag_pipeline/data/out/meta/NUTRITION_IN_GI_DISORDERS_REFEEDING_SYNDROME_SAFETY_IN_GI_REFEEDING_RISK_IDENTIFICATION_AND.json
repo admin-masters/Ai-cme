@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "Refeeding syndrome is a critical risk in malnourished children with GI disorders. High-risk patients require conservative calorie initiation (e.g., ~10 kcal/kg/day) with electrolyte monitoring to prevent complications like arrhythmias and cardiac failure.",
+  "learning_objectives": [
+    "Identify high-risk pediatric patients for refeeding syndrome based on clinical and biochemical criteria.",
+    "Understand the pathophysiology of refeeding syndrome and its complications in GI disorders.",
+    "Implement conservative calorie initiation protocols and electrolyte monitoring in high-risk patients.",
+    "Apply guidelines from NICE and ASPEN to manage refeeding syndrome risk."
+  ],
+  "key_facts": [
+    "Refeeding syndrome occurs due to insulin-driven cellular uptake of phosphate, potassium, and magnesium after calorie reintroduction.",
+    "High-risk patients include those with severe malnutrition, recent significant weight loss, or prolonged low intake.",
+    "Initial calorie intake for high-risk patients is typically ~10 kcal/kg/day, with slower advancement in extreme cases.",
+    "Electrolyte repletion (phosphate, potassium, magnesium) is critical before and during refeeding.",
+    "Parenteral nutrition initiation carries higher risk and requires frequent biochemical monitoring.",
+    "Avoid high early carbohydrate loading to reduce refeeding syndrome risk."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Refeeding Syndrome",
+    "Malnutrition",
+    "Pediatric Gastroenterology",
+    "Electrolyte Imbalance",
+    "Parenteral Nutrition",
+    "Caloric Intake",
+    "Inflammatory Bowel Diseases",
+    "Celiac Disease"
+  ],
+  "tags_custom": [
+    "Refeeding risk",
+    "Conservative calorie initiation",
+    "Pediatric GI nutrition",
+    "Electrolyte monitoring",
+    "Nutritional rehabilitation"
+  ],
+  "reference_quote": "Use the principle from NICE and ASPEN frameworks: risk factors mandate a slower start, electrolyte repletion, and close monitoring rather than rapid \u2018catch-up\u2019 feeding.",
+  "document_key_topics": [
+    "Refeeding syndrome risk in pediatric GI disorders",
+    "Conservative calorie initiation protocols",
+    "Electrolyte monitoring and repletion strategies",
+    "Guideline-based management of malnutrition"
+  ],
+  "chunk_heading": "NUTRITION IN GI DISORDERS & MALABSORPTION;REFEEDING SYNDROME SAFETY IN GI DISEASE;REFEEDING RISK IDENTIFICATION AND CONSERVATIVE CALORIE INITIATION;",
+  "topic": "NUTRITION IN GI DISORDERS & MALABSORPTION",
+  "subtopic": "REFEEDING SYNDROME SAFETY IN GI DISEASE",
+  "sub_subtopic": "REFEEDING RISK IDENTIFICATION AND CONSERVATIVE CALORIE INITIATION",
+  "heading_path": "NUTRITION IN GI DISORDERS & MALABSORPTION;REFEEDING SYNDROME SAFETY IN GI DISEASE;REFEEDING RISK IDENTIFICATION AND CONSERVATIVE CALORIE INITIATION;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2\u00862"
+}

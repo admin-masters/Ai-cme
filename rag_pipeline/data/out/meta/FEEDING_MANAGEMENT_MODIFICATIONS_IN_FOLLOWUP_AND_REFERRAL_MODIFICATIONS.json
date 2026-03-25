@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "Follow-up and referral modifications for children with MAM and comorbidities focus on early intervention, tighter monitoring, and integration with disease-specific and social support programs, as per WHO 2023 guidelines.",
+  "learning_objectives": [
+    "Understand the modifications required in follow-up and referral for children with MAM and comorbidities.",
+    "Identify risk factors such as HIV, TB, disability, and social adversity that necessitate tighter monitoring.",
+    "Learn the importance of linking nutritional care with disease-specific and social support programs.",
+    "Recognize the role of caregiver reliability in disposition decisions."
+  ],
+  "key_facts": [
+    "Children with MAM and comorbidities have a higher risk of deterioration and poorer recovery.",
+    "WHO 2023 guidelines recommend prioritizing specially formulated foods, counselling, and tighter follow-up for such cases.",
+    "In Indian practice, a lower threshold for admission or referral is advised during acute illness.",
+    "Monitoring should extend beyond anthropometric recovery, especially for children under 24 months or with disabilities.",
+    "Non-response should trigger earlier targeted evaluation for underlying conditions like chronic infection or malabsorption.",
+    "Caregiver reliability is a critical factor in deciding home care versus admission."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Malnutrition",
+    "Moderate Acute Malnutrition",
+    "Comorbidity",
+    "HIV Infections",
+    "Tuberculosis",
+    "Nutritional Support",
+    "Social Determinants of Health",
+    "Child Nutrition Disorders"
+  ],
+  "tags_custom": [
+    "MAM management",
+    "Follow-up care",
+    "Referral pathways",
+    "Social adversity",
+    "Caregiver assessment"
+  ],
+  "reference_quote": "The 2023 WHO wasting guideline lists comorbidity (including HIV, TB, disability) and severe adverse social circumstances as factors that justify prioritizing specially formulated foods with counselling and tighter follow-up.",
+  "document_key_topics": [
+    "Management of MAM in comorbidities",
+    "Follow-up and referral strategies",
+    "Integration with disease-specific programs",
+    "Social adversity in child nutrition"
+  ],
+  "chunk_heading": "FEEDING;MANAGEMENT MODIFICATIONS IN COMORBIDITY AND SOCIAL ADVERSITY;FOLLOW-UP AND REFERRAL MODIFICATIONS IN COMORBIDITY;",
+  "topic": "FEEDING",
+  "subtopic": "MANAGEMENT MODIFICATIONS IN COMORBIDITY AND SOCIAL ADVERSITY",
+  "sub_subtopic": "FOLLOW-UP AND REFERRAL MODIFICATIONS IN COMORBIDITY",
+  "heading_path": "FEEDING;MANAGEMENT MODIFICATIONS IN COMORBIDITY AND SOCIAL ADVERSITY;FOLLOW-UP AND REFERRAL MODIFICATIONS IN COMORBIDITY;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "3w1"
+}

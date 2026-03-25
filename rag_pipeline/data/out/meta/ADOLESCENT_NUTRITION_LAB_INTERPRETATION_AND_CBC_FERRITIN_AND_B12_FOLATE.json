@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "Guidelines for interpreting CBC, ferritin, and B12/folate labs in adolescents, emphasizing resource-adapted decision rules for anemia and micronutrient deficiencies.",
+  "learning_objectives": [
+    "Understand the role of ferritin as an iron status indicator and its limitations in inflammatory states.",
+    "Learn decision rules for diagnosing and managing microcytic and macrocytic anemia in adolescents.",
+    "Identify appropriate therapeutic approaches for B12 and folate deficiencies, including oral and parenteral regimens.",
+    "Apply pragmatic strategies for lab interpretation in resource-limited settings."
+  ],
+  "key_facts": [
+    "Ferritin is an acute-phase reactant; low levels confirm iron deficiency, but normal/high levels may not exclude it in inflammation or chronic disease.",
+    "Empiric iron trial: A hemoglobin rise of 1\u20132 g/dL in 2\u20134 weeks confirms iron-responsive anemia.",
+    "Thalassemia trait: Suspect with marked microcytosis, high RBC count, and family history; confirm with hemoglobin electrophoresis.",
+    "For B12 deficiency: Oral high-dose therapy (1000 mcg daily) is acceptable for stable adolescents; IM therapy (250\u20131000 mcg alternate days for 1\u20132 weeks) is preferred for severe cases or neurologic symptoms.",
+    "Do not use folate-only therapy when neurologic symptoms are present; treat B12 deficiency first."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Adolescent Nutrition",
+    "Iron Deficiency",
+    "Vitamin B12 Deficiency",
+    "Folate Deficiency",
+    "Anemia, Microcytic",
+    "Anemia, Macrocytic",
+    "Thalassemia",
+    "Clinical Laboratory Techniques"
+  ],
+  "tags_custom": [
+    "CBC interpretation",
+    "Resource-adapted guidelines",
+    "Micronutrient deficiencies",
+    "Adolescent anemia management",
+    "Therapeutic decision rules"
+  ],
+  "reference_quote": "Ferritin concentrations are recommended for assessing iron status but should be interpreted alongside inflammation markers like CRP when infection or chronic disease is present. (WHO eLENA)",
+  "document_key_topics": [
+    "Ferritin and iron deficiency interpretation",
+    "Microcytic and macrocytic anemia management",
+    "Vitamin B12 and folate deficiency treatment"
+  ],
+  "chunk_heading": "ADOLESCENT NUTRITION;LAB INTERPRETATION AND RESOURCE-ADAPTED DECISION RULES;CBC FERRITIN AND B12 FOLATE DECISION RULES FOR ADOLESCENTS;",
+  "topic": "ADOLESCENT NUTRITION",
+  "subtopic": "LAB INTERPRETATION AND RESOURCE-ADAPTED DECISION RULES",
+  "sub_subtopic": "CBC FERRITIN AND B12 FOLATE DECISION RULES FOR ADOLESCENTS",
+  "heading_path": "ADOLESCENT NUTRITION;LAB INTERPRETATION AND RESOURCE-ADAPTED DECISION RULES;CBC FERRITIN AND B12 FOLATE DECISION RULES FOR ADOLESCENTS;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "1k1"
+}

@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "Maple Syrup Urine Disease (MSUD) management involves lifelong dietary control of branched-chain amino acids (BCAA), emergency protocols for illness, and psychosocial support to prevent neurotoxicity and ensure long-term outcomes.",
+  "learning_objectives": [
+    "Understand the role of dietary therapy in managing MSUD, including BCAA restriction and supplementation.",
+    "Learn the components of sick-day management and emergency regimens for MSUD.",
+    "Recognize the importance of monitoring plasma BCAA levels and psychosocial support in long-term care.",
+    "Identify challenges in MSUD management in resource-limited settings."
+  ],
+  "key_facts": [
+    "MSUD management requires lifelong restriction of leucine with adequate isoleucine and valine supplementation.",
+    "Emergency regimens involve increased carbohydrate intake, reduced natural protein, and continued medical formula to prevent catabolism.",
+    "Severe hyperleucinemia may require IV dextrose or extracorporeal removal strategies under specialist guidance.",
+    "Adolescents are at high risk for dietary fatigue and silent biochemical excursions, necessitating structured follow-up.",
+    "In India, limited access to specialized formulas and monitoring can hinder control, highlighting the need for early metabolic center linkage.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Maple Syrup Urine Disease",
+    "Branched-Chain Amino Acids",
+    "Diet Therapy",
+    "Hyperleucinemia",
+    "Emergency Medical Services",
+    "Psychosocial Support",
+    "Metabolic Diseases",
+    "Nutritional Management"
+  ],
+  "tags_custom": [
+    "MSUD management",
+    "emergency protocols",
+    "dietary therapy",
+    "rare diseases",
+    "adolescent care"
+  ],
+  "reference_quote": "Sick-day management is a critical safety competency. At the first sign of reduced intake, fever, or vomiting, families should start an emergency regimen that increases carbohydrate calories, reduces or temporarily stops natural protein, and maintains medical formula intake to prevent catabolism.",
+  "document_key_topics": [
+    "Dietary therapy in MSUD",
+    "Emergency and sick-day management",
+    "Long-term outcomes and psychosocial support",
+    "Challenges in resource-limited settings"
+  ],
+  "chunk_heading": "DISEASE;",
+  "topic": "DISEASE",
+  "subtopic": "General",
+  "sub_subtopic": null,
+  "heading_path": "DISEASE;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "4a"
+}

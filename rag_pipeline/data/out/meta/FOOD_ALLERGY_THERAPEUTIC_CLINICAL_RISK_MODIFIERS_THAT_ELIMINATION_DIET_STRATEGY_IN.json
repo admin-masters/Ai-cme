@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Guidance on elimination diets in children with severe acute malnutrition (SAM), emphasizing minimal restriction, nutritional rescue, and integration with national nutrition-rehabilitation pathways.",
+  "learning_objectives": [
+    "Understand the risks of unconfirmed elimination diets in children with severe acute malnutrition (SAM).",
+    "Learn strategies for implementing elimination diets with minimal restriction and nutritional rescue in SAM cases.",
+    "Recognize the importance of monitoring anthropometry and laboratory markers during elimination diets in SAM.",
+    "Integrate allergy elimination into national nutrition-rehabilitation pathways for effective management."
+  ],
+  "key_facts": [
+    "Children with SAM or food insecurity are at the highest risk of harm from unconfirmed elimination diets.",
+    "Default approach: 'confirm before restrict' to avoid unnecessary multi-food eliminations.",
+    "For suspected milk allergy in SAM, use extensively hydrolyzed formula (eHF) first; amino acid formula (AAF) is reserved for severe cases or eHF failure.",
+    "Weight gain velocity is the key outcome to monitor during elimination diets in SAM.",
+    "National nutrition-rehabilitation pathways should be used to integrate allergy elimination into structured feeding and monitoring programs.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Food Hypersensitivity",
+    "Severe Acute Malnutrition",
+    "Dietary Therapy",
+    "Nutritional Support",
+    "Pediatric Nutrition",
+    "Anthropometry",
+    "Hypoalbuminemia",
+    "Anemia"
+  ],
+  "tags_custom": [
+    "Elimination Diets",
+    "Malnutrition Management",
+    "Pediatric Food Allergy",
+    "Nutritional Rehabilitation"
+  ],
+  "reference_quote": "\"Operational guidelines on facility-based management of children with severe acute malnutrition provide structured feeding, micronutrient supplementation, and monitoring; integrate allergy elimination into these programs rather than running a parallel 'allergy diet' that undermines recovery.\"",
+  "document_key_topics": [
+    "Severe Acute Malnutrition (SAM) and food allergy",
+    "Elimination diet strategies in malnourished children",
+    "Nutritional rescue and monitoring during elimination diets",
+    "Integration of allergy management into national nutrition pathways"
+  ],
+  "chunk_heading": "FOOD ALLERGY & THERAPEUTIC ELIMINATION DIETS;CLINICAL RISK MODIFIERS THAT CHANGE MANAGEMENT;ELIMINATION DIET STRATEGY IN SEVERE ACUTE MALNUTRITION;",
+  "topic": "FOOD ALLERGY & THERAPEUTIC ELIMINATION DIETS",
+  "subtopic": "CLINICAL RISK MODIFIERS THAT CHANGE MANAGEMENT",
+  "sub_subtopic": "ELIMINATION DIET STRATEGY IN SEVERE ACUTE MALNUTRITION",
+  "heading_path": "FOOD ALLERGY & THERAPEUTIC ELIMINATION DIETS;CLINICAL RISK MODIFIERS THAT CHANGE MANAGEMENT;ELIMINATION DIET STRATEGY IN SEVERE ACUTE MALNUTRITION;",
+  "reference_count": 6,
+  "has_guidelines": false,
+  "sequence": "1\u00952"
+}

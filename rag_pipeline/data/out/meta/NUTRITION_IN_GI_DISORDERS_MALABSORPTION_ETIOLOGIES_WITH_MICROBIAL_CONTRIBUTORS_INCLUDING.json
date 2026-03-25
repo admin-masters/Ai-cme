@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "This section discusses microbial causes of malabsorption, focusing on giardiasis and small intestinal bacterial overgrowth (SIBO), with condition-specific dietary and treatment strategies, including metronidazole for giardiasis and structured SIBO management based on risk factors and testing availability.",
+  "learning_objectives": [
+    "Understand the role of microbial contributors like giardiasis and SIBO in malabsorption syndromes.",
+    "Learn condition-specific dietary modifications, including low-lactose approaches for lactose intolerance.",
+    "Familiarize with diagnostic tools such as stool ova-and-parasite examination and breath testing for SIBO.",
+    "Review evidence-based treatment regimens, including metronidazole for giardiasis and antibiotics for SIBO."
+  ],
+  "key_facts": [
+    "Giardiasis is a common cause of malabsorption, treatable with metronidazole 5 mg/kg three times daily for 5 days.",
+    "Lactose intolerance in giardiasis can be managed with a low-lactose diet rather than milk dilution.",
+    "SIBO diagnosis can involve breath testing, with methane \u226510 ppm indicating intestinal methanogen overgrowth.",
+    "SIBO treatment in children includes 7\u201314 day courses of nonabsorbable or systemic antibiotics, only after addressing dietary and infection-related factors.",
+    "WHO guidelines emphasize continuing breastfeeding and age-appropriate feeding during treatment of microbial malabsorption."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Malabsorption Syndromes",
+    "Giardiasis",
+    "Small Intestinal Bacterial Overgrowth",
+    "Lactose Intolerance",
+    "Metronidazole",
+    "Zinc",
+    "Breath Tests",
+    "Pediatric Nutrition"
+  ],
+  "tags_custom": [
+    "Microbial malabsorption",
+    "SIBO management",
+    "Giardiasis treatment",
+    "Pediatric GI disorders"
+  ],
+  "reference_quote": "A practical treatment option supported in the WHO pocket book is metronidazole 5 mg/kg three times daily for 5 days.",
+  "document_key_topics": [
+    "Microbial causes of malabsorption",
+    "Giardiasis diagnosis and treatment",
+    "SIBO management and testing",
+    "Condition-specific dietary therapies"
+  ],
+  "chunk_heading": "NUTRITION IN GI DISORDERS & MALABSORPTION;MALABSORPTION ETIOLOGIES WITH CONDITION-SPECIFIC DIET THERAPIES;MICROBIAL CONTRIBUTORS INCLUDING GIARDIASIS AND SMALL BOWEL OVERGROWTH;",
+  "topic": "NUTRITION IN GI DISORDERS & MALABSORPTION",
+  "subtopic": "MALABSORPTION ETIOLOGIES WITH CONDITION-SPECIFIC DIET THERAPIES",
+  "sub_subtopic": "MICROBIAL CONTRIBUTORS INCLUDING GIARDIASIS AND SMALL BOWEL OVERGROWTH",
+  "heading_path": "NUTRITION IN GI DISORDERS & MALABSORPTION;MALABSORPTION ETIOLOGIES WITH CONDITION-SPECIFIC DIET THERAPIES;MICROBIAL CONTRIBUTORS INCLUDING GIARDIASIS AND SMALL BOWEL OVERGROWTH;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2\u008c2"
+}

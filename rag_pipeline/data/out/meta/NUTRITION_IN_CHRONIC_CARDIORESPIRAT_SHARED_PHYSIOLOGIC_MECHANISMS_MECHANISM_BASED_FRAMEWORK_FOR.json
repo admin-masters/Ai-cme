@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "This section outlines a mechanism-based framework for nutrition decision-making in chronic cardiorespiratory disease, emphasizing tailored interventions for malnutrition based on dominant physiologic mechanisms such as insufficient calorie delivery, excess energy demands, malabsorption, and unsafe feeding practices.",
+  "learning_objectives": [
+    "Understand the physiologic mechanisms linking chronic cardiorespiratory disease to malnutrition.",
+    "Learn to classify nutrition problems into dominant mechanisms for targeted interventions.",
+    "Identify appropriate interventions for specific mechanisms, such as densification, PERT adherence, or airway protection.",
+    "Recognize the importance of early escalation of feeding routes in cases of prolonged catabolism."
+  ],
+  "key_facts": [
+    "Insufficient delivered calories can result from prolonged feeds, caregiver dilution, or missed feeds; interventions include densification and early tube supplementation.",
+    "Excess energy demands are common in heart failure, pulmonary hypertension, and perioperative stress, requiring higher calorie targets and infection prevention.",
+    "Malabsorption is prominent in CF pancreatic insufficiency and cholestasis, necessitating PERT adherence and fat-soluble vitamin strategies.",
+    "Unsafe feeding practices, such as aspiration or dysphagia, require airway protection and alternate feeding routes like NG or gastrostomy.",
+    "Fluid restriction and suspected aspiration in infants necessitate careful nutrition planning before prescribing higher calorie intake.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Malnutrition",
+    "Cardiorespiratory Disease",
+    "Heart Failure",
+    "Pulmonary Hypertension",
+    "Cystic Fibrosis",
+    "Pancreatic Insufficiency",
+    "Dysphagia",
+    "Nutrition Therapy"
+  ],
+  "tags_custom": [
+    "mechanism-based nutrition",
+    "pediatric feeding challenges",
+    "malabsorption management",
+    "energy demands in disease",
+    "feeding route escalation"
+  ],
+  "reference_quote": "Indian Academy of Pediatrics. Standard Treatment Guidelines: Heart Failure in Children Mechanism-based framework for nutrition decision-making.",
+  "document_key_topics": [
+    "Mechanism-based nutrition decision-making",
+    "Physiologic mechanisms linking disease to malnutrition",
+    "Interventions for malnutrition in chronic cardiorespiratory disease",
+    "Feeding challenges in pediatric patients"
+  ],
+  "chunk_heading": "NUTRITION IN CHRONIC CARDIORESPIRATORY DISEASE;SHARED PHYSIOLOGIC MECHANISMS LINKING DISEASE TO MALNUTRITION;MECHANISM BASED FRAMEWORK FOR NUTRITION DECISION MAKING;",
+  "topic": "NUTRITION IN CHRONIC CARDIORESPIRATORY DISEASE",
+  "subtopic": "SHARED PHYSIOLOGIC MECHANISMS LINKING DISEASE TO MALNUTRITION",
+  "sub_subtopic": "MECHANISM BASED FRAMEWORK FOR NUTRITION DECISION MAKING",
+  "heading_path": "NUTRITION IN CHRONIC CARDIORESPIRATORY DISEASE;SHARED PHYSIOLOGIC MECHANISMS LINKING DISEASE TO MALNUTRITION;MECHANISM BASED FRAMEWORK FOR NUTRITION DECISION MAKING;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1d2"
+}

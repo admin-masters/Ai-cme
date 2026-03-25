@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "Clinical vignettes address adolescent nutrition issues including thinness, anemia, obesity, and micronutrient deficiencies, with practical management strategies based on guidelines and diagnostic tools.",
+  "learning_objectives": [
+    "Identify and manage thinness in adolescents using BMI-for-age and dietary interventions.",
+    "Diagnose and treat anemia in adolescent girls, including therapeutic iron supplementation and menstrual health assessment.",
+    "Stage and manage obesity in adolescents with lifestyle modifications and metabolic screening.",
+    "Recognize and treat vitamin B12 deficiency in strict vegetarians with neurologic symptoms."
+  ],
+  "key_facts": [
+    "BMI-for-age below -2 SD indicates thinness; assess height velocity and pubertal status.",
+    "Therapeutic iron for anemia: two IFA tablets daily for 3 months, with follow-up hemoglobin checks in 2\u20134 weeks.",
+    "Obesity management includes zero sugar-sweetened beverages, 60 minutes/day activity, and 8\u201310 hours sleep.",
+    "Vitamin B12 deficiency with neurologic symptoms requires immediate replacement therapy, often IM for severe cases.",
+    "Avoid folate-only treatment in macrocytosis to prevent masking B12 deficiency.",
+    "Screening tests for obesity include fasting lipids, glycemic markers, and ALT."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Adolescent Nutrition",
+    "Anemia",
+    "Obesity",
+    "Micronutrient Deficiency",
+    "Vitamin B12 Deficiency",
+    "Body Mass Index",
+    "Menstrual Health",
+    "Dietary Guidelines"
+  ],
+  "tags_custom": [
+    "clinical vignettes",
+    "adolescent health",
+    "nutrition management",
+    "dietary interventions",
+    "screening protocols"
+  ],
+  "reference_quote": "Therapeutic iron supplementation for anemia includes two daily IFA tablets for 3 months, with follow-up hemoglobin checks in 2\u20134 weeks. (Source: Dietary Guidelines for Indians, ICMR-NIN)",
+  "document_key_topics": [
+    "Thinness and BMI-for-age assessment",
+    "Anemia management in adolescent girls",
+    "Obesity staging and lifestyle interventions",
+    "Vitamin B12 deficiency diagnosis and treatment"
+  ],
+  "chunk_heading": "ADOLESCENT NUTRITION;CLINICAL VIGNETTES FOR COMMON ADOLESCENT NUTRITION PRESENTATIONS;VIGNETTES FOR THINNESS ANEMIA OBESITY AND MICRONUTRIENT DEFICIENCY;",
+  "topic": "ADOLESCENT NUTRITION",
+  "subtopic": "CLINICAL VIGNETTES FOR COMMON ADOLESCENT NUTRITION PRESENTATIONS",
+  "sub_subtopic": "VIGNETTES FOR THINNESS ANEMIA OBESITY AND MICRONUTRIENT DEFICIENCY",
+  "heading_path": "ADOLESCENT NUTRITION;CLINICAL VIGNETTES FOR COMMON ADOLESCENT NUTRITION PRESENTATIONS;VIGNETTES FOR THINNESS ANEMIA OBESITY AND MICRONUTRIENT DEFICIENCY;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2\u00871"
+}

@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "Post-discharge nutrition for preterm/LBW/ELBW infants with cholestasis requires tailored fat-soluble vitamin supplementation, monitoring for deficiencies/toxicities, and specialist oversight to address fat malabsorption and growth concerns.",
+  "learning_objectives": [
+    "Understand the impact of cholestasis on fat-soluble vitamin absorption in preterm/LBW/ELBW infants post-discharge.",
+    "Identify appropriate dosing ranges and formulations for vitamins A, D, E, and K in cholestasis management.",
+    "Recognize the importance of monitoring clinical and biochemical markers to prevent vitamin deficiencies or toxicities.",
+    "Learn strategies to optimize growth and nutrition, including the use of human milk and specialized formulas."
+  ],
+  "key_facts": [
+    "Cholestasis causes fat malabsorption, leading to early deficiencies in vitamins A, D, E, and K.",
+    "Recommended dosing ranges: vitamin A (3,000\u20135,000 IU/day), vitamin D (1,000\u20132,000 IU/day), vitamin E (adjusted to weight/levels), and vitamin K1 (twice weekly to daily based on INR/PT).",
+    "Water-miscible formulations of fat-soluble vitamins are preferred for better absorption.",
+    "Monitoring includes INR/PT, serum 25-hydroxyvitamin D, and vitamins A and E levels where available.",
+    "Persistent poor growth, fractures, or abnormal phosphorus/ALP levels may indicate metabolic bone disease requiring further evaluation.",
+    "Specialized formulas with medium-chain triglycerides may benefit some infants under specialist guidance."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Cholestasis",
+    "Fat-Soluble Vitamins",
+    "Vitamin Deficiency",
+    "Infant, Low Birth Weight",
+    "Infant, Premature",
+    "Parenteral Nutrition",
+    "Metabolic Bone Disease",
+    "Nutritional Support"
+  ],
+  "tags_custom": [
+    "post-discharge nutrition",
+    "cholestasis management",
+    "vitamin supplementation",
+    "preterm infant care",
+    "specialized formulas"
+  ],
+  "reference_quote": "Prefer water-miscible (aqueous) formulations of fat-soluble vitamins when available. Practical dosing ranges used in pediatric cholestasis guidance include: vitamin A about 3,000\u20135,000 IU/day, vitamin D about 1,000\u20132,000 IU/day (higher only with monitoring), vitamin E dosing in the tens of IU/day adjusted to levels and weight, and vitamin K1 dosing from twice weekly to daily depending on INR/PT and bleeding risk.",
+  "document_key_topics": [
+    "Fat-soluble vitamin supplementation in cholestasis",
+    "Post-discharge nutrition for preterm/LBW/ELBW infants",
+    "Monitoring and management of vitamin deficiencies and toxicities",
+    "Specialized nutrition strategies for growth and absorption"
+  ],
+  "chunk_heading": "PRETERM/LBW/ELBW POST-DISCHARGE NUTRITION;COMORBIDITY-SPECIFIC NUTRITION MODIFICATIONS AFTER DISCHARGE;NUTRITION AND FAT-SOLUBLE VITAMIN STRATEGY IN CHOLESTASIS AFTER DISCHARGE;",
+  "topic": "PRETERM/LBW/ELBW POST-DISCHARGE NUTRITION",
+  "subtopic": "COMORBIDITY-SPECIFIC NUTRITION MODIFICATIONS AFTER DISCHARGE",
+  "sub_subtopic": "NUTRITION AND FAT-SOLUBLE VITAMIN STRATEGY IN CHOLESTASIS AFTER DISCHARGE",
+  "heading_path": "PRETERM/LBW/ELBW POST-DISCHARGE NUTRITION;COMORBIDITY-SPECIFIC NUTRITION MODIFICATIONS AFTER DISCHARGE;NUTRITION AND FAT-SOLUBLE VITAMIN STRATEGY IN CHOLESTASIS AFTER DISCHARGE;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "2\u00985"
+}

@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "Risk-stratified screening for pediatric obesity comorbidities includes resource-adapted bundles with actionable follow-ups, emphasizing hypertension, dyslipidemia, glucose metabolism, and liver disease evaluation, especially in high-risk cases.",
+  "learning_objectives": [
+    "Understand the components of a risk-stratified screening bundle for pediatric obesity comorbidities.",
+    "Identify resource-adapted strategies for comorbidity screening in low-resource settings.",
+    "Learn the specific screening recommendations for hypertension, dyslipidemia, glucose metabolism, and liver disease in children with obesity.",
+    "Recognize the importance of documenting post-test actions for abnormal results."
+  ],
+  "key_facts": [
+    "Children with obesity aged \u226510 years should be screened for hypertension, dyslipidemia, abnormal glucose metabolism, and steatotic liver disease (IAP, 2023).",
+    "Routine blood pressure (BP) measurement is recommended starting at age 3 in children with overweight or obesity.",
+    "Baseline screening includes BP at every visit, fasting or non-fasting lipid profile, fasting glucose and/or HbA1c, and ALT with repeat if elevated.",
+    "Higher screening intensity is advised for class 2/3 obesity, acanthosis, or strong family history.",
+    "In resource-limited settings, prioritize repeated clinic BP and non-fasting lipid screening, with planned fasting tests for high-risk cases."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Pediatric Obesity",
+    "Comorbidity",
+    "Hypertension",
+    "Dyslipidemia",
+    "Glucose Metabolism Disorders",
+    "Nonalcoholic Fatty Liver Disease",
+    "Risk Assessment",
+    "Screening"
+  ],
+  "tags_custom": [
+    "Resource-adapted screening",
+    "Pediatric obesity management",
+    "Risk-stratified care",
+    "Actionable pathways"
+  ],
+  "reference_quote": "The 2023 IAP obesity guideline recommends that children with obesity older than 10 years be evaluated for key complications, including hypertension, dyslipidemia, abnormal glucose metabolism, and steatotic liver disease.",
+  "document_key_topics": [
+    "Risk-stratified screening for pediatric obesity comorbidities",
+    "Resource-adapted screening strategies",
+    "Actionable pathways for abnormal test results",
+    "Guidelines for hypertension, dyslipidemia, glucose metabolism, and liver disease evaluation"
+  ],
+  "chunk_heading": "OVERNUTRITION & OBESITY MANAGEMENT;COMORBIDITY SCREENING WITH ACTIONABLE PATHWAYS;RISK-STRATIFIED SCREENING BUNDLE WITH RESOURCE- ADAPTED OPTIONS;",
+  "topic": "OVERNUTRITION & OBESITY MANAGEMENT",
+  "subtopic": "COMORBIDITY SCREENING WITH ACTIONABLE PATHWAYS",
+  "sub_subtopic": "RISK-STRATIFIED SCREENING BUNDLE WITH RESOURCE- ADAPTED OPTIONS",
+  "heading_path": "OVERNUTRITION & OBESITY MANAGEMENT;COMORBIDITY SCREENING WITH ACTIONABLE PATHWAYS;RISK-STRATIFIED SCREENING BUNDLE WITH RESOURCE- ADAPTED OPTIONS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1o1"
+}

@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Guidance on resource-limited thickening methods for children with neurodisability, emphasizing IDDSI testing, hydration safety, and monitoring for adverse effects like dehydration and secretion retention.",
+  "learning_objectives": [
+    "Understand the use of locally available starches for thickening fluids in resource-limited settings.",
+    "Learn how to apply IDDSI testing methods, such as the 10 mL syringe flow test, to ensure consistent fluid viscosity.",
+    "Recognize hydration risks and safety trade-offs associated with thickened fluids in children with neurodisability.",
+    "Coordinate thickening strategies with secretion management and airway clearance plans."
+  ],
+  "key_facts": [
+    "IDDSI drink levels should be tested using objective methods like the 10 mL syringe flow test.",
+    "Thickened fluids may reduce visible coughing but can increase thirst, worsen constipation, and complicate medication bioavailability.",
+    "Mixed consistencies (e.g., dal with thin broth) should be avoided unless cleared for safe swallowing.",
+    "Hydration markers such as urine output and stool patterns should be reviewed within 1\u20132 weeks of initiating thickened fluids.",
+    "In cases of unsafe hydration, tube hydration should be considered instead of persisting with thickened fluids."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Neurodisability",
+    "Dysphagia",
+    "Hydration",
+    "Viscosity",
+    "Thickened Fluids",
+    "Pediatric Feeding Disorders",
+    "Secretion Management",
+    "Airway Clearance"
+  ],
+  "tags_custom": [
+    "IDDSI testing",
+    "Resource-limited feeding",
+    "Thickening methods",
+    "Hydration safety",
+    "Pediatric nutrition"
+  ],
+  "reference_quote": "Prescribe thickening as a monitored trial with consent. State the target IDDSI drink level and teach an objective test method (typically the 10 mL syringe flow test) so the same level is achieved at home and school.",
+  "document_key_topics": [
+    "Resource-limited thickening methods",
+    "IDDSI testing for fluid consistency",
+    "Hydration safety in children with neurodisability",
+    "Secretion management and airway clearance"
+  ],
+  "chunk_heading": "NEURODISABILITY & FEEDING SUPPORT;RESOURCE-LIMITED THICKENING METHODS WITH IDDSI TESTING AND HYDRATION SAFETY;",
+  "topic": "NEURODISABILITY & FEEDING SUPPORT",
+  "subtopic": "RESOURCE-LIMITED THICKENING METHODS WITH IDDSI TESTING AND HYDRATION SAFETY",
+  "sub_subtopic": null,
+  "heading_path": "NEURODISABILITY & FEEDING SUPPORT;RESOURCE-LIMITED THICKENING METHODS WITH IDDSI TESTING AND HYDRATION SAFETY;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "1p"
+}

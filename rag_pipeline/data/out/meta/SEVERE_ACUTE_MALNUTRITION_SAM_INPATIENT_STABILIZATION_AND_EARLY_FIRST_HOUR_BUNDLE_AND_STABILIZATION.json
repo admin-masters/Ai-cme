@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "Guidelines for the first hour of inpatient stabilization in SAM, focusing on hypoglycemia, hypothermia, infection management, and feeding protocols, including F-75 and fluid targets.",
+  "learning_objectives": [
+    "Understand the critical steps in the first hour of inpatient stabilization for SAM.",
+    "Learn how to prevent and treat hypoglycemia and hypothermia in children with SAM.",
+    "Recognize the importance of early feeding and appropriate fluid management in SAM stabilization.",
+    "Identify key 'do-not-do' rules to prevent iatrogenic complications during stabilization."
+  ],
+  "key_facts": [
+    "Treat hypoglycemia if glucose <54 mg/dL with 10% dextrose 5 mL/kg IV bolus, followed by oral/NG glucose or sucrose.",
+    "Maintain 2-hourly feeding with F-75, targeting 130 mL/kg/day or 100 mL/kg/day if severe oedema is present.",
+    "Initiate active warming if axillary temperature is <35\u00b0C using kangaroo care, blankets, and warm room.",
+    "Empiric antibiotics should be started immediately as fever may be absent in SAM despite serious infection.",
+    "Do not give large-volume IV fluids unless shock criteria are met, and avoid diuretics or iron during stabilization."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Severe Acute Malnutrition",
+    "Hypoglycemia",
+    "Hypothermia",
+    "Empiric Antibiotic Therapy",
+    "Enteral Nutrition",
+    "Fluid Therapy",
+    "Nutritional Support",
+    "Pediatric Emergency Care"
+  ],
+  "tags_custom": [
+    "SAM stabilization",
+    "first hour care",
+    "feeding protocols",
+    "infection management"
+  ],
+  "reference_quote": "Triage immediately for any child suspected to have SAM and do not wait for complete measurements to start lifesaving actions. (National Health Mission, Participant manual for facility-based care of severe acute malnutrition)",
+  "document_key_topics": [
+    "First hour stabilization in SAM",
+    "Hypoglycemia and hypothermia management",
+    "Feeding protocols with F-75",
+    "Avoiding iatrogenic complications in SAM care"
+  ],
+  "chunk_heading": "SEVERE ACUTE MALNUTRITION (SAM) MANAGEMENT;INPATIENT STABILIZATION AND EARLY MONITORING;FIRST HOUR BUNDLE AND STABILIZATION FEEDING ORDERS;",
+  "topic": "SEVERE ACUTE MALNUTRITION (SAM) MANAGEMENT",
+  "subtopic": "INPATIENT STABILIZATION AND EARLY MONITORING",
+  "sub_subtopic": "FIRST HOUR BUNDLE AND STABILIZATION FEEDING ORDERS",
+  "heading_path": "SEVERE ACUTE MALNUTRITION (SAM) MANAGEMENT;INPATIENT STABILIZATION AND EARLY MONITORING;FIRST HOUR BUNDLE AND STABILIZATION FEEDING ORDERS;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1j1"
+}

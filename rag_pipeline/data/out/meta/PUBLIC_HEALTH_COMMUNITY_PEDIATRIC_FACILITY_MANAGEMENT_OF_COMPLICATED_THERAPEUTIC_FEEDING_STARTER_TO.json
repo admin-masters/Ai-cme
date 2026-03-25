@@ -1,0 +1,47 @@
+{
+  "chunk_summary": "Therapeutic feeding for complicated SAM involves transitioning from starter (F-75) to catch-up (F-100) diets based on clinical criteria like edema resolution, appetite return, and medical stability, with careful monitoring of feeding tolerance and electrolyte protocols.",
+  "learning_objectives": [
+    "Understand the phased approach to therapeutic feeding in complicated SAM, including starter and catch-up diets.",
+    "Identify clinical criteria for transitioning between stabilization, transition, and rehabilitation phases.",
+    "Learn the role of micronutrient and electrolyte supplementation in SAM management.",
+    "Recognize the importance of monitoring feeding tolerance and addressing risk signals."
+  ],
+  "key_facts": [
+    "Starter diet (F-75 equivalent) is given at 130 mL/kg/day, reduced to 100 mL/kg/day in cases of gross edema.",
+    "Transition phase typically lasts 2\u20133 days and begins with loss of edema, appetite return, and medical stability.",
+    "Catch-up diet (F-100 equivalent) is introduced gradually while maintaining initial total volume to avoid osmotic load.",
+    "Rehabilitation starts when >90% of feeds are reliably finished, edema is resolved, and no major medical issues persist.",
+    "Potassium supplementation (3\u20134 mEq/kg/day for at least 2 weeks) and magnesium replacement are essential."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Severe Acute Malnutrition",
+    "Therapeutic Feeding",
+    "Nutritional Rehabilitation",
+    "Edema",
+    "Electrolyte Imbalance",
+    "Micronutrient Deficiency",
+    "Pediatric Nutrition",
+    "Feeding Behavior"
+  ],
+  "tags_custom": [
+    "SAM management",
+    "therapeutic feeding protocols",
+    "transition criteria",
+    "pediatric malnutrition"
+  ],
+  "reference_quote": "Therapeutic feeding in complicated SAM is staged because early metabolic instability makes rapid 'catch-up' feeding unsafe. National facility guidance aligns starter and catch-up diets with F-75 and F-100 composition and provides weight-based volumetric charts.",
+  "document_key_topics": [
+    "Therapeutic feeding protocols for SAM",
+    "Transition criteria between feeding phases",
+    "Electrolyte and micronutrient supplementation in SAM"
+  ],
+  "chunk_heading": "PUBLIC HEALTH & COMMUNITY PEDIATRIC NUTRITION;FACILITY MANAGEMENT OF COMPLICATED SAM AND DISCHARGE PLANNING;THERAPEUTIC FEEDING STARTER TO CATCH UP TRANSITION CRITERIA;",
+  "topic": "PUBLIC HEALTH & COMMUNITY PEDIATRIC NUTRITION",
+  "subtopic": "FACILITY MANAGEMENT OF COMPLICATED SAM AND DISCHARGE PLANNING",
+  "sub_subtopic": "THERAPEUTIC FEEDING STARTER TO CATCH UP TRANSITION CRITERIA",
+  "heading_path": "PUBLIC HEALTH & COMMUNITY PEDIATRIC NUTRITION;FACILITY MANAGEMENT OF COMPLICATED SAM AND DISCHARGE PLANNING;THERAPEUTIC FEEDING STARTER TO CATCH UP TRANSITION CRITERIA;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1\u00813"
+}

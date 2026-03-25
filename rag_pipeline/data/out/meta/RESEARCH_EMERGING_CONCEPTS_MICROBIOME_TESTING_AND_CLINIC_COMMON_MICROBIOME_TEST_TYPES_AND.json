@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "Overview of microbiome test types, their pediatric interpretation limits, and practical considerations for clinical counseling, emphasizing methodological variability and lack of validated pediatric reference ranges.",
+  "learning_objectives": [
+    "Understand the differences between common microbiome testing methods, including 16S rRNA sequencing and shotgun metagenomics.",
+    "Identify key limitations in interpreting microbiome test results in pediatric populations.",
+    "Learn how to use microbiome reports to guide clinical history-taking rather than prescribing interventions.",
+    "Recognize the impact of sample handling and patient factors on microbiome test results."
+  ],
+  "key_facts": [
+    "16S rRNA sequencing reports relative abundance and diversity indices, while shotgun metagenomics provides species-level profiles and predicted genes.",
+    "Microbiome results are highly sensitive to sample timing, storage, antibiotics, diet changes, and infant age.",
+    "No universally validated pediatric reference ranges exist for most taxa, especially in children under 3 years.",
+    "Dysbiosis scores lack proven links to child-important outcomes or specific interventions.",
+    "Metagenomic functional predictions should not be treated as clinical diagnoses without independent testing."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Microbiota",
+    "Pediatrics",
+    "16S rRNA Sequencing",
+    "Metagenomics",
+    "Dysbiosis",
+    "Clinical Laboratory Techniques",
+    "Microbial Sensitivity Tests",
+    "Dietary Supplements"
+  ],
+  "tags_custom": [
+    "microbiome testing",
+    "pediatric counseling",
+    "gut health",
+    "clinical interpretation",
+    "functional predictions"
+  ],
+  "reference_quote": "A comparison between 16S rRNA sequencing and shotgun metagenomics for the gut (https://www.nature.com/articles/s41598-021-82726-y).",
+  "document_key_topics": [
+    "Microbiome testing methods and outputs",
+    "Pediatric-specific interpretation challenges",
+    "Clinical counseling based on microbiome reports"
+  ],
+  "chunk_heading": "RESEARCH & EMERGING CONCEPTS;MICROBIOME TESTING AND CLINIC COUNSELING PATHWAYS;COMMON MICROBIOME TEST TYPES AND PEDIATRIC INTERPRETATION LIMITS;",
+  "topic": "RESEARCH & EMERGING CONCEPTS",
+  "subtopic": "MICROBIOME TESTING AND CLINIC COUNSELING PATHWAYS",
+  "sub_subtopic": "COMMON MICROBIOME TEST TYPES AND PEDIATRIC INTERPRETATION LIMITS",
+  "heading_path": "RESEARCH & EMERGING CONCEPTS;MICROBIOME TESTING AND CLINIC COUNSELING PATHWAYS;COMMON MICROBIOME TEST TYPES AND PEDIATRIC INTERPRETATION LIMITS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1i2"
+}

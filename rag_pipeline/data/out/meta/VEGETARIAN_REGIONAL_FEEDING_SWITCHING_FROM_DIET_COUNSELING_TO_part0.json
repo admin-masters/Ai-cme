@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "This section discusses transitioning from vegetarian diet counseling to acute malnutrition protocols for wasted children, emphasizing screening, referral criteria, and feeding regimens tailored to cultural and physiological needs.",
+  "learning_objectives": [
+    "Understand the criteria for diagnosing severe acute malnutrition (SAM) in children aged 6\u201359 months.",
+    "Learn the referral triggers and complications requiring facility-based care for SAM.",
+    "Explore culturally appropriate feeding strategies within therapeutic protocols for vegetarian and vegan families.",
+    "Recognize the importance of appetite testing in determining outpatient versus facility-based care."
+  ],
+  "key_facts": [
+    "SAM is defined by weight-for-height < -3 SD, MUAC <115 mm, or bilateral pitting edema.",
+    "Routine screening for wasting should include MUAC measurement and checking for bilateral pitting edema in children aged 6\u201359 months.",
+    "Facility-based care is required for SAM children with complications such as anorexia, hypoglycemia, severe dehydration, or altered sensorium.",
+    "Milk-based therapeutic feeds are standard for facility-based care; vegan substitutions require specialist oversight.",
+    "Outpatient follow-up combines protocol-led nutrition rehabilitation with culturally tailored family foods."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Malnutrition",
+    "Severe Acute Malnutrition",
+    "Vegetarian Diet",
+    "Child Nutrition Disorders",
+    "Nutrition Therapy",
+    "Feeding Behavior",
+    "Cultural Competency",
+    "Pediatric Screening"
+  ],
+  "tags_custom": [
+    "SAM protocols",
+    "vegetarian feeding",
+    "pediatric malnutrition",
+    "MUAC screening",
+    "cultural nutrition"
+  ],
+  "reference_quote": "Operational guidance uses appetite testing as a discriminator; poor appetite often indicates complications and higher mortality risk.",
+  "document_key_topics": [
+    "Severe Acute Malnutrition (SAM) diagnostic criteria and referral triggers",
+    "Screening and management protocols for wasted children",
+    "Culturally sensitive therapeutic feeding strategies"
+  ],
+  "chunk_heading": "VEGETARIAN & REGIONAL FEEDING PATTERNS;SWITCHING FROM DIET COUNSELING TO ACUTE MALNUTRITION PROTOCOLS IN WASTED CHILDREN;",
+  "topic": "VEGETARIAN & REGIONAL FEEDING PATTERNS",
+  "subtopic": "SWITCHING FROM DIET COUNSELING TO ACUTE MALNUTRITION PROTOCOLS IN WASTED CHILDREN",
+  "sub_subtopic": null,
+  "heading_path": "VEGETARIAN & REGIONAL FEEDING PATTERNS;SWITCHING FROM DIET COUNSELING TO ACUTE MALNUTRITION PROTOCOLS IN WASTED CHILDREN;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1d.1"
+}

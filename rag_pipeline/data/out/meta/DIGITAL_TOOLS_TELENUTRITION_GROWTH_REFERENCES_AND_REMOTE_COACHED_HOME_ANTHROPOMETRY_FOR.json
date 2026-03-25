@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "This section discusses remote anthropometry for head and waist circumference using digital tools, emphasizing proper techniques, clinical applications, and tele-nutrition integration for pediatric growth monitoring and obesity risk stratification.",
+  "learning_objectives": [
+    "Understand the importance of head circumference measurement in children under 2 years for brain growth monitoring.",
+    "Learn proper techniques for measuring head and waist circumference remotely using digital tools.",
+    "Recognize the role of waist circumference in assessing central adiposity and metabolic risk in older children.",
+    "Identify when clinic-based measurements and further assessments are necessary for suspected abnormalities."
+  ],
+  "key_facts": [
+    "Head circumference is critical for monitoring brain growth in children under 2 years and should be measured to the nearest 0.1 cm using a non-stretchable tape.",
+    "Common errors in head circumference measurement include slanted tapes, measuring over bulky hair, and incorrect forehead placement.",
+    "Waist circumference is measured at the midpoint between the lowest rib and iliac crest at the end of normal expiration.",
+    "Tele-measurement of head circumference is suitable for routine trend monitoring when video-audited and based on a recent in-person baseline.",
+    "Waist circumference tele-measurement is useful for tracking trends in adolescents but requires clinic-based measurements for baseline risk stratification and high-risk labeling.",
+    "Suspected abnormalities in head circumference, such as rapid centile crossing, microcephaly, or macrocephaly, necessitate clinic-based measurement and developmental assessment."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Anthropometry",
+    "Head Circumference",
+    "Waist Circumference",
+    "Pediatrics",
+    "Obesity",
+    "Telemedicine",
+    "Growth Monitoring",
+    "Nutritional Assessment"
+  ],
+  "tags_custom": [
+    "remote anthropometry",
+    "digital health tools",
+    "child growth monitoring",
+    "obesity risk assessment",
+    "tele-nutrition"
+  ],
+  "reference_quote": "Head circumference monitors brain growth. Use a non-stretchable tape around the largest occipitofrontal circumference (just above the eyebrows and ears and around the most prominent occiput). Repeat three times and record the largest consistent value to the nearest 0.1 cm. (WHO Child Growth Standards)",
+  "document_key_topics": [
+    "Remote anthropometry for head and waist circumference",
+    "Tele-nutrition and digital tools in pediatric growth monitoring",
+    "Techniques and errors in anthropometric measurements",
+    "Obesity risk stratification using waist circumference"
+  ],
+  "chunk_heading": "DIGITAL TOOLS & TELE-NUTRITION;GROWTH REFERENCES AND REMOTE ANTHROPOMETRY USING DIGITAL TOOLS;COACHED HOME ANTHROPOMETRY FOR HEAD CIRCUMFERENCE AND WAIST CIRCUMFERENCE;",
+  "topic": "DIGITAL TOOLS & TELE-NUTRITION",
+  "subtopic": "GROWTH REFERENCES AND REMOTE ANTHROPOMETRY USING DIGITAL TOOLS",
+  "sub_subtopic": "COACHED HOME ANTHROPOMETRY FOR HEAD CIRCUMFERENCE AND WAIST CIRCUMFERENCE",
+  "heading_path": "DIGITAL TOOLS & TELE-NUTRITION;GROWTH REFERENCES AND REMOTE ANTHROPOMETRY USING DIGITAL TOOLS;COACHED HOME ANTHROPOMETRY FOR HEAD CIRCUMFERENCE AND WAIST CIRCUMFERENCE;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1r3"
+}

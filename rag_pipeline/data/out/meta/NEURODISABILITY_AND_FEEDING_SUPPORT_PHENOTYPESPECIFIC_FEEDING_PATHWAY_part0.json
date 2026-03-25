@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "This section discusses phenotype-specific feeding pathway modifications across neurodisability types, focusing on aspiration risks, tube feeding triggers, and tailored interventions for conditions like CP, SMA, DMD, and progressive neurodegenerative disorders.",
+  "learning_objectives": [
+    "Understand how feeding pathways differ across neurodisability phenotypes.",
+    "Identify triggers for tube feeding in conditions like CP, SMA, and DMD.",
+    "Learn strategies for aspiration prevention and feeding during illness in neurodisabilities.",
+    "Explore the role of goal-focused discussions in progressive neurodegenerative disorders."
+  ],
+  "key_facts": [
+    "In CP, feeding inefficiency (>3 hours/day), growth faltering, and recurrent aspiration-related respiratory illness are key gastrostomy triggers, especially in GMFCS IV-V.",
+    "In SMA and DMD, bulbar weakness and fatigue-related aspiration risk necessitate earlier tube supplementation when prolonged meals or weight faltering occur.",
+    "FEES can assess safety changes during meals in neuromuscular disorders where expertise exists.",
+    "Progressive neurodegenerative disorders require separating aspiration prevention from disease trajectory; tube feeding may reduce caregiver distress but not reverse neurologic decline.",
+    "A time-limited NG trial can precede gastrostomy in high-risk stages of progressive disorders.",
+    "In acquired brain injury, tube feeding is often temporary, with planned reassessment as swallowing improves."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Cerebral Palsy",
+    "Dysphagia",
+    "Gastrostomy",
+    "Neuromuscular Diseases",
+    "Degenerative Neurological Disorders",
+    "Aspiration Pneumonia",
+    "Enteral Nutrition",
+    "Swallowing Disorders"
+  ],
+  "tags_custom": [
+    "feeding pathways",
+    "aspiration prevention",
+    "tube feeding triggers",
+    "progressive disorders",
+    "rehabilitation feeding"
+  ],
+  "reference_quote": "In static motor encephalopathy such as CP, gastrostomy discussions are often driven by feeding inefficiency (>3 hours/day), growth faltering, and recurrent aspiration-related respiratory illness, especially in severe motor impairment (GMFCS IV-V).",
+  "document_key_topics": [
+    "Phenotype-specific feeding pathway modifications",
+    "Aspiration risk and prevention strategies",
+    "Tube feeding triggers and guidelines",
+    "Feeding support in progressive neurodegenerative disorders"
+  ],
+  "chunk_heading": "NEURODISABILITY AND FEEDING SUPPORT;PHENOTYPE-SPECIFIC FEEDING PATHWAY MODIFICATIONS ACROSS NEURODISABILITY TYPES;",
+  "topic": "NEURODISABILITY AND FEEDING SUPPORT",
+  "subtopic": "PHENOTYPE-SPECIFIC FEEDING PATHWAY MODIFICATIONS ACROSS NEURODISABILITY TYPES",
+  "sub_subtopic": null,
+  "heading_path": "NEURODISABILITY AND FEEDING SUPPORT;PHENOTYPE-SPECIFIC FEEDING PATHWAY MODIFICATIONS ACROSS NEURODISABILITY TYPES;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1~.1"
+}

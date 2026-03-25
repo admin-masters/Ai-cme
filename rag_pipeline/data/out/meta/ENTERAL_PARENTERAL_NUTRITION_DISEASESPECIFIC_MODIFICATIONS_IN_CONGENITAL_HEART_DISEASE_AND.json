@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Guidelines for fluid-restricted feeding in pediatric patients with congenital heart disease (CHD) and chronic lung disease, focusing on energy-dense nutrition, aspiration risk, and feeding strategies to optimize growth and minimize complications.",
+  "learning_objectives": [
+    "Understand the challenges of fluid-restricted feeding in pediatric CHD and chronic lung disease.",
+    "Learn strategies to deliver adequate calories and protein within fluid limits using energy-dense formulas.",
+    "Recognize the importance of monitoring growth and reassessing feeding plans every 1\u20132 weeks.",
+    "Identify risks of overfeeding and strategies to minimize aspiration and respiratory compromise."
+  ],
+  "key_facts": [
+    "Energy-dense formulas or modular strategies are preferred to meet caloric needs within fluid restrictions.",
+    "Excess carbohydrate intake can increase CO2 production and worsen ventilator dependence; calories should not exceed measured or estimated resting energy expenditure (REE) during acute illness.",
+    "Continuous or slow gravity feeding is better tolerated than large boluses, especially in high-risk patients.",
+    "Persistent vomiting should prompt reassessment of tube position, constipation, and delivery rate before changing formulas.",
+    "Early transition to gastrostomy is recommended if inadequate intake is expected for more than several weeks, provided caregiver capacity and supply access are secure."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Enteral Nutrition",
+    "Parenteral Nutrition",
+    "Congenital Heart Disease",
+    "Chronic Lung Disease",
+    "Fluid Therapy",
+    "Energy Metabolism",
+    "Nutritional Support",
+    "Pediatrics"
+  ],
+  "tags_custom": [
+    "fluid-restricted feeding",
+    "energy-dense formulas",
+    "pediatric nutrition",
+    "aspiration risk",
+    "growth monitoring"
+  ],
+  "reference_quote": "The practical goal is to deliver adequate calories and protein in a smaller volume while minimizing emesis and respiratory compromise.",
+  "document_key_topics": [
+    "Fluid-restricted feeding in pediatric CHD and chronic lung disease",
+    "Energy-dense nutrition strategies",
+    "Aspiration risk and feeding tolerance",
+    "Monitoring growth and reassessing feeding plans"
+  ],
+  "chunk_heading": "ENTERAL & PARENTERAL NUTRITION;DISEASE-SPECIFIC MODIFICATIONS IN HIGH-RISK PEDIATRIC CONDITIONS;CONGENITAL HEART DISEASE AND CHRONIC LUNG DISEASE FLUID-RESTRICTED FEEDING;",
+  "topic": "ENTERAL & PARENTERAL NUTRITION",
+  "subtopic": "DISEASE-SPECIFIC MODIFICATIONS IN HIGH-RISK PEDIATRIC CONDITIONS",
+  "sub_subtopic": "CONGENITAL HEART DISEASE AND CHRONIC LUNG DISEASE FLUID-RESTRICTED FEEDING",
+  "heading_path": "ENTERAL & PARENTERAL NUTRITION;DISEASE-SPECIFIC MODIFICATIONS IN HIGH-RISK PEDIATRIC CONDITIONS;CONGENITAL HEART DISEASE AND CHRONIC LUNG DISEASE FLUID-RESTRICTED FEEDING;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2\u00952"
+}

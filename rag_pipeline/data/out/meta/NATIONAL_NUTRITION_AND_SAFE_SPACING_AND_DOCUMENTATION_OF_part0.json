@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Guidelines for safe spacing and documentation of national prophylaxis doses, including Vitamin A, IFA, and Albendazole, to prevent unsafe repeat dosing and ensure effective population-level prevention in clinics.",
+  "learning_objectives": [
+    "Understand the age-based Vitamin A prophylaxis dosing schedule and spacing rules.",
+    "Learn the guidelines for IFA prophylaxis and therapeutic iron supplementation.",
+    "Identify safety protocols for Albendazole administration under National Deworming Day (NDD).",
+    "Recognize the importance of documentation and verification to prevent dosing errors."
+  ],
+  "key_facts": [
+    "Vitamin A prophylaxis: 9 months (100,000 IU), 16\u201318 months (200,000 IU), then every 6 months until 5 years (total nine doses).",
+    "IFA prophylaxis: 6\u201359 months (biweekly syrup: 20 mg iron + 100 mcg folic acid), 5\u201310 years (weekly tablet: 45 mg iron + 400 mcg folic acid), 10\u201319 years (weekly tablet: 60 mg iron + 500 mcg folic acid).",
+    "Albendazole dosing: 200 mg for 1\u20132 years, 400 mg for \u22652 years; not routine below 1 year.",
+    "Minimum 6-month interval between Vitamin A doses after 16\u201318 months; defer if last dose is uncertain or within 6 months.",
+    "Prophylactic IFA should be paused during therapeutic iron treatment and restarted post-treatment with follow-up."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Vitamin A",
+    "Iron-Folic Acid Supplementation",
+    "Albendazole",
+    "Prophylaxis",
+    "Child Nutrition",
+    "Deworming",
+    "Documentation",
+    "Preventive Health Services"
+  ],
+  "tags_custom": [
+    "National Nutrition Programs",
+    "Prophylaxis Guidelines",
+    "Safe Dosing",
+    "Child Health",
+    "Clinic Protocols"
+  ],
+  "reference_quote": "Safety hinges on documentation and spacing. Unified clinic rule when the last dose is uncertain: after the 16\u201318 month dose, maintain a minimum 6-month interval.",
+  "document_key_topics": [
+    "Vitamin A prophylaxis dosing and spacing",
+    "Iron-Folic Acid supplementation guidelines",
+    "Albendazole administration under NDD",
+    "Documentation and verification protocols in clinics"
+  ],
+  "chunk_heading": "NATIONAL NUTRITION AND FORTIFICATION PROGRAMS IN INDIA;SAFE SPACING AND DOCUMENTATION OF NATIONAL PROPHYLAXIS DOSES IN CLINIC;",
+  "topic": "NATIONAL NUTRITION AND FORTIFICATION PROGRAMS IN INDIA",
+  "subtopic": "SAFE SPACING AND DOCUMENTATION OF NATIONAL PROPHYLAXIS DOSES IN CLINIC",
+  "sub_subtopic": null,
+  "heading_path": "NATIONAL NUTRITION AND FORTIFICATION PROGRAMS IN INDIA;SAFE SPACING AND DOCUMENTATION OF NATIONAL PROPHYLAXIS DOSES IN CLINIC;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "2m.1"
+}

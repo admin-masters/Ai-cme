@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Guidance on steroid tapering and biologic dosing in low-weight pediatric IBD patients, emphasizing growth preservation, infection risk, and nutrition integration.",
+  "learning_objectives": [
+    "Understand the role of systemic corticosteroids in pediatric Crohn\u2019s disease induction and tapering strategies.",
+    "Learn weight-based biologic dosing adjustments for low-weight children with IBD.",
+    "Recognize the importance of integrating nutrition and pharmacotherapy in pediatric IBD management.",
+    "Assess infection risks, including tuberculosis, before anti-TNF escalation."
+  ],
+  "key_facts": [
+    "Systemic corticosteroids should not be used as long-term therapy due to risks like growth suppression and bone health deterioration.",
+    "Infliximab dosing: 5 mg/kg IV at weeks 0, 2, and 6, then every 8 weeks; higher doses (up to 10 mg/kg) or shorter intervals may be needed for children <30 kg or with low albumin.",
+    "Adalimumab dosing: >40 kg: 160 mg week 0, 80 mg week 2, then 40 mg every other week; <40 kg: 80 mg week 0, 40 mg week 2, then 20 mg maintenance; escalation to weekly injections in selected cases.",
+    "Vedolizumab and ustekinumab are alternatives when anti-TNF therapy fails, requiring infection-risk monitoring.",
+    "Nutrition plans should address protein-energy adequacy, anemia correction, and vitamin D/calcium deficits alongside pharmacotherapy."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Crohn Disease",
+    "Ulcerative Colitis",
+    "Pediatrics",
+    "Biologic Therapy",
+    "Corticosteroids",
+    "Malnutrition",
+    "Growth Disorders",
+    "Infliximab"
+  ],
+  "tags_custom": [
+    "pediatric IBD",
+    "biologic dosing",
+    "steroid tapering",
+    "nutrition integration",
+    "infection risk"
+  ],
+  "reference_quote": "Plan the taper and the maintenance strategy on day one (immunomodulator and/or biologic pathway) to avoid prolonged steroid exposure that suppresses growth, worsens bone health, and increases infection risk.",
+  "document_key_topics": [
+    "Steroid tapering in pediatric Crohn\u2019s disease",
+    "Biologic dosing adjustments for low-weight children",
+    "Nutrition and pharmacotherapy integration in IBD",
+    "Infection risk assessment in anti-TNF therapy"
+  ],
+  "chunk_heading": "NUTRITION IN GI DISORDERS & MALABSORPTION;PEDIATRIC IBD NUTRITION AND GROWTH PRESERVATION;STEROID TAPERS AND BIOLOGIC DOSING IN LOW-WEIGHT CHILDREN;",
+  "topic": "NUTRITION IN GI DISORDERS & MALABSORPTION",
+  "subtopic": "PEDIATRIC IBD NUTRITION AND GROWTH PRESERVATION",
+  "sub_subtopic": "STEROID TAPERS AND BIOLOGIC DOSING IN LOW-WEIGHT CHILDREN",
+  "heading_path": "NUTRITION IN GI DISORDERS & MALABSORPTION;PEDIATRIC IBD NUTRITION AND GROWTH PRESERVATION;STEROID TAPERS AND BIOLOGIC DOSING IN LOW-WEIGHT CHILDREN;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2\u00816"
+}

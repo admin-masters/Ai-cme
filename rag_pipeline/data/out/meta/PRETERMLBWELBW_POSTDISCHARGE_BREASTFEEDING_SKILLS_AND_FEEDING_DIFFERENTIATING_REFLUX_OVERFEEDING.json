@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section addresses differentiating reflux, overfeeding, and aspiration in ex-preterm infants post-discharge, focusing on feeding safety, management strategies, and caregiver education to ensure optimal nutrition and airway protection.",
+  "learning_objectives": [
+    "Understand the clinical signs distinguishing reflux, overfeeding, and aspiration in ex-preterm infants.",
+    "Learn management strategies for reflux, including pacing and positioning techniques.",
+    "Recognize aspiration symptoms and implement safety measures such as feeding evaluations and temporary tube feeds.",
+    "Review medication guidelines for pediatric GERD and avoid unnecessary pharmacologic interventions."
+  ],
+  "key_facts": [
+    "Regurgitation in ex-preterm infants can overlap with aspiration, feeding fatigue, and overfeeding.",
+    "Overfeeding typically presents as vomiting after large or fast feeds without respiratory symptoms; management includes reducing per-feed volume and pacing feeds.",
+    "Aspiration is indicated by cough, choking, color changes, noisy breathing, or recurrent infections linked to feeds; it requires feeding evaluations and airway protection strategies.",
+    "Pediatric GERD guidelines advise against routine use of prokinetics (e.g., domperidone, metoclopramide) and PPIs/H2RAs for extraesophageal symptoms unless diagnostic testing supports GERD.",
+    "Physiologic reflux is painless regurgitation with good growth and no respiratory compromise; management focuses on caregiver education and feeding techniques."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Infant, Premature",
+    "Gastroesophageal Reflux",
+    "Aspiration Pneumonia",
+    "Feeding Behavior",
+    "Swallowing Disorders",
+    "Nutrition Therapy",
+    "Bottle Feeding",
+    "Caregivers"
+  ],
+  "tags_custom": [
+    "preterm nutrition",
+    "feeding safety",
+    "reflux management",
+    "aspiration prevention",
+    "post-discharge care"
+  ],
+  "reference_quote": "Pediatric GERD guidance supports caregiver education but advises against routine prokinetics (domperidone, metoclopramide) and against using PPI/H2RA for extraesophageal symptoms unless typical GERD symptoms or diagnostic testing supports it.",
+  "document_key_topics": [
+    "Differentiating reflux, overfeeding, and aspiration in ex-preterm infants",
+    "Feeding safety and management strategies post-discharge",
+    "GERD medication guidelines for pediatric patients",
+    "Caregiver education on feeding techniques and airway protection"
+  ],
+  "chunk_heading": "PRETERM/LBW/ELBW POST-DISCHARGE NUTRITION;BREASTFEEDING SKILLS AND FEEDING SAFETY DECISIONS;DIFFERENTIATING REFLUX OVERFEEDING AND ASPIRATION IN EX-PRETERM INFANTS;",
+  "topic": "PRETERM/LBW/ELBW POST-DISCHARGE NUTRITION",
+  "subtopic": "BREASTFEEDING SKILLS AND FEEDING SAFETY DECISIONS",
+  "sub_subtopic": "DIFFERENTIATING REFLUX OVERFEEDING AND ASPIRATION IN EX-PRETERM INFANTS",
+  "heading_path": "PRETERM/LBW/ELBW POST-DISCHARGE NUTRITION;BREASTFEEDING SKILLS AND FEEDING SAFETY DECISIONS;DIFFERENTIATING REFLUX OVERFEEDING AND ASPIRATION IN EX-PRETERM INFANTS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1~3"
+}

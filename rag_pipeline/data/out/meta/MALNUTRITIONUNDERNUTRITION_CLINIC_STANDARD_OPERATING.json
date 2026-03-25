@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This subtopic outlines clinic SOPs for reliable anthropometry in malnutrition screening, emphasizing equipment standards, measurement accuracy, and documentation to reduce misclassification errors.",
+  "learning_objectives": [
+    "Understand the importance of reliable anthropometry in malnutrition screening.",
+    "Learn standard procedures for using and maintaining anthropometric equipment.",
+    "Identify methods to ensure accurate measurements and reduce classification errors.",
+    "Recognize the impact of age and measurement errors on z-score calculations."
+  ],
+  "key_facts": [
+    "Equipment minimums include a digital weighing scale with tare function, infantometer, stadiometer, and nonstretch MUAC tape.",
+    "Standardize scales daily or whenever moved using an object of known weight; recheck if duplicate measures differ beyond tolerance.",
+    "MUAC cut-offs are valid only for children aged 6\u201359 months; measure twice and record the best-consensus value.",
+    "Length/height measurements must be recorded to 0.1 cm, with footwear and hair ornaments removed, and posture corrected.",
+    "Age errors can distort z-scores and flip classifications around -2 or -3 SD cut-offs; confirm age from documents when possible."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Malnutrition",
+    "Anthropometry",
+    "Child Nutrition Disorders",
+    "Body Weight",
+    "Body Height",
+    "Mid-Upper Arm Circumference",
+    "Growth Disorders",
+    "Screening"
+  ],
+  "tags_custom": [
+    "SOP for anthropometry",
+    "Malnutrition screening",
+    "Measurement accuracy",
+    "Clinic protocols",
+    "Child health assessment"
+  ],
+  "reference_quote": "Most misclassification in malnutrition screening is a measurement-system failure rather than a knowledge failure.",
+  "document_key_topics": [
+    "Standard operating procedures for anthropometry",
+    "Equipment requirements for malnutrition screening",
+    "Measurement techniques and error reduction",
+    "Impact of age and measurement errors on classification"
+  ],
+  "chunk_heading": "MALNUTRITION\u2014UNDERNUTRITION: SCREENING & CLASSIFICATION;CLINIC STANDARD OPERATING PROCEDURE FOR RELIABLE ANTHROPOMETRY;",
+  "topic": "MALNUTRITION\u2014UNDERNUTRITION: SCREENING & CLASSIFICATION",
+  "subtopic": "CLINIC STANDARD OPERATING PROCEDURE FOR RELIABLE ANTHROPOMETRY",
+  "sub_subtopic": null,
+  "heading_path": "MALNUTRITION\u2014UNDERNUTRITION: SCREENING & CLASSIFICATION;CLINIC STANDARD OPERATING PROCEDURE FOR RELIABLE ANTHROPOMETRY;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": 31
+}

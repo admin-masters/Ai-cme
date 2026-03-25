@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Management of bone pain in sickle cell disease involves distinguishing osteomyelitis from infarction, using clinical signs, imaging, and blood cultures, with tailored antibiotic therapy and supportive care.",
+  "learning_objectives": [
+    "Differentiate between osteomyelitis and bone infarction in sickle cell disease based on clinical and diagnostic findings.",
+    "Understand the role of Salmonella and Staphylococcus aureus in osteomyelitis in sickle cell patients.",
+    "Learn the empiric antibiotic regimens and duration of therapy for confirmed Salmonella osteomyelitis.",
+    "Recognize the importance of multidisciplinary management, including hematology input, in sickle cell disease with bone infections."
+  ],
+  "key_facts": [
+    "Osteomyelitis in sickle cell disease is suggested by focal warmth, swelling, persistent fever, and raised inflammatory markers.",
+    "Salmonella is classically associated with osteomyelitis in sickle cell disease, but Staphylococcus aureus is also a key pathogen.",
+    "Empiric treatment includes an anti-staphylococcal agent combined with a third-generation cephalosporin like ceftriaxone.",
+    "Therapy for confirmed Salmonella osteomyelitis often lasts 4-6 weeks, with oral fluoroquinolone step-down considered in select cases.",
+    "Magnetic resonance imaging (MRI) can help distinguish marrow infarction from infection, though imaging overlap is common.",
+    "Families should seek urgent medical review if limb pain is accompanied by fever in children with sickle cell disease."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Osteomyelitis",
+    "Sickle Cell Disease",
+    "Bone Infarction",
+    "Salmonella Infections",
+    "Staphylococcal Infections",
+    "Magnetic Resonance Imaging",
+    "Anti-Bacterial Agents",
+    "Pain Management"
+  ],
+  "tags_custom": [
+    "Pediatric bone infections",
+    "Sickle cell complications",
+    "Empiric antibiotic therapy",
+    "Multidisciplinary care"
+  ],
+  "reference_quote": "Salmonella is classically associated with osteomyelitis in sickle cell disease, but Staphylococcus aureus remains an important co-pathogen and should not be ignored.",
+  "document_key_topics": [
+    "Differentiation of osteomyelitis and infarction in sickle cell disease",
+    "Role of Salmonella and Staphylococcus aureus in bone infections",
+    "Empiric and targeted antibiotic therapy",
+    "Supportive care and multidisciplinary management"
+  ],
+  "chunk_heading": "BONE INFECTIONS;CLINICAL MANAGEMENT IN ADOLESCENTS AND VULNERABLE HOSTS;SICKLE CELL DISEASE AND DIFFERENTIATION FROM BONE INFARCTION;",
+  "topic": "BONE INFECTIONS",
+  "subtopic": "CLINICAL MANAGEMENT IN ADOLESCENTS AND VULNERABLE HOSTS",
+  "sub_subtopic": "SICKLE CELL DISEASE AND DIFFERENTIATION FROM BONE INFARCTION",
+  "heading_path": "BONE INFECTIONS;CLINICAL MANAGEMENT IN ADOLESCENTS AND VULNERABLE HOSTS;SICKLE CELL DISEASE AND DIFFERENTIATION FROM BONE INFARCTION;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u00912"
+}

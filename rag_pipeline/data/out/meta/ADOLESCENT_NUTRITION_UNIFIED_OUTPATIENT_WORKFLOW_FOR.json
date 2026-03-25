@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This workflow outlines a comprehensive outpatient approach for adolescent nutrition visits, addressing growth, menstrual health, athletic training, and disordered eating, with screening, triage, and phenotype-specific management strategies.",
+  "learning_objectives": [
+    "Understand the importance of using a unified outpatient workflow for adolescent nutrition visits.",
+    "Learn to screen for growth, menstrual health, and psychosocial factors, including eating disorders and athletic training loads.",
+    "Identify criteria for urgent referral or admission based on medical instability.",
+    "Apply phenotype-specific management pathways for stable patients."
+  ],
+  "key_facts": [
+    "Screening includes height, weight, BMI plotting, pubertal stage, 24-hour dietary recall, and menstrual cycle assessment.",
+    "Urgent referral is required for bradycardia (HR <50/min daytime or <45/min night), hypotension (BP <90/45 mm Hg), or temperature <35.6\u00b0C.",
+    "Menstrual cycle is treated as a vital sign, with attention to flooding, clots, dysmenorrhea, and school absenteeism.",
+    "Psychosocial screening includes HEADSS and SCOFF for eating disorders when indicated.",
+    "Phenotype-specific pathways include growth spurt support, menstrual symptom management, athlete/RED-S care, and eating disorder treatment."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Adolescent Nutrition",
+    "Menstrual Cycle",
+    "Eating Disorders",
+    "Body Mass Index",
+    "Athletic Performance",
+    "Energy Metabolism",
+    "Psychosocial Screening",
+    "Obesity"
+  ],
+  "tags_custom": [
+    "adolescent health",
+    "nutrition workflow",
+    "RED-S",
+    "eating disorder screening",
+    "menstrual health"
+  ],
+  "reference_quote": "Treat the menstrual cycle as a vital sign (ACOG, 'Menstruation in girls and adolescents: Using the menstrual cycle as a vital sign').",
+  "document_key_topics": [
+    "Adolescent nutrition screening and triage",
+    "Menstrual health as a vital sign",
+    "Management of eating disorders and RED-S",
+    "Phenotype-specific outpatient care pathways"
+  ],
+  "chunk_heading": "ADOLESCENT NUTRITION;UNIFIED OUTPATIENT WORKFLOW FOR ADOLESCENT NUTRITION VISITS;",
+  "topic": "ADOLESCENT NUTRITION",
+  "subtopic": "UNIFIED OUTPATIENT WORKFLOW FOR ADOLESCENT NUTRITION VISITS",
+  "sub_subtopic": null,
+  "heading_path": "ADOLESCENT NUTRITION;UNIFIED OUTPATIENT WORKFLOW FOR ADOLESCENT NUTRITION VISITS;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "1d"
+}

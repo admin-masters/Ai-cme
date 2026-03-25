@@ -1,0 +1,47 @@
+{
+  "chunk_summary": "This section discusses energy and protein targets in pediatric CKD diets, emphasizing lab-linked restrictions for hyperkalemia and growth protection while avoiding blanket nutrient restrictions.",
+  "learning_objectives": [
+    "Understand energy intake targets for pediatric CKD based on age and growth needs.",
+    "Learn appropriate protein intake guidelines for children with CKD, including cases of inflammation or dialysis.",
+    "Identify practical potassium restriction thresholds and techniques for managing hyperkalemia.",
+    "Recognize the importance of monitoring growth trajectory and lab markers in pediatric CKD management."
+  ],
+  "key_facts": [
+    "Energy intake should target approximately 100% of estimated energy requirements for age, with adjustments for growth failure or catabolism.",
+    "Protein intake should meet or exceed age-based recommendations, with higher targets for children with poor growth, inflammation, or on dialysis.",
+    "Potassium restriction is recommended for persistent hyperkalemia, defined as serum potassium \u22655.5 mmol/L despite addressing underlying causes.",
+    "Techniques for potassium reduction include leaching high-potassium vegetables and avoiding potassium-containing salt substitutes.",
+    "Phosphate restriction should focus on reducing additives and ultra-processed foods before limiting natural protein sources."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Chronic Kidney Disease",
+    "Pediatrics",
+    "Diet Therapy",
+    "Hyperkalemia",
+    "Protein Intake",
+    "Energy Metabolism",
+    "Phosphate Restriction",
+    "Growth Monitoring"
+  ],
+  "tags_custom": [
+    "pediatric CKD nutrition",
+    "hyperkalemia management",
+    "growth-focused diet"
+  ],
+  "reference_quote": "Routine blanket restriction of protein or potassium commonly causes undernutrition without improving outcomes. (Source: https://pmc.ncbi.nlm.nih.gov/articles/PMC6968982/)",
+  "document_key_topics": [
+    "Energy intake targets in pediatric CKD",
+    "Protein requirements for growth and inflammation",
+    "Potassium restriction thresholds and techniques",
+    "Phosphate management in CKD diets"
+  ],
+  "chunk_heading": "THERAPEUTIC DIETS & SPECIAL INTERVENTIONS;DIET PRESCRIPTIONS IN PEDIATRIC CHRONIC KIDNEY DISEASE WITH LAB-LINKED RESTRICTIONS;ENERGY AND PROTEIN TARGETS WITH HYPERKALEMIA THRESHOLDS;",
+  "topic": "THERAPEUTIC DIETS & SPECIAL INTERVENTIONS",
+  "subtopic": "DIET PRESCRIPTIONS IN PEDIATRIC CHRONIC KIDNEY DISEASE WITH LAB-LINKED RESTRICTIONS",
+  "sub_subtopic": "ENERGY AND PROTEIN TARGETS WITH HYPERKALEMIA THRESHOLDS",
+  "heading_path": "THERAPEUTIC DIETS & SPECIAL INTERVENTIONS;DIET PRESCRIPTIONS IN PEDIATRIC CHRONIC KIDNEY DISEASE WITH LAB-LINKED RESTRICTIONS;ENERGY AND PROTEIN TARGETS WITH HYPERKALEMIA THRESHOLDS;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1}1.1"
+}

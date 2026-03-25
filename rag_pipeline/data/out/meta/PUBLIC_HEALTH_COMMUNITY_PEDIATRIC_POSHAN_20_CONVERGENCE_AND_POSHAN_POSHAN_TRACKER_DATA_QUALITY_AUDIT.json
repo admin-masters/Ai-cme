@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "The POSHAN Tracker is a real-time monitoring tool for Anganwadi services, requiring clinicians to audit data quality by verifying anthropometric methods, service delivery, and dashboard plausibility to ensure accurate pediatric nutrition monitoring.",
+  "learning_objectives": [
+    "Understand the functionality and purpose of the POSHAN Tracker in monitoring Anganwadi services.",
+    "Learn to identify and address common data quality issues in anthropometric measurements and service delivery records.",
+    "Develop skills to audit POSHAN Tracker outputs using a clinician-auditor checklist.",
+    "Apply methods to reconcile service receipt data with caregiver-reported history and clinical caseloads."
+  ],
+  "key_facts": [
+    "POSHAN Tracker supports near real-time monitoring of Anganwadi services, including beneficiary tracking and growth indicators.",
+    "Data entry is performed via a mobile application with offline entry and later synchronization capabilities.",
+    "Common errors include incorrect length/height measurements, uncalibrated equipment, and inaccurate age entries, which can distort wasting severity classifications.",
+    "Clinicians should verify measurement methods (e.g., calibrated scales, correct MUAC technique) and repeat implausible extremes.",
+    "Dashboards showing improvement should be cross-verified with sentinel re-measurement samples and clinical caseloads.",
+    "Identity seeding is used to maintain data continuity for migrating families.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Public Health",
+    "Pediatric Nutrition",
+    "Anthropometry",
+    "Data Accuracy",
+    "Growth Monitoring",
+    "Health Information Systems",
+    "Wasting Syndrome",
+    "Community Health Services"
+  ],
+  "tags_custom": [
+    "POSHAN Tracker",
+    "Data Quality Audit",
+    "Anganwadi Services",
+    "Pediatric Growth Monitoring"
+  ],
+  "reference_quote": "\u2018Full coverage\u2019 dashboards can coexist with missed severe wasting when length/height technique is poor, equipment is not calibrated, age is entered incorrectly, or services are recorded but not actually delivered or consumed.",
+  "document_key_topics": [
+    "POSHAN Tracker functionality and data entry process",
+    "Common errors in anthropometric measurements and service delivery data",
+    "Clinician-auditor checklist for data quality verification",
+    "Using POSHAN Tracker outputs for actionable insights in pediatric nutrition"
+  ],
+  "chunk_heading": "PUBLIC HEALTH & COMMUNITY PEDIATRIC NUTRITION;POSHAN 2.0 CONVERGENCE AND POSHAN TRACKER INTERPRETATION;POSHAN TRACKER DATA QUALITY AUDIT FOR CLINICIANS;",
+  "topic": "PUBLIC HEALTH & COMMUNITY PEDIATRIC NUTRITION",
+  "subtopic": "POSHAN 2.0 CONVERGENCE AND POSHAN TRACKER INTERPRETATION",
+  "sub_subtopic": "POSHAN TRACKER DATA QUALITY AUDIT FOR CLINICIANS",
+  "heading_path": "PUBLIC HEALTH & COMMUNITY PEDIATRIC NUTRITION;POSHAN 2.0 CONVERGENCE AND POSHAN TRACKER INTERPRETATION;POSHAN TRACKER DATA QUALITY AUDIT FOR CLINICIANS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1s3"
+}

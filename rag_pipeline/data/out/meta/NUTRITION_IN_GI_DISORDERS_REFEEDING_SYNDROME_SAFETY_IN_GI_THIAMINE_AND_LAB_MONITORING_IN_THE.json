@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Guidelines for thiamine supplementation and lab monitoring during the first 72 hours of refeeding in pediatric GI disorders to prevent refeeding syndrome complications.",
+  "learning_objectives": [
+    "Understand the importance of thiamine supplementation in at-risk pediatric patients during refeeding.",
+    "Learn the recommended lab monitoring protocols for the first 72 hours of refeeding, including frequency and specific tests.",
+    "Recognize signs of biochemical refeeding syndrome and appropriate corrective actions.",
+    "Develop a written calorie advancement plan to prevent unintended calorie jumps during handovers."
+  ],
+  "key_facts": [
+    "Thiamine dosage: 1\u20132 mg/kg/day (maximum 100 mg/day) for 5 days, starting before calorie escalation.",
+    "Day 0 lab tests: serum electrolytes (potassium, magnesium, phosphate) and blood glucose; avoid panels omitting phosphate/magnesium.",
+    "High-risk monitoring: urea/electrolytes, metabolic panel, and blood sugar every 6 hours for 24\u201348 hours after starting parenteral nutrition.",
+    "Lower-risk enteral starts: daily electrolyte checks are sufficient but require a written monitoring plan.",
+    "Biochemical refeeding signs: falling phosphate, potassium, magnesium, tachycardia, weakness, ileus, or respiratory symptoms."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Refeeding Syndrome",
+    "Thiamine",
+    "Electrolytes",
+    "Parenteral Nutrition",
+    "Enteral Nutrition",
+    "Pediatric Nutrition",
+    "Malabsorption",
+    "Metabolic Monitoring"
+  ],
+  "tags_custom": [
+    "refeeding safety",
+    "pediatric GI care",
+    "electrolyte correction",
+    "calorie escalation protocol",
+    "biochemical monitoring"
+  ],
+  "reference_quote": "Thiamine should be prescribed in at-risk children because carbohydrate metabolism increases abruptly during refeeding and can unmask deficiency. (Royal Children\u2019s Hospital Melbourne)",
+  "document_key_topics": [
+    "Thiamine supplementation in refeeding syndrome",
+    "Electrolyte and metabolic monitoring protocols",
+    "Management of biochemical refeeding complications",
+    "Calorie advancement planning in pediatric GI disorders"
+  ],
+  "chunk_heading": "NUTRITION IN GI DISORDERS & MALABSORPTION;REFEEDING SYNDROME SAFETY IN GI  DISEASE;THIAMINE AND LAB MONITORING IN THE FIRST 72 HOURS;",
+  "topic": "NUTRITION IN GI DISORDERS & MALABSORPTION",
+  "subtopic": "REFEEDING SYNDROME SAFETY IN GI  DISEASE",
+  "sub_subtopic": "THIAMINE AND LAB MONITORING IN THE FIRST 72 HOURS",
+  "heading_path": "NUTRITION IN GI DISORDERS & MALABSORPTION;REFEEDING SYNDROME SAFETY IN GI  DISEASE;THIAMINE AND LAB MONITORING IN THE FIRST 72 HOURS;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "2\u00871"
+}

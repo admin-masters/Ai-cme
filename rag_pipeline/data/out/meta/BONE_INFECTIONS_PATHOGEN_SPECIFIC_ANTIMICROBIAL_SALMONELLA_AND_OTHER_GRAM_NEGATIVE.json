@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "Guidance on managing Salmonella and other Gram-negative bone infections, emphasizing fluoroquinolone use, step-down therapy, and tailored treatment plans for pediatric patients, especially those with sickle cell disease or immunocompromising conditions.",
+  "learning_objectives": [
+    "Understand the role of third-generation cephalosporins and fluoroquinolones in treating Salmonella osteomyelitis.",
+    "Identify risk factors and clinical considerations for Salmonella and other Gram-negative bone infections in children.",
+    "Learn the importance of microbiology-guided therapy and patient-specific treatment plans.",
+    "Recognize the need for monitoring and counseling families on fluoroquinolone-associated risks."
+  ],
+  "key_facts": [
+    "Salmonella osteomyelitis is common in children with sickle cell disease or immunocompromising conditions but can occur in healthy children.",
+    "Initial therapy often involves ceftriaxone, with ciprofloxacin as a step-down option if susceptibility is confirmed.",
+    "Fluoroquinolone use requires monitoring for tendon pain, arthralgia, and gastrointestinal symptoms.",
+    "Osteomyelitis caused by Salmonella typically requires 4-6 weeks of treatment, longer if bacteremia or abscess is present.",
+    "Other Gram-negative infections may require agents like ceftazidime, piperacillin-tazobactam, or meropenem based on local antibiograms."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Osteomyelitis",
+    "Salmonella Infections",
+    "Fluoroquinolones",
+    "Cephalosporins",
+    "Ciprofloxacin",
+    "Pseudomonas Infections",
+    "Antimicrobial Stewardship",
+    "Pediatric Infectious Diseases"
+  ],
+  "tags_custom": [
+    "Salmonella osteomyelitis",
+    "Gram-negative infections",
+    "Fluoroquinolone guidance",
+    "Pediatric bone infections"
+  ],
+  "reference_quote": "Salmonella osteomyelitis should be considered early in children with sickle cell disease, hemoglobinopathy, or other immunocompromising conditions, but it can occasionally occur in previously healthy children as well.",
+  "document_key_topics": [
+    "Salmonella osteomyelitis in children",
+    "Fluoroquinolone use and monitoring",
+    "Treatment duration and microbiology-guided therapy",
+    "Management of Gram-negative bone infections"
+  ],
+  "chunk_heading": "BONE INFECTIONS;PATHOGEN SPECIFIC ANTIMICROBIAL REGIMENS;SALMONELLA AND OTHER GRAM NEGATIVE BONE INFECTIONS WITH FLUOROQUINOLONE GUIDANCE;",
+  "topic": "BONE INFECTIONS",
+  "subtopic": "PATHOGEN SPECIFIC ANTIMICROBIAL REGIMENS",
+  "sub_subtopic": "SALMONELLA AND OTHER GRAM NEGATIVE BONE INFECTIONS WITH FLUOROQUINOLONE GUIDANCE",
+  "heading_path": "BONE INFECTIONS;PATHOGEN SPECIFIC ANTIMICROBIAL REGIMENS;SALMONELLA AND OTHER GRAM NEGATIVE BONE INFECTIONS WITH FLUOROQUINOLONE GUIDANCE;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u00804"
+}

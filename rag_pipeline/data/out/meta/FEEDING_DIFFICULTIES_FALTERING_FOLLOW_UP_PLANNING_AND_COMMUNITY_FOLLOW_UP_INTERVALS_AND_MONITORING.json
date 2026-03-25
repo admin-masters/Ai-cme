@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "Follow-up intervals for feeding difficulties and faltering growth should be tailored to risk, with closer monitoring for younger or at-risk children. Guidelines recommend follow-ups within 5-30 days, focusing on trends, adherence, and response to interventions while avoiding excessive weighing.",
+  "learning_objectives": [
+    "Understand the importance of tailoring follow-up intervals based on risk factors in children with feeding difficulties and faltering growth.",
+    "Learn the recommended follow-up timelines for feeding problems and low weight-for-age as per IMNCI and NICE guidelines.",
+    "Identify key monitoring targets, including weight, height, meal schedules, and adherence to interventions.",
+    "Recognize when to escalate care using a non-response pathway."
+  ],
+  "key_facts": [
+    "Follow-up for feeding problems is recommended within 5 days, and for very low weight-for-age within 30 days (IMNCI).",
+    "NICE recommends regular but not excessive monitoring, with joint planning for reassessment timing.",
+    "A 2-week review is suggested after initiating a new behavioral or nutrition intervention.",
+    "A 4-week review is recommended to confirm trajectory improvement and adjust intervention intensity.",
+    "Daily weights are unnecessary except in specific early neonatal weight-loss cases.",
+    "Focus on trends in weight and height rather than single unexpected measurements."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Feeding Behavior",
+    "Failure to Thrive",
+    "Growth Disorders",
+    "Nutritional Status",
+    "Child Development",
+    "Pediatric Assessment",
+    "Weight Gain",
+    "Follow-Up Studies"
+  ],
+  "tags_custom": [
+    "feeding difficulties",
+    "faltering growth",
+    "follow-up intervals",
+    "pediatric nutrition",
+    "monitoring guidelines"
+  ],
+  "reference_quote": "\"The IMNCI chart booklet recommends follow-up of feeding problems within 5 days and follow-up of very low weight-for-age within 30 days, which can be adapted to outpatient practice.\"",
+  "document_key_topics": [
+    "Follow-up planning for feeding difficulties",
+    "Monitoring intervals and targets for faltering growth",
+    "Risk-based follow-up strategies",
+    "Non-response pathways in pediatric care"
+  ],
+  "chunk_heading": "FEEDING DIFFICULTIES & FALTERING GROWTH;FOLLOW UP PLANNING AND COMMUNITY PROGRAM INTEGRATION;FOLLOW UP INTERVALS AND MONITORING TARGETS;",
+  "topic": "FEEDING DIFFICULTIES & FALTERING GROWTH",
+  "subtopic": "FOLLOW UP PLANNING AND COMMUNITY PROGRAM INTEGRATION",
+  "sub_subtopic": "FOLLOW UP INTERVALS AND MONITORING TARGETS",
+  "heading_path": "FEEDING DIFFICULTIES & FALTERING GROWTH;FOLLOW UP PLANNING AND COMMUNITY PROGRAM INTEGRATION;FOLLOW UP INTERVALS AND MONITORING TARGETS;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "4\u00901"
+}

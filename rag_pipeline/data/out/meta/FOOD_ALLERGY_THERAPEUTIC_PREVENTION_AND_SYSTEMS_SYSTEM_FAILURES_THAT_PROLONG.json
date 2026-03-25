@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Systemic failures in India prolong unnecessary pediatric elimination diets, increasing risks of undernutrition and caregiver anxiety. Operational countermeasures include structured elimination plans, growth tracking, and targeted testing to prevent prolonged restrictions.",
+  "learning_objectives": [
+    "Understand the common system failures in managing pediatric elimination diets in India.",
+    "Learn operational strategies to prevent unnecessary long-term dietary restrictions.",
+    "Recognize the importance of diagnostic confirmation and reintroduction plans in food allergy management.",
+    "Identify the role of multidisciplinary support in complex cases like EoE or FPIES."
+  ],
+  "key_facts": [
+    "Three key failure modes: formula escalation without diagnostic confirmation, restriction without monitoring, and avoidance without reintroduction plans.",
+    "Elimination diets should have a start date, stop date, and objective response criteria; no improvement by the endpoint should trigger reassessment.",
+    "Children on elimination diets beyond 3\u20136 months without review should be flagged as 'overdue for de-restriction.'",
+    "Broad food panel testing in low pretest probability scenarios increases false diagnoses; targeted testing is recommended.",
+    "A simple clinic register tracking food avoidance, start date, and planned challenge date can prevent loss to follow-up."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Food Hypersensitivity",
+    "Elimination Diet",
+    "Pediatrics",
+    "Nutritional Status",
+    "Diagnostic Errors",
+    "Growth Disorders",
+    "Eosinophilic Esophagitis",
+    "Food Protein-Induced Enterocolitis Syndrome"
+  ],
+  "tags_custom": [
+    "system failures",
+    "dietary management",
+    "pediatric nutrition",
+    "India healthcare",
+    "allergy testing"
+  ],
+  "reference_quote": "Broad 'food panels' in low pretest probability scenarios amplify false diagnoses; targeted testing aligned with a reproducible history reduces unnecessary avoidance. (Source: IAP Action Plan 2026, Rational Use of Allergy Testing)",
+  "document_key_topics": [
+    "Systemic failures in pediatric elimination diets",
+    "Operational strategies for food allergy management",
+    "Role of diagnostic confirmation and reintroduction plans",
+    "Multidisciplinary support for complex allergy cases"
+  ],
+  "chunk_heading": "FOOD ALLERGY & THERAPEUTIC ELIMINATION DIETS;PREVENTION AND SYSTEMS IMPLEMENTATION IN INDIA;SYSTEM FAILURES THAT PROLONG UNNECESSARY ELIMINATION;",
+  "topic": "FOOD ALLERGY & THERAPEUTIC ELIMINATION DIETS",
+  "subtopic": "PREVENTION AND SYSTEMS IMPLEMENTATION IN INDIA",
+  "sub_subtopic": "SYSTEM FAILURES THAT PROLONG UNNECESSARY ELIMINATION",
+  "heading_path": "FOOD ALLERGY & THERAPEUTIC ELIMINATION DIETS;PREVENTION AND SYSTEMS IMPLEMENTATION IN INDIA;SYSTEM FAILURES THAT PROLONG UNNECESSARY ELIMINATION;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u009e6"
+}

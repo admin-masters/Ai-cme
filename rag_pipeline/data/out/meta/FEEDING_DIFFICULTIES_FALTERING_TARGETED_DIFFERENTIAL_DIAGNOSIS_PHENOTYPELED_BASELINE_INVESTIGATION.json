@@ -1,0 +1,47 @@
+{
+  "chunk_summary": "Phenotype-led investigations for faltering growth prioritize targeted testing based on clinical presentation, avoiding broad panels to reduce costs and improve diagnostic yield.",
+  "learning_objectives": [
+    "Understand the importance of phenotype-driven investigation in faltering growth cases.",
+    "Identify baseline tests for weight and height faltering with systemic symptoms or abnormal examination.",
+    "Learn symptom-directed additions for specific diagnoses like TB, celiac disease, or persistent diarrhea."
+  ],
+  "key_facts": [
+    "Broad 'failure to thrive panels' are low yield and increase costs in well-appearing children.",
+    "Baseline tests for weight and height faltering include CBC, CRP/ESR, metabolic profile, liver enzymes, albumin, urinalysis, and thyroid testing (TSH and free T4).",
+    "Celiac serology (tissue transglutaminase IgA and total IgA) is recommended if gluten exposure and malabsorption symptoms are present.",
+    "Persistent diarrhea warrants stool testing for blood, mucus, steatorrhea, or parasites.",
+    "Chest radiography and NAAT pathways are essential for TB suspicion."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Failure to Thrive",
+    "Growth Disorders",
+    "Phenotype",
+    "Celiac Disease",
+    "Tuberculosis",
+    "Malabsorption Syndromes",
+    "Anemia",
+    "Diagnostic Techniques and Procedures"
+  ],
+  "tags_custom": [
+    "faltering growth",
+    "feeding difficulties",
+    "targeted investigations",
+    "phenotype-driven testing",
+    "pediatric diagnostics"
+  ],
+  "reference_quote": "Testing should follow phenotype, because broad 'failure to thrive panels' are low yield in well-appearing children and increase cost. (NICE NG75)",
+  "document_key_topics": [
+    "Phenotype-driven diagnostic approach",
+    "Baseline investigation sets for faltering growth",
+    "Symptom-directed diagnostic additions"
+  ],
+  "chunk_heading": "FEEDING DIFFICULTIES & FALTERING GROWTH;TARGETED DIFFERENTIAL DIAGNOSIS AND HIGH YIELD INVESTIGATIONS;PHENOTYPE-LED BASELINE INVESTIGATION SETS;",
+  "topic": "FEEDING DIFFICULTIES & FALTERING GROWTH",
+  "subtopic": "TARGETED DIFFERENTIAL DIAGNOSIS AND HIGH YIELD INVESTIGATIONS",
+  "sub_subtopic": "PHENOTYPE-LED BASELINE INVESTIGATION SETS",
+  "heading_path": "FEEDING DIFFICULTIES & FALTERING GROWTH;TARGETED DIFFERENTIAL DIAGNOSIS AND HIGH YIELD INVESTIGATIONS;PHENOTYPE-LED BASELINE INVESTIGATION SETS;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "1m2"
+}

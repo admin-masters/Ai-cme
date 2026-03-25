@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Special populations require tailored complementary feeding approaches, considering developmental readiness, safety, and specific health risks such as preterm birth, neurodisability, HIV exposure, or immunocompromise.",
+  "learning_objectives": [
+    "Understand complementary feeding modifications for preterm and low birth weight infants.",
+    "Identify feeding adaptations for children with neurodisabilities to ensure safety and nutrition.",
+    "Learn feeding guidelines for infants exposed to or living with HIV, including food safety measures.",
+    "Recognize the importance of individualized feeding plans for immunocompromised children."
+  ],
+  "key_facts": [
+    "Preterm infants often start complementary feeding between 5\u20138 months chronological age, with at least 3 months corrected age and stable head control.",
+    "Iron supplementation is critical for preterm infants due to lower iron stores at birth.",
+    "Children with neurodisabilities are at higher risk of dysphagia and aspiration; avoid thin liquids and force feeding.",
+    "WHO recommends breastfeeding for HIV-exposed infants where undernutrition and diarrheal disease are prevalent, alongside safe complementary foods from 6 months.",
+    "Immunocompromised children require strict food safety measures, avoiding raw eggs, unpasteurized milk, and unsafe street foods."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Complementary Feeding",
+    "Infant, Premature",
+    "Low Birth Weight Infant",
+    "Neurodevelopmental Disorders",
+    "HIV Infections",
+    "Immunocompromised Host",
+    "Dysphagia",
+    "Iron Deficiency"
+  ],
+  "tags_custom": [
+    "special populations",
+    "feeding adaptations",
+    "food safety",
+    "malnutrition triage",
+    "developmental readiness"
+  ],
+  "reference_quote": "Preterm or low birth weight (LBW) infants should begin complementary foods when developmentally ready, often guided by corrected age as well as chronological age. (Reference 1)",
+  "document_key_topics": [
+    "Complementary feeding for preterm and LBW infants",
+    "Feeding adaptations for neurodisabilities",
+    "HIV-exposed infant feeding guidelines",
+    "Food safety for immunocompromised children"
+  ],
+  "chunk_heading": "COMPLEMENTARY FEEDING 6\u201324 MONTHS;MALNUTRITION TRIAGE AND SPECIAL POPULATIONS;SPECIAL POPULATION MODIFICATIONS IN COMPLEMENTARY FEEDING;",
+  "topic": "COMPLEMENTARY FEEDING 6\u201324 MONTHS",
+  "subtopic": "MALNUTRITION TRIAGE AND SPECIAL POPULATIONS",
+  "sub_subtopic": "SPECIAL POPULATION MODIFICATIONS IN COMPLEMENTARY FEEDING",
+  "heading_path": "COMPLEMENTARY FEEDING 6\u201324 MONTHS;MALNUTRITION TRIAGE AND SPECIAL POPULATIONS;SPECIAL POPULATION MODIFICATIONS IN COMPLEMENTARY FEEDING;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u008f2"
+}

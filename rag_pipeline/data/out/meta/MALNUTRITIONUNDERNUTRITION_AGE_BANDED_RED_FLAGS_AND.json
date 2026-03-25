@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section outlines age-specific red flags and disposition tiers for undernutrition screening, emphasizing physiological and complication-based criteria for infants, children, and adolescents to guide immediate, urgent, or planned interventions.",
+  "learning_objectives": [
+    "Understand the three-tier disposition framework for malnutrition screening results.",
+    "Identify age-specific red flags for severe acute malnutrition (SAM) and complications.",
+    "Learn criteria for outpatient eligibility and referral decisions based on medical stability and appetite.",
+    "Recognize signs that necessitate shifting focus from nutrition-only to targeted disease evaluation."
+  ],
+  "key_facts": [
+    "Infants under 6 months: Tier 1 disposition for IMNCI danger signs, bilateral pitting oedema, hypoglycemia, hypothermia, severe dehydration, or inability to feed effectively.",
+    "Children 6\u201359 months: Tier 1 disposition for nutritional oedema, visible severe wasting, or complicated SAM features like lethargy, shock, or severe dehydration.",
+    "Children and adolescents 5\u201319 years: Severe thinness with hemodynamic instability, syncope, dehydration, or suspected severe anemia requires Tier 1 escalation.",
+    "Persistent fever or cough lasting \u22652 weeks, documented weight loss, or failure to gain weight are red flags for targeted disease evaluation.",
+    "Outpatient eligibility for SAM management depends on appetite and medical stability; uncertainty mandates referral as complicated SAM."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Malnutrition",
+    "Undernutrition",
+    "Severe Acute Malnutrition",
+    "Infant Nutrition Disorders",
+    "Child Nutrition Disorders",
+    "Adolescent Health",
+    "Screening",
+    "Referral and Consultation"
+  ],
+  "tags_custom": [
+    "SAM management",
+    "Age-specific guidelines",
+    "Disposition tiers",
+    "Red flag criteria",
+    "Nutrition screening"
+  ],
+  "reference_quote": "Infants under six months: tier 1 is indicated for any IMNCI general danger sign, bilateral pitting oedema, suspected sepsis, hypoglycemia, hypothermia, severe dehydration, convulsions, or inability to feed effectively. (IMNCI Chart Booklet for Medical Officers, 2023)",
+  "document_key_topics": [
+    "Age-specific red flags for malnutrition",
+    "Disposition tiers for undernutrition screening",
+    "Criteria for outpatient versus referral management",
+    "Integration of disease evaluation in malnutrition pathways"
+  ],
+  "chunk_heading": "MALNUTRITION\u2014UNDERNUTRITION: SCREENING & CLASSIFICATION;AGE BANDED RED FLAGS AND DISPOSITION DECISIONS AFTER SCREENING;",
+  "topic": "MALNUTRITION\u2014UNDERNUTRITION: SCREENING & CLASSIFICATION",
+  "subtopic": "AGE BANDED RED FLAGS AND DISPOSITION DECISIONS AFTER SCREENING",
+  "sub_subtopic": null,
+  "heading_path": "MALNUTRITION\u2014UNDERNUTRITION: SCREENING & CLASSIFICATION;AGE BANDED RED FLAGS AND DISPOSITION DECISIONS AFTER SCREENING;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "2n"
+}

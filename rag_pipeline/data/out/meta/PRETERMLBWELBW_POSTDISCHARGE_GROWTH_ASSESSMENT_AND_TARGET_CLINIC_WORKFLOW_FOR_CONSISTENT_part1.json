@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "This section focuses on clinic workflows for consistent growth charting and documentation in preterm, LBW, and ELBW infants post-discharge, emphasizing corrected age, growth metrics, feeding plans, and follow-up schedules.",
+  "learning_objectives": [
+    "Understand the importance of corrected age in growth charting for preterm infants.",
+    "Learn how to interpret z-scores for weight, length, and head circumference in growth assessments.",
+    "Develop effective feeding plans for preterm/LBW/ELBW infants based on growth metrics and intake data.",
+    "Implement clinic workflows for consistent documentation and follow-up of growth progress."
+  ],
+  "key_facts": [
+    "Corrected age is essential for accurate growth charting in preterm infants; example: 8 weeks chronological, 2 weeks corrected.",
+    "WHO growth charts are recommended for tracking growth using corrected age.",
+    "Z-scores for weight, length, and head circumference: -1.2/-1.0/-0.5, with weight showing a +0.3 z improvement since the last visit.",
+    "Feeding plan: 8 feeds/day, breastfeeding plus 20 mL expressed breast milk (EBM) top-up after each feed.",
+    "Follow-up plan: reweigh in 72 hours and reassess after 7 days."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Infant, Premature",
+    "Low Birth Weight Infant",
+    "Growth Charts",
+    "Nutritional Assessment",
+    "Breastfeeding",
+    "Postnatal Care",
+    "Head Circumference",
+    "Weight Gain"
+  ],
+  "tags_custom": [
+    "corrected age",
+    "growth monitoring",
+    "feeding plans",
+    "clinic workflow",
+    "z-scores"
+  ],
+  "reference_quote": "Corrected age for preemies is critical for accurate growth tracking \u2014 American Academy of Pediatrics, HealthyChildren.",
+  "document_key_topics": [
+    "Corrected age and growth charting for preterm infants",
+    "Feeding strategies for LBW/ELBW infants",
+    "Clinic workflows for consistent documentation"
+  ],
+  "chunk_heading": "PRETERM/LBW/ELBW POST-DISCHARGE NUTRITION;GROWTH ASSESSMENT AND TARGET SETTING AFTER DISCHARGE;CLINIC WORKFLOW FOR CONSISTENT GROWTH CHARTING AND DOCUMENTATION;",
+  "topic": "PRETERM/LBW/ELBW POST-DISCHARGE NUTRITION",
+  "subtopic": "GROWTH ASSESSMENT AND TARGET SETTING AFTER DISCHARGE",
+  "sub_subtopic": "CLINIC WORKFLOW FOR CONSISTENT GROWTH CHARTING AND DOCUMENTATION",
+  "heading_path": "PRETERM/LBW/ELBW POST-DISCHARGE NUTRITION;GROWTH ASSESSMENT AND TARGET SETTING AFTER DISCHARGE;CLINIC WORKFLOW FOR CONSISTENT GROWTH CHARTING AND DOCUMENTATION;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1n2.2"
+}

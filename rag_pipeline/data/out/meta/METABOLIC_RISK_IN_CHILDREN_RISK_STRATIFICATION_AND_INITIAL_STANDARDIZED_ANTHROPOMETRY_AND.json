@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Standardized anthropometry and targeted physical exams are essential for metabolic risk stratification in children, focusing on waist-to-height ratio, Tanner staging, and specific physical findings to guide downstream evaluations.",
+  "learning_objectives": [
+    "Understand the importance of standardized anthropometric measurements in pediatric metabolic risk assessment.",
+    "Learn to identify physical exam findings that trigger specific diagnostic pathways, such as acanthosis nigricans or hepatomegaly.",
+    "Recognize the role of pubertal staging in interpreting metabolic risk markers during adolescence.",
+    "Apply screening heuristics like waist-to-height ratio >0.5 in the absence of waist percentiles."
+  ],
+  "key_facts": [
+    "Waist-to-height ratio >0.5 can be used as a screening heuristic for metabolic risk in children.",
+    "Pubertal insulin resistance during mid-puberty may transiently worsen triglycerides and glycemia, requiring earlier follow-up for borderline values.",
+    "Acanthosis nigricans indicates insulin resistance and should prompt dysglycemia evaluation, but not routine fasting insulin or HOMA-IR testing.",
+    "Hepatomegaly or right upper quadrant tenderness should trigger MASLD exclusion work-up rather than reliance on ultrasound alone.",
+    "OSA evaluation is recommended for children with snoring, witnessed apneas, daytime sleepiness, or poor school performance."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Anthropometry",
+    "Metabolic Syndrome",
+    "Insulin Resistance",
+    "Puberty",
+    "Polycystic Ovary Syndrome",
+    "Obstructive Sleep Apnea",
+    "Hypercholesterolemia",
+    "Nonalcoholic Fatty Liver Disease"
+  ],
+  "tags_custom": [
+    "pediatric screening",
+    "metabolic risk factors",
+    "physical examination",
+    "pubertal assessment",
+    "targeted diagnostics"
+  ],
+  "reference_quote": "Anthropometry should be standardized so trends drive decisions rather than noise. Measure waist in a standing child at the end of normal expiration using a stretch-resistant tape kept horizontal and snug without compressing skin. \u2014 IAP guidelines on childhood obesity, 2023",
+  "document_key_topics": [
+    "Standardized anthropometry in children",
+    "Pubertal staging and metabolic risk",
+    "Physical exam findings and diagnostic pathways",
+    "Screening for OSA and vascular complications"
+  ],
+  "chunk_heading": "METABOLIC RISK IN CHILDREN;RISK STRATIFICATION AND INITIAL SCREENING DECISIONS;STANDARDIZED ANTHROPOMETRY AND TARGETED PHYSICAL EXAMINATION;",
+  "topic": "METABOLIC RISK IN CHILDREN",
+  "subtopic": "RISK STRATIFICATION AND INITIAL SCREENING DECISIONS",
+  "sub_subtopic": "STANDARDIZED ANTHROPOMETRY AND TARGETED PHYSICAL EXAMINATION",
+  "heading_path": "METABOLIC RISK IN CHILDREN;RISK STRATIFICATION AND INITIAL SCREENING DECISIONS;STANDARDIZED ANTHROPOMETRY AND TARGETED PHYSICAL EXAMINATION;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1l4"
+}

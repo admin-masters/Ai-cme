@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "Guidelines for managing organic acidemias and fatty acid oxidation disorders (FAOD) emphasize fasting avoidance, emergency feeding plans, and rapid carbohydrate provision to prevent metabolic decompensation.",
+  "learning_objectives": [
+    "Understand the importance of fasting avoidance in managing oxidation disorders.",
+    "Learn emergency feeding strategies for organic acidemias and FAOD.",
+    "Recognize the need for early IV dextrose in FAOD decompensation.",
+    "Identify key hospital management steps for acute metabolic crises."
+  ],
+  "key_facts": [
+    "Fasting avoidance is critical to prevent metabolic decompensation in organic acidemias and FAOD.",
+    "Emergency regimens include increased carbohydrate density and feeding frequency, including overnight feeds.",
+    "In FAOD, ketosis is harmful during decompensation; early IV dextrose is lifesaving.",
+    "Hospital protocols include high-rate IV glucose, monitoring glucose, electrolytes, bicarbonate, ammonia, and ketones.",
+    "Families should carry emergency letters and know nearby hospitals for rapid care access.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Oxidation-Reduction",
+    "Fatty Acid Metabolism",
+    "Organic Acidemias",
+    "Fasting",
+    "Emergency Medical Services",
+    "Carbohydrate Metabolism",
+    "Ketosis",
+    "Dextrose"
+  ],
+  "tags_custom": [
+    "FAOD management",
+    "emergency feeding plans",
+    "metabolic decompensation",
+    "IV glucose protocols"
+  ],
+  "reference_quote": "In FAOD, rapid provision of carbohydrate is lifesaving; if the child cannot maintain oral intake, early hospital evaluation for IV dextrose is indicated.",
+  "document_key_topics": [
+    "Fasting avoidance in oxidation disorders",
+    "Emergency feeding plans for organic acidemias and FAOD",
+    "Hospital management protocols for metabolic crises"
+  ],
+  "chunk_heading": "OXIDATION DISORDERS;",
+  "topic": "OXIDATION DISORDERS",
+  "subtopic": "General",
+  "sub_subtopic": null,
+  "heading_path": "OXIDATION DISORDERS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "3a"
+}

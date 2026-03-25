@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "This section outlines protein quantity and quality guidelines for children, emphasizing age-specific daily targets, amino acid balance, and dietary strategies for growth, obesity, and clinical exceptions.",
+  "learning_objectives": [
+    "Understand age-specific protein requirements for children from infancy to adolescence.",
+    "Learn strategies to ensure high-quality protein intake in cereal-dominant diets.",
+    "Recognize clinical scenarios requiring adjusted protein density, such as preterm infants or chronic kidney disease.",
+    "Identify practical approaches to balance protein intake in cases of growth faltering or obesity."
+  ],
+  "key_facts": [
+    "Daily protein targets: 0\u20136 months: 8 g, 6\u201312 months: 10.5 g, 1\u20133 years: 12.5 g, 4\u20136 years: 16 g, 7\u20139 years: 23 g, 10\u201312 years: 32 g, late adolescence: 46 g/day for girls, 55 g/day for boys.",
+    "Convert grams/day to g/kg/day using the child\u2019s weight to avoid overprescription or underrecognition of deficits.",
+    "High-quality protein sources include milk, curd, paneer, egg, fish, chicken, or vegetarian combinations like rice with dal and roti with chana.",
+    "Growth faltering requires balanced energy plus protein, avoiding reliance on protein powders.",
+    "In obesity, protein intake should be maintained while reducing free sugars and ultra-processed snacks.",
+    "Clinical exceptions include higher protein density for preterm infants and specialist targets for chronic kidney disease."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Dietary Proteins",
+    "Child Nutrition",
+    "Amino Acids",
+    "Growth Disorders",
+    "Obesity",
+    "Vegetarian Diet",
+    "Chronic Kidney Disease",
+    "Infant Nutrition"
+  ],
+  "tags_custom": [
+    "protein requirements",
+    "childhood nutrition",
+    "growth faltering",
+    "dietary counseling",
+    "clinical nutrition"
+  ],
+  "reference_quote": "Convert grams/day to g/kg/day using the child\u2019s current weight; this prevents overprescribing protein in small children and underrecognizing deficits in adolescents with low body weight. (Source: ICMR-NIN 2020 brief note)",
+  "document_key_topics": [
+    "Age-specific protein requirements in childhood",
+    "Strategies for high-quality protein intake in cereal-dominant diets",
+    "Protein considerations in growth faltering and obesity",
+    "Clinical exceptions for protein density in special populations"
+  ],
+  "chunk_heading": "MACRONUTRIENT NUTRITION IN CHILDHOOD;PROTEIN QUANTITY AND QUALITY PRESCRIPTION ACROSS CHILDHOOD;",
+  "topic": "MACRONUTRIENT NUTRITION IN CHILDHOOD",
+  "subtopic": "PROTEIN QUANTITY AND QUALITY PRESCRIPTION ACROSS CHILDHOOD",
+  "sub_subtopic": null,
+  "heading_path": "MACRONUTRIENT NUTRITION IN CHILDHOOD;PROTEIN QUANTITY AND QUALITY PRESCRIPTION ACROSS CHILDHOOD;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "3q.1"
+}

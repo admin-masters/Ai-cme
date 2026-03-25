@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section outlines tiered feeding plans for preterm, LBW, and ELBW infants post-discharge, emphasizing measurable top-ups, reassessment intervals, and tailored approaches based on risk levels and growth metrics.",
+  "learning_objectives": [
+    "Understand tiered feeding plans for preterm/LBW/ELBW infants post-discharge.",
+    "Learn how to adjust feeding strategies based on intake, tolerance, and growth.",
+    "Identify reassessment intervals and monitoring tools for different risk levels.",
+    "Recognize specific nutritional needs for high-risk infants with conditions like BPD or NEC."
+  ],
+  "key_facts": [
+    "Tier 1: Start with 140\u2013160 mL/kg/day and 8 feeds/day; reassess within 48\u201372 hours if top-ups are used.",
+    "Tier 2: Aim for 150\u2013160 mL/kg/day with measured top-ups of 15\u201325 mL after feeds; reassess within 48\u201372 hours for higher-risk infants.",
+    "Tier 3: High-risk infants require measurable daily volume targets, mixed oral/expressed feeds, and early review within 24\u201372 hours.",
+    "Top-ups are escalated if feeds exceed 30 minutes, urine output falls, or weight gain is below target.",
+    "High-risk infants may need labs such as electrolytes (with diuretics) and bone screens."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Infant, Premature",
+    "Low Birth Weight Infant",
+    "Enteral Nutrition",
+    "Breastfeeding",
+    "Growth Monitoring",
+    "Nutritional Support",
+    "Risk Assessment",
+    "Post-Discharge Care"
+  ],
+  "tags_custom": [
+    "tiered feeding plans",
+    "preterm nutrition",
+    "caregiver monitoring",
+    "growth reassessment",
+    "high-risk infant care"
+  ],
+  "reference_quote": "A tiered 'plan library' reduces unsafe improvisation and standardizes reassessment timing. Tiers are adjusted after the first follow-up based on measured intake, tolerance, and proportional growth.",
+  "document_key_topics": [
+    "Post-discharge nutrition for preterm/LBW/ELBW infants",
+    "Tiered feeding plans with measurable top-ups",
+    "Reassessment intervals based on risk levels",
+    "Monitoring tools for caregivers"
+  ],
+  "chunk_heading": "PRETERM/LBW/ELBW POST-DISCHARGE NUTRITION;DISCHARGE FEEDING PLAN AND CAREGIVER MONITORING TOOLS;TIERED MEASURABLE TOP-UP PLANS WITH REASSESSMENT INTERVALS;",
+  "topic": "PRETERM/LBW/ELBW POST-DISCHARGE NUTRITION",
+  "subtopic": "DISCHARGE FEEDING PLAN AND CAREGIVER MONITORING TOOLS",
+  "sub_subtopic": "TIERED MEASURABLE TOP-UP PLANS WITH REASSESSMENT INTERVALS",
+  "heading_path": "PRETERM/LBW/ELBW POST-DISCHARGE NUTRITION;DISCHARGE FEEDING PLAN AND CAREGIVER MONITORING TOOLS;TIERED MEASURABLE TOP-UP PLANS WITH REASSESSMENT INTERVALS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1j5"
+}

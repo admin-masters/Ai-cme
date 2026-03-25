@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "This section outlines expected clinical response timelines and escalation triggers for various micronutrient therapies, emphasizing reassessment protocols and addressing nonresponse through adherence checks and diagnostic refinement.",
+  "learning_objectives": [
+    "Understand expected clinical response timelines for key micronutrient therapies such as iron, vitamin B12, and zinc.",
+    "Learn standardized reassessment protocols to identify and address treatment nonresponse.",
+    "Recognize escalation triggers and follow-up actions for specific micronutrient deficiencies.",
+    "Apply practical guidelines to optimize adherence and avoid unnecessary repeat testing."
+  ],
+  "key_facts": [
+    "Iron therapy: Expect hemoglobin rise within 2\u20134 weeks; reassess adherence, dose, and infection before escalating.",
+    "Rickets therapy: Symptom improvement in 1\u20132 weeks; biochemical/radiologic healing over 4\u201312 weeks; reassess biochemistry at 8\u201312 weeks.",
+    "Vitamin B12 therapy: Reticulocytosis occurs within days; hemoglobin improves over weeks; neurologic recovery may take months.",
+    "Vitamin A for xerophthalmia: Clinical stabilization begins within days; missed doses (day 2 or 14) are common causes of failure.",
+    "Zinc for diarrhea: Modest reduction in duration and recurrence; persistent diarrhea beyond 14 days requires evaluation for chronic causes.",
+    "Nonresponse rule: Confirm formulation, dose, timing, and adherence before ordering new tests or escalating treatment."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Micronutrients",
+    "Iron-Deficiency Anemia",
+    "Rickets",
+    "Vitamin B12 Deficiency",
+    "Vitamin A Deficiency",
+    "Zinc",
+    "Diarrhea",
+    "Treatment Failure"
+  ],
+  "tags_custom": [
+    "clinical response timelines",
+    "treatment nonresponse",
+    "reassessment protocols",
+    "micronutrient therapy"
+  ],
+  "reference_quote": "A practical non-response rule across nutrients is to check execution before ordering new tests: confirm the right formulation, dose, timing, and adherence; then reassess the diagnosis and look for the mechanism that blocks response.",
+  "document_key_topics": [
+    "Expected response timelines for micronutrient therapies",
+    "Reassessment protocols for treatment nonresponse",
+    "Escalation triggers for unresolved deficiencies"
+  ],
+  "chunk_heading": "MICRONUTRIENT NUTRITION;STANDARDIZED REASSESSMENT AND NONRESPONSE DECISION CHECKPOINTS;EXPECTED RESPONSE TIMELINES AND ESCALATION TRIGGERS;",
+  "topic": "MICRONUTRIENT NUTRITION",
+  "subtopic": "STANDARDIZED REASSESSMENT AND NONRESPONSE DECISION CHECKPOINTS",
+  "sub_subtopic": "EXPECTED RESPONSE TIMELINES AND ESCALATION TRIGGERS",
+  "heading_path": "MICRONUTRIENT NUTRITION;STANDARDIZED REASSESSMENT AND NONRESPONSE DECISION CHECKPOINTS;EXPECTED RESPONSE TIMELINES AND ESCALATION TRIGGERS;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "1\u00a26"
+}

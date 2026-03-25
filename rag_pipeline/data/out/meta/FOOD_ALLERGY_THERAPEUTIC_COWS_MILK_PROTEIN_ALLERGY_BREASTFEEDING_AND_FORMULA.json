@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "Management of CMPA in infants emphasizes breastfeeding with maternal dietary adjustments or severity-based formula selection, avoiding unsafe substitutes like unmodified animal milk.",
+  "learning_objectives": [
+    "Understand the role of breastfeeding and maternal dietary elimination in managing CMPA.",
+    "Identify appropriate formula options based on CMPA severity and response.",
+    "Recognize unsafe feeding practices and their risks in CMPA management."
+  ],
+  "key_facts": [
+    "Breastfeeding is the first-line approach for CMPA management when feasible.",
+    "Maternal elimination diets require calcium and vitamin D supplementation to prevent deficiencies.",
+    "Symptom improvement in FPIAP often occurs within 48\u201372 hours of dietary elimination.",
+    "Extensively hydrolyzed formula (eHF) is recommended as the initial substitute formula, with escalation to amino acid formula (AAF) for severe cases or non-response after 14 days.",
+    "Soy formula is only recommended after 6 months of age due to cross-allergy risks, especially in infants with symptoms starting before 6 months.",
+    "Unmodified goat, buffalo, or sheep milk and diluted milk or rice-water feeding are unsafe and can lead to growth faltering and nutrient deficiencies."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Food Hypersensitivity",
+    "Milk Hypersensitivity",
+    "Breastfeeding",
+    "Infant Formula",
+    "Dietary Proteins",
+    "Soybean Proteins",
+    "Calcium Deficiency",
+    "Vitamin D Deficiency"
+  ],
+  "tags_custom": [
+    "CMPA management",
+    "maternal elimination diet",
+    "infant nutrition",
+    "formula selection"
+  ],
+  "reference_quote": "Indian guidance recommends starting with extensively hydrolyzed formula (eHF) for most infants; escalate to amino acid formula (AAF) for severe disease or lack of response to eHF after an adequately strict trial (about 14 days).",
+  "document_key_topics": [
+    "Breastfeeding in CMPA management",
+    "Maternal elimination diets and supplementation",
+    "Formula selection for CMPA",
+    "Unsafe feeding practices in CMPA"
+  ],
+  "chunk_heading": "FOOD ALLERGY & THERAPEUTIC ELIMINATION DIETS;COWS MILK PROTEIN ALLERGY PHENOTYPE MANAGEMENT;BREASTFEEDING AND FORMULA SELECTION IN CMPA;",
+  "topic": "FOOD ALLERGY & THERAPEUTIC ELIMINATION DIETS",
+  "subtopic": "COWS MILK PROTEIN ALLERGY PHENOTYPE MANAGEMENT",
+  "sub_subtopic": "BREASTFEEDING AND FORMULA SELECTION IN CMPA",
+  "heading_path": "FOOD ALLERGY & THERAPEUTIC ELIMINATION DIETS;COWS MILK PROTEIN ALLERGY PHENOTYPE MANAGEMENT;BREASTFEEDING AND FORMULA SELECTION IN CMPA;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1z2"
+}

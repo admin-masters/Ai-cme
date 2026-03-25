@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section addresses co-management strategies for medication-associated weight gain in pediatric patients, emphasizing baseline documentation, metabolic monitoring, psychiatric coordination, lifestyle interventions, and adjunctive use of metformin as per guidelines.",
+  "learning_objectives": [
+    "Understand the role of medication-associated weight gain in pediatric obesity and its management.",
+    "Learn the importance of baseline documentation and metabolic monitoring in weight-promoting therapies.",
+    "Explore co-management strategies with psychiatry to balance psychiatric stability and weight management.",
+    "Evaluate the role of metformin as an adjunct in managing antipsychotic-associated weight gain."
+  ],
+  "key_facts": [
+    "Atypical antipsychotics, antidepressants, mood stabilizers, and glucocorticoids can cause rapid weight gain.",
+    "Baseline documentation should include weight, height, BMI category, BP, and waist circumference.",
+    "Metabolic monitoring should include glucose or HbA1c, lipids, and ALT, with schedules based on medication risk.",
+    "Metformin can modestly attenuate antipsychotic-associated weight gain in youth, as noted in the IAP guideline.",
+    "Metformin use requires slow titration and monitoring of renal function and long-term vitamin B12 status."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Pediatric Obesity",
+    "Weight Gain",
+    "Antipsychotic Agents",
+    "Metformin",
+    "Metabolic Monitoring",
+    "Psychiatry",
+    "Lifestyle Interventions",
+    "Drug-Related Side Effects and Adverse Reactions"
+  ],
+  "tags_custom": [
+    "medication-associated weight gain",
+    "pediatric psychiatry",
+    "obesity co-management",
+    "metformin use",
+    "lifestyle modification"
+  ],
+  "reference_quote": "The IAP obesity guideline notes metformin as an adjunct option in selected settings, usually with specialist-linked monitoring.",
+  "document_key_topics": [
+    "Medication-associated weight gain in pediatric obesity",
+    "Baseline documentation and metabolic monitoring",
+    "Psychiatric co-management for weight-promoting medications",
+    "Adjunctive use of metformin in weight management"
+  ],
+  "chunk_heading": "OVERNUTRITION & OBESITY MANAGEMENT;SPECIAL POPULATION MODIFICATIONS AND SAFETY DOCUMENTATION;MEDICATION-ASSOCIATED WEIGHT GAIN CO-MANAGEMENT WITH PSYCHIATRY;",
+  "topic": "OVERNUTRITION & OBESITY MANAGEMENT",
+  "subtopic": "SPECIAL POPULATION MODIFICATIONS AND SAFETY DOCUMENTATION",
+  "sub_subtopic": "MEDICATION-ASSOCIATED WEIGHT GAIN CO-MANAGEMENT WITH PSYCHIATRY",
+  "heading_path": "OVERNUTRITION & OBESITY MANAGEMENT;SPECIAL POPULATION MODIFICATIONS AND SAFETY DOCUMENTATION;MEDICATION-ASSOCIATED WEIGHT GAIN CO-MANAGEMENT WITH PSYCHIATRY;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1\u008c2"
+}

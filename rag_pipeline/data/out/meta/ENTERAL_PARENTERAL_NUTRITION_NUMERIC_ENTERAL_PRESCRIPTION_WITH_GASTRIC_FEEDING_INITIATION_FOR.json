@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "Guidelines for initiating gastric feeding via bolus or continuous delivery, with specific numeric targets for infants, children, and preterm infants, including advancement strategies and precautions to minimize risks like aspiration and emesis.",
+  "learning_objectives": [
+    "Understand the numeric targets for initiating and advancing gastric bolus and continuous feeding in infants and children.",
+    "Identify appropriate feeding methods and precautions for reflux-prone or aspiration-risk patients.",
+    "Learn specific feeding recommendations for preterm and very low birth weight (VLBW) infants, including tube preferences and advancement rates."
+  ],
+  "key_facts": [
+    "Bolus feeding initiation: ~10\u201315 mL/kg per feed every 2\u20133 hours for infants (0\u201312 months), ~5\u201310 mL/kg per feed every 2\u20133 hours for children (1\u20136 years).",
+    "Continuous feeding initiation: ~1\u20132 mL/kg/hour in infants, ~1 mL/kg/hour in older children, with advancement by ~0.5\u20131 mL/kg/hour every 6\u201324 hours.",
+    "Preterm VLBW infants: Daily feed volume advancement of ~18\u201340 mL/kg/day is recommended.",
+    "OG tubes are preferred over NG tubes for preterm infants in Indian guidance.",
+    "Routine pre-feed abdominal girth measurement or gastric aspiration is discouraged unless other intolerance signs are present.",
+    "Small green residuals (<2\u20133 mL) alone should not delay feed advancement unless accompanied by additional red flags."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Enteral Nutrition",
+    "Parenteral Nutrition",
+    "Gastric Feeding",
+    "Bolus Feeding",
+    "Continuous Feeding",
+    "Preterm Infants",
+    "Very Low Birth Weight",
+    "Aspiration Prevention"
+  ],
+  "tags_custom": [
+    "feeding advancement",
+    "pediatric nutrition",
+    "reflux management",
+    "preterm feeding"
+  ],
+  "reference_quote": "Stable preterm VLBW infants may advance daily feed volumes roughly ~18\u201340 mL/kg/day, and routine pre-feed abdominal girth measurement or routine gastric aspiration is discouraged in the absence of other intolerance signs.",
+  "document_key_topics": [
+    "Gastric bolus feeding initiation and advancement",
+    "Continuous gastric feeding guidelines",
+    "Feeding strategies for preterm and VLBW infants",
+    "Precautions to prevent aspiration and emesis"
+  ],
+  "chunk_heading": "ENTERAL & PARENTERAL NUTRITION;NUMERIC ENTERAL PRESCRIPTION WITH DAY 0\u2013 3 ADVANCEMENT TARGETS;GASTRIC FEEDING INITIATION FOR BOLUS AND CONTINUOUS DELIVERY;",
+  "topic": "ENTERAL & PARENTERAL NUTRITION",
+  "subtopic": "NUMERIC ENTERAL PRESCRIPTION WITH DAY 0\u2013 3 ADVANCEMENT TARGETS",
+  "sub_subtopic": "GASTRIC FEEDING INITIATION FOR BOLUS AND CONTINUOUS DELIVERY",
+  "heading_path": "ENTERAL & PARENTERAL NUTRITION;NUMERIC ENTERAL PRESCRIPTION WITH DAY 0\u2013 3 ADVANCEMENT TARGETS;GASTRIC FEEDING INITIATION FOR BOLUS AND CONTINUOUS DELIVERY;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1k4"
+}

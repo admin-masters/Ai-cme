@@ -1,0 +1,46 @@
+{
+  "chunk_summary": "Standardized admission orders and monitoring charts are critical for preventing complications and ensuring effective inpatient stabilization during the first 24\u201372 hours of severe acute malnutrition (SAM) care.",
+  "learning_objectives": [
+    "Understand the importance of standardized admission orders in SAM inpatient care.",
+    "Learn the essential elements of monitoring charts for early detection of deterioration in SAM patients.",
+    "Identify actionable steps for feeding, warming, and antibiotic administration in the first 72 hours of SAM management."
+  ],
+  "key_facts": [
+    "Admission orders should include bedside glucose checks and treatment if <54 mg/dL or symptomatic.",
+    "Start F-75 therapeutic feeding immediately, using weight-based charts for 2-hourly feeds day and night.",
+    "Routine potassium and magnesium supplementation with sodium restriction is recommended.",
+    "Monitoring charts must track temperature, pulse, respiratory rate, mental status, feed intake, and signs of overhydration or heart failure.",
+    "Escalation rules include intake <80% of prescribed volume, recurrent hypoglycemia, and failure to regain appetite by day 4."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Malnutrition",
+    "Severe Acute Malnutrition",
+    "Inpatient Care",
+    "Monitoring",
+    "Therapeutic Feeding",
+    "Antibiotics",
+    "Electrolyte Balance"
+  ],
+  "tags_custom": [
+    "SAM stabilization",
+    "admission protocols",
+    "monitoring guidelines",
+    "early warning signs",
+    "feeding protocols"
+  ],
+  "reference_quote": "Use a pre-printed or electronic admission order set and a minimum monitoring chart so that feeding, warming, and antibiotic steps occur without delay. \u2014 National Health Mission, Participant manual for facility-based care of severe acute malnutrition",
+  "document_key_topics": [
+    "Standardized admission orders for SAM care",
+    "Monitoring chart fields for early deterioration detection",
+    "Feeding and warming protocols in SAM management"
+  ],
+  "chunk_heading": "SEVERE  ACUTE  MALNUTRITION-(SAM)  MANAGEMENT;INPATIENT  STABILIZATION AND   EARLY  MONITORING;STANDARDIZED  ADMISSION  ORDERS  AND MONITORING CHART  FIELDS;",
+  "topic": "SEVERE  ACUTE  MALNUTRITION-(SAM)  MANAGEMENT",
+  "subtopic": "INPATIENT  STABILIZATION AND   EARLY  MONITORING",
+  "sub_subtopic": "STANDARDIZED  ADMISSION  ORDERS  AND MONITORING CHART  FIELDS",
+  "heading_path": "SEVERE  ACUTE  MALNUTRITION-(SAM)  MANAGEMENT;INPATIENT  STABILIZATION AND   EARLY  MONITORING;STANDARDIZED  ADMISSION  ORDERS  AND MONITORING CHART  FIELDS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "3a1"
+}

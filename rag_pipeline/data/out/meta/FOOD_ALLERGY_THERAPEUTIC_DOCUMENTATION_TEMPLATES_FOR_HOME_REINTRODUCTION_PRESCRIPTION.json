@@ -1,0 +1,45 @@
+{
+  "chunk_summary": "This template provides stepwise instructions for home reintroduction of low-risk food allergens, emphasizing individualized plans, stop rules, and follow-up to ensure safety and efficacy.",
+  "learning_objectives": [
+    "Understand the stepwise approach to home reintroduction of low-risk food allergens.",
+    "Identify stop rules and emergency protocols for adverse reactions during reintroduction.",
+    "Learn how to document and communicate reintroduction plans effectively to caregivers."
+  ],
+  "key_facts": [
+    "Home reintroduction should be individualized and documented to prevent fear-driven avoidance.",
+    "Step 1: Taste amount for 1\u20133 days; Step 2: Small portion for 4\u20137 days; Step 3: Age-appropriate portion in week 2.",
+    "Stop reintroduction and contact the clinic if symptoms like repetitive vomiting, lethargy, or facial swelling occur.",
+    "Include tolerated foods 2\u20133 times per week to maintain exposure.",
+    "Upgrade to supervised oral food challenge (OFC) for prior anaphylaxis, suspected FPIES, or high caregiver anxiety."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Food Hypersensitivity",
+    "Elimination Diet",
+    "Oral Food Challenge",
+    "Anaphylaxis",
+    "Gastrointestinal Diseases",
+    "Caregiver Education",
+    "Emergency Treatment"
+  ],
+  "tags_custom": [
+    "home reintroduction",
+    "low-risk food allergy",
+    "stepwise protocol",
+    "caregiver guidance"
+  ],
+  "reference_quote": "Home reintroduction or 'ladder' instructions should be written and individualized; verbal advice alone leads to fear-driven avoidance.",
+  "document_key_topics": [
+    "Stepwise home reintroduction protocol for low-risk food allergies",
+    "Stop rules and emergency management during reintroduction",
+    "Guidelines for maintaining exposure to tolerated foods"
+  ],
+  "chunk_heading": "FOOD ALLERGY & THERAPEUTIC ELIMINATION DIETS;DOCUMENTATION TEMPLATES FOR ELIMINATION AND REINTRODUCTION;HOME REINTRODUCTION PRESCRIPTION TEMPLATE FOR LOW-RISK CASES;",
+  "topic": "FOOD ALLERGY & THERAPEUTIC ELIMINATION DIETS",
+  "subtopic": "DOCUMENTATION TEMPLATES FOR ELIMINATION AND REINTRODUCTION",
+  "sub_subtopic": "HOME REINTRODUCTION PRESCRIPTION TEMPLATE FOR LOW-RISK CASES",
+  "heading_path": "FOOD ALLERGY & THERAPEUTIC ELIMINATION DIETS;DOCUMENTATION TEMPLATES FOR ELIMINATION AND REINTRODUCTION;HOME REINTRODUCTION PRESCRIPTION TEMPLATE FOR LOW-RISK CASES;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u00a52"
+}

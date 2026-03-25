@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "This section provides a worked example for staging IAP Class 2 and Class 3 obesity in children using standardized anthropometry and chart-based diagnosis, emphasizing accurate calculations and documentation for clinical decision-making.",
+  "learning_objectives": [
+    "Understand the IAP obesity staging system for Class 2 and Class 3 using percent-of-cutoff calculations.",
+    "Learn how to use extended IAP tables for age- and sex-specific obesity thresholds.",
+    "Recognize the importance of accurate height and BMI measurements in pediatric obesity staging.",
+    "Identify clinical implications of Class 2 and Class 3 obesity staging for comorbidity screening and management."
+  ],
+  "key_facts": [
+    "Class 2 obesity is defined as 120% to <140% of the adult-equivalent BMI cutoff (27 kg/m\u00b2).",
+    "Class 3 obesity is defined as \u2265140% of the adult-equivalent BMI cutoff (27 kg/m\u00b2).",
+    "Example: A 13-year-old boy with BMI 31.2 kg/m\u00b2 meets Class 2 obesity (125% of cutoff).",
+    "The adult-equivalent BMI cutoff for a 13-year-old boy is 24.9 kg/m\u00b2, with Class 2 and Class 3 thresholds at 29.9 kg/m\u00b2 and 34.9 kg/m\u00b2, respectively.",
+    "Accurate height measurement is critical near thresholds to avoid BMI misclassification.",
+    "Higher obesity classes require intensified screening for complications like OSA, depression, and orthopedic pain."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Obesity",
+    "Body Mass Index",
+    "Anthropometry",
+    "Pediatrics",
+    "Comorbidity",
+    "Obstructive Sleep Apnea",
+    "Growth Charts",
+    "Depression"
+  ],
+  "tags_custom": [
+    "IAP obesity staging",
+    "pediatric obesity management",
+    "percent-of-cutoff method",
+    "clinical decision-making",
+    "comorbidity screening"
+  ],
+  "reference_quote": "Class 2 obesity is approximately \u2021120% to <140% of the age- and sex-specific adult-equivalent 27 value, and class 3 obesity is \u2021140%.",
+  "document_key_topics": [
+    "IAP obesity staging system",
+    "Percent-of-cutoff method for BMI classification",
+    "Clinical implications of Class 2 and Class 3 obesity",
+    "Importance of accurate anthropometric measurements"
+  ],
+  "chunk_heading": "OVERNUTRITION & OBESITY MANAGEMENT;STANDARDIZED ANTHROPOMETRY AND CHART-BASED DIAGNOSIS;WORKED EXAMPLE FOR IAP CLASS 2 AND CLASS 3 OBESITY STAGING;",
+  "topic": "OVERNUTRITION & OBESITY MANAGEMENT",
+  "subtopic": "STANDARDIZED ANTHROPOMETRY AND CHART-BASED DIAGNOSIS",
+  "sub_subtopic": "WORKED EXAMPLE FOR IAP CLASS 2 AND CLASS 3 OBESITY STAGING",
+  "heading_path": "OVERNUTRITION & OBESITY MANAGEMENT;STANDARDIZED ANTHROPOMETRY AND CHART-BASED DIAGNOSIS;WORKED EXAMPLE FOR IAP CLASS 2 AND CLASS 3 OBESITY STAGING;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1f2.1"
+}

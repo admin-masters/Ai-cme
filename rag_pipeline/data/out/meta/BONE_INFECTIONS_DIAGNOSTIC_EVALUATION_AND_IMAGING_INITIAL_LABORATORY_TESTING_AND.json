@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "Guidelines for initial lab testing and microbiologic sampling in bone infections, emphasizing blood cultures, CRP monitoring, and early joint or bone sampling for accurate diagnosis and therapy planning.",
+  "learning_objectives": [
+    "Understand the role of blood cultures and CRP in diagnosing bone infections.",
+    "Learn the indications for joint aspiration and bone biopsy in septic arthritis and osteomyelitis.",
+    "Identify additional tests for chronic or atypical infections, including TB and fungal studies.",
+    "Recognize the importance of early sampling before antibiotic administration."
+  ],
+  "key_facts": [
+    "Blood cultures should be obtained before antibiotics and are positive in only a proportion of cases.",
+    "C-reactive protein (CRP) is preferred for serial monitoring due to its faster response compared to ESR.",
+    "Joint aspiration is critical in suspected septic arthritis and should ideally occur before antibiotics unless the child is unstable.",
+    "Image-guided bone biopsy is essential when blood cultures are negative or the child is not improving within 48-72 hours.",
+    "In chronic or indolent cases, mycobacterial and fungal studies, including TB testing, should be considered."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Bone Infections",
+    "Osteomyelitis",
+    "Septic Arthritis",
+    "C-Reactive Protein",
+    "Blood Culture",
+    "Joint Aspiration",
+    "Biopsy",
+    "Tuberculosis"
+  ],
+  "tags_custom": [
+    "Pediatric infections",
+    "Diagnostic strategies",
+    "Microbiologic sampling",
+    "Laboratory testing"
+  ],
+  "reference_quote": "Blood cultures are positive in only a proportion of children, but they remain essential because a bloodstream isolate can eliminate the need for more invasive sampling and allows early narrowing of therapy. (Source: Indian Academy of Pediatrics Consensus Statement)",
+  "document_key_topics": [
+    "Initial laboratory testing in bone infections",
+    "Role of blood cultures and CRP in diagnosis",
+    "Indications for joint aspiration and bone biopsy",
+    "Special considerations for chronic or atypical infections"
+  ],
+  "chunk_heading": "BONE INFECTIONS;DIAGNOSTIC EVALUATION AND IMAGING SELECTION;INITIAL LABORATORY TESTING AND MICROBIOLOGIC SAMPLING STRATEGY;",
+  "topic": "BONE INFECTIONS",
+  "subtopic": "DIAGNOSTIC EVALUATION AND IMAGING SELECTION",
+  "sub_subtopic": "INITIAL LABORATORY TESTING AND MICROBIOLOGIC SAMPLING STRATEGY",
+  "heading_path": "BONE INFECTIONS;DIAGNOSTIC EVALUATION AND IMAGING SELECTION;INITIAL LABORATORY TESTING AND MICROBIOLOGIC SAMPLING STRATEGY;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1i1"
+}

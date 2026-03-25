@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "Disease-specific enteral formulas in India focus on tailored macronutrient profiles for conditions like CKD, cholestasis, and chronic lung disease, with modular substitutions and safety protocols for blenderized tube feeding (BTF).",
+  "learning_objectives": [
+    "Understand the role of disease-specific enteral formulas in managing chronic conditions like CKD, cholestasis, and chronic lung disease.",
+    "Learn modular substitution strategies for macronutrients in standard formulas when disease-specific products are unavailable.",
+    "Recognize safety protocols for blenderized tube feeding (BTF) in pediatric patients, including food safety and hang time considerations."
+  ],
+  "key_facts": [
+    "In chronic kidney disease (CKD), controlled potassium and phosphate exposure, strict fluid budgeting, and protein needs are critical.",
+    "For cholestasis, focus on fat type tolerance and fat-soluble vitamin status; avoid dilution strategies that reduce micronutrient density.",
+    "In chronic lung disease with CO2 retention, avoid overfeeding, especially excess carbohydrates, and align calories to measured or estimated REE.",
+    "Standard polymeric formulas with modular additions are safer and cheaper alternatives to frequent formula switching.",
+    "Blenderized tube feeding (BTF) requires standardized recipes, strict food safety, and short hang times to prevent complications like tube blockage."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Enteral Nutrition",
+    "Parenteral Nutrition",
+    "Chronic Kidney Disease",
+    "Cholestasis",
+    "Respiratory Insufficiency",
+    "Blenderized Tube Feeding",
+    "Nutritional Support",
+    "Pediatric Nutrition"
+  ],
+  "tags_custom": [
+    "India-specific nutrition",
+    "Disease-specific formulas",
+    "Modular substitutions",
+    "BTF safety",
+    "Pediatric feeding protocols"
+  ],
+  "reference_quote": "In chronic kidney disease, energy-dense standard formulas with carefully prescribed modular additions may be safer and cheaper than frequent formula switching. (Source: Indian Pediatrics Review, April 2020)",
+  "document_key_topics": [
+    "Disease-specific enteral formula selection",
+    "Modular substitutions for macronutrients",
+    "Blenderized tube feeding (BTF) safety protocols",
+    "India-specific pediatric nutrition guidelines"
+  ],
+  "chunk_heading": "ENTERAL & PARENTERAL NUTRITION;FORMULA TYPES AND BLENDERIZED TUBE FEED SAFETY;DISEASE-SPECIFIC FORMULA SELECTION AND MODULAR SUBSTITUTIONS IN INDIA;",
+  "topic": "ENTERAL & PARENTERAL NUTRITION",
+  "subtopic": "FORMULA TYPES AND BLENDERIZED TUBE FEED SAFETY",
+  "sub_subtopic": "DISEASE-SPECIFIC FORMULA SELECTION AND MODULAR SUBSTITUTIONS IN INDIA",
+  "heading_path": "ENTERAL & PARENTERAL NUTRITION;FORMULA TYPES AND BLENDERIZED TUBE FEED SAFETY;DISEASE-SPECIFIC FORMULA SELECTION AND MODULAR SUBSTITUTIONS IN INDIA;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2x4"
+}

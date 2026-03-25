@@ -1,0 +1,47 @@
+{
+  "chunk_summary": "Guidelines for inpatient disposition and discharge safety checks in India-focused rehabilitation settings, emphasizing structured monitoring, electrolyte stabilization, and nutrition planning for high-risk pediatric cases.",
+  "learning_objectives": [
+    "Understand criteria for inpatient admission in pediatric nutrition rehabilitation, including severe dehydration, sepsis, and acute severe colitis.",
+    "Learn discharge safety protocols, including hydration stability, corrected electrolytes, and written nutrition prescriptions.",
+    "Recognize refeeding syndrome risks and implement monitored refeeding plans with staged calorie increases and lab monitoring."
+  ],
+  "key_facts": [
+    "PUCAI scoring for ulcerative colitis: mild (10\u201334), moderate (35\u201364), severe (\u226565).",
+    "Discharge requires stable hydration, corrected electrolytes, and a written nutrition plan.",
+    "Refeeding syndrome management includes thiamine prescription, staged-calorie plans, and lab monitoring within the first 72 hours.",
+    "Admission triggers include severe dehydration, shock, persistent vomiting, profuse diarrhea, and systemic toxicity.",
+    "Electrolyte abnormalities (low phosphate, potassium, magnesium) necessitate higher monitoring levels during refeeding."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Rehabilitation",
+    "Pediatric Nutrition Disorders",
+    "Electrolyte Imbalance",
+    "Refeeding Syndrome",
+    "Ulcerative Colitis",
+    "Severe Acute Malnutrition",
+    "Hydration Therapy",
+    "Parenteral Nutrition"
+  ],
+  "tags_custom": [
+    "India-focused pediatric care",
+    "Nutrition rehabilitation",
+    "Discharge planning",
+    "Electrolyte stabilization",
+    "Refeeding protocols"
+  ],
+  "reference_quote": "For ulcerative colitis, pediatric guidance defines severity by PUCAI: mild 10\u201334, moderate 35\u201364, and severe \u202165; severe disease implies acute severe colitis requiring admission, structured monitoring, and time-based escalation rather than prolonged observation. (Source: ESPGHAN)",
+  "document_key_topics": [
+    "Inpatient admission criteria for pediatric rehabilitation",
+    "Discharge safety protocols in nutrition rehabilitation",
+    "Management of refeeding syndrome in high-risk children"
+  ],
+  "chunk_heading": "REHABILITATION);INDIA-FOCUSED TRIAGE AND FIRST-PASS ASSESSMENT;INPATIENT DISPOSITION AND DISCHARGE SAFETY CHECKS;",
+  "topic": "REHABILITATION)",
+  "subtopic": "INDIA-FOCUSED TRIAGE AND FIRST-PASS ASSESSMENT",
+  "sub_subtopic": "INPATIENT DISPOSITION AND DISCHARGE SAFETY CHECKS",
+  "heading_path": "REHABILITATION);INDIA-FOCUSED TRIAGE AND FIRST-PASS ASSESSMENT;INPATIENT DISPOSITION AND DISCHARGE SAFETY CHECKS;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "2a1"
+}

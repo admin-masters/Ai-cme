@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Hospitals and neonatal units must enforce strict probiotic procurement standards, including lot-wise quality assurance, to ensure safety for vulnerable populations. Governance should integrate adverse-event surveillance and align with regulatory frameworks like FSSAI guidelines.",
+  "learning_objectives": [
+    "Understand the importance of stringent probiotic procurement standards in neonatal and hospital settings.",
+    "Learn the role of lot-wise Certificates of Analysis (COA) in ensuring product quality and safety.",
+    "Recognize the regulatory framing of probiotics as foods under FSSAI guidelines and its implications for clinical counseling.",
+    "Explore the integration of adverse-event surveillance and registries in neonatal probiotic use."
+  ],
+  "key_facts": [
+    "Hospitals should require probiotics to meet FSSAI labeling standards, including strain designation, end-of-shelf-life viability, and storage conditions.",
+    "Lot-wise Certificates of Analysis (COA) must document viable counts, microbial contamination screening, and label consistency.",
+    "Probiotic use for NEC prevention should be governed by unit policies with standardized eligibility, timing, and contraindications.",
+    "A simple registry tracking product lot, start/stop dates, feeding type, sepsis, NEC stage, and mortality supports safety monitoring.",
+    "FSSAI guidelines classify probiotics as foods, often for populations above 2 years, and prohibit medicinal claims unless explicitly permitted."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Probiotics",
+    "Neonatal Intensive Care Units",
+    "Necrotizing Enterocolitis",
+    "Food Labeling",
+    "Quality Assurance, Health Care",
+    "Regulatory Compliance",
+    "Adverse Drug Reaction Reporting Systems",
+    "Infant, Premature"
+  ],
+  "tags_custom": [
+    "Probiotic safety",
+    "Hospital procurement",
+    "Neonatal care",
+    "FSSAI guidelines",
+    "Adverse-event monitoring"
+  ],
+  "reference_quote": "FSSAI directions for nutraceutical and related categories emphasize that covered products are foods (often framed for populations above 2 years) and carry 'not for medicinal use,' with disease cure or mitigation claims generally disallowed unless specifically permitted.",
+  "document_key_topics": [
+    "Probiotic procurement standards in hospitals",
+    "FSSAI regulatory guidelines for probiotics",
+    "Adverse-event surveillance in neonatal probiotic use",
+    "Governance of probiotics for NEC prevention"
+  ],
+  "chunk_heading": "RESEARCH & EMERGING CONCEPTS;PROBIOTIC PRODUCT QUALITY AND REGULATORY STEWARDSHIP;HOSPITAL PROCUREMENT QUALITY ASSURANCE AND SURVEILLANCE;",
+  "topic": "RESEARCH & EMERGING CONCEPTS",
+  "subtopic": "PROBIOTIC PRODUCT QUALITY AND REGULATORY STEWARDSHIP",
+  "sub_subtopic": "HOSPITAL PROCUREMENT QUALITY ASSURANCE AND SURVEILLANCE",
+  "heading_path": "RESEARCH & EMERGING CONCEPTS;PROBIOTIC PRODUCT QUALITY AND REGULATORY STEWARDSHIP;HOSPITAL PROCUREMENT QUALITY ASSURANCE AND SURVEILLANCE;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1w2"
+}

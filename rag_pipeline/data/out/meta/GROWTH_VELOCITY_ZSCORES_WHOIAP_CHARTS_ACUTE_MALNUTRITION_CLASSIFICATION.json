@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section discusses discharge criteria, follow-up, and relapse prevention for children with acute malnutrition, emphasizing anthropometric thresholds, community-based care, and counseling for sustained recovery.",
+  "learning_objectives": [
+    "Understand discharge criteria for children with severe acute malnutrition (SAM) from inpatient care.",
+    "Learn follow-up protocols and anthropometric monitoring post-discharge.",
+    "Explore community-based management (CMAM) models for uncomplicated SAM/MAM cases.",
+    "Identify strategies for relapse prevention, including nutrition counseling and immunization."
+  ],
+  "key_facts": [
+    "Discharge criteria often include WHZ \u2265 -2 SD and/or MUAC \u2265 12.5 cm with consistent weight gain.",
+    "Follow-up should occur within 7 days post-discharge, then every 1\u20132 weeks, and monthly until recovery stabilizes.",
+    "Community-based management (CMAM) is suitable for uncomplicated SAM/MAM but requires reliable supply chains and referral systems.",
+    "Relapse prevention includes energy-dense complementary feeding, breastfeeding, hygiene, deworming, and immunization.",
+    "Anthropometric monitoring includes weight, height/length, and MUAC to detect stunting and ensure recovery."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Malnutrition",
+    "Severe Acute Malnutrition",
+    "Community Health Services",
+    "Nutritional Status",
+    "Anthropometry",
+    "Child Nutrition Disorders",
+    "Growth Charts",
+    "Follow-Up Studies"
+  ],
+  "tags_custom": [
+    "SAM discharge criteria",
+    "CMAM pathways",
+    "Relapse prevention",
+    "Nutrition counseling",
+    "Anthropometric monitoring"
+  ],
+  "reference_quote": "Uncomplicated SAM or MAM can be managed through community-based management of acute malnutrition (CMAM) models in settings where they operate, but this requires reliable supply chains, clear danger signs, and referral back to facility care if appetite fails or complications develop.",
+  "document_key_topics": [
+    "Discharge criteria for SAM care",
+    "Follow-up and anthropometric monitoring",
+    "Community-based management of acute malnutrition (CMAM)",
+    "Relapse prevention strategies"
+  ],
+  "chunk_heading": "GROWTH VELOCITY, Z-SCORES; WHO/IAP CHARTS);ACUTE MALNUTRITION CLASSIFICATION AND CARE PATHWAYS;DISCHARGE PLANNING AND RELAPSE PREVENTION;",
+  "topic": "GROWTH VELOCITY, Z-SCORES",
+  "subtopic": "WHO/IAP CHARTS)",
+  "sub_subtopic": "ACUTE MALNUTRITION CLASSIFICATION AND CARE PATHWAYS",
+  "heading_path": "GROWTH VELOCITY, Z-SCORES; WHO/IAP CHARTS);ACUTE MALNUTRITION CLASSIFICATION AND CARE PATHWAYS;DISCHARGE PLANNING AND RELAPSE PREVENTION;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2\u008d44"
+}

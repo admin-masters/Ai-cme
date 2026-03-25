@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "Zinc deficiency in vegetarian-fed children arises from low bioavailability and phytate interference. Testing should consider clinical context and inflammation markers. Zinc supplementation is standard in acute diarrhea but not routinely recommended otherwise; dietary correction is preferred.",
+  "learning_objectives": [
+    "Understand the mechanisms of zinc deficiency in vegetarian-fed children.",
+    "Learn how to interpret zinc test results in the context of clinical and inflammatory markers.",
+    "Identify appropriate scenarios for zinc supplementation and dietary correction strategies.",
+    "Recognize the role of zinc in managing acute diarrhea in children."
+  ],
+  "key_facts": [
+    "Zinc deficiency in vegetarian-fed children is linked to low bioavailability and phytate-rich diets.",
+    "Serum/plasma zinc levels are influenced by inflammation, fasting, and sample handling.",
+    "In acute diarrhea, zinc supplementation is 10 mg/day for children <6 months and 20 mg/day for children \u22656 months for 14 days.",
+    "Routine long-term zinc supplementation is not recommended for vegetarian-fed children; dietary correction is prioritized.",
+    "Short therapeutic zinc trials may be considered for undernourished children with persistent poor appetite or recurrent diarrhea."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Zinc Deficiency",
+    "Vegetarian Diet",
+    "Child Nutrition Disorders",
+    "Phytates",
+    "Acute Diarrhea",
+    "Dietary Supplements",
+    "Nutritional Status",
+    "Micronutrients"
+  ],
+  "tags_custom": [
+    "zinc testing",
+    "vegetarian children",
+    "dietary correction",
+    "acute diarrhea management"
+  ],
+  "reference_quote": "\"In acute diarrhea, zinc is standard of care (10 mg/day for <6 months and 20 mg/day for \u22656 months for 14 days) alongside ORS and continued feeding.\" (WHO Clinical Management of Acute Diarrhoea)",
+  "document_key_topics": [
+    "Zinc deficiency mechanisms in vegetarian-fed children",
+    "Interpretation of zinc test results",
+    "Zinc supplementation guidelines in acute diarrhea",
+    "Dietary strategies for zinc correction"
+  ],
+  "chunk_heading": "VEGETARIAN & REGIONAL FEEDING PATTERNS;INTERPRETING ZINC TESTS AND SUPPLEMENTATION DECISIONS IN VEGETARIAN-FED CHILDREN;",
+  "topic": "VEGETARIAN & REGIONAL FEEDING PATTERNS",
+  "subtopic": "INTERPRETING ZINC TESTS AND SUPPLEMENTATION DECISIONS IN VEGETARIAN-FED CHILDREN",
+  "sub_subtopic": null,
+  "heading_path": "VEGETARIAN & REGIONAL FEEDING PATTERNS;INTERPRETING ZINC TESTS AND SUPPLEMENTATION DECISIONS IN VEGETARIAN-FED CHILDREN;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1x"
+}

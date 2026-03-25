@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "National Quality Assurance Standards (NQAS) for milk bank services ensure traceability, safety controls, and continuous quality improvement in donor human milk (DHM) processing, storage, and dispensing.",
+  "learning_objectives": [
+    "Understand the traceability requirements for donor human milk (DHM) under NQAS.",
+    "Learn the quarantine-and-release protocol for pasteurized DHM and microbiological safety measures.",
+    "Identify key indicators for continuous quality improvement in human milk banking.",
+    "Explore corrective actions for deviations in milk bank processes."
+  ],
+  "key_facts": [
+    "Traceability links each DHM bottle to donor screening, pasteurization batch, time-temperature records, culture results, and dispensing logs.",
+    "Pasteurized DHM must be quarantined until microbiology confirms acceptable culture results; culture-positive batches are discarded.",
+    "Temperature assurance includes routine refrigerator/freezer monitoring, defined responses to excursions, and backup power planning.",
+    "Indicators for quality improvement include culture-failure rate, discard rate due to cold-chain breach, and wrong-milk near-miss frequency.",
+    "Corrective actions for deviations include stock quarantine/discard, environmental cleaning, staff retraining, and equipment servicing.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Milk Banks",
+    "Human Milk",
+    "Pasteurization",
+    "Quality Assurance",
+    "Microbiology",
+    "Cold Chain",
+    "Safety Management",
+    "Traceability"
+  ],
+  "tags_custom": [
+    "donor milk safety",
+    "milk bank protocols",
+    "quality improvement",
+    "traceability systems",
+    "microbiological testing"
+  ],
+  "reference_quote": "The core expectation is complete traceability: each bottle of released DHM is linked to donor screening records, a pasteurization batch identifier, the pasteurizer time\u2013temperature record, post-pasteurization culture results, and the recipient dispensing log.",
+  "document_key_topics": [
+    "Traceability in donor human milk processing",
+    "Safety protocols for pasteurized DHM",
+    "Continuous quality improvement in milk banking",
+    "Temperature assurance and cold-chain management"
+  ],
+  "chunk_heading": "EXPRESSED MILK, DONOR MILK & MILK BANKING;NATIONAL QUALITY ASSURANCE STANDARDS FOR MILK BANK SERVICES;",
+  "topic": "EXPRESSED MILK, DONOR MILK & MILK BANKING",
+  "subtopic": "NATIONAL QUALITY ASSURANCE STANDARDS FOR MILK BANK SERVICES",
+  "sub_subtopic": null,
+  "heading_path": "EXPRESSED MILK, DONOR MILK & MILK BANKING;NATIONAL QUALITY ASSURANCE STANDARDS FOR MILK BANK SERVICES;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2\u0084"
+}

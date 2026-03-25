@@ -1,0 +1,51 @@
+{
+  "chunk_summary": "Management of bone infections in immunocompromised and severely malnourished children requires early diagnosis, broad-spectrum antibiotics, nutritional rehabilitation, and infectious disease consultation due to atypical presentations and higher risk of complications.",
+  "learning_objectives": [
+    "Understand the atypical presentation of bone infections in immunocompromised and malnourished children.",
+    "Learn diagnostic strategies including early cultures, tissue biopsy, and imaging for complex cases.",
+    "Recognize the importance of nutritional rehabilitation and immune defect management in infection control.",
+    "Identify appropriate antibiotic regimens and the role of infectious disease consultation."
+  ],
+  "key_facts": [
+    "Immunocompromised children may present with blunted fever and less impressive inflammatory markers.",
+    "Microbiologic differential includes fungal infections, atypical mycobacteria, resistant Gram-negative bacilli, and disseminated TB.",
+    "Early diagnostic strategies should include tissue biopsy and imaging, with explicit requests for mycobacterial and fungal studies if cultures are negative.",
+    "Initial antibiotics may require broader Gram-negative coverage based on prior hospitalization and device exposure.",
+    "Nutritional rehabilitation and micronutrient correction are integral to infection control in these patients.",
+    "Treatment failure, relapse, and drug toxicity are more common in immunocompromised hosts.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Osteomyelitis",
+    "Bone Diseases",
+    "Immunocompromised Host",
+    "Malnutrition",
+    "Fungal Infections",
+    "Mycobacterium Infections",
+    "Gram-Negative Bacterial Infections",
+    "Pediatric Infectious Diseases"
+  ],
+  "tags_custom": [
+    "severe malnutrition",
+    "complex bone infections",
+    "pediatric management",
+    "immune defect care",
+    "nutritional rehabilitation"
+  ],
+  "reference_quote": "The Indian Academy of Pediatrics emphasizes early cultures, tissue biopsy, and imaging for diagnosing bone infections in children, especially in vulnerable hosts. (Reference 1)",
+  "document_key_topics": [
+    "Atypical presentation of bone infections in vulnerable hosts",
+    "Diagnostic strategies for immunocompromised children",
+    "Role of nutritional rehabilitation in infection control",
+    "Antibiotic regimens and infectious disease consultation"
+  ],
+  "chunk_heading": "BONE INFECTIONS;CLINICAL MANAGEMENT IN ADOLESCENTS AND VULNERABLE HOSTS;IMMUNOCOMPROMISED AND SEVERELY MALNOURISHED CHILDREN;",
+  "topic": "BONE INFECTIONS",
+  "subtopic": "CLINICAL MANAGEMENT IN ADOLESCENTS AND VULNERABLE HOSTS",
+  "sub_subtopic": "IMMUNOCOMPROMISED AND SEVERELY MALNOURISHED CHILDREN",
+  "heading_path": "BONE INFECTIONS;CLINICAL MANAGEMENT IN ADOLESCENTS AND VULNERABLE HOSTS;IMMUNOCOMPROMISED AND SEVERELY MALNOURISHED CHILDREN;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u00923"
+}

@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "Guidelines for inpatient discharge readiness in SAM management emphasize clinical stability, feeding adequacy, and referral pathways to outpatient care for continued rehabilitation and monitoring.",
+  "learning_objectives": [
+    "Understand criteria for inpatient discharge readiness in severe acute malnutrition (SAM) management.",
+    "Learn the importance of separating discharge readiness from outpatient cure criteria.",
+    "Identify key clinical and nutritional markers for safe discharge and step-down care.",
+    "Recognize the role of follow-up scheduling and referral pathways in SAM program quality."
+  ],
+  "key_facts": [
+    "Discharge readiness requires no hypoglycemia, hypothermia, or dehydration for at least 24 hours.",
+    "Nutritional oedema must be reducing or resolved before discharge.",
+    "Sustained oral intake should deliver 120\u2013130 kcal/kg/day with weight gain \u22655 g/kg/day for 3 consecutive days.",
+    "First follow-up should be scheduled within 7 days of discharge.",
+    "Families must be provided written danger signs, such as poor intake, fever, or worsening oedema."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Severe Acute Malnutrition",
+    "Discharge Planning",
+    "Nutritional Rehabilitation",
+    "Pediatric Nutrition Disorders",
+    "Clinical Guidelines",
+    "Follow-Up Studies",
+    "Referral and Consultation",
+    "Feeding Behavior"
+  ],
+  "tags_custom": [
+    "SAM discharge criteria",
+    "step-down care",
+    "nutrition program quality",
+    "clinical stability markers",
+    "outpatient follow-up"
+  ],
+  "reference_quote": "Discharge readiness is a clinical stability threshold, distinct from outpatient program 'cure' criteria requiring anthropometric recovery and oedema-free duration. (Ministry of Health and Family Welfare, 2011)",
+  "document_key_topics": [
+    "Inpatient discharge readiness criteria for SAM",
+    "Step-down handover and outpatient referral pathways",
+    "Clinical and nutritional stability markers for safe discharge"
+  ],
+  "chunk_heading": "SEVERE ACUTE MALNUTRITION-(SAM) MANAGEMENT;DISCHARGE FOLLOW- UP AND PROGRAM QUALITY;INPATIENT DISCHARGE READINESS AND STEP-DOWN HANDOVER CRITERIA;",
+  "topic": "SEVERE ACUTE MALNUTRITION-(SAM) MANAGEMENT",
+  "subtopic": "DISCHARGE FOLLOW- UP AND PROGRAM QUALITY",
+  "sub_subtopic": "INPATIENT DISCHARGE READINESS AND STEP-DOWN HANDOVER CRITERIA",
+  "heading_path": "SEVERE ACUTE MALNUTRITION-(SAM) MANAGEMENT;DISCHARGE FOLLOW- UP AND PROGRAM QUALITY;INPATIENT DISCHARGE READINESS AND STEP-DOWN HANDOVER CRITERIA;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "3\u008e1"
+}

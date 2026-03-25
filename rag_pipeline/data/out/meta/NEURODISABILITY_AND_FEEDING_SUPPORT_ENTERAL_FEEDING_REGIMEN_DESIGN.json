@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "Designing enteral feeding regimens for children with neurodisability involves individualized energy needs, formula selection, hydration flushes, and managing complications like reflux, diarrhea, and tube blockage.",
+  "learning_objectives": [
+    "Understand how to individualize energy needs for children with neurological impairment based on mobility, muscle tone, and growth response.",
+    "Learn the pros and cons of bolus versus continuous feeding modes and their impact on tolerance and complications.",
+    "Recognize the importance of hydration flushes for tube patency and strategies to manage common complications like vomiting, diarrhea, and tube blockage."
+  ],
+  "key_facts": [
+    "Energy needs should start from age-based dietary reference targets and be adjusted based on mobility, muscle tone, and activity.",
+    "Hydration flushes are recommended before and after bolus feeds, and before, between, and after medications to maintain tube patency.",
+    "Bolus feeds support hunger-satiety cycles but may worsen reflux; continuous feeds improve tolerance in severe reflux or delayed gastric emptying.",
+    "Micronutrient review is essential every 6 months for high-risk children, with body composition tracked using mid-upper arm circumference and triceps skinfold.",
+    "Blenderized feeds require strict hygiene, nutrient completeness, and monitoring to prevent tube blockage."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Enteral Nutrition",
+    "Neurological Impairments",
+    "Feeding Methods",
+    "Hydration",
+    "Gastroesophageal Reflux",
+    "Diarrhea",
+    "Micronutrients",
+    "Tube Feeding Complications"
+  ],
+  "tags_custom": [
+    "feeding regimen design",
+    "hydration flushes",
+    "blenderized tube feeding",
+    "complication management",
+    "energy needs adjustment"
+  ],
+  "reference_quote": "A practical default is to flush before and after each bolus feed and before, between, and after medications. (Source: Royal Children's Hospital Melbourne guideline)",
+  "document_key_topics": [
+    "Individualized energy needs in neurodisability",
+    "Bolus vs continuous feeding modes",
+    "Hydration flushes for tube patency",
+    "Management of feeding-related complications"
+  ],
+  "chunk_heading": "NEURODISABILITY AND FEEDING SUPPORT;ENTERAL FEEDING REGIMEN DESIGN INCLUDING HYDRATION FLUSHES AND COMPLICATION MANAGEMENT;",
+  "topic": "NEURODISABILITY AND FEEDING SUPPORT",
+  "subtopic": "ENTERAL FEEDING REGIMEN DESIGN INCLUDING HYDRATION FLUSHES AND COMPLICATION MANAGEMENT",
+  "sub_subtopic": null,
+  "heading_path": "NEURODISABILITY AND FEEDING SUPPORT;ENTERAL FEEDING REGIMEN DESIGN INCLUDING HYDRATION FLUSHES AND COMPLICATION MANAGEMENT;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1v"
+}

@@ -1,0 +1,47 @@
+{
+  "chunk_summary": "Parenteral iron is reserved for pediatric cases where oral therapy fails or is unsuitable, with inpatient care prioritized for severe anemia or instability. Proper diagnosis, adherence, and monitoring are critical to avoid recurrence.",
+  "learning_objectives": [
+    "Understand the indications for parenteral iron therapy in pediatric iron deficiency anemia.",
+    "Identify clinical scenarios requiring inpatient referral for severe anemia.",
+    "Learn the importance of addressing underlying causes and monitoring outcomes in anemia management."
+  ],
+  "key_facts": [
+    "Parenteral iron is indicated for malabsorption (e.g., inflammatory bowel disease), iron-refractory states, or severe intolerance to oral iron.",
+    "Inpatient care is prioritized for severe anemia with instability (e.g., tachycardia, respiratory distress, heart failure signs) or complex comorbidities like SAM or chronic kidney disease.",
+    "Parenteral iron should be administered in settings equipped to manage hypersensitivity reactions and calculate total elemental iron requirements.",
+    "Monitoring includes symptom improvement and hemoglobin (Hb) response over weeks.",
+    "Oral iron therapy is effective in most children when adherence and follow-up are ensured.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Iron-Deficiency Anemia",
+    "Parenteral Nutrition",
+    "Pediatrics",
+    "Severe Anemia",
+    "Malabsorption Syndromes",
+    "Inflammatory Bowel Diseases",
+    "Chronic Kidney Disease",
+    "Nutritional Therapy"
+  ],
+  "tags_custom": [
+    "pediatric anemia",
+    "parenteral iron therapy",
+    "inpatient referral",
+    "severe anemia management"
+  ],
+  "reference_quote": "Parenteral iron has a limited pediatric role and should not be used as a shortcut for poor adherence or inadequate counseling. (Source: Indian Academy of Pediatrics Standard Treatment Guidelines)",
+  "document_key_topics": [
+    "Indications for parenteral iron in children",
+    "Criteria for inpatient referral in severe anemia",
+    "Monitoring and addressing underlying causes of anemia"
+  ],
+  "chunk_heading": "MICRONUTRIENT NUTRITION;IRON DEFICIENCY ANEMIA DIAGNOSTIC AND THERAPEUTIC DECISIONS;INDICATIONS FOR PARENTERAL IRON AND INPATIENT REFERRAL;",
+  "topic": "MICRONUTRIENT NUTRITION",
+  "subtopic": "IRON DEFICIENCY ANEMIA DIAGNOSTIC AND THERAPEUTIC DECISIONS",
+  "sub_subtopic": "INDICATIONS FOR PARENTERAL IRON AND INPATIENT REFERRAL",
+  "heading_path": "MICRONUTRIENT NUTRITION;IRON DEFICIENCY ANEMIA DIAGNOSTIC AND THERAPEUTIC DECISIONS;INDICATIONS FOR PARENTERAL IRON AND INPATIENT REFERRAL;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1t5"
+}

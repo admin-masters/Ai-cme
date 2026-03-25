@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Guidelines for folic acid replacement in pediatric folate deficiency, including age-specific dosing, expected hematologic response, and management of coexisting deficiencies like B12 or iron.",
+  "learning_objectives": [
+    "Understand age-appropriate dosing regimens for folic acid replacement in children and adolescents.",
+    "Recognize the importance of addressing potential B12 deficiency before initiating folic acid therapy.",
+    "Identify expected clinical and hematologic responses to folic acid therapy in folate deficiency.",
+    "Learn strategies to prevent folate deficiency relapse through dietary counseling and follow-up."
+  ],
+  "key_facts": [
+    "Infants <6 months: 50 micrograms/day of folic acid.",
+    "Children 7 months to 13 years: 1 mg/day for 2\u20133 weeks, then 0.1\u20130.5 mg/day.",
+    "Adolescents >13 years: 1 mg/day for 2\u20133 weeks, then 0.5 mg/day.",
+    "Reticulocytosis appears within days, symptoms improve in 1\u20132 weeks, and hemoglobin normalizes in several weeks.",
+    "Folate therapy should continue for a few months to replete stores and prevent relapse.",
+    "Non-response requires reassessment for adherence, mixed deficiencies (e.g., iron), or malabsorption."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Folic Acid",
+    "Folate Deficiency",
+    "Vitamin B12 Deficiency",
+    "Pediatrics",
+    "Megaloblastic Anemia",
+    "Dietary Supplements",
+    "Nutritional Deficiencies",
+    "Reticulocytosis"
+  ],
+  "tags_custom": [
+    "Folic acid replacement",
+    "Pediatric nutrition",
+    "Micronutrient therapy",
+    "Hematologic response"
+  ],
+  "reference_quote": "Expected response is brisk. Reticulocytosis should appear within days, symptoms improve over 1\u20132 weeks, and hemoglobin typically normalizes over several weeks if folate deficiency is the dominant cause.",
+  "document_key_topics": [
+    "Folic acid replacement regimens",
+    "Management of folate deficiency in children",
+    "Coexisting deficiencies (B12, iron) and their impact",
+    "Dietary counseling for folate deficiency prevention"
+  ],
+  "chunk_heading": "MICRONUTRIENT NUTRITION;FOLATE AND B-COMPLEX DEFICIENCY DECISION PATHWAYS;FOLIC ACID REPLACEMENT REGIMENS AND EXPECTED RESPONSE;",
+  "topic": "MICRONUTRIENT NUTRITION",
+  "subtopic": "FOLATE AND B-COMPLEX DEFICIENCY DECISION PATHWAYS",
+  "sub_subtopic": "FOLIC ACID REPLACEMENT REGIMENS AND EXPECTED RESPONSE",
+  "heading_path": "MICRONUTRIENT NUTRITION;FOLATE AND B-COMPLEX DEFICIENCY DECISION PATHWAYS;FOLIC ACID REPLACEMENT REGIMENS AND EXPECTED RESPONSE;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1\u00902"
+}

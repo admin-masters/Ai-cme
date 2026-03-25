@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "AI-assisted photo-based dietary estimation tools help reduce caregiver burden but face limitations with Indian mixed dishes, hidden foods, and non-validated regional diets. Validation and data governance are critical for clinical use.",
+  "learning_objectives": [
+    "Understand the limitations of AI-assisted photo-based dietary estimation tools, especially for Indian mixed dishes.",
+    "Learn how to validate AI dietary tools using repeated recalls, weighed food records, or locally validated FFQs.",
+    "Explore best practices for data governance in digital dietary assessments.",
+    "Recognize the importance of mapping confirmed foods to regional composition databases like IFCT."
+  ],
+  "key_facts": [
+    "AI tools often misclassify Indian staples and undercount fats due to non-Indian training datasets.",
+    "Errors are common with hidden foods, shared meals, or foods eaten directly from packets.",
+    "Validation should include comparison against repeated recalls, weighed food records, or FFQs.",
+    "Use structured 24-hour recalls and calibrated household measures to confirm AI-generated hypotheses.",
+    "Data governance requires consent for image capture and workflows that minimize stored data."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Dietary Assessment",
+    "Artificial Intelligence",
+    "Nutrition Surveys",
+    "Food Composition",
+    "Validation Studies",
+    "Data Governance",
+    "Feeding Behavior",
+    "India"
+  ],
+  "tags_custom": [
+    "AI dietary tools",
+    "Indian food analysis",
+    "photo-based estimation",
+    "data privacy",
+    "clinical nutrition"
+  ],
+  "reference_quote": "Errors are most common with Indian mixed dishes where ingredients, oil/ghee, and dilution vary widely between households, and when foods are partially hidden, shared, or eaten directly from packets.",
+  "document_key_topics": [
+    "AI-assisted dietary estimation limitations",
+    "Validation of dietary tools for regional diets",
+    "Data governance in digital dietary assessments"
+  ],
+  "chunk_heading": "DIETARY ASSESSMENT & FEEDING SKILLS EVALUATION;DIGITAL AND TELEASSESSMENT ENABLED DIETARY EVALUATION;AI-ASSISTED PHOTO-BASED DIETARY ESTIMATION LIMITATIONS;",
+  "topic": "DIETARY ASSESSMENT & FEEDING SKILLS EVALUATION",
+  "subtopic": "DIGITAL AND TELEASSESSMENT ENABLED DIETARY EVALUATION",
+  "sub_subtopic": "AI-ASSISTED PHOTO-BASED DIETARY ESTIMATION LIMITATIONS",
+  "heading_path": "DIETARY ASSESSMENT & FEEDING SKILLS EVALUATION;DIGITAL AND TELEASSESSMENT ENABLED DIETARY EVALUATION;AI-ASSISTED PHOTO-BASED DIETARY ESTIMATION LIMITATIONS;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "1p2"
+}

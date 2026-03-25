@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "This section discusses diagnostic and therapeutic strategies for Salmonella osteomyelitis in neonates and high-risk hosts, emphasizing pathogen coverage, microbiologic guidance, and host-specific considerations like sickle cell disease and neonatal sepsis.",
+  "learning_objectives": [
+    "Understand the diagnostic challenges of Salmonella osteomyelitis in neonates and high-risk hosts.",
+    "Identify appropriate empiric antibiotic regimens for suspected osteomyelitis in different age groups.",
+    "Recognize the role of host factors, such as sickle cell disease, in broadening the differential diagnosis.",
+    "Learn the importance of microbiologic guidance and follow-up in treatment decisions."
+  ],
+  "key_facts": [
+    "MRI is critical for detecting metaphyseal osteomyelitis when radiographs are unrevealing.",
+    "Empiric treatment for sickle cell patients should include an anti-staphylococcal agent and a third-generation cephalosporin.",
+    "Neonates with irritability and pseudoparalysis require broad-spectrum Gram-positive and Gram-negative coverage due to common bloodstream spread.",
+    "Oral step-down therapy is rarely appropriate in early neonatal osteomyelitis.",
+    "Full intravenous therapy should continue until bacteremia and inflammatory markers resolve in neonates.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Osteomyelitis",
+    "Salmonella Infections",
+    "Sickle Cell Disease",
+    "Neonatal Sepsis",
+    "Empiric Antibiotic Therapy",
+    "Magnetic Resonance Imaging",
+    "Gram-Positive Bacteria",
+    "Gram-Negative Bacteria"
+  ],
+  "tags_custom": [
+    "high-risk hosts",
+    "pediatric infections",
+    "antibiotic stewardship",
+    "neonatal care",
+    "diagnostic imaging"
+  ],
+  "reference_quote": "Empiric treatment should include an anti-staphylococcal agent plus a third-generation cephalosporin while cultures are pending. (Source: PIDS/IDSA Guideline on Diagnosis and Management of Acute Hematogenous Osteomyelitis in Pediatrics)",
+  "document_key_topics": [
+    "Salmonella osteomyelitis in neonates",
+    "Host-specific diagnostic and therapeutic strategies",
+    "Empiric antibiotic regimens for high-risk patients",
+    "Role of imaging and microbiologic guidance in management"
+  ],
+  "chunk_heading": "BONE INFECTIONS;CLINICAL CASE APPLICATIONS IN DIAGNOSTIC AND THERAPEUTIC DECISION MAKING;SALMONELLA OSTEOMYELITIS NEONATAL INFECTION AND HIGH RISK HOST EVALUATION;",
+  "topic": "BONE INFECTIONS",
+  "subtopic": "CLINICAL CASE APPLICATIONS IN DIAGNOSTIC AND THERAPEUTIC DECISION MAKING",
+  "sub_subtopic": "SALMONELLA OSTEOMYELITIS NEONATAL INFECTION AND HIGH RISK HOST EVALUATION",
+  "heading_path": "BONE INFECTIONS;CLINICAL CASE APPLICATIONS IN DIAGNOSTIC AND THERAPEUTIC DECISION MAKING;SALMONELLA OSTEOMYELITIS NEONATAL INFECTION AND HIGH RISK HOST EVALUATION;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u009e2"
+}

@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "Faltering growth is defined using trajectory thresholds, emphasizing weight centile changes, Z scores, and velocity standards for accurate assessment and management, particularly in neonates and infants under 2 years.",
+  "learning_objectives": [
+    "Understand the concept of faltering growth as a trajectory issue rather than a static judgment.",
+    "Learn the NICE NG75 guidelines for identifying faltering growth using centile spaces and weight thresholds.",
+    "Apply WHO growth standards and weight velocity metrics for assessing growth patterns in infants.",
+    "Recognize signs of acute undernutrition and use MUAC measurements for severity classification."
+  ],
+  "key_facts": [
+    "Faltering growth is flagged when a child crosses down weight centile spaces or falls below the 2nd centile (NICE NG75).",
+    "Physiologic neonatal weight loss exceeding 10% of birthweight, with symptoms like reduced urine output or lethargy, requires intervention.",
+    "Most infants regain birthweight by 3 weeks, though breastfeeding protocols often aim for 7\u201314 days.",
+    "WHO standards recommend using Z scores for precise growth tracking and weight-for-length/BMI-for-age for wasting identification.",
+    "Weight gain velocity standards are critical for infants under 2 years when centiles appear borderline.",
+    "MUAC measurement helps classify acute undernutrition severity and determine urgency of care."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Faltering Growth",
+    "Failure to Thrive",
+    "Weight Gain",
+    "Neonatal Nutrition",
+    "Growth Disorders",
+    "Undernutrition",
+    "Anthropometry",
+    "Infant Feeding"
+  ],
+  "tags_custom": [
+    "trajectory thresholds",
+    "neonatal weight loss",
+    "feeding assessment",
+    "growth monitoring",
+    "clinical guidelines"
+  ],
+  "reference_quote": "NICE NG75 flags concern when a child crosses down weight centile spaces or falls below the 2nd centile, emphasizing trajectory over static judgment.",
+  "document_key_topics": [
+    "Faltering growth trajectory thresholds",
+    "Neonatal weight loss and regain patterns",
+    "WHO standards for growth monitoring",
+    "Assessment of acute undernutrition severity"
+  ],
+  "chunk_heading": "FEEDING DIFFICULTIES & FALTERING GROWTH;DEFINITIONS AND CLINICAL PHENOTYPES IN FEEDING DIFFICULTY;DEFINING FALTERING GROWTH USING TRAJECTORY THRESHOLDS;",
+  "topic": "FEEDING DIFFICULTIES & FALTERING GROWTH",
+  "subtopic": "DEFINITIONS AND CLINICAL PHENOTYPES IN FEEDING DIFFICULTY",
+  "sub_subtopic": "DEFINING FALTERING GROWTH USING TRAJECTORY THRESHOLDS",
+  "heading_path": "FEEDING DIFFICULTIES & FALTERING GROWTH;DEFINITIONS AND CLINICAL PHENOTYPES IN FEEDING DIFFICULTY;DEFINING FALTERING GROWTH USING TRAJECTORY THRESHOLDS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1b2"
+}

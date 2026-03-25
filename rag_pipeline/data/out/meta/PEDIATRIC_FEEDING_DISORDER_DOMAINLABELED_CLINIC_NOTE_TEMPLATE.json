@@ -1,0 +1,47 @@
+{
+  "chunk_summary": "This section outlines a domain-labeled clinic note template for pediatric feeding disorders, emphasizing growth tracking, domain-specific mechanisms, measurable prescriptions, and failure criteria to optimize outpatient care and prevent treatment failures.",
+  "learning_objectives": [
+    "Understand the components of a domain-labeled clinic note template for pediatric feeding disorders.",
+    "Learn how to document growth signals, feeding mechanisms, and psychosocial factors in a structured format.",
+    "Identify measurable prescriptions and failure criteria for monitoring treatment adherence and outcomes."
+  ],
+  "key_facts": [
+    "A standardized note format should include growth signals, domain mechanisms, and measurable prescriptions with failure criteria.",
+    "Problem list domains include faltering growth, intake delivery, feeding skill/sensory, loss/malabsorption, increased needs, and psychosocial/safeguarding factors.",
+    "Prescriptions should specify milk limits (e.g., mL/day), meal/snack frequency, texture exposure goals, and micronutrient additions.",
+    "Failure criteria: If weight does not improve at 2 weeks with diary-confirmed adherence, activate non-response pathways and expand tests/referrals.",
+    "Avoid daily weights except in neonatal weight-loss scenarios and avoid broad lab panels without phenotype-linked hypotheses."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Pediatric Feeding Disorders",
+    "Failure to Thrive",
+    "Growth Disorders",
+    "Nutritional Requirements",
+    "Malabsorption Syndromes",
+    "Psychosocial Factors",
+    "Clinical Protocols",
+    "Monitoring, Physiologic"
+  ],
+  "tags_custom": [
+    "feeding assessment",
+    "growth tracking",
+    "failure criteria",
+    "outpatient care",
+    "structured documentation"
+  ],
+  "reference_quote": "Failure criteria: 'if weight falls or does not improve at 2 weeks with diary-confirmed adherence, activate non-response pathway and expand tests/referrals.'",
+  "document_key_topics": [
+    "Pediatric feeding disorder management",
+    "Domain-labeled clinic note template",
+    "Failure criteria and monitoring protocols"
+  ],
+  "chunk_heading": "PEDIATRIC FEEDING DISORDER;DOMAIN-LABELED CLINIC NOTE TEMPLATE AND FAILURE CRITERIA;",
+  "topic": "PEDIATRIC FEEDING DISORDER",
+  "subtopic": "DOMAIN-LABELED CLINIC NOTE TEMPLATE AND FAILURE CRITERIA",
+  "sub_subtopic": null,
+  "heading_path": "PEDIATRIC FEEDING DISORDER;DOMAIN-LABELED CLINIC NOTE TEMPLATE AND FAILURE CRITERIA;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2d"
+}

@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section discusses low-resource diagnostic approaches to anemia and micronutrient deficiencies in vegetarian-fed children, emphasizing cost-effective testing, therapeutic trials, and clinical guidelines for iron and vitamin B12 deficiencies.",
+  "learning_objectives": [
+    "Understand the low-cost diagnostic approach to anemia in vegetarian-fed children.",
+    "Identify key clinical signs and lab findings for iron and vitamin B12 deficiencies.",
+    "Apply therapeutic trials of oral iron as both a diagnostic and treatment tool.",
+    "Explain the importance of hemoglobin thresholds in protecting neurodevelopment."
+  ],
+  "key_facts": [
+    "A CBC with indices is the most informative low-cost test for anemia diagnosis.",
+    "Microcytosis with high milk intake and low pulses/legumes suggests iron deficiency anemia (IDA).",
+    "A hemoglobin rise of >1 g/dL within 4 weeks of oral iron therapy supports IDA diagnosis.",
+    "Macrocytosis (MCV >110) and hypersegmented neutrophils suggest vitamin B12 deficiency.",
+    "WHO hemoglobin thresholds are used unless national guidelines specify otherwise."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Anemia, Iron-Deficiency",
+    "Vitamin B12 Deficiency",
+    "Nutritional Status",
+    "Vegetarian Diet",
+    "Child Nutrition Disorders",
+    "Complete Blood Count",
+    "Micronutrients",
+    "Therapeutic Use"
+  ],
+  "tags_custom": [
+    "low-resource diagnostics",
+    "pediatric anemia",
+    "vegetarian diet impact",
+    "iron supplementation",
+    "clinical guidelines"
+  ],
+  "reference_quote": "Indian guidance supports a therapeutic trial of oral iron as both treatment and diagnostic test; diagnosis is supported when guideline-dose iron produces a hemoglobin rise of more than 1 g/dL within about 4 weeks in mild anemia, or within about 2 weeks in more severe anemia.",
+  "document_key_topics": [
+    "Low-cost diagnostic approaches to anemia",
+    "Iron deficiency anemia in vegetarian-fed children",
+    "Vitamin B12 deficiency and clinical signs",
+    "Importance of hemoglobin thresholds in children"
+  ],
+  "chunk_heading": "VEGETARIAN & REGIONAL FEEDING PATTERNS;LOW-RESOURCE DIAGNOSTIC APPROACH TO ANEMIA AND MICRONUTRIENT DEFICIENCY;",
+  "topic": "VEGETARIAN & REGIONAL FEEDING PATTERNS",
+  "subtopic": "LOW-RESOURCE DIAGNOSTIC APPROACH TO ANEMIA AND MICRONUTRIENT DEFICIENCY",
+  "sub_subtopic": null,
+  "heading_path": "VEGETARIAN & REGIONAL FEEDING PATTERNS;LOW-RESOURCE DIAGNOSTIC APPROACH TO ANEMIA AND MICRONUTRIENT DEFICIENCY;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u0081"
+}

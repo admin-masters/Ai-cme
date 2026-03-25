@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "Phosphate control in pediatric CKD should prioritize 'diet plus binders' over protein restriction, with emphasis on binder timing, additive phosphate removal, and staged escalation strategies to protect growth and bone health.",
+  "learning_objectives": [
+    "Understand the role of phosphate binders and their timing in managing hyperphosphatemia in pediatric CKD.",
+    "Identify common dietary sources of hidden phosphate additives and strategies to reduce their intake.",
+    "Learn the staged approach to managing persistent hyperphosphatemia, including lab monitoring and binder adjustments.",
+    "Recognize the importance of balancing phosphate control with adequate protein intake to support growth."
+  ],
+  "key_facts": [
+    "Phosphate binders, especially calcium-containing ones, should be taken with meals to maximize dietary phosphate binding.",
+    "Hidden phosphate additives are common in cola beverages, processed cheese, bakery items, and seasoning mixes, particularly in India.",
+    "Persistent hyperphosphatemia should be confirmed with serial labs and evaluated alongside calcium, PTH, alkaline phosphatase, and vitamin D trends.",
+    "If calcium load increases (e.g., hypercalcemia or low PTH), non-calcium binders should be used under nephrology guidance.",
+    "Phosphate control should not compromise growth; protein restriction should be avoided unless absolutely necessary.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Chronic Kidney Disease-Mineral and Bone Disorder",
+    "Hyperphosphatemia",
+    "Phosphate Binders",
+    "Calcium Metabolism",
+    "Dietary Proteins",
+    "Pediatric Nephrology",
+    "Phosphates",
+    "Nutritional Counseling"
+  ],
+  "tags_custom": [
+    "phosphate management",
+    "pediatric CKD nutrition",
+    "binder timing",
+    "hidden additives",
+    "protein preservation"
+  ],
+  "reference_quote": "Calcium-containing phosphate binders work best when taken with meals, because the intent is to bind dietary phosphate; giving them away from meals increases calcium exposure without adequate phosphate binding. (Reference 1)",
+  "document_key_topics": [
+    "Phosphate binder timing and usage in pediatric CKD",
+    "Hidden dietary phosphate additives and their impact",
+    "Staged management of hyperphosphatemia",
+    "Balancing phosphate control with growth and protein intake"
+  ],
+  "chunk_heading": "NUTRITION IN CHRONIC KIDNEY & LIVER DISEASE;MICRONUTRIENTS AND MINERAL BONE DISORDER IN PEDIATRIC CKD;PHOSPHATE ADDITIVE COUNSELING AND BINDER TIMING TO PROTECT PROTEIN INTAKE;",
+  "topic": "NUTRITION IN CHRONIC KIDNEY & LIVER DISEASE",
+  "subtopic": "MICRONUTRIENTS AND MINERAL BONE DISORDER IN PEDIATRIC CKD",
+  "sub_subtopic": "PHOSPHATE ADDITIVE COUNSELING AND BINDER TIMING TO PROTECT PROTEIN INTAKE",
+  "heading_path": "NUTRITION IN CHRONIC KIDNEY & LIVER DISEASE;MICRONUTRIENTS AND MINERAL BONE DISORDER IN PEDIATRIC CKD;PHOSPHATE ADDITIVE COUNSELING AND BINDER TIMING TO PROTECT PROTEIN INTAKE;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2w1"
+}

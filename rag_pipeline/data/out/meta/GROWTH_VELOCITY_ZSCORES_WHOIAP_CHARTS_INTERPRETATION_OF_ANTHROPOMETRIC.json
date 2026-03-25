@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section discusses interpreting anthropometric indices for short stature using WHO/IAP charts, focusing on genetic potential, body proportions, and growth velocity to identify pathological causes and guide referrals.",
+  "learning_objectives": [
+    "Understand the calculation and interpretation of mid-parental height (MPH) and its target range.",
+    "Learn to assess body proportions using upper segment/lower segment ratio and arm span measurements.",
+    "Identify concerning growth patterns and their implications for further evaluation or referral.",
+    "Integrate growth velocity, bone age, and proportionality in short stature assessment."
+  ],
+  "key_facts": [
+    "Mid-parental height (MPH) is calculated as: Boys = (father\u2019s height + mother\u2019s height + 13 cm) \u00f7 2; Girls = (father\u2019s height + mother\u2019s height - 13 cm) \u00f7 2.",
+    "A target range of \u00b18\u201310 cm around MPH captures most normal familial variation.",
+    "Upper segment/lower segment ratio decreases with age: ~1.7 at birth, ~1.3 by 3 years, ~1.1 by 7 years, ~1.0 in adults.",
+    "Arm span approaches height by late childhood; reduced arm span suggests short-limbed skeletal dysplasia, while exceeding height suggests long-limbed conditions.",
+    "Downward crossing of height percentiles after age 2\u20133 years is concerning and warrants evaluation.",
+    "Catch-up or catch-down growth is common in the first 18\u201324 months as children align to their genetic channel."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Growth Charts",
+    "Anthropometry",
+    "Short Stature",
+    "Body Proportions",
+    "Growth Disorders",
+    "Bone Age",
+    "Growth Velocity",
+    "Skeletal Dysplasia"
+  ],
+  "tags_custom": [
+    "WHO/IAP charts",
+    "short stature evaluation",
+    "growth assessment",
+    "pediatric endocrinology"
+  ],
+  "reference_quote": "A child whose height is >2 SD below their genetic target or whose height percentile 'overshoots' downward beyond the parental channel is more likely to have pathology than simple familial short stature. (Source: https://www.aafp.org/pubs/afp/issues/2015/0701/p43.html)",
+  "document_key_topics": [
+    "Mid-parental height and genetic potential",
+    "Body proportions and growth patterns",
+    "Evaluation of short stature and referral criteria",
+    "Integration of growth velocity and bone age in assessment"
+  ],
+  "chunk_heading": "GROWTH VELOCITY, Z-SCORES; WHO/IAP CHARTS);INTERPRETATION OF ANTHROPOMETRIC INDICES;BODY PROPORTIONS AND MID-PARENTAL HEIGHT;",
+  "topic": "GROWTH VELOCITY, Z-SCORES",
+  "subtopic": "WHO/IAP CHARTS)",
+  "sub_subtopic": "INTERPRETATION OF ANTHROPOMETRIC INDICES",
+  "heading_path": "GROWTH VELOCITY, Z-SCORES; WHO/IAP CHARTS);INTERPRETATION OF ANTHROPOMETRIC INDICES;BODY PROPORTIONS AND MID-PARENTAL HEIGHT;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2r17"
+}

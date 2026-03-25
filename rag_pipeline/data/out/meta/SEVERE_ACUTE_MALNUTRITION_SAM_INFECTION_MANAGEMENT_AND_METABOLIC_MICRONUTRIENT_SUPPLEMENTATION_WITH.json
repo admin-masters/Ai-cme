@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Micronutrient supplementation in SAM involves timing, therapeutic food use, vitamin A indications, and delayed iron initiation to minimize infection risks during stabilization.",
+  "learning_objectives": [
+    "Understand the role of therapeutic foods (F-75, F-100, RUTF) in micronutrient delivery for SAM management.",
+    "Learn the indications for vitamin A megadosing and its age-specific dosages.",
+    "Recognize the importance of delaying iron supplementation until rehabilitation readiness is achieved.",
+    "Identify protocols for folic acid, zinc, copper, and multivitamin supplementation in SAM."
+  ],
+  "key_facts": [
+    "Folic acid: 5 mg on day 1, then 1 mg daily.",
+    "Zinc: 2 mg/kg/day and copper: 0.3 mg/kg/day for at least 2 weeks.",
+    "Vitamin A: High-dose based on age bands (50,000 IU <6 months; 100,000 IU 6\u201312 months; 200,000 IU >12 months) for deficiency or measles.",
+    "Iron: Delay until appetite returns and weight gain is established; start elemental iron at 3 mg/kg/day after 2 days of catch-up feeding.",
+    "Avoid repeat vitamin A dosing within a month unless indicated by protocol."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Severe Acute Malnutrition",
+    "Micronutrients",
+    "Vitamin A",
+    "Iron",
+    "Zinc",
+    "Copper",
+    "Therapeutic Foods",
+    "Anemia"
+  ],
+  "tags_custom": [
+    "SAM management",
+    "micronutrient therapy",
+    "infection risk",
+    "rehabilitation readiness",
+    "vitamin supplementation"
+  ],
+  "reference_quote": "Treat vitamin A as an indication-based pathway rather than routine megadosing when therapeutic foods are used. (WHO, Pocket book of hospital care for children: severe acute malnutrition chapter)",
+  "document_key_topics": [
+    "Micronutrient supplementation protocols in SAM",
+    "Vitamin A indications and dosing",
+    "Iron delay and infection risk management",
+    "Therapeutic food use in SAM treatment"
+  ],
+  "chunk_heading": "SEVERE ACUTE MALNUTRITION (SAM) MANAGEMENT;INFECTION MANAGEMENT AND METABOLIC CORRECTIONS;MICRONUTRIENT SUPPLEMENTATION WITH IRON DELAY AND VITAMIN A INDICATIONS;",
+  "topic": "SEVERE ACUTE MALNUTRITION (SAM) MANAGEMENT",
+  "subtopic": "INFECTION MANAGEMENT AND METABOLIC CORRECTIONS",
+  "sub_subtopic": "MICRONUTRIENT SUPPLEMENTATION WITH IRON DELAY AND VITAMIN A INDICATIONS",
+  "heading_path": "SEVERE ACUTE MALNUTRITION (SAM) MANAGEMENT;INFECTION MANAGEMENT AND METABOLIC CORRECTIONS;MICRONUTRIENT SUPPLEMENTATION WITH IRON DELAY AND VITAMIN A INDICATIONS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1s3"
+}

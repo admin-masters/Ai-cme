@@ -1,0 +1,47 @@
+{
+  "chunk_summary": "This section outlines tiered communication policies for Indian tele-nutrition, emphasizing safety, privacy, and clinical standards in low-bandwidth settings, with safeguards for child data and shared-phone households.",
+  "learning_objectives": [
+    "Understand tiered communication channels for tele-nutrition in India based on bandwidth and clinical needs.",
+    "Learn safeguards for child data and shared-phone households in tele-nutrition practices.",
+    "Explore ethical considerations in using consumer messaging platforms for clinical purposes."
+  ],
+  "key_facts": [
+    "Tier 1: Clinic platform messaging plus video for optimal care when available.",
+    "Tier 4: Low-tech care using phone counseling and scheduled in-person measurements.",
+    "Verify caregiver phone numbers at every care episode to prevent misdirected messages.",
+    "Explicit consent is required before receiving child images or feeding videos.",
+    "Child media must be uploaded to clinic repositories with role-based access and audit logs."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Telemedicine",
+    "Nutrition Therapy",
+    "Privacy",
+    "Child Health",
+    "Health Equity",
+    "Communication",
+    "India",
+    "Low Bandwidth"
+  ],
+  "tags_custom": [
+    "Tele-nutrition",
+    "Messaging platforms",
+    "Data safeguards",
+    "Tiered care",
+    "Clinical communication"
+  ],
+  "reference_quote": "Verify the caregiver phone number at every episode of care to prevent misdirected messages in shared-phone households. (Source: Telemedicine Practice Guidelines, Reference 1)",
+  "document_key_topics": [
+    "Tiered communication channels in tele-nutrition",
+    "Safeguards for child data and shared-phone households",
+    "Ethical use of consumer messaging platforms"
+  ],
+  "chunk_heading": "DIGITAL TOOLS & TELE-NUTRITION;ETHICS, COMMUNICATION CHANNELS, AND EQUITY IN INDIAN TELE-NUTRITION;LOW-BANDWIDTH CHANNEL TIERS AND SAFE USE OF MESSAGING PLATFORMS IN INDIA;",
+  "topic": "DIGITAL TOOLS & TELE-NUTRITION",
+  "subtopic": "ETHICS, COMMUNICATION CHANNELS, AND EQUITY IN INDIAN TELE-NUTRITION",
+  "sub_subtopic": "LOW-BANDWIDTH CHANNEL TIERS AND SAFE USE OF MESSAGING PLATFORMS IN INDIA",
+  "heading_path": "DIGITAL TOOLS & TELE-NUTRITION;ETHICS, COMMUNICATION CHANNELS, AND EQUITY IN INDIAN TELE-NUTRITION;LOW-BANDWIDTH CHANNEL TIERS AND SAFE USE OF MESSAGING PLATFORMS IN INDIA;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u009c3.1"
+}

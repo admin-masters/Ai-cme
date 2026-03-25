@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "This section discusses synovial fluid analysis and inflammatory marker thresholds for diagnosing pediatric septic arthritis, emphasizing cell counts, neutrophil percentages, and adjunctive markers like CRP and ESR.",
+  "learning_objectives": [
+    "Understand the diagnostic role of synovial fluid analysis in suspected septic arthritis.",
+    "Interpret synovial white cell counts and neutrophil percentages in the context of bacterial arthritis.",
+    "Recognize the importance of inflammatory markers (CRP, ESR) in guiding joint aspiration decisions.",
+    "Incorporate clinical probability and laboratory findings for a comprehensive diagnostic approach."
+  ],
+  "key_facts": [
+    "Synovial white cell counts >50,000 cells/mm\u00b3 strongly favor bacterial arthritis, but counts of 25,000\u201350,000 can still indicate infection.",
+    "Neutrophil predominance >75% in synovial fluid is highly suggestive of septic arthritis.",
+    "CRP >20 mg/L or ESR >20 mm/hr should lower the threshold for joint aspiration in symptomatic children.",
+    "Kingella kingae infections in toddlers may present with lower synovial cell counts and inflammatory markers compared to staphylococcal infections.",
+    "Clinical probability, synovial cell count, neutrophil percentage, Gram stain, and serial CRP trends should be combined for diagnosis."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Septic Arthritis",
+    "Synovial Fluid",
+    "Leukocyte Count",
+    "Neutrophils",
+    "C-Reactive Protein",
+    "Erythrocyte Sedimentation Rate",
+    "Pediatrics",
+    "Kingella kingae"
+  ],
+  "tags_custom": [
+    "pediatric bone infections",
+    "diagnostic thresholds",
+    "synovial fluid analysis",
+    "inflammatory markers"
+  ],
+  "reference_quote": "A synovial white cell count above about 50,000 cells per cubic millimeter strongly favors bacterial arthritis, but lower counts do not exclude infection. (Source: PIDS/IDSA 2023 Guidelines for Diagnosing and Managing Acute Bacterial Arthritis in Pediatrics)",
+  "document_key_topics": [
+    "Synovial fluid cell count interpretation",
+    "Inflammatory marker thresholds (CRP, ESR)",
+    "Diagnostic approach for pediatric septic arthritis",
+    "Role of Kingella kingae in atypical presentations"
+  ],
+  "chunk_heading": "BONE INFECTIONS;DIAGNOSTIC EVALUATION AND IMAGING SELECTION;SYNOVIAL FLUID CELL COUNT INTERPRETATION AND INFLAMMATORY MARKER THRESHOLDS;",
+  "topic": "BONE INFECTIONS",
+  "subtopic": "DIAGNOSTIC EVALUATION AND IMAGING SELECTION",
+  "sub_subtopic": "SYNOVIAL FLUID CELL COUNT INTERPRETATION AND INFLAMMATORY MARKER THRESHOLDS",
+  "heading_path": "BONE INFECTIONS;DIAGNOSTIC EVALUATION AND IMAGING SELECTION;SYNOVIAL FLUID CELL COUNT INTERPRETATION AND INFLAMMATORY MARKER THRESHOLDS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1j2"
+}

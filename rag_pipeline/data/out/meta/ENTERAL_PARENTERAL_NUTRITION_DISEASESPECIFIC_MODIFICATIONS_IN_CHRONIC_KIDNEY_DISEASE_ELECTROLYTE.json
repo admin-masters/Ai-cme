@@ -1,0 +1,51 @@
+{
+  "chunk_summary": "Nutritional management in pediatric chronic kidney disease (CKD) must balance growth needs with fluid, electrolyte, and protein constraints, adapting to renal function and dialysis changes while preventing catabolism and iatrogenic complications.",
+  "learning_objectives": [
+    "Understand the role of energy-dense formulas and modular additions in meeting energy needs in fluid-restricted pediatric CKD patients.",
+    "Learn how to individualize protein prescriptions based on pre-dialysis versus dialysis states and monitor growth and urea trends.",
+    "Identify strategies to manage electrolyte imbalances, including hyperkalemia and hyperphosphatemia, during enteral or parenteral nutrition.",
+    "Recognize the importance of frequent monitoring and operational safeguards in preventing iatrogenic complications in pediatric CKD nutrition."
+  ],
+  "key_facts": [
+    "Energy-dense formulas or modular additions are recommended to meet energy needs in fluid-restricted pediatric CKD patients.",
+    "Protein needs differ between pre-dialysis and dialysis states; adequate protein is essential for growth and healing.",
+    "Electrolyte dosing in parenteral nutrition requires frequent adjustment due to impaired renal excretion and dialysis changes.",
+    "Strict daily fluid accounting, including feeds, flushes, and IV fluids, is critical in CKD management.",
+    "Hyperkalemia or hyperphosphatemia should be managed by adjusting nutrition composition rather than withholding nutrition.",
+    "Frequent monitoring of electrolytes, bicarbonate, and calcium-phosphate balance is essential to prevent complications.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Chronic Kidney Disease",
+    "Pediatric Nutrition",
+    "Enteral Nutrition",
+    "Parenteral Nutrition",
+    "Electrolyte Imbalance",
+    "Protein Requirements",
+    "Dialysis",
+    "Energy Metabolism"
+  ],
+  "tags_custom": [
+    "CKD pediatric nutrition",
+    "electrolyte management",
+    "protein adequacy",
+    "dialysis nutrition",
+    "fluid restriction"
+  ],
+  "reference_quote": "Children with chronic kidney disease still need adequate protein for linear growth and healing, but targets may differ in pre-dialysis versus dialysis states; coordinate dosing with nephrology and monitor urea trends, growth trajectory, and clinical catabolism.",
+  "document_key_topics": [
+    "Nutritional management in pediatric CKD",
+    "Electrolyte and fluid constraints in CKD",
+    "Protein adequacy and growth in CKD",
+    "Monitoring and operational safeguards in CKD nutrition"
+  ],
+  "chunk_heading": "ENTERAL & PARENTERAL NUTRITION;DISEASE-SPECIFIC MODIFICATIONS IN HIGH-RISK PEDIATRIC CONDITIONS;CHRONIC KIDNEY DISEASE ELECTROLYTE CONSTRAINTS AND PROTEIN ADEQUACY;",
+  "topic": "ENTERAL & PARENTERAL NUTRITION",
+  "subtopic": "DISEASE-SPECIFIC MODIFICATIONS IN HIGH-RISK PEDIATRIC CONDITIONS",
+  "sub_subtopic": "CHRONIC KIDNEY DISEASE ELECTROLYTE CONSTRAINTS AND PROTEIN ADEQUACY",
+  "heading_path": "ENTERAL & PARENTERAL NUTRITION;DISEASE-SPECIFIC MODIFICATIONS IN HIGH-RISK PEDIATRIC CONDITIONS;CHRONIC KIDNEY DISEASE ELECTROLYTE CONSTRAINTS AND PROTEIN ADEQUACY;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "2\u00963"
+}

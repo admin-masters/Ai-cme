@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section outlines the growth monitoring cadence and referral escalation triggers within the ICDS Anganwadi Service Package, emphasizing rule-based pathways for malnutrition management and clinical linkages across community and healthcare settings.",
+  "learning_objectives": [
+    "Understand the growth monitoring schedule for children under ICDS guidelines.",
+    "Identify referral escalation triggers for malnutrition and related complications.",
+    "Learn the integration of community-based care with clinical services for SAM management.",
+    "Recognize the importance of rapid communication between AWW, ANM, and healthcare facilities."
+  ],
+  "key_facts": [
+    "Monthly weighing is recommended for children up to 3 years, and every third month thereafter.",
+    "Referral triggers include weight loss for two consecutive weeks, failure to gain weight for two weeks, or not eating for three consecutive days.",
+    "Severe conditions like bilateral pitting edema, severe anemia, pneumonia, or dehydration require urgent PHC/CHC evaluation and potential NRC referral.",
+    "Post-NRC discharge, children should be linked to ANM/ASHA/AWW for monthly reviews until recovery thresholds are met.",
+    "Communication between AWW and ANM after identifying SAM should occur within a short window to ensure rapid handoff."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Child Nutrition Disorders",
+    "Malnutrition",
+    "Growth Monitoring",
+    "Community Health Services",
+    "Pediatric Nutrition",
+    "Referral and Consultation",
+    "Primary Health Care",
+    "Wasting Syndrome"
+  ],
+  "tags_custom": [
+    "ICDS guidelines",
+    "Anganwadi services",
+    "SAM management",
+    "Community pediatric care",
+    "Referral protocols"
+  ],
+  "reference_quote": "Escalate for weight loss for two consecutive weeks, failure to gain weight for two consecutive weeks, not eating for three consecutive days, appearance of bilateral pitting edema, severe anemia, severe pneumonia, diarrhea with >5 watery stools in 12 hours or any dehydration, or non-recovery after three months in the program. (Source: CMAM Protocol, Reference 1)",
+  "document_key_topics": [
+    "Growth monitoring cadence in ICDS",
+    "Referral escalation triggers for malnutrition",
+    "Integration of community and clinical care for SAM",
+    "Communication protocols for rapid handoff"
+  ],
+  "chunk_heading": "PUBLIC HEALTH & COMMUNITY PEDIATRIC NUTRITION;ICDS ANGANWADI SERVICE PACKAGE AND CLINICAL LINKAGE;GROWTH MONITORING CADENCE AND REFERRAL ESCALATION TRIGGERS;",
+  "topic": "PUBLIC HEALTH & COMMUNITY PEDIATRIC NUTRITION",
+  "subtopic": "ICDS ANGANWADI SERVICE PACKAGE AND CLINICAL LINKAGE",
+  "sub_subtopic": "GROWTH MONITORING CADENCE AND REFERRAL ESCALATION TRIGGERS",
+  "heading_path": "PUBLIC HEALTH & COMMUNITY PEDIATRIC NUTRITION;ICDS ANGANWADI SERVICE PACKAGE AND CLINICAL LINKAGE;GROWTH MONITORING CADENCE AND REFERRAL ESCALATION TRIGGERS;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1o3.1"
+}

@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "Exclusive Enteral Nutrition (EEN) is a structured dietary therapy for pediatric IBD, requiring strict adherence, formula selection, monitoring, and staged food reintroduction to ensure remission and growth preservation.",
+  "learning_objectives": [
+    "Understand the prescription and implementation workflow for Exclusive Enteral Nutrition (EEN) in pediatric IBD.",
+    "Learn strategies to manage adherence barriers, including taste fatigue and school routines.",
+    "Recognize the importance of monitoring weight, symptoms, and biochemical markers during EEN therapy.",
+    "Identify steps to prevent refeeding syndrome and plan staged food reintroduction post-EEN."
+  ],
+  "key_facts": [
+    "EEN duration is typically 6\u20138 weeks with formula as the sole calorie source.",
+    "Polymeric formulas are first-line due to better tolerance, lower cost, and similar remission rates compared to elemental formulas.",
+    "Daily volume is calculated based on the child\u2019s energy requirements; NG delivery is recommended if oral intake is insufficient.",
+    "Monitoring includes weekly weight, CRP, albumin, hydration, and stool frequency.",
+    "For children with severe wasting or poor intake, start with a lower calorie target and advance gradually to prevent refeeding syndrome.",
+    "Post-EEN, foods should be reintroduced in a staged manner while maintaining partial enteral nutrition if needed."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Inflammatory Bowel Diseases",
+    "Pediatrics",
+    "Enteral Nutrition",
+    "Crohn Disease",
+    "Malnutrition",
+    "Refeeding Syndrome",
+    "Dietary Therapy",
+    "Growth Disorders"
+  ],
+  "tags_custom": [
+    "EEN workflow",
+    "pediatric IBD nutrition",
+    "growth preservation",
+    "dietary adherence",
+    "formula selection"
+  ],
+  "reference_quote": "EEN should be prescribed like a drug to prevent partial adherence, which is the main reason for failure. Define duration (typically 6\u20138 weeks), exclusivity (formula as the sole calorie source), and the monitoring plan from day one. (ECCO-ESPGHAN guideline update, 2020)",
+  "document_key_topics": [
+    "Exclusive Enteral Nutrition (EEN) in pediatric IBD",
+    "Adherence strategies and formula selection",
+    "Monitoring and prevention of refeeding syndrome",
+    "Staged food reintroduction post-EEN"
+  ],
+  "chunk_heading": "NUTRITION IN GI DISORDERS & MALABSORPTION;PEDIATRIC IBD NUTRITION AND GROWTH PRESERVATION;EXCLUSIVE ENTERAL NUTRITION PRESCRIPTION AND IMPLEMENTATION WORKFLOW;",
+  "topic": "NUTRITION IN GI DISORDERS & MALABSORPTION",
+  "subtopic": "PEDIATRIC IBD NUTRITION AND GROWTH PRESERVATION",
+  "sub_subtopic": "EXCLUSIVE ENTERAL NUTRITION PRESCRIPTION AND IMPLEMENTATION WORKFLOW",
+  "heading_path": "NUTRITION IN GI DISORDERS & MALABSORPTION;PEDIATRIC IBD NUTRITION AND GROWTH PRESERVATION;EXCLUSIVE ENTERAL NUTRITION PRESCRIPTION AND IMPLEMENTATION WORKFLOW;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "2~3"
+}

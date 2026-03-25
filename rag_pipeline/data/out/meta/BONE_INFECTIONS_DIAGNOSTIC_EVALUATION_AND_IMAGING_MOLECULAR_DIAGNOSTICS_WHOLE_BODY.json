@@ -1,0 +1,47 @@
+{
+  "chunk_summary": "This section discusses molecular diagnostics, whole-body MRI, and culture-negative pathways in diagnosing bone infections, emphasizing advanced imaging and targeted microbiological techniques for complex or culture-negative cases.",
+  "learning_objectives": [
+    "Understand the role of molecular diagnostics, including PCR and 16S ribosomal assays, in culture-negative bone infections.",
+    "Learn the indications and utility of whole-body MRI in multifocal or complex osteomyelitis cases.",
+    "Recognize the importance of clinical response and repeat sampling in managing persistent symptoms despite negative cultures."
+  ],
+  "key_facts": [
+    "Targeted PCR assays can detect Kingella kingae, mycobacteria, and resistance determinants in culture-negative cases.",
+    "Broad-range bacterial sequencing, such as 16S ribosomal assays, is particularly useful in preschool children and immunocompromised patients.",
+    "Whole-body MRI is valuable for identifying multifocal osteomyelitis, chronic nonbacterial osteomyelitis, or occult second sites.",
+    "Ultrasound-guided aspiration is effective for deep but accessible collections, especially around the hip and soft tissues.",
+    "If cultures are negative but the child is improving, continue a focused regimen and monitor CRP trends."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Osteomyelitis",
+    "Molecular Diagnostic Techniques",
+    "Magnetic Resonance Imaging",
+    "Polymerase Chain Reaction",
+    "16S Ribosomal RNA",
+    "Culture-Negative Infections",
+    "Pediatric Infectious Diseases",
+    "Ultrasound-Guided Aspiration"
+  ],
+  "tags_custom": [
+    "bone infections",
+    "culture-negative pathways",
+    "whole-body MRI",
+    "molecular diagnostics",
+    "pediatric imaging"
+  ],
+  "reference_quote": "PIDS/IDSA 2023 Guidelines recommend targeted PCR and advanced imaging for culture-negative osteomyelitis, particularly in pediatric cases. (Source: https://www.idsociety.org/practice-guideline/bone-...)",
+  "document_key_topics": [
+    "Molecular diagnostics in culture-negative infections",
+    "Role of whole-body MRI in multifocal osteomyelitis",
+    "Management strategies for persistent symptoms in bone infections"
+  ],
+  "chunk_heading": "BONE INFECTIONS;DIAGNOSTIC EVALUATION AND IMAGING SELECTION;MOLECULAR DIAGNOSTICS WHOLE BODY MRI AND CULTURE NEGATIVE PATHWAYS;",
+  "topic": "BONE INFECTIONS",
+  "subtopic": "DIAGNOSTIC EVALUATION AND IMAGING SELECTION",
+  "sub_subtopic": "MOLECULAR DIAGNOSTICS WHOLE BODY MRI AND CULTURE NEGATIVE PATHWAYS",
+  "heading_path": "BONE INFECTIONS;DIAGNOSTIC EVALUATION AND IMAGING SELECTION;MOLECULAR DIAGNOSTICS WHOLE BODY MRI AND CULTURE NEGATIVE PATHWAYS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1n6"
+}

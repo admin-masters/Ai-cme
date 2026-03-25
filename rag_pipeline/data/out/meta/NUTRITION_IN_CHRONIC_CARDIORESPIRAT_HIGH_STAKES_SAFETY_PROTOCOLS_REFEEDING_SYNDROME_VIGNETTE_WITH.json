@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "This vignette addresses refeeding syndrome management in high-risk infants with chronic cardiorespiratory disease, emphasizing monitored calorie escalation, electrolyte stability, and ICU coordination to prevent complications like pulmonary edema and feeding intolerance.",
+  "learning_objectives": [
+    "Understand the risks of refeeding syndrome in infants with chronic cardiorespiratory disease and severe wasting.",
+    "Learn safe protocols for calorie escalation, including baseline lab monitoring and electrolyte correction.",
+    "Recognize the importance of defining dry weight targets and monitoring respiratory status during nutritional therapy.",
+    "Apply refeeding principles to similar conditions like cystic fibrosis and severe bronchopulmonary dysplasia."
+  ],
+  "key_facts": [
+    "Baseline labs: Obtain phosphate, magnesium, potassium, and glucose before calorie escalation.",
+    "Thiamine supplementation: Recommended for children with prolonged poor intake or severe wasting.",
+    "Calorie escalation: Start below full target and advance over several days, prioritizing protein adequacy and electrolyte stability.",
+    "Monitoring schedule: Daily electrolytes for the first 72 hours in high-risk children.",
+    "Stop rule: Pause calorie escalation if respiratory status worsens or electrolyte levels collapse.",
+    "Dry weight target: Define after stabilization to avoid misinterpreting early weight gain as tissue accretion."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Refeeding Syndrome",
+    "Heart Failure",
+    "Electrolyte Imbalance",
+    "Nutritional Therapy",
+    "Chronic Disease",
+    "Infant Nutrition",
+    "Pulmonary Edema",
+    "Critical Care"
+  ],
+  "tags_custom": [
+    "refeeding protocols",
+    "cardiorespiratory disease",
+    "ICU coordination",
+    "electrolyte monitoring",
+    "catch-up feeding"
+  ],
+  "reference_quote": "Obtain baseline phosphate, magnesium, potassium, and glucose before significant calorie increase, and give thiamine in children with prolonged poor intake or severe wasting. (Royal Children\u2019s Hospital Melbourne guideline)",
+  "document_key_topics": [
+    "Refeeding syndrome management in chronic cardiorespiratory disease",
+    "Safe calorie escalation protocols in high-risk infants",
+    "Electrolyte monitoring and correction during nutritional therapy",
+    "ICU coordination for feeding intolerance and pulmonary edema prevention"
+  ],
+  "chunk_heading": "NUTRITION IN CHRONIC CARDIORESPIRATORY DISEASE;HIGH STAKES SAFETY PROTOCOLS REFERRAL TRIGGERS AND ICU COORDINATION;REFEEDING SYNDROME VIGNETTE WITH CALORIE ADVANCE MONITORING;",
+  "topic": "NUTRITION IN CHRONIC CARDIORESPIRATORY DISEASE",
+  "subtopic": "HIGH STAKES SAFETY PROTOCOLS REFERRAL TRIGGERS AND ICU COORDINATION",
+  "sub_subtopic": "REFEEDING SYNDROME VIGNETTE WITH CALORIE ADVANCE MONITORING",
+  "heading_path": "NUTRITION IN CHRONIC CARDIORESPIRATORY DISEASE;HIGH STAKES SAFETY PROTOCOLS REFERRAL TRIGGERS AND ICU COORDINATION;REFEEDING SYNDROME VIGNETTE WITH CALORIE ADVANCE MONITORING;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1\u00881"
+}

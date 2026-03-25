@@ -1,0 +1,51 @@
+{
+  "chunk_summary": "This section outlines labeling and traceability protocols for expressed and donor milk in NICUs, emphasizing safety, workflow design, and error prevention strategies, including barcode systems and two-person verification.",
+  "learning_objectives": [
+    "Understand the importance of labeling and traceability for expressed and donor milk in NICUs.",
+    "Learn best practices for milk storage, inventory rotation, and administration to prevent cross-infant errors.",
+    "Identify the role of barcode scanning and two-person verification in reducing wrong-milk events.",
+    "Recognize the importance of discarding milk with missing or unreadable labels to ensure safety."
+  ],
+  "key_facts": [
+    "Every container must be labeled with infant identifier, mother identifier (for EBM), date/time of expression, and expiry time.",
+    "Labels must remain legible under refrigeration or freezing; condensation can cause sticker detachment.",
+    "Inventory rotation should follow the FIFO (first-in-first-out) principle within each infant\u2019s supply.",
+    "Barcode scanning systems can match bottles to infant wristbands and block expired milk, reducing errors.",
+    "In the absence of electronic systems, two-person verification is recommended at preparation and administration.",
+    "Donor milk bottles must link to pasteurization batch and culture release records for traceability.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Milk, Human",
+    "Infant, Newborn",
+    "Neonatal Intensive Care Units",
+    "Milk Banks",
+    "Safety Management",
+    "Labeling",
+    "Traceability",
+    "Inventory Control"
+  ],
+  "tags_custom": [
+    "NICU milk safety",
+    "expressed breast milk",
+    "donor milk protocols",
+    "barcode scanning",
+    "milk labeling"
+  ],
+  "reference_quote": "Labels should remain legible when refrigerated or frozen; removable stickers that detach in condensation-prone conditions are a common failure point.",
+  "document_key_topics": [
+    "Labeling and traceability for NICU milk safety",
+    "Workflow design for milk handling in NICUs",
+    "Error prevention in milk administration",
+    "Donor milk traceability and safety protocols"
+  ],
+  "chunk_heading": "EXPRESSED MILK, DONOR MILK & MILK BANKING;LABELING AND TRACEABILITY CONTROLS FOR NICU MILK SAFETY;",
+  "topic": "EXPRESSED MILK, DONOR MILK & MILK BANKING",
+  "subtopic": "LABELING AND TRACEABILITY CONTROLS FOR NICU MILK SAFETY",
+  "sub_subtopic": null,
+  "heading_path": "EXPRESSED MILK, DONOR MILK & MILK BANKING;LABELING AND TRACEABILITY CONTROLS FOR NICU MILK SAFETY;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1e"
+}

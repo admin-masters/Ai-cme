@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section outlines laboratory monitoring protocols and response strategies for glucose and lipid abnormalities in pediatric patients receiving parenteral nutrition, emphasizing early detection and management of complications such as hyperglycemia, hypoglycemia, and hypertriglyceridemia.",
+  "learning_objectives": [
+    "Understand the recommended frequency of laboratory monitoring for glucose, lipids, and electrolytes in pediatric parenteral nutrition.",
+    "Identify thresholds and response strategies for managing hyperglycemia, hypoglycemia, and hypertriglyceridemia.",
+    "Learn the importance of baseline assessments and early warning signs for complications in parenteral nutrition.",
+    "Apply practical interventions to prevent and manage metabolic complications in at-risk pediatric patients."
+  ],
+  "key_facts": [
+    "Baseline tests should include electrolytes (phosphate, magnesium), glucose, triglycerides, urea/creatinine, and liver function tests before starting parenteral nutrition.",
+    "Bedside glucose should be checked every 4\u20136 hours in the first 48\u201372 hours, especially during GIR escalation or in the presence of steroids/sepsis.",
+    "Hyperglycemia is defined as glucose >180 mg/dL (10 mmol/L) on repeat testing; first-line management includes reducing dextrose delivery.",
+    "Hypoglycemia requires urgent treatment with dextrose and re-establishment of a continuous carbohydrate source, followed by immediate glucose rechecking.",
+    "Triglycerides should be rechecked within 24\u201348 hours after lipid initiation or dose increase; reduce lipid dose if levels exceed ~250 mg/dL.",
+    "Daily weights, strict input/output monitoring, and catheter-site assessments are critical for detecting fluid imbalance and line complications."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Parenteral Nutrition",
+    "Glucose Monitoring",
+    "Hyperglycemia",
+    "Hypoglycemia",
+    "Hypertriglyceridemia",
+    "Electrolyte Imbalance",
+    "Pediatric Nutrition",
+    "Lipid Metabolism"
+  ],
+  "tags_custom": [
+    "PN complications",
+    "glucose thresholds",
+    "lipid monitoring",
+    "pediatric guidelines",
+    "refeeding syndrome"
+  ],
+  "reference_quote": "Monitoring is part of the PN prescription because many complications are detectable before clinical deterioration. Obtain baseline electrolytes (including phosphate and magnesium), glucose, triglycerides, urea/creatinine, and liver tests before starting when feasible.",
+  "document_key_topics": [
+    "Laboratory monitoring in parenteral nutrition",
+    "Management of glucose abnormalities (hyperglycemia, hypoglycemia)",
+    "Lipid monitoring and hypertriglyceridemia response"
+  ],
+  "chunk_heading": "ENTERAL & PARENTERAL NUTRITION;MONITORING THRESHOLDS AND COMPLICATION RESPONSE PATHWAYS;LABORATORY MONITORING FREQUENCY AND GLUCOSE LIPID RESPONSE LADDER;",
+  "topic": "ENTERAL & PARENTERAL NUTRITION",
+  "subtopic": "MONITORING THRESHOLDS AND COMPLICATION RESPONSE PATHWAYS",
+  "sub_subtopic": "LABORATORY MONITORING FREQUENCY AND GLUCOSE LIPID RESPONSE LADDER",
+  "heading_path": "ENTERAL & PARENTERAL NUTRITION;MONITORING THRESHOLDS AND COMPLICATION RESPONSE PATHWAYS;LABORATORY MONITORING FREQUENCY AND GLUCOSE LIPID RESPONSE LADDER;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "2\u008d1"
+}

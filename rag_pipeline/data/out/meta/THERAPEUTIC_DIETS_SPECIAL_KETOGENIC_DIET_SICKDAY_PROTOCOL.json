@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Guidelines for managing intercurrent illness in children on the ketogenic diet, focusing on preventing dehydration, hypoglycemia, and acidosis, with specific protocols for home and emergency department care.",
+  "learning_objectives": [
+    "Understand the sick-day protocol for children on the ketogenic diet, including home and emergency care steps.",
+    "Recognize the importance of preventing hypoglycemia and dehydration during intercurrent illness.",
+    "Learn the appropriate use of carbohydrate-free medications and fluids in the emergency department.",
+    "Identify key indicators for escalating care to the emergency department."
+  ],
+  "key_facts": [
+    "Blood glucose below 2.6 mmol/L (47 mg/dL) or hypoglycemia symptoms require immediate treatment.",
+    "Families should increase ketone and glucose monitoring during fever, vomiting, diarrhea, or lethargy.",
+    "Persistent vomiting, dehydration, altered sensorium, or seizure clustering necessitate ED evaluation.",
+    "Carbohydrate-free fluids and antipyretics should be prioritized to maintain ketosis.",
+    "In the ED, avoid dextrose-containing fluids unless hypoglycemia is present and check electrolytes, bicarbonate, glucose, and ketones.",
+    "India-specific plans should include locally available sugar-free oral rehydration options."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Ketogenic Diet",
+    "Hypoglycemia",
+    "Dehydration",
+    "Acidosis",
+    "Emergency Medical Services",
+    "Pediatrics",
+    "Dietary Therapy",
+    "Seizures"
+  ],
+  "tags_custom": [
+    "sick-day protocol",
+    "ketotic hypoglycemia",
+    "emergency care",
+    "carbohydrate-free medications",
+    "India-specific counseling"
+  ],
+  "reference_quote": "Preserving ketosis is never an argument to delay glucose in a symptomatic child. (Source: Royal Children\u2019s Hospital guideline)",
+  "document_key_topics": [
+    "Sick-day management for ketogenic diet",
+    "Emergency department protocols for hypoglycemia and dehydration",
+    "Preventing acidosis and maintaining ketosis during illness"
+  ],
+  "chunk_heading": "THERAPEUTIC DIETS & SPECIAL INTERVENTIONS;KETOGENIC DIET SICK-DAY PROTOCOL AND EMERGENCY DEPARTMENT ACTIONS;",
+  "topic": "THERAPEUTIC DIETS & SPECIAL INTERVENTIONS",
+  "subtopic": "KETOGENIC DIET SICK-DAY PROTOCOL AND EMERGENCY DEPARTMENT ACTIONS",
+  "sub_subtopic": null,
+  "heading_path": "THERAPEUTIC DIETS & SPECIAL INTERVENTIONS;KETOGENIC DIET SICK-DAY PROTOCOL AND EMERGENCY DEPARTMENT ACTIONS;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1l"
+}

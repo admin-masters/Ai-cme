@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "This section outlines follow-up cadence and monitoring metrics for feeding support in neurodisability, stratified by risk tiers, with practical guidelines for review frequency and standardized metrics to track progress.",
+  "learning_objectives": [
+    "Understand how to stratify patients with neurodisability into risk tiers for feeding support.",
+    "Learn the recommended follow-up cadence for each risk tier, including high, moderate, and low risk.",
+    "Identify standardized monitoring metrics such as EDACS, IDDSI levels, and respiratory burden.",
+    "Explore tele-follow-up strategies for patients with travel barriers."
+  ],
+  "key_facts": [
+    "High-risk patients should be reviewed every 2\u20134 weeks until stable, then every 2\u20133 months.",
+    "Moderate-risk patients require follow-up every 6\u20138 weeks until stable, then every 3\u20136 months.",
+    "Low-risk patients should be reviewed every 6 months, with earlier reviews after respiratory infections.",
+    "Standardized metrics include EDACS, IDDSI levels, meal duration, hydration markers, and respiratory burden.",
+    "Infants with feeding problems need growth monitoring every 1\u20133 months.",
+    "Tele-follow-up can be used for stability checks, with caregivers sharing videos for assessment."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Neurodevelopmental Disorders",
+    "Feeding and Eating Disorders",
+    "Nutritional Status",
+    "Swallowing Disorders",
+    "Respiratory Tract Infections",
+    "Caregivers",
+    "Growth Monitoring",
+    "Telemedicine"
+  ],
+  "tags_custom": [
+    "feeding support",
+    "risk stratification",
+    "follow-up cadence",
+    "monitoring metrics",
+    "caregiver education"
+  ],
+  "reference_quote": "\u2018Define a risk tier at each visit using swallow safety, efficiency, respiratory events, and caregiver feasibility, then match review frequency to risk.\u2019 (Source: ESPGHAN Advice Guide)",
+  "document_key_topics": [
+    "Risk stratification for feeding support in neurodisability",
+    "Follow-up cadence based on risk tiers",
+    "Standardized monitoring metrics for feeding and growth",
+    "Telemedicine for follow-up in resource-limited settings"
+  ],
+  "chunk_heading": "NEURODISABILITY AND FEEDING SUPPORT;FOLLOW-UP CADENCE AND STANDARDIZED MONITORING METRICS BY RISK TIER;",
+  "topic": "NEURODISABILITY AND FEEDING SUPPORT",
+  "subtopic": "FOLLOW-UP CADENCE AND STANDARDIZED MONITORING METRICS BY RISK TIER",
+  "sub_subtopic": null,
+  "heading_path": "NEURODISABILITY AND FEEDING SUPPORT;FOLLOW-UP CADENCE AND STANDARDIZED MONITORING METRICS BY RISK TIER;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "1j"
+}

@@ -1,0 +1,45 @@
+{
+  "chunk_summary": "This section discusses how monitoring and evaluation (M&E) metrics in pediatric nutrition programs can transition from dashboard signals to actionable diagnoses and corrective plans, focusing on common signals in Indian nutrition programs.",
+  "learning_objectives": [
+    "Understand the role of M&E metrics in identifying and addressing pediatric nutrition issues.",
+    "Learn to interpret dashboard signals and perform differential diagnoses for corrective actions.",
+    "Develop strategies to improve data quality and program effectiveness in community nutrition settings."
+  ],
+  "key_facts": [
+    "Signal 1: Sharp drop in wasting prevalence may indicate measurement errors, selective reporting, or true improvement; corrective actions include sentinel re-measurement and calibration audits.",
+    "Signal 2: High adolescent anemia rates despite PM POSHAN meals may result from low dietary iron density, poor WIFS adherence, or helminth burden; corrective actions include plate-waste observation and deworming coverage checks.",
+    "Signal 3: Near 100% growth monitoring coverage may still miss severe wasting due to poor anthropometry techniques or referral delays; bedside anthropometry and referral handoff strengthening are critical.",
+    "PM POSHAN meals are reported as served on most days, but anemia rates remain high, requiring multi-causal analysis beyond meal provision.",
+    "Corrective actions emphasize sentinel re-measurement, menu composition reviews, and strengthening referral systems for high-risk children."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Public Health",
+    "Pediatric Nutrition",
+    "Monitoring and Evaluation",
+    "Malnutrition",
+    "Anemia",
+    "Growth Monitoring",
+    "Community Health Services"
+  ],
+  "tags_custom": [
+    "Dashboard Analysis",
+    "Corrective Action Planning",
+    "Indian Nutrition Programs",
+    "Data Quality Improvement"
+  ],
+  "reference_quote": "Guidelines on PM POSHAN Scheme emphasize the importance of fortified inputs and supervised dosing registers to address adolescent anemia rates effectively. (Reference 2)",
+  "document_key_topics": [
+    "Monitoring and Evaluation Metrics in Pediatric Nutrition",
+    "Dashboard Signal Interpretation and Corrective Actions",
+    "Community-Based Management of Malnutrition"
+  ],
+  "chunk_heading": "PUBLIC HEALTH & COMMUNITY PEDIATRIC NUTRITION;MONITORING AND EVALUATION METRICS FOR PROGRAM CORRECTIVE ACTION;FROM DASHBOARD SIGNAL TO DIAGNOSIS AND CORRECTIVE ACTION;",
+  "topic": "PUBLIC HEALTH & COMMUNITY PEDIATRIC NUTRITION",
+  "subtopic": "MONITORING AND EVALUATION METRICS FOR PROGRAM CORRECTIVE ACTION",
+  "sub_subtopic": "FROM DASHBOARD SIGNAL TO DIAGNOSIS AND CORRECTIVE ACTION",
+  "heading_path": "PUBLIC HEALTH & COMMUNITY PEDIATRIC NUTRITION;MONITORING AND EVALUATION METRICS FOR PROGRAM CORRECTIVE ACTION;FROM DASHBOARD SIGNAL TO DIAGNOSIS AND CORRECTIVE ACTION;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "1\u009d5"
+}

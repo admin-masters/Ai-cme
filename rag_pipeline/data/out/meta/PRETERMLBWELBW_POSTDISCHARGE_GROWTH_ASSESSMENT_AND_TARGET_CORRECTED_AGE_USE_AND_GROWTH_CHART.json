@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "Guidelines for using corrected age and transitioning growth charts for preterm/LBW/ELBW infants post-discharge, emphasizing consistency, proper measurement techniques, and age-appropriate growth standards.",
+  "learning_objectives": [
+    "Understand how to calculate and apply corrected age for preterm infants.",
+    "Learn the appropriate use and transition of growth charts for preterm and ELBW infants.",
+    "Recognize the importance of consistent growth monitoring and documentation.",
+    "Identify key measurement techniques to ensure accurate growth assessment."
+  ],
+  "key_facts": [
+    "Corrected age = chronological age - (40 weeks - gestational age at birth).",
+    "Use corrected age for growth and developmental interpretation up to 24 months, or 36 months for ELBW/extremely preterm infants if needed.",
+    "Transition from preterm growth charts (e.g., Fenton) to WHO 0\u201324 month standards around term-equivalent age.",
+    "Intergrowth-21st standards can be used up to 64 weeks postmenstrual age (PMA).",
+    "Consistency in growth chart use is critical to avoid misinterpreting centile drops as growth failure.",
+    "Verify measurement techniques (e.g., naked weight, infantometer for length, correct head circumference landmarks) at every visit."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Infant, Premature",
+    "Low Birth Weight Infant",
+    "Growth Charts",
+    "Postnatal Care",
+    "Nutritional Assessment",
+    "Gestational Age",
+    "Head Circumference",
+    "Body Weight"
+  ],
+  "tags_custom": [
+    "Corrected Age",
+    "Growth Monitoring",
+    "Preterm Nutrition",
+    "ELBW Infants",
+    "Developmental Assessment"
+  ],
+  "reference_quote": "Corrected age = chronological age - (40 weeks - GA at birth). Plot weight, length, and head circumference using corrected age, not chronological age, and document corrected age in every follow-up note.",
+  "document_key_topics": [
+    "Corrected age calculation and application",
+    "Growth chart transitions for preterm infants",
+    "Consistency in growth monitoring",
+    "Measurement techniques for growth assessment"
+  ],
+  "chunk_heading": "PRETERM/LBW/ELBW POST-DISCHARGE NUTRITION;GROWTH ASSESSMENT AND TARGET SETTING AFTER DISCHARGE;CORRECTED AGE USE AND GROWTH CHART TRANSITIONS;",
+  "topic": "PRETERM/LBW/ELBW POST-DISCHARGE NUTRITION",
+  "subtopic": "GROWTH ASSESSMENT AND TARGET SETTING AFTER DISCHARGE",
+  "sub_subtopic": "CORRECTED AGE USE AND GROWTH CHART TRANSITIONS",
+  "heading_path": "PRETERM/LBW/ELBW POST-DISCHARGE NUTRITION;GROWTH ASSESSMENT AND TARGET SETTING AFTER DISCHARGE;CORRECTED AGE USE AND GROWTH CHART TRANSITIONS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1m1"
+}

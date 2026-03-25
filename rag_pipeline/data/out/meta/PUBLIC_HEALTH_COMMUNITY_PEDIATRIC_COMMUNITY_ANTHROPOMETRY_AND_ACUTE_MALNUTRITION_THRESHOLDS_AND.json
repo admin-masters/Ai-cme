@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "This section outlines acute malnutrition thresholds and triage decisions for children aged 6\u201359 months, emphasizing WHO and Indian protocols for SAM and MAM classification, clinical risk prioritization, and management strategies.",
+  "learning_objectives": [
+    "Understand the WHO and Indian criteria for classifying SAM and MAM in children aged 6\u201359 months.",
+    "Learn the importance of using both MUAC and WHZ for malnutrition assessment and their clinical implications.",
+    "Identify clinical signs and complications that necessitate urgent facility-based care for children with SAM.",
+    "Differentiate management strategies for children with and without complications of acute malnutrition."
+  ],
+  "key_facts": [
+    "Severe acute malnutrition (SAM) is defined as nutritional edema and/or WLZ/WHZ < -3 and/or MUAC <115 mm.",
+    "Moderate acute malnutrition (MAM) is defined as WLZ/WHZ between -3 and < -2 and/or MUAC 115 to <125 mm, without nutritional edema.",
+    "Bilateral pitting edema in under-5 children is a diagnostic criterion for SAM until proven otherwise.",
+    "MUAC and WHZ identify overlapping but distinct high-risk groups; both should be used when feasible.",
+    "Children with SAM and complications (e.g., lethargy, hypothermia, hypoglycemia, dehydration) require urgent facility-based care, often in an NRC.",
+    "Infants under 6 months with suspected severe wasting should always be referred for facility assessment due to unique feeding and medical risks."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Malnutrition",
+    "Severe Acute Malnutrition",
+    "Anthropometry",
+    "Pediatrics",
+    "Nutritional Assessment",
+    "Community Health Services",
+    "Triage",
+    "Child Nutrition Disorders"
+  ],
+  "tags_custom": [
+    "SAM classification",
+    "MAM thresholds",
+    "pediatric malnutrition",
+    "triage decisions",
+    "community nutrition"
+  ],
+  "reference_quote": "Severe acute malnutrition (SAM) is defined as nutritional edema and/or weight-for-length/height z-score (WLZ/WHZ) < -3 and/or MUAC <115 mm; MAM is WLZ/WHZ between -3 and < -2 and/or MUAC 115 to <125 mm, with no nutritional edema.",
+  "document_key_topics": [
+    "Acute malnutrition thresholds for SAM and MAM",
+    "Clinical risk prioritization in malnutrition management",
+    "Triage and referral decisions for children with SAM",
+    "Use of MUAC and WHZ in malnutrition assessment"
+  ],
+  "chunk_heading": "PUBLIC HEALTH & COMMUNITY PEDIATRIC NUTRITION;COMMUNITY ANTHROPOMETRY AND MALNUTRITION CLASSIFICATION;ACUTE MALNUTRITION THRESHOLDS AND TRIAGE DECISIONS;",
+  "topic": "PUBLIC HEALTH & COMMUNITY PEDIATRIC NUTRITION",
+  "subtopic": "COMMUNITY ANTHROPOMETRY AND MALNUTRITION CLASSIFICATION",
+  "sub_subtopic": "ACUTE MALNUTRITION THRESHOLDS AND TRIAGE DECISIONS",
+  "heading_path": "PUBLIC HEALTH & COMMUNITY PEDIATRIC NUTRITION;COMMUNITY ANTHROPOMETRY AND MALNUTRITION CLASSIFICATION;ACUTE MALNUTRITION THRESHOLDS AND TRIAGE DECISIONS;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1i2"
+}

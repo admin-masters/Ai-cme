@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "This section outlines India-specific and international crosswalks for managing pediatric metabolic risks, including obesity, hypertension, MASLD, and youth-onset T2DM, emphasizing when to prioritize local versus global guidelines.",
+  "learning_objectives": [
+    "Differentiate between India-specific and international guidelines for pediatric metabolic risk management.",
+    "Understand the application of IAP recommendations for obesity, hypertension, MASLD, and youth-onset T2DM in Indian settings.",
+    "Identify gaps in local resources and adapt international guidance appropriately.",
+    "Apply evidence-based strategies for pediatric metabolic risk care in resource-limited settings."
+  ],
+  "key_facts": [
+    "India-specific IAP guidelines for obesity include growth charts and adult-equivalent cutoffs.",
+    "Hypertension management in India aligns with IAP thresholds, with ABPM recommended when available.",
+    "MASLD 2024 guidelines in India recommend ALT and ultrasound for diagnosis, with escalation triggers defined.",
+    "Youth-onset T2DM care in India follows IAP diagnostic standards, with ISPAD schedules for annual complication screening as a fallback.",
+    "International guidelines provide detailed protocols for areas like ambulatory BP monitoring and pediatric liver ultrasound limitations."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Pediatric Obesity",
+    "Hypertension",
+    "Nonalcoholic Fatty Liver Disease",
+    "Type 2 Diabetes Mellitus",
+    "Guideline Adherence",
+    "India",
+    "Pediatrics",
+    "Metabolic Syndrome"
+  ],
+  "tags_custom": [
+    "India-specific guidelines",
+    "Pediatric metabolic care",
+    "Crosswalk of guidelines",
+    "Resource-limited settings"
+  ],
+  "reference_quote": "India has dedicated IAP recommendations (India-appropriate growth charts and adult-equivalent cutoffs).",
+  "document_key_topics": [
+    "India-specific pediatric metabolic guidelines",
+    "Obesity and hypertension management in children",
+    "MASLD and youth-onset T2DM care",
+    "Crosswalk between local and international guidance"
+  ],
+  "chunk_heading": "METABOLIC RISK IN CHILDREN;CLINICAL FOUNDATIONS OF PEDIATRIC METABOLIC RISK;INDIA-FIRST GUIDELINE CROSSWALK FOR METABOLIC RISK CARE;",
+  "topic": "METABOLIC RISK IN CHILDREN",
+  "subtopic": "CLINICAL FOUNDATIONS OF PEDIATRIC METABOLIC RISK",
+  "sub_subtopic": "INDIA-FIRST GUIDELINE CROSSWALK FOR METABOLIC RISK CARE",
+  "heading_path": "METABOLIC RISK IN CHILDREN;CLINICAL FOUNDATIONS OF PEDIATRIC METABOLIC RISK;INDIA-FIRST GUIDELINE CROSSWALK FOR METABOLIC RISK CARE;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "1e3"
+}

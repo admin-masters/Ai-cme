@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "Guidelines for treating nutritional rickets with vitamin D and calcium, including dosing regimens, reassessment timelines, and steps for non-response evaluation.",
+  "learning_objectives": [
+    "Understand the recommended vitamin D and calcium dosing regimens for treating nutritional rickets.",
+    "Learn the expected clinical and biochemical response timelines for rickets treatment.",
+    "Identify steps to evaluate non-response to treatment, including potential underlying causes.",
+    "Recognize the importance of separating calcium and iron dosing to optimize absorption."
+  ],
+  "key_facts": [
+    "Daily oral cholecalciferol: 2000 IU/day for infants <1 year, 3000 IU/day for older children, for 12 weeks.",
+    "Elemental calcium dose: 50\u201375 mg/kg/day, with a maximum daily cap in young children.",
+    "Reassess biochemistry at 8\u201312 weeks and repeat radiographs at 4 and 12 weeks to document healing.",
+    "Symptoms and irritability improve within 1\u20132 weeks; radiographic healing evident by 4\u201312 weeks.",
+    "Non-response evaluation includes verifying adherence, dietary intake, and biochemical profiles.",
+    "Calcium and iron should not be given together due to reduced iron absorption."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Vitamin D",
+    "Calcium",
+    "Rickets",
+    "Cholecalciferol",
+    "Nutritional Deficiencies",
+    "Pediatric Endocrinology",
+    "Bone Mineralization",
+    "Hypocalcemia"
+  ],
+  "tags_custom": [
+    "nutritional rickets",
+    "treatment regimens",
+    "pediatric nutrition",
+    "clinical reassessment",
+    "non-response evaluation"
+  ],
+  "reference_quote": "Treat nutritional rickets with two components: vitamin D to correct deficiency and oral calcium to provide substrate for mineralization.",
+  "document_key_topics": [
+    "Vitamin D and calcium dosing regimens for rickets",
+    "Expected clinical and biochemical response timelines",
+    "Non-response evaluation and differential diagnosis",
+    "Guidelines for reassessment and follow-up"
+  ],
+  "chunk_heading": "MICRONUTRIENT NUTRITION;VITAMIN D, CALCIUM, AND RICKETS CLINICAL DECISION PATHWAYS;VITAMIN D AND CALCIUM TREATMENT REGIMENS WITH REASSESSMENT;",
+  "topic": "MICRONUTRIENT NUTRITION",
+  "subtopic": "VITAMIN D, CALCIUM, AND RICKETS CLINICAL DECISION PATHWAYS",
+  "sub_subtopic": "VITAMIN D AND CALCIUM TREATMENT REGIMENS WITH REASSESSMENT",
+  "heading_path": "MICRONUTRIENT NUTRITION;VITAMIN D, CALCIUM, AND RICKETS CLINICAL DECISION PATHWAYS;VITAMIN D AND CALCIUM TREATMENT REGIMENS WITH REASSESSMENT;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u00863"
+}

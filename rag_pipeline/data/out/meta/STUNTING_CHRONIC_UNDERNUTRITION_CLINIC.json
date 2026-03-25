@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "This section focuses on growth measurement and chart interpretation in the clinical context of stunting and chronic undernutrition, emphasizing the importance of accurate assessment to identify and address growth deficits in children.",
+  "learning_objectives": [
+    "Understand the clinical methods for measuring growth in children.",
+    "Learn to interpret growth charts to identify stunting and chronic undernutrition.",
+    "Recognize the role of growth monitoring in addressing malnutrition.",
+    "Apply clinical guidelines to assess and manage stunted growth."
+  ],
+  "key_facts": [
+    "Stunting is defined as a height-for-age Z-score (HAZ) below -2 standard deviations of the WHO Child Growth Standards.",
+    "Chronic undernutrition affects approximately 22% of children under 5 globally, according to WHO data.",
+    "Growth measurement involves accurate height and weight assessments using standardized equipment.",
+    "Interpreting growth charts requires understanding percentiles and Z-scores to identify deviations from normal growth patterns.",
+    "Early detection of stunting is critical to prevent long-term developmental and health consequences."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Stunting",
+    "Chronic Disease",
+    "Malnutrition",
+    "Growth Disorders",
+    "Anthropometry",
+    "Child Nutrition Disorders",
+    "Growth Charts",
+    "Pediatrics"
+  ],
+  "tags_custom": [
+    "growth monitoring",
+    "clinical assessment",
+    "child health",
+    "nutrition evaluation"
+  ],
+  "reference_quote": "Stunting is a key indicator of chronic undernutrition, reflecting cumulative growth deficits due to prolonged nutritional deprivation and recurrent infections.",
+  "document_key_topics": [
+    "Growth measurement techniques",
+    "Interpretation of growth charts",
+    "Clinical assessment of stunting",
+    "Chronic undernutrition in children"
+  ],
+  "chunk_heading": "STUNTING, CHRONIC UNDERNUTRITION & DETERMINANTS;CLINIC",
+  "topic": "STUNTING, CHRONIC UNDERNUTRITION & DETERMINANTS",
+  "subtopic": "CLINIC",
+  "sub_subtopic": null,
+  "heading_path": "STUNTING, CHRONIC UNDERNUTRITION & DETERMINANTS;CLINIC",
+  "reference_count": 0,
+  "has_guidelines": false,
+  "sequence": "4p"
+}

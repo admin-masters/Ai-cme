@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section outlines the operational workflow for pediatric tele-nutrition prescribing, emphasizing regulatory compliance, decision-making steps, and digital tool integration to ensure safe and effective telemedicine practices in India.",
+  "learning_objectives": [
+    "Understand the classification of teleconsultation types (first consult vs. follow-up) in pediatric tele-nutrition.",
+    "Learn the importance of modality selection (video vs. audio/text) for prescribing supplements and medications.",
+    "Identify the role of RMPs in authorizing therapeutic dosing and prescriptions in tele-nutrition.",
+    "Explore digital tool features for enforcing telemedicine safety filters and workflow compliance."
+  ],
+  "key_facts": [
+    "Telemedicine rules require classification of visits as first consult or follow-up for safe prescribing.",
+    "Video modality is mandatory for higher-risk prescriptions; audio/text is limited to low-risk items.",
+    "Only Registered Medical Practitioners (RMPs) can authorize therapeutic dosing and prescriptions.",
+    "E-prescriptions must include clinician identity, registration number, patient details, drug name, dose, frequency, duration, and follow-up rules.",
+    "Telemedicine drug list logic restricts prohibited items and mandates safety filters for prescribing workflows.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Telemedicine",
+    "Pediatrics",
+    "Nutrition Therapy",
+    "Dietary Supplements",
+    "Electronic Prescribing",
+    "Clinical Decision Support Systems",
+    "Health Policy",
+    "India"
+  ],
+  "tags_custom": [
+    "tele-nutrition workflow",
+    "pediatric prescribing",
+    "digital tools",
+    "RMP authority",
+    "telemedicine safety"
+  ],
+  "reference_quote": "Operationalize telemedicine rules by forcing three decisions before any therapeutic order is issued: visit type, modality, and prescriber authority. (Telemedicine Practice Guidelines, MoHFW, 2020)",
+  "document_key_topics": [
+    "Tele-nutrition prescribing workflow",
+    "Regulatory compliance in telemedicine",
+    "Digital tool integration for tele-nutrition"
+  ],
+  "chunk_heading": "DIGITAL TOOLS & TELE-NUTRITION;GUIDELINE FOUNDATIONS AND REGULATORY SCOPE FOR TELE-NUTRITION IN INDIA;OPERATIONAL TELEMEDICINE PRESCRIBING WORKFLOW FOR PEDIATRIC TELE-NUTRITION;",
+  "topic": "DIGITAL TOOLS & TELE-NUTRITION",
+  "subtopic": "GUIDELINE FOUNDATIONS AND REGULATORY SCOPE FOR TELE-NUTRITION IN INDIA",
+  "sub_subtopic": "OPERATIONAL TELEMEDICINE PRESCRIBING WORKFLOW FOR PEDIATRIC TELE-NUTRITION",
+  "heading_path": "DIGITAL TOOLS & TELE-NUTRITION;GUIDELINE FOUNDATIONS AND REGULATORY SCOPE FOR TELE-NUTRITION IN INDIA;OPERATIONAL TELEMEDICINE PRESCRIBING WORKFLOW FOR PEDIATRIC TELE-NUTRITION;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1c2"
+}

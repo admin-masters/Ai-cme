@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "This section outlines clinical protocols and quality improvement strategies for breastfeeding and lactation management in healthcare facilities, emphasizing standardized practices, staff training, data-driven audits, and community linkages.",
+  "learning_objectives": [
+    "Understand standardized clinical protocols for breastfeeding support, including skin-to-skin contact, rooming-in, and feeding assessments.",
+    "Learn quality improvement methods to track breastfeeding metrics and reduce system failures.",
+    "Develop skills to train staff in observing feeds, correcting positioning, and identifying red flags.",
+    "Explore strategies for linking hospital-based breastfeeding support to community resources."
+  ],
+  "key_facts": [
+    "Early initiation of breastfeeding within one hour of birth is a critical metric for quality improvement.",
+    "Exclusive breastfeeding at discharge and immunization visits should be tracked to monitor success rates.",
+    "Protocols for neonatal units should include early expression timelines, donor milk eligibility, and feeding advancement guidelines.",
+    "Standardized documentation templates should include LATCH scores, feeding frequency, output, and weight.",
+    "Avoidable formula supplementation and neonatal readmissions for dehydration or jaundice are key indicators of system performance.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Breastfeeding",
+    "Lactation",
+    "Postnatal Care",
+    "Quality Improvement",
+    "Neonatal Nutrition",
+    "Skin-to-Skin Contact",
+    "Mastitis"
+  ],
+  "tags_custom": [
+    "Clinical Protocols",
+    "Lactation Training",
+    "Breastfeeding Metrics",
+    "Community Linkages"
+  ],
+  "reference_quote": "Hospitals should use clear protocols for immediate skin-to-skin, avoidance of prelacteals, rooming-in, and management of common problems (WHO BFHI).",
+  "document_key_topics": [
+    "Standardized breastfeeding protocols in clinical practice",
+    "Quality improvement strategies for lactation management",
+    "Staff training and documentation for breastfeeding support",
+    "Community linkages to sustain breastfeeding outcomes"
+  ],
+  "chunk_heading": "BREASTFEEDING & LACTATION MANAGEMENT;CLINICAL IMPLEMENTATION AND QUALITY IMPROVEMENT IN PRACTICE;",
+  "topic": "BREASTFEEDING & LACTATION MANAGEMENT",
+  "subtopic": "CLINICAL IMPLEMENTATION AND QUALITY IMPROVEMENT IN PRACTICE",
+  "sub_subtopic": null,
+  "heading_path": "BREASTFEEDING & LACTATION MANAGEMENT;CLINICAL IMPLEMENTATION AND QUALITY IMPROVEMENT IN PRACTICE;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u008c"
+}

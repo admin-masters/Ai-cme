@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "High-acuity micronutrient deficiencies, such as severe anemia, hypocalcemia, and vitamin A deficiency, require immediate stabilization and treatment to prevent irreversible harm or mortality.",
+  "learning_objectives": [
+    "Recognize clinical signs of high-acuity micronutrient deficiencies requiring urgent intervention.",
+    "Understand the management protocols for severe anemia, hypocalcemia, and vitamin A deficiency in emergency settings.",
+    "Identify alternative causes of critical micronutrient deficiencies, such as hypoparathyroidism or renal disease."
+  ],
+  "key_facts": [
+    "Severe anemia with pallor, tachycardia, tachypnea, or altered sensorium may indicate cardiac decompensation and requires immediate inpatient care and possible transfusion.",
+    "Hypocalcemic seizures or tetany necessitate urgent calcium therapy with cardiac monitoring, often due to vitamin D deficiency or other causes like hypoparathyroidism or magnesium deficiency.",
+    "Corneal xerosis, ulceration, or keratomalacia should be treated as a medical emergency with high-dose vitamin A to prevent vision loss and reduce mortality risk.",
+    "Empiric therapy for thiamine-responsive cardiac failure should be considered in malnourished children with acute heart failure or unexplained encephalopathy.",
+    "Stabilization and syndrome-based evaluation should take precedence over routine outpatient supplementation in high-acuity cases.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Micronutrients",
+    "Nutritional Deficiencies",
+    "Anemia",
+    "Hypocalcemia",
+    "Vitamin A Deficiency",
+    "Thiamine Deficiency",
+    "Emergency Medical Services",
+    "Pediatric Nutrition"
+  ],
+  "tags_custom": [
+    "high-acuity care",
+    "pediatric emergencies",
+    "micronutrient management",
+    "critical care nutrition"
+  ],
+  "reference_quote": "Severe pallor with tachycardia, tachypnea, poor perfusion, or altered sensorium suggests possible cardiac decompensation in severe anemia; treat this as an emergency and decide on inpatient care and transfusion based on clinical stability rather than waiting for outpatient follow-up.",
+  "document_key_topics": [
+    "Emergency management of severe anemia",
+    "Hypocalcemia and vitamin D deficiency",
+    "Vision-threatening vitamin A deficiency",
+    "Empiric therapy for malnutrition-related deficiencies"
+  ],
+  "chunk_heading": "MICRONUTRIENT NUTRITION;PRACTICAL MICRONUTRIENT RISK ASSESSMENT IN CLINIC;HIGH-ACUITY PRESENTATIONS REQUIRING IMMEDIATE ACTION;",
+  "topic": "MICRONUTRIENT NUTRITION",
+  "subtopic": "PRACTICAL MICRONUTRIENT RISK ASSESSMENT IN CLINIC",
+  "sub_subtopic": "HIGH-ACUITY PRESENTATIONS REQUIRING IMMEDIATE ACTION",
+  "heading_path": "MICRONUTRIENT NUTRITION;PRACTICAL MICRONUTRIENT RISK ASSESSMENT IN CLINIC;HIGH-ACUITY PRESENTATIONS REQUIRING IMMEDIATE ACTION;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "1e3"
+}

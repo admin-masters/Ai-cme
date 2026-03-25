@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section focuses on selecting induction therapy for eosinophilic esophagitis (EoE) and defining endpoints, emphasizing therapeutic elimination diets and pediatric management guidelines based on recent evidence.",
+  "learning_objectives": [
+    "Understand the role of therapeutic elimination diets in EoE induction therapy.",
+    "Identify key endpoints for evaluating the success of EoE induction therapy.",
+    "Review pediatric-specific guidelines for EoE diagnosis and management.",
+    "Explore evidence-based approaches to food elimination in EoE treatment."
+  ],
+  "key_facts": [
+    "EoE affects approximately 1 in 2,000 children, with increasing prevalence globally.",
+    "Therapeutic elimination diets are a cornerstone of EoE management, often targeting 4-6 common allergens (e.g., milk, wheat, soy, eggs, nuts, seafood).",
+    "Endoscopic and histologic improvement are primary endpoints for assessing therapy success, with <15 eosinophils per high-power field considered remission.",
+    "Pediatric guidelines recommend a multidisciplinary approach, including dietitians and allergists, for effective EoE management.",
+    "Recent studies highlight the importance of tailoring elimination diets to individual allergen profiles for optimal outcomes."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Eosinophilic Esophagitis",
+    "Food Hypersensitivity",
+    "Diet Therapy",
+    "Pediatrics",
+    "Endoscopy",
+    "Histology",
+    "Allergens",
+    "Remission Induction"
+  ],
+  "tags_custom": [
+    "EoE induction therapy",
+    "pediatric food allergy",
+    "elimination diet workflow",
+    "clinical endpoints",
+    "multidisciplinary care"
+  ],
+  "reference_quote": "Therapeutic elimination diets targeting common allergens, such as milk and wheat, are effective in achieving histologic remission in pediatric eosinophilic esophagitis. (Source: ESPGHAN, 2024)",
+  "document_key_topics": [
+    "EoE induction therapy selection",
+    "Therapeutic elimination diets",
+    "Pediatric EoE management guidelines",
+    "Clinical endpoints for EoE treatment"
+  ],
+  "chunk_heading": "FOOD ALLERGY & THERAPEUTIC ELIMINATION DIETS;EOSINOPHILIC ESOPHAGITIS DIAGNOSIS AND DIET WORKFLOW;EOE INDUCTION THERAPY SELECTION AND ENDPOINTS;",
+  "topic": "FOOD ALLERGY & THERAPEUTIC ELIMINATION DIETS",
+  "subtopic": "EOSINOPHILIC ESOPHAGITIS DIAGNOSIS AND DIET WORKFLOW",
+  "sub_subtopic": "EOE INDUCTION THERAPY SELECTION AND ENDPOINTS",
+  "heading_path": "FOOD ALLERGY & THERAPEUTIC ELIMINATION DIETS;EOSINOPHILIC ESOPHAGITIS DIAGNOSIS AND DIET WORKFLOW;EOE INDUCTION THERAPY SELECTION AND ENDPOINTS;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1\u00852.2"
+}

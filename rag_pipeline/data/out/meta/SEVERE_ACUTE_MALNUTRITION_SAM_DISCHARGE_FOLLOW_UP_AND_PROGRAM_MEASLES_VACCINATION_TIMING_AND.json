@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Guidance on measles vaccination timing and routine immunization catch-up for children with severe acute malnutrition (SAM), emphasizing vaccination during discharge and follow-up care to prevent measles-related fatalities.",
+  "learning_objectives": [
+    "Understand the importance of measles vaccination in children with SAM and its timing during treatment and discharge.",
+    "Learn how to operationalize immunization checks in inpatient and outpatient workflows for SAM management.",
+    "Recognize the need for early measles vaccination in high-risk children and its implications for routine immunization schedules.",
+    "Differentiate between measles vaccination and vitamin A supplementation protocols in SAM care."
+  ],
+  "key_facts": [
+    "Measles case fatality is higher in malnourished children, making vaccination critical.",
+    "Children with SAM who are \u22656 months and unvaccinated or incompletely vaccinated should receive a measles-containing vaccine unless in shock or acute instability.",
+    "Early measles vaccination (before 9 months) requires follow-up doses per the national schedule after 9 months to ensure durable immunity.",
+    "Immunization status should be reviewed at admission, discharge, and weekly outpatient visits during SAM care.",
+    "Missed routine immunization appointments should be treated as a follow-up failure risk similar to therapeutic feeding visits."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Severe Acute Malnutrition",
+    "Measles Vaccine",
+    "Immunization Schedule",
+    "Child Nutrition Disorders",
+    "Vitamin A",
+    "Preventive Health Services",
+    "Malnutrition Complications",
+    "Vaccination Timing"
+  ],
+  "tags_custom": [
+    "SAM discharge protocols",
+    "Measles prevention in malnourished children",
+    "Routine immunization catch-up",
+    "Vitamin A supplementation",
+    "Outpatient follow-up care"
+  ],
+  "reference_quote": "In standard hospital guidance, give a measles-containing vaccine to eligible children with SAM who are \u22656 months and are unvaccinated or incompletely vaccinated, but delay vaccination if the child is in shock or has uncontrolled acute instability. (WHO Pocket Book of Hospital Care for Children)",
+  "document_key_topics": [
+    "Measles vaccination timing in SAM management",
+    "Routine immunization catch-up during SAM care",
+    "Operationalizing immunization checks in inpatient and outpatient workflows",
+    "Vitamin A supplementation protocols in SAM treatment"
+  ],
+  "chunk_heading": "SEVERE ACUTE MALNUTRITION (SAM) MANAGEMENT;DISCHARGE FOLLOW- UP AND PROGRAM QUALITY;MEASLES VACCINATION TIMING AND ROUTINE IMMUNIZATION CATCH-UP;",
+  "topic": "SEVERE ACUTE MALNUTRITION (SAM) MANAGEMENT",
+  "subtopic": "DISCHARGE FOLLOW- UP AND PROGRAM QUALITY",
+  "sub_subtopic": "MEASLES VACCINATION TIMING AND ROUTINE IMMUNIZATION CATCH-UP",
+  "heading_path": "SEVERE ACUTE MALNUTRITION (SAM) MANAGEMENT;DISCHARGE FOLLOW- UP AND PROGRAM QUALITY;MEASLES VACCINATION TIMING AND ROUTINE IMMUNIZATION CATCH-UP;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1\u007f2"
+}

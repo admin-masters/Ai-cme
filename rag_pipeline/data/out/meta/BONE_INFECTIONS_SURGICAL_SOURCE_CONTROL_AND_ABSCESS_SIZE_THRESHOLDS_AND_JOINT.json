@@ -1,0 +1,47 @@
+{
+  "chunk_summary": "Guidelines for surgical source control in bone infections emphasize abscess size thresholds, joint-specific drainage urgency, and clinical response criteria to prevent irreversible damage.",
+  "learning_objectives": [
+    "Understand the importance of abscess size thresholds in surgical decision-making for osteoarticular infections.",
+    "Identify joint-specific drainage priorities, particularly the urgency for hip septic arthritis.",
+    "Recognize clinical indicators for surgical intervention, including fever persistence, CRP trends, and imaging findings."
+  ],
+  "key_facts": [
+    "Septic hip joints require urgent decompression to prevent femoral head ischemia.",
+    "Abscesses \u22652 cm in greatest dimension often require surgical source control.",
+    "Collections <1 cm may be observed with close follow-up if clinical improvement is evident.",
+    "Surgical intervention is indicated if fever or CRP fails to improve after 48-72 hours of antibiotics.",
+    "Operative goals include durable source control, culture acquisition, and decompression to prevent irreversible damage."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Osteomyelitis",
+    "Septic Arthritis",
+    "Abscess",
+    "Surgical Procedures, Operative",
+    "Drainage",
+    "Femoral Head Necrosis",
+    "Antibiotic Therapy",
+    "Clinical Decision-Making"
+  ],
+  "tags_custom": [
+    "abscess thresholds",
+    "joint drainage urgency",
+    "pediatric bone infections",
+    "source control strategies",
+    "clinical response criteria"
+  ],
+  "reference_quote": "Any proven septic joint requires prompt decompression, but the urgency is greatest in the hip because intracapsular pressure can threaten femoral head perfusion. (PIDS/IDSA 2023 Guidelines)",
+  "document_key_topics": [
+    "Abscess size thresholds for surgical intervention",
+    "Joint-specific drainage urgency in septic arthritis",
+    "Clinical indicators for surgical source control in osteomyelitis"
+  ],
+  "chunk_heading": "BONE INFECTIONS;SURGICAL SOURCE CONTROL AND IMPLANT ASSOCIATED INFECTIONS;ABSCESS SIZE THRESHOLDS AND JOINT SPECIFIC DRAINAGE DECISIONS;",
+  "topic": "BONE INFECTIONS",
+  "subtopic": "SURGICAL SOURCE CONTROL AND IMPLANT ASSOCIATED INFECTIONS",
+  "sub_subtopic": "ABSCESS SIZE THRESHOLDS AND JOINT SPECIFIC DRAINAGE DECISIONS",
+  "heading_path": "BONE INFECTIONS;SURGICAL SOURCE CONTROL AND IMPLANT ASSOCIATED INFECTIONS;ABSCESS SIZE THRESHOLDS AND JOINT SPECIFIC DRAINAGE DECISIONS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1z2"
+}

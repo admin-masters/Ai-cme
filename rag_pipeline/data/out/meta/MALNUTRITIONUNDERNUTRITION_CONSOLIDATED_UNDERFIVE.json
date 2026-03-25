@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "This section provides a consolidated classification system for undernutrition in children under five, focusing on anthropometry, oedema, and risk-based care decisions for severe and moderate acute malnutrition (SAM/MAM). It emphasizes clinical assessment, appetite testing, and appropriate inpatient or outpatient care pathways.",
+  "learning_objectives": [
+    "Understand the criteria for classifying undernutrition in children under five, including WHZ/WLZ, MUAC, and oedema.",
+    "Differentiate between complicated and uncomplicated SAM and determine appropriate care settings.",
+    "Learn the five decision-oriented outputs for undernutrition classification and their clinical implications.",
+    "Recognize the importance of early risk containment in cases of complicated SAM."
+  ],
+  "key_facts": [
+    "Severe acute malnutrition (SAM) is defined as WHZ/WLZ < -3 SD and/or MUAC <115 mm in children aged 6\u201359 months.",
+    "Moderate acute malnutrition (MAM) is defined as WHZ/WLZ \u2265 -3 to < -2 SD and/or MUAC 115 to <125 mm in children aged 6\u201359 months, with no oedema.",
+    "Nutritional oedema (bilateral pitting oedema) is treated as at least SAM, with severe oedema or danger signs requiring inpatient care.",
+    "Stunting is defined as HAZ < -2 SD, while underweight is defined as WAZ < -2 SD with normal WHZ/WLZ and HAZ.",
+    "Complicated SAM requires immediate risk containment, including prevention of hypoglycemia and hypothermia, and avoiding large-volume fluids unless strict shock criteria are met."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Malnutrition",
+    "Severe Acute Malnutrition",
+    "Moderate Acute Malnutrition",
+    "Nutritional Status",
+    "Anthropometry",
+    "Edema",
+    "Child, Preschool",
+    "Risk Assessment"
+  ],
+  "tags_custom": [
+    "SAM classification",
+    "Pediatric nutrition",
+    "Undernutrition management",
+    "Inpatient vs outpatient care"
+  ],
+  "reference_quote": "\"A practical classification should unify anthropometry (WHZ/WLZ, MUAC), oedema, and the split that predicts risk and site of care most reliably: complicated versus uncomplicated SAM.\"",
+  "document_key_topics": [
+    "Classification of undernutrition in children under five",
+    "Criteria for SAM and MAM diagnosis",
+    "Management of complicated SAM",
+    "Risk-based care decisions for undernutrition"
+  ],
+  "chunk_heading": "MALNUTRITION\u2014UNDERNUTRITION: SCREENING & CLASSIFICATION;CONSOLIDATED UNDER-FIVE CLASSIFICATION LINKED TO FIRST DECISIONS;",
+  "topic": "MALNUTRITION\u2014UNDERNUTRITION: SCREENING & CLASSIFICATION",
+  "subtopic": "CONSOLIDATED UNDER-FIVE CLASSIFICATION LINKED TO FIRST DECISIONS",
+  "sub_subtopic": null,
+  "heading_path": "MALNUTRITION\u2014UNDERNUTRITION: SCREENING & CLASSIFICATION;CONSOLIDATED UNDER-FIVE CLASSIFICATION LINKED TO FIRST DECISIONS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2m"
+}

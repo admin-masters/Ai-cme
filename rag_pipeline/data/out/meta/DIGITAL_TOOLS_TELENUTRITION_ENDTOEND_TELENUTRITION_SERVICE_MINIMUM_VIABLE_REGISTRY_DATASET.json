@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "This section outlines the minimum viable dataset and actionable alert rules for tele-nutrition registries, emphasizing risk prioritization, clinical identifiers, and escalation protocols to ensure effective follow-up and intervention.",
+  "learning_objectives": [
+    "Understand the components of a minimum viable registry dataset for tele-nutrition services.",
+    "Learn how to define actionable alert rules tied to clinical thresholds and risk escalation.",
+    "Explore methods for prioritizing risk and time in tele-nutrition dashboards.",
+    "Identify key audit and follow-up fields for maintaining registry integrity."
+  ],
+  "key_facts": [
+    "Core identifiers include unique child ID, name, age, sex, caregiver details, and preferred language.",
+    "Clinical fields include anthropometric data (weight, height/length, MUAC) and derived indices (WAZ, HAZ, WHZ, BAZ).",
+    "Alert rules include MUAC <115 mm for ages 6\u201359 months and hemoglobin <7 g/dL triggering urgent referral.",
+    "Measurement confidence is categorized as high (clinic/device verified), moderate (coached home readings), or low (uncertain).",
+    "Escalation fields include risk tier, red flag presence, and escalation completion date/facility.",
+    "Follow-up fields track next due date, overdue status, missed contact count, and assigned team member."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Telemedicine",
+    "Nutrition Assessment",
+    "Growth Disorders",
+    "Malnutrition",
+    "Anthropometry",
+    "Risk Assessment",
+    "Child Health",
+    "Health Records, Personal"
+  ],
+  "tags_custom": [
+    "tele-nutrition workflow",
+    "registry design",
+    "clinical alerts",
+    "risk prioritization",
+    "follow-up protocols"
+  ],
+  "reference_quote": "A registry is clinically useful only if it drives the next action: recall, referral, escalation, or deescalation.",
+  "document_key_topics": [
+    "Minimum viable registry dataset for tele-nutrition",
+    "Actionable alert rules for clinical thresholds",
+    "Risk prioritization in tele-nutrition dashboards",
+    "Follow-up and audit protocols in registries"
+  ],
+  "chunk_heading": "DIGITAL TOOLS & TELE-NUTRITION;END-TO-END TELE-NUTRITION SERVICE WORKFLOW, REGISTRIES, AND DASHBOARDS;MINIMUM VIABLE REGISTRY DATASET AND ACTIONABLE ALERT RULES;",
+  "topic": "DIGITAL TOOLS & TELE-NUTRITION",
+  "subtopic": "END-TO-END TELE-NUTRITION SERVICE WORKFLOW, REGISTRIES, AND DASHBOARDS",
+  "sub_subtopic": "MINIMUM VIABLE REGISTRY DATASET AND ACTIONABLE ALERT RULES",
+  "heading_path": "DIGITAL TOOLS & TELE-NUTRITION;END-TO-END TELE-NUTRITION SERVICE WORKFLOW, REGISTRIES, AND DASHBOARDS;MINIMUM VIABLE REGISTRY DATASET AND ACTIONABLE ALERT RULES;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "1\u00944"
+}

@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "This section outlines estimated energy requirements for Indian children based on ICMR-NIN 2020 guidelines, providing age- and sex-specific calorie targets and practical strategies for clinical application.",
+  "learning_objectives": [
+    "Understand age- and sex-specific energy requirements for Indian children as per ICMR-NIN 2020.",
+    "Learn to adjust energy targets based on activity level, growth needs, or weight concerns.",
+    "Apply practical strategies to translate calorie targets into meal planning and portion control.",
+    "Recognize common energy intake errors and methods to correct them in clinical practice."
+  ],
+  "key_facts": [
+    "Energy requirements for Indian children (ICMR-NIN 2020): 0\u20136 months: 530 kcal/day; 6\u201312 months: 660 kcal/day; 1\u20133 years: 1110 kcal/day; 4\u20136 years: 1360 kcal/day; 7\u20139 years: 1700 kcal/day.",
+    "For boys: 10\u201312 years: 2220 kcal/day; 13\u201315 years: 2860 kcal/day; 16\u201318 years: 3320 kcal/day.",
+    "For girls: 10\u201312 years: 2060 kcal/day; 13\u201315 years: 2400 kcal/day; 16\u201318 years: 2500 kcal/day.",
+    "Energy needs per kg decrease with age, but younger children require more energy per kg than adolescents.",
+    "Adjust energy targets for high activity, cold exposure, or catch-up growth; reduce for excess weight gain or inactivity.",
+    "Practical strategies include correcting dilute feeds in infants, addressing skipped meals in adolescents, and limiting sugary beverages."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Energy Intake",
+    "Child Nutrition",
+    "Dietary Requirements",
+    "Caloric Restriction",
+    "Growth and Development",
+    "Pediatric Obesity",
+    "Feeding Behavior",
+    "Dietary Counseling"
+  ],
+  "tags_custom": [
+    "Indian dietary guidelines",
+    "Pediatric energy needs",
+    "Calorie counseling",
+    "Childhood nutrition"
+  ],
+  "reference_quote": "The ICMR-NIN 2020 brief note provides age- and sex-specific estimated energy requirements for moderate activity.",
+  "document_key_topics": [
+    "Estimated energy requirements for children",
+    "Age- and sex-specific calorie targets",
+    "Practical strategies for energy counseling"
+  ],
+  "chunk_heading": "MACRONUTRIENT NUTRITION IN CHILDHOOD;ESTIMATED ENERGY REQUIREMENTS",
+  "topic": "MACRONUTRIENT NUTRITION IN CHILDHOOD",
+  "subtopic": "ESTIMATED ENERGY REQUIREMENTS",
+  "sub_subtopic": null,
+  "heading_path": "MACRONUTRIENT NUTRITION IN CHILDHOOD;ESTIMATED ENERGY REQUIREMENTS",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "3j"
+}

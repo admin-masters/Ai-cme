@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "This section discusses the clinical approach to short stature in children, emphasizing the distinction between determinant-driven stunting and pathological causes, and outlines diagnostic and management strategies.",
+  "learning_objectives": [
+    "Understand the clinical differentiation between determinant-driven stunting and pathological short stature.",
+    "Learn to use auxology, growth velocity, and history patterning in evaluating short stature.",
+    "Identify key features of endocrine, genetic, and chronic systemic causes of short stature.",
+    "Develop a multi-domain management plan for determinant-driven stunting."
+  ],
+  "key_facts": [
+    "Short stature can be classified as 'short but growing' or 'short and not growing' based on growth velocity and centile tracking.",
+    "Determinant-driven stunting often begins in the first 1000 days of life and is associated with dietary monotony, frequent infections, and household adversity.",
+    "Endocrine causes of short stature often present with preserved or increased weight-for-height, height deceleration, and delayed bone age.",
+    "Chronic systemic diseases typically show weight faltering before height faltering, poor appetite, or organ-specific symptoms.",
+    "Screening for tuberculosis and coeliac disease is critical in high-burden settings with persistent symptoms.",
+    "Determinant-driven stunting requires a multi-domain intervention, while non-nutritional short stature needs targeted diagnostic workup and referral."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Short Stature",
+    "Growth Disorders",
+    "Stunting",
+    "Endocrine System Diseases",
+    "Chronic Disease",
+    "Nutritional Status",
+    "Pediatrics",
+    "Auxology"
+  ],
+  "tags_custom": [
+    "Pediatric growth",
+    "Stunting management",
+    "Endocrine evaluation",
+    "Chronic disease screening",
+    "Nutrition and growth"
+  ],
+  "reference_quote": "Short stature for the general pediatrician: 'The first step is always to confirm measurement and plotting. Then separate \u201cshort but growing\u201d from \u201cshort and not growing.\u201d' (American Academy of Pediatrics, Pediatrics in Review).",
+  "document_key_topics": [
+    "Determinant-driven stunting and its clinical features",
+    "Pathological causes of short stature",
+    "Diagnostic approach using auxology and history",
+    "Management strategies for stunting and short stature"
+  ],
+  "chunk_heading": "CLINIC;",
+  "topic": "CLINIC",
+  "subtopic": "General",
+  "sub_subtopic": null,
+  "heading_path": "CLINIC;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "3a"
+}

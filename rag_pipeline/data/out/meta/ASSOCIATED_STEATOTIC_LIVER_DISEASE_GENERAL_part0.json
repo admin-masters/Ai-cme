@@ -1,0 +1,46 @@
+{
+  "chunk_summary": "This section discusses lifestyle interventions as first-line therapy for pediatric obesity, classification of obesity severity, and management of metabolic dysfunction-associated steatotic liver disease (MASLD) in children.",
+  "learning_objectives": [
+    "Understand the classification of pediatric obesity using BMI percentiles.",
+    "Identify effective lifestyle interventions for managing pediatric obesity and MASLD.",
+    "Recognize when to refer pediatric patients to endocrinology or hepatology specialists."
+  ],
+  "key_facts": [
+    "Obesity is classified as overweight (85th\u2013<95th percentile), obesity (\u226595th percentile), and severe obesity (\u2265120% of the 95th percentile or BMI \u226535 kg/m2).",
+    "Initial assessment should include blood pressure, sleep history, psychosocial screening, and evaluation for comorbidities like dyslipidemia, prediabetes, and liver disease.",
+    "Lifestyle interventions include reducing sugar-sweetened beverages, increasing fruit/vegetable intake, and reducing ultra-processed foods.",
+    "MASLD should be suspected in children with obesity and persistently elevated ALT or imaging evidence of steatosis.",
+    "Pharmacotherapy or bariatric referral is reserved for adolescents with severe obesity and significant comorbidities when lifestyle interventions fail."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Pediatric Obesity",
+    "Body Mass Index",
+    "Lifestyle Interventions",
+    "Metabolic Syndrome",
+    "Steatosis",
+    "Alanine Transaminase",
+    "Non-alcoholic Fatty Liver Disease",
+    "Behavioral Therapy"
+  ],
+  "tags_custom": [
+    "Pediatric MASLD",
+    "Obesity Management",
+    "Lifestyle Therapy",
+    "Comorbidity Screening"
+  ],
+  "reference_quote": "Lifestyle intervention is first-line therapy for pediatric overweight and obesity and should be framed as treatment of a chronic cardiometabolic condition, not short-term 'dieting.'",
+  "document_key_topics": [
+    "Pediatric obesity classification and management",
+    "Lifestyle interventions for MASLD",
+    "Screening and referral for comorbidities"
+  ],
+  "chunk_heading": "ASSOCIATED STEATOTIC LIVER DISEASE;",
+  "topic": "ASSOCIATED STEATOTIC LIVER DISEASE",
+  "subtopic": "General",
+  "sub_subtopic": null,
+  "heading_path": "ASSOCIATED STEATOTIC LIVER DISEASE;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2a.1"
+}

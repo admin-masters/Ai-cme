@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "Micronutrient toxicity in pediatrics often arises from supplement errors, requiring focused triage and management protocols for iron, vitamin A, vitamin D, iodine, zinc, and vitamin B6 overdoses.",
+  "learning_objectives": [
+    "Understand the clinical signs and emergency management of iron poisoning in children.",
+    "Identify and manage vitamin A and D toxicity, including dosing errors and associated symptoms.",
+    "Recognize iodine-induced thyroid dysfunction and its diagnostic approach.",
+    "Evaluate the impact of prolonged high-dose zinc on copper deficiency and related complications."
+  ],
+  "key_facts": [
+    "Iron poisoning risk increases beyond ~60 mg/kg, with potentially lethal toxicity beyond ~120 mg/kg.",
+    "Vitamin A megadoses can cause transient headache, irritability, nausea, and bulging fontanelle in infants.",
+    "Vitamin D toxicity is defined by high 25(OH)D levels with hypercalcemia and hypercalciuria, often due to dosing errors.",
+    "Iodine excess can precipitate thyroid dysfunction; test TSH and free T4 for diagnosis.",
+    "Prolonged high-dose zinc can lead to copper deficiency, causing anemia and neutropenia."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Micronutrients",
+    "Iron Poisoning",
+    "Vitamin A Toxicity",
+    "Vitamin D Toxicity",
+    "Iodine Excess",
+    "Zinc Toxicity",
+    "Copper Deficiency",
+    "Pediatrics"
+  ],
+  "tags_custom": [
+    "pediatric toxicity",
+    "nutritional overdose",
+    "emergency management",
+    "micronutrient safety"
+  ],
+  "reference_quote": "Iron poisoning guideline: 'Severe systemic toxicity is expected beyond ~60 mg/kg and potentially lethal toxicity beyond ~120 mg/kg.' (Royal Children\u2019s Hospital Melbourne)",
+  "document_key_topics": [
+    "Iron poisoning management",
+    "Vitamin A and D toxicity",
+    "Iodine-induced thyroid dysfunction",
+    "Zinc and copper imbalance"
+  ],
+  "chunk_heading": "MICRONUTRIENT NUTRITION;MICRONUTRIENT TOXICITY AND OVERDOSE MANAGEMENT;",
+  "topic": "MICRONUTRIENT NUTRITION",
+  "subtopic": "MICRONUTRIENT TOXICITY AND OVERDOSE MANAGEMENT",
+  "sub_subtopic": null,
+  "heading_path": "MICRONUTRIENT NUTRITION;MICRONUTRIENT TOXICITY AND OVERDOSE MANAGEMENT;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "1\u0082"
+}

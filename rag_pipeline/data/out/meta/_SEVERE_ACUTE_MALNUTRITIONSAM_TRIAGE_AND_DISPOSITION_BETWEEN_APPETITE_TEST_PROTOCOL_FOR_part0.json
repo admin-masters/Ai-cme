@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "The appetite test is a critical triage tool for determining outpatient eligibility in SAM management, assessing metabolic stability and readiness for therapeutic feeding at home versus inpatient care for complications.",
+  "learning_objectives": [
+    "Understand the role of the appetite test in triaging SAM patients for outpatient care.",
+    "Learn the practical steps for conducting the appetite test effectively and objectively.",
+    "Identify clinical signs of test failure and their implications for inpatient stabilization.",
+    "Recognize the importance of re-testing only after stabilization in cases of suspected hypoglycemia, hypothermia, or sepsis."
+  ],
+  "key_facts": [
+    "The appetite test assesses readiness for outpatient therapeutic feeding using RUTF or locally prepared therapeutic feeds.",
+    "Failure criteria include inability to consume the minimum program amount for weight band, repeated vomiting, lethargy, or respiratory distress during feeding.",
+    "A 'fail' triggers inpatient stabilization actions such as warmth, glucose prevention, and empiric antibiotics for complications.",
+    "Re-testing should only occur after clinical improvement to avoid misclassification of severity.",
+    "Conduct the test in a calm area, ensuring the child has not had a substantial feed for about 2 hours prior."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Malnutrition",
+    "Severe Acute Malnutrition",
+    "Therapeutic Feeding",
+    "Outpatient Care",
+    "Inpatient Care",
+    "Nutritional Assessment",
+    "Child Health",
+    "Metabolic Stability"
+  ],
+  "tags_custom": [
+    "Appetite Test Protocol",
+    "SAM Management",
+    "Triage Guidelines",
+    "Therapeutic Feeding",
+    "Clinical Stabilization"
+  ],
+  "reference_quote": "Use the appetite test as a triage gate for outpatient eligibility and as an early marker of metabolic stability in SAM. (Source: https://nhm.gov.in/images/pdf/programmes/child-health/IEC)",
+  "document_key_topics": [
+    "Appetite test protocol for SAM outpatient eligibility",
+    "Criteria for inpatient stabilization in SAM management",
+    "Practical execution and interpretation of appetite tests"
+  ],
+  "chunk_heading": "- SEVERE ACUTE MALNUTRITION-(SAM) MANAGEMENT;TRIAGE AND DISPOSITION BETWEEN INPATIENT AND CMAM PATHWAYS;APPETITE TEST PROTOCOL FOR OUTPATIENT ELIGIBILITY;",
+  "topic": "- SEVERE ACUTE MALNUTRITION-(SAM) MANAGEMENT",
+  "subtopic": "TRIAGE AND DISPOSITION BETWEEN INPATIENT AND CMAM PATHWAYS",
+  "sub_subtopic": "APPETITE TEST PROTOCOL FOR OUTPATIENT ELIGIBILITY",
+  "heading_path": "- SEVERE ACUTE MALNUTRITION-(SAM) MANAGEMENT;TRIAGE AND DISPOSITION BETWEEN INPATIENT AND CMAM PATHWAYS;APPETITE TEST PROTOCOL FOR OUTPATIENT ELIGIBILITY;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "2a1.1"
+}

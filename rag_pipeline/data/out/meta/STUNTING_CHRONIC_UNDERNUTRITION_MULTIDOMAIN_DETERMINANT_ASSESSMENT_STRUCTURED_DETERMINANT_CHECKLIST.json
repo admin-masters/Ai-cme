@@ -1,0 +1,51 @@
+{
+  "chunk_summary": "A structured checklist for outpatient stunting visits, based on the UNICEF framework, addresses multidomain determinants like food security, caregiving, maternal health, WASH, and program access, enabling actionable clinic interventions.",
+  "learning_objectives": [
+    "Understand the use of the UNICEF framework for assessing stunting determinants in outpatient settings.",
+    "Learn to implement a structured checklist for evaluating multidomain factors affecting child nutrition and health.",
+    "Identify key barriers such as food insecurity, caregiving constraints, and environmental risks in stunting cases.",
+    "Evaluate the effectiveness of interventions through follow-up audits of checklist outcomes."
+  ],
+  "key_facts": [
+    "The checklist can be completed in under two minutes during outpatient visits.",
+    "Food security is assessed using the two-question Hunger Vital Sign tool, focusing on protein sources and meal frequency.",
+    "Maternal health screening includes anemia treatment, postpartum depression, and caregiver stress.",
+    "WASH factors include water source, toilet access, handwashing, and exposure to open drains or animal feces.",
+    "Environmental risks like household air pollution (e.g., solid fuel use) are linked to chronic respiratory issues and reduced appetite.",
+    "Program access is evaluated for anganwadi nutrition, school meals, deworming, and IFA supplementation.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Stunting",
+    "Chronic Malnutrition",
+    "Food Security",
+    "Maternal Health",
+    "Water, Sanitation, and Hygiene (WASH)",
+    "Environmental Health",
+    "Child Nutrition Disorders",
+    "Health Screening"
+  ],
+  "tags_custom": [
+    "UNICEF framework",
+    "outpatient stunting checklist",
+    "caregiving dynamics",
+    "nutrition program access",
+    "environmental risks"
+  ],
+  "reference_quote": "A brief, repeatable checklist turns 'determinants' into clinic actions and improves continuity between visits.",
+  "document_key_topics": [
+    "Stunting and chronic undernutrition determinants",
+    "UNICEF framework for multidomain assessment",
+    "Structured checklist for outpatient stunting visits",
+    "Follow-up and outcome evaluation for stunting interventions"
+  ],
+  "chunk_heading": "STUNTING, CHRONIC UNDERNUTRITION & DETERMINANTS;MULTIDOMAIN DETERMINANT ASSESSMENT USING THE UNICEF FRAMEWORK;STRUCTURED DETERMINANT CHECKLIST FOR OUTPATIENT STUNTING VISITS;",
+  "topic": "STUNTING, CHRONIC UNDERNUTRITION & DETERMINANTS",
+  "subtopic": "MULTIDOMAIN DETERMINANT ASSESSMENT USING THE UNICEF FRAMEWORK",
+  "sub_subtopic": "STRUCTURED DETERMINANT CHECKLIST FOR OUTPATIENT STUNTING VISITS",
+  "heading_path": "STUNTING, CHRONIC UNDERNUTRITION & DETERMINANTS;MULTIDOMAIN DETERMINANT ASSESSMENT USING THE UNICEF FRAMEWORK;STRUCTURED DETERMINANT CHECKLIST FOR OUTPATIENT STUNTING VISITS;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "3g2"
+}

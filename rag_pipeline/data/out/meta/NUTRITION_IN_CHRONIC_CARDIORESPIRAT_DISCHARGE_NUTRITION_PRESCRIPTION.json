@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section outlines discharge nutrition prescriptions and follow-up endpoints for patients with chronic cardiorespiratory disease, emphasizing precise instructions, growth targets, recovery methods, and follow-up schedules tailored to risk levels.",
+  "learning_objectives": [
+    "Understand the essential components of a discharge nutrition prescription for chronic cardiorespiratory disease patients.",
+    "Learn how to set growth endpoints using weight velocity or z-score trajectories.",
+    "Identify safe recovery methods for missed feeds and illness plans for hydration and calorie maintenance.",
+    "Recognize appropriate follow-up intervals based on patient risk categories."
+  ],
+  "key_facts": [
+    "Discharge nutrition prescriptions must include route plan, density, schedule, and safety stop rules.",
+    "Target energy and protein: kcal/kg/day and g/kg/day, with growth endpoints like weight velocity or z-score trajectory.",
+    "Follow-up for high-risk groups: within 7\u201314 days post-discharge; standard-risk: every 2\u20134 weeks until stable.",
+    "Missed-feed recovery methods include small extra boluses or nocturnal catch-up, avoiding recovery in cases of aspiration risk or heart failure volume limits.",
+    "Escalate follow-up if intake <75% of target for >48\u201372 hours or if z-scores drop by \u22650.5\u20131 over a short interval."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Nutrition Therapy",
+    "Cardiorespiratory Disorders",
+    "Growth Monitoring",
+    "Enteral Nutrition",
+    "Congenital Heart Disease",
+    "Bronchopulmonary Dysplasia",
+    "Cystic Fibrosis",
+    "Pediatric Nutrition"
+  ],
+  "tags_custom": [
+    "discharge planning",
+    "nutrition prescription",
+    "growth endpoints",
+    "high-risk follow-up",
+    "feeding safety"
+  ],
+  "reference_quote": "A discharge nutrition prescription should read like a medication order: specific enough that another caregiver can reproduce it without interpretation. (Source: https://www.bapen.org.uk/pdfs/enteral-feed-monitoring.pdf)",
+  "document_key_topics": [
+    "Discharge nutrition prescription components",
+    "Growth endpoints and monitoring",
+    "Missed-feed recovery and illness plans",
+    "Follow-up schedules for high-risk and standard-risk patients"
+  ],
+  "chunk_heading": "NUTRITION IN CHRONIC CARDIORESPIRATORY DISEASE;DISCHARGE NUTRITION PRESCRIPTION AND FOLLOW UP ENDPOINTS;",
+  "topic": "NUTRITION IN CHRONIC CARDIORESPIRATORY DISEASE",
+  "subtopic": "DISCHARGE NUTRITION PRESCRIPTION AND FOLLOW UP ENDPOINTS",
+  "sub_subtopic": null,
+  "heading_path": "NUTRITION IN CHRONIC CARDIORESPIRATORY DISEASE;DISCHARGE NUTRITION PRESCRIPTION AND FOLLOW UP ENDPOINTS;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1\u0081"
+}

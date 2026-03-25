@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "USPSTF highlights insufficient evidence for universal dysglycemia screening in asymptomatic children, while specialty guidelines recommend risk-based screening starting at age 10 or pubertal onset, with tailored follow-up intervals based on clinical risk factors.",
+  "learning_objectives": [
+    "Understand USPSTF's position on dysglycemia screening in asymptomatic children and adolescents.",
+    "Identify risk factors that warrant targeted screening for prediabetes and type 2 diabetes in youth.",
+    "Learn appropriate screening intervals based on clinical settings and risk profiles.",
+    "Recognize the importance of integrating follow-up intervals into treatment plans during results review."
+  ],
+  "key_facts": [
+    "USPSTF states insufficient evidence to assess benefits and harms of universal screening for prediabetes and type 2 diabetes in asymptomatic youth.",
+    "Specialty guidelines recommend screening at age 10 or pubertal onset for youth with overweight/obesity plus risk factors like family history, MASLD, or acanthosis.",
+    "For lower-risk youth, normal glycemic tests can be repeated every 3 years; in metabolic clinics, a 2-year interval is preferred.",
+    "Borderline or discordant results should be reassessed within 6\u201312 months, and prediabetes should be monitored annually.",
+    "Follow-up intervals should be assigned during results review and adjusted for changes in phenotype or emerging abnormalities."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Dysglycemia",
+    "Insulin Resistance",
+    "Type 2 Diabetes Mellitus",
+    "Pediatric Obesity",
+    "Screening",
+    "Risk Factors",
+    "Metabolic Syndrome",
+    "Preventive Health Services"
+  ],
+  "tags_custom": [
+    "USPSTF guidelines",
+    "risk-based screening",
+    "pediatric diabetes",
+    "clinical pathways",
+    "follow-up intervals"
+  ],
+  "reference_quote": "The USPSTF concluded that evidence is insufficient to assess the balance of benefits and harms of screening for prediabetes and type 2 diabetes in asymptomatic children and adolescents.",
+  "document_key_topics": [
+    "USPSTF evidence on dysglycemia screening",
+    "Risk-based screening guidelines for youth",
+    "Follow-up intervals for glycemic testing"
+  ],
+  "chunk_heading": "METABOLIC RISK IN CHILDREN;DYSGLYCEMIA AND INSULIN RESISTANCE CLINICAL PATHWAY;USPSTF EVIDENCE POSITION AND RISK-BASED SCREENING CADENCE;",
+  "topic": "METABOLIC RISK IN CHILDREN",
+  "subtopic": "DYSGLYCEMIA AND INSULIN RESISTANCE CLINICAL PATHWAY",
+  "sub_subtopic": "USPSTF EVIDENCE POSITION AND RISK-BASED SCREENING CADENCE",
+  "heading_path": "METABOLIC RISK IN CHILDREN;DYSGLYCEMIA AND INSULIN RESISTANCE CLINICAL PATHWAY;USPSTF EVIDENCE POSITION AND RISK-BASED SCREENING CADENCE;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1x2"
+}

@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Guidance on nutrition-first management of growth faltering in infants over six months, focusing on meal frequency, energy density, responsive feeding, and screening for medical contributors using WHO growth standards.",
+  "learning_objectives": [
+    "Understand the role of meal frequency, energy density, and responsive feeding in addressing growth faltering after six months.",
+    "Learn how to use WHO growth standards to assess weight-for-age and weight-for-length trends.",
+    "Identify common medical contributors to growth faltering and appropriate screening methods.",
+    "Implement dietary optimization strategies, including age-appropriate feeding targets and nutrient-rich food additions."
+  ],
+  "key_facts": [
+    "Recommended meal frequency: 6\u20138 months: 2\u20133 meals; 9\u201311 months: 3 meals + snacks; 12\u201324 months: 3 meals + 2 snacks.",
+    "Limit cow\u2019s milk intake to <500 mL/day and eliminate juice and sugary drinks.",
+    "Enhance energy density by adding ghee/oil, peanut powder, or dairy to staples.",
+    "Screen for anemia, recurrent infections, chronic diarrhea, cow\u2019s milk protein allergy, tuberculosis exposure, and congenital heart disease if dietary optimization fails.",
+    "Urgently evaluate for severe wasting, nutritional edema, or feeding refusal with lethargy as these may indicate severe acute malnutrition (SAM) or systemic illness."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Infant Nutrition",
+    "Growth Disorders",
+    "Feeding Behavior",
+    "Malnutrition",
+    "Dietary Guidelines",
+    "Energy Intake",
+    "Child Development",
+    "Nutritional Requirements"
+  ],
+  "tags_custom": [
+    "growth faltering",
+    "feeding difficulties",
+    "responsive feeding",
+    "dietary optimization",
+    "WHO growth standards"
+  ],
+  "reference_quote": "Plot weight-for-age and weight-for-length using WHO growth standards and look for growth velocity; a single low percentile is less concerning than downward crossing.",
+  "document_key_topics": [
+    "Nutrition-first management of growth faltering",
+    "Age-appropriate feeding targets and meal frequency",
+    "Screening for medical contributors to growth faltering",
+    "Responsive feeding and dietary optimization strategies"
+  ],
+  "chunk_heading": "INFANT & YOUNG CHILD FEEDING 0\u201324 MONTHS;CLINICAL DECISION PATHWAYS FOR FEEDING DIFFICULTIES AND GROWTH FALTERING;NUTRITION-FIRST MANAGEMENT OF GROWTH FALTERING AFTER SIX MONTHS;",
+  "topic": "INFANT & YOUNG CHILD FEEDING 0\u201324 MONTHS",
+  "subtopic": "CLINICAL DECISION PATHWAYS FOR FEEDING DIFFICULTIES AND GROWTH FALTERING",
+  "sub_subtopic": "NUTRITION-FIRST MANAGEMENT OF GROWTH FALTERING AFTER SIX MONTHS",
+  "heading_path": "INFANT & YOUNG CHILD FEEDING 0\u201324 MONTHS;CLINICAL DECISION PATHWAYS FOR FEEDING DIFFICULTIES AND GROWTH FALTERING;NUTRITION-FIRST MANAGEMENT OF GROWTH FALTERING AFTER SIX MONTHS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u00822"
+}

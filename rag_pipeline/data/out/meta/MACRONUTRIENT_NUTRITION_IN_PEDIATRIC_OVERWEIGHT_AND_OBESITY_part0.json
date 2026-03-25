@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section discusses diagnostic cutoffs, clinical risk stratification, and laboratory evaluation for pediatric overweight and obesity, emphasizing age-specific guidelines and comorbidity screening.",
+  "learning_objectives": [
+    "Understand age-specific diagnostic criteria for pediatric overweight and obesity using WHO and IAP charts.",
+    "Identify clinical risk factors and comorbidities associated with pediatric obesity.",
+    "Learn laboratory evaluation protocols for cardiometabolic screening in overweight and obese children.",
+    "Recognize secondary causes of obesity requiring early referral."
+  ],
+  "key_facts": [
+    "WHO weight-for-length/height z-scores: Overweight > +2 SD, Obesity > +3 SD (children under 5 years).",
+    "IAP BMI-for-age charts: South Asian cutoffs are 23 (overweight risk) and 27 (obesity risk).",
+    "Screen for cardiometabolic comorbidities with fasting lipid profile, fasting glucose or HbA1c, and ALT for NAFLD.",
+    "Clinical risk factors include acanthosis nigricans, hepatomegaly, orthopedic pain, and rapid growth velocity.",
+    "Secondary causes of obesity include short stature, delayed puberty, dysmorphic features, or very rapid onset."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Pediatric Obesity",
+    "Body Mass Index",
+    "Cardiometabolic Risk",
+    "Growth Charts",
+    "Nonalcoholic Fatty Liver Disease",
+    "Hypertension",
+    "Acanthosis Nigricans",
+    "Puberty"
+  ],
+  "tags_custom": [
+    "South Asian guidelines",
+    "Obesity diagnostics",
+    "Childhood nutrition",
+    "Risk stratification",
+    "Comorbidity screening"
+  ],
+  "reference_quote": "From 5\u201318 years, plot BMI-for-age on IAP charts and use adult-equivalent cut-offs; for South Asian children, the 23 (overweight risk) and 27 (obesity risk) lines support earlier risk detection. (Source: IAP Guidelines)",
+  "document_key_topics": [
+    "Diagnostic criteria for pediatric obesity",
+    "Clinical risk stratification in childhood obesity",
+    "Laboratory evaluation for obesity-related comorbidities",
+    "Secondary causes of pediatric obesity"
+  ],
+  "chunk_heading": "MACRONUTRIENT NUTRITION IN CHILDHOOD;PEDIATRIC OVERWEIGHT  AND OBESITY",
+  "topic": "MACRONUTRIENT NUTRITION IN CHILDHOOD",
+  "subtopic": "PEDIATRIC OVERWEIGHT  AND OBESITY",
+  "sub_subtopic": null,
+  "heading_path": "MACRONUTRIENT NUTRITION IN CHILDHOOD;PEDIATRIC OVERWEIGHT  AND OBESITY",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "4{.1"
+}

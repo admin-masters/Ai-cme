@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "This section discusses recognizing time-critical allergic syndromes and red flags in children, including IgE-mediated anaphylaxis, FPIES, and EoE, with emphasis on emergency management and differentiation of conditions.",
+  "learning_objectives": [
+    "Identify time-critical allergic emergencies such as anaphylaxis and their clinical features.",
+    "Differentiate between IgE-mediated and non-IgE-mediated allergic reactions, including FPIES and EoE.",
+    "Recognize red flags requiring emergency stabilization or urgent referral in pediatric allergic reactions.",
+    "Understand the importance of early treatment for anaphylaxis to prevent harm."
+  ],
+  "key_facts": [
+    "Immediate allergic reactions are typically IgE-mediated and can progress to anaphylaxis within minutes to hours.",
+    "FPIES presents with repetitive vomiting, pallor, lethargy, and dehydration 1\u20134 hours after ingestion, without urticaria or wheeze.",
+    "EoE is usually chronic but esophageal food impaction is an emergency requiring urgent care.",
+    "Red flags include airway compromise, hypoxemia, hypotension, progressive edema, altered sensorium, and severe dehydration.",
+    "If the syndrome is uncertain, treat as anaphylaxis first to minimize harm, then reassess once stable.",
+    "A bedside vignette: an infant with repetitive vomiting 2 hours after rice or milk ingestion, pallor, and no fever suggests FPIES over gastroenteritis."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Food Hypersensitivity",
+    "Anaphylaxis",
+    "Eosinophilic Esophagitis",
+    "Food Protein-Induced Enterocolitis Syndrome",
+    "Hypersensitivity, Immediate",
+    "Hypersensitivity, Delayed",
+    "Emergency Medical Services",
+    "Pediatrics"
+  ],
+  "tags_custom": [
+    "allergic emergencies",
+    "pediatric allergy",
+    "anaphylaxis management",
+    "FPIES diagnosis",
+    "red flag symptoms"
+  ],
+  "reference_quote": "Immediate reactions are typically IgE mediated and can progress to anaphylaxis within minutes to a few hours, often with skin findings plus respiratory or cardiovascular involvement.",
+  "document_key_topics": [
+    "Recognition of time-critical allergic syndromes",
+    "Management of anaphylaxis and other allergic emergencies",
+    "Differentiation of IgE-mediated and non-IgE-mediated reactions",
+    "Red flags requiring emergency intervention"
+  ],
+  "chunk_heading": "FOOD ALLERGY & THERAPEUTIC ELIMINATION DIETS;TIME-CRITICAL EMERGENCY MANAGEMENT AT FIRST CONTACT;TIME-CRITICAL SYNDROME RECOGNITION AND RED FLAGS;",
+  "topic": "FOOD ALLERGY & THERAPEUTIC ELIMINATION DIETS",
+  "subtopic": "TIME-CRITICAL EMERGENCY MANAGEMENT AT FIRST CONTACT",
+  "sub_subtopic": "TIME-CRITICAL SYNDROME RECOGNITION AND RED FLAGS",
+  "heading_path": "FOOD ALLERGY & THERAPEUTIC ELIMINATION DIETS;TIME-CRITICAL EMERGENCY MANAGEMENT AT FIRST CONTACT;TIME-CRITICAL SYNDROME RECOGNITION AND RED FLAGS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1m1.1"
+}

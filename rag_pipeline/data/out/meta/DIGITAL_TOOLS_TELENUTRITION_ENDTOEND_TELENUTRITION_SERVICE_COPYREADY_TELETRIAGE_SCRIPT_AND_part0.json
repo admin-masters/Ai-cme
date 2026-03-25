@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "This section outlines a structured tele-triage script and pathway-specific intake fields for tele-nutrition workflows, emphasizing auditable processes, equity, and digital tools for risk stratification and scheduling.",
+  "learning_objectives": [
+    "Understand the importance of structured tele-triage scripts in tele-nutrition workflows.",
+    "Learn pathway-specific intake data fields for conditions like malnutrition, obesity, anemia, and chronic diseases.",
+    "Explore equity-focused strategies for caregiver engagement in tele-nutrition services."
+  ],
+  "key_facts": [
+    "Structured intake reduces unsafe variability and ensures auditable tele-nutrition workflows.",
+    "Urgent clinician review is flagged if symptoms like difficulty breathing, seizures, or severe diarrhea are reported.",
+    "Pathway-specific intake fields include MUAC for malnutrition (age 6\u201359 months), hemoglobin values for anemia, and beverage/snack patterns for obesity.",
+    "Equity rule: Offer scripts in the caregiver\u2019s preferred language and allow audio completion for accessibility.",
+    "Digital forms auto-populate telenotes, assign risk tiers, and schedule follow-ups efficiently."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Telemedicine",
+    "Nutrition Assessment",
+    "Malnutrition",
+    "Obesity",
+    "Anemia",
+    "Chronic Disease",
+    "Health Equity",
+    "Workflow"
+  ],
+  "tags_custom": [
+    "tele-triage",
+    "intake fields",
+    "caregiver engagement",
+    "digital tools",
+    "risk stratification"
+  ],
+  "reference_quote": "Structured intake reduces unsafe variability and makes team-delivered tele-nutrition auditable. (Source: Telemedicine Practice Guidelines, Reference 1)",
+  "document_key_topics": [
+    "Tele-triage script for tele-nutrition",
+    "Pathway-specific intake data fields",
+    "Equity-focused caregiver engagement",
+    "Digital tools for workflow optimization"
+  ],
+  "chunk_heading": "DIGITAL TOOLS & TELE-NUTRITION;END-TO-END TELE-NUTRITION SERVICE WORKFLOW, REGISTRIES, AND DASHBOARDS;COPY-READY TELE-TRIAGE SCRIPT AND PATHWAY-SPECIFIC INTAKE DATA FIELDS;",
+  "topic": "DIGITAL TOOLS & TELE-NUTRITION",
+  "subtopic": "END-TO-END TELE-NUTRITION SERVICE WORKFLOW, REGISTRIES, AND DASHBOARDS",
+  "sub_subtopic": "COPY-READY TELE-TRIAGE SCRIPT AND PATHWAY-SPECIFIC INTAKE DATA FIELDS",
+  "heading_path": "DIGITAL TOOLS & TELE-NUTRITION;END-TO-END TELE-NUTRITION SERVICE WORKFLOW, REGISTRIES, AND DASHBOARDS;COPY-READY TELE-TRIAGE SCRIPT AND PATHWAY-SPECIFIC INTAKE DATA FIELDS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u00922.1"
+}

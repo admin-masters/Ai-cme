@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "Medication-associated metabolic risks in children require structured monitoring plans, focusing on high-risk drugs like atypical antipsychotics and glucocorticoids. Regular follow-ups, lab assessments, and care coordination are essential to mitigate adverse effects and optimize outcomes.",
+  "learning_objectives": [
+    "Understand the metabolic risks associated with pediatric medications such as atypical antipsychotics and glucocorticoids.",
+    "Learn the recommended baseline and follow-up monitoring intervals for weight, BP, glycemia, lipids, and ALT in children on high-risk medications.",
+    "Recognize the importance of care coordination and communication between metabolic clinics and prescribing specialists.",
+    "Identify strategies to address new dysglycemia, dyslipidemia, or MASLD risk during medication therapy."
+  ],
+  "key_facts": [
+    "High-risk pediatric drug classes include atypical antipsychotics, glucocorticoids, valproate, and antiretrovirals.",
+    "Baseline assessments should include weight/waist, BP, fasting glucose or HbA1c, fasting lipids, and ALT to detect early MASLD risk.",
+    "Follow-up checkpoints: weight/waist and BP at 4\u20136 weeks and 12 weeks; glycemia and lipids at 3 months if rapid weight gain or symptoms occur.",
+    "Annual metabolic labs are recommended, with shorter intervals during puberty or for high-risk patients (e.g., obesity, family history, prediabetes).",
+    "If dysglycemia, rising TG, or ALT elevation occurs, reassess the drug regimen and intensify family-based lifestyle interventions."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Metabolic Syndrome",
+    "Pediatrics",
+    "Antipsychotic Agents",
+    "Glucocorticoids",
+    "Dyslipidemias",
+    "Nonalcoholic Fatty Liver Disease",
+    "Care Coordination",
+    "Monitoring, Physiologic"
+  ],
+  "tags_custom": [
+    "medication-associated risks",
+    "pediatric metabolic monitoring",
+    "longitudinal care",
+    "family-based interventions",
+    "drug regimen reassessment"
+  ],
+  "reference_quote": "High-risk drug classes in pediatrics include atypical antipsychotics, chronic systemic glucocorticoids, valproate, and some antiretrovirals. Baseline assessment should include weight/waist, BP, fasting glucose or HbA1c, fasting lipids, and ALT to capture early MASLD risk.",
+  "document_key_topics": [
+    "Medication-associated metabolic risks in children",
+    "Monitoring guidelines for high-risk pediatric medications",
+    "Care coordination in metabolic risk clinics"
+  ],
+  "chunk_heading": "METABOLIC RISK IN CHILDREN;LONGITUDINAL FOLLOW-UP AND COMORBIDITY SCREENING IN METABOLIC RISK CLINICS;MEDICATION-ASSOCIATED METABOLIC MONITORING AND CARE COORDINATION;",
+  "topic": "METABOLIC RISK IN CHILDREN",
+  "subtopic": "LONGITUDINAL FOLLOW-UP AND COMORBIDITY SCREENING IN METABOLIC RISK CLINICS",
+  "sub_subtopic": "MEDICATION-ASSOCIATED METABOLIC MONITORING AND CARE COORDINATION",
+  "heading_path": "METABOLIC RISK IN CHILDREN;LONGITUDINAL FOLLOW-UP AND COMORBIDITY SCREENING IN METABOLIC RISK CLINICS;MEDICATION-ASSOCIATED METABOLIC MONITORING AND CARE COORDINATION;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u00a12.1"
+}

@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "This section discusses inpatient stabilization and antibiotic regimens for managing severe acute malnutrition (SAM) when it coexists with stunting, focusing on WHO guidelines and facility-based care protocols.",
+  "learning_objectives": [
+    "Understand the role of antibiotics in managing complicated SAM with stunting.",
+    "Learn the key steps for inpatient stabilization of children with SAM.",
+    "Familiarize with WHO and national guidelines for treating SAM in healthcare facilities.",
+    "Identify complications associated with SAM and their management strategies."
+  ],
+  "key_facts": [
+    "WHO recommends routine antibiotics for children with complicated SAM to prevent infections.",
+    "Amoxicillin is commonly used as a first-line antibiotic for SAM cases, with dosage based on weight and age.",
+    "Inpatient stabilization includes managing hypoglycemia, hypothermia, and dehydration before initiating nutritional rehabilitation.",
+    "Complicated SAM is defined by the presence of medical complications such as infections, severe edema, or failure of outpatient care.",
+    "Facility-based care protocols emphasize monitoring vital signs, fluid management, and gradual refeeding to avoid refeeding syndrome."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Stunting",
+    "Severe Acute Malnutrition",
+    "Antibiotic Prophylaxis",
+    "Nutritional Rehabilitation",
+    "Hypoglycemia",
+    "Hypothermia",
+    "Inpatient Care",
+    "Child Malnutrition"
+  ],
+  "tags_custom": [
+    "SAM management",
+    "stunting treatment",
+    "inpatient care protocols",
+    "antibiotic guidelines"
+  ],
+  "reference_quote": "WHO recommends routine antibiotic therapy for children with severe acute malnutrition to reduce the risk of infections and improve survival rates. (Source: https://www.who.int/tools/elena/interventions/antibiotics-sam)",
+  "document_key_topics": [
+    "Inpatient stabilization for SAM",
+    "Antibiotic regimens for complicated SAM",
+    "WHO and national guidelines for SAM management",
+    "Complications of SAM and their treatment"
+  ],
+  "chunk_heading": "STUNTING, CHRONIC UNDERNUTRITION & DETERMINANTS;MANAGEMENT WHEN STUNTING COEXISTS WITH SEVERE ACUTE MALNUTRITION;INPATIENT STABILIZATION AND ANTIBIOTIC REGIMENS FOR COMPLICATED SAM;",
+  "topic": "STUNTING, CHRONIC UNDERNUTRITION & DETERMINANTS",
+  "subtopic": "MANAGEMENT WHEN STUNTING COEXISTS WITH SEVERE ACUTE MALNUTRITION",
+  "sub_subtopic": "INPATIENT STABILIZATION AND ANTIBIOTIC REGIMENS FOR COMPLICATED SAM",
+  "heading_path": "STUNTING, CHRONIC UNDERNUTRITION & DETERMINANTS;MANAGEMENT WHEN STUNTING COEXISTS WITH SEVERE ACUTE MALNUTRITION;INPATIENT STABILIZATION AND ANTIBIOTIC REGIMENS FOR COMPLICATED SAM;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "7\u008b1.2"
+}

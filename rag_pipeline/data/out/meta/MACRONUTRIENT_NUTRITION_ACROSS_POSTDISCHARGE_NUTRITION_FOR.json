@@ -1,0 +1,46 @@
+{
+  "chunk_summary": "Post-discharge nutrition for preterm and low birth weight infants focuses on tailored feeding strategies, supplementation, and growth monitoring to prevent growth faltering and deficiencies.",
+  "learning_objectives": [
+    "Understand the nutritional needs of preterm and low birth weight infants post-discharge.",
+    "Learn appropriate supplementation protocols for vitamin D, iron, calcium, and phosphorus.",
+    "Identify strategies for monitoring growth and addressing growth faltering in preterm infants."
+  ],
+  "key_facts": [
+    "Vitamin D supplementation: 400 IU/day for LBW (1500\u20132499 g) and 800 IU/day for VLBW (<1500 g) until 6 months.",
+    "Iron supplementation: 2\u20134 mg/kg/day from 2 weeks in VLBW infants and 2\u20133 mg/kg/day from 6\u20138 weeks in other LBW infants on human milk, continued to 6 months.",
+    "Use preterm/post-discharge formula (22\u201324 kcal/oz) or fortified breastmilk for inadequate weight gain.",
+    "Monitor growth using corrected age and preterm growth charts like the Fenton chart, transitioning to WHO standards later.",
+    "Review feeding and weight within 48\u201372 hours post-discharge, then weekly until stable growth trajectory is achieved."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Infant, Premature",
+    "Infant, Low Birth Weight",
+    "Postnatal Care",
+    "Nutritional Requirements",
+    "Breast Feeding",
+    "Growth Charts",
+    "Micronutrients",
+    "Enteral Nutrition"
+  ],
+  "tags_custom": [
+    "post-discharge nutrition",
+    "preterm infant care",
+    "growth monitoring",
+    "supplementation guidelines"
+  ],
+  "reference_quote": "First choice milk is mother\u2019s own milk; if unavailable, use donor milk or a preterm/post-discharge formula strategy as advised by the discharging unit. (Source: ESPGHAN position paper)",
+  "document_key_topics": [
+    "Post-discharge feeding strategies for preterm infants",
+    "Micronutrient supplementation guidelines",
+    "Growth monitoring and intervention protocols"
+  ],
+  "chunk_heading": "MACRONUTRIENT NUTRITION ACROSS CHILDHOOD;POST-DISCHARGE NUTRITION FOR PRETERM AND LOW BIRTH WEIGHT INFANTS;",
+  "topic": "MACRONUTRIENT NUTRITION ACROSS CHILDHOOD",
+  "subtopic": "POST-DISCHARGE NUTRITION FOR PRETERM AND LOW BIRTH WEIGHT INFANTS",
+  "sub_subtopic": null,
+  "heading_path": "MACRONUTRIENT NUTRITION ACROSS CHILDHOOD;POST-DISCHARGE NUTRITION FOR PRETERM AND LOW BIRTH WEIGHT INFANTS;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "1d"
+}

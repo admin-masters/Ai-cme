@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Children with autism and neurodevelopmental disabilities often face severe feeding challenges, requiring tailored interventions, early referrals, and structured plans to address sensory avoidance, nutritional gaps, and caregiver burnout.",
+  "learning_objectives": [
+    "Understand the feeding challenges specific to children with autism and neurodevelopmental disabilities, including sensory-based avoidance and rigid food preferences.",
+    "Learn strategies for structured feeding interventions, including measurable exposure targets and hunger rhythm protection.",
+    "Recognize the importance of early referral to feeding therapists and SLPs for improved outcomes in severe feeding difficulties.",
+    "Identify micronutrient deficiencies common in restricted diets and prescribe targeted supplementation."
+  ],
+  "key_facts": [
+    "Children with ASD often meet Pediatric Feeding Disorder (PFD) criteria due to persistent food selectivity and nutritional dysfunction.",
+    "Screen for swallow-safety red flags such as coughing, choking, wet voice, and recurrent pneumonias, as aspiration risk is higher in this population.",
+    "Set measurable exposure targets, such as introducing one new texture or taste daily, to improve feeding skills.",
+    "Restricted diets may exclude iron-rich foods, animal-source foods, and dairy, increasing risk for deficiencies in iron, vitamin D, and vitamin B12.",
+    "Early referral to feeding therapists or SLPs is recommended when progress stalls, as sensory-based avoidance rarely resolves with brief advice."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Autism Spectrum Disorder",
+    "Neurodevelopmental Disorders",
+    "Feeding and Eating Disorders",
+    "Pediatric Feeding Disorder",
+    "Micronutrient Deficiency",
+    "Sensory Processing",
+    "Aspiration Pneumonia",
+    "Speech-Language Pathology"
+  ],
+  "tags_custom": [
+    "feeding therapy",
+    "sensory avoidance",
+    "caregiver burnout",
+    "nutritional gaps",
+    "early intervention"
+  ],
+  "reference_quote": "Food selectivity and feeding problems in autism spectrum disorder often require structured interventions and early referral to specialists for improved outcomes. (Source: https://www.chla.org/blog/advice-experts/feeding-therapies-autism)",
+  "document_key_topics": [
+    "Feeding difficulties in autism and neurodevelopmental disabilities",
+    "Sensory-based avoidance and rigid food preferences",
+    "Micronutrient deficiencies in restricted diets",
+    "Early referral to feeding therapists and SLPs"
+  ],
+  "chunk_heading": "FEEDING DIFFICULTIES & FALTERING GROWTH;SPECIAL POPULATION MODIFICATIONS AND EARLY REFERRAL TRIGGERS;AUTISM AND NEURODEVELOPMENTAL DISABILITY FEEDING MODIFICATIONS;",
+  "topic": "FEEDING DIFFICULTIES & FALTERING GROWTH",
+  "subtopic": "SPECIAL POPULATION MODIFICATIONS AND EARLY REFERRAL TRIGGERS",
+  "sub_subtopic": "AUTISM AND NEURODEVELOPMENTAL DISABILITY FEEDING MODIFICATIONS",
+  "heading_path": "FEEDING DIFFICULTIES & FALTERING GROWTH;SPECIAL POPULATION MODIFICATIONS AND EARLY REFERRAL TRIGGERS;AUTISM AND NEURODEVELOPMENTAL DISABILITY FEEDING MODIFICATIONS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2w1"
+}

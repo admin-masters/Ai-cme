@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "This section discusses malnutrition severity classification and growth trajectory triggers in chronic cardiorespiratory disease, emphasizing bedside nutrition assessment and risk stratification using WHO growth standards and pediatric malnutrition guidelines.",
+  "learning_objectives": [
+    "Understand the classification of malnutrition severity in pediatric patients with chronic cardiorespiratory disease.",
+    "Identify growth trajectory triggers using WHO child growth and weight velocity standards.",
+    "Apply bedside nutrition assessment techniques to stratify malnutrition risk.",
+    "Incorporate evidence-based guidelines for managing severe acute malnutrition."
+  ],
+  "key_facts": [
+    "WHO child growth standards provide benchmarks for weight-for-age, height-for-age, and weight velocity (Reference 1, 2).",
+    "Severe acute malnutrition (SAM) is defined by weight-for-height Z-scores below -3 or the presence of bilateral pitting edema (Reference 4).",
+    "Growth trajectory monitoring is critical in chronic cardiorespiratory disease to prevent long-term complications.",
+    "Indicators for pediatric malnutrition include inadequate weight gain velocity and failure to thrive (Reference 3).",
+    "Bedside nutrition assessment tools should include anthropometric measurements and clinical history."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Malnutrition",
+    "Chronic Disease",
+    "Cardiopulmonary Diseases",
+    "Nutritional Assessment",
+    "Growth Disorders",
+    "Pediatrics",
+    "Weight Gain",
+    "Risk Assessment"
+  ],
+  "tags_custom": [
+    "child growth standards",
+    "severe acute malnutrition",
+    "nutrition risk stratification",
+    "growth monitoring"
+  ],
+  "reference_quote": "\"Severe acute malnutrition is defined by weight-for-height Z-scores below -3 or the presence of bilateral pitting edema.\" (Reference 4)",
+  "document_key_topics": [
+    "Malnutrition severity classification",
+    "Growth trajectory monitoring",
+    "Bedside nutrition assessment",
+    "Pediatric nutrition guidelines"
+  ],
+  "chunk_heading": "NUTRITION IN CHRONIC CARDIORESPIRATORY DISEASE;BEDSIDE NUTRITION ASSESSMENT AND RISK STRATIFICATION;MALNUTRITION SEVERITY CLASSIFICATION AND GROWTH TRAJECTORY TRIGGERS;",
+  "topic": "NUTRITION IN CHRONIC CARDIORESPIRATORY DISEASE",
+  "subtopic": "BEDSIDE NUTRITION ASSESSMENT AND RISK STRATIFICATION",
+  "sub_subtopic": "MALNUTRITION SEVERITY CLASSIFICATION AND GROWTH TRAJECTORY TRIGGERS",
+  "heading_path": "NUTRITION IN CHRONIC CARDIORESPIRATORY DISEASE;BEDSIDE NUTRITION ASSESSMENT AND RISK STRATIFICATION;MALNUTRITION SEVERITY CLASSIFICATION AND GROWTH TRAJECTORY TRIGGERS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1j2.2"
+}

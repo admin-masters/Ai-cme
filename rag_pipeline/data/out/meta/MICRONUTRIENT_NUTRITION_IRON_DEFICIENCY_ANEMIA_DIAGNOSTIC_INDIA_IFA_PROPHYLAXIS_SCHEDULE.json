@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "The India IFA Prophylaxis Schedule under Anaemia Mukt Bharat outlines age-specific iron and folic acid supplementation linked with deworming to prevent iron deficiency anemia, emphasizing prophylaxis over treatment and proper documentation to avoid errors.",
+  "learning_objectives": [
+    "Understand the age-specific IFA prophylaxis schedule under Anaemia Mukt Bharat.",
+    "Learn the linkage between deworming and iron deficiency anemia prevention.",
+    "Differentiate between prophylactic and therapeutic iron supplementation.",
+    "Recognize the importance of accurate documentation in anemia management."
+  ],
+  "key_facts": [
+    "6\u201359 months: Biweekly 1 mL IFA syrup (20 mg elemental iron + 100 mcg folic acid per mL).",
+    "5\u201310 years: Weekly 1 IFA tablet (45 mg elemental iron + 400 mcg folic acid).",
+    "10\u201319 years: Weekly 1 IFA tablet (60 mg elemental iron + 500 mcg folic acid).",
+    "Deworming: Albendazole 200 mg (1\u20132 years) and 400 mg (2\u201319 years) during National Deworming Day campaigns.",
+    "Prophylaxis is not treatment; therapeutic iron (mg/kg/day) is prescribed for confirmed anemia.",
+    "Documentation must include IFA program status, last dose date, deworming history, and therapeutic iron plan."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Iron-Deficiency Anemia",
+    "Iron Supplementation",
+    "Folic Acid",
+    "Deworming",
+    "Albendazole",
+    "Child Nutrition",
+    "Preventive Health Services",
+    "India"
+  ],
+  "tags_custom": [
+    "Anaemia Mukt Bharat",
+    "IFA prophylaxis",
+    "National Deworming Day",
+    "Therapeutic iron",
+    "Public health guidelines"
+  ],
+  "reference_quote": "Under Anaemia Mukt Bharat (AMB), program IFA is age-banded and intended for delivery platforms (AWC/Anganwadi, school, outreach), not for correcting established anemia.",
+  "document_key_topics": [
+    "India IFA prophylaxis schedule",
+    "Deworming linkage in anemia prevention",
+    "Prophylactic vs therapeutic iron supplementation",
+    "Documentation in anemia management"
+  ],
+  "chunk_heading": "MICRONUTRIENT NUTRITION;IRON DEFICIENCY ANEMIA DIAGNOSTIC AND THERAPEUTIC DECISIONS;INDIA IFA PROPHYLAXIS SCHEDULE WITH DEWORMING LINKAGE;",
+  "topic": "MICRONUTRIENT NUTRITION",
+  "subtopic": "IRON DEFICIENCY ANEMIA DIAGNOSTIC AND THERAPEUTIC DECISIONS",
+  "sub_subtopic": "INDIA IFA PROPHYLAXIS SCHEDULE WITH DEWORMING LINKAGE",
+  "heading_path": "MICRONUTRIENT NUTRITION;IRON DEFICIENCY ANEMIA DIAGNOSTIC AND THERAPEUTIC DECISIONS;INDIA IFA PROPHYLAXIS SCHEDULE WITH DEWORMING LINKAGE;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "1v7"
+}

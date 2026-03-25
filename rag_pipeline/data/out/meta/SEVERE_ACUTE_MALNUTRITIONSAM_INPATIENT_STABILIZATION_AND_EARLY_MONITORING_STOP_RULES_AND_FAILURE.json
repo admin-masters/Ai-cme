@@ -1,0 +1,47 @@
+{
+  "chunk_summary": "Guidelines for monitoring and stop rules during inpatient stabilization of SAM, focusing on hydration, feeding, and failure-to-respond triggers within the first 10 days of care.",
+  "learning_objectives": [
+    "Understand the monitoring frequencies and stop rules for IV and oral/NG rehydration in SAM management.",
+    "Identify failure-to-respond timepoints and triggers for diagnostic reassessment in SAM care.",
+    "Learn the criteria for escalating feeding support and tracking oedema resolution.",
+    "Recognize signs of overhydration and complications during early inpatient care."
+  ],
+  "key_facts": [
+    "Monitor pulse and respiratory rate every 5\u201310 minutes during IV fluid administration; stop if pulse rises by 15/min or respiratory rate rises by 5/min.",
+    "Reassess hydration every 30 minutes for the first 2 hours, then hourly during oral/NG rehydration; stop if tachypnea, rising pulse, or periorbital puffiness develops.",
+    "Weigh daily and track oedema grade until resolution; failure to reduce oedema by day 4 or persistence to day 10 requires reassessment.",
+    "Failure to gain \u22655 g/kg/day for three consecutive days after transition to free feeding is a trigger for further evaluation.",
+    "Reassess for missed infections, electrolyte issues, or comorbidities if appetite has not returned by day 4."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Severe Acute Malnutrition",
+    "Inpatient Care",
+    "Rehydration Solutions",
+    "Monitoring, Physiologic",
+    "Failure to Thrive",
+    "Edema",
+    "Fluid Therapy",
+    "Nutritional Support"
+  ],
+  "tags_custom": [
+    "SAM monitoring",
+    "hydration stop rules",
+    "feeding escalation",
+    "failure-to-respond triggers"
+  ],
+  "reference_quote": "For any child receiving IV fluids for shock, Indian ward thresholds operationalize safety: record pulse and respiratory rate at the start and at least every 5\u201310 minutes, and stop the infusion immediately if respiratory rate rises by 5/min or pulse rises by 15/min.",
+  "document_key_topics": [
+    "Monitoring and stop rules for hydration in SAM care",
+    "Failure-to-respond timepoints and diagnostic reassessment",
+    "Feeding support and oedema tracking in inpatient SAM management"
+  ],
+  "chunk_heading": "SEVERE ACUTE MALNUTRITION-(SAM) MANAGEMENT;INPATIENT STABILIZATION AND EARLY MONITORING;MONITORING STOP RULES AND FAILURE TO RESPOND TIMEPOINTS;",
+  "topic": "SEVERE ACUTE MALNUTRITION-(SAM) MANAGEMENT",
+  "subtopic": "INPATIENT STABILIZATION AND EARLY MONITORING",
+  "sub_subtopic": "MONITORING STOP RULES AND FAILURE TO RESPOND TIMEPOINTS",
+  "heading_path": "SEVERE ACUTE MALNUTRITION-(SAM) MANAGEMENT;INPATIENT STABILIZATION AND EARLY MONITORING;MONITORING STOP RULES AND FAILURE TO RESPOND TIMEPOINTS;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "3m3"
+}

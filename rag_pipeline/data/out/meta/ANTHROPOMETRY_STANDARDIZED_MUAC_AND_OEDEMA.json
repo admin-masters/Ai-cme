@@ -1,0 +1,44 @@
+{
+  "chunk_summary": "This section outlines standardized techniques for MUAC and oedema measurement in children, emphasizing accuracy, common errors, and clinical interpretation to assess malnutrition severity.",
+  "learning_objectives": [
+    "Understand the step-by-step procedure for accurate MUAC measurement in children aged 6\u201359 months.",
+    "Identify and correct common errors in MUAC and oedema assessment techniques.",
+    "Learn the clinical significance of bilateral pitting oedema and its grading in malnutrition diagnosis."
+  ],
+  "key_facts": [
+    "MUAC <115 mm is a diagnostic cutoff for Severe Acute Malnutrition (SAM) in children aged 6\u201359 months.",
+    "The midpoint of the left upper arm is identified between the acromion and olecranon for MUAC measurement.",
+    "High-frequency errors include incorrect landmarks, tape twisting, and improper tape tension (too loose or too tight).",
+    "Bilateral pitting oedema is graded as mild (feet only), moderate (up to legs or hands), or severe (generalized including face).",
+    "Persistent pitting after pressing both thumbs on the dorsum of the feet indicates oedema."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Anthropometry",
+    "Mid-Upper Arm Circumference",
+    "Severe Acute Malnutrition",
+    "Edema",
+    "Child Nutrition Disorders",
+    "Nutritional Assessment"
+  ],
+  "tags_custom": [
+    "MUAC measurement",
+    "oedema grading",
+    "malnutrition assessment",
+    "clinical techniques"
+  ],
+  "reference_quote": "\"Always document the age band because standard cutoffs (e.g., <115 mm for SAM) apply to children 6\u201359 months.\" (Source: Facility Based Care of Severe Acute Malnutrition \u2014 Participant Manual, MoHFW, Government of India)",
+  "document_key_topics": [
+    "MUAC measurement technique",
+    "Common errors in anthropometry",
+    "Bilateral pitting oedema assessment"
+  ],
+  "chunk_heading": "ANTHROPOMETRY;STANDARDIZED MUAC AND OEDEMA MEASUREMENT TECHNIQUE;",
+  "topic": "ANTHROPOMETRY",
+  "subtopic": "STANDARDIZED MUAC AND OEDEMA MEASUREMENT TECHNIQUE",
+  "sub_subtopic": null,
+  "heading_path": "ANTHROPOMETRY;STANDARDIZED MUAC AND OEDEMA MEASUREMENT TECHNIQUE;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "2a"
+}

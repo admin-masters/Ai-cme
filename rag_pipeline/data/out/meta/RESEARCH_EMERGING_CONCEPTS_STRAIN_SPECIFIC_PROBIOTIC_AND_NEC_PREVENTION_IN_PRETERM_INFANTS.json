@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "Unit policies for NEC prevention in preterm infants should prioritize strain-specific probiotics with verified safety, efficacy, and regulatory compliance, while ensuring robust adverse-event monitoring and caregiver counseling.",
+  "learning_objectives": [
+    "Understand the role of strain-specific probiotics in preventing NEC in preterm infants.",
+    "Identify key safety and regulatory considerations for probiotic use in neonatal intensive care units (NICUs).",
+    "Develop unit-level policies for probiotic prescribing, including eligibility criteria and adverse-event monitoring.",
+    "Recognize the importance of verified strain identity, manufacturing standards, and cold-chain logistics in probiotic procurement."
+  ],
+  "key_facts": [
+    "Combination probiotics reduce NEC stage 2 and above, late-onset sepsis, mortality, and time to full feeds, with greater benefits in human milk\u2013fed infants.",
+    "Eligibility criteria should include gestational age and birth weight bands, while contraindications include hemodynamic instability, suspected sepsis, and severe immunodeficiency.",
+    "Probiotic products must have verified strain identity, consistent viable counts, and lot-wise Certificates of Analysis (COA).",
+    "Regulatory bodies like the FDA warn that no probiotic is approved as a drug or biologic for preterm infants, citing risks of invasive infections and contamination.",
+    "Adverse-event surveillance should include tracking NEC stage, sepsis, mortality, and suspected probiotic-associated infections."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Necrotizing Enterocolitis",
+    "Probiotics",
+    "Preterm Infants",
+    "Neonatal Intensive Care Units",
+    "Sepsis",
+    "Infant Nutrition",
+    "Safety",
+    "Regulatory Compliance"
+  ],
+  "tags_custom": [
+    "NEC prevention",
+    "probiotic safety",
+    "neonatal care",
+    "unit policy",
+    "adverse-event monitoring"
+  ],
+  "reference_quote": "Regulatory warnings, including FDA communications, emphasize that no probiotic is approved as a drug or biologic for preterm infants and highlight documented invasive infections and contamination risks.",
+  "document_key_topics": [
+    "Probiotic use in NEC prevention",
+    "Safety and regulatory considerations for probiotics",
+    "Unit-level policies for neonatal probiotic prescribing"
+  ],
+  "chunk_heading": "RESEARCH & EMERGING CONCEPTS;STRAIN SPECIFIC PROBIOTIC AND SYNBIOTIC PRESCRIBING;NEC PREVENTION IN PRETERM INFANTS UNIT POLICY;",
+  "topic": "RESEARCH & EMERGING CONCEPTS",
+  "subtopic": "STRAIN SPECIFIC PROBIOTIC AND SYNBIOTIC PRESCRIBING",
+  "sub_subtopic": "NEC PREVENTION IN PRETERM INFANTS UNIT POLICY",
+  "heading_path": "RESEARCH & EMERGING CONCEPTS;STRAIN SPECIFIC PROBIOTIC AND SYNBIOTIC PRESCRIBING;NEC PREVENTION IN PRETERM INFANTS UNIT POLICY;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "1t6"
+}

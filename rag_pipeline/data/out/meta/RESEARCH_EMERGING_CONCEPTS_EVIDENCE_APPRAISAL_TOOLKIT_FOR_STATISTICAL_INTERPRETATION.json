@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section highlights statistical pitfalls in interpreting emerging nutrition evidence, emphasizing absolute risk differences, subgroup analysis caution, and the importance of clinically meaningful outcomes for safe clinical adoption.",
+  "learning_objectives": [
+    "Understand the importance of converting relative effects to absolute risk differences for clinical decision-making.",
+    "Identify risks of false positives in nutrigenomics studies due to lack of multiplicity control.",
+    "Evaluate evidence quality using tools like GRADE and recognize publication bias in commercially sponsored research."
+  ],
+  "key_facts": [
+    "Relative effects (e.g., RR) should be converted to absolute risk differences using realistic baseline risks.",
+    "False-positive risk is high in nutrigenomics studies without multiplicity control, such as FDR methods.",
+    "Publication bias and selective reporting are common in commercially sponsored interventions; trial registration and complete outcome reporting are essential.",
+    "Meta-analyses relying on small trials with wide confidence intervals should be interpreted as low certainty.",
+    "In India, out-of-pocket costs for tests and supplements necessitate clear treatment goals and stopping rules.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Nutrition Research",
+    "Risk Assessment",
+    "Evidence-Based Medicine",
+    "Publication Bias",
+    "Meta-Analysis",
+    "Nutrigenomics",
+    "Clinical Decision-Making",
+    "Statistical Interpretation"
+  ],
+  "tags_custom": [
+    "nutrition evidence pitfalls",
+    "clinical adoption toolkit",
+    "statistical bias",
+    "nutrigenomics risks",
+    "India-specific guidelines"
+  ],
+  "reference_quote": "Publication bias and selective reporting are common when interventions are commercially sponsored. Look for trial registration, a protocol, and complete outcome reporting; absence should lower confidence even when a p value is 'significant.'",
+  "document_key_topics": [
+    "Statistical pitfalls in nutrition research",
+    "Evidence appraisal for clinical adoption",
+    "Publication bias and selective reporting",
+    "Nutrigenomics and false-positive risks"
+  ],
+  "chunk_heading": "RESEARCH & EMERGING CONCEPTS;EVIDENCE APPRAISAL TOOLKIT FOR SAFE CLINICAL ADOPTION;STATISTICAL INTERPRETATION PITFALLS IN EMERGING NUTRITION EVIDENCE;",
+  "topic": "RESEARCH & EMERGING CONCEPTS",
+  "subtopic": "EVIDENCE APPRAISAL TOOLKIT FOR SAFE CLINICAL ADOPTION",
+  "sub_subtopic": "STATISTICAL INTERPRETATION PITFALLS IN EMERGING NUTRITION EVIDENCE",
+  "heading_path": "RESEARCH & EMERGING CONCEPTS;EVIDENCE APPRAISAL TOOLKIT FOR SAFE CLINICAL ADOPTION;STATISTICAL INTERPRETATION PITFALLS IN EMERGING NUTRITION EVIDENCE;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1d3"
+}

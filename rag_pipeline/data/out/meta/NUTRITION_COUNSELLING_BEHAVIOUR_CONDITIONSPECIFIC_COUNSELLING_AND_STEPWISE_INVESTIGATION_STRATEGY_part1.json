@@ -1,0 +1,47 @@
+{
+  "chunk_summary": "This section outlines a stepwise strategy for investigating and managing growth faltering in children, emphasizing condition-specific nutrition counselling and escalation pathways based on clinical guidelines.",
+  "learning_objectives": [
+    "Understand the stepwise approach to identifying and managing growth faltering in children.",
+    "Learn how to apply condition-specific nutrition counselling strategies for growth faltering.",
+    "Recognize when to escalate care based on clinical guidelines for growth faltering.",
+    "Familiarize with key recommendations from NICE NG75 and AAP guidelines on growth faltering."
+  ],
+  "key_facts": [
+    "Growth faltering is defined as a significant decline in weight or height centiles or failure to achieve expected growth rates.",
+    "NICE NG75 provides a framework for recognizing and managing faltering growth in children, emphasizing early identification and intervention.",
+    "The American Academy of Pediatrics (AAP) highlights the importance of monitoring growth in newborns and infants, particularly in the first 2 years of life.",
+    "Escalation pathways include referral to pediatric specialists if growth faltering persists despite initial interventions.",
+    "Nutritional interventions should be tailored to the underlying cause, such as addressing feeding difficulties or underlying medical conditions."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Growth Disorders",
+    "Pediatric Nutrition",
+    "Nutritional Status",
+    "Child Development",
+    "Failure to Thrive",
+    "Clinical Guidelines",
+    "Dietary Counseling"
+  ],
+  "tags_custom": [
+    "Growth faltering",
+    "Stepwise investigation",
+    "Nutrition counselling",
+    "Pediatric care",
+    "Escalation pathways"
+  ],
+  "reference_quote": "Faltering growth: recognition and management of faltering growth in children (NICE NG75).",
+  "document_key_topics": [
+    "Stepwise investigation of growth faltering",
+    "Condition-specific nutrition counselling",
+    "Escalation pathways for pediatric growth issues"
+  ],
+  "chunk_heading": "NUTRITION COUNSELLING & BEHAVIOUR CHANGE SKILLS;CONDITION-SPECIFIC COUNSELLING AND ESCALATION PATHWAYS;STEPWISE INVESTIGATION STRATEGY FOR GROWTH FALTERING;",
+  "topic": "NUTRITION COUNSELLING & BEHAVIOUR CHANGE SKILLS",
+  "subtopic": "CONDITION-SPECIFIC COUNSELLING AND ESCALATION PATHWAYS",
+  "sub_subtopic": "STEPWISE INVESTIGATION STRATEGY FOR GROWTH FALTERING",
+  "heading_path": "NUTRITION COUNSELLING & BEHAVIOUR CHANGE SKILLS;CONDITION-SPECIFIC COUNSELLING AND ESCALATION PATHWAYS;STEPWISE INVESTIGATION STRATEGY FOR GROWTH FALTERING;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1|3.2"
+}

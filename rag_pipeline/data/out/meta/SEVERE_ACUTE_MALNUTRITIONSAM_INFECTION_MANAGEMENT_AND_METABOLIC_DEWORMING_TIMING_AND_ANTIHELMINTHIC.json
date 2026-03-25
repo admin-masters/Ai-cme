@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "Deworming in SAM management is a rehabilitation-phase intervention, initiated after clinical stabilization, with age-specific anthelmintic dosing and hygiene counseling to prevent reinfection.",
+  "learning_objectives": [
+    "Understand the timing and rationale for deworming in SAM rehabilitation.",
+    "Learn age-specific anthelmintic dosing protocols for albendazole and mebendazole.",
+    "Recognize contraindications and adverse effects of deworming in unstable children.",
+    "Integrate deworming with hygiene counseling and outpatient follow-up workflows."
+  ],
+  "key_facts": [
+    "Deworming is not a day-0 priority in SAM management; it is initiated after 48\u201372 hours or at discharge.",
+    "Albendazole dosing: 200 mg single dose for 12\u201323 months, 400 mg single dose for \u226524 months.",
+    "Mebendazole alternative: 100 mg twice daily for 3 days in children \u226524 months.",
+    "Avoid deworming in children <12 months unless directed by specific program policies.",
+    "Persistent diarrhea requires stool examination for pathogens like giardiasis, not empiric deworming.",
+    "Link deworming to hygiene counseling (handwashing, feces disposal, footwear) to reduce reinfection."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Severe Acute Malnutrition",
+    "Helminthiasis",
+    "Albendazole",
+    "Mebendazole",
+    "Anthelmintics",
+    "Diarrhea",
+    "Rehabilitation",
+    "Hygiene"
+  ],
+  "tags_custom": [
+    "SAM rehabilitation",
+    "deworming protocols",
+    "clinical stabilization",
+    "hygiene counseling",
+    "anthelmintic dosing"
+  ],
+  "reference_quote": "Deworming is a rehabilitation-phase intervention in SAM, not a day-0 priority, because early inpatient care should focus on hypoglycemia, hypothermia, infection treatment, and careful feeding. (Source: Ministry of Health and Family Welfare, Operational guidelines on facility-based management of children with severe acute malnutrition, 2011)",
+  "document_key_topics": [
+    "Deworming timing in SAM rehabilitation",
+    "Age-specific anthelmintic dosing protocols",
+    "Hygiene counseling to prevent reinfection",
+    "Contraindications and adverse effects of deworming"
+  ],
+  "chunk_heading": "SEVERE ACUTE MALNUTRITION-(SAM) MANAGEMENT;INFECTION MANAGEMENT AND METABOLIC  CORRECTIONS;DEWORMING  TIMING  AND  ANTIHELMINTHIC  DOSES DURING REHABILITATION;",
+  "topic": "SEVERE ACUTE MALNUTRITION-(SAM) MANAGEMENT",
+  "subtopic": "INFECTION MANAGEMENT AND METABOLIC  CORRECTIONS",
+  "sub_subtopic": "DEWORMING  TIMING  AND  ANTIHELMINTHIC  DOSES DURING REHABILITATION",
+  "heading_path": "SEVERE ACUTE MALNUTRITION-(SAM) MANAGEMENT;INFECTION MANAGEMENT AND METABOLIC  CORRECTIONS;DEWORMING  TIMING  AND  ANTIHELMINTHIC  DOSES DURING REHABILITATION;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "3|2"
+}

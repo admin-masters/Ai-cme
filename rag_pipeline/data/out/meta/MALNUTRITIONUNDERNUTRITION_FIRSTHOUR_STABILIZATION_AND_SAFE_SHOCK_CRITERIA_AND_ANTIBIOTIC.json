@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "Guidelines for first-hour stabilization in complicated SAM focus on shock criteria, hypoglycemia management, and empiric antibiotics, emphasizing precise protocols to prevent risks during initial care and transfer.",
+  "learning_objectives": [
+    "Understand the criteria for diagnosing shock in children with severe acute malnutrition (SAM).",
+    "Learn the appropriate first-hour management steps for hypoglycemia and hypothermia in complicated SAM.",
+    "Identify empiric antibiotic regimens for sepsis in SAM and when to escalate treatment.",
+    "Recognize the importance of monitoring for fluid overload during IV therapy in SAM."
+  ],
+  "key_facts": [
+    "Shock in SAM is defined as lethargy or unconsciousness with cold hands plus capillary refill >3 seconds or weak, fast pulse.",
+    "Administer 5 ml/kg of sterile 10% glucose IV for hypoglycemia if the child is lethargic, unconscious, or convulsing.",
+    "Empiric antibiotics: ampicillin 50 mg/kg every 6 hours plus gentamicin 7.5 mg/kg once daily; escalate to cefotaxime or ceftriaxone if no improvement in 48 hours.",
+    "Avoid large IV fluid boluses based on a single dehydration sign; monitor for respiratory distress or fluid overload during infusion.",
+    "Treat hypoglycemia and hypothermia together with warming and early feeding."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Severe Acute Malnutrition",
+    "Shock",
+    "Hypoglycemia",
+    "Hypothermia",
+    "Parenteral Antibiotics",
+    "Sepsis",
+    "Fluid Therapy",
+    "Child Nutrition Disorders"
+  ],
+  "tags_custom": [
+    "complicated SAM",
+    "first-hour stabilization",
+    "antibiotic protocols",
+    "shock management"
+  ],
+  "reference_quote": "\"Indian facility guidance defines shock as lethargic or unconscious with cold hands plus either capillary refill >3 seconds or a weak and fast pulse.\" (Reference 2)",
+  "document_key_topics": [
+    "Shock criteria in SAM",
+    "Hypoglycemia and hypothermia management",
+    "Empiric antibiotic regimens for sepsis",
+    "Fluid therapy and monitoring in SAM"
+  ],
+  "chunk_heading": "MALNUTRITION\u2014UNDERNUTRITION: SCREENING & CLASSIFICATION;FIRST-HOUR STABILIZATION AND SAFE TRANSFER IN COMPLICATED SAM;SHOCK CRITERIA AND ANTIBIOTIC FIRST DOSE GATES;",
+  "topic": "MALNUTRITION\u2014UNDERNUTRITION: SCREENING & CLASSIFICATION",
+  "subtopic": "FIRST-HOUR STABILIZATION AND SAFE TRANSFER IN COMPLICATED SAM",
+  "sub_subtopic": "SHOCK CRITERIA AND ANTIBIOTIC FIRST DOSE GATES",
+  "heading_path": "MALNUTRITION\u2014UNDERNUTRITION: SCREENING & CLASSIFICATION;FIRST-HOUR STABILIZATION AND SAFE TRANSFER IN COMPLICATED SAM;SHOCK CRITERIA AND ANTIBIOTIC FIRST DOSE GATES;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2s1"
+}

@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "This section outlines the protocol for conducting oral food challenges (OFCs), including dose escalation, stopping criteria, safety measures, and post-challenge recommendations for structured food reintroduction.",
+  "learning_objectives": [
+    "Understand the stepwise protocol for oral food challenges, including dose escalation and monitoring intervals.",
+    "Identify objective and subjective stopping criteria for allergic reactions during OFCs.",
+    "Learn the minimum safety requirements and emergency preparedness for conducting OFCs.",
+    "Recognize the importance of structured food reintroduction following a negative OFC."
+  ],
+  "key_facts": [
+    "OFCs typically use 4-dose or 6-dose escalation protocols with doses given at 15\u201330 minute intervals.",
+    "Stopping criteria include generalized urticaria, angioedema, repetitive vomiting, progressive cough, stridor, hypotension, or marked behavioral changes.",
+    "Persistent subjective symptoms like itchy throat or abdominal pain require observation and may warrant stopping if they persist beyond 45 minutes or recur across doses.",
+    "Minimum safety requirements include trained staff, oxygen, fluids, bronchodilator, antihistamines, IM epinephrine, and an escalation/transfer plan.",
+    "Structured reintroduction involves regular ingestion of the food multiple times per week to prevent avoidance due to fear."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Food Hypersensitivity",
+    "Oral Food Challenge",
+    "Anaphylaxis",
+    "Emergency Treatment",
+    "Epinephrine",
+    "Diet Therapy",
+    "Pediatric Allergy",
+    "Safety Protocols"
+  ],
+  "tags_custom": [
+    "OFC protocol",
+    "allergic reaction management",
+    "structured food reintroduction",
+    "pediatric allergy care"
+  ],
+  "reference_quote": "Conducting an Oral Food Challenge requires a standardized approach, including pre-calculated emergency medication doses and trained staff presence throughout. (AAAAI Practice Parameter, 2020)",
+  "document_key_topics": [
+    "Oral food challenge protocols",
+    "Stopping criteria for allergic reactions",
+    "Safety measures during OFCs",
+    "Post-challenge structured food reintroduction"
+  ],
+  "chunk_heading": "FOOD ALLERGY & THERAPEUTIC ELIMINATION DIETS;ORAL FOOD CHALLENGE AND HOME INTRODUCTION PROTOCOLS;ORAL FOOD CHALLENGE PROTOCOL AND STOPPING CRITERIA;",
+  "topic": "FOOD ALLERGY & THERAPEUTIC ELIMINATION DIETS",
+  "subtopic": "ORAL FOOD CHALLENGE AND HOME INTRODUCTION PROTOCOLS",
+  "sub_subtopic": "ORAL FOOD CHALLENGE PROTOCOL AND STOPPING CRITERIA",
+  "heading_path": "FOOD ALLERGY & THERAPEUTIC ELIMINATION DIETS;ORAL FOOD CHALLENGE AND HOME INTRODUCTION PROTOCOLS;ORAL FOOD CHALLENGE PROTOCOL AND STOPPING CRITERIA;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1v2"
+}

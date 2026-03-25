@@ -1,0 +1,47 @@
+{
+  "chunk_summary": "Lifestyle changes are the first-line treatment for pediatric MASLD, focusing on diet, physical activity, and monitoring ALT levels. Pharmacotherapy, including Vitamin E and GLP-1 receptor agonists, is reserved for specialist-led cases after failed lifestyle interventions.",
+  "learning_objectives": [
+    "Understand the role of lifestyle modifications in managing pediatric MASLD.",
+    "Learn the recommended monitoring intervals for ALT and metabolic markers in children with MASLD.",
+    "Identify when to consider pharmacotherapy, including Vitamin E and GLP-1 receptor agonists, in pediatric MASLD management."
+  ],
+  "key_facts": [
+    "Lifestyle changes include eliminating sugar-sweetened beverages, reducing refined carbohydrates, increasing dietary fiber and protein, and engaging in daily moderate-to-vigorous physical activity.",
+    "Screening ALT should be rechecked every 3\u20136 months if elevated, or every 2\u20133 years if normal but risk factors persist.",
+    "Vitamin E (800 IU daily) has evidence for use in biopsy-proven pediatric steatohepatitis but requires hepatology supervision due to safety concerns.",
+    "GLP-1 receptor agonists are considered for anti-obesity therapy in selected cases under specialist care.",
+    "Metformin improves insulin sensitivity but is not a liver-directed therapy."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Pediatric Obesity",
+    "Non-alcoholic Fatty Liver Disease",
+    "Lifestyle Modification",
+    "Alanine Transaminase",
+    "Dietary Therapy",
+    "Physical Activity",
+    "Pharmacotherapy",
+    "Insulin Resistance"
+  ],
+  "tags_custom": [
+    "Pediatric MASLD",
+    "ALT monitoring",
+    "Vitamin E therapy",
+    "GLP-1 agonists",
+    "Lifestyle intervention"
+  ],
+  "reference_quote": "Both the 2017 NASPGHAN and 2024 ISPGHAN guidance emphasize lifestyle change as first-line therapy for pediatric MASLD.",
+  "document_key_topics": [
+    "Lifestyle management for pediatric MASLD",
+    "ALT and metabolic marker monitoring",
+    "Pharmacotherapy options for pediatric MASLD"
+  ],
+  "chunk_heading": "METABOLIC RISK IN CHILDREN;PEDIATRIC MASLD SCREENING DIAGNOSIS AND STAGING;LIFESTYLE MANAGEMENT AND WHEN TO CONSIDER PHARMACOTHERAPY;",
+  "topic": "METABOLIC RISK IN CHILDREN",
+  "subtopic": "PEDIATRIC MASLD SCREENING DIAGNOSIS AND STAGING",
+  "sub_subtopic": "LIFESTYLE MANAGEMENT AND WHEN TO CONSIDER PHARMACOTHERAPY",
+  "heading_path": "METABOLIC RISK IN CHILDREN;PEDIATRIC MASLD SCREENING DIAGNOSIS AND STAGING;LIFESTYLE MANAGEMENT AND WHEN TO CONSIDER PHARMACOTHERAPY;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u00866.1"
+}

@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "This section outlines dietary assessment and feeding skills evaluation workflows for outpatient and inpatient settings in India, emphasizing task-shifting, structured tools, and integration with national programs like ICDS/POSHAN for managing malnutrition and feeding challenges.",
+  "learning_objectives": [
+    "Understand the tiered approach for dietary assessment in outpatient settings, including screening and structured recall.",
+    "Learn inpatient feeding assessment protocols, including daily monitoring and discharge feed observation.",
+    "Recognize the role of national programs like ICDS/POSHAN in supporting malnourished children.",
+    "Identify escalation triggers for advanced feeding interventions in severe cases."
+  ],
+  "key_facts": [
+    "Outpatient dietary assessment includes a 2\u20133 minute screen for all children, followed by detailed evaluation for high-risk cases.",
+    "Inpatient monitoring involves daily intake charts tracking offered versus consumed food, vomiting, and other symptoms.",
+    "Discharge feed observation is critical for infants, children with CP, and those with recurrent respiratory symptoms.",
+    "Nutrition Rehabilitation Centers (NRCs) in India focus on transitioning children with SAM from therapeutic feeds to home diets.",
+    "Appetite testing and daily monitoring guide decisions on supervised oral feeds versus escalation to advanced care.",
+    "Linking families to ICDS/POSHAN and promoting calorie-dense local foods are key to sustainable recovery."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Dietary Assessment",
+    "Feeding Behavior",
+    "Severe Acute Malnutrition",
+    "Nutrition Rehabilitation",
+    "Child Nutrition Disorders",
+    "Appetite Regulation",
+    "India",
+    "Health Services Integration"
+  ],
+  "tags_custom": [
+    "Outpatient workflow",
+    "Inpatient feeding protocols",
+    "Task-shifting",
+    "ICDS/POSHAN integration",
+    "Malnutrition management"
+  ],
+  "reference_quote": "WHO: identification of severe acute malnutrition requiring inpatient care in children 6\u201359 months \u2014 https://www.who.int/tools/elena/interventions/sam-...",
+  "document_key_topics": [
+    "Dietary assessment in outpatient settings",
+    "Feeding skills evaluation in inpatient care",
+    "Integration of national nutrition programs in India",
+    "Management of severe acute malnutrition (SAM)"
+  ],
+  "chunk_heading": "DIETARY ASSESSMENT & FEEDING SKILLS EVALUATION;OUTPATIENT AND INPATIENT WORKFLOW INTEGRATION IN INDIA;",
+  "topic": "DIETARY ASSESSMENT & FEEDING SKILLS EVALUATION",
+  "subtopic": "OUTPATIENT AND INPATIENT WORKFLOW INTEGRATION IN INDIA",
+  "sub_subtopic": null,
+  "heading_path": "DIETARY ASSESSMENT & FEEDING SKILLS EVALUATION;OUTPATIENT AND INPATIENT WORKFLOW INTEGRATION IN INDIA;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1~"
+}

@@ -1,0 +1,47 @@
+{
+  "chunk_summary": "Guidelines for managing persistent diarrhea include prescribing low-osmolality ORS, zinc supplementation, and continued feeding. Structured protocols reduce dehydration, episode severity, and inappropriate antibiotic use.",
+  "learning_objectives": [
+    "Understand the role of low-osmolality ORS in managing dehydration during diarrhea.",
+    "Learn the recommended zinc supplementation dosages for children with diarrhea.",
+    "Recognize the importance of continued feeding during diarrhea management.",
+    "Identify when to escalate care to intravenous fluids or antimicrobial therapy."
+  ],
+  "key_facts": [
+    "Low-osmolality ORS is recommended for hydration; escalate to IV fluids in cases of shock, severe dehydration, or persistent vomiting.",
+    "Zinc supplementation: 20 mg daily for 10\u201314 days for children \u22656 months, 10 mg daily for infants <6 months.",
+    "ORS prevents dehydration but does not immediately reduce stool volume.",
+    "Feeding should continue during diarrhea; breastfeeding and energy-dense, age-appropriate foods are encouraged.",
+    "Avoid antimotility drugs and diluted milk in young children with diarrhea.",
+    "Daily monitoring of urine output, weight, and hydration status is essential to measure response."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Diarrhea",
+    "Oral Rehydration Solutions",
+    "Zinc",
+    "Dehydration",
+    "Pediatric Nutrition",
+    "Micronutrients",
+    "Rehydration Therapy",
+    "Feeding Behavior"
+  ],
+  "tags_custom": [
+    "ORS and zinc therapy",
+    "pediatric diarrhea management",
+    "nutrition rehabilitation"
+  ],
+  "reference_quote": "Zinc supplementation is recommended for children with diarrhea because it reduces episode duration and severity and lowers the risk of subsequent episodes.",
+  "document_key_topics": [
+    "ORS and zinc prescribing for diarrhea",
+    "Continued feeding during diarrhea",
+    "Structured protocols for persistent diarrhea management"
+  ],
+  "chunk_heading": "NUTRITION IN GI DISORDERS & MALABSORPTION;NUTRITION REHABILITATION AND PERSISTENT DIARRHEA PROTOCOLS;ORS AND ZINC PRESCRIBING WITH FEEDING CONTINUATION;",
+  "topic": "NUTRITION IN GI DISORDERS & MALABSORPTION",
+  "subtopic": "NUTRITION REHABILITATION AND PERSISTENT DIARRHEA PROTOCOLS",
+  "sub_subtopic": "ORS AND ZINC PRESCRIBING WITH FEEDING CONTINUATION",
+  "heading_path": "NUTRITION IN GI DISORDERS & MALABSORPTION;NUTRITION REHABILITATION AND PERSISTENT DIARRHEA PROTOCOLS;ORS AND ZINC PRESCRIBING WITH FEEDING CONTINUATION;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "2q4"
+}

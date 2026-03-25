@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "Refeeding syndrome in SAM requires early recognition and management with electrolyte correction, thiamine supplementation, and cautious feeding advancement to prevent clinical deterioration.",
+  "learning_objectives": [
+    "Recognize clinical signs and risk factors of refeeding syndrome in severe acute malnutrition (SAM).",
+    "Understand the role of electrolyte monitoring and replacement in managing refeeding syndrome.",
+    "Learn appropriate feeding strategies to prevent and manage refeeding syndrome.",
+    "Identify the importance of thiamine supplementation and infection management in SAM."
+  ],
+  "key_facts": [
+    "Refeeding syndrome risk is high in SAM due to depleted potassium, magnesium, and phosphate stores.",
+    "Clinical signs include tachypnea, hypoxia, arrhythmias, neuromuscular weakness, seizures, or worsening edema within 2\u20135 days of feeding advancement.",
+    "Routine supplementation: potassium (3\u20134 mmol/kg/day) and magnesium (0.4\u20130.6 mmol/kg/day) even without lab confirmation.",
+    "Thiamine should be added before further caloric escalation where feasible.",
+    "Moderate-to-severe hypophosphatemia requires phosphate replacement, with IV phosphate indicated for severe cases under cardiac and calcium monitoring.",
+    "Feeding advancement should be slowed if phosphate products or testing are unavailable, with urgent referral arranged if necessary."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Severe Acute Malnutrition",
+    "Refeeding Syndrome",
+    "Electrolyte Imbalance",
+    "Thiamine Deficiency",
+    "Hypophosphatemia",
+    "Potassium Deficiency",
+    "Magnesium Deficiency",
+    "Nutritional Support"
+  ],
+  "tags_custom": [
+    "SAM management",
+    "refeeding protocol",
+    "electrolyte replacement",
+    "pediatric malnutrition",
+    "feeding advancement"
+  ],
+  "reference_quote": "Refeeding syndrome risk is predictable in SAM because potassium, magnesium, and phosphate stores are depleted and carbohydrate-driven insulin release after feeding shifts these electrolytes intracellularly. (Source: WHO, Pocket book of hospital care for children, NBK154454)",
+  "document_key_topics": [
+    "Refeeding syndrome recognition in SAM",
+    "Electrolyte and thiamine replacement",
+    "Feeding advancement strategies",
+    "Infection management in SAM"
+  ],
+  "chunk_heading": "SEVERE ACUTE MALNUTRITION-(SAM) MANAGEMENT;THERAPEUTIC FEEDING AND  CATCH-UP GROWTH;REFEEDING SYNDROME RECOGNITION THIAMINE AND PHOSPHATE REPLACEMENT;",
+  "topic": "SEVERE ACUTE MALNUTRITION-(SAM) MANAGEMENT",
+  "subtopic": "THERAPEUTIC FEEDING AND  CATCH-UP GROWTH",
+  "sub_subtopic": "REFEEDING SYNDROME RECOGNITION THIAMINE AND PHOSPHATE REPLACEMENT",
+  "heading_path": "SEVERE ACUTE MALNUTRITION-(SAM) MANAGEMENT;THERAPEUTIC FEEDING AND  CATCH-UP GROWTH;REFEEDING SYNDROME RECOGNITION THIAMINE AND PHOSPHATE REPLACEMENT;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "3\u00836"
+}

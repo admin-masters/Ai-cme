@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This template provides a structured feeding safety plan for children with neurodisabilities in school or hostel settings, emphasizing IDDSI standards, supervision, emergency response, and consistency checks.",
+  "learning_objectives": [
+    "Understand the importance of IDDSI levels in prescribing diet and fluid consistency for children with neurodisabilities.",
+    "Learn the emergency choking response protocols for children and infants as per AHA guidelines.",
+    "Recognize the significance of supervised feeding and adaptive equipment in reducing risks during meals.",
+    "Identify criteria for stopping feeding based on signs of distress or aspiration risk."
+  ],
+  "key_facts": [
+    "IDDSI levels must be specified for liquids and solids; thin liquids, mixed textures, and hard particulate foods are generally not allowed.",
+    "Feeding requires supported sitting with trunk and head support; no feeding during transport.",
+    "Emergency choking response includes alternating 5 back blows and 5 abdominal thrusts for children (>1 year) or back slaps and chest thrusts for infants.",
+    "Staff must use IDDSI testing methods, such as syringe flow tests, to confirm food consistency.",
+    "Feeding supervision must be 1:1, with a maximum meal duration specified and pauses every set number of swallows."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Neurodevelopmental Disorders",
+    "Feeding and Eating Disorders",
+    "Pediatric Dysphagia",
+    "Emergency Medical Services",
+    "Postural Support",
+    "Dietary Guidelines",
+    "Airway Obstruction",
+    "Basic Life Support"
+  ],
+  "tags_custom": [
+    "feeding safety",
+    "IDDSI compliance",
+    "pediatric neurodisability",
+    "choking response",
+    "school care plan"
+  ],
+  "reference_quote": "For a conscious child (>1 year) with severe FBAO, follow AHA first aid cycles of 5 back blows alternating with 5 abdominal thrusts until relief or unresponsiveness; if the child becomes unresponsive, start CPR and activate emergency services. (Reference 1)",
+  "document_key_topics": [
+    "Feeding safety protocols for neurodisabled children",
+    "IDDSI standards for food and fluid consistency",
+    "Emergency choking response and basic life support",
+    "Supervised feeding and adaptive equipment use"
+  ],
+  "chunk_heading": "NEURODISABILITY AND FEEDING SUPPORT;SCHOOL AND HOSTEL FEEDING SAFETY PLAN TEMPLATE;",
+  "topic": "NEURODISABILITY AND FEEDING SUPPORT",
+  "subtopic": "SCHOOL AND HOSTEL FEEDING SAFETY PLAN TEMPLATE",
+  "sub_subtopic": null,
+  "heading_path": "NEURODISABILITY AND FEEDING SUPPORT;SCHOOL AND HOSTEL FEEDING SAFETY PLAN TEMPLATE;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1r"
+}

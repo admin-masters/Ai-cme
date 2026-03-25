@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Micronutrient deficiencies beyond iron, such as Vitamin B12, Vitamin D, calcium, zinc, and iodine, are common contributors to feeding difficulties and faltering growth in Indian children. Specific supplementation and dietary interventions are recommended based on deficiency risks and clinical guidelines.",
+  "learning_objectives": [
+    "Identify common micronutrient deficiencies beyond iron in Indian pediatric practice.",
+    "Understand clinical signs and risk factors for Vitamin B12, Vitamin D, calcium, zinc, and iodine deficiencies.",
+    "Learn appropriate supplementation protocols for managing these deficiencies.",
+    "Promote dietary diversity and programmatic interventions to prevent micronutrient gaps."
+  ],
+  "key_facts": [
+    "Vitamin B12 deficiency is common in vegetarian/vegan households and presents with macrocytosis, glossitis, and developmental delays. Treatment includes oral cyanocobalamin (500\u20131,000 mcg daily for 4\u20136 weeks) or parenteral dosing.",
+    "Vitamin D deficiency is managed with cholecalciferol (2,000 IU/day in infants, 3,000 IU/day in older children for 12 weeks) and calcium intake of 50\u201375 mg/kg/day (max 500 mg/day from supplements).",
+    "Zinc supplementation is essential in persistent diarrhea and malnutrition recovery pathways.",
+    "Iodine deficiency prevention involves using adequately iodized salt (15 ppm at the household level).",
+    "Correct Vitamin B12 deficiency before folate to avoid worsening neurologic injury."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Micronutrient Deficiencies",
+    "Vitamin B12 Deficiency",
+    "Vitamin D Deficiency",
+    "Calcium Deficiency",
+    "Zinc",
+    "Iodine",
+    "Child Nutrition Disorders",
+    "Dietary Supplements"
+  ],
+  "tags_custom": [
+    "Feeding difficulties",
+    "Faltering growth",
+    "Indian pediatric practice",
+    "Nutritional interventions",
+    "Selective diets"
+  ],
+  "reference_quote": "Suspect Vitamin B12 deficiency with macrocytosis, glossitis, hyperpigmented knuckles, developmental delay, or infantile tremor syndrome. IAP STG dosing options include oral cyanocobalamin 500\u20131,000 micrograms daily for 4\u20136 weeks.",
+  "document_key_topics": [
+    "Vitamin B12 deficiency and treatment",
+    "Vitamin D and calcium supplementation",
+    "Zinc in diarrhea and malnutrition",
+    "Iodine deficiency prevention"
+  ],
+  "chunk_heading": "FEEDING DIFFICULTIES & FALTERING GROWTH;HIGH FREQUENCY MEDICAL CONTRIBUTORS IN INDIAN PRACTICE;MICRONUTRIENT DEFICIENCIES BEYOND IRON;",
+  "topic": "FEEDING DIFFICULTIES & FALTERING GROWTH",
+  "subtopic": "HIGH FREQUENCY MEDICAL CONTRIBUTORS IN INDIAN PRACTICE",
+  "sub_subtopic": "MICRONUTRIENT DEFICIENCIES BEYOND IRON",
+  "heading_path": "FEEDING DIFFICULTIES & FALTERING GROWTH;HIGH FREQUENCY MEDICAL CONTRIBUTORS IN INDIAN PRACTICE;MICRONUTRIENT DEFICIENCIES BEYOND IRON;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "4\u00853"
+}

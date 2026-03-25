@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "This section provides worked examples for managing fluid-restricted and enteral-failure states in pediatric patients, focusing on numeric enteral prescriptions and advancement targets from day 0\u20133.",
+  "learning_objectives": [
+    "Understand numeric enteral prescription strategies for fluid-restricted pediatric patients.",
+    "Learn how to optimize calorie and protein delivery in enteral nutrition using concentrated formulas.",
+    "Recognize when to initiate parenteral nutrition in cases of enteral failure.",
+    "Apply guidelines for tapering parenteral nutrition as enteral intake improves."
+  ],
+  "key_facts": [
+    "Fluid-restricted CHD example: A 4-month-old infant weighing 5.0 kg is capped at 100 mL/kg/day total fluids (500 mL/day).",
+    "Baseline needs for 0\u20136 months: 90 kcal/kg/day and 1.24 g/kg/day protein (450 kcal/day and 6.2 g/day protein).",
+    "Switching to 1.5 kcal/mL formula allows 600 kcal/day in 400 mL/day, preserving 100 mL/day for non-feed fluids.",
+    "Oncology mucositis example: A 12-year-old (30 kg) requires minimum 1.5 g/kg/day protein (45 g/day) during parenteral nutrition.",
+    "Temporary PN should start at or below estimated REE (Schofield without stress factors) and advance as recovery progresses.",
+    "Daily totals from PN, EN, and other fluids must be documented to avoid overfeeding and electrolyte imbalances."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Enteral Nutrition",
+    "Parenteral Nutrition",
+    "Fluid Therapy",
+    "Pediatric Nutrition",
+    "Critical Illness",
+    "Protein Requirements",
+    "Caloric Intake",
+    "Mucositis"
+  ],
+  "tags_custom": [
+    "numeric prescription",
+    "fluid restriction",
+    "enteral failure",
+    "pediatric nutrition",
+    "critical care"
+  ],
+  "reference_quote": "Baseline needs for 0\u20136 months are about 90 kcal/kg/day and 1.24 g/kg/day protein, as per Nutrient requirements for Indians 2020 (ICMR\u2013NIN).",
+  "document_key_topics": [
+    "Fluid-restricted enteral nutrition strategies",
+    "Parenteral nutrition initiation in enteral failure",
+    "Calorie and protein optimization in pediatric patients",
+    "Advancement targets for day 0\u20133 in critical care nutrition"
+  ],
+  "chunk_heading": "ENTERAL & PARENTERAL NUTRITION;NUMERIC ENTERAL PRESCRIPTION WITH DAY 0\u2013 3 ADVANCEMENT TARGETS;WORKED EXAMPLES FOR FLUID-RESTRICTED AND ENTERAL-FAILURE STATES;",
+  "topic": "ENTERAL & PARENTERAL NUTRITION",
+  "subtopic": "NUMERIC ENTERAL PRESCRIPTION WITH DAY 0\u2013 3 ADVANCEMENT TARGETS",
+  "sub_subtopic": "WORKED EXAMPLES FOR FLUID-RESTRICTED AND ENTERAL-FAILURE STATES",
+  "heading_path": "ENTERAL & PARENTERAL NUTRITION;NUMERIC ENTERAL PRESCRIPTION WITH DAY 0\u2013 3 ADVANCEMENT TARGETS;WORKED EXAMPLES FOR FLUID-RESTRICTED AND ENTERAL-FAILURE STATES;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1i2"
+}

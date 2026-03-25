@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "This section discusses BMI-for-age classification for diagnosing thinness in children aged 5\u201319, differential diagnosis, and linking to government programs like PMPOSHAN, RKSK, and WIFS for management and follow-up.",
+  "learning_objectives": [
+    "Understand BMI-for-age thresholds for diagnosing thinness and severe thinness in children aged 5\u201319 years.",
+    "Identify clinical and psychosocial factors contributing to thinness in this age group.",
+    "Learn management strategies, including dietary plans and program linkages, for moderate acute malnutrition.",
+    "Recognize the importance of follow-up using weight and BMI trends."
+  ],
+  "key_facts": [
+    "Thinness is defined as BMI-for-age (BAZ) below -2, and severe thinness as BAZ below -3.",
+    "Always interpret BMI-for-age alongside height-for-age to account for stunting.",
+    "Urgent escalation is required for danger signs like rapid weight loss, dehydration, or severe illness.",
+    "Management includes three meals, two nutritious snacks, daily protein, and fat add-ons.",
+    "Government programs like PMPOSHAN (school meals), RKSK (adolescent health), and WIFS (anemia prevention) support intake and monitoring.",
+    "Follow-up should document weight and BMI trends rather than rely on single measurements."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Body Mass Index",
+    "Malnutrition",
+    "Adolescent Health",
+    "Nutritional Status",
+    "Dietary Management",
+    "Growth Disorders",
+    "Public Health Programs"
+  ],
+  "tags_custom": [
+    "BMI-for-age",
+    "thinness management",
+    "government nutrition programs",
+    "adolescent malnutrition",
+    "dietary intervention"
+  ],
+  "reference_quote": "Thinness is body mass index-for-age (BAZ) below -2, and severe thinness below -3. Always interpret BAZ together with height-for-age because a short child may appear 'less thin' by BMI even with significant undernutrition.",
+  "document_key_topics": [
+    "BMI-for-age classification for thinness",
+    "Differential diagnosis of thinness in ages 5\u201319",
+    "Linkages to government nutrition programs"
+  ],
+  "chunk_heading": "MODERATE ACUTE MALNUTRITION (MAM) AND SUPPLEMENTARY FEEDING;DIAGNOSIS AND MANAGEMENT OF THINNESS IN AGES 5 TO 19 YEARS;BMI-FOR-AGE CLASSIFICATION DIFFERENTIAL DIAGNOSIS AND PROGRAM LINKAGES;",
+  "topic": "MODERATE ACUTE MALNUTRITION (MAM) AND SUPPLEMENTARY FEEDING",
+  "subtopic": "DIAGNOSIS AND MANAGEMENT OF THINNESS IN AGES 5 TO 19 YEARS",
+  "sub_subtopic": "BMI-FOR-AGE CLASSIFICATION DIFFERENTIAL DIAGNOSIS AND PROGRAM LINKAGES",
+  "heading_path": "MODERATE ACUTE MALNUTRITION (MAM) AND SUPPLEMENTARY FEEDING;DIAGNOSIS AND MANAGEMENT OF THINNESS IN AGES 5 TO 19 YEARS;BMI-FOR-AGE CLASSIFICATION DIFFERENTIAL DIAGNOSIS AND PROGRAM LINKAGES;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "3|1.1"
+}

@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Guidelines for balancing vitamin A, zinc, and copper in therapeutic feeds for severe acute malnutrition (SAM) emphasize protocol adherence, avoiding toxicity, and addressing specific deficiencies like xerophthalmia or measles.",
+  "learning_objectives": [
+    "Understand the role of vitamin A, zinc, and copper in SAM therapeutic feeds.",
+    "Identify when high-dose vitamin A supplementation is indicated in SAM care.",
+    "Recognize the risks of excessive zinc supplementation and its impact on copper balance.",
+    "Apply protocol-based micronutrient supplementation to avoid toxicity and ensure recovery."
+  ],
+  "key_facts": [
+    "Routine high-dose vitamin A is unnecessary if therapeutic feeds already provide adequate amounts, except in cases like xerophthalmia or measles.",
+    "Excessive zinc supplementation without copper can lead to copper deficiency; protocols typically balance both.",
+    "Therapeutic feeds include standardized amounts of vitamin A and zinc, reducing the need for additional supplementation.",
+    "High-dose vitamin A is indicated for xerophthalmia, measles, or high-risk vitamin A deficiency when therapeutic feeds are unavailable.",
+    "Recovery outcomes include improved appetite, weight gain, and reduced infections over weeks.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Micronutrients",
+    "Vitamin A",
+    "Zinc",
+    "Copper",
+    "Severe Acute Malnutrition",
+    "Therapeutic Foods",
+    "Nutritional Rehabilitation",
+    "Toxicity"
+  ],
+  "tags_custom": [
+    "SAM care",
+    "Therapeutic feeds",
+    "Micronutrient balance",
+    "Vitamin A toxicity",
+    "Zinc-copper interaction"
+  ],
+  "reference_quote": "Routine additional massive-dose vitamin A is not always required during rehabilitation if the child is receiving these therapeutic foods and has no eye signs; unnecessary extra dosing increases toxicity risk. (Source: Indian Academy of Pediatrics)",
+  "document_key_topics": [
+    "Vitamin A supplementation in SAM",
+    "Zinc and copper balance in therapeutic feeds",
+    "Protocol-based micronutrient care in malnutrition"
+  ],
+  "chunk_heading": "MICRONUTRIENT NUTRITION;MICRONUTRIENT SUPPLEMENTATION IN SEVERE ACUTE MALNUTRITION CARE;VITAMIN A AND ZINC COPPER BALANCE IN THERAPEUTIC FEEDS;",
+  "topic": "MICRONUTRIENT NUTRITION",
+  "subtopic": "MICRONUTRIENT SUPPLEMENTATION IN SEVERE ACUTE MALNUTRITION CARE",
+  "sub_subtopic": "VITAMIN A AND ZINC COPPER BALANCE IN THERAPEUTIC FEEDS",
+  "heading_path": "MICRONUTRIENT NUTRITION;MICRONUTRIENT SUPPLEMENTATION IN SEVERE ACUTE MALNUTRITION CARE;VITAMIN A AND ZINC COPPER BALANCE IN THERAPEUTIC FEEDS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u009a2"
+}

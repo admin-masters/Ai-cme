@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section outlines a workflow for catch-up immunization during follow-up of children with moderate wasting, emphasizing proactive documentation, timely vaccination, and linkage to immunization drives to close gaps and prevent infection-driven weight loss.",
+  "learning_objectives": [
+    "Understand the importance of addressing immunization gaps during MAM follow-up visits.",
+    "Learn the step-by-step workflow for catch-up immunization referrals in children with moderate wasting.",
+    "Recognize the role of proactive documentation and community linkage in improving immunization coverage.",
+    "Identify contraindications and considerations for vaccination in children with moderate wasting."
+  ],
+  "key_facts": [
+    "Immunization status should be documented at day 0 and week 4 response nodes during MAM follow-up.",
+    "Vaccination is recommended for clinically stable children with uncomplicated moderate wasting; do not delay due to MAM status.",
+    "Missed vaccine doses are given as catch-up without restarting the series, following the National Immunization Schedule.",
+    "Mild intercurrent illness is not usually a contraindication for vaccination.",
+    "Proactive linkage to special drives like Mission Indradhanush and community platforms (e.g., VHSND) is essential for migrant families or those missing sessions."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Malnutrition",
+    "Immunization Schedule",
+    "Vaccination",
+    "Child Nutrition Disorders",
+    "Community Health Services",
+    "Preventive Health Services",
+    "Infectious Disease Prevention",
+    "Health Promotion"
+  ],
+  "tags_custom": [
+    "Moderate Wasting",
+    "Catch-up Immunization",
+    "Supplementary Feeding",
+    "Community Linkage",
+    "Proactive Documentation"
+  ],
+  "reference_quote": "Missed doses are given as catch-up, following schedule guidance at the immunization site. Mild intercurrent illness is usually not a contraindication, so waiting for 'perfect health' delays protection.",
+  "document_key_topics": [
+    "Catch-up immunization workflow for moderate wasting",
+    "Proactive documentation and follow-up in MAM cases",
+    "Linkage to immunization drives and community platforms",
+    "Guidelines for vaccination in children with moderate wasting"
+  ],
+  "chunk_heading": "MODERATE ACUTE MALNUTRITION (MAM) & SUPPLEMENTARY FEEDING;COUNSELLING AND HOME DIET THERAPY FOR MODERATE WASTING;CATCH-UP IMMUNIZATION REFERRAL WORKFLOW DURING WASTING FOLLOW-UP;",
+  "topic": "MODERATE ACUTE MALNUTRITION (MAM) & SUPPLEMENTARY FEEDING",
+  "subtopic": "COUNSELLING AND HOME DIET THERAPY FOR MODERATE WASTING",
+  "sub_subtopic": "CATCH-UP IMMUNIZATION REFERRAL WORKFLOW DURING WASTING FOLLOW-UP",
+  "heading_path": "MODERATE ACUTE MALNUTRITION (MAM) & SUPPLEMENTARY FEEDING;COUNSELLING AND HOME DIET THERAPY FOR MODERATE WASTING;CATCH-UP IMMUNIZATION REFERRAL WORKFLOW DURING WASTING FOLLOW-UP;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "4n1.1"
+}

@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "This section outlines the evaluation and management of suspected CLABSI in children receiving parenteral nutrition, including diagnostic steps, empiric therapy, and criteria for catheter removal or salvage.",
+  "learning_objectives": [
+    "Understand the diagnostic criteria and steps for suspected CLABSI in pediatric patients.",
+    "Identify appropriate empiric antibiotic regimens based on local antibiograms and patient risk factors.",
+    "Learn the indications for catheter removal versus salvage in CLABSI management.",
+    "Recognize high-risk scenarios requiring fungal coverage or additional interventions."
+  ],
+  "key_facts": [
+    "CLABSI is a leading cause of morbidity in children receiving parenteral nutrition.",
+    "Blood cultures should ideally include one from the catheter (each lumen if multilumen) and one peripheral culture.",
+    "Empiric antibiotics should cover gram-positive organisms (e.g., MRSA) and gram-negative organisms in high-risk patients.",
+    "Catheter removal is recommended in cases of septic shock, persistent bacteremia, tunnel/exit-site infections with purulence, or infections with fungi, Staphylococcus aureus, or Pseudomonas aeruginosa.",
+    "Fungal coverage is advised in high-risk patients, such as those with prolonged broad-spectrum antibiotic use, parenteral nutrition, or immunocompromise.",
+    "Structured salvage attempts include systemic antibiotics, repeat cultures, and consideration of antibiotic lock therapy.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Parenteral Nutrition",
+    "Central Line-Associated Bloodstream Infections",
+    "Catheter-Related Infections",
+    "Antibiotic Therapy",
+    "Fungal Infections",
+    "Sepsis",
+    "Pediatric Nutrition",
+    "Catheterization"
+  ],
+  "tags_custom": [
+    "CLABSI management",
+    "catheter removal",
+    "pediatric sepsis",
+    "antibiotic protocols"
+  ],
+  "reference_quote": "Catheter removal is generally favored in septic shock, persistent bacteremia despite appropriate therapy, tunnel/exit-site infection with purulence, and infections due to organisms with low salvage success (for example fungi; many guidelines also advise removal for Staphylococcus aureus and Pseudomonas aeruginosa).",
+  "document_key_topics": [
+    "CLABSI evaluation and diagnosis",
+    "Empiric antibiotic therapy for CLABSI",
+    "Catheter removal versus salvage criteria",
+    "Fungal infection risk and management"
+  ],
+  "chunk_heading": "ENTERAL & PARENTERAL NUTRITION;MONITORING THRESHOLDS AND COMPLICATION RESPONSE PATHWAYS;SUSPECTED CLABSI EVALUATION AND CATHETER REMOVAL INDICATIONS;",
+  "topic": "ENTERAL & PARENTERAL NUTRITION",
+  "subtopic": "MONITORING THRESHOLDS AND COMPLICATION RESPONSE PATHWAYS",
+  "sub_subtopic": "SUSPECTED CLABSI EVALUATION AND CATHETER REMOVAL INDICATIONS",
+  "heading_path": "ENTERAL & PARENTERAL NUTRITION;MONITORING THRESHOLDS AND COMPLICATION RESPONSE PATHWAYS;SUSPECTED CLABSI EVALUATION AND CATHETER REMOVAL INDICATIONS;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "2\u00915"
+}

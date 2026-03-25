@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "Guidance on resource-tiered feeding pathways for preterm/LBW/ELBW infants when human milk fortifier (HMF) is unavailable, emphasizing safe alternatives, explicit 'do-not' instructions, and structured supplementation plans.",
+  "learning_objectives": [
+    "Understand resource-tiered feeding strategies for preterm/LBW/ELBW infants post-discharge when HMF is unavailable.",
+    "Identify safe alternatives to HMF, including nutrient-enriched formula and preterm formula powder as fortifiers.",
+    "Recognize unsafe feeding practices and implement explicit 'do-not' instructions in discharge plans.",
+    "Learn the importance of follow-up, feeding logs, and supervised feeding interventions in low-resource settings."
+  ],
+  "key_facts": [
+    "Human milk fortifier (HMF) access and safe handling are variable in India, requiring alternative feeding pathways.",
+    "Structured fortifier workflows should include explicit weaning criteria and written mixing plans for safety.",
+    "Post-discharge formula or preterm formula powder can be used as fortifiers under supervision when HMF is unavailable.",
+    "Unsafe practices include adding sugar, honey, ghee, cereal water, or protein powders to milk feeds.",
+    "Reconstituted formula should not be stored at room temperature for prolonged periods or reused after a feed.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Infant, Premature",
+    "Low Birth Weight Infant",
+    "Human Milk",
+    "Milk Fortifiers",
+    "Infant Nutrition",
+    "Post-Discharge Care",
+    "Feeding Behavior",
+    "Formula Feeding"
+  ],
+  "tags_custom": [
+    "resource-tiered feeding",
+    "preterm nutrition",
+    "safe feeding practices",
+    "low-resource settings",
+    "post-discharge strategies"
+  ],
+  "reference_quote": "Randomized trial evidence and WHO evidence summaries include using preterm formula powder as a fortifier for expressed human milk in some settings, but it must be paired with a written mixing plan because composition differs by product.",
+  "document_key_topics": [
+    "Post-discharge nutrition for preterm/LBW/ELBW infants",
+    "Resource-tiered feeding pathways",
+    "Safe alternatives to human milk fortifier",
+    "Explicit 'do-not' feeding instructions"
+  ],
+  "chunk_heading": "PRETERM/LBW/ELBW POST-DISCHARGE NUTRITION;POST-DISCHARGE FEEDING STRATEGIES AND FORTIFICATION OPTIONS;RESOURCE-TIERED PATHWAYS WHEN HUMAN MILK FORTIFIER UNAVAILABLE;",
+  "topic": "PRETERM/LBW/ELBW POST-DISCHARGE NUTRITION",
+  "subtopic": "POST-DISCHARGE FEEDING STRATEGIES AND FORTIFICATION OPTIONS",
+  "sub_subtopic": "RESOURCE-TIERED PATHWAYS WHEN HUMAN MILK FORTIFIER UNAVAILABLE",
+  "heading_path": "PRETERM/LBW/ELBW POST-DISCHARGE NUTRITION;POST-DISCHARGE FEEDING STRATEGIES AND FORTIFICATION OPTIONS;RESOURCE-TIERED PATHWAYS WHEN HUMAN MILK FORTIFIER UNAVAILABLE;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "1x4"
+}

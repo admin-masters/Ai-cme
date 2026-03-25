@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "First-response protocols for feeding tube and stoma complications focus on mechanical issues like blockages, dislodgement, leakage, and buried bumper syndrome, emphasizing timely intervention and device-specific care.",
+  "learning_objectives": [
+    "Understand first-response management for feeding tube blockages, including flushing techniques and prevention strategies.",
+    "Recognize time-sensitive management of tube dislodgement and the importance of emergency plans.",
+    "Identify and address peristomal leakage and buried bumper syndrome with appropriate interventions.",
+    "Learn device-specific care protocols for enteral access devices, such as gastrojejunostomy extensions."
+  ],
+  "key_facts": [
+    "Blocked tubes should be flushed gently with warm water using a large syringe to avoid high pressure.",
+    "Gastrostomy/jejunostomy tracts can close quickly after dislodgement; emergency placeholders are critical.",
+    "Recurrent blockages may result from improper flushing timing, crushed modified-release tablets, or thickened feeds exceeding tube lumen size.",
+    "Buried bumper syndrome symptoms include pain, flushing resistance, leakage, and inability to rotate the tube; urgent specialist review is required.",
+    "Peristomal leakage often worsens with repeated upsizing of tubes without correcting fit or constipation.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Enteral Nutrition",
+    "Feeding Tubes",
+    "Gastrostomy",
+    "Jejunostomy",
+    "Aspiration Prevention",
+    "Peristomal Complications",
+    "Buried Bumper Syndrome",
+    "Emergency Medical Services"
+  ],
+  "tags_custom": [
+    "feeding tube management",
+    "stoma complications",
+    "emergency protocols",
+    "enteral device care",
+    "mechanical issues"
+  ],
+  "reference_quote": "Blocked tubes should be flushed gently with warm water using an appropriately sized syringe (larger syringes generate lower pressure).",
+  "document_key_topics": [
+    "Feeding tube blockages and flushing protocols",
+    "Management of tube dislodgement and emergency planning",
+    "Peristomal leakage and infection prevention",
+    "Buried bumper syndrome recognition and specialist intervention"
+  ],
+  "chunk_heading": "ENTERAL & PARENTERAL NUTRITION;ENTERAL ACCESS DEVICES  AND ASPIRATION PREVENTION;FIRST-RESPONSE MANAGEMENT OF FEEDING TUBE AND STOMA COMPLICATIONS;",
+  "topic": "ENTERAL & PARENTERAL NUTRITION",
+  "subtopic": "ENTERAL ACCESS DEVICES  AND ASPIRATION PREVENTION",
+  "sub_subtopic": "FIRST-RESPONSE MANAGEMENT OF FEEDING TUBE AND STOMA COMPLICATIONS",
+  "heading_path": "ENTERAL & PARENTERAL NUTRITION;ENTERAL ACCESS DEVICES  AND ASPIRATION PREVENTION;FIRST-RESPONSE MANAGEMENT OF FEEDING TUBE AND STOMA COMPLICATIONS;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "2r1"
+}

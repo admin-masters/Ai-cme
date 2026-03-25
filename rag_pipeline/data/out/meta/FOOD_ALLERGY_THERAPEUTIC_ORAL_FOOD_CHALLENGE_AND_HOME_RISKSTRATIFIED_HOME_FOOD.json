@@ -1,0 +1,46 @@
+{
+  "chunk_summary": "Guidelines for risk-stratified home food introduction in children with low-risk food allergies, emphasizing safety, structured protocols, and emergency preparedness.",
+  "learning_objectives": [
+    "Understand criteria for selecting children suitable for home food introduction.",
+    "Learn the stepwise protocol for safe home food introduction, including observation periods and emergency measures.",
+    "Identify contraindications for home food introduction and alternative pathways like supervised oral food challenges (OFC)."
+  ],
+  "key_facts": [
+    "Home introduction is suitable for low-risk children with no history of immediate reactions, negative or low-risk testing, and stable comorbidities.",
+    "Start with a small 'taste' and increase to an age-appropriate portion over 2\u20133 steps, separated by 10\u201315 minutes.",
+    "Observe the child for at least 2 hours after the last ingestion, as most IgE-mediated reactions occur within this window.",
+    "Mild localized symptoms (e.g., a few hives) require stopping the feed and monitoring, while systemic symptoms necessitate IM epinephrine and emergency care.",
+    "Home introduction is contraindicated in children with a history of anaphylaxis, poorly controlled asthma, suspected FPIES, or high family anxiety."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Food Hypersensitivity",
+    "Oral Food Challenge",
+    "Immunoglobulin E",
+    "Anaphylaxis",
+    "Pediatric Allergy",
+    "Emergency Medical Services",
+    "Asthma",
+    "Food Protein-Induced Enterocolitis Syndrome"
+  ],
+  "tags_custom": [
+    "home food introduction",
+    "low-risk allergy management",
+    "pediatric food allergy",
+    "structured feeding protocols"
+  ],
+  "reference_quote": "Home introduction is most suitable for low-risk infants and children with no convincing immediate reaction history, negative or low-risk testing when performed, and stable comorbidities. (Source: Food Allergy in Children, IAP Action Plan 2026)",
+  "document_key_topics": [
+    "Risk-stratified home food introduction",
+    "Safety protocols for food allergy management",
+    "Contraindications for home food introduction"
+  ],
+  "chunk_heading": "FOOD ALLERGY & THERAPEUTIC ELIMINATION DIETS;ORAL FOOD CHALLENGE AND HOME INTRODUCTION PROTOCOLS;RISK-STRATIFIED HOME FOOD INTRODUCTION PRESCRIPTION;",
+  "topic": "FOOD ALLERGY & THERAPEUTIC ELIMINATION DIETS",
+  "subtopic": "ORAL FOOD CHALLENGE AND HOME INTRODUCTION PROTOCOLS",
+  "sub_subtopic": "RISK-STRATIFIED HOME FOOD INTRODUCTION PRESCRIPTION",
+  "heading_path": "FOOD ALLERGY & THERAPEUTIC ELIMINATION DIETS;ORAL FOOD CHALLENGE AND HOME INTRODUCTION PROTOCOLS;RISK-STRATIFIED HOME FOOD INTRODUCTION PRESCRIPTION;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1w3"
+}

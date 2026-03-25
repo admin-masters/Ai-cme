@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "This section outlines a tiered diagnostic approach for nonresponsive stunting and short stature, emphasizing secondary causes after nutrition-only management fails over 8\u201312 weeks, with specific tests and referral triggers based on phenotype and clinical red flags.",
+  "learning_objectives": [
+    "Understand the criteria for transitioning from nutrition-only management to diagnostic evaluation in stunting cases.",
+    "Learn the initial diagnostic tests for nonresponsive stunting, including CBC, thyroid function, and coeliac screening.",
+    "Identify phenotype-specific triggers for advanced testing or specialist referral in cases of growth failure.",
+    "Recognize urgent escalation criteria, such as intracranial pathology symptoms or severe growth velocity decline."
+  ],
+  "key_facts": [
+    "Nonresponsive stunting requires diagnostic evaluation after 8\u201312 weeks of adequate intake and morbidity control.",
+    "Initial tests include CBC, ESR/CRP, metabolic panel, thyroid function (TSH, free T4), and coeliac screening (total IgA and IgA tissue transglutaminase).",
+    "Bone age radiograph is recommended for markedly low height, delayed puberty, or endocrine concerns.",
+    "Phenotype-specific triggers include stool evaluation for chronic diarrhea and genetic testing for dysmorphism or disproportion.",
+    "Urgent referral is needed for intracranial pathology symptoms (e.g., headache, visual issues) or severe growth velocity decline."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Stunting",
+    "Short Stature",
+    "Growth Disorders",
+    "Pediatric Endocrinology",
+    "Coeliac Disease",
+    "Diagnostic Tests",
+    "Malnutrition",
+    "Growth Velocity"
+  ],
+  "tags_custom": [
+    "community management",
+    "tiered diagnostics",
+    "growth failure",
+    "secondary causes",
+    "pediatric nutrition"
+  ],
+  "reference_quote": "\u2018Bone age radiograph is useful when height is markedly low, puberty is delayed, or endocrine concern is high.\u2019 (Reference 1)",
+  "document_key_topics": [
+    "Tiered diagnostic workup for stunting",
+    "Phenotype-specific testing and referral triggers",
+    "Urgent escalation criteria for growth failure"
+  ],
+  "chunk_heading": "PUBLIC HEALTH & COMMUNITY PEDIATRIC NUTRITION;STUNTING FOCUSED COMMUNITY MANAGEMENT PATHWAYS;TIERED DIAGNOSTIC WORKUP FOR NONRESPONSIVE STUNTING AND SHORT STATURE;",
+  "topic": "PUBLIC HEALTH & COMMUNITY PEDIATRIC NUTRITION",
+  "subtopic": "STUNTING FOCUSED COMMUNITY MANAGEMENT PATHWAYS",
+  "sub_subtopic": "TIERED DIAGNOSTIC WORKUP FOR NONRESPONSIVE STUNTING AND SHORT STATURE",
+  "heading_path": "PUBLIC HEALTH & COMMUNITY PEDIATRIC NUTRITION;STUNTING FOCUSED COMMUNITY MANAGEMENT PATHWAYS;TIERED DIAGNOSTIC WORKUP FOR NONRESPONSIVE STUNTING AND SHORT STATURE;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1f3"
+}

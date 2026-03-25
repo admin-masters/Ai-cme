@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Guidelines for assessing breastfeeding adequacy in the first 14 days, focusing on feeding frequency, output expectations, weight loss, and red flags requiring intervention.",
+  "learning_objectives": [
+    "Understand day-by-day feeding adequacy markers in the first two weeks of life.",
+    "Identify normal and concerning weight loss patterns in newborns.",
+    "Recognize red flags such as dehydration, poor output, and jaundice progression.",
+    "Learn appropriate follow-up and supplementation strategies for at-risk dyads."
+  ],
+  "key_facts": [
+    "Newborns typically feed 8\u201312 times per 24 hours in the first two weeks.",
+    "Output expectations: Day 1 \u22651 wet diaper, Day 2 \u22652 wets and \u22652 stools, Day 5 onward \u22656 wets and \u22653\u20134 yellow stools per day.",
+    "Physiologic weight loss up to 7% is common; >10% or continued loss after day 3 requires urgent feeding assessment.",
+    "Most infants should regain birth weight by 10\u201314 days; failure to do so or daily weight gain <20\u201330 g/day warrants reassessment.",
+    "Red flags include lethargy, <8 feeds/day, scant urine/stool, fever, or worsening jaundice.",
+    "Post-discharge follow-up should occur within 48 hours for high-risk dyads (e.g., late preterm, post-cesarean, jaundice)."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Breastfeeding",
+    "Lactation",
+    "Neonatal Weight Loss",
+    "Jaundice, Neonatal",
+    "Dehydration",
+    "Infant Nutrition",
+    "Postnatal Care",
+    "Hypernatremia"
+  ],
+  "tags_custom": [
+    "feeding adequacy",
+    "newborn weight loss",
+    "early lactation management",
+    "neonatal red flags"
+  ],
+  "reference_quote": "Loss up to about 7% is common; >10% or continued loss after day 3 warrants same-day feeding assessment (latch, swallowing, maternal milk onset) and a plan to improve milk transfer.",
+  "document_key_topics": [
+    "Day-by-day feeding adequacy in newborns",
+    "Weight loss and regain patterns in the first two weeks",
+    "Red flags for feeding and hydration issues",
+    "Post-discharge follow-up for high-risk dyads"
+  ],
+  "chunk_heading": "BREASTFEEDING & LACTATION MANAGEMENT;EXCLUSIVE BREASTFEEDING DEFINITION AND ADEQUACY ASSESSMENT;DAY-BY-DAY FEEDING ADEQUACY AND WEIGHT LOSS TRIGGERS IN FIRST TWO WEEKS;",
+  "topic": "BREASTFEEDING & LACTATION MANAGEMENT",
+  "subtopic": "EXCLUSIVE BREASTFEEDING DEFINITION AND ADEQUACY ASSESSMENT",
+  "sub_subtopic": "DAY-BY-DAY FEEDING ADEQUACY AND WEIGHT LOSS TRIGGERS IN FIRST TWO WEEKS",
+  "heading_path": "BREASTFEEDING & LACTATION MANAGEMENT;EXCLUSIVE BREASTFEEDING DEFINITION AND ADEQUACY ASSESSMENT;DAY-BY-DAY FEEDING ADEQUACY AND WEIGHT LOSS TRIGGERS IN FIRST TWO WEEKS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1e1.1"
+}

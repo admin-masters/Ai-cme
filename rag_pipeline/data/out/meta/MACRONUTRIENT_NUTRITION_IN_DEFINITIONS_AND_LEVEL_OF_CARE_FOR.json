@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "Defines acute malnutrition in Indian children using anthropometric criteria, outlines care levels for MAM and SAM, and emphasizes structured follow-up and community linkage through ICDS and Anganwadi centers.",
+  "learning_objectives": [
+    "Understand the anthropometric criteria for diagnosing MAM and SAM in children under 5 years.",
+    "Differentiate between outpatient and facility-based care for acute malnutrition based on complications.",
+    "Learn the follow-up and escalation triggers for malnourished children in community and facility settings."
+  ],
+  "key_facts": [
+    "MAM is defined as weight-for-length/height z-score between -2 and -3 SD.",
+    "SAM is defined as weight-for-length/height z-score <-3 SD, MUAC <115 mm (6\u201359 months), or bilateral pitting edema.",
+    "Uncomplicated SAM can be managed in the community if a structured program exists; otherwise, refer to a facility.",
+    "Infants <6 months who are visibly wasted or too weak to suckle require urgent facility assessment.",
+    "Follow-up weekly initially; escalate care if temperature \u226539\u00b0C, hypothermia, new edema, or weight loss for two consecutive weeks."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Malnutrition",
+    "Child Nutrition Disorders",
+    "Anthropometry",
+    "Community Health Services",
+    "Nutritional Support",
+    "India",
+    "Pediatric Assessment",
+    "Acute Disease"
+  ],
+  "tags_custom": [
+    "Acute Malnutrition",
+    "Childhood Nutrition",
+    "ICDS Program",
+    "Anganwadi Centers",
+    "Community-Based Care"
+  ],
+  "reference_quote": "Use under-5 anthropometry to define severity: MAM is weight-for-length/height z-score between -2 and -3 SD, and SAM is <-3 SD, or MUAC <115 mm (6\u201359 months), or bilateral pitting edema.",
+  "document_key_topics": [
+    "Anthropometric criteria for MAM and SAM",
+    "Outpatient vs. facility-based care for malnutrition",
+    "Follow-up and escalation protocols",
+    "Community linkage through ICDS and Anganwadi centers"
+  ],
+  "chunk_heading": "MACRONUTRIENT NUTRITION IN CHILDHOOD;DEFINITIONS AND LEVEL OF CARE FOR ACUTE MALNUTRITION IN INDIA;",
+  "topic": "MACRONUTRIENT NUTRITION IN CHILDHOOD",
+  "subtopic": "DEFINITIONS AND LEVEL OF CARE FOR ACUTE MALNUTRITION IN INDIA",
+  "sub_subtopic": null,
+  "heading_path": "MACRONUTRIENT NUTRITION IN CHILDHOOD;DEFINITIONS AND LEVEL OF CARE FOR ACUTE MALNUTRITION IN INDIA;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1b"
+}

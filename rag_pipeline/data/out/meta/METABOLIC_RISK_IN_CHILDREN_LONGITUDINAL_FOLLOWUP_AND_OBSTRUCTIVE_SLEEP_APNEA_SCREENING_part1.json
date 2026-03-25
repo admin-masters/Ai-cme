@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section focuses on screening and initial management of obstructive sleep apnea (OSA) in children, emphasizing its role in metabolic risk and longitudinal follow-up of comorbidities like obesity.",
+  "learning_objectives": [
+    "Understand the relationship between obstructive sleep apnea and metabolic risk in children.",
+    "Learn screening protocols for childhood obstructive sleep apnea based on established guidelines.",
+    "Identify initial management strategies for OSA in children with obesity.",
+    "Explore longitudinal follow-up approaches for OSA and related comorbidities."
+  ],
+  "key_facts": [
+    "Obstructive sleep apnea (OSA) prevalence in obese children is significantly higher compared to non-obese peers.",
+    "The American Academy of Pediatrics recommends polysomnography as the gold standard for OSA diagnosis in children (PubMed ID: 22926173).",
+    "Initial management of OSA includes weight reduction strategies, CPAP therapy, and adenotonsillectomy in severe cases.",
+    "OSA is a recognized comorbidity in pediatric obesity, as highlighted in the 2023 IAP guidelines.",
+    "Long-term follow-up is critical to monitor OSA progression and its impact on metabolic health."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Obstructive Sleep Apnea",
+    "Pediatric Obesity",
+    "Metabolic Syndrome",
+    "Polysomnography",
+    "Continuous Positive Airway Pressure",
+    "Adenotonsillectomy",
+    "Longitudinal Studies",
+    "Risk Assessment"
+  ],
+  "tags_custom": [
+    "OSA screening",
+    "childhood obesity comorbidities",
+    "metabolic risk management",
+    "pediatric sleep disorders",
+    "long-term follow-up"
+  ],
+  "reference_quote": "Polysomnography is the gold standard for diagnosing obstructive sleep apnea in children, as per the American Academy of Pediatrics guidelines (PubMed ID: 22926173).",
+  "document_key_topics": [
+    "Obstructive sleep apnea screening in children",
+    "Initial management strategies for pediatric OSA",
+    "Impact of obesity on OSA prevalence",
+    "Longitudinal follow-up of metabolic comorbidities"
+  ],
+  "chunk_heading": "METABOLIC RISK IN CHILDREN;LONGITUDINAL FOLLOW-UP AND COMORBIDITY MODULES;OBSTRUCTIVE SLEEP APNEA SCREENING AND INITIAL MANAGEMENT;",
+  "topic": "METABOLIC RISK IN CHILDREN",
+  "subtopic": "LONGITUDINAL FOLLOW-UP AND COMORBIDITY MODULES",
+  "sub_subtopic": "OBSTRUCTIVE SLEEP APNEA SCREENING AND INITIAL MANAGEMENT",
+  "heading_path": "METABOLIC RISK IN CHILDREN;LONGITUDINAL FOLLOW-UP AND COMORBIDITY MODULES;OBSTRUCTIVE SLEEP APNEA SCREENING AND INITIAL MANAGEMENT;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1\u009d2.2"
+}

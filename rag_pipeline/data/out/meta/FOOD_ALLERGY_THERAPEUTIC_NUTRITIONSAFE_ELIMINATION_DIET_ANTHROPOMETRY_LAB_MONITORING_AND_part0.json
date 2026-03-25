@@ -1,0 +1,47 @@
+{
+  "chunk_summary": "Guidelines for monitoring growth, nutrition, and lab parameters during therapeutic elimination diets, with emphasis on dietitian referral and risk management in vulnerable populations.",
+  "learning_objectives": [
+    "Understand the importance of baseline anthropometric measurements in elimination diets.",
+    "Identify scenarios requiring laboratory testing during food elimination protocols.",
+    "Recognize triggers for early dietitian referral in food allergy management.",
+    "Learn risk factors for nutritional deficiencies in infants and children on elimination diets."
+  ],
+  "key_facts": [
+    "Baseline anthropometry includes weight, height/length, and BMI (over 2 years); head circumference is added for children under 2 years.",
+    "Growth velocity trends are more informative than single percentiles for monitoring.",
+    "Laboratory testing is recommended for high-risk cases, including faltering growth, chronic diarrhea, or multi-food elimination; key tests include hemoglobin, albumin, and targeted micronutrients like ferritin and vitamin B12.",
+    "Infants under 6 months with CMPA should avoid soy formula due to protein deficit risks.",
+    "Dietitian referral is critical for multi-food elimination, faltering growth, feeding dysfunction, or prolonged maternal elimination diets."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Food Hypersensitivity",
+    "Elimination Diet",
+    "Nutritional Status",
+    "Anthropometry",
+    "Dietary Proteins",
+    "Growth Disorders",
+    "Infant Nutrition",
+    "Dietitian Referral"
+  ],
+  "tags_custom": [
+    "growth monitoring",
+    "nutritional deficiencies",
+    "CMPA management",
+    "dietitian intervention"
+  ],
+  "reference_quote": "Baseline nutrition assessment should be routine whenever a major food is eliminated, because growth faltering can occur before caregivers recognize dietary insufficiency. (Source: Reference 4)",
+  "document_key_topics": [
+    "Anthropometric monitoring in elimination diets",
+    "Laboratory testing for high-risk nutritional deficiencies",
+    "Dietitian referral criteria in food allergy management"
+  ],
+  "chunk_heading": "FOOD ALLERGY & THERAPEUTIC ELIMINATION DIETS;NUTRITION-SAFE ELIMINATION DIET PRESCRIPTION AND MONITORING;ANTHROPOMETRY LAB MONITORING AND DIETITIAN REFERRAL;",
+  "topic": "FOOD ALLERGY & THERAPEUTIC ELIMINATION DIETS",
+  "subtopic": "NUTRITION-SAFE ELIMINATION DIET PRESCRIPTION AND MONITORING",
+  "sub_subtopic": "ANTHROPOMETRY LAB MONITORING AND DIETITIAN REFERRAL",
+  "heading_path": "FOOD ALLERGY & THERAPEUTIC ELIMINATION DIETS;NUTRITION-SAFE ELIMINATION DIET PRESCRIPTION AND MONITORING;ANTHROPOMETRY LAB MONITORING AND DIETITIAN REFERRAL;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u008b2.1"
+}

@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "Micronutrient monitoring in high-risk pediatric conditions requires tailored approaches, including targeted testing, correction of underlying causes, and coordination with specialty care protocols to prevent toxicity and ensure effective supplementation.",
+  "learning_objectives": [
+    "Understand the impact of high-risk clinical conditions on micronutrient requirements and test interpretation.",
+    "Learn core management principles for micronutrient monitoring, including documentation, targeted testing, and reassessment planning.",
+    "Identify syndrome-specific dosing and monitoring strategies for conditions like cholestatic liver disease, chronic kidney disease, and neurodisability."
+  ],
+  "key_facts": [
+    "Preterm and very low birth weight infants have reduced micronutrient stores and rapid catch-up growth needs.",
+    "Chronic kidney disease alters calcium\u2013phosphate\u2013PTH physiology, requiring specialized monitoring.",
+    "Routine prophylaxis may be insufficient, and indiscriminate multivitamin use increases toxicity risks.",
+    "Targeted monitoring is recommended, e.g., Hb/ferritin for iron status and bone profiles for mineralization.",
+    "Coordination with specialty care protocols (e.g., NICU, gastroenterology) ensures alignment of outpatient prescriptions.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Micronutrients",
+    "Pediatrics",
+    "Malabsorption Syndromes",
+    "Chronic Kidney Disease",
+    "Celiac Disease",
+    "Liver Diseases",
+    "Nutritional Deficiencies",
+    "Monitoring, Physiologic"
+  ],
+  "tags_custom": [
+    "high-risk pediatric nutrition",
+    "micronutrient monitoring",
+    "specialty care coordination",
+    "targeted supplementation",
+    "clinical nutrition guidelines"
+  ],
+  "reference_quote": "High-risk clinical conditions alter both micronutrient requirements and the interpretation of common tests. Routine prophylaxis may be insufficient, while indiscriminate multivitamin use increases toxicity and duplication risk. (Source: https://www.rch.org.au/clinicalguide/guideline_index/Micronutrient_deficiency/)",
+  "document_key_topics": [
+    "Micronutrient monitoring in pediatric high-risk conditions",
+    "Core management principles for micronutrient supplementation",
+    "Syndrome-specific dosing and monitoring strategies"
+  ],
+  "chunk_heading": "MICRONUTRIENT NUTRITION;MICRONUTRIENT MONITORING IN HIGH-RISK CLINICAL CONDITIONS;",
+  "topic": "MICRONUTRIENT NUTRITION",
+  "subtopic": "MICRONUTRIENT MONITORING IN HIGH-RISK CLINICAL CONDITIONS",
+  "sub_subtopic": null,
+  "heading_path": "MICRONUTRIENT NUTRITION;MICRONUTRIENT MONITORING IN HIGH-RISK CLINICAL CONDITIONS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u0094"
+}

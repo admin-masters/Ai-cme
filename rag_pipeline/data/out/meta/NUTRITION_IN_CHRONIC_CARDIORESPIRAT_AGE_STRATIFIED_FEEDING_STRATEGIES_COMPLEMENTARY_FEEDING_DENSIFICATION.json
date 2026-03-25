@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "Guidelines for energy-dense complementary feeding in infants aged 6-24 months with chronic cardiorespiratory disease, emphasizing calorie densification, safe textures, and infection prevention.",
+  "learning_objectives": [
+    "Understand the nutritional needs of infants with CHD or CLD during complementary feeding.",
+    "Learn strategies for calorie densification in culturally relevant foods for infants aged 6-24 months.",
+    "Identify feeding methods and precautions to minimize aspiration and infection risks.",
+    "Monitor weight velocity and adjust feeding plans for infants with chronic cardiorespiratory disease."
+  ],
+  "key_facts": [
+    "Infants with CHD or CLD have higher energy needs but may experience fatigue limiting intake.",
+    "Recommended foods include khichdi, dal-rice, idli, dosa, poha, upma, dalia, and kheer enriched with ghee or oil.",
+    "Persistent tachypnea may require prolonged use of thick puree textures to reduce choking risk.",
+    "Avoid thin juices and large-volume watery foods that displace calories.",
+    "Monthly weight velocity monitoring is essential; adjust density or add supplemental milk feeds if gains fall below expected levels.",
+    "Cup-and-spoon feeding is safer than bottle feeding in settings with inconsistent cleaning practices.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Complementary Feeding",
+    "Infant Nutrition",
+    "Chronic Disease",
+    "Congenital Heart Defects",
+    "Chronic Lung Disease",
+    "Energy Intake",
+    "Feeding Methods",
+    "Weight Velocity"
+  ],
+  "tags_custom": [
+    "calorie densification",
+    "feeding strategies",
+    "infection prevention",
+    "aspiration risk",
+    "infant nutrition therapy"
+  ],
+  "reference_quote": "From 6 months, the plan shifts from milk-dominant feeding to an energy-dense mixed diet while maintaining safe textures and minimizing infection. (Indian Academy of Pediatrics, Parental guideline: Complementary feeding)",
+  "document_key_topics": [
+    "Energy-dense complementary feeding for infants with chronic cardiorespiratory disease",
+    "Safe feeding textures and methods to prevent aspiration and infection",
+    "Monitoring weight velocity and adjusting feeding plans"
+  ],
+  "chunk_heading": "NUTRITION IN CHRONIC CARDIORESPIRATORY DISEASE;AGE STRATIFIED FEEDING STRATEGIES FROM INFANCY TO ADOLESCENCE;COMPLEMENTARY FEEDING DENSIFICATION IN INFANTS SIX TO TWENTY FOUR MONTHS;",
+  "topic": "NUTRITION IN CHRONIC CARDIORESPIRATORY DISEASE",
+  "subtopic": "AGE STRATIFIED FEEDING STRATEGIES FROM INFANCY TO ADOLESCENCE",
+  "sub_subtopic": "COMPLEMENTARY FEEDING DENSIFICATION IN INFANTS SIX TO TWENTY FOUR MONTHS",
+  "heading_path": "NUTRITION IN CHRONIC CARDIORESPIRATORY DISEASE;AGE STRATIFIED FEEDING STRATEGIES FROM INFANCY TO ADOLESCENCE;COMPLEMENTARY FEEDING DENSIFICATION IN INFANTS SIX TO TWENTY FOUR MONTHS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1v2"
+}

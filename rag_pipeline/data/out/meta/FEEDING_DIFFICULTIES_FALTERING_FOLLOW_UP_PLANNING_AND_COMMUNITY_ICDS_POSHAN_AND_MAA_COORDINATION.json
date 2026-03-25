@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "This section discusses integrating ICDS, POSHAN Abhiyaan, and MAA workflows to improve follow-up for feeding difficulties and faltering growth, emphasizing clinic-to-community coordination and synchronized data sharing.",
+  "learning_objectives": [
+    "Understand the role of ICDS in providing supplementary nutrition and growth monitoring for children under 6 years and mothers.",
+    "Learn how POSHAN Abhiyaan strengthens growth monitoring through digital tracking and device integration.",
+    "Explore strategies for aligning clinic counselling with MAA breastfeeding support to ensure consistent messaging.",
+    "Identify key data points for synchronized clinic and community follow-up, including weight, height, and edema status."
+  ],
+  "key_facts": [
+    "ICDS supports children under 6 years and mothers with nutrition, growth monitoring, health education, and referrals.",
+    "POSHAN Abhiyaan introduced digital tracking to detect growth faltering earlier, improving intervention feasibility.",
+    "Families should bring the MCP or RCH growth card to both clinic and anganwadi visits for synchronized data exchange.",
+    "Breastfeeding support under MAA prioritizes direct observation and consistent counselling across platforms.",
+    "Synchronized weighing intervals reduce family pressure and ensure comparable data for follow-up."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Feeding Behavior",
+    "Growth Disorders",
+    "Child Nutrition",
+    "Community Health Services",
+    "Breastfeeding",
+    "Integrated Child Development Services",
+    "Infant Nutrition",
+    "Health Education"
+  ],
+  "tags_custom": [
+    "ICDS coordination",
+    "POSHAN Abhiyaan tracking",
+    "MAA breastfeeding support",
+    "Clinic-community integration",
+    "Growth monitoring workflow"
+  ],
+  "reference_quote": "POSHAN Abhiyaan strengthened growth monitoring through devices and digital tracking, improving the feasibility of detecting decline earlier when data are shared. (NITI Aayog, 2019)",
+  "document_key_topics": [
+    "Feeding difficulties and faltering growth follow-up planning",
+    "ICDS and POSHAN Abhiyaan integration for growth monitoring",
+    "MAA program breastfeeding support and counselling"
+  ],
+  "chunk_heading": "FEEDING DIFFICULTIES & FALTERING GROWTH;FOLLOW UP PLANNING AND COMMUNITY PROGRAM INTEGRATION;ICDS POSHAN AND MAA COORDINATION WORKFLOW;",
+  "topic": "FEEDING DIFFICULTIES & FALTERING GROWTH",
+  "subtopic": "FOLLOW UP PLANNING AND COMMUNITY PROGRAM INTEGRATION",
+  "sub_subtopic": "ICDS POSHAN AND MAA COORDINATION WORKFLOW",
+  "heading_path": "FEEDING DIFFICULTIES & FALTERING GROWTH;FOLLOW UP PLANNING AND COMMUNITY PROGRAM INTEGRATION;ICDS POSHAN AND MAA COORDINATION WORKFLOW;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "4\u00923"
+}

@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "Guidelines for early post-gastrostomy feeding in children with neurodisability, focusing on feeding initiation, infection prevention, and emergency responses to complications like tube dislodgement or peritonitis.",
+  "learning_objectives": [
+    "Understand the protocol for initiating feeding post-gastrostomy in stable pediatric patients.",
+    "Recognize signs of peristomal infection and appropriate first-response actions.",
+    "Learn emergency management of early tube dislodgement and associated risks.",
+    "Identify factors contributing to post-placement vomiting and appropriate interventions."
+  ],
+  "key_facts": [
+    "Feeding can begin within hours post-gastrostomy in stable children using iso-osmolar formula, starting with conservative volumes.",
+    "Peristomal infection risk is reduced with single-dose peri-procedure antibiotic prophylaxis aligned with local antimicrobial policy.",
+    "Accidental tube dislodgement within the first 6\u201312 weeks is an emergency; blind replacement should be avoided.",
+    "Persistent pneumoperitoneum beyond 3 days requires exclusion of bowel injury.",
+    "Bolus feeding is preferred unless contraindicated by severe reflux, retching, or intolerance."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Gastrostomy",
+    "Pediatrics",
+    "Neurodevelopmental Disorders",
+    "Enteral Nutrition",
+    "Peritonitis",
+    "Infection Control",
+    "Emergency Medical Services",
+    "Postoperative Care"
+  ],
+  "tags_custom": [
+    "early feeding protocol",
+    "tube dislodgement management",
+    "pediatric gastrostomy care",
+    "infection prevention"
+  ],
+  "reference_quote": "Accidental tube dislodgement in the early period is a true emergency because the tract is immature (often considered <6\u201312 weeks).",
+  "document_key_topics": [
+    "Post-gastrostomy feeding initiation",
+    "Infection prevention and management",
+    "Emergency response to tube dislodgement",
+    "Management of post-placement complications"
+  ],
+  "chunk_heading": "NEURODISABILITY AND FEEDING SUPPORT;EARLY POST-GASTROSTOMY FEEDING AND COMPLICATION FIRST RESPONSE;",
+  "topic": "NEURODISABILITY AND FEEDING SUPPORT",
+  "subtopic": "EARLY POST-GASTROSTOMY FEEDING AND COMPLICATION FIRST RESPONSE",
+  "sub_subtopic": null,
+  "heading_path": "NEURODISABILITY AND FEEDING SUPPORT;EARLY POST-GASTROSTOMY FEEDING AND COMPLICATION FIRST RESPONSE;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1z"
+}

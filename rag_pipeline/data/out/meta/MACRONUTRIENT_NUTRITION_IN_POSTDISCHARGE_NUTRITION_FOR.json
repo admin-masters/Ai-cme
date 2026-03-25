@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "Post-discharge nutrition for preterm and LBW infants focuses on tailored feeding strategies, supplementation, and growth monitoring to prevent deficiencies and ensure catch-up growth.",
+  "learning_objectives": [
+    "Understand optimal feeding strategies for preterm and LBW infants post-discharge, including breastmilk fortification and formula use.",
+    "Learn supplementation guidelines for vitamin D, iron, calcium, and phosphorus in LBW and VLBW infants.",
+    "Recognize growth monitoring protocols using corrected age and appropriate growth charts."
+  ],
+  "key_facts": [
+    "Vitamin D: 400 IU/day for LBW (1500\u20132499 g) and 800 IU/day for VLBW (<1500 g) until 6 months.",
+    "Iron: 2\u20134 mg/kg/day from 2 weeks in VLBW infants and 2\u20133 mg/kg/day from 6\u20138 weeks in LBW infants on human milk, continued to 6 months.",
+    "Calcium and phosphorus supplementation is often needed for VLBW infants on human milk until term-equivalent age.",
+    "Use enriched post-discharge formula (22\u201324 kcal/oz) if weight gain is insufficient despite optimized feeding techniques.",
+    "Monitor growth using corrected age with the Fenton chart initially, transitioning to WHO standards later."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Infant, Premature",
+    "Low Birth Weight Infant",
+    "Postnatal Care",
+    "Nutritional Requirements",
+    "Growth Charts",
+    "Micronutrients",
+    "Breastfeeding",
+    "Enteral Nutrition"
+  ],
+  "tags_custom": [
+    "Preterm nutrition",
+    "Post-discharge feeding",
+    "LBW supplementation",
+    "Growth monitoring",
+    "Catch-up growth"
+  ],
+  "reference_quote": "Monitor growth using corrected age and an appropriate preterm growth chart (for example, the Fenton chart early, then transition to WHO standards).",
+  "document_key_topics": [
+    "Post-discharge feeding strategies for preterm and LBW infants",
+    "Micronutrient supplementation guidelines",
+    "Growth monitoring using corrected age and growth charts",
+    "Preventing growth faltering and metabolic bone disease"
+  ],
+  "chunk_heading": "MACRONUTRIENT NUTRITION IN CHILDHOOD;POST-DISCHARGE NUTRITION FOR PRETERM AND LOW BIRTH WEIGHT INFANTS;",
+  "topic": "MACRONUTRIENT NUTRITION IN CHILDHOOD",
+  "subtopic": "POST-DISCHARGE NUTRITION FOR PRETERM AND LOW BIRTH WEIGHT INFANTS",
+  "sub_subtopic": null,
+  "heading_path": "MACRONUTRIENT NUTRITION IN CHILDHOOD;POST-DISCHARGE NUTRITION FOR PRETERM AND LOW BIRTH WEIGHT INFANTS;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "1d"
+}

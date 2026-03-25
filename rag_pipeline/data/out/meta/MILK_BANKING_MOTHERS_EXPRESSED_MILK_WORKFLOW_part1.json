@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section outlines the workflow for handling expressed breast milk in milk banking, including stop rules to ensure safety and quality, referencing guidelines on storage, preparation, and lactation management.",
+  "learning_objectives": [
+    "Understand the workflow for handling expressed breast milk in milk banking.",
+    "Identify stop rules to ensure the safety and quality of expressed breast milk.",
+    "Learn proper storage and preparation techniques for expressed breast milk.",
+    "Familiarize with national guidelines for lactation management centers."
+  ],
+  "key_facts": [
+    "Expressed breast milk must be stored at 4\u00b0C for up to 4 days or frozen at -20\u00b0C for longer storage (CDC guidelines).",
+    "Stop rules include discarding milk if improperly labeled, stored beyond recommended time, or contaminated.",
+    "Mismanagement of expressed milk can lead to safety risks, including bacterial contamination (Patient Safety Advisory).",
+    "Lactation management centers must adhere to national guidelines to ensure milk safety and quality (NHM guidelines).",
+    "Proper preparation of breast milk involves thawing in a refrigerator or warm water, avoiding microwaving (CDC guidelines)."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Milk Banks",
+    "Breast Milk",
+    "Lactation",
+    "Milk Storage",
+    "Food Safety",
+    "Infant Nutrition",
+    "Human Milk",
+    "Health Guidelines"
+  ],
+  "tags_custom": [
+    "expressed milk workflow",
+    "stop rules",
+    "milk safety",
+    "lactation management",
+    "storage guidelines"
+  ],
+  "reference_quote": "Mismanagement of expressed breast milk can lead to safety risks, including bacterial contamination. (Patient Safety Advisory)",
+  "document_key_topics": [
+    "Expressed breast milk workflow",
+    "Stop rules for milk safety",
+    "Storage and preparation guidelines",
+    "Lactation management center protocols"
+  ],
+  "chunk_heading": "MILK BANKING;MOTHER'S EXPRESSED MILK WORKFLOW WITH STOP RULES;",
+  "topic": "MILK BANKING",
+  "subtopic": "MOTHER'S EXPRESSED MILK WORKFLOW WITH STOP RULES",
+  "sub_subtopic": null,
+  "heading_path": "MILK BANKING;MOTHER'S EXPRESSED MILK WORKFLOW WITH STOP RULES;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "2a.2"
+}

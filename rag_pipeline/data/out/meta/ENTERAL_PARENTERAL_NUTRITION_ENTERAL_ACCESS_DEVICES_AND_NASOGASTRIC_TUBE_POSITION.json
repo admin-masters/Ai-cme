@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "Guidelines for verifying nasogastric tube (NGT) placement and preventing aspiration in pediatric patients, emphasizing operational verification, pH testing, radiographic confirmation, and aspiration prevention strategies.",
+  "learning_objectives": [
+    "Understand the importance of operational verification for NGT placement to prevent misplacement-related harm.",
+    "Learn pediatric-specific methods for NGT insertion, such as the NEMU method, and documentation protocols.",
+    "Identify appropriate verification techniques, including pH testing and radiographic confirmation, and their limitations.",
+    "Implement aspiration prevention strategies during enteral feeding, such as semi-upright positioning and slow bolus delivery."
+  ],
+  "key_facts": [
+    "NGT misplacement is a high-severity, preventable harm requiring operational verification.",
+    "The NEMU method (nose\u2013earlobe\u2013mid-umbilicus) is recommended for determining NGT insertion length in children.",
+    "A gastric pH between 1 and 5.5 supports correct placement but may be unreliable with continuous feeding, antacid/PPI use, or ileus.",
+    "Radiographic confirmation is mandatory if pH is outside the expected range, aspirate is unobtainable, or high-risk conditions are present.",
+    "Auscultation ('whoosh test') is unreliable and should not be used for NGT placement verification.",
+    "Aspiration prevention includes semi-upright positioning during feeds and slow bolus delivery rather than rapid push."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Enteral Nutrition",
+    "Nasogastric Intubation",
+    "Tube Feeding",
+    "Aspiration Pneumonia",
+    "Radiographic Imaging",
+    "pH Monitoring",
+    "Pediatrics",
+    "Patient Safety"
+  ],
+  "tags_custom": [
+    "NGT placement",
+    "aspiration prevention",
+    "pediatric nutrition",
+    "verification methods",
+    "clinical guidelines"
+  ],
+  "reference_quote": "Verification of enteral tube location must be operational rather than implied. (Source: NOVEL project resources, Reference 1)",
+  "document_key_topics": [
+    "Nasogastric tube placement verification",
+    "Pediatric-specific NGT insertion methods",
+    "Aspiration prevention during enteral feeding",
+    "Radiographic confirmation and pH testing"
+  ],
+  "chunk_heading": "ENTERAL & PARENTERAL NUTRITION;ENTERAL ACCESS DEVICES AND ASPIRATION PREVENTION;NASOGASTRIC TUBE POSITION VERIFICATION AND  ASPIRATION PREVENTION BUNDLE;",
+  "topic": "ENTERAL & PARENTERAL NUTRITION",
+  "subtopic": "ENTERAL ACCESS DEVICES AND ASPIRATION PREVENTION",
+  "sub_subtopic": "NASOGASTRIC TUBE POSITION VERIFICATION AND  ASPIRATION PREVENTION BUNDLE",
+  "heading_path": "ENTERAL & PARENTERAL NUTRITION;ENTERAL ACCESS DEVICES AND ASPIRATION PREVENTION;NASOGASTRIC TUBE POSITION VERIFICATION AND  ASPIRATION PREVENTION BUNDLE;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2q3"
+}

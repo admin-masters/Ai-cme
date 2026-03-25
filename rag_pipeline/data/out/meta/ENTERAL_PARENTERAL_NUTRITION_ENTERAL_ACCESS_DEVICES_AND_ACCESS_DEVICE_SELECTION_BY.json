@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Guidelines for selecting enteral access devices based on duration and aspiration risk, emphasizing nasogastric, gastrostomy, and postpyloric options tailored to patient needs and local resources.",
+  "learning_objectives": [
+    "Understand criteria for selecting enteral access devices based on duration of support and aspiration risk.",
+    "Differentiate between nasogastric, orogastric, gastrostomy, and postpyloric feeding options.",
+    "Recognize the importance of supply stability and caregiver capacity in access planning.",
+    "Learn the role of early consultation with gastroenterology or surgery teams in optimizing enteral nutrition."
+  ],
+  "key_facts": [
+    "Nasogastric (NG) tubes are suitable for short-term support (<4\u20136 weeks) with manageable aspiration risk.",
+    "Orogastric (OG) tubes are preferred in neonates and preterm infants to reduce nasal trauma and airway resistance.",
+    "Percutaneous endoscopic gastrostomy (PEG) is the first choice for long-term enteral support when anatomy and expertise permit.",
+    "Postpyloric feeding (e.g., nasojejunal or jejunostomy) is recommended for severe reflux, recurrent aspiration pneumonia, or poor gastric emptying.",
+    "Postpyloric feeding often requires continuous delivery and explicit discharge planning.",
+    "Indian practice emphasizes supply stability and caregiver capacity for safe maintenance of enteral access devices."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Enteral Nutrition",
+    "Parenteral Nutrition",
+    "Nasogastric Intubation",
+    "Gastrostomy",
+    "Jejunostomy",
+    "Aspiration Pneumonia",
+    "Reflux",
+    "Feeding Tubes"
+  ],
+  "tags_custom": [
+    "access device selection",
+    "aspiration prevention",
+    "postpyloric feeding",
+    "pediatric nutrition",
+    "Indian practice considerations"
+  ],
+  "reference_quote": "Enteral access choice should start with anticipated duration and aspiration risk, not formula preference.",
+  "document_key_topics": [
+    "Enteral access device selection by duration",
+    "Aspiration risk and feeding route decisions",
+    "Postpyloric feeding considerations"
+  ],
+  "chunk_heading": "ENTERAL & PARENTERAL NUTRITION;ENTERAL ACCESS DEVICES AND ASPIRATION PREVENTION;ACCESS DEVICE SELECTION BY DURATION AND ASPIRATION RISK;",
+  "topic": "ENTERAL & PARENTERAL NUTRITION",
+  "subtopic": "ENTERAL ACCESS DEVICES AND ASPIRATION PREVENTION",
+  "sub_subtopic": "ACCESS DEVICE SELECTION BY DURATION AND ASPIRATION RISK",
+  "heading_path": "ENTERAL & PARENTERAL NUTRITION;ENTERAL ACCESS DEVICES AND ASPIRATION PREVENTION;ACCESS DEVICE SELECTION BY DURATION AND ASPIRATION RISK;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2o1"
+}

@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Admission criteria for infants under 6 months with acute malnutrition focus on feeding effectiveness, physiologic stability, and anthropometric measures like weight-for-length <-3 SD. Inpatient care prioritizes preventing fasting, maintaining warmth, and lactation support.",
+  "learning_objectives": [
+    "Understand the admission criteria for infants under 6 months with severe acute malnutrition.",
+    "Identify danger signs and clinical triggers for inpatient care in malnourished infants.",
+    "Learn outpatient care requirements, including effective feeding and caregiver capability.",
+    "Recognize anthropometric measures and clinical priorities for managing SAM in infants."
+  ],
+  "key_facts": [
+    "Infants <6 months should not use MUAC thresholds or RUTF appetite-test logic.",
+    "Admission criteria include danger signs (e.g., lethargy, convulsions, hypothermia, hypoglycemia, respiratory distress, persistent vomiting) or bilateral pitting edema.",
+    "Weight-for-length <-3 SD is used for anthropometry when length >45 cm; visible severe wasting and feeding failure are alternative triggers.",
+    "Outpatient care requires effective feeding, no edema, and weekly follow-up with rapid referral capability.",
+    "Inpatient priorities include preventing fasting, maintaining warmth, correcting hypoglycemia, and early infection treatment."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Malnutrition",
+    "Infant Nutrition Disorders",
+    "Anthropometry",
+    "Breastfeeding",
+    "Pitting Edema",
+    "Hypoglycemia",
+    "Respiratory Distress Syndrome",
+    "Lactation Support"
+  ],
+  "tags_custom": [
+    "SAM management",
+    "Infant feeding",
+    "Inpatient care criteria",
+    "Outpatient care guidelines",
+    "Danger signs in malnutrition"
+  ],
+  "reference_quote": "Admit an infant <6 months with acute malnutrition if any danger sign is present (lethargy, convulsions, hypothermia, hypoglycemia, respiratory distress, persistent vomiting), if there is any bilateral pitting edema, or if the infant is too weak to breastfeed or suck effectively. (Source: WHO ELENA guidance)",
+  "document_key_topics": [
+    "Admission criteria for infants under 6 months with SAM",
+    "Inpatient care priorities for malnourished infants",
+    "Outpatient care requirements for SAM management",
+    "Anthropometric measures and clinical triggers for SAM"
+  ],
+  "chunk_heading": "- SEVERE ACUTE MALNUTRITION-(SAM) MANAGEMENT;TRIAGE AND DISPOSITION BETWEEN INPATIENT AND CMAM PATHWAYS;ADMISSION CRITERIA FOR INFANTS UNDER 6 MONTHS WITH ACUTE MALNUTRITION;",
+  "topic": "- SEVERE ACUTE MALNUTRITION-(SAM) MANAGEMENT",
+  "subtopic": "TRIAGE AND DISPOSITION BETWEEN INPATIENT AND CMAM PATHWAYS",
+  "sub_subtopic": "ADMISSION CRITERIA FOR INFANTS UNDER 6 MONTHS WITH ACUTE MALNUTRITION",
+  "heading_path": "- SEVERE ACUTE MALNUTRITION-(SAM) MANAGEMENT;TRIAGE AND DISPOSITION BETWEEN INPATIENT AND CMAM PATHWAYS;ADMISSION CRITERIA FOR INFANTS UNDER 6 MONTHS WITH ACUTE MALNUTRITION;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2b2"
+}

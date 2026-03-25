@@ -1,0 +1,47 @@
+{
+  "chunk_summary": "This section outlines age- and puberty-specific metabolic screening bundles for children, emphasizing risk-based testing for obesity, dyslipidemia, glucose metabolism, and liver function, with tailored recommendations for different age groups and risk factors.",
+  "learning_objectives": [
+    "Understand the role of age and pubertal stage in determining metabolic screening protocols for children.",
+    "Identify key metabolic risk factors and appropriate screening tests for children aged 2\u20139 years and \u226510 years.",
+    "Learn the recommended frequency and components of metabolic screening bundles for children with obesity or additional risk factors."
+  ],
+  "key_facts": [
+    "Children aged 2\u20139 years with obesity or high central adiposity should be screened for BP, waist trends, and lipids; dyslipidemia evaluation is recommended for severe obesity.",
+    "In Indian settings, ALT screening is advised earlier in cases of severe obesity, acanthosis, or multiple metabolic abnormalities.",
+    "For children \u226510 years or at pubertal onset, core screening includes dyslipidemia, fasting glucose or HbA1c, and liver function tests (ALT \u00b1 AST).",
+    "The ADA recommends diabetes screening for youth \u226510 years or post-puberty with overweight/obesity and at least one additional risk factor, repeating tests every 3 years if normal.",
+    "Minimum screening bundle includes fasting lipid panel, fasting glucose, ALT, and BP; preferred bundle adds HbA1c, urine dipstick, and expanded liver panel."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Metabolic Syndrome",
+    "Obesity",
+    "Dyslipidemias",
+    "Glucose Metabolism Disorders",
+    "Liver Function Tests",
+    "Pediatrics",
+    "Risk Assessment",
+    "Puberty"
+  ],
+  "tags_custom": [
+    "Pediatric metabolic screening",
+    "Obesity risk factors",
+    "Age-specific guidelines",
+    "Screening bundles",
+    "Diabetes prevention"
+  ],
+  "reference_quote": "The American Diabetes Association Professional Practice Committee 'Standards of Care in Diabetes\u20142026' supports risk-based diabetes screening after puberty onset or age 10 in youth with overweight/obesity plus at least one additional risk factor.",
+  "document_key_topics": [
+    "Age-specific metabolic screening in children",
+    "Risk-based screening for obesity and related conditions",
+    "Screening bundles for dyslipidemia, glucose metabolism, and liver function"
+  ],
+  "chunk_heading": "METABOLIC RISK IN CHILDREN;RISK STRATIFICATION AND INITIAL SCREENING DECISIONS;AGE AND PUBERTY BASED METABOLIC SCREENING BUNDLES;",
+  "topic": "METABOLIC RISK IN CHILDREN",
+  "subtopic": "RISK STRATIFICATION AND INITIAL SCREENING DECISIONS",
+  "sub_subtopic": "AGE AND PUBERTY BASED METABOLIC SCREENING BUNDLES",
+  "heading_path": "METABOLIC RISK IN CHILDREN;RISK STRATIFICATION AND INITIAL SCREENING DECISIONS;AGE AND PUBERTY BASED METABOLIC SCREENING BUNDLES;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1k3.1"
+}

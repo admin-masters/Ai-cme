@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "Feeding observation methods, both structured and unstructured, are essential for evaluating dietary practices and feeding skills, focusing on caregiver-child interactions, feeding techniques, and behavioral patterns to guide management and improve outcomes.",
+  "learning_objectives": [
+    "Understand the differences between structured and unstructured feeding observation methods.",
+    "Identify key domains to assess during feeding observations, such as postural stability and caregiver responsiveness.",
+    "Learn how structured tools like LATCH scoring and NCAFS improve reliability in feeding assessments.",
+    "Recognize cultural and practical considerations in feeding practices, such as reducing force-feeding and screen-based distractions."
+  ],
+  "key_facts": [
+    "Structured observation uses predefined checklists or scales, such as LATCH scoring and NCAFS, to document specific behaviors.",
+    "Unstructured observation involves narrative documentation of typical feeding sessions and is easier to implement in busy clinics.",
+    "Key domains to assess include seating stability, utensil choice, bite size, pace, and caregiver responsiveness to hunger and satiety cues.",
+    "Video recordings from home can reduce observer bias, especially when children refuse clinic feeds.",
+    "In India, common goals include reducing force-feeding and replacing screen-based distractions with predictable routines.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Feeding Behavior",
+    "Dietary Assessment",
+    "Caregiver-Child Relations",
+    "Feeding and Eating Disorders",
+    "Postural Balance",
+    "Observation",
+    "Infant Nutrition",
+    "Pediatric Feeding Disorders"
+  ],
+  "tags_custom": [
+    "feeding observation",
+    "structured methods",
+    "caregiver-child interaction",
+    "feeding skills evaluation",
+    "cultural feeding practices"
+  ],
+  "reference_quote": "Structured methods improve reliability and are well suited to feeding disorders, neurodisability, and quality improvement.",
+  "document_key_topics": [
+    "Structured and unstructured feeding observation methods",
+    "Domains of feeding assessment (e.g., postural stability, utensil choice, caregiver responsiveness)",
+    "Cultural and practical considerations in feeding practices",
+    "Use of video recordings to reduce observer bias"
+  ],
+  "chunk_heading": "DIETARY ASSESSMENT & FEEDING SKILLS EVALUATION;FEEDING OBSERVATION METHODS AND DOCUMENTATION;",
+  "topic": "DIETARY ASSESSMENT & FEEDING SKILLS EVALUATION",
+  "subtopic": "FEEDING OBSERVATION METHODS AND DOCUMENTATION",
+  "sub_subtopic": null,
+  "heading_path": "DIETARY ASSESSMENT & FEEDING SKILLS EVALUATION;FEEDING OBSERVATION METHODS AND DOCUMENTATION;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1x"
+}

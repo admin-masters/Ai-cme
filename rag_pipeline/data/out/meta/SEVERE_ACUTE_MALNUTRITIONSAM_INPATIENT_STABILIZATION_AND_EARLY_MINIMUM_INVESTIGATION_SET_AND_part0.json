@@ -1,0 +1,51 @@
+{
+  "chunk_summary": "This section outlines the minimum investigations and reassessment triggers for hidden infections in severe acute malnutrition (SAM) during inpatient stabilization, emphasizing early detection of hypoglycemia, anemia, and infections to guide immediate and targeted interventions.",
+  "learning_objectives": [
+    "Understand the prioritization of minimum investigations for SAM patients on arrival or Day 0.",
+    "Identify triggers for reassessment of hidden infections during non-response or relapse of instability.",
+    "Learn the role of specific tests like glucose, hemoglobin, and malaria screening in early mortality prevention.",
+    "Recognize the importance of targeted screening for comorbidities like HIV and TB in poor weight gain cases."
+  ],
+  "key_facts": [
+    "Hypoglycemia and severe anemia are critical early mortality drivers in SAM and require immediate glucose and hemoglobin testing.",
+    "Malaria testing is essential in endemic areas or when fever is present.",
+    "Blood culture should be obtained before antibiotics only if it does not delay empiric therapy.",
+    "Serum electrolytes, including phosphate, are recommended during transition feeding to monitor refeeding risks like hypophosphatemia.",
+    "Non-response or relapse requires escalation with urine microscopy, stool examination, and chest radiography to detect hidden infections like urinary infections, giardiasis, or TB.",
+    "HIV and TB screening should follow national algorithms when weight gain is poor despite therapeutic feeding.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Severe Acute Malnutrition",
+    "Hypoglycemia",
+    "Anemia",
+    "Malaria",
+    "Hidden Infections",
+    "HIV Infections",
+    "Tuberculosis",
+    "Refeeding Syndrome"
+  ],
+  "tags_custom": [
+    "SAM management",
+    "inpatient care",
+    "hidden infection triggers",
+    "early mortality prevention",
+    "diagnostic prioritization"
+  ],
+  "reference_quote": "Order tests that change immediate bedside actions first, then add targeted tests when recovery stalls.",
+  "document_key_topics": [
+    "Minimum investigations for SAM management",
+    "Triggers for hidden infection reassessment",
+    "Early mortality prevention in SAM",
+    "Targeted screening for comorbidities"
+  ],
+  "chunk_heading": "SEVERE ACUTE MALNUTRITION-(SAM) MANAGEMENT;INPATIENT STABILIZATION AND  EARLY MONITORING;MINIMUM INVESTIGATION SET AND HIDDEN INFECTION REASSESSMENT TRIGGERS;",
+  "topic": "SEVERE ACUTE MALNUTRITION-(SAM) MANAGEMENT",
+  "subtopic": "INPATIENT STABILIZATION AND  EARLY MONITORING",
+  "sub_subtopic": "MINIMUM INVESTIGATION SET AND HIDDEN INFECTION REASSESSMENT TRIGGERS",
+  "heading_path": "SEVERE ACUTE MALNUTRITION-(SAM) MANAGEMENT;INPATIENT STABILIZATION AND  EARLY MONITORING;MINIMUM INVESTIGATION SET AND HIDDEN INFECTION REASSESSMENT TRIGGERS;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "3k2.1"
+}

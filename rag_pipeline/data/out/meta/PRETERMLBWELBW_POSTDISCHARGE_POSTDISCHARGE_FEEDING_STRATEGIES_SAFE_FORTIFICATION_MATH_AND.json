@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Guidelines for safe post-discharge fortification of feeds for preterm/LBW/ELBW infants, focusing on stepwise nutrient concentration, hydration monitoring, and preparation safety to prevent complications like dehydration or electrolyte imbalance.",
+  "learning_objectives": [
+    "Understand the stepwise approach to increasing nutrient density in preterm/LBW/ELBW infant feeds.",
+    "Learn the core mathematical conversions for calorie density in infant feeding (e.g., kcal/mL).",
+    "Recognize the risks of improper fortification, including dehydration and electrolyte derangements.",
+    "Identify safe preparation and storage practices for fortified breast milk and formula."
+  ],
+  "key_facts": [
+    "1 oz = 30 mL; kcal/mL = (kcal/oz) \u00f7 30.",
+    "Common calorie densities: 20 kcal/oz = 0.67 kcal/mL, 22 kcal/oz = 0.73 kcal/mL, 24 kcal/oz = 0.80 kcal/mL.",
+    "Powdered formula is not sterile; prepare with hot water (~70\u00b0C) to reduce bacterial risk.",
+    "Avoid adding extra formula powder unless a clinician-provided recipe is followed.",
+    "Fortified breast milk should be freshly prepared to avoid osmolality increases over time.",
+    "Monitor hydration, daily intake (mL/kg/day), and electrolytes after any density change."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Infant, Premature",
+    "Low Birth Weight Infant",
+    "Enteral Nutrition",
+    "Breast Milk",
+    "Infant Formula",
+    "Nutritional Support",
+    "Electrolyte Balance",
+    "Dehydration"
+  ],
+  "tags_custom": [
+    "fortification safety",
+    "post-discharge nutrition",
+    "feeding strategies",
+    "calorie density math",
+    "hydration monitoring"
+  ],
+  "reference_quote": "\"Powdered formula is not sterile; high-risk infants (preterm/LBW) require careful preparation and storage, and hot-water preparation (about 70\u00b0C when feasible) reduces bacterial risk.\" (Reference 1)",
+  "document_key_topics": [
+    "Safe fortification math and calorie density conversions",
+    "Stepwise nutrient concentration and hydration monitoring",
+    "Preparation and storage safety for fortified feeds"
+  ],
+  "chunk_heading": "PRETERM/LBW/ELBW POST-DISCHARGE NUTRITION;POST-DISCHARGE FEEDING STRATEGIES AND FORTIFICATION OPTIONS;SAFE FORTIFICATION MATH AND STEPWISE CONCENTRATION GUARDRAILS;",
+  "topic": "PRETERM/LBW/ELBW POST-DISCHARGE NUTRITION",
+  "subtopic": "POST-DISCHARGE FEEDING STRATEGIES AND FORTIFICATION OPTIONS",
+  "sub_subtopic": "SAFE FORTIFICATION MATH AND STEPWISE CONCENTRATION GUARDRAILS",
+  "heading_path": "PRETERM/LBW/ELBW POST-DISCHARGE NUTRITION;POST-DISCHARGE FEEDING STRATEGIES AND FORTIFICATION OPTIONS;SAFE FORTIFICATION MATH AND STEPWISE CONCENTRATION GUARDRAILS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1w3"
+}

@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "This section outlines the milk bank processing workflow from donor intake to distribution, emphasizing quarantine-and-release principles, pasteurization, microbiology testing, and traceability to ensure safe donor human milk (DHM) handling.",
+  "learning_objectives": [
+    "Understand the step-by-step workflow of milk bank processing from donor intake to distribution.",
+    "Learn the critical quality control measures, including pasteurization and microbiology testing.",
+    "Recognize the importance of traceability in donor human milk (DHM) distribution.",
+    "Identify stop rules and contingency protocols for ensuring milk safety."
+  ],
+  "key_facts": [
+    "Donor milk is pasteurized at 62.5\u00b0C for 30 minutes, followed by rapid cooling to 4\u00b0C.",
+    "Post-pasteurization microbiology testing is mandatory, with significant growth leading to batch discard.",
+    "Milk is stored at -20\u00b0C with backup power contingency to maintain cold-chain integrity.",
+    "Each batch is assigned a unique identifier linking donor codes to ensure traceability.",
+    "Distribution of DHM is strictly against clinical requests, with bottle codes recorded for recipient tracking."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Milk Banks",
+    "Human Milk",
+    "Pasteurization",
+    "Microbiology",
+    "Cold Chain",
+    "Quality Control",
+    "Traceability",
+    "Infant Nutrition"
+  ],
+  "tags_custom": [
+    "milk bank workflow",
+    "donor human milk safety",
+    "quarantine protocols",
+    "batch processing"
+  ],
+  "reference_quote": "Donor milk is pasteurized at 62.5\u00b0C for 30 minutes with a documented time\u2013temperature trace and calibrated probe, then rapidly cooled to 4\u00b0C. (Source: https://media.path.org/documents/Human_Milk_Bank_eCLMC_final.pdf)",
+  "document_key_topics": [
+    "Milk bank processing workflow",
+    "Pasteurization and microbiology testing",
+    "Quarantine and traceability protocols",
+    "Cold-chain storage and distribution"
+  ],
+  "chunk_heading": "EXPRESSED MILK, DONOR MILK & MILK BANKING;MILK BANK PROCESSING WORKFLOW FROM INTAKE TO RELEASE;",
+  "topic": "EXPRESSED MILK, DONOR MILK & MILK BANKING",
+  "subtopic": "MILK BANK PROCESSING WORKFLOW FROM INTAKE TO RELEASE",
+  "sub_subtopic": null,
+  "heading_path": "EXPRESSED MILK, DONOR MILK & MILK BANKING;MILK BANK PROCESSING WORKFLOW FROM INTAKE TO RELEASE;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2o.1"
+}

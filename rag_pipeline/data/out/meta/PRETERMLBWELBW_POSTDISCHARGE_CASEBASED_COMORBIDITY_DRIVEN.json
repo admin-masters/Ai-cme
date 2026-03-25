@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "This section discusses case-based nutrition strategies for preterm/LBW/ELBW infants with comorbidities, emphasizing tailored interventions for conditions like CHD, NEC, cholestasis, and BPD to optimize growth and reduce complications.",
+  "learning_objectives": [
+    "Understand the role of comorbidity-driven nutrition adjustments in preterm/LBW/ELBW infants.",
+    "Identify specific interventions for conditions like CHD, NEC, cholestasis, and BPD.",
+    "Learn to monitor and address micronutrient deficiencies and electrolyte imbalances.",
+    "Recognize the importance of multidisciplinary coordination in managing complex cases."
+  ],
+  "key_facts": [
+    "Infants with CHD may require shorter, paced feeds and nutrient-dense formulas to prevent energy loss and aspiration risk.",
+    "Post-NEC infants with stomas need output monitoring, electrolyte checks, and micronutrient evaluation rather than frequent formula changes.",
+    "Cholestasis increases the risk of fat-soluble vitamin deficiencies; water-miscible vitamins A/D/E/K and INR/PT monitoring are essential.",
+    "BPD infants on loop diuretics may develop hypochloremic alkalosis; correcting sodium and chloride deficits can improve growth and reduce nephrocalcinosis risk.",
+    "Prolonged feeds in CHD infants can waste energy and increase aspiration risk, highlighting the need for feed pacing.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Infant, Premature",
+    "Low Birth Weight",
+    "Congenital Heart Defects",
+    "Necrotizing Enterocolitis",
+    "Cholestasis",
+    "Bronchopulmonary Dysplasia",
+    "Micronutrients",
+    "Electrolyte Imbalance"
+  ],
+  "tags_custom": [
+    "Preterm nutrition",
+    "Comorbidity management",
+    "Post-discharge care",
+    "Growth optimization",
+    "Multidisciplinary care"
+  ],
+  "reference_quote": "Management of the infant with evolving BPD (Brigham and Women\u2019s Hospital guideline) emphasizes addressing electrolyte imbalances and reassessing diuretic dosing to improve growth outcomes.",
+  "document_key_topics": [
+    "Comorbidity-driven nutrition strategies",
+    "Micronutrient and electrolyte management",
+    "Growth optimization in preterm infants",
+    "Multidisciplinary care coordination"
+  ],
+  "chunk_heading": "PRETERM/LBW/ELBW POST-DISCHARGE NUTRITION;CASE-BASED COMORBIDITY- DRIVEN NUTRITION DECISIONS;",
+  "topic": "PRETERM/LBW/ELBW POST-DISCHARGE NUTRITION",
+  "subtopic": "CASE-BASED COMORBIDITY- DRIVEN NUTRITION DECISIONS",
+  "sub_subtopic": null,
+  "heading_path": "PRETERM/LBW/ELBW POST-DISCHARGE NUTRITION;CASE-BASED COMORBIDITY- DRIVEN NUTRITION DECISIONS;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "2\u009a.2"
+}

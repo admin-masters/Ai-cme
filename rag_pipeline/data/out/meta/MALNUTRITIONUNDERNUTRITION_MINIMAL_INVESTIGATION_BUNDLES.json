@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "This section outlines phenotype-linked minimal investigation bundles for undernutrition, focusing on inpatient SAM, outpatient non-response, and stunting with red flags, emphasizing targeted, decision-driven testing to optimize care and avoid unnecessary investigations.",
+  "learning_objectives": [
+    "Understand the role of phenotype-linked minimal investigation bundles in managing undernutrition.",
+    "Identify key investigations for complicated SAM, outpatient non-response, and stunting with red flags.",
+    "Learn to prioritize tests based on clinical presentation, geography, and resource availability.",
+    "Recognize the importance of targeted testing for conditions like TB, HIV, and celiac disease in malnourished children."
+  ],
+  "key_facts": [
+    "Bundle 1 (complicated SAM inpatient): Prioritize bedside glucose, hemoglobin/CBC, and electrolytes; include infection screening (e.g., urine evaluation, chest radiograph, cultures).",
+    "Bundle 2 (outpatient SAM non-response): Escalate testing if weight is static or falling at two consecutive follow-ups; include hemoglobin/CBC, urine/stool tests, and targeted work-ups for TB, HIV, or celiac disease.",
+    "Bundle 3 (stunting with red flags): Perform CBC, inflammatory markers, renal/liver function, calcium/phosphate/alkaline phosphatase, celiac screening, and thyroid function tests.",
+    "Indian guidelines recommend hospital referral for outpatient SAM non-response after two follow-ups with static or falling weight.",
+    "Targeted TB evaluation is advised in India for stunted children with contact history or constitutional symptoms."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Malnutrition",
+    "Severe Acute Malnutrition",
+    "Stunting",
+    "Phenotype",
+    "Screening",
+    "Diagnostic Techniques and Procedures",
+    "HIV Infections",
+    "Tuberculosis"
+  ],
+  "tags_custom": [
+    "Minimal investigation bundles",
+    "SAM management",
+    "Non-response evaluation",
+    "Pediatric malnutrition"
+  ],
+  "reference_quote": "\"Indian triage guidance recommends referral to hospital to evaluate medical causes such as TB and HIV if weight is static or falling at two consecutive follow-ups.\" (Source: Operational guidelines on facility-based management of children with severe acute malnutrition, MoHFW, Government of India)",
+  "document_key_topics": [
+    "Phenotype-linked investigation bundles for undernutrition",
+    "Management of severe acute malnutrition (SAM)",
+    "Screening for stunting with systemic disease red flags",
+    "Targeted testing for TB, HIV, and celiac disease"
+  ],
+  "chunk_heading": "MALNUTRITION\u2014UNDERNUTRITION: SCREENING & CLASSIFICATION;MINIMAL INVESTIGATION BUNDLES LINKED TO PHENOTYPE AND NON-RESPONSE;",
+  "topic": "MALNUTRITION\u2014UNDERNUTRITION: SCREENING & CLASSIFICATION",
+  "subtopic": "MINIMAL INVESTIGATION BUNDLES LINKED TO PHENOTYPE AND NON-RESPONSE",
+  "sub_subtopic": null,
+  "heading_path": "MALNUTRITION\u2014UNDERNUTRITION: SCREENING & CLASSIFICATION;MINIMAL INVESTIGATION BUNDLES LINKED TO PHENOTYPE AND NON-RESPONSE;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "3|"
+}

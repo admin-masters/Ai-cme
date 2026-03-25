@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "This section discusses growth velocity and Z-scores using WHO/IAP charts for nutritional assessment and growth monitoring, focusing on anthropometry and MUAC as key tools.",
+  "learning_objectives": [
+    "Understand the concept of growth velocity and its importance in pediatric health monitoring.",
+    "Learn how to interpret Z-scores using WHO/IAP growth charts.",
+    "Explore the role of anthropometry and MUAC in nutritional assessment.",
+    "Identify guidelines for tracking growth trends in children."
+  ],
+  "key_facts": [
+    "Growth velocity is a critical indicator of pediatric health and development.",
+    "Z-scores are standardized metrics used to compare individual growth against population norms.",
+    "WHO/IAP charts provide age-specific benchmarks for height, weight, and MUAC.",
+    "MUAC (Mid-Upper Arm Circumference) is a reliable tool for assessing nutritional status in children under 5 years.",
+    "A Z-score of -2 or lower indicates moderate to severe malnutrition.",
+    "Regular monitoring using WHO/IAP charts helps identify growth faltering early."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Growth Charts",
+    "Anthropometry",
+    "Nutritional Assessment",
+    "Child Development",
+    "Malnutrition",
+    "Body Weight",
+    "Mid-Upper Arm Circumference",
+    "Pediatrics"
+  ],
+  "tags_custom": [
+    "growth monitoring",
+    "WHO standards",
+    "pediatric nutrition",
+    "Z-scores",
+    "MUAC assessment"
+  ],
+  "reference_quote": "WHO/IAP growth charts are essential tools for tracking pediatric growth and identifying malnutrition early, ensuring timely intervention.",
+  "document_key_topics": [
+    "Growth velocity and Z-scores",
+    "WHO/IAP growth charts",
+    "Anthropometry and MUAC",
+    "Nutritional assessment in children"
+  ],
+  "chunk_heading": "GROWTH VELOCITY, Z-SCORES; WHO/IAP CHARTS)",
+  "topic": "GROWTH VELOCITY, Z-SCORES",
+  "subtopic": "WHO/IAP CHARTS)",
+  "sub_subtopic": null,
+  "heading_path": "GROWTH VELOCITY, Z-SCORES; WHO/IAP CHARTS)",
+  "reference_count": 0,
+  "has_guidelines": false,
+  "sequence": "1a"
+}

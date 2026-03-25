@@ -1,0 +1,47 @@
+{
+  "chunk_summary": "Vitamin A prophylaxis in India targets children aged 9 months to 5 years, with scheduled doses every 6 months. Catch-up decisions prioritize documentation and program linkage to avoid repeated massive dosing.",
+  "learning_objectives": [
+    "Understand the national Vitamin A prophylaxis schedule for children aged 9 months to 5 years in India.",
+    "Learn catch-up decision rules for uncertain dose histories in Vitamin A supplementation.",
+    "Differentiate between prophylactic and therapeutic Vitamin A dosing in clinical practice."
+  ],
+  "key_facts": [
+    "Vitamin A prophylaxis starts at 9 months with a dose of 1 lakh IU (100,000 IU).",
+    "Subsequent doses are 2 lakh IU (200,000 IU) every 6 months from 16\u201318 months onward.",
+    "A total of nine doses are administered by the age of 5 years in the routine schedule.",
+    "Catch-up decisions prioritize documentation and linking families to program sites for schedule correction.",
+    "Therapeutic dosing for ocular signs of deficiency or measles is separate from prophylaxis and must be documented to prevent repeat dosing."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Vitamin A",
+    "Micronutrients",
+    "Child Nutrition",
+    "Vitamin A Deficiency",
+    "Prophylaxis",
+    "Immunization Programs",
+    "Public Health",
+    "India"
+  ],
+  "tags_custom": [
+    "Vitamin A schedule",
+    "Catch-up decisions",
+    "Child health programs",
+    "Documentation protocols",
+    "Therapeutic vs prophylactic dosing"
+  ],
+  "reference_quote": "Vitamin A prophylaxis in India is delivered as a national program from 9 months to 5 years. First dose at 9 months is 1 lakh IU (100,000 IU), followed by 2 lakh IU (200,000 IU) every 6 months.",
+  "document_key_topics": [
+    "Vitamin A prophylaxis schedule in India",
+    "Catch-up decisions for missed or undocumented doses",
+    "Differentiation between prophylaxis and therapeutic dosing"
+  ],
+  "chunk_heading": "MICRONUTRIENT NUTRITION;VITAMIN A DEFICIENCY TREATMENT AND PROPHYLAXIS DECISIONS;VITAMIN A PROPHYLAXIS SCHEDULE WITH CATCH-UP DECISIONS;",
+  "topic": "MICRONUTRIENT NUTRITION",
+  "subtopic": "VITAMIN A DEFICIENCY TREATMENT AND PROPHYLAXIS DECISIONS",
+  "sub_subtopic": "VITAMIN A PROPHYLAXIS SCHEDULE WITH CATCH-UP DECISIONS",
+  "heading_path": "MICRONUTRIENT NUTRITION;VITAMIN A DEFICIENCY TREATMENT AND PROPHYLAXIS DECISIONS;VITAMIN A PROPHYLAXIS SCHEDULE WITH CATCH-UP DECISIONS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u00803"
+}

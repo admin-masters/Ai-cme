@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "Guidance on dietary zinc sources and strategies to reduce phytate impact, emphasizing bioavailability, dietary diversity, and practical preparation methods for Indian households to prevent zinc deficiency.",
+  "learning_objectives": [
+    "Understand the impact of phytate on zinc bioavailability and strategies to mitigate it.",
+    "Identify zinc-rich food sources suitable for diverse dietary patterns, including vegetarian diets.",
+    "Learn practical food preparation techniques to enhance zinc absorption in Indian households.",
+    "Recognize the clinical implications of zinc deficiency and appropriate therapeutic interventions."
+  ],
+  "key_facts": [
+    "Zinc bioavailability is reduced by phytate, commonly found in cereal-based diets.",
+    "Animal-source foods (meat, fish, eggs, dairy) provide the most bioavailable zinc.",
+    "Vegetarian sources include legumes (chana, rajma, lentils), soy products, groundnuts, and seeds, though phytate may limit absorption.",
+    "Practical strategies to improve zinc absorption include soaking, sprouting, fermenting, and using leavened preparations.",
+    "Zinc supplementation for acute diarrhea is a 10\u201314 day therapeutic course, not a substitute for a diverse diet.",
+    "Prolonged high-dose zinc supplementation without monitoring can lead to copper deficiency."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Zinc",
+    "Micronutrients",
+    "Dietary Supplements",
+    "Phytic Acid",
+    "Dietary Counseling",
+    "Nutritional Deficiency",
+    "Food Fortification",
+    "Child Nutrition"
+  ],
+  "tags_custom": [
+    "zinc bioavailability",
+    "phytate reduction",
+    "Indian dietary practices",
+    "zinc deficiency prevention",
+    "dietary diversity"
+  ],
+  "reference_quote": "Zinc given for acute diarrhea (10\u201314 days) is a therapeutic course and not a substitute for diet quality.",
+  "document_key_topics": [
+    "Zinc-rich dietary sources",
+    "Phytate reduction strategies",
+    "Zinc supplementation guidelines",
+    "Dietary counseling for zinc deficiency prevention"
+  ],
+  "chunk_heading": "MICRONUTRIENT NUTRITION;DIETARY COUNSELING FOR MICRONUTRIENT DEFICIENCY PREVENTION;DIETARY ZINC SOURCES AND PHYTATE REDUCTION STRATEGIES;",
+  "topic": "MICRONUTRIENT NUTRITION",
+  "subtopic": "DIETARY COUNSELING FOR MICRONUTRIENT DEFICIENCY PREVENTION",
+  "sub_subtopic": "DIETARY ZINC SOURCES AND PHYTATE REDUCTION STRATEGIES",
+  "heading_path": "MICRONUTRIENT NUTRITION;DIETARY COUNSELING FOR MICRONUTRIENT DEFICIENCY PREVENTION;DIETARY ZINC SOURCES AND PHYTATE REDUCTION STRATEGIES;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1\u00a15"
+}

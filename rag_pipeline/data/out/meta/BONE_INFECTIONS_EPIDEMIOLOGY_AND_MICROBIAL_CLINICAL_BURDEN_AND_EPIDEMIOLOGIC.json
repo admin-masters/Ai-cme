@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Bone infections in children, particularly acute hematogenous osteomyelitis, are emergencies with significant clinical burden, especially in low-resource settings. Early recognition is critical to prevent complications like deformity and chronic pain.",
+  "learning_objectives": [
+    "Understand the epidemiologic patterns and clinical burden of bone infections in children.",
+    "Identify key risk factors and clinical presentations of acute hematogenous osteomyelitis and septic arthritis.",
+    "Recognize the challenges in diagnosing bone infections in low- and middle-income settings.",
+    "Learn the importance of early intervention to prevent long-term complications."
+  ],
+  "key_facts": [
+    "Acute hematogenous osteomyelitis is the most common pattern in healthy children, often affecting the femur and tibia.",
+    "Boys are slightly more affected than girls, with the highest burden in children under five years old.",
+    "Delayed presentation in India often involves several days of fever, limb pain, or refusal to bear weight, increasing the risk of abscess formation.",
+    "Children with fever plus focal bone pain, limp, or pseudoparalysis should be urgently evaluated, especially neonates or those with immune compromise.",
+    "Staphylococcus aureus bacteremia, hip infections, and deep-seated pelvic or spinal disease can lead to rapid deterioration.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Osteomyelitis",
+    "Septic Arthritis",
+    "Staphylococcal Infections",
+    "Pediatric Epidemiology",
+    "Bone Diseases",
+    "Infectious Disease Transmission",
+    "Low- and Middle-Income Countries",
+    "Musculoskeletal Infections"
+  ],
+  "tags_custom": [
+    "Pediatric bone infections",
+    "Clinical burden",
+    "Delayed diagnosis",
+    "Resource-limited settings",
+    "Infectious disease emergencies"
+  ],
+  "reference_quote": "Bone and joint infections in children are time-sensitive emergencies because delayed recognition can lead to growth disturbance, deformity, chronic pain, and permanent loss of function.",
+  "document_key_topics": [
+    "Epidemiology of pediatric bone infections",
+    "Clinical burden and diagnostic challenges",
+    "Risk factors and presentation patterns"
+  ],
+  "chunk_heading": "BONE INFECTIONS;EPIDEMIOLOGY AND MICROBIAL PATHOGENESIS;CLINICAL BURDEN AND EPIDEMIOLOGIC PATTERNS;",
+  "topic": "BONE INFECTIONS",
+  "subtopic": "EPIDEMIOLOGY AND MICROBIAL PATHOGENESIS",
+  "sub_subtopic": "CLINICAL BURDEN AND EPIDEMIOLOGIC PATTERNS",
+  "heading_path": "BONE INFECTIONS;EPIDEMIOLOGY AND MICROBIAL PATHOGENESIS;CLINICAL BURDEN AND EPIDEMIOLOGIC PATTERNS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1b1"
+}

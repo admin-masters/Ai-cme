@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section discusses texture modification using the IDDSI framework for feeding support in neurodisability, emphasizing reproducibility, safety, hydration, and thickening trade-offs, especially in pediatric and Indian dietary contexts.",
+  "learning_objectives": [
+    "Understand the IDDSI framework and its application in prescribing reproducible texture modifications for neurodisability feeding support.",
+    "Evaluate the trade-offs of thickener types, including starch-based and gum-based options, and their age-specific safety considerations.",
+    "Identify hydration and nutritional risks associated with thickened fluids, including reduced intake, dehydration, and constipation.",
+    "Apply texture modification strategies to Indian diets while ensuring consistency and avoiding common preparation errors."
+  ],
+  "key_facts": [
+    "The IDDSI framework uses testable levels for drinks and foods, such as the 10 mL syringe flow test for drink thickness.",
+    "Thickened fluids can improve bolus control but have limited pediatric evidence for pneumonia prevention.",
+    "Starch-based thickeners may lose viscosity during oral processing, while gum-based thickeners are more stable but costlier.",
+    "Regulatory warnings exist for xanthan-gum thickeners in premature infants due to risks like necrotizing enterocolitis (NEC).",
+    "Common preparation errors include thickening only water or unintentionally diluting thickened fluids."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Neurodisability",
+    "Feeding and Eating Disorders",
+    "Texture Modification",
+    "Thickened Fluids",
+    "Aspiration Pneumonia",
+    "Hydration",
+    "Dietary Management",
+    "Pediatrics"
+  ],
+  "tags_custom": [
+    "IDDSI framework",
+    "Indian dietary practices",
+    "Thickener safety",
+    "Pediatric feeding support",
+    "Consistency in texture modification"
+  ],
+  "reference_quote": "Regulatory warnings exist regarding serious adverse events such as NEC with certain xanthan-gum products in premature infants, so specialist guidance is needed. (Source: FDA warning via CDC Health Alert Network)",
+  "document_key_topics": [
+    "IDDSI framework for texture modification",
+    "Thickener trade-offs and safety considerations",
+    "Hydration and nutritional risks in thickened fluids",
+    "Application of texture modification in Indian diets"
+  ],
+  "chunk_heading": "NEURODISABILITY & FEEDING SUPPORT;TEXTURE MODIFICATION USING IDDSI WITH THICKENING TRADE-OFFS;",
+  "topic": "NEURODISABILITY & FEEDING SUPPORT",
+  "subtopic": "TEXTURE MODIFICATION USING IDDSI WITH THICKENING TRADE-OFFS",
+  "sub_subtopic": null,
+  "heading_path": "NEURODISABILITY & FEEDING SUPPORT;TEXTURE MODIFICATION USING IDDSI WITH THICKENING TRADE-OFFS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1o"
+}

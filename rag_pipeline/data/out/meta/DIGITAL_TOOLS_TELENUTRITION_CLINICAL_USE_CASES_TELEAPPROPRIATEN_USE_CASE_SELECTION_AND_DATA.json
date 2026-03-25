@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "Tele-nutrition is effective for stable patients requiring caregiver behavior change, but unsuitable for time-critical instability or unreliable data. Data sufficiency gating ensures clinical confidence in tele-first use cases.",
+  "learning_objectives": [
+    "Understand the clinical appropriateness of tele-nutrition for stable patients and caregiver behavior change.",
+    "Learn data sufficiency requirements for tele-nutrition, including reliable anthropometric measures and symptom screening.",
+    "Identify scenarios where tele-nutrition is unsuitable, such as time-critical instability or unreliable measurements.",
+    "Apply decision algorithms for tele-nutrition referrals and interim guidance in growth concerns."
+  ],
+  "key_facts": [
+    "Tele-nutrition is most effective for stable patients requiring longitudinal care and caregiver behavior change.",
+    "High-yield use cases include obesity lifestyle support, chronic disease diet adherence, and follow-up after in-person assessments.",
+    "Data sufficiency requires at least one reliable anthropometric measure and a clear symptom screen.",
+    "In Indian practice, device access, connectivity, and caregiver health literacy vary widely, impacting tele-nutrition scope.",
+    "A stable child requires preserved activity, hydration, and no red flags for tele-nutrition to proceed.",
+    "For first-contact growth concerns, unreliable measurements necessitate referral and interim feeding guidance.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Telemedicine",
+    "Nutrition Therapy",
+    "Anthropometry",
+    "Chronic Disease",
+    "Obesity",
+    "Caregiver Behavior",
+    "Health Literacy",
+    "Pediatric Nutrition"
+  ],
+  "tags_custom": [
+    "tele-nutrition",
+    "data sufficiency",
+    "clinical stability",
+    "growth concerns",
+    "caregiver coaching"
+  ],
+  "reference_quote": "Telemedicine Practice Guidelines (India): 'Scope should be defined operationally as what can be completed with clinical confidence given data quality.'",
+  "document_key_topics": [
+    "Tele-nutrition use case selection",
+    "Data sufficiency gating for tele-nutrition",
+    "Clinical appropriateness and safety stop rules"
+  ],
+  "chunk_heading": "DIGITAL TOOLS & TELE-NUTRITION;CLINICAL USE CASES, TELE-APPROPRIATENESS, AND SAFETY STOP RULES;USE CASE SELECTION AND DATA SUFFICIENCY GATING;",
+  "topic": "DIGITAL TOOLS & TELE-NUTRITION",
+  "subtopic": "CLINICAL USE CASES, TELE-APPROPRIATENESS, AND SAFETY STOP RULES",
+  "sub_subtopic": "USE CASE SELECTION AND DATA SUFFICIENCY GATING",
+  "heading_path": "DIGITAL TOOLS & TELE-NUTRITION;CLINICAL USE CASES, TELE-APPROPRIATENESS, AND SAFETY STOP RULES;USE CASE SELECTION AND DATA SUFFICIENCY GATING;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1k1"
+}

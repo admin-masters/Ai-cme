@@ -1,0 +1,47 @@
+{
+  "chunk_summary": "Screen for SCFE and Blount disease in obese children to prevent activity limitations. Prompt imaging and orthopedic referral are critical for managing these conditions and ensuring safe activity prescriptions.",
+  "learning_objectives": [
+    "Recognize the clinical presentation of SCFE and Blount disease in obese children.",
+    "Understand the importance of early imaging and orthopedic referral for SCFE and Blount disease.",
+    "Adapt physical activity prescriptions to accommodate musculoskeletal limitations in pediatric obesity."
+  ],
+  "key_facts": [
+    "SCFE is strongly associated with adolescent obesity and may present as knee pain, groin pain, or a limp.",
+    "Children with suspected SCFE should be made strictly non-weight-bearing and referred for urgent orthopedic assessment.",
+    "Bilateral hip radiographs (anteroposterior pelvis and frog-leg lateral views) are recommended for suspected SCFE.",
+    "Blount disease presents as progressive tibia vara, with genu varum persisting or worsening beyond age 2 years.",
+    "Low-impact activities like walking, cycling, and swimming are recommended until orthopedic evaluation clarifies restrictions."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Obesity",
+    "Pediatric Obesity",
+    "Slipped Capital Femoral Epiphysis",
+    "Blount Disease",
+    "Musculoskeletal Pain",
+    "Orthopedic Complications",
+    "Genu Varum",
+    "Physical Activity"
+  ],
+  "tags_custom": [
+    "SCFE management",
+    "Blount disease screening",
+    "pediatric orthopedics",
+    "activity modification"
+  ],
+  "reference_quote": "Slipped capital femoral epiphysis (SCFE) is strongly associated with adolescent obesity and is commonly missed because it may present as knee pain or a vague limp rather than hip pain. Any adolescent with hip, groin, or knee pain plus limp should be treated as a potential SCFE phenotype until proven otherwise.",
+  "document_key_topics": [
+    "Slipped Capital Femoral Epiphysis (SCFE)",
+    "Blount Disease",
+    "Pediatric Obesity and Orthopedic Complications",
+    "Activity Prescription Modifications"
+  ],
+  "chunk_heading": "OVERNUTRITION & OBESITY MANAGEMENT;COMORBIDITY SCREENING WITH ACTIONABLE PATHWAYS;RECOGNITION OF SCFE AND BLOUNT DISEASE LIMITING ACTIVITY PRESCRIPTIONS;",
+  "topic": "OVERNUTRITION & OBESITY MANAGEMENT",
+  "subtopic": "COMORBIDITY SCREENING WITH ACTIONABLE PATHWAYS",
+  "sub_subtopic": "RECOGNITION OF SCFE AND BLOUNT DISEASE LIMITING ACTIVITY PRESCRIPTIONS",
+  "heading_path": "OVERNUTRITION & OBESITY MANAGEMENT;COMORBIDITY SCREENING WITH ACTIONABLE PATHWAYS;RECOGNITION OF SCFE AND BLOUNT DISEASE LIMITING ACTIVITY PRESCRIPTIONS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u007f17"
+}

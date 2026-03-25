@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "This section discusses prioritization, prescribing, and informed consent for donor human milk (DHM), emphasizing allocation to high-risk infants, safety protocols, and transparent triage during supply shortages.",
+  "learning_objectives": [
+    "Understand the prioritization criteria for donor human milk allocation in neonatal care.",
+    "Learn the prescribing and informed consent requirements for DHM use.",
+    "Explore operational strategies for triaging DHM during supply shortages.",
+    "Recognize safety protocols for administering DHM, including traceability and labeling."
+  ],
+  "key_facts": [
+    "Pasteurized DHM is prioritized for extremely preterm (<32 weeks) or extremely low birth weight (<1500 g) infants.",
+    "High-risk groups include neonates recovering from NEC or post-gastrointestinal surgery.",
+    "Parental consent must document screening, pasteurization, and residual risks of DHM.",
+    "DHM bottles are dispensed in patient-specific aliquots with batch identifiers and expiry dates.",
+    "Transparent triage criteria are essential during DHM shortages to reduce inequity.",
+    "Formula may be used for larger, stable infants after a risk\u2013benefit discussion."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Milk Banks",
+    "Infant, Premature",
+    "Necrotizing Enterocolitis",
+    "Human Milk",
+    "Parenteral Nutrition",
+    "Neonatal Intensive Care Units",
+    "Informed Consent",
+    "Risk Assessment"
+  ],
+  "tags_custom": [
+    "Donor milk prioritization",
+    "Neonatal nutrition",
+    "Milk safety protocols",
+    "Triage strategies",
+    "Maternal milk alternatives"
+  ],
+  "reference_quote": "Pasteurized DHM is a limited clinical resource and should be allocated to infants with the greatest expected benefit. (AAP, 2017)",
+  "document_key_topics": [
+    "Donor milk prioritization for high-risk infants",
+    "Prescribing and informed consent for DHM",
+    "Safety protocols for DHM administration",
+    "Triage strategies during DHM shortages"
+  ],
+  "chunk_heading": "EXPRESSED MILK, DONOR MILK & MILK BANKING;DONOR MILK PRIORITIZATION PRESCRIBING AND INFORMED CONSENT;",
+  "topic": "EXPRESSED MILK, DONOR MILK & MILK BANKING",
+  "subtopic": "DONOR MILK PRIORITIZATION PRESCRIBING AND INFORMED CONSENT",
+  "sub_subtopic": null,
+  "heading_path": "EXPRESSED MILK, DONOR MILK & MILK BANKING;DONOR MILK PRIORITIZATION PRESCRIBING AND INFORMED CONSENT;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "2l.1"
+}

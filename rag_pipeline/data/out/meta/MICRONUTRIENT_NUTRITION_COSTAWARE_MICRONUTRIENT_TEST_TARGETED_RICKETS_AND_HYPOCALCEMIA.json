@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "Guidelines for cost-effective rickets and hypocalcemia testing focus on a minimal bone profile, reserving advanced tests for specific cases, and emphasize targeted imaging and clinical reassessment strategies.",
+  "learning_objectives": [
+    "Understand the minimal bone profile tests for initial rickets and hypocalcemia evaluation.",
+    "Differentiate between calcipenic and phosphopenic rickets based on biochemical patterns.",
+    "Identify when to order specialized tests like 25(OH)D and PTH in rickets management.",
+    "Apply cost-aware strategies for imaging and follow-up in rickets treatment."
+  ],
+  "key_facts": [
+    "Initial tests include calcium, phosphate, alkaline phosphatase, albumin, magnesium, and creatinine.",
+    "Calcipenic rickets shows low/low-normal calcium, high alkaline phosphatase, and secondary hyperparathyroidism.",
+    "Phosphopenic rickets presents with low phosphate and relatively preserved calcium levels.",
+    "Reserve 25(OH)D testing for severe rickets, suspected toxicity, or poor response to treatment.",
+    "Imaging should be limited to wrist or knee radiographs for confirmation and baseline assessment.",
+    "Avoid repeating extensive lab panels at short intervals; reassess after an appropriate treatment window."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Rickets",
+    "Hypocalcemia",
+    "Vitamin D Deficiency",
+    "Calcium",
+    "Phosphates",
+    "Parathyroid Hormone",
+    "Bone Diseases",
+    "Diagnostic Imaging"
+  ],
+  "tags_custom": [
+    "Cost-effective testing",
+    "Pediatric rickets",
+    "Biochemical patterns",
+    "Targeted imaging",
+    "Clinical reassessment"
+  ],
+  "reference_quote": "A cost-aware rickets evaluation uses a minimal 'bone profile' first and reserves specialized tests for atypical cases or nonresponse. (IAP standard treatment guidelines: Rickets)",
+  "document_key_topics": [
+    "Cost-effective rickets testing",
+    "Biochemical differentiation of rickets types",
+    "Targeted imaging in rickets",
+    "Clinical reassessment and follow-up"
+  ],
+  "chunk_heading": "MICRONUTRIENT NUTRITION;COST-AWARE MICRONUTRIENT TEST SELECTION IN CLINIC;TARGETED RICKETS AND HYPOCALCEMIA TEST SETS;",
+  "topic": "MICRONUTRIENT NUTRITION",
+  "subtopic": "COST-AWARE MICRONUTRIENT TEST SELECTION IN CLINIC",
+  "sub_subtopic": "TARGETED RICKETS AND HYPOCALCEMIA TEST SETS",
+  "heading_path": "MICRONUTRIENT NUTRITION;COST-AWARE MICRONUTRIENT TEST SELECTION IN CLINIC;TARGETED RICKETS AND HYPOCALCEMIA TEST SETS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1m3"
+}

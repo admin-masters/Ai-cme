@@ -1,0 +1,47 @@
+{
+  "chunk_summary": "Guidelines for first-line micronutrient tests and escalation triggers in clinical settings, focusing on anemia, macrocytosis, rickets, hypothyroidism, and zinc deficiency management.",
+  "learning_objectives": [
+    "Understand the appropriate first-line tests for anemia, macrocytosis, rickets, hypothyroidism, and zinc deficiency.",
+    "Learn escalation triggers for urgent micronutrient-related symptoms such as neurologic regression, hypocalcemic seizures, and severe anemia.",
+    "Recognize the limitations of broad micronutrient panels and unreliable markers like serum zinc and urinary iodine."
+  ],
+  "key_facts": [
+    "For anemia: Start with CBC, reticulocyte count, and pair ferritin with CRP/AGP; avoid serum iron alone.",
+    "For macrocytosis: Order serum folate and B12; escalate urgently for neurologic symptoms and avoid folate alone without B12.",
+    "For rickets: Use a bone profile (calcium, phosphate, alkaline phosphatase, albumin, creatinine, magnesium) and radiographs for deformities; reserve 25(OH)D and PTH for specific cases.",
+    "For hypothyroidism: Order TSH and free T4; consider thyroid antibodies for suspected autoimmune thyroiditis.",
+    "Serum zinc is unreliable due to diurnal variation and inflammation; manage with diet correction and time-limited trials."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Micronutrients",
+    "Anemia",
+    "Iron Deficiency",
+    "Vitamin B12 Deficiency",
+    "Rickets",
+    "Hypothyroidism",
+    "Zinc Deficiency",
+    "Clinical Laboratory Techniques"
+  ],
+  "tags_custom": [
+    "Micronutrient testing",
+    "Clinical risk assessment",
+    "Escalation triggers",
+    "Pediatric nutrition",
+    "Diagnostic guidelines"
+  ],
+  "reference_quote": "If testing, pair ferritin with an inflammation marker (CRP and/or AGP) and avoid using serum iron alone. \u2014 WHO guidelines on ferritin concentrations for iron status assessment.",
+  "document_key_topics": [
+    "First-line micronutrient tests for clinical management",
+    "Escalation triggers for urgent micronutrient deficiencies",
+    "Limitations of broad micronutrient panels and unreliable markers"
+  ],
+  "chunk_heading": "MICRONUTRIENT NUTRITION;PRACTICAL MICRONUTRIENT RISK ASSESSMENT IN CLINIC;FIRST-LINE MICRONUTRIENT TEST SETS AND ESCALATION TRIGGERS;",
+  "topic": "MICRONUTRIENT NUTRITION",
+  "subtopic": "PRACTICAL MICRONUTRIENT RISK ASSESSMENT IN CLINIC",
+  "sub_subtopic": "FIRST-LINE MICRONUTRIENT TEST SETS AND ESCALATION TRIGGERS",
+  "heading_path": "MICRONUTRIENT NUTRITION;PRACTICAL MICRONUTRIENT RISK ASSESSMENT IN CLINIC;FIRST-LINE MICRONUTRIENT TEST SETS AND ESCALATION TRIGGERS;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "1h6"
+}

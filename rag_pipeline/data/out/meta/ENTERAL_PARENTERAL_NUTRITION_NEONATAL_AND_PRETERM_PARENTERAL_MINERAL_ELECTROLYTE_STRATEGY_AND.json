@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Guidelines for mineral and electrolyte management in neonatal parenteral nutrition during the first 72 hours, focusing on calcium, phosphate, and monitoring strategies to prevent complications like hypophosphatemia and metabolic acidosis.",
+  "learning_objectives": [
+    "Understand the importance of early mineral delivery in preterm neonates to prevent hypophosphatemia and related complications.",
+    "Learn appropriate calcium and phosphate dosing strategies for the first 72 hours of neonatal parenteral nutrition.",
+    "Identify key monitoring triggers, including glucose, electrolytes, and acid-base status, during early parenteral nutrition.",
+    "Recognize red flags such as metabolic acidosis and adjust prescriptions accordingly."
+  ],
+  "key_facts": [
+    "Initial calcium dosing: 0.8\u20131.0 mmol/kg/day, increasing to 1.5\u20132.0 mmol/kg/day after 48 hours.",
+    "Initial phosphate dosing: 1 mmol/kg/day, increasing to 2 mmol/kg/day after 48 hours or more if serum phosphate remains low.",
+    "Target calcium-to-phosphate molar ratio: 0.75:1 to 1:1.",
+    "Monitor blood glucose 1\u20132 hours after starting PN and after each bag change (every 24\u201348 hours).",
+    "Electrolytes to monitor: potassium, chloride, calcium, phosphate, magnesium, and acid-base status during amino acid advancement.",
+    "Red flags include rising metabolic acidosis with high amino acid provision."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Parenteral Nutrition",
+    "Neonatology",
+    "Electrolytes",
+    "Hypophosphatemia",
+    "Calcium",
+    "Phosphate",
+    "Fluid Therapy",
+    "Metabolic Acidosis"
+  ],
+  "tags_custom": [
+    "neonatal nutrition",
+    "electrolyte management",
+    "early PN strategies",
+    "preterm care",
+    "monitoring protocols"
+  ],
+  "reference_quote": "Neonatal guidance supports calcium about 0.8\u20131.0 mmol/kg/day initially, increasing to 1.5\u20132.0 mmol/kg/day after 48 hours, and phosphate about 1 mmol/kg/day initially, increasing to 2 mmol/kg/day after 48 hours (or more if serum phosphate remains low).",
+  "document_key_topics": [
+    "Mineral and electrolyte dosing in neonatal parenteral nutrition",
+    "Monitoring strategies for glucose and electrolytes",
+    "Preventing hypophosphatemia and metabolic acidosis"
+  ],
+  "chunk_heading": "ENTERAL & PARENTERAL NUTRITION;NEONATAL AND PRETERM PARENTERAL NUTRITION FIRST 72 HOURS;MINERAL ELECTROLYTE STRATEGY AND MONITORING TRIGGERS IN FIRST 72 HOURS;",
+  "topic": "ENTERAL & PARENTERAL NUTRITION",
+  "subtopic": "NEONATAL AND PRETERM PARENTERAL NUTRITION FIRST 72 HOURS",
+  "sub_subtopic": "MINERAL ELECTROLYTE STRATEGY AND MONITORING TRIGGERS IN FIRST 72 HOURS",
+  "heading_path": "ENTERAL & PARENTERAL NUTRITION;NEONATAL AND PRETERM PARENTERAL NUTRITION FIRST 72 HOURS;MINERAL ELECTROLYTE STRATEGY AND MONITORING TRIGGERS IN FIRST 72 HOURS;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "2\u008b2"
+}

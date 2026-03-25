@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "This section outlines the response pathway for addressing metabolic bone disease (MBD) lab abnormalities in preterm, low birth weight (LBW), and extremely low birth weight (ELBW) infants post-discharge, emphasizing micronutrient support and lab monitoring protocols.",
+  "learning_objectives": [
+    "Understand the clinical pathway for managing metabolic bone disease (MBD) in preterm/LBW/ELBW infants post-discharge.",
+    "Identify key micronutrient deficiencies and their lab markers in MBD management.",
+    "Learn the recommended lab monitoring intervals and thresholds for intervention in MBD.",
+    "Review evidence-based guidelines for vitamin D and calcium supplementation in preterm infants."
+  ],
+  "key_facts": [
+    "Metabolic bone disease (MBD) is common in preterm infants due to inadequate mineral stores and high postnatal growth demands.",
+    "Vitamin D supplementation is critical, with recommended doses often ranging from 400-1000 IU/day depending on clinical status.",
+    "Calcium and phosphorus monitoring is essential, with target serum calcium levels typically between 8.5-10.5 mg/dL.",
+    "Lab abnormalities such as low serum alkaline phosphatase (<300 U/L) or elevated phosphorus levels may indicate MBD.",
+    "Regular lab monitoring is recommended every 2-4 weeks post-discharge for at-risk infants.",
+    "Clinical pathways from institutions like Nationwide Children\u2019s and Johns Hopkins provide structured guidance for MBD management."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Metabolic Bone Disease",
+    "Infant, Premature",
+    "Low Birth Weight",
+    "Vitamin D Deficiency",
+    "Calcium Metabolism",
+    "Phosphorus",
+    "Nutritional Support",
+    "Postnatal Care"
+  ],
+  "tags_custom": [
+    "MBD management",
+    "preterm nutrition",
+    "lab monitoring",
+    "micronutrient supplementation",
+    "clinical pathways"
+  ],
+  "reference_quote": "Metabolic bone disease clinical pathway (Nationwide Children\u2019s Hospital) provides structured guidance for lab monitoring and supplementation in preterm infants: https://www.nationwidechildrens.org/-/media/nch/for-medicalprofessionals/clinicalpathways/metabolic-bone-disease-pathway.pdf",
+  "document_key_topics": [
+    "Metabolic bone disease in preterm infants",
+    "Micronutrient supplementation post-discharge",
+    "Lab monitoring protocols for MBD",
+    "Clinical pathways for MBD management"
+  ],
+  "chunk_heading": "PRETERM/LBW/ELBW POST-DISCHARGE NUTRITION;MICRONUTRIENT SUPPORT AND LAB MONITORING AFTER DISCHARGE;RESPONSE PATHWAY FOR METABOLIC BONE DISEASE LAB ABNORMALITIES;",
+  "topic": "PRETERM/LBW/ELBW POST-DISCHARGE NUTRITION",
+  "subtopic": "MICRONUTRIENT SUPPORT AND LAB MONITORING AFTER DISCHARGE",
+  "sub_subtopic": "RESPONSE PATHWAY FOR METABOLIC BONE DISEASE LAB ABNORMALITIES",
+  "heading_path": "PRETERM/LBW/ELBW POST-DISCHARGE NUTRITION;MICRONUTRIENT SUPPORT AND LAB MONITORING AFTER DISCHARGE;RESPONSE PATHWAY FOR METABOLIC BONE DISEASE LAB ABNORMALITIES;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2\u008a6.2"
+}

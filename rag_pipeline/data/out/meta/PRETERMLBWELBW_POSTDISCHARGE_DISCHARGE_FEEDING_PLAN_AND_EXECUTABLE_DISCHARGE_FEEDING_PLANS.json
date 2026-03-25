@@ -1,0 +1,46 @@
+{
+  "chunk_summary": "Guidelines for creating executable discharge feeding plans for preterm/LBW/ELBW infants, including feeding behaviors, caregiver tools, and follow-up protocols to ensure growth and safety post-discharge.",
+  "learning_objectives": [
+    "Understand the components of an executable discharge feeding plan for preterm/LBW/ELBW infants.",
+    "Learn caregiver monitoring tools, including feeding logs and red flag identification.",
+    "Recognize follow-up timelines and criteria for high-risk infants post-discharge."
+  ],
+  "key_facts": [
+    "Discharge feeding plans must include primary feed type, measurable supplement, stop/step-down criteria, and a return plan.",
+    "India\u2019s SNCU follow-up guidance recommends a home visit within 24 hours of discharge and early repeat contacts in the first weeks.",
+    "Tier 3 infants require clinician review within 24\u201372 hours post-discharge, while Tier 2 infants need review within 1 week.",
+    "Caregiver tools include a 3-day feeding log tracking feed times, volumes, top-ups, and signs of feeding-related issues.",
+    "Red flags requiring same-day review include poor feeding with lethargy, persistent vomiting, respiratory distress, or failure to meet growth targets."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Infant, Low Birth Weight",
+    "Infant, Premature",
+    "Postnatal Care",
+    "Breastfeeding",
+    "Infant Nutrition",
+    "Caregivers",
+    "Growth Monitoring",
+    "Feeding Behavior"
+  ],
+  "tags_custom": [
+    "discharge feeding plans",
+    "caregiver tools",
+    "preterm infant nutrition",
+    "follow-up protocols"
+  ],
+  "reference_quote": "Government of India SNCU follow-up guidance treats the day of discharge as day one and recommends a home visit within 24 hours, with early repeat contacts during the first weeks.",
+  "document_key_topics": [
+    "Discharge feeding plan components",
+    "Caregiver monitoring tools",
+    "Follow-up timelines for preterm/LBW/ELBW infants"
+  ],
+  "chunk_heading": "PRETERM/LBW/ELBW POST-DISCHARGE NUTRITION;DISCHARGE FEEDING PLAN AND CAREGIVER MONITORING TOOLS;EXECUTABLE DISCHARGE FEEDING PLANS AND CAREGIVER  TOOLS;",
+  "topic": "PRETERM/LBW/ELBW POST-DISCHARGE NUTRITION",
+  "subtopic": "DISCHARGE FEEDING PLAN AND CAREGIVER MONITORING TOOLS",
+  "sub_subtopic": "EXECUTABLE DISCHARGE FEEDING PLANS AND CAREGIVER  TOOLS",
+  "heading_path": "PRETERM/LBW/ELBW POST-DISCHARGE NUTRITION;DISCHARGE FEEDING PLAN AND CAREGIVER MONITORING TOOLS;EXECUTABLE DISCHARGE FEEDING PLANS AND CAREGIVER  TOOLS;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "1f1"
+}

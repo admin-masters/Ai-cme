@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section outlines outpatient triage strategies for vegetarian and regional feeding patterns, emphasizing risk classification, growth assessment, symptom triggers, and follow-up intervals for children with dietary risks.",
+  "learning_objectives": [
+    "Understand how to classify vegetarian dietary patterns and their impact on child nutrition.",
+    "Learn to assess growth trends and acute risk using weight-for-height, BMI-for-age, and MUAC thresholds.",
+    "Identify urgent symptoms linked to dietary deficiencies and assign appropriate follow-up intervals.",
+    "Develop structured action plans for children with varying levels of dietary risk."
+  ],
+  "key_facts": [
+    "Milk displacement can lead to low iron and protein intake; document daily milk or plant beverage volume explicitly.",
+    "Severe acute malnutrition (SAM) is suspected with weight-for-height < -3 SD, MUAC <115 mm, or bilateral pitting edema.",
+    "Vitamin B12 deficiency may present with neuroregression, lethargy, hypotonia, or seizures, especially in vegan diets.",
+    "Follow-up intervals: Green (routine intervals), Amber (4\u20136 weeks), Orange (2\u20134 weeks based on age).",
+    "Targeted labs for Orange risk include CBC, ferritin, vitamin B12 indices, and bone panel for suspected rickets."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Vegetarian Diet",
+    "Child Nutrition Disorders",
+    "Malnutrition",
+    "Vitamin B12 Deficiency",
+    "Iron Deficiency Anemia",
+    "Growth Disorders",
+    "Risk Assessment",
+    "Outpatient Care"
+  ],
+  "tags_custom": [
+    "feeding patterns",
+    "triage protocols",
+    "dietary risk",
+    "child growth monitoring",
+    "nutritional deficiencies"
+  ],
+  "reference_quote": "Suspect SAM with weight-for-height < -3 SD, MUAC <115 mm, or bilateral pitting edema. (Source: WHO Child Growth Standards)",
+  "document_key_topics": [
+    "Vegetarian dietary classification and risks",
+    "Growth and malnutrition assessment",
+    "Symptom triggers for urgent intervention",
+    "Follow-up intervals and action plans"
+  ],
+  "chunk_heading": "VEGETARIAN & REGIONAL FEEDING PATTERNS;OUTPATIENT RISK TRIAGE WITH FOLLOWUP INTERVALS;",
+  "topic": "VEGETARIAN & REGIONAL FEEDING PATTERNS",
+  "subtopic": "OUTPATIENT RISK TRIAGE WITH FOLLOWUP INTERVALS",
+  "sub_subtopic": null,
+  "heading_path": "VEGETARIAN & REGIONAL FEEDING PATTERNS;OUTPATIENT RISK TRIAGE WITH FOLLOWUP INTERVALS;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "1c.1"
+}

@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "Sustained recovery criteria for MAM include anthropometric stability, absence of oedema, and a clear discharge plan with community monitoring to prevent relapse.",
+  "learning_objectives": [
+    "Understand the criteria for sustained recovery in moderate acute malnutrition (MAM).",
+    "Learn the importance of dual anthropometric metrics (MUAC and WHZ/WLZ) in discharge planning.",
+    "Recognize the role of community-based monitoring in relapse prevention after MAM recovery.",
+    "Identify operational workflows for MAM management in Indian healthcare settings."
+  ],
+  "key_facts": [
+    "WHO 2023 guidelines discourage using percentage or absolute weight gain as exit criteria for MAM recovery.",
+    "Recovery is defined as MUAC \u2265125 mm and WHZ/WLZ \u2265 -2 maintained for at least two consecutive visits.",
+    "No bilateral pitting oedema must be present on at least two consecutive visits before discharge.",
+    "Indian workflows often prioritize WHZ plus oedema for programme entry but recommend recording both MUAC and WHZ/WLZ at discharge.",
+    "Discharge planning must include a feasible feeding plan, caregiver education, and scheduled community monitoring."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Malnutrition",
+    "Anthropometry",
+    "Child Nutrition Disorders",
+    "Community Health Services",
+    "Nutritional Status",
+    "Monitoring, Physiologic",
+    "Edema",
+    "India"
+  ],
+  "tags_custom": [
+    "MAM recovery criteria",
+    "discharge planning",
+    "relapse prevention",
+    "community-based monitoring",
+    "feeding plan"
+  ],
+  "reference_quote": "The 2023 WHO wasting guideline discourages using percentage weight gain or absolute weight gain as outpatient exit criteria and instead requires sustained anthropometric recovery.",
+  "document_key_topics": [
+    "Sustained recovery criteria for MAM",
+    "Discharge planning and community monitoring",
+    "Anthropometric metrics for MAM recovery"
+  ],
+  "chunk_heading": "MODERATE ACUTE MALNUTRITION (MAM) AND SUPPLEMENTARY FEEDING;DISCHARGE CRITERIA AND RELAPSE PREVENTION AFTER RECOVERY;SUSTAINED RECOVERY CRITERIA AND DISCHARGE PLANNING;",
+  "topic": "MODERATE ACUTE MALNUTRITION (MAM) AND SUPPLEMENTARY FEEDING",
+  "subtopic": "DISCHARGE CRITERIA AND RELAPSE PREVENTION AFTER RECOVERY",
+  "sub_subtopic": "SUSTAINED RECOVERY CRITERIA AND DISCHARGE PLANNING",
+  "heading_path": "MODERATE ACUTE MALNUTRITION (MAM) AND SUPPLEMENTARY FEEDING;DISCHARGE CRITERIA AND RELAPSE PREVENTION AFTER RECOVERY;SUSTAINED RECOVERY CRITERIA AND DISCHARGE PLANNING;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "3q1"
+}

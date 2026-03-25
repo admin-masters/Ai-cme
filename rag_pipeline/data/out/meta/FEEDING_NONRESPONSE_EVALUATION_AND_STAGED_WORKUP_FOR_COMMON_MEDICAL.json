@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section outlines a staged diagnostic approach for persistent feeding nonresponse, emphasizing high-yield tests and targeted investigations for common medical causes like anemia, celiac disease, TB, and UTI.",
+  "learning_objectives": [
+    "Understand the staged work-up process for feeding nonresponse in children.",
+    "Identify high-yield diagnostic tests for anemia, UTI, and celiac disease.",
+    "Apply targeted investigations for TB and HIV based on clinical indications.",
+    "Recognize when to escalate care or refer for comprehensive evaluation."
+  ],
+  "key_facts": [
+    "Stage A tests (2\u20134 weeks): Hemoglobin for anemia, stool exam for parasites, and urinalysis with culture for UTI.",
+    "Stage B tests (4\u20138 weeks): IgA anti-tTG for celiac disease; IgG-based tests if IgA deficiency is present.",
+    "Follow NTEP pediatric TB algorithms, including chest radiography and NAAT/CBNAAT testing.",
+    "HIV testing is recommended for recurrent infections or persistent poor response.",
+    "Referral to a higher facility is advised if nonresponse persists beyond 8 weeks or danger signs appear."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Feeding Behavior",
+    "Failure to Thrive",
+    "Celiac Disease",
+    "Tuberculosis",
+    "Urinary Tract Infections",
+    "HIV Infections",
+    "Diagnostic Techniques and Procedures",
+    "Malnutrition"
+  ],
+  "tags_custom": [
+    "staged diagnostics",
+    "feeding nonresponse",
+    "pediatric evaluation",
+    "targeted investigations",
+    "clinical escalation"
+  ],
+  "reference_quote": "For suspected celiac disease, follow ICMR guidance that IgA anti-tTG is the preferred serologic test in children above 2 years.",
+  "document_key_topics": [
+    "Staged diagnostic approach for feeding nonresponse",
+    "High-yield tests for anemia, UTI, and celiac disease",
+    "Targeted investigations for TB and HIV",
+    "Referral and escalation criteria for persistent nonresponse"
+  ],
+  "chunk_heading": "FEEDING;NONRESPONSE EVALUATION AND TARGETED INVESTIGATION;STAGED WORK-UP FOR COMMON MEDICAL CAUSES;",
+  "topic": "FEEDING",
+  "subtopic": "NONRESPONSE EVALUATION AND TARGETED INVESTIGATION",
+  "sub_subtopic": "STAGED WORK-UP FOR COMMON MEDICAL CAUSES",
+  "heading_path": "FEEDING;NONRESPONSE EVALUATION AND TARGETED INVESTIGATION;STAGED WORK-UP FOR COMMON MEDICAL CAUSES;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "3t2"
+}

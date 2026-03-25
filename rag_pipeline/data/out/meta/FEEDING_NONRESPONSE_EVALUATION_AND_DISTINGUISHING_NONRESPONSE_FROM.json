@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section addresses distinguishing true non-response from adherence failure in children with MAM, emphasizing anthropometric accuracy, adherence audits, and targeted evaluations for red flags or comorbidities per WHO guidelines.",
+  "learning_objectives": [
+    "Understand the distinction between non-response and adherence failure in children with MAM.",
+    "Learn methods for auditing feeding practices and identifying operational failures.",
+    "Recognize red flags and comorbidities requiring targeted evaluation in non-responsive cases.",
+    "Apply WHO guidelines for managing wasting and nutritional oedema in children under 5."
+  ],
+  "key_facts": [
+    "Non-response should be confirmed at the second follow-up (2\u20134 weeks) using accurate anthropometry.",
+    "Common adherence failures include ration mixed into watery tea, unsafe storage, and caregiver misconceptions about solids causing diarrhoea.",
+    "Red flags for immediate evaluation include chronic diarrhoea, persistent vomiting, abdominal distension, oedema, recurrent fever, and known TB contact.",
+    "Congenital heart disease should be considered when tachypnoea, sweating, recurrent chest infections, or murmurs are present during feeds.",
+    "WHO guidelines explicitly recognize comorbidities like feeding dysfunction and disabilities as risk factors requiring intensive support."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Malnutrition",
+    "Feeding Behavior",
+    "Anthropometry",
+    "Nutritional Support",
+    "Congenital Heart Disease",
+    "Tuberculosis",
+    "Diarrhea",
+    "Child Nutrition Disorders"
+  ],
+  "tags_custom": [
+    "MAM management",
+    "Adherence failure",
+    "Feeding audits",
+    "Red flag symptoms",
+    "WHO guidelines"
+  ],
+  "reference_quote": "WHO guidelines explicitly recognize comorbidities that increase risk and justify more intensive support in children under 5 years with wasting and nutritional oedema.",
+  "document_key_topics": [
+    "Non-response evaluation in MAM",
+    "Adherence failure in feeding practices",
+    "Red flags and comorbidities in malnourished children",
+    "WHO guidance on wasting and nutritional oedema"
+  ],
+  "chunk_heading": "FEEDING;NONRESPONSE EVALUATION AND TARGETED INVESTIGATION;DISTINGUISHING NON-RESPONSE FROM ADHERENCE FAILURE;",
+  "topic": "FEEDING",
+  "subtopic": "NONRESPONSE EVALUATION AND TARGETED INVESTIGATION",
+  "sub_subtopic": "DISTINGUISHING NON-RESPONSE FROM ADHERENCE FAILURE",
+  "heading_path": "FEEDING;NONRESPONSE EVALUATION AND TARGETED INVESTIGATION;DISTINGUISHING NON-RESPONSE FROM ADHERENCE FAILURE;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "4k1"
+}

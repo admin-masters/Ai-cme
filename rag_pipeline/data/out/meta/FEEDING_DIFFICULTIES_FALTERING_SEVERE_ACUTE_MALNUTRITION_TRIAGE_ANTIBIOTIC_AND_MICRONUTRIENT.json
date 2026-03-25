@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "This section outlines antibiotic regimens and micronutrient dosing protocols for managing severe acute malnutrition (SAM), emphasizing infection treatment, weight-based dosing, and stabilization before iron supplementation.",
+  "learning_objectives": [
+    "Understand the antibiotic regimens for uncomplicated and complicated SAM, including septic shock.",
+    "Learn the micronutrient dosing protocols for stabilization in SAM management.",
+    "Recognize the importance of addressing infections and micronutrient deficiencies in SAM treatment.",
+    "Identify when to initiate iron supplementation during SAM recovery."
+  ],
+  "key_facts": [
+    "Oral amoxicillin 15 mg/kg every 8 hours for 5 days is recommended for uncomplicated SAM.",
+    "For complicated SAM, injectable ampicillin 50 mg/kg every 6 hours plus gentamicin 7.5 mg/kg once daily for 7 days is advised.",
+    "Septic shock may require cefotaxime 50 mg/kg every 6 hours or ceftriaxone 100 mg/kg/day.",
+    "Micronutrient therapy includes vitamin A, folic acid (5 mg on day 1, then 1 mg/day), zinc (2 mg/kg/day), and copper (0.3 mg/kg/day).",
+    "Iron supplementation (3 mg/kg/day) should begin only after stabilization and infection control.",
+    "Infections and micronutrient deficiencies are key drivers of anorexia and non-response in SAM."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Severe Acute Malnutrition",
+    "Antibiotics",
+    "Micronutrients",
+    "Infection",
+    "Iron Deficiency",
+    "Septic Shock",
+    "Child Nutrition Disorders",
+    "Malnutrition Therapy"
+  ],
+  "tags_custom": [
+    "SAM management",
+    "pediatric nutrition",
+    "antibiotic dosing",
+    "micronutrient therapy",
+    "stabilization protocols"
+  ],
+  "reference_quote": "Antibiotic regimens should be expressed in weight-based doses to avoid unsafe copying. Facility-based operational guidance describes the following commonly used regimens: for uncomplicated SAM managed within the protocol, oral amoxicillin 15 mg/kg per dose every 8 hours for 5 days.",
+  "document_key_topics": [
+    "Antibiotic regimens in SAM",
+    "Micronutrient dosing protocols",
+    "Stabilization and infection control in SAM",
+    "Iron supplementation guidelines"
+  ],
+  "chunk_heading": "FEEDING DIFFICULTIES & FALTERING GROWTH;SEVERE ACUTE MALNUTRITION TRIAGE AND INPATIENT MANAGEMENT;ANTIBIOTIC AND MICRONUTRIENT DOSING IN SAM;",
+  "topic": "FEEDING DIFFICULTIES & FALTERING GROWTH",
+  "subtopic": "SEVERE ACUTE MALNUTRITION TRIAGE AND INPATIENT MANAGEMENT",
+  "sub_subtopic": "ANTIBIOTIC AND MICRONUTRIENT DOSING IN SAM",
+  "heading_path": "FEEDING DIFFICULTIES & FALTERING GROWTH;SEVERE ACUTE MALNUTRITION TRIAGE AND INPATIENT MANAGEMENT;ANTIBIOTIC AND MICRONUTRIENT DOSING IN SAM;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "4\u008f3"
+}

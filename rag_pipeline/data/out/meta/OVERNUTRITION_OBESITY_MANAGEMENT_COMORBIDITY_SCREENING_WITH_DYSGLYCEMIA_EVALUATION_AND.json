@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "This section focuses on dysglycemia screening in pediatric obesity, outlining diagnostic thresholds, testing protocols, and management strategies for prediabetes and diabetes, with actionable pathways for follow-up care.",
+  "learning_objectives": [
+    "Understand the diagnostic thresholds for diabetes and prediabetes in pediatric obesity.",
+    "Learn the appropriate use of OGTT and its operational details in dysglycemia evaluation.",
+    "Identify management strategies for prediabetes and diabetes, including lifestyle interventions and referral protocols.",
+    "Recognize the importance of repeat testing and risk stratification in pediatric dysglycemia."
+  ],
+  "key_facts": [
+    "Diabetes diagnostic thresholds: fasting plasma glucose \u2265126 mg/dL, 2-hour OGTT glucose \u2265200 mg/dL, or HbA1c \u22656.5%.",
+    "Prediabetes thresholds: fasting glucose 100\u2013125 mg/dL (ADA) or 110\u2013125 mg/dL (WHO); 2-hour OGTT glucose 140\u2013199 mg/dL.",
+    "OGTT protocol: 1.75 g/kg glucose (max 75 g), dissolved in water, consumed within 5 minutes, with a 2-hour sample collected.",
+    "Annual retesting is acceptable for stable low-risk prediabetes, but 3\u20136 month intervals are recommended for high-risk cases.",
+    "Pancreatic autoantibody testing is advised when considering youth-onset type 2 diabetes, per RSSDI recommendations."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Obesity",
+    "Pediatric Obesity",
+    "Dysglycemia",
+    "Prediabetes",
+    "Diabetes Mellitus, Type 2",
+    "Oral Glucose Tolerance Test",
+    "Lifestyle Intervention",
+    "Risk Assessment"
+  ],
+  "tags_custom": [
+    "Pediatric dysglycemia",
+    "Diabetes screening",
+    "Prediabetes management",
+    "OGTT protocol"
+  ],
+  "reference_quote": "Diabetes can be diagnosed by fasting plasma glucose \u2265126 mg/dL, 2-hour glucose \u2265200 mg/dL during OGTT, or HbA1c \u22656.5%.",
+  "document_key_topics": [
+    "Dysglycemia screening in pediatric obesity",
+    "Diagnostic thresholds for diabetes and prediabetes",
+    "Oral glucose tolerance test (OGTT) protocol",
+    "Management and follow-up for prediabetes and diabetes"
+  ],
+  "chunk_heading": "OVERNUTRITION & OBESITY MANAGEMENT;COMORBIDITY SCREENING WITH ACTIONABLE PATHWAYS;DYSGLYCEMIA EVALUATION AND POST-SCREENING MANAGEMENT DECISIONS;",
+  "topic": "OVERNUTRITION & OBESITY MANAGEMENT",
+  "subtopic": "COMORBIDITY SCREENING WITH ACTIONABLE PATHWAYS",
+  "sub_subtopic": "DYSGLYCEMIA EVALUATION AND POST-SCREENING MANAGEMENT DECISIONS",
+  "heading_path": "OVERNUTRITION & OBESITY MANAGEMENT;COMORBIDITY SCREENING WITH ACTIONABLE PATHWAYS;DYSGLYCEMIA EVALUATION AND POST-SCREENING MANAGEMENT DECISIONS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1s5"
+}

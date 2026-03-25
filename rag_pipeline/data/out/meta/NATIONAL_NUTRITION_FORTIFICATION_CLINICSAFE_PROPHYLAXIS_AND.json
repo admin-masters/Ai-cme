@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section outlines clinic-safe prophylaxis and micronutrient dosing for children, including vitamin A, iron-folic acid (IFA), albendazole, and zinc for diarrhea, with specific age-based dosages and administration guidelines to prevent over-dosing and ensure safety.",
+  "learning_objectives": [
+    "Understand age-specific dosing schedules for vitamin A supplementation in children under 5 years.",
+    "Learn the prophylactic iron-folic acid (IFA) supplementation guidelines for different age groups.",
+    "Identify contraindications and safety precautions for albendazole administration during mass deworming campaigns.",
+    "Understand zinc supplementation protocols for managing acute diarrhea in children."
+  ],
+  "key_facts": [
+    "Vitamin A prophylaxis: 9 doses by 5 years, starting at 9 months (100,000 IU) and continuing every 6 months (200,000 IU).",
+    "Prophylactic IFA: 6\u201359 months biweekly syrup (20 mg iron + 100 mcg folic acid); 5\u201310 years weekly tablet (45 mg iron + 400 mcg folic acid); 10\u201319 years weekly tablet (60 mg iron + 500 mcg folic acid).",
+    "Albendazole dosing: 1\u20132 years 200 mg; \u22652 years 400 mg; not routine for children under 1 year.",
+    "Zinc for acute diarrhea: 2\u20136 months 10 mg daily; 6 months\u20135 years 20 mg daily for 14 days, paired with ORS and continued feeding.",
+    "Prophylactic IFA should be paused during therapeutic iron treatment to avoid double dosing.",
+    "Albendazole should not be administered to acutely febrile or severely ill children; defer dosing to a later visit."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Micronutrients",
+    "Vitamin A",
+    "Iron-Folic Acid Supplementation",
+    "Zinc",
+    "Diarrhea",
+    "Deworming",
+    "Child Nutrition",
+    "Preventive Health Services"
+  ],
+  "tags_custom": [
+    "Prophylaxis guidelines",
+    "Pediatric dosing",
+    "Mass deworming",
+    "Diarrhea management"
+  ],
+  "reference_quote": "Zinc in acute diarrhea: 2 months to <6 months 10 mg daily; 6 months to 5 years 20 mg daily, for 14 days even if stools stop earlier; pair with ORS, continued feeding/breastfeeding, and clear dehydration danger signs.",
+  "document_key_topics": [
+    "Vitamin A supplementation schedules",
+    "Iron-folic acid prophylaxis for children and adolescents",
+    "Albendazole dosing for mass deworming",
+    "Zinc supplementation in acute diarrhea management"
+  ],
+  "chunk_heading": "NATIONAL NUTRITION & FORTIFICATION PROGRAMS IN INDIA;CLINIC-SAFE PROPHYLAXIS AND DIARRHEA MICRONUTRIENT DOSING;",
+  "topic": "NATIONAL NUTRITION & FORTIFICATION PROGRAMS IN INDIA",
+  "subtopic": "CLINIC-SAFE PROPHYLAXIS AND DIARRHEA MICRONUTRIENT DOSING",
+  "sub_subtopic": null,
+  "heading_path": "NATIONAL NUTRITION & FORTIFICATION PROGRAMS IN INDIA;CLINIC-SAFE PROPHYLAXIS AND DIARRHEA MICRONUTRIENT DOSING;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1h"
+}

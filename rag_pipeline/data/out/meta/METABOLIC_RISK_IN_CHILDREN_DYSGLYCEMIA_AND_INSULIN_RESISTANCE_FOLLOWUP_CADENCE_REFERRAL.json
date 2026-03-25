@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section outlines follow-up protocols, referral thresholds, and metformin use for managing dysglycemia and insulin resistance in children, emphasizing risk-based cadence, numeric glycemic thresholds, and pharmacotherapy guidelines.",
+  "learning_objectives": [
+    "Understand follow-up cadence based on risk category and glycemic trajectory in children.",
+    "Identify referral thresholds for pediatric endocrinology in cases of diabetes-range glycemia or worsening prediabetes.",
+    "Learn metformin initiation and titration protocols for youth-onset type 2 diabetes.",
+    "Recognize the importance of distinguishing type 1 versus type 2 diabetes in pediatric cases."
+  ],
+  "key_facts": [
+    "Repeat testing within 3 years for normal screening with persistent obesity/risk factors; sooner if BMI or waist trajectory worsens.",
+    "High-normal fasting glucose (95\u201399 mg/dL) or HbA1c (5.5\u20135.6%) warrants follow-up within 6\u201312 months during puberty.",
+    "Prediabetes requires annual reassessment, or 6-month follow-up if puberty, weight gain, or abnormal domains (BP, ALT, triglycerides) are present.",
+    "Refer to pediatric endocrinology for diabetes-range glycemia (fasting glucose \u2265126 mg/dL, 2-hour OGTT \u2265200 mg/dL, HbA1c \u22656.5%).",
+    "Metformin initiation: Start at 500 mg daily, titrate to 2,000 mg/day as tolerated; basal insulin (0.25\u20130.5 units/kg/day) for HbA1c \u22658.5% without acidosis."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Dysglycemia",
+    "Insulin Resistance",
+    "Pediatric Obesity",
+    "Metformin",
+    "Diabetes Mellitus, Type 2",
+    "HbA1c",
+    "Puberty",
+    "Endocrinology"
+  ],
+  "tags_custom": [
+    "follow-up protocols",
+    "glycemic thresholds",
+    "pharmacotherapy guidelines",
+    "pediatric diabetes management",
+    "risk-based care"
+  ],
+  "reference_quote": "Metformin is first-line pharmacotherapy for youth-onset type 2 diabetes in most guidance, but its use 'for prediabetes' is not routine and should be specialist-linked.",
+  "document_key_topics": [
+    "Follow-up cadence for dysglycemia in children",
+    "Referral thresholds for pediatric endocrinology",
+    "Metformin use and titration in youth-onset type 2 diabetes",
+    "Risk-based management of insulin resistance and prediabetes"
+  ],
+  "chunk_heading": "METABOLIC RISK IN CHILDREN; DYSGLYCEMIA AND INSULIN RESISTANCE CLINICAL PATHWAY;FOLLOW-UP  CADENCE  REFERRAL  THRESHOLDS  AND  METFORMIN  SCOPE;",
+  "topic": "METABOLIC RISK IN CHILDREN",
+  "subtopic": "DYSGLYCEMIA AND INSULIN RESISTANCE CLINICAL PATHWAY",
+  "sub_subtopic": "FOLLOW-UP  CADENCE  REFERRAL  THRESHOLDS  AND  METFORMIN  SCOPE",
+  "heading_path": "METABOLIC RISK IN CHILDREN; DYSGLYCEMIA AND INSULIN RESISTANCE CLINICAL PATHWAY;FOLLOW-UP  CADENCE  REFERRAL  THRESHOLDS  AND  METFORMIN  SCOPE;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1z4"
+}

@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "Guidelines for triage and transfusion decisions in severe anemia, focusing on stability assessment, hemoglobin thresholds, transfusion protocols, and post-stabilization care.",
+  "learning_objectives": [
+    "Understand the importance of stability assessment in severe anemia triage.",
+    "Learn hemoglobin thresholds for transfusion decisions in pediatric patients.",
+    "Recognize safe transfusion practices to avoid complications like heart failure.",
+    "Identify post-stabilization care strategies, including iron supplementation and recurrence prevention."
+  ],
+  "key_facts": [
+    "Severe anemia requires immediate stability assessment for respiratory distress, shock, or heart failure signs.",
+    "Transfusion is generally indicated for Hb \u22644 g/dL or Hb 4\u20136 g/dL with cardiac decompensation or significant symptoms.",
+    "Stable children with Hb >6 g/dL are usually managed with oral iron and monitored for response.",
+    "Small-volume transfusions (5\u201310 mL/kg) over 3\u20134 hours with close monitoring are recommended to avoid heart failure.",
+    "Diuretic support (e.g., furosemide) is advised if fluid overload risks are present during transfusion.",
+    "Post-stabilization care includes therapeutic oral iron, reassessment planning, and caregiver counseling on recurrence prevention."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Anemia, Iron-Deficiency",
+    "Blood Transfusion",
+    "Hemoglobin",
+    "Pediatrics",
+    "Heart Failure",
+    "Triage",
+    "Iron Supplementation",
+    "Fluid Overload"
+  ],
+  "tags_custom": [
+    "severe anemia management",
+    "pediatric transfusion guidelines",
+    "stability assessment",
+    "post-transfusion care"
+  ],
+  "reference_quote": "Transfusion is generally indicated for Hb \u22644 g/dL, or Hb 4\u20136 g/dL with cardiac decompensation or significant symptoms. (Source: IAP standard treatment guidelines: Iron deficiency anemia \u2014 https://iapindia.org/pdf/Ch059stg-Iron-Deficiency-Anemia.pdf)",
+  "document_key_topics": [
+    "Triage in severe anemia",
+    "Transfusion decision-making",
+    "Post-stabilization care in anemia"
+  ],
+  "chunk_heading": "MICRONUTRIENT NUTRITION;IRON DEFICIENCY ANEMIA DIAGNOSTIC AND THERAPEUTIC DECISIONS;TRIAGE AND TRANSFUSION DECISION  FLOW IN SEVERE ANEMIA;",
+  "topic": "MICRONUTRIENT NUTRITION",
+  "subtopic": "IRON DEFICIENCY ANEMIA DIAGNOSTIC AND THERAPEUTIC DECISIONS",
+  "sub_subtopic": "TRIAGE AND TRANSFUSION DECISION  FLOW IN SEVERE ANEMIA",
+  "heading_path": "MICRONUTRIENT NUTRITION;IRON DEFICIENCY ANEMIA DIAGNOSTIC AND THERAPEUTIC DECISIONS;TRIAGE AND TRANSFUSION DECISION  FLOW IN SEVERE ANEMIA;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1u6"
+}

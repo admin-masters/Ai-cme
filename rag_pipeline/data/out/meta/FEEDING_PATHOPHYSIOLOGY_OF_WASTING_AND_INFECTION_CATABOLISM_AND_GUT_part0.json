@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Explores infection-driven catabolism, gut dysfunction, and recovery strategies in wasting, emphasizing energy needs, EED, and clinical follow-up in low-resource settings.",
+  "learning_objectives": [
+    "Understand the role of infection and gut dysfunction in acute wasting and recovery challenges.",
+    "Learn the clinical significance of appetite changes and their link to unresolved illness or inflammation.",
+    "Identify energy requirements and supplementation strategies for children with moderate wasting.",
+    "Explore the impact of environmental enteric dysfunction (EED) on nutrient absorption and recovery."
+  ],
+  "key_facts": [
+    "Acute wasting results from a mismatch between intake/absorption and physiological needs, amplified by infection\u2013nutrition cycles.",
+    "Environmental enteric dysfunction (EED) causes intestinal inflammation, impaired absorption, and barrier disruption, common in low-resource settings.",
+    "WHO 2023 guidelines recommend 100\u2013130 kcal/kg/day for children aged 6\u201359 months with moderate wasting during recovery.",
+    "Relapse after discharge often indicates unresolved infection burden, food insecurity, or caregiving constraints.",
+    "Counseling should include WASH actions and prompt diarrhoea treatment to reduce gut injury."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Malnutrition",
+    "Wasting Syndrome",
+    "Environmental Enteric Dysfunction",
+    "Infection",
+    "Energy Metabolism",
+    "Micronutrients",
+    "Diarrhea",
+    "Child Nutrition Disorders"
+  ],
+  "tags_custom": [
+    "acute wasting",
+    "gut dysfunction",
+    "infection catabolism",
+    "recovery strategies",
+    "low-resource settings"
+  ],
+  "reference_quote": "Persistent poor appetite is a marker of unresolved illness or inflammation rather than 'behavior,' and should trigger morbidity screening and closer follow-up. (Source: https://www.ncbi.nlm.nih.gov/books/NBK601642/)",
+  "document_key_topics": [
+    "Infection-driven catabolism in wasting",
+    "Environmental enteric dysfunction (EED)",
+    "Energy requirements for recovery in moderate wasting",
+    "Clinical follow-up and relapse prevention strategies"
+  ],
+  "chunk_heading": "FEEDING;PATHOPHYSIOLOGY OF WASTING AND CLINICAL CORRELATES;INFECTION CATABOLISM AND GUT DYSFUNCTION IN WASTING;",
+  "topic": "FEEDING",
+  "subtopic": "PATHOPHYSIOLOGY OF WASTING AND CLINICAL CORRELATES",
+  "sub_subtopic": "INFECTION CATABOLISM AND GUT DYSFUNCTION IN WASTING",
+  "heading_path": "FEEDING;PATHOPHYSIOLOGY OF WASTING AND CLINICAL CORRELATES;INFECTION CATABOLISM AND GUT DYSFUNCTION IN WASTING;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2b1.1"
+}

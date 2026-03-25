@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section focuses on tele-follow-up and remote adherence verification for managing feeding difficulties and faltering growth, emphasizing integration with community programs and leveraging digital tools for monitoring adherence and outcomes.",
+  "learning_objectives": [
+    "Understand the role of tele-follow-up in managing feeding difficulties and faltering growth.",
+    "Learn methods for verifying adherence to nutritional and medical interventions remotely.",
+    "Explore integration of community programs like ICDS and NHM for comprehensive care.",
+    "Identify key guidelines for monitoring growth and adherence using digital tools."
+  ],
+  "key_facts": [
+    "Faltering growth is recognized and managed under NICE NG75 guidelines.",
+    "The IMNCI chart booklet provides standardized protocols for child health monitoring.",
+    "The Mother and Child Protection (MCP) card is a critical tool for tracking growth and adherence in community settings.",
+    "The ICDS scheme integrates tele-follow-up with community-based interventions for child health.",
+    "Remote adherence verification can improve compliance with feeding and nutritional guidelines."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Feeding Behavior",
+    "Growth Disorders",
+    "Telemedicine",
+    "Community Health Services",
+    "Child Nutrition Disorders",
+    "Adherence Monitoring",
+    "Integrated Child Development Services",
+    "Remote Consultation"
+  ],
+  "tags_custom": [
+    "tele-follow-up",
+    "faltering growth",
+    "community integration",
+    "remote adherence",
+    "child health programs"
+  ],
+  "reference_quote": "Faltering growth: recognition and management (NICE NG75) provides evidence-based guidelines for identifying and addressing growth concerns in children.",
+  "document_key_topics": [
+    "Tele-follow-up for feeding difficulties",
+    "Remote adherence verification methods",
+    "Integration of community health programs",
+    "Guidelines for managing faltering growth"
+  ],
+  "chunk_heading": "FEEDING DIFFICULTIES & FALTERING GROWTH;FOLLOW UP PLANNING AND COMMUNITY PROGRAM INTEGRATION;TELE-FOLLOW-UP AND REMOTE ADHERENCE VERIFICATION;",
+  "topic": "FEEDING DIFFICULTIES & FALTERING GROWTH",
+  "subtopic": "FOLLOW UP PLANNING AND COMMUNITY PROGRAM INTEGRATION",
+  "sub_subtopic": "TELE-FOLLOW-UP AND REMOTE ADHERENCE VERIFICATION",
+  "heading_path": "FEEDING DIFFICULTIES & FALTERING GROWTH;FOLLOW UP PLANNING AND COMMUNITY PROGRAM INTEGRATION;TELE-FOLLOW-UP AND REMOTE ADHERENCE VERIFICATION;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "4\u00912.2"
+}

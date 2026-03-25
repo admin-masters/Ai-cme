@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Formula selection for enteral nutrition should align with feeding failure mechanisms, considering digestion, absorption, cost, and physiologic needs. Escalate formula complexity based on malabsorption risks, allergies, or fluid restrictions while avoiding unsafe practices like dilution.",
+  "learning_objectives": [
+    "Understand the role of feeding failure mechanisms in enteral formula selection.",
+    "Identify appropriate formula types for malabsorption, allergies, or fluid restrictions.",
+    "Recognize risks of unsafe practices like formula dilution and rapid bolus feeding.",
+    "Evaluate cost-effective options to improve adherence in resource-limited settings."
+  ],
+  "key_facts": [
+    "Standard polymeric formulas are suitable for most neurologic disabilities, congenital heart disease, and oncology patients without severe mucosal disease.",
+    "Peptide-based semielemental formulas are recommended for malabsorption conditions like short bowel syndrome, pancreatic insufficiency, or severe cholestasis.",
+    "Amino acid-based elemental formulas are reserved for severe cow\u2019s milk protein allergy, FPIES, or eosinophilic esophagitis (EoE).",
+    "Energy-dense formulas (1.5 kcal/mL) are useful for fluid-restricted patients but may increase reflux and diarrhea if bolused rapidly.",
+    "Diluting commercial formulas disproportionately reduces protein and micronutrients, increasing risks like hyponatremia."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Enteral Nutrition",
+    "Parenteral Nutrition",
+    "Feeding Failure",
+    "Malabsorption Syndromes",
+    "Cow's Milk Protein Allergy",
+    "Energy-Dense Diet",
+    "Diarrhea",
+    "Constipation"
+  ],
+  "tags_custom": [
+    "formula selection",
+    "feeding intolerance",
+    "nutrition safety",
+    "cost-effective nutrition",
+    "pediatric feeding"
+  ],
+  "reference_quote": "Enteral formula choice should match the mechanism of feeding failure, because 'intolerance' is often delivery-related rather than formula-related.",
+  "document_key_topics": [
+    "Enteral formula selection based on feeding failure mechanisms",
+    "Safety considerations for blenderized tube feeds",
+    "Cost-effective nutrition strategies in resource-limited settings",
+    "Risks of formula dilution and rapid bolus feeding"
+  ],
+  "chunk_heading": "ENTERAL & PARENTERAL NUTRITION;FORMULA TYPES AND BLENDERIZED TUBE FEED SAFETY;FORMULA SELECTION BASED ON FEEDING FAILURE MECHANISM;",
+  "topic": "ENTERAL & PARENTERAL NUTRITION",
+  "subtopic": "FORMULA TYPES AND BLENDERIZED TUBE FEED SAFETY",
+  "sub_subtopic": "FORMULA SELECTION BASED ON FEEDING FAILURE MECHANISM",
+  "heading_path": "ENTERAL & PARENTERAL NUTRITION;FORMULA TYPES AND BLENDERIZED TUBE FEED SAFETY;FORMULA SELECTION BASED ON FEEDING FAILURE MECHANISM;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "2u1"
+}

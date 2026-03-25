@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "Guidelines for storing expressed milk, with stricter protocols for preterm and sick infants, including temperature and time limits for safe use in NICU and home settings.",
+  "learning_objectives": [
+    "Understand the storage temperature and time limits for expressed milk in NICU and home settings.",
+    "Learn the specific guidelines for handling thawed and fortified milk.",
+    "Recognize the importance of minimizing bacterial contamination during milk storage and feeding."
+  ],
+  "key_facts": [
+    "In NICU, fresh expressed breast milk (EBM) should be refrigerated at 2\u20134\u00b0C and used within 24 hours.",
+    "Frozen milk should be stored at \u2264-20\u00b0C and thawed milk must be used within 24 hours of thawing.",
+    "At room temperature (\u226425\u00b0C), expressed milk can be kept for a maximum of 4 hours.",
+    "For healthy term infants at home, milk can be stored for up to 4 hours at room temperature, 4 days in the refrigerator (~4\u00b0C), and 6 months in the freezer (-20\u00b0C).",
+    "Leftover milk after feeding should be discarded within 2 hours due to bacterial contamination.",
+    "Fortified milk should be used within 24 hours if refrigerated and discarded if left at room temperature for more than 4 hours."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Breast Milk",
+    "Milk Banks",
+    "Infant, Premature",
+    "Neonatal Intensive Care Units",
+    "Milk, Human",
+    "Milk Handling",
+    "Food Storage",
+    "Bacterial Infections"
+  ],
+  "tags_custom": [
+    "expressed milk storage",
+    "NICU milk guidelines",
+    "breast milk safety",
+    "milk temperature limits"
+  ],
+  "reference_quote": "In the NICU, fresh EBM should be refrigerated promptly at 2\u20134\u00b0C and is best used within 24 hours; milk not expected to be used in that window should be frozen at \u2264-20\u00b0C.",
+  "document_key_topics": [
+    "Storage guidelines for expressed milk",
+    "NICU-specific milk handling protocols",
+    "Home storage recommendations for healthy infants",
+    "Safety measures for thawed and fortified milk"
+  ],
+  "chunk_heading": "EXPRESSED MILK, DONOR MILK & MILK BANKING;STORAGE TEMPERATURES AND TIME LIMITS FOR EXPRESSED MILK;",
+  "topic": "EXPRESSED MILK, DONOR MILK & MILK BANKING",
+  "subtopic": "STORAGE TEMPERATURES AND TIME LIMITS FOR EXPRESSED MILK",
+  "sub_subtopic": null,
+  "heading_path": "EXPRESSED MILK, DONOR MILK & MILK BANKING;STORAGE TEMPERATURES AND TIME LIMITS FOR EXPRESSED MILK;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1f.1"
+}

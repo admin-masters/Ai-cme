@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Moderate acute malnutrition (MAM) involves a mismatch between intake and needs, worsened by infections, gut dysfunction, and environmental factors. Recovery requires energy supplementation (100\u2013130 kcal/kg/day) and addressing underlying causes like infections and food insecurity.",
+  "learning_objectives": [
+    "Understand the pathophysiology of moderate acute malnutrition (MAM) and its clinical implications.",
+    "Identify the role of infections, gut dysfunction, and environmental factors in MAM.",
+    "Learn WHO guidelines for energy requirements during MAM recovery.",
+    "Recognize the importance of addressing underlying causes to prevent relapse in MAM."
+  ],
+  "key_facts": [
+    "Acute wasting results from a mismatch between intake/absorption and physiological needs, exacerbated by infections and inflammation.",
+    "Environmental enteric dysfunction (EED) impairs absorption and contributes to poor recovery in low-resource settings.",
+    "Persistent poor appetite is a marker of unresolved illness or inflammation, requiring morbidity screening.",
+    "WHO 2023 guidelines recommend 100\u2013130 kcal/kg/day for children 6\u201359 months during MAM recovery.",
+    "Relapse often reflects unresolved infections, food insecurity, or caregiving constraints, requiring re-assessment and follow-up."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Malnutrition",
+    "Acute Disease",
+    "Enteropathy",
+    "Energy Intake",
+    "Infections",
+    "Child Nutrition Disorders",
+    "Environmental Exposure",
+    "Dietary Supplements"
+  ],
+  "tags_custom": [
+    "Moderate acute malnutrition",
+    "Supplementary feeding",
+    "Gut dysfunction",
+    "WHO guidelines",
+    "Relapse prevention"
+  ],
+  "reference_quote": "Persistent poor appetite is a marker of unresolved illness or inflammation rather than 'behavior,' and should trigger morbidity screening and closer follow-up.",
+  "document_key_topics": [
+    "Pathophysiology of moderate acute malnutrition (MAM)",
+    "Role of infections and gut dysfunction in wasting",
+    "WHO energy supplementation guidelines for MAM recovery",
+    "Strategies to prevent relapse in malnutrition"
+  ],
+  "chunk_heading": ";PATHOPHYSIOLOGY OF WASTING AND CLINICAL CORRELATES;MODERATE ACUTE MALNUTRITION (MAM) & SUPPLEMENTARY FEEDING;PATHOPHYSIOLOGY OF WASTING AND CLINICAL CORRELATES;INFECTION CATABOLISM AND GUT DYSFUNCTION IN WASTING;",
+  "topic": "",
+  "subtopic": "PATHOPHYSIOLOGY OF WASTING AND CLINICAL CORRELATES",
+  "sub_subtopic": "MODERATE ACUTE MALNUTRITION (MAM) & SUPPLEMENTARY FEEDING",
+  "heading_path": ";PATHOPHYSIOLOGY OF WASTING AND CLINICAL CORRELATES;MODERATE ACUTE MALNUTRITION (MAM) & SUPPLEMENTARY FEEDING;PATHOPHYSIOLOGY OF WASTING AND CLINICAL CORRELATES;INFECTION CATABOLISM AND GUT DYSFUNCTION IN WASTING;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2a1"
+}

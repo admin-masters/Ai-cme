@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "This section outlines a standardized clinic workflow for consistent growth charting and documentation in preterm/LBW/ELBW infants post-discharge, emphasizing corrected age, measurement techniques, and z-score tracking to ensure accurate growth assessment and nutrition response evaluation.",
+  "learning_objectives": [
+    "Understand the importance of using corrected age for growth charting in preterm/LBW/ELBW infants up to 24\u201336 months.",
+    "Learn the standardized workflow for documenting growth metrics, including z-scores and centile changes.",
+    "Identify proper measurement techniques for weight, length, and head circumference in clinical settings.",
+    "Recognize the role of intake estimates (e.g., mL/kg/day, kcal density) in growth assessment."
+  ],
+  "key_facts": [
+    "Use corrected age for growth charting through 24 months, extending to 36 months for extremely preterm/ELBW infants.",
+    "Consistently use one preterm growth reference until a defined transition point, such as term-equivalent age or a specific PMA.",
+    "Document z-scores for weight, length, and head circumference, noting any downward crossing (>1 z-score or two centile bands).",
+    "Measurements should include naked weight on the same scale, recumbent length on an infantometer, and head circumference using correct landmarks.",
+    "Pair growth data with intake estimates, such as mL/kg/day and kcal density for measured feeds or breastfeeding transfer observations."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Infant, Premature",
+    "Low Birth Weight Infant",
+    "Growth Charts",
+    "Nutritional Assessment",
+    "Z-Score",
+    "Anthropometry",
+    "Breastfeeding",
+    "Postnatal Care"
+  ],
+  "tags_custom": [
+    "preterm growth tracking",
+    "corrected age charting",
+    "nutrition monitoring",
+    "z-score documentation"
+  ],
+  "reference_quote": "Use corrected age for plotting and interpretation through 24 months (extend toward 36 months in extremely preterm/ELBW children when needed).",
+  "document_key_topics": [
+    "Standardized growth charting workflow",
+    "Corrected age and growth chart transitions",
+    "Accurate anthropometric measurements",
+    "Integration of intake estimates with growth data"
+  ],
+  "chunk_heading": "PRETERM/LBW/ELBW POST-DISCHARGE NUTRITION;GROWTH ASSESSMENT AND TARGET SETTING AFTER DISCHARGE;CLINIC WORKFLOW FOR CONSISTENT GROWTH CHARTING AND DOCUMENTATION;",
+  "topic": "PRETERM/LBW/ELBW POST-DISCHARGE NUTRITION",
+  "subtopic": "GROWTH ASSESSMENT AND TARGET SETTING AFTER DISCHARGE",
+  "sub_subtopic": "CLINIC WORKFLOW FOR CONSISTENT GROWTH CHARTING AND DOCUMENTATION",
+  "heading_path": "PRETERM/LBW/ELBW POST-DISCHARGE NUTRITION;GROWTH ASSESSMENT AND TARGET SETTING AFTER DISCHARGE;CLINIC WORKFLOW FOR CONSISTENT GROWTH CHARTING AND DOCUMENTATION;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1n2.1"
+}

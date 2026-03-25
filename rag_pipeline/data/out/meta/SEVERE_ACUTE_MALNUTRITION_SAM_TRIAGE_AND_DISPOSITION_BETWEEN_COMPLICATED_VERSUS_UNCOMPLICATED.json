@@ -1,0 +1,46 @@
+{
+  "chunk_summary": "This section outlines criteria for triaging children with severe acute malnutrition (SAM) into inpatient or outpatient care based on the presence of complications, danger signs, and caregiver capacity.",
+  "learning_objectives": [
+    "Differentiate between complicated and uncomplicated SAM based on clinical criteria.",
+    "Understand the role of danger signs and appetite tests in SAM triage decisions.",
+    "Recognize the importance of caregiver capacity and outpatient program reliability in treatment planning."
+  ],
+  "key_facts": [
+    "Complicated SAM includes medical complications such as hypoglycemia, hypothermia, fever \u226539\u00b0C, or severe oedema (+++).",
+    "Uncomplicated SAM requires clinical stability, no danger signs, and a passed appetite test.",
+    "Severe oedema (+++) is an automatic inpatient indication in Indian protocols unless outpatient programs explicitly monitor oedema.",
+    "Caregiver barriers, such as inability to administer feeds or unsafe hygiene, justify inpatient care.",
+    "WHO 2023 guidelines allow trained community teams to treat selected children with nutritional oedema outside hospitals."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Severe Acute Malnutrition",
+    "Nutritional Oedema",
+    "Triage",
+    "Inpatient Care",
+    "Outpatient Care",
+    "Appetite Test",
+    "Danger Signs",
+    "Caregiver Support"
+  ],
+  "tags_custom": [
+    "SAM triage",
+    "complicated vs uncomplicated SAM",
+    "oedema management",
+    "caregiver capacity"
+  ],
+  "reference_quote": "Severe oedema (+++) is an automatic inpatient indication in Indian protocols. The 2023 WHO guideline allows trained community teams to treat selected children with nutritional oedema outside hospital, but outpatient system reliability varies across India.",
+  "document_key_topics": [
+    "Complicated versus uncomplicated SAM criteria",
+    "Inpatient versus outpatient care pathways",
+    "Role of oedema and caregiver capacity in SAM management"
+  ],
+  "chunk_heading": "SEVERE ACUTE MALNUTRITION (SAM) MANAGEMENT;TRIAGE AND DISPOSITION BETWEEN INPATIENT AND CMAM PATHWAYS;COMPLICATED VERSUS UNCOMPLICATED SAM DISPOSITION CRITERIA;",
+  "topic": "SEVERE ACUTE MALNUTRITION (SAM) MANAGEMENT",
+  "subtopic": "TRIAGE AND DISPOSITION BETWEEN INPATIENT AND CMAM PATHWAYS",
+  "sub_subtopic": "COMPLICATED VERSUS UNCOMPLICATED SAM DISPOSITION CRITERIA",
+  "heading_path": "SEVERE ACUTE MALNUTRITION (SAM) MANAGEMENT;TRIAGE AND DISPOSITION BETWEEN INPATIENT AND CMAM PATHWAYS;COMPLICATED VERSUS UNCOMPLICATED SAM DISPOSITION CRITERIA;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1f1"
+}

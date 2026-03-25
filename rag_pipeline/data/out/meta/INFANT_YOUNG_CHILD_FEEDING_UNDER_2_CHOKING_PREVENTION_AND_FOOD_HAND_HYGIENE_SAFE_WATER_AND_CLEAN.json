@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "Focuses on infection prevention in feeding under-twos through hand hygiene, safe water, clean feeding practices, and food storage to reduce contamination and growth faltering risks.",
+  "learning_objectives": [
+    "Understand the importance of handwashing with soap and safe water in infant feeding routines.",
+    "Learn safe water practices, including boiling and proper storage, to prevent recontamination.",
+    "Identify hygienic feeding equipment and food preparation methods to minimize bacterial risks.",
+    "Recognize signs of recurrent infection and integrate hygiene into clinical follow-up for growth monitoring."
+  ],
+  "key_facts": [
+    "Handwashing with soap and safe water is essential before food preparation, feeding, and after diaper changes.",
+    "Boil water for drinking and food preparation in households with uncertain water safety; store in clean, covered containers with narrow openings.",
+    "Cooked foods left at room temperature in hot climates should be refrigerated within 2 hours or reheated until steaming hot before the next feed.",
+    "Avoid routine bottle use in low-sanitation settings due to cleaning challenges; emphasize immediate washing and drying if bottles are used.",
+    "Recurrent diarrhea, oral thrush, or poor appetite may indicate hygiene issues affecting growth and require clinical review."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Infant Nutrition",
+    "Hand Hygiene",
+    "Water Sanitation",
+    "Food Safety",
+    "Diarrhea Prevention",
+    "Growth Monitoring",
+    "Complementary Feeding",
+    "Infection Control"
+  ],
+  "tags_custom": [
+    "feeding hygiene",
+    "infection prevention",
+    "safe water practices",
+    "growth faltering risks"
+  ],
+  "reference_quote": "Teach handwashing with soap and safe water before preparing food, before feeding, and after diaper changes; as self-feeding begins, wash the child\u2019s hands as well. (WHO guideline complementary feeding)",
+  "document_key_topics": [
+    "Hand hygiene in infant feeding",
+    "Safe water practices for under-twos",
+    "Clean feeding equipment and food storage",
+    "Clinical follow-up for recurrent infections"
+  ],
+  "chunk_heading": "INFANT & YOUNG CHILD FEEDING UNDER 2 YEARS;CHOKING PREVENTION AND FOOD  HYGIENE FOR UNDER-TWOS;HAND HYGIENE SAFE WATER AND CLEAN FEEDING  PRACTICES;",
+  "topic": "INFANT & YOUNG CHILD FEEDING UNDER 2 YEARS",
+  "subtopic": "CHOKING PREVENTION AND FOOD  HYGIENE FOR UNDER-TWOS",
+  "sub_subtopic": "HAND HYGIENE SAFE WATER AND CLEAN FEEDING  PRACTICES",
+  "heading_path": "INFANT & YOUNG CHILD FEEDING UNDER 2 YEARS;CHOKING PREVENTION AND FOOD  HYGIENE FOR UNDER-TWOS;HAND HYGIENE SAFE WATER AND CLEAN FEEDING  PRACTICES;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "3|2"
+}

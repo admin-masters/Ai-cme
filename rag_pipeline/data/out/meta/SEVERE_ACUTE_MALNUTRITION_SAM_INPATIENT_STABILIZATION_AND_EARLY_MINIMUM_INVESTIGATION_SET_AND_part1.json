@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "This section outlines triggers for reassessment in inpatient SAM management when lab resources are unavailable, emphasizing hidden infections and critical patterns like hypoglycemia, hypothermia, and poor weight gain during stabilization and monitoring phases.",
+  "learning_objectives": [
+    "Identify clinical patterns requiring reassessment in SAM patients during inpatient care.",
+    "Understand resource-adapted guidelines for managing hidden infections in SAM without laboratory support.",
+    "Learn the importance of monitoring weight gain and oedema reduction during catch-up feeding.",
+    "Apply WHO and national guidelines for SAM inpatient stabilization and monitoring."
+  ],
+  "key_facts": [
+    "Recurrent hypoglycemia or hypothermia are mandatory triggers for reassessment in SAM patients.",
+    "Persistent anorexia beyond expected timepoints requires full re-examination and referral.",
+    "Oedema not reducing or weight gain <5 g/kg/day after catch-up feeding initiation are critical indicators for intervention.",
+    "WHO guidelines emphasize reassessment over continuing feeds in cases of poor clinical progress.",
+    "National Health Mission guidelines provide operational protocols for facility-based SAM care."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Malnutrition",
+    "Severe Acute Malnutrition",
+    "Hypoglycemia",
+    "Hypothermia",
+    "Nutritional Edema",
+    "Weight Gain",
+    "Infections",
+    "Pediatric Nutrition"
+  ],
+  "tags_custom": [
+    "SAM inpatient care",
+    "hidden infection triggers",
+    "catch-up feeding",
+    "clinical reassessment",
+    "resource-limited settings"
+  ],
+  "reference_quote": "If labs are unavailable, treat patterns such as recurrent hypoglycemia or hypothermia, persistent anorexia, oedema not reducing, or weight gain <5 g/kg/day as mandatory triggers for full re-examination and referral rather than simply 'continuing feeds.'",
+  "document_key_topics": [
+    "Hidden infection reassessment in SAM patients",
+    "Resource-adapted inpatient care guidelines",
+    "Monitoring weight gain and oedema reduction"
+  ],
+  "chunk_heading": "SEVERE ACUTE MALNUTRITION (SAM) MANAGEMENT;INPATIENT STABILIZATION AND EARLY MONITORING;MINIMUM INVESTIGATION SET AND HIDDEN INFECTION REASSESSMENT TRIGGERS;",
+  "topic": "SEVERE ACUTE MALNUTRITION (SAM) MANAGEMENT",
+  "subtopic": "INPATIENT STABILIZATION AND EARLY MONITORING",
+  "sub_subtopic": "MINIMUM INVESTIGATION SET AND HIDDEN INFECTION REASSESSMENT TRIGGERS",
+  "heading_path": "SEVERE ACUTE MALNUTRITION (SAM) MANAGEMENT;INPATIENT STABILIZATION AND EARLY MONITORING;MINIMUM INVESTIGATION SET AND HIDDEN INFECTION REASSESSMENT TRIGGERS;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1k2.2"
+}

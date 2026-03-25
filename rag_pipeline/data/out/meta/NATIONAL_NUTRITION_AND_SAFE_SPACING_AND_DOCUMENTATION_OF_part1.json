@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "This section discusses the documentation and scheduling of national prophylaxis doses in clinics under India's nutrition and fortification programs, including Vitamin A supplementation (VAS), iron-folic acid (IFA) prophylaxis, and deworming initiatives.",
+  "learning_objectives": [
+    "Understand the importance of documenting prophylaxis doses in clinical settings.",
+    "Learn the guidelines for safe spacing of Vitamin A, IFA, and deworming doses.",
+    "Familiarize with operational guidelines from national programs like Anaemia Mukt Bharat and National Deworming Day.",
+    "Recognize the role of clinic documentation in improving compliance with national nutrition programs."
+  ],
+  "key_facts": [
+    "Vitamin A supplementation (VAS) doses must be documented with the last dose and next due date.",
+    "Iron-folic acid (IFA) prophylaxis is a key component of the Anaemia Mukt Bharat initiative.",
+    "Deworming schedules are guided by the National Deworming Day operational guidelines (2015).",
+    "Clinic documentation includes therapeutic supplements prescribed and deworming last date.",
+    "The National Immunization Schedule provides a framework for prophylaxis dose timing."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Vitamin A",
+    "Iron-Folic Acid",
+    "Deworming",
+    "Prophylaxis",
+    "Nutrition Programs",
+    "Public Health",
+    "India",
+    "Documentation"
+  ],
+  "tags_custom": [
+    "National Nutrition Programs",
+    "Prophylaxis Doses",
+    "Clinic Documentation",
+    "Safe Spacing"
+  ],
+  "reference_quote": "Clinic documentation line: 'VAS last dose __; next due __; IFA prophylaxis yes/no; deworming last date __; therapeutic supplements prescribed yes/no.'",
+  "document_key_topics": [
+    "Vitamin A supplementation (VAS)",
+    "Iron-folic acid (IFA) prophylaxis",
+    "Deworming schedules and guidelines",
+    "Clinic documentation practices"
+  ],
+  "chunk_heading": "NATIONAL NUTRITION AND FORTIFICATION PROGRAMS IN INDIA;SAFE SPACING AND DOCUMENTATION OF NATIONAL PROPHYLAXIS DOSES IN CLINIC;",
+  "topic": "NATIONAL NUTRITION AND FORTIFICATION PROGRAMS IN INDIA",
+  "subtopic": "SAFE SPACING AND DOCUMENTATION OF NATIONAL PROPHYLAXIS DOSES IN CLINIC",
+  "sub_subtopic": null,
+  "heading_path": "NATIONAL NUTRITION AND FORTIFICATION PROGRAMS IN INDIA;SAFE SPACING AND DOCUMENTATION OF NATIONAL PROPHYLAXIS DOSES IN CLINIC;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "2m.2"
+}

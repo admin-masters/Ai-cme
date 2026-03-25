@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Dialysis-specific nutrition in pediatric CKD requires tailored plans for PD and HD, addressing energy, protein, and micronutrient needs while managing treatment-day challenges and growth outcomes.",
+  "learning_objectives": [
+    "Understand the impact of dialysis modalities (PD and HD) on energy and protein requirements in pediatric CKD.",
+    "Develop dialysis-specific nutrition plans to support growth and prevent malnutrition in children.",
+    "Identify strategies to manage energy intake, protein losses, and intradialytic symptoms in PD and HD.",
+    "Recognize the role of IDPN in malnourished children on maintenance HD."
+  ],
+  "key_facts": [
+    "In PD, glucose absorbed from dialysate contributes unprescribed calories, potentially leading to excess fat gain with poor linear growth.",
+    "PD causes consistent protein losses, often greater in younger children, requiring adjustments toward the upper protein range during high losses or peritonitis.",
+    "In HD, intradialytic symptoms like nausea and hypotension suppress intake; a pre-dialysis small meal and post-dialysis snack are recommended.",
+    "Monitor height velocity and MUAC/TSF to assess energy delivery; reduce energy cautiously if weight gain accelerates without height response.",
+    "IDPN is reserved for malnourished children on maintenance HD who cannot meet needs orally or via tube feeding."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Chronic Kidney Disease",
+    "Pediatric Nutrition",
+    "Peritoneal Dialysis",
+    "Hemodialysis",
+    "Protein-Energy Malnutrition",
+    "Dietary Proteins",
+    "Energy Intake",
+    "Intradialytic Parenteral Nutrition"
+  ],
+  "tags_custom": [
+    "dialysis nutrition",
+    "pediatric CKD",
+    "growth monitoring",
+    "protein losses",
+    "energy management"
+  ],
+  "reference_quote": "The dietary management of energy and protein in children with CKD stages 2\u20135 and on dialysis\u2014clinical practice recommendations from the Pediatric Renal Nutrition Taskforce.",
+  "document_key_topics": [
+    "Dialysis-specific nutrition differences in PD and HD",
+    "Energy and protein needs in pediatric CKD",
+    "Growth monitoring and malnutrition prevention in dialysis",
+    "Role of IDPN in pediatric HD patients"
+  ],
+  "chunk_heading": "NUTRITION IN CHRONIC KIDNEY & LIVER DISEASE;PROTEIN-ENERGY NEEDS IN PEDIATRIC CHRONIC KIDNEY DISEASE;DIALYSIS-SPECIFIC NUTRITION DIFFERENCES IN PD AND HD;",
+  "topic": "NUTRITION IN CHRONIC KIDNEY & LIVER DISEASE",
+  "subtopic": "PROTEIN-ENERGY NEEDS IN PEDIATRIC CHRONIC KIDNEY DISEASE",
+  "sub_subtopic": "DIALYSIS-SPECIFIC NUTRITION DIFFERENCES IN PD AND HD",
+  "heading_path": "NUTRITION IN CHRONIC KIDNEY & LIVER DISEASE;PROTEIN-ENERGY NEEDS IN PEDIATRIC CHRONIC KIDNEY DISEASE;DIALYSIS-SPECIFIC NUTRITION DIFFERENCES IN PD AND HD;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "2q6"
+}

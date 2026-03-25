@@ -1,0 +1,47 @@
+{
+  "chunk_summary": "Guidelines for discharge decisions in outpatient CMAM programs in India when MUAC and WHZ criteria disagree, emphasizing admission criteria, edema-free stability, and functional recovery to ensure safe outcomes.",
+  "learning_objectives": [
+    "Understand the role of MUAC and WHZ in identifying high-risk SAM cases and their discordance during recovery.",
+    "Learn the criteria for safe discharge in CMAM programs, including MUAC \u2265125 mm and edema-free stability.",
+    "Recognize the importance of functional recovery and caregiver competence in discharge decisions.",
+    "Identify potential causes of discordant recovery, such as chronic infection or malabsorption."
+  ],
+  "key_facts": [
+    "MUAC <115 mm, WHZ/WLZ <-3, or nutritional edema are key admission criteria for CMAM programs.",
+    "Safe discharge requires MUAC \u2265125 mm and no bilateral pitting edema for at least two consecutive visits, or WHZ/WLZ \u2265-2 and no edema for two consecutive visits.",
+    "Do not discharge if only one indicator normalizes; residual muscle wasting (e.g., MUAC <125 mm) carries significant mortality risk.",
+    "Functional recovery includes sustained appetite, activity, and caregiver competence in safe feeding practices.",
+    "In India, documenting both MUAC and weight-for-height during clinic visits reduces the risk of premature discharge."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Severe Acute Malnutrition",
+    "Community-Based Management of Acute Malnutrition",
+    "Mid-Upper Arm Circumference",
+    "Weight-for-Height Z-Score",
+    "Nutritional Edema",
+    "Anthropometry",
+    "Child Nutrition Disorders",
+    "India"
+  ],
+  "tags_custom": [
+    "SAM discharge criteria",
+    "CMAM implementation India",
+    "MUAC vs WHZ discordance",
+    "Functional recovery in malnutrition"
+  ],
+  "reference_quote": "A safe WHO recovery standard is: MUAC \u2265125 mm and no bilateral pitting edema for at least two consecutive visits, or WHZ/WLZ \u2265-2 and no edema for at least two consecutive visits, depending on the program pathway.",
+  "document_key_topics": [
+    "Discharge criteria for SAM management",
+    "MUAC and WHZ discordance in recovery",
+    "Functional recovery and caregiver competence"
+  ],
+  "chunk_heading": "SEVERE ACUTE MALNUTRITION-(SAM) MANAGEMENT;OUTPATIENT CMAM IMPLEMENTATION IN INDIA;DISCHARGE DECISIONS WHEN MUAC AND WHZ DISAGREE;",
+  "topic": "SEVERE ACUTE MALNUTRITION-(SAM) MANAGEMENT",
+  "subtopic": "OUTPATIENT CMAM IMPLEMENTATION IN INDIA",
+  "sub_subtopic": "DISCHARGE DECISIONS WHEN MUAC AND WHZ DISAGREE",
+  "heading_path": "SEVERE ACUTE MALNUTRITION-(SAM) MANAGEMENT;OUTPATIENT CMAM IMPLEMENTATION IN INDIA;DISCHARGE DECISIONS WHEN MUAC AND WHZ DISAGREE;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "3\u008b4"
+}

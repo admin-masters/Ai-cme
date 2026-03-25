@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "Therapeutic zinc is essential in acute diarrhea management, reducing duration, severity, and recurrence. Age-based dosing and adherence to a 10\u201314 day course are critical, alongside ORS and continued feeding. Counseling families on adherence and proper administration is key to success.",
+  "learning_objectives": [
+    "Understand the role of therapeutic zinc in managing acute diarrhea, including its benefits in reducing duration, severity, and recurrence.",
+    "Learn age-based zinc dosing guidelines: 10 mg/day for infants under 6 months and 20 mg/day for children 6 months and older.",
+    "Recognize the importance of adherence to the full 10\u201314 day zinc course and strategies to counsel families effectively.",
+    "Identify when to reassess for persistent diarrhea etiologies if symptoms persist beyond 14 days."
+  ],
+  "key_facts": [
+    "Therapeutic zinc reduces diarrhea duration, severity, and recurrence risk.",
+    "Recommended zinc dose: 10 mg/day for infants <6 months, 20 mg/day for children \u22656 months, for 10\u201314 days.",
+    "Zinc should be given alongside ORS and continued feeding; antibiotics are rarely needed.",
+    "Adherence failures often occur when zinc is stopped early (e.g., after stools improve on day 2\u20133).",
+    "Families should be counseled to complete the full course and provided with enough tablets or syrup.",
+    "If diarrhea persists beyond 14 days, reassess for persistent diarrhea causes like malabsorption or infections."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Zinc",
+    "Diarrhea",
+    "Oral Rehydration Solutions",
+    "Micronutrients",
+    "Pediatrics",
+    "Therapeutics",
+    "Adherence",
+    "Acute Disease"
+  ],
+  "tags_custom": [
+    "Zinc supplementation",
+    "Acute diarrhea management",
+    "Pediatric nutrition",
+    "Adherence counseling",
+    "ORS integration"
+  ],
+  "reference_quote": "Therapeutic zinc is a standard component of acute diarrhea management because it reduces duration and severity and lowers the risk of subsequent episodes. (World Health Organization, Zinc supplementation in the management of diarrhoea)",
+  "document_key_topics": [
+    "Therapeutic zinc in acute diarrhea",
+    "Age-based zinc dosing guidelines",
+    "Adherence to zinc therapy",
+    "ORS and zinc integration in diarrhea management"
+  ],
+  "chunk_heading": "MICRONUTRIENT NUTRITION;ZINC DEFICIENCY AND THERAPEUTIC ZINC DECISIONS;ZINC DOSING AND ADHERENCE IN ACUTE DIARRHEA;",
+  "topic": "MICRONUTRIENT NUTRITION",
+  "subtopic": "ZINC DEFICIENCY AND THERAPEUTIC ZINC DECISIONS",
+  "sub_subtopic": "ZINC DOSING AND ADHERENCE IN ACUTE DIARRHEA",
+  "heading_path": "MICRONUTRIENT NUTRITION;ZINC DEFICIENCY AND THERAPEUTIC ZINC DECISIONS;ZINC DOSING AND ADHERENCE IN ACUTE DIARRHEA;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1\u008b1"
+}

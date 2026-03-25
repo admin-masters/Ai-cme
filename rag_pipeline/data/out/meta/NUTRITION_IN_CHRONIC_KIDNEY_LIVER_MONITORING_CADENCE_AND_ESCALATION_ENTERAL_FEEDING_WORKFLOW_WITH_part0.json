@@ -1,0 +1,46 @@
+{
+  "chunk_summary": "This section outlines an enteral feeding workflow for pediatric CKD and CLD, focusing on formula densification, intolerance troubleshooting, and escalation to tube feeding when intake fails to meet prescribed nutritional targets.",
+  "learning_objectives": [
+    "Understand the importance of monitoring caloric and protein intake in pediatric CKD and CLD patients.",
+    "Learn stepwise methods for formula densification to address fluid restrictions and feeding fatigue.",
+    "Identify criteria for transitioning from NG to gastrostomy feeding based on intake failure and disease progression."
+  ],
+  "key_facts": [
+    "Intake <80% of prescribed kcal/day and protein/day for 10\u201314 days is a nutrition emergency.",
+    "Densify formulas incrementally: 0.67 to 0.8 kcal/mL, then 0.8 to 1.0 kcal/mL, and up to 1.2 kcal/mL for severe fluid restrictions.",
+    "Monitor stool and vomiting within 3\u20137 days after densification to prevent intolerance.",
+    "NG feeding is preferred for short-term support (weeks to months), while gastrostomy is recommended for long-term needs (>2\u20133 months).",
+    "Recurrent admissions or oral aversion are indications for early gastrostomy referral."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Chronic Kidney Disease",
+    "Liver Diseases",
+    "Enteral Nutrition",
+    "Tube Feeding",
+    "Dietary Proteins",
+    "Caloric Restriction",
+    "Gastrostomy",
+    "Pediatrics"
+  ],
+  "tags_custom": [
+    "formula densification",
+    "feeding intolerance",
+    "nutrition emergency",
+    "pediatric CKD/CLD"
+  ],
+  "reference_quote": "If intake is <80% of prescription for more than 10\u201314 days despite symptom control, treat this as a nutrition emergency: densify now and start tube-feeding planning with a defined reassessment date.",
+  "document_key_topics": [
+    "Enteral feeding in CKD and CLD",
+    "Formula densification strategies",
+    "Criteria for NG versus gastrostomy feeding"
+  ],
+  "chunk_heading": "NUTRITION IN CHRONIC KIDNEY & LIVER DISEASE;MONITORING CADENCE AND ESCALATION THRESHOLDS FOR INTERVENTION;ENTERAL FEEDING WORKFLOW WITH FORMULA DENSIFICATION AND INTOLERANCE TROUBLESHOOTING;",
+  "topic": "NUTRITION IN CHRONIC KIDNEY & LIVER DISEASE",
+  "subtopic": "MONITORING CADENCE AND ESCALATION THRESHOLDS FOR INTERVENTION",
+  "sub_subtopic": "ENTERAL FEEDING WORKFLOW WITH FORMULA DENSIFICATION AND INTOLERANCE TROUBLESHOOTING",
+  "heading_path": "NUTRITION IN CHRONIC KIDNEY & LIVER DISEASE;MONITORING CADENCE AND ESCALATION THRESHOLDS FOR INTERVENTION;ENTERAL FEEDING WORKFLOW WITH FORMULA DENSIFICATION AND INTOLERANCE TROUBLESHOOTING;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2j4.1"
+}

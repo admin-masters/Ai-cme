@@ -1,0 +1,47 @@
+{
+  "chunk_summary": "This section outlines minimum cybersecurity baseline controls for pediatric tele-nutrition platforms in India, emphasizing data security, device hygiene, operational resilience, and vendor assurance to protect sensitive child health data.",
+  "learning_objectives": [
+    "Understand the importance of cybersecurity in pediatric tele-nutrition platforms.",
+    "Identify key baseline controls for data security, device hygiene, and operational resilience.",
+    "Learn how to implement vendor assurance and staff training to mitigate cybersecurity risks."
+  ],
+  "key_facts": [
+    "Tele-nutrition platforms handle high-risk child data, including growth metrics, photos, and lab reports.",
+    "Minimum controls include multi-factor authentication, role-based access, and encryption (TLS) for data in transit and at rest.",
+    "Device hygiene requires screen locks, encrypted devices, and rapid account deactivation for lost phones.",
+    "Operational resilience includes maintaining backups, downtime workflows, and periodic restoration tests.",
+    "Vendor assurance mandates documented security controls, breach notification clauses, and data export capabilities.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Telemedicine",
+    "Pediatrics",
+    "Cybersecurity",
+    "Data Security",
+    "Health Information Management",
+    "Encryption",
+    "Risk Management"
+  ],
+  "tags_custom": [
+    "Tele-nutrition",
+    "Pediatric data protection",
+    "Cybersecurity controls",
+    "BYOD policy",
+    "Vendor assurance"
+  ],
+  "reference_quote": "\u2018Identity and access: unique user accounts, strong passwords with multi-factor authentication where feasible, and role-based access (coordinator versus dietitian versus RMP).\u2019",
+  "document_key_topics": [
+    "Cybersecurity in pediatric tele-nutrition",
+    "Data security and encryption standards",
+    "Operational resilience and vendor assurance"
+  ],
+  "chunk_heading": "DIGITAL TOOLS & TELE-NUTRITION;ETHICS, COMMUNICATION CHANNELS, AND EQUITY IN INDIAN TELE-NUTRITION;MINIMUM CYBERSECURITY BASELINE CONTROLS FOR PEDIATRIC TELE-NUTRITION PLATFORMS;",
+  "topic": "DIGITAL TOOLS & TELE-NUTRITION",
+  "subtopic": "ETHICS, COMMUNICATION CHANNELS, AND EQUITY IN INDIAN TELE-NUTRITION",
+  "sub_subtopic": "MINIMUM CYBERSECURITY BASELINE CONTROLS FOR PEDIATRIC TELE-NUTRITION PLATFORMS",
+  "heading_path": "DIGITAL TOOLS & TELE-NUTRITION;ETHICS, COMMUNICATION CHANNELS, AND EQUITY IN INDIAN TELE-NUTRITION;MINIMUM CYBERSECURITY BASELINE CONTROLS FOR PEDIATRIC TELE-NUTRITION PLATFORMS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u009d4"
+}

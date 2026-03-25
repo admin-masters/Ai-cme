@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "Catheter occlusion and thrombosis in parenteral nutrition require systematic evaluation, early escalation, and multidisciplinary management to prevent complications like hypoglycemia and loss of venous access.",
+  "learning_objectives": [
+    "Identify mechanical, intraluminal, and extraluminal causes of catheter occlusion.",
+    "Understand the role of thrombolytic dwell therapy and declogging protocols in occlusion management.",
+    "Recognize symptoms of catheter-associated thrombosis and appropriate diagnostic imaging techniques.",
+    "Outline prevention strategies for catheter occlusion and thrombosis in parenteral nutrition."
+  ],
+  "key_facts": [
+    "Catheter occlusion can lead to hypoglycemia, underfeeding, and loss of venous access.",
+    "Systematic evaluation includes checking for mechanical causes, intraluminal obstruction, and extraluminal thrombosis.",
+    "Thrombolytic dwell therapy is commonly used for thrombotic occlusion, with protocols tailored to institutions.",
+    "Catheter-associated thrombosis symptoms include limb/neck swelling, pain, erythema, and respiratory symptoms.",
+    "Diagnosis of thrombosis is typically performed via ultrasound, with further imaging based on symptoms.",
+    "Prevention includes using the smallest appropriate catheter, minimizing lumens, and maintaining strict aseptic technique.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Parenteral Nutrition",
+    "Catheter-Related Infections",
+    "Thrombosis",
+    "Catheter Occlusion",
+    "Thrombolytic Therapy",
+    "Ultrasonography",
+    "Anticoagulants",
+    "Central Venous Catheters"
+  ],
+  "tags_custom": [
+    "catheter management",
+    "parenteral nutrition complications",
+    "thrombosis prevention",
+    "vascular access care"
+  ],
+  "reference_quote": "Never forcefully flush an occluded catheter, because high pressure can rupture the line or dislodge clot.",
+  "document_key_topics": [
+    "Catheter occlusion causes and management",
+    "Recognition and diagnosis of catheter-associated thrombosis",
+    "Thrombolytic therapy and declogging protocols",
+    "Prevention strategies for catheter-related complications"
+  ],
+  "chunk_heading": "ENTERAL & PARENTERAL NUTRITION;MONITORING THRESHOLDS AND COMPLICATION RESPONSE PATHWAYS;CATHETER OCCLUSION AND THROMBOSIS RECOGNITION AND INITIAL MANAGEMENT;",
+  "topic": "ENTERAL & PARENTERAL NUTRITION",
+  "subtopic": "MONITORING THRESHOLDS AND COMPLICATION RESPONSE PATHWAYS",
+  "sub_subtopic": "CATHETER OCCLUSION AND THROMBOSIS RECOGNITION AND INITIAL MANAGEMENT",
+  "heading_path": "ENTERAL & PARENTERAL NUTRITION;MONITORING THRESHOLDS AND COMPLICATION RESPONSE PATHWAYS;CATHETER OCCLUSION AND THROMBOSIS RECOGNITION AND INITIAL MANAGEMENT;",
+  "reference_count": 2,
+  "has_guidelines": false,
+  "sequence": "2\u00926.1"
+}

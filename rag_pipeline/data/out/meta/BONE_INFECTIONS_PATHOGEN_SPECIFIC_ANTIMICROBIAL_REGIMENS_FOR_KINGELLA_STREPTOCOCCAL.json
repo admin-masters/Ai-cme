@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "Guidelines for managing Kingella, Streptococcal, and Haemophilus infections in children aged 6-48 months, emphasizing third-generation cephalosporins and oral step-down therapy while considering age, clinical patterns, and MRSA prevalence.",
+  "learning_objectives": [
+    "Understand the clinical presentation and diagnostic challenges of Kingella kingae infections in children.",
+    "Identify appropriate antimicrobial regimens for Kingella, Streptococcal, and Haemophilus infections, including step-down therapy options.",
+    "Recognize the importance of age and clinical patterns in guiding treatment when culture results are negative.",
+    "Incorporate antimicrobial stewardship principles to avoid premature narrowing of therapy."
+  ],
+  "key_facts": [
+    "Children aged 6-48 months often require coverage for Kingella kingae, pneumococcus, and Haemophilus influenzae in addition to Staphylococcus aureus.",
+    "Kingella infections may present with modest fever, low inflammatory markers, and culture-negative joint fluid.",
+    "Third-generation cephalosporins like ceftriaxone or cefotaxime are preferred intravenous agents.",
+    "Oral step-down therapy options include co-amoxiclav, cefuroxime axetil, or other beta-lactams once the child is afebrile and improving.",
+    "In partially immunized or unimmunized children, the same regimen covers invasive respiratory pathogens.",
+    "In Indian practice, underdetection of Kingella is more likely than true absence, necessitating clinical vigilance."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Bone Infections",
+    "Kingella kingae",
+    "Haemophilus Infections",
+    "Streptococcal Infections",
+    "Cephalosporins",
+    "Antimicrobial Stewardship",
+    "Pediatric Osteoarticular Infections",
+    "Methicillin-Resistant Staphylococcus aureus (MRSA)"
+  ],
+  "tags_custom": [
+    "Kingella management",
+    "Pediatric bone infections",
+    "Antibiotic regimens",
+    "Culture-negative infections",
+    "Indian clinical practice"
+  ],
+  "reference_quote": "Kingella deserves special attention because it commonly presents with modest fever, low or only mildly elevated inflammatory markers, and culture-negative joint fluid if routine media alone are used.",
+  "document_key_topics": [
+    "Kingella kingae infections in children",
+    "Antimicrobial regimens for pediatric bone infections",
+    "Clinical patterns and diagnostic challenges in culture-negative cases",
+    "Role of cephalosporins and oral step-down therapy"
+  ],
+  "chunk_heading": "BONE INFECTIONS;PATHOGEN SPECIFIC ANTIMICROBIAL REGIMENS;REGIMENS FOR KINGELLA STREPTOCOCCAL AND HAEMOPHILUS INFECTIONS;",
+  "topic": "BONE INFECTIONS",
+  "subtopic": "PATHOGEN SPECIFIC ANTIMICROBIAL REGIMENS",
+  "sub_subtopic": "REGIMENS FOR KINGELLA STREPTOCOCCAL AND HAEMOPHILUS INFECTIONS",
+  "heading_path": "BONE INFECTIONS;PATHOGEN SPECIFIC ANTIMICROBIAL REGIMENS;REGIMENS FOR KINGELLA STREPTOCOCCAL AND HAEMOPHILUS INFECTIONS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u007f3"
+}

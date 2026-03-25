@@ -1,0 +1,46 @@
+{
+  "chunk_summary": "Guidelines for managing shock and dehydration in SAM emphasize cautious fluid use, avoiding IV fluids unless in shock, and using oral/NG rehydration for dehydration without shock.",
+  "learning_objectives": [
+    "Understand the criteria for diagnosing shock in children with SAM.",
+    "Learn the appropriate fluid regimens for shock and dehydration in SAM.",
+    "Recognize the risks of overhydration and the importance of monitoring during fluid therapy."
+  ],
+  "key_facts": [
+    "Shock in SAM is defined as lethargy or unconsciousness plus cold hands and either delayed capillary refill (>3 seconds) or a weak, fast pulse.",
+    "For shock, administer 15 mL/kg of isotonic-with-glucose fluid over 1 hour with intensive monitoring.",
+    "Stop fluid infusion if respiratory rate increases by 5/min or pulse rises by 15/min.",
+    "For dehydration without shock, rehydrate orally or via NG tube with 5 mL/kg every 30 minutes for 2 hours, then 5\u201310 mL/kg/hour for up to 10 hours.",
+    "Use ReSoMal or diluted low-osmolarity ORS for dehydration, but standard ORS for suspected cholera or profuse watery diarrhea."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Severe Acute Malnutrition",
+    "Dehydration",
+    "Shock",
+    "Fluid Therapy",
+    "Rehydration Solutions",
+    "Capillary Refill Time",
+    "Sepsis",
+    "Hypoglycemia"
+  ],
+  "tags_custom": [
+    "SAM fluid management",
+    "shock criteria",
+    "oral rehydration",
+    "pediatric malnutrition"
+  ],
+  "reference_quote": "Indian facility algorithms define shock in a SAM child as lethargy or unconsciousness plus cold hands and either delayed capillary refill (>3 seconds) or a weak, fast pulse.",
+  "document_key_topics": [
+    "Shock management in SAM",
+    "Dehydration rehydration protocols",
+    "Fluid therapy monitoring"
+  ],
+  "chunk_heading": "SEVERE ACUTE MALNUTRITION (SAM) MANAGEMENT;FLUID AND BLOOD MANAGEMENT IN SAM;SHOCK AND DEHYDRATION REHYDRATION DECISION ALGORITHMS;",
+  "topic": "SEVERE ACUTE MALNUTRITION (SAM) MANAGEMENT",
+  "subtopic": "FLUID AND BLOOD MANAGEMENT IN SAM",
+  "sub_subtopic": "SHOCK AND DEHYDRATION REHYDRATION DECISION ALGORITHMS",
+  "heading_path": "SEVERE ACUTE MALNUTRITION (SAM) MANAGEMENT;FLUID AND BLOOD MANAGEMENT IN SAM;SHOCK AND DEHYDRATION REHYDRATION DECISION ALGORITHMS;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1n1.1"
+}

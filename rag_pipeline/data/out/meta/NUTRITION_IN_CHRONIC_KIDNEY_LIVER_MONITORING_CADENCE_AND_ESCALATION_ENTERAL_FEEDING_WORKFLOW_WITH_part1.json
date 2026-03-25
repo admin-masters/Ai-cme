@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section focuses on enteral feeding workflows for children with chronic kidney and liver disease, emphasizing formula densification strategies and troubleshooting intolerance, alongside monitoring and intervention thresholds.",
+  "learning_objectives": [
+    "Understand the role of formula densification in managing nutritional needs for children with chronic kidney and liver disease.",
+    "Identify signs of enteral feeding intolerance and appropriate troubleshooting methods.",
+    "Learn monitoring cadence and escalation thresholds for nutritional interventions in chronic disease management.",
+    "Explore evidence-based guidelines for protein and energy management in pediatric CKD and liver disease."
+  ],
+  "key_facts": [
+    "Children with CKD stages 2\u20135 require tailored energy and protein intake to prevent protein-energy wasting (PEW).",
+    "Formula densification is often necessary to meet caloric and protein needs without exceeding fluid restrictions in CKD and liver disease.",
+    "Monitoring for intolerance symptoms such as vomiting, diarrhea, or abdominal distension is critical during enteral feeding.",
+    "The Pediatric Renal Nutrition Taskforce recommends specific protein intake guidelines based on CKD stage and dialysis status.",
+    "Joint NASPGHAN and ESPGHAN guidelines emphasize early nutritional intervention to prevent growth failure in chronic liver disease."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Chronic Kidney Disease",
+    "Liver Diseases",
+    "Enteral Nutrition",
+    "Protein-Energy Malnutrition",
+    "Dietary Proteins",
+    "Energy Intake",
+    "Pediatrics",
+    "Clinical Guidelines"
+  ],
+  "tags_custom": [
+    "formula densification",
+    "feeding intolerance",
+    "pediatric nutrition",
+    "CKD management",
+    "liver disease intervention"
+  ],
+  "reference_quote": "The Pediatric Renal Nutrition Taskforce recommends energy intake of 100\u2013120% of the estimated average requirement for children with CKD stages 2\u20135 and on dialysis. (Source: https://pmc.ncbi.nlm.nih.gov/articles/PMC6968982/)",
+  "document_key_topics": [
+    "Enteral feeding intolerance troubleshooting",
+    "Formula densification in chronic disease",
+    "Monitoring and intervention thresholds in CKD and liver disease",
+    "Pediatric nutritional guidelines for CKD and liver disease"
+  ],
+  "chunk_heading": "NUTRITION IN CHRONIC KIDNEY & LIVER DISEASE;MONITORING CADENCE AND ESCALATION THRESHOLDS FOR INTERVENTION;ENTERAL FEEDING WORKFLOW WITH FORMULA DENSIFICATION AND INTOLERANCE TROUBLESHOOTING;",
+  "topic": "NUTRITION IN CHRONIC KIDNEY & LIVER DISEASE",
+  "subtopic": "MONITORING CADENCE AND ESCALATION THRESHOLDS FOR INTERVENTION",
+  "sub_subtopic": "ENTERAL FEEDING WORKFLOW WITH FORMULA DENSIFICATION AND INTOLERANCE TROUBLESHOOTING",
+  "heading_path": "NUTRITION IN CHRONIC KIDNEY & LIVER DISEASE;MONITORING CADENCE AND ESCALATION THRESHOLDS FOR INTERVENTION;ENTERAL FEEDING WORKFLOW WITH FORMULA DENSIFICATION AND INTOLERANCE TROUBLESHOOTING;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2j4.2"
+}

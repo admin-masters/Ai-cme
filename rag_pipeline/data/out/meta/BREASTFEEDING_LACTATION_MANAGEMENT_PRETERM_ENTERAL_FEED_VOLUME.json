@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "Guidelines for advancing enteral feed volumes and fortification in preterm infants, balancing nutritional needs with NEC risk, and monitoring for feed tolerance and growth optimization.",
+  "learning_objectives": [
+    "Understand the initial and progressive enteral feeding volumes for preterm and extremely low birth weight infants.",
+    "Identify clinical signs of feeding intolerance and appropriate management strategies.",
+    "Learn strategies for optimizing growth in preterm infants, including the use of human milk fortifiers and donor milk.",
+    "Recognize the importance of standardizing feeding protocols to minimize risks."
+  ],
+  "key_facts": [
+    "Initial feeds for stable preterm infants (\u22651200 g) start at 60\u201380 mL/kg/day, advancing by 15\u201330 mL/kg/day.",
+    "Extremely low birth weight infants may start at 10\u201330 mL/kg/day, advancing by 10\u201320 mL/kg/day.",
+    "Full enteral feeds (150 mL/kg/day) are typically achieved by the end of the first week.",
+    "After the first week, preterm infants may require 180\u2013200 mL/kg/day to meet energy needs.",
+    "Human milk fortifiers should be used to optimize protein and mineral intake if growth is suboptimal after two weeks.",
+    "Donor milk can be used as a bridge when maternal milk is insufficient, with efforts to increase maternal expression."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Enteral Nutrition",
+    "Infant, Premature",
+    "Necrotizing Enterocolitis",
+    "Milk, Human",
+    "Milk Banks",
+    "Nutritional Requirements",
+    "Infant Nutrition",
+    "Feeding Behavior"
+  ],
+  "tags_custom": [
+    "preterm feeding",
+    "human milk fortification",
+    "neonatal nutrition",
+    "feeding intolerance",
+    "growth optimization"
+  ],
+  "reference_quote": "Enteral feeding plans for preterm infants should balance nutritional urgency against NEC risk and should be standardized within the unit to avoid erratic advancement.",
+  "document_key_topics": [
+    "Enteral feed volume advancement in preterm infants",
+    "Feeding intolerance and clinical monitoring",
+    "Human milk fortification and donor milk use",
+    "Growth optimization in preterm infants"
+  ],
+  "chunk_heading": "BREASTFEEDING & LACTATION MANAGEMENT;PRETERM ENTERAL FEED VOLUME ADVANCEMENT AND FORTIFICATION STRATEGY;",
+  "topic": "BREASTFEEDING & LACTATION MANAGEMENT",
+  "subtopic": "PRETERM ENTERAL FEED VOLUME ADVANCEMENT AND FORTIFICATION STRATEGY",
+  "sub_subtopic": null,
+  "heading_path": "BREASTFEEDING & LACTATION MANAGEMENT;PRETERM ENTERAL FEED VOLUME ADVANCEMENT AND FORTIFICATION STRATEGY;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "1{"
+}

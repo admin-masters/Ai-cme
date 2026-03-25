@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "Eosinophilic esophagitis (EoE) diagnosis requires endoscopy with biopsies, targeting visible lesions and obtaining at least six samples. Histologic thresholds include \u226515 eosinophils/HPF. Symptom improvement alone is insufficient for remission assessment or food trigger identification.",
+  "learning_objectives": [
+    "Understand the clinical presentation and age-dependent symptoms of EoE in children.",
+    "Learn the diagnostic workflow for EoE, including endoscopy and histologic thresholds.",
+    "Recognize the importance of biopsy confirmation to differentiate EoE from reflux disorders.",
+    "Explore the limitations of symptom-based remission and allergy testing in EoE management."
+  ],
+  "key_facts": [
+    "EoE is a chronic immune-mediated esophageal disease with symptoms like dysphagia, vomiting, and food impaction.",
+    "Diagnosis requires upper endoscopy with at least six biopsies from proximal and distal esophagus.",
+    "Histologic threshold for EoE diagnosis is \u226515 eosinophils per high power field (HPF).",
+    "Symptom severity does not reliably correlate with tissue inflammation in EoE.",
+    "Allergy testing should not guide elimination diets for EoE management.",
+    "Early referral to pediatric endoscopy centers is critical, especially in resource-limited settings like India."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Eosinophilic Esophagitis",
+    "Esophageal Biopsy",
+    "Endoscopy",
+    "Pediatrics",
+    "Food Hypersensitivity",
+    "Histology",
+    "Esophageal Diseases",
+    "Diet Therapy"
+  ],
+  "tags_custom": [
+    "EoE diagnosis workflow",
+    "pediatric esophageal disease",
+    "histologic thresholds",
+    "food elimination diets",
+    "clinical guidelines"
+  ],
+  "reference_quote": "Diagnosis requires upper endoscopy with esophageal biopsies, even when the mucosa looks normal, because a normal-appearing esophagus does not exclude disease.",
+  "document_key_topics": [
+    "EoE diagnostic endoscopy and biopsy protocols",
+    "Histologic thresholds for EoE diagnosis",
+    "Limitations of symptom-based remission in EoE",
+    "Role of early referral pathways in pediatric EoE management"
+  ],
+  "chunk_heading": "FOOD ALLERGY & THERAPEUTIC ELIMINATION DIETS;EOSINOPHILIC ESOPHAGITIS DIAGNOSIS AND DIET WORKFLOW;EOE DIAGNOSTIC ENDOSCOPY AND HISTOLOGIC THRESHOLDS;",
+  "topic": "FOOD ALLERGY & THERAPEUTIC ELIMINATION DIETS",
+  "subtopic": "EOSINOPHILIC ESOPHAGITIS DIAGNOSIS AND DIET WORKFLOW",
+  "sub_subtopic": "EOE DIAGNOSTIC ENDOSCOPY AND HISTOLOGIC THRESHOLDS",
+  "heading_path": "FOOD ALLERGY & THERAPEUTIC ELIMINATION DIETS;EOSINOPHILIC ESOPHAGITIS DIAGNOSIS AND DIET WORKFLOW;EOE DIAGNOSTIC ENDOSCOPY AND HISTOLOGIC THRESHOLDS;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1\u00841.1"
+}

@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Guidelines for dyad-focused supplementation and follow-up for infants under six months with moderate acute malnutrition, emphasizing breastfeeding preservation, proper feeding techniques, and intensive monitoring.",
+  "learning_objectives": [
+    "Understand the dyad assessment process for infants under six months with MAM.",
+    "Learn appropriate supplementation methods that protect breastfeeding.",
+    "Identify follow-up intensity and escalation criteria for facility-based care.",
+    "Recognize risks associated with inappropriate feeding practices like diluted formula or animal milk."
+  ],
+  "key_facts": [
+    "The mother-infant dyad is the focus of care for infants under six months with MAM.",
+    "Supplementation should prioritize expressed breast milk or age-appropriate infant formula if breastfeeding transfer is inadequate.",
+    "Follow-up intensity includes checks at 48\u201372 hours, 7 days, and weekly until consistent weight gain is achieved.",
+    "Avoid animal milk or thin cereal gruels due to infection risk and low nutrient density.",
+    "Escalate to facility-based care for danger signs like dehydration, hypothermia, oedema, or lack of weight gain."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Malnutrition",
+    "Breastfeeding",
+    "Infant Nutrition",
+    "Supplementary Feeding",
+    "Maternal Health",
+    "Infant Formula",
+    "Lactation Support",
+    "Weight Gain"
+  ],
+  "tags_custom": [
+    "dyad care",
+    "feeding restoration",
+    "infant malnutrition",
+    "breastfeeding support",
+    "follow-up guidelines"
+  ],
+  "reference_quote": "Supplementation decisions must protect breastfeeding while preventing further weight loss. First choice is expressed breast milk offered by cup or spoon after breastfeeding, while intensifying relactation support and correcting positioning. (Source: https://iris.who.int/bitstream/handle/10665/349471/9789240033874-eng.pdf)",
+  "document_key_topics": [
+    "Dyad assessment for infants under six months",
+    "Breastfeeding preservation in malnutrition care",
+    "Supplementation options and feeding techniques",
+    "Follow-up intensity and escalation criteria"
+  ],
+  "chunk_heading": "MODERATE ACUTE MALNUTRITION (MAM) AND SUPPLEMENTARY FEEDING;FEEDING RESTORATION PATHWAY FOR INFANTS UNDER SIX MONTHS;DYAD ASSESSMENT SUPPLEMENTATION OPTIONS AND FOLLOW-UP INTENSITY UNDER SIX MONTHS;",
+  "topic": "MODERATE ACUTE MALNUTRITION (MAM) AND SUPPLEMENTARY FEEDING",
+  "subtopic": "FEEDING RESTORATION PATHWAY FOR INFANTS UNDER SIX MONTHS",
+  "sub_subtopic": "DYAD ASSESSMENT SUPPLEMENTATION OPTIONS AND FOLLOW-UP INTENSITY UNDER SIX MONTHS",
+  "heading_path": "MODERATE ACUTE MALNUTRITION (MAM) AND SUPPLEMENTARY FEEDING;FEEDING RESTORATION PATHWAY FOR INFANTS UNDER SIX MONTHS;DYAD ASSESSMENT SUPPLEMENTATION OPTIONS AND FOLLOW-UP INTENSITY UNDER SIX MONTHS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "3z2.1"
+}

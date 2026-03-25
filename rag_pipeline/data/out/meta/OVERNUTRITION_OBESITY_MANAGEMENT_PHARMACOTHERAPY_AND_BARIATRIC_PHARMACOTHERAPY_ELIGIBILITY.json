@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "Pharmacotherapy for pediatric obesity is an adjunct to lifestyle treatment, recommended for adolescents \u226512 years with severe obesity or comorbidities. Baseline assessments, monitoring, and stopping rules are essential for safe and effective treatment.",
+  "learning_objectives": [
+    "Understand eligibility criteria for pharmacotherapy in pediatric obesity management.",
+    "Identify baseline assessments required before initiating pharmacotherapy.",
+    "Recognize the importance of monitoring and stopping rules for pharmacotherapy.",
+    "Evaluate the role of pharmacotherapy as an adjunct to lifestyle interventions."
+  ],
+  "key_facts": [
+    "Pharmacotherapy is recommended for adolescents \u226512 years with class 2 obesity plus life-threatening comorbidities or class 3 obesity (IAP, 2023).",
+    "Baseline assessments include BMI severity, comorbidities, medications, contraindications, and labs (e.g., BP, glucose, HbA1c, lipids, ALT).",
+    "Mental health screening (e.g., depression, suicidality, disordered eating) is critical before prescribing.",
+    "Post-menarcheal females require pregnancy risk assessment and counseling.",
+    "Pharmacotherapy is deemed ineffective if BMI does not reduce by ~5% after 12 weeks of consistent use (IAP, 2023).",
+    "Follow-up is recommended at 4\u20136 weeks for tolerability and adherence, and by 12 weeks for response."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Obesity",
+    "Pediatric Obesity",
+    "Pharmacotherapy",
+    "Body Mass Index",
+    "Comorbidity",
+    "Mental Health",
+    "Lifestyle Interventions",
+    "Pregnancy Counseling"
+  ],
+  "tags_custom": [
+    "pediatric obesity management",
+    "pharmacotherapy guidelines",
+    "baseline assessment",
+    "treatment monitoring",
+    "stopping rules"
+  ],
+  "reference_quote": "The 2023 IAP obesity guideline recommends adjunct pharmacotherapy in adolescents aged 12 years or older with class 2 obesity plus immediate or life-threatening comorbidities, or class 3 obesity with or without comorbidities.",
+  "document_key_topics": [
+    "Pharmacotherapy eligibility for pediatric obesity",
+    "Baseline assessment and safety considerations",
+    "Monitoring and stopping rules for obesity treatment",
+    "Adjunct role of pharmacotherapy with lifestyle interventions"
+  ],
+  "chunk_heading": "OVERNUTRITION & OBESITY MANAGEMENT;PHARMACOTHERAPY AND BARIATRIC SURGERY ESCALATION;PHARMACOTHERAPY ELIGIBILITY, BASELINE ASSESSMENT, AND STOPPING RULES;",
+  "topic": "OVERNUTRITION & OBESITY MANAGEMENT",
+  "subtopic": "PHARMACOTHERAPY AND BARIATRIC SURGERY ESCALATION",
+  "sub_subtopic": "PHARMACOTHERAPY ELIGIBILITY, BASELINE ASSESSMENT, AND STOPPING RULES",
+  "heading_path": "OVERNUTRITION & OBESITY MANAGEMENT;PHARMACOTHERAPY AND BARIATRIC SURGERY ESCALATION;PHARMACOTHERAPY ELIGIBILITY, BASELINE ASSESSMENT, AND STOPPING RULES;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1\u00971"
+}

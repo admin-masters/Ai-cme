@@ -1,0 +1,44 @@
+{
+  "chunk_summary": "This section discusses outpatient recovery criteria, maximum treatment duration, and referral protocols for non-responding cases in the community-based management of severe acute malnutrition (SAM) in India.",
+  "learning_objectives": [
+    "Understand the outpatient recovery criteria for SAM in India.",
+    "Identify the maximum duration of outpatient treatment before referral for non-response.",
+    "Learn about referral protocols for non-responding SAM cases in community-based programs."
+  ],
+  "key_facts": [
+    "Outpatient recovery criteria for SAM include achieving a weight-for-height z-score (WHZ) \u2265 -2 or mid-upper arm circumference (MUAC) \u2265 12.5 cm.",
+    "Maximum duration of outpatient treatment is typically 8-12 weeks, after which non-responding cases are referred to inpatient care.",
+    "Non-response is defined as failure to gain weight or meet recovery criteria within the specified treatment duration.",
+    "Community-based management of SAM is endorsed by WHO, UNICEF, and other global organizations.",
+    "India's CMAM guidelines emphasize early detection and treatment of SAM to reduce mortality rates."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Severe Acute Malnutrition",
+    "Community Health Services",
+    "Nutritional Rehabilitation",
+    "Outpatient Care",
+    "Referral and Consultation",
+    "India",
+    "Child Nutrition Disorders"
+  ],
+  "tags_custom": [
+    "SAM recovery criteria",
+    "CMAM India",
+    "Non-response referral"
+  ],
+  "reference_quote": "\"Non-response is defined as failure to gain weight or meet recovery criteria within the specified treatment duration.\" (Source: WHO, WFP, UNSCN, and UNICEF Joint Statement, 2007)",
+  "document_key_topics": [
+    "Outpatient recovery criteria for SAM",
+    "Maximum treatment duration for SAM",
+    "Referral protocols for non-responding SAM cases"
+  ],
+  "chunk_heading": "SEVERE ACUTE MALNUTRITION-(SAM) MANAGEMENT;OUTPATIENT CMAM IMPLEMENTATION IN INDIA;OUTPATIENT RECOVERY CRITERIA AND MAXIMUM  DURATION WITH NON-RESPONSE REFERRAL;",
+  "topic": "SEVERE ACUTE MALNUTRITION-(SAM) MANAGEMENT",
+  "subtopic": "OUTPATIENT CMAM IMPLEMENTATION IN INDIA",
+  "sub_subtopic": "OUTPATIENT RECOVERY CRITERIA AND MAXIMUM  DURATION WITH NON-RESPONSE REFERRAL",
+  "heading_path": "SEVERE ACUTE MALNUTRITION-(SAM) MANAGEMENT;OUTPATIENT CMAM IMPLEMENTATION IN INDIA;OUTPATIENT RECOVERY CRITERIA AND MAXIMUM  DURATION WITH NON-RESPONSE REFERRAL;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "3\u008c5.2"
+}

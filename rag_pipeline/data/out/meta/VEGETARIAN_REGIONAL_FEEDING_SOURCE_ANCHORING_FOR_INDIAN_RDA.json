@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Guidance on anchoring vegetarian nutrient targets to Indian RDA tables for pediatric counseling, emphasizing source tagging, supplementation, and practical meal-based execution.",
+  "learning_objectives": [
+    "Understand the importance of source anchoring for nutrient targets in vegetarian pediatric counseling.",
+    "Learn operational strategies for presenting nutrient tables with source tags to ensure auditability.",
+    "Recognize the role of supplementation in vegan diets, particularly for vitamin B12.",
+    "Apply meal-based counseling methods to achieve nutrient targets and monitor growth outcomes."
+  ],
+  "key_facts": [
+    "Indian RDA values for nutrients like protein, iron, calcium, zinc, iodine, folate, vitamin B12, and vitamin D are based on ICMR-NIN 2020 standards.",
+    "FSSAI mandates RDA labeling with source citation, including document name, annexure/table identifier, and date.",
+    "Protein targets should be cross-checked using weight-based calculations (g/kg/day) in cases of poor growth.",
+    "Vitamin B12 supplementation is non-negotiable in vegan diets to prevent deficiencies.",
+    "Counseling should focus on meal-based execution, such as daily protein anchors and iron opportunities, rather than perfect arithmetic."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Diet, Vegetarian",
+    "Recommended Dietary Allowances",
+    "Nutritional Requirements",
+    "Pediatrics",
+    "Vitamin B12 Deficiency",
+    "Iron Deficiency",
+    "Growth and Development",
+    "Dietary Counseling"
+  ],
+  "tags_custom": [
+    "Indian RDA tables",
+    "vegetarian pediatric nutrition",
+    "meal-based counseling",
+    "nutrient supplementation",
+    "source tagging"
+  ],
+  "reference_quote": "Anchor age-wise nutrient targets to the statutory summary of RDA values reproduced in the Food Safety and Standards Authority of India direction on RDA labeling, which cites ICMR-NIN 2020 values in its annexure.",
+  "document_key_topics": [
+    "Vegetarian nutrient targets for pediatric counseling",
+    "Source anchoring to Indian RDA tables",
+    "Meal-based counseling strategies",
+    "Vitamin B12 supplementation in vegan diets"
+  ],
+  "chunk_heading": "VEGETARIAN & REGIONAL FEEDING PATTERNS;SOURCE ANCHORING FOR INDIAN RDA TABLES;",
+  "topic": "VEGETARIAN & REGIONAL FEEDING PATTERNS",
+  "subtopic": "SOURCE ANCHORING FOR INDIAN RDA TABLES",
+  "sub_subtopic": null,
+  "heading_path": "VEGETARIAN & REGIONAL FEEDING PATTERNS;SOURCE ANCHORING FOR INDIAN RDA TABLES;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1r"
+}

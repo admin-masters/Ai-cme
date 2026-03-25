@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Interim feeding strategies prioritize safety in suspected aspiration cases, emphasizing posture, pacing, texture modification, and risk counselling for thickeners like rice cereal and xanthan gum.",
+  "learning_objectives": [
+    "Understand safe interim feeding strategies for suspected aspiration cases.",
+    "Learn the risks and benefits of texture modification and thickener use in pediatric feeding.",
+    "Identify appropriate referrals for structural airway, reflux, or feeding skill issues.",
+    "Counsel families on feeding safety and risk mitigation during limited service access."
+  ],
+  "key_facts": [
+    "Upright positioning, smaller volumes, and slow pacing are recommended interim feeding strategies.",
+    "Rice cereal is suggested as a low-cost thickener but requires moderation due to inorganic arsenic exposure risks.",
+    "Xanthan gum-based thickeners are contraindicated in premature infants due to necrotizing enterocolitis risk.",
+    "IMNCI discourages bottle feeding and supports cup feeding to improve hunger cues and reduce continuous sipping.",
+    "Referral pathways include ENT for airway issues, pediatric GI for reflux or eosinophilic esophagitis, and SLP for feeding skill therapy.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Aspiration",
+    "Feeding and Eating Disorders",
+    "Gastroesophageal Reflux",
+    "Infant Nutrition",
+    "Necrotizing Enterocolitis",
+    "Posture",
+    "Texture Modification",
+    "Arsenic Toxicity"
+  ],
+  "tags_custom": [
+    "pediatric feeding safety",
+    "thickener risk counselling",
+    "aspiration management",
+    "feeding strategy",
+    "interim care"
+  ],
+  "reference_quote": "FDA warns not to feed SimplyThick to premature infants due to necrotizing enterocolitis risk. (CDC Health Alert Network, 2011)",
+  "document_key_topics": [
+    "Safe interim feeding strategies for aspiration risk",
+    "Risks and counselling for thickeners like rice cereal and xanthan gum",
+    "Referral pathways for feeding-related complications"
+  ],
+  "chunk_heading": "MANAGEMENT DURING FEEDING;INTERIM SAFETY STRATEGIES AND THICKENER RISK COUNSELLING;",
+  "topic": "MANAGEMENT DURING FEEDING",
+  "subtopic": "INTERIM SAFETY STRATEGIES AND THICKENER RISK COUNSELLING",
+  "sub_subtopic": null,
+  "heading_path": "MANAGEMENT DURING FEEDING;INTERIM SAFETY STRATEGIES AND THICKENER RISK COUNSELLING;",
+  "reference_count": 6,
+  "has_guidelines": false,
+  "sequence": "4a"
+}

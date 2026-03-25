@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "This section discusses distinguishing nutritional oedema from nephrotic syndrome in children with acute malnutrition, emphasizing clinical features, diagnostic tools, and management strategies to avoid misdiagnosis and ensure appropriate care.",
+  "learning_objectives": [
+    "Understand the clinical presentation and progression of nutritional oedema versus nephrotic syndrome.",
+    "Learn to use bedside diagnostic tools, such as urine dipstick and blood pressure measurement, to differentiate between conditions.",
+    "Recognize the importance of triaging children with oedema as high-risk cases until a definitive diagnosis is made."
+  ],
+  "key_facts": [
+    "Bilateral pitting oedema of the feet is sufficient to classify severe acute malnutrition but requires exclusion of other causes.",
+    "Nutritional oedema typically starts in the feet and progresses upward, while nephrotic syndrome often presents with periorbital swelling and generalized oedema.",
+    "Urine dipstick for protein is a low-cost, high-yield discriminator for nephrotic syndrome.",
+    "Hypertension and symptoms like frothy urine or reduced urine output suggest renal disease.",
+    "Oedema can mask weight loss, so severity should be classified based on oedema and clinical status rather than weight indices.",
+    "Both nutritional oedema and nephrotic syndrome can deteriorate rapidly during infection, requiring high-risk management.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Malnutrition",
+    "Nutritional Status",
+    "Edema",
+    "Nephrotic Syndrome",
+    "Proteinuria",
+    "Hypertension",
+    "Child Nutrition Disorders",
+    "Acute Malnutrition"
+  ],
+  "tags_custom": [
+    "Nutritional oedema",
+    "Diagnostic differentiation",
+    "Severe acute malnutrition",
+    "Pediatric nephrology"
+  ],
+  "reference_quote": "Indian facility guidance explicitly cautions that nephrotic syndrome and other systemic causes can mimic nutritional oedema.",
+  "document_key_topics": [
+    "Differentiating nutritional oedema from nephrotic syndrome",
+    "Clinical and diagnostic tools for oedema evaluation",
+    "Management and triage of children with oedema"
+  ],
+  "chunk_heading": "MALNUTRITION\u2014UNDERNUTRITION: SCREENING & CLASSIFICATION;DIAGNOSTIC DISCRIMINATION OF NUTRITIONAL OEDEMA VERSUS NEPHROTIC SYNDROME;",
+  "topic": "MALNUTRITION\u2014UNDERNUTRITION: SCREENING & CLASSIFICATION",
+  "subtopic": "DIAGNOSTIC DISCRIMINATION OF NUTRITIONAL OEDEMA VERSUS NEPHROTIC SYNDROME",
+  "sub_subtopic": null,
+  "heading_path": "MALNUTRITION\u2014UNDERNUTRITION: SCREENING & CLASSIFICATION;DIAGNOSTIC DISCRIMINATION OF NUTRITIONAL OEDEMA VERSUS NEPHROTIC SYNDROME;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2p"
+}

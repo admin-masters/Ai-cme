@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "This section outlines a decision-making framework for clinical adoption of interventions, emphasizing documentation, evidence-based criteria, and operational discipline, particularly for probiotics and similar products in pediatric care.",
+  "learning_objectives": [
+    "Understand the criteria for accepting, trialing, or rejecting clinical interventions based on evidence quality and patient safety.",
+    "Learn how to document clinical decisions, including strain, dose, and duration for probiotics and similar products.",
+    "Identify operational guidelines for supervised trials, including start/stop dates, measurable targets, and stop rules.",
+    "Recognize the importance of avoiding 'marketing drift' and prioritizing high-yield interventions in pediatric care."
+  ],
+  "key_facts": [
+    "Accept interventions only when evidence shows clear benefits, low harms, and guideline-grade support.",
+    "Supervised trials require defined start/stop dates, measurable targets (e.g., fewer symptom days), and explicit stop rules.",
+    "Reject interventions with trivial benefits, poor reporting standards, or unacceptable risks for special populations.",
+    "Probiotics should be treated like medications: document strain, dose, duration, and clinical indication.",
+    "In India, quality of products varies, and out-of-pocket costs necessitate careful documentation to avoid replacing higher-yield interventions like ORS and zinc.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Probiotics",
+    "Evidence-Based Medicine",
+    "Clinical Decision-Making",
+    "Pediatrics",
+    "Risk Assessment",
+    "Documentation",
+    "Quality Control",
+    "Nutritional Supplements"
+  ],
+  "tags_custom": [
+    "clinical adoption",
+    "probiotic safety",
+    "pediatric interventions",
+    "evidence appraisal",
+    "India healthcare"
+  ],
+  "reference_quote": "Accept an intervention for routine use only when the strain or test is clearly defined, manufacturing or laboratory quality controls are credible, patient-important outcomes improve, harms are low for the child\u2019s risk category, and the conclusion is consistent with guideline-grade evidence. (Source: GRADE Handbook)",
+  "document_key_topics": [
+    "Criteria for clinical adoption of interventions",
+    "Documentation standards for probiotics and similar products",
+    "Supervised trial guidelines and stop rules",
+    "Avoiding marketing drift in pediatric care"
+  ],
+  "chunk_heading": "RESEARCH & EMERGING CONCEPTS;EVIDENCE APPRAISAL TOOLKIT FOR SAFE CLINICAL ADOPTION;DOCUMENTING ACCEPT TRIAL REJECT DECISIONS IN CHART;",
+  "topic": "RESEARCH & EMERGING CONCEPTS",
+  "subtopic": "EVIDENCE APPRAISAL TOOLKIT FOR SAFE CLINICAL ADOPTION",
+  "sub_subtopic": "DOCUMENTING ACCEPT TRIAL REJECT DECISIONS IN CHART",
+  "heading_path": "RESEARCH & EMERGING CONCEPTS;EVIDENCE APPRAISAL TOOLKIT FOR SAFE CLINICAL ADOPTION;DOCUMENTING ACCEPT TRIAL REJECT DECISIONS IN CHART;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1e4"
+}

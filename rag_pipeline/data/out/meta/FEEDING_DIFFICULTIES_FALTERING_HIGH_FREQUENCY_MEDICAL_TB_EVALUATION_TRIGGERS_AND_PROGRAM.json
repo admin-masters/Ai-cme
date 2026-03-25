@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "TB evaluation in Indian pediatric practice emphasizes screening for chronic infection in faltering growth, using symptom patterns, weight criteria, and program diagnostics like NAAT tests for accurate diagnosis and management.",
+  "learning_objectives": [
+    "Understand the role of TB screening in children with faltering growth in Indian practice.",
+    "Learn the diagnostic criteria for presumptive pediatric TB under NTEP guidelines.",
+    "Identify appropriate investigations, including chest radiography and NAAT tests, for suspected pediatric TB cases.",
+    "Recognize the importance of nutritional rehabilitation during TB evaluation."
+  ],
+  "key_facts": [
+    "Presumptive pediatric TB includes weight loss >5% or failure to gain weight in the past 3 months despite adequate nutrition.",
+    "Symptom triggers include persistent cough, fever, night sweats, reduced playfulness, and contact with a known TB case.",
+    "Chest radiography is the initial specific investigation for suspected TB cases.",
+    "Program-approved rapid NAAT tests (e.g., Xpert, Truenat) are useful for 'rule-in' diagnosis but do not rule out TB if negative.",
+    "Specimen collection methods include induced sputum or gastric aspirate where feasible.",
+    "Nutritional rehabilitation should continue during TB evaluation to mitigate the effects of illness and undernutrition."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Tuberculosis, Pulmonary",
+    "Pediatrics",
+    "Growth Disorders",
+    "Malnutrition",
+    "Diagnostic Imaging",
+    "Nucleic Acid Amplification Techniques",
+    "India",
+    "Public Health Programs"
+  ],
+  "tags_custom": [
+    "TB in children",
+    "faltering growth",
+    "Indian medical practice",
+    "nutritional rehabilitation",
+    "program diagnostics"
+  ],
+  "reference_quote": "The pediatric guideline under the NTEP defines presumptive pediatric TB using symptom patterns and treats growth failure itself as a trigger: definite weight loss of more than 5% in the past 3 months, or failure to gain weight in the past 3 months despite adequate nutrition, should prompt detailed history, examination, and investigation for TB.",
+  "document_key_topics": [
+    "Feeding difficulties and faltering growth in children",
+    "TB evaluation triggers in pediatric practice",
+    "Program diagnostics for pediatric TB in India",
+    "Nutritional rehabilitation during TB evaluation"
+  ],
+  "chunk_heading": "FEEDING DIFFICULTIES & FALTERING GROWTH;HIGH FREQUENCY MEDICAL CONTRIBUTORS IN INDIAN PRACTICE;TB EVALUATION TRIGGERS AND PROGRAM DIAGNOSTICS;",
+  "topic": "FEEDING DIFFICULTIES & FALTERING GROWTH",
+  "subtopic": "HIGH FREQUENCY MEDICAL CONTRIBUTORS IN INDIAN PRACTICE",
+  "sub_subtopic": "TB EVALUATION TRIGGERS AND PROGRAM DIAGNOSTICS",
+  "heading_path": "FEEDING DIFFICULTIES & FALTERING GROWTH;HIGH FREQUENCY MEDICAL CONTRIBUTORS IN INDIAN PRACTICE;TB EVALUATION TRIGGERS AND PROGRAM DIAGNOSTICS;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "4\u00886"
+}

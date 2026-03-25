@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "This section outlines measurable indicators for monitoring and improving the safety and delivery of enteral and parenteral nutrition in resource-variable settings, with specific guidelines for energy, protein, and safety metrics in pediatric critical care and ward settings.",
+  "learning_objectives": [
+    "Understand the importance of tracking delivered versus prescribed energy and protein in enteral and parenteral nutrition.",
+    "Identify safety indicators such as aspiration-related harm, biochemical events, and central line-associated bloodstream infections (CLABSI).",
+    "Learn practical methods for monitoring growth and addressing delivery errors in pediatric patients.",
+    "Incorporate feasibility considerations for nutrition delivery in resource-limited settings."
+  ],
+  "key_facts": [
+    "Aim to deliver at least two-thirds of the prescribed energy and protein target by the end of the first week in the PICU or earlier on the ward.",
+    "Trigger escalation if delivery falls below 80% for 24\u201348 hours.",
+    "Track aspiration-related harm per 100 tube-days, including tube dislodgement and emesis with desaturation.",
+    "Monitor biochemical safety events such as hypoglycemia, hypophosphatemia, and triglyceride excursions during feed or PN advances.",
+    "Track CLABSI episodes in PN patients, including line-days, dressing integrity, and time-to-culture and antibiotics.",
+    "Include growth metrics like daily weight in critical illness and weekly length/height and MUAC for longer stays."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Enteral Nutrition",
+    "Parenteral Nutrition",
+    "Nutritional Support",
+    "Critical Care",
+    "Pediatrics",
+    "Patient Safety",
+    "Malnutrition",
+    "Catheter-Related Infections"
+  ],
+  "tags_custom": [
+    "nutrition monitoring",
+    "pediatric critical care",
+    "safety indicators",
+    "resource-limited settings",
+    "growth metrics"
+  ],
+  "reference_quote": "Operational quality improves when nutrition is monitored like a vital sign. A minimal dashboard should tie each metric to an action.",
+  "document_key_topics": [
+    "Enteral and parenteral nutrition delivery",
+    "Safety indicators for nutrition support",
+    "Monitoring growth and biochemical safety",
+    "Feasibility considerations in resource-limited settings"
+  ],
+  "chunk_heading": "ENTERAL & PARENTERAL NUTRITION;MEASURABLE NUTRITION DELIVERY AND SAFETY INDICATORS;",
+  "topic": "ENTERAL & PARENTERAL NUTRITION",
+  "subtopic": "MEASURABLE NUTRITION DELIVERY AND SAFETY INDICATORS",
+  "sub_subtopic": null,
+  "heading_path": "ENTERAL & PARENTERAL NUTRITION;MEASURABLE NUTRITION DELIVERY AND SAFETY INDICATORS;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "1b"
+}

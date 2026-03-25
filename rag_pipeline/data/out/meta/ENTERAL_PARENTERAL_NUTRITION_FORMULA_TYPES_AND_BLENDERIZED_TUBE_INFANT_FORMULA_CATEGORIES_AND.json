@@ -1,0 +1,47 @@
+{
+  "chunk_summary": "This section discusses infant formula categories and their clinical indications, emphasizing formula selection based on specific conditions like allergy, malabsorption, or fluid restriction, and the importance of delivery technique optimization before escalating formula complexity.",
+  "learning_objectives": [
+    "Understand the clinical indications for different infant formula categories, including cow\u2019s milk\u2013based, hydrolyzed, and amino acid\u2013based formulas.",
+    "Learn the appropriate use of lactose-free formulas and energy-dense formulas in specific clinical scenarios.",
+    "Identify common errors in formula delivery, such as mixing inaccuracies and infusion rate issues, and their impact on tolerance."
+  ],
+  "key_facts": [
+    "Standard polymeric formulas are recommended for most critically ill children with a functional gut before escalating complexity.",
+    "Extensively hydrolyzed formulas (eHF) are indicated for cow\u2019s milk protein allergy and selected malabsorption phenotypes.",
+    "Amino acid\u2013based formulas are used when severe allergy or malabsorption persists despite eHF use.",
+    "Energy-dense formulas (e.g., 1.5 kcal/mL) are suitable for fluid restriction but require cautious advancement to avoid reflux and diarrhea.",
+    "Routine switching to lactose-free formulas in acute infectious diarrhea is not recommended due to added cost without benefit."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Enteral Nutrition",
+    "Parenteral Nutrition",
+    "Infant Formula",
+    "Cow's Milk Protein Allergy",
+    "Malabsorption Syndromes",
+    "Diarrhea",
+    "Energy Intake",
+    "Soy Formula"
+  ],
+  "tags_custom": [
+    "formula selection",
+    "clinical nutrition",
+    "feeding intolerance",
+    "pediatric guidelines",
+    "nutritional therapy"
+  ],
+  "reference_quote": "In most critically ill children with a functional gut, start with a standard polymeric (intact protein) age-appropriate formula and optimize delivery technique before escalating complexity. (ESPGHAN 2010)",
+  "document_key_topics": [
+    "Infant formula categories and clinical indications",
+    "Management of feeding intolerance and malabsorption",
+    "Guidelines for lactose-free and energy-dense formula use"
+  ],
+  "chunk_heading": "ENTERAL & PARENTERAL NUTRITION;FORMULA TYPES AND BLENDERIZED TUBE FEED SAFETY;INFANT FORMULA CATEGORIES AND CLINICAL INDICATIONS;",
+  "topic": "ENTERAL & PARENTERAL NUTRITION",
+  "subtopic": "FORMULA TYPES AND BLENDERIZED TUBE FEED SAFETY",
+  "sub_subtopic": "INFANT FORMULA CATEGORIES AND CLINICAL INDICATIONS",
+  "heading_path": "ENTERAL & PARENTERAL NUTRITION;FORMULA TYPES AND BLENDERIZED TUBE FEED SAFETY;INFANT FORMULA CATEGORIES AND CLINICAL INDICATIONS;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "2v2"
+}

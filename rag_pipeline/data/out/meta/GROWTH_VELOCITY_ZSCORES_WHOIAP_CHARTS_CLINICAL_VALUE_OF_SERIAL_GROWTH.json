@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "Serial growth monitoring using WHO/IAP charts is vital for detecting growth abnormalities, enabling early intervention for stunting, wasting, anemia, and rising childhood obesity in India.",
+  "learning_objectives": [
+    "Understand the clinical importance of growth velocity and Z-scores in child health monitoring.",
+    "Learn how to interpret WHO/IAP growth charts to identify red flags like centile crossing or severe wasting.",
+    "Recognize the role of continuity tools like MCP cards in tracking growth trends across providers.",
+    "Explore actionable strategies for growth promotion during routine health visits."
+  ],
+  "key_facts": [
+    "Growth monitoring detects undernutrition, overnutrition, and chronic disorders before symptoms appear.",
+    "Stunting, wasting, and anemia are prevalent in India, while childhood obesity is rising.",
+    "Key red flags include rapid centile crossing, severe wasting, microcephaly, and extreme BMI.",
+    "MCP cards and consistent charting systems prevent missed trends when families change providers.",
+    "Every immunization contact, sick visit, and Anganwadi session is an opportunity for growth monitoring and promotion.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Growth Monitoring",
+    "Child Nutrition Disorders",
+    "Anthropometry",
+    "Body Mass Index",
+    "Stunting",
+    "Wasting Syndrome",
+    "Malnutrition",
+    "India"
+  ],
+  "tags_custom": [
+    "WHO/IAP growth charts",
+    "serial growth tracking",
+    "child health promotion",
+    "nutrition intervention",
+    "MCP card usage"
+  ],
+  "reference_quote": "Regular anthropometric tracking is a clinical 'vital sign' of child health, enabling early identification of stunting, wasting, anemia, and obesity-related comorbidities.",
+  "document_key_topics": [
+    "Growth velocity and Z-scores",
+    "WHO/IAP growth charts",
+    "Clinical value of serial growth monitoring",
+    "Nutrition and health promotion in India"
+  ],
+  "chunk_heading": "GROWTH VELOCITY, Z-SCORES; WHO/IAP CHARTS);CLINICAL VALUE OF SERIAL GROWTH MONITORING;",
+  "topic": "GROWTH VELOCITY, Z-SCORES",
+  "subtopic": "WHO/IAP CHARTS)",
+  "sub_subtopic": "CLINICAL VALUE OF SERIAL GROWTH MONITORING",
+  "heading_path": "GROWTH VELOCITY, Z-SCORES; WHO/IAP CHARTS);CLINICAL VALUE OF SERIAL GROWTH MONITORING;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1b1"
+}

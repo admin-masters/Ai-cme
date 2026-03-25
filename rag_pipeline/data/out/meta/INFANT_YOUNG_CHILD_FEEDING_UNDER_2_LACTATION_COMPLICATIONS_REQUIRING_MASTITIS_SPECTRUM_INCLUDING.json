@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "This section addresses the management of lactation-related complications, including engorgement, bacterial mastitis, and breast abscess, emphasizing milk removal, pain relief, and antibiotic use when necessary.",
+  "learning_objectives": [
+    "Understand the spectrum of lactation-related breast inflammation, including engorgement, mastitis, and abscess.",
+    "Learn first-line management strategies for engorgement and ductal inflammation, including milk removal techniques.",
+    "Identify signs of bacterial mastitis and appropriate antibiotic regimens based on severity and resistance patterns.",
+    "Recognize when to escalate care, including milk culture or imaging for severe or non-responsive cases."
+  ],
+  "key_facts": [
+    "Engorgement and ductal inflammation often present with localized tenderness but without systemic symptoms like fever.",
+    "First-line management includes frequent milk removal, latch correction, and gentle measures like warmth before feeds and cold packs after feeds.",
+    "Ibuprofen or paracetamol is safe for breastfeeding and aids in pain relief and milk transfer.",
+    "Antibiotics for bacterial mastitis include dicloxacillin/flucloxacillin or cephalexin 500 mg four times daily for 10\u201314 days; clindamycin or trimethoprim-sulfamethoxazole may be used in specific cases.",
+    "Severe or non-responsive cases require milk culture or imaging within 24\u201348 hours.",
+    "Avoid trimethoprim-sulfamethoxazole in infants with prematurity, neonatal hyperbilirubinemia, or G6PD deficiency."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Lactation Disorders",
+    "Mastitis",
+    "Breast Abscess",
+    "Breastfeeding",
+    "Anti-Bacterial Agents",
+    "Pain Management",
+    "Infant Nutrition",
+    "Postpartum Complications"
+  ],
+  "tags_custom": [
+    "lactation complications",
+    "mastitis management",
+    "engorgement treatment",
+    "breastfeeding support",
+    "antibiotic guidelines"
+  ],
+  "reference_quote": "The default rule is to continue breastfeeding or expressing; stopping milk removal worsens stasis. (ABM Clinical Protocol 36, 2022)",
+  "document_key_topics": [
+    "Spectrum of lactation-related breast inflammation",
+    "Management of engorgement and ductal inflammation",
+    "Antibiotic regimens for bacterial mastitis",
+    "Escalation of care for severe or non-responsive cases"
+  ],
+  "chunk_heading": "INFANT & YOUNG CHILD FEEDING UNDER 2 YEARS;LACTATION COMPLICATIONS REQUIRING TARGETED TREATMENT;MASTITIS SPECTRUM INCLUDING ENGORGEMENT AND BREAST ABSCESS MANAGEMENT;",
+  "topic": "INFANT & YOUNG CHILD FEEDING UNDER 2 YEARS",
+  "subtopic": "LACTATION COMPLICATIONS REQUIRING TARGETED TREATMENT",
+  "sub_subtopic": "MASTITIS SPECTRUM INCLUDING ENGORGEMENT AND BREAST ABSCESS MANAGEMENT",
+  "heading_path": "INFANT & YOUNG CHILD FEEDING UNDER 2 YEARS;LACTATION COMPLICATIONS REQUIRING TARGETED TREATMENT;MASTITIS SPECTRUM INCLUDING ENGORGEMENT AND BREAST ABSCESS MANAGEMENT;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1j1"
+}

@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "Ketogenic dietary therapy (KDT) is a nonpharmacologic option for drug-resistant epilepsy and specific metabolic epilepsies, requiring careful indication, feasibility, and contraindication screening, with shared decision-making and monitoring for safety and efficacy.",
+  "learning_objectives": [
+    "Understand the indications for ketogenic dietary therapy (KDT), including drug-resistant epilepsy and specific metabolic epilepsies.",
+    "Identify contraindications to KDT, such as fatty acid oxidation disorders, and the importance of metabolic screening.",
+    "Learn the practical considerations for implementing KDT, including family feasibility, monitoring, and medication carbohydrate content.",
+    "Recognize the importance of shared decision-making and reassessment timelines in KDT management."
+  ],
+  "key_facts": [
+    "KDT is typically considered after failure of two appropriately chosen and tolerated antiseizure medications for drug-resistant epilepsy (DRE).",
+    "KDT is first-line therapy for GLUT1 deficiency syndrome and pyruvate dehydrogenase complex deficiency.",
+    "Contraindications include disorders of fat transport, beta-oxidation, and ketone utilization; acylcarnitine and metabolic screening are essential for safety.",
+    "Medication carbohydrate content (e.g., in liquids/suspensions) is a common failure mode and should be reviewed.",
+    "Reassessment of KDT efficacy is commonly done at ~3 months, with discontinuation if the clinical target is not met.",
+    "In India, factors like travel distance, cost of high-fat foods, and access to monitoring significantly impact feasibility and safety."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Ketogenic Diet",
+    "Epilepsy",
+    "Drug-Resistant Epilepsy",
+    "GLUT1 Deficiency Syndrome",
+    "Pyruvate Dehydrogenase Complex Deficiency",
+    "Fatty Acid Oxidation Disorders",
+    "Dietary Therapy",
+    "Shared Decision-Making"
+  ],
+  "tags_custom": [
+    "ketogenic therapy",
+    "pediatric epilepsy",
+    "metabolic screening",
+    "dietary interventions",
+    "treatment feasibility"
+  ],
+  "reference_quote": "Drug-resistant epilepsy is defined as the failure of adequate trials of two tolerated, appropriately chosen, and used antiepileptic drug schedules to achieve sustained seizure freedom. (Kwan et al, https://pubmed.ncbi.nlm.nih.gov/19889013/)",
+  "document_key_topics": [
+    "Indications for ketogenic dietary therapy",
+    "Contraindications and safety screening for KDT",
+    "Practical considerations for KDT implementation",
+    "Shared decision-making and monitoring in KDT"
+  ],
+  "chunk_heading": "THERAPEUTIC DIETS & SPECIAL INTERVENTIONS;KETOGENIC DIET THERAPY INDICATIONS AND CONTRAINDICATION SCREENING;",
+  "topic": "THERAPEUTIC DIETS & SPECIAL INTERVENTIONS",
+  "subtopic": "KETOGENIC DIET THERAPY INDICATIONS AND CONTRAINDICATION SCREENING",
+  "sub_subtopic": null,
+  "heading_path": "THERAPEUTIC DIETS & SPECIAL INTERVENTIONS;KETOGENIC DIET THERAPY INDICATIONS AND CONTRAINDICATION SCREENING;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1h"
+}

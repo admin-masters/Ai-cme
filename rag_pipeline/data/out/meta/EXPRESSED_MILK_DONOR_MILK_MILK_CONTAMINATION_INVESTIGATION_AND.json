@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section outlines protocols for contamination investigation and product recall in human milk banks, emphasizing quarantine, traceability, corrective actions, and structured RCA/CAPA plans to ensure safety and quality of donor human milk (DHM).",
+  "learning_objectives": [
+    "Understand the steps for managing contamination events in human milk banks, including quarantine and traceability.",
+    "Learn the criteria for identifying and classifying contamination events in milk banks.",
+    "Develop skills in executing root cause analysis (RCA) and corrective and preventive actions (CAPA) for process improvement.",
+    "Recognize the importance of communication with families and NICU teams during contamination events."
+  ],
+  "key_facts": [
+    "Contamination triggers include post-pasteurization culture growth above acceptance thresholds, repeated high pre-pasteurization bioburden, and pasteurizer time\u2013temperature deviations.",
+    "Immediate action involves quarantining affected inventory and halting further dispensing until the issue is clarified.",
+    "Culture-positive post-pasteurization batches are discarded; repasteurization is generally avoided due to its potential to mask process defects.",
+    "Trace-and-recall procedures require identifying all recipients of affected DHM using batch-to-bottle-to-recipient logs.",
+    "Structured RCA and CAPA plans include assessing aseptic techniques, equipment calibration, and cold-chain practices before resuming operations.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Milk Banks",
+    "Human Milk",
+    "Contamination",
+    "Product Recall",
+    "Pasteurization",
+    "Root Cause Analysis",
+    "Corrective and Preventive Actions",
+    "Cold Chain"
+  ],
+  "tags_custom": [
+    "contamination management",
+    "milk bank safety",
+    "traceability protocols",
+    "NICU communication"
+  ],
+  "reference_quote": "A contamination event in a human milk bank should be managed like a tissue/blood product deviation, with rapid quarantine, traceability-based recipient identification, and documented corrective actions.",
+  "document_key_topics": [
+    "Contamination triggers and investigation in milk banks",
+    "Quarantine and traceability protocols for DHM",
+    "Root cause analysis and corrective actions",
+    "Communication with NICU teams and families"
+  ],
+  "chunk_heading": "EXPRESSED MILK, DONOR MILK & MILK BANKING;CONTAMINATION INVESTIGATION AND PRODUCT RECALL IN MILK BANKS;",
+  "topic": "EXPRESSED MILK, DONOR MILK & MILK BANKING",
+  "subtopic": "CONTAMINATION INVESTIGATION AND PRODUCT RECALL IN MILK BANKS",
+  "sub_subtopic": null,
+  "heading_path": "EXPRESSED MILK, DONOR MILK & MILK BANKING;CONTAMINATION INVESTIGATION AND PRODUCT RECALL IN MILK BANKS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2r"
+}

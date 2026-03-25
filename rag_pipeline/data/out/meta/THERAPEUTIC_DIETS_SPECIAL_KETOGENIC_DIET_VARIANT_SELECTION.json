@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "Ketogenic diet variants should be tailored to urgency, feeding route, and family capacity, with initiation settings based on risk factors such as age, medical complexity, and caregiver reliability.",
+  "learning_objectives": [
+    "Understand the four main ketogenic diet variants and their clinical applications.",
+    "Identify risk-based criteria for inpatient versus outpatient initiation of ketogenic dietary therapy.",
+    "Learn key considerations for matching dietary protocols to patient and caregiver needs.",
+    "Recognize potential failure modes and nutritional deficiencies in specific ketogenic diet variants."
+  ],
+  "key_facts": [
+    "Four ketogenic diet variants include: classic (3:1\u20134:1 ratio), MCT diet, modified Atkins diet (MAD), and low glycemic index treatment (LGIT).",
+    "Classic ketogenic diet is preferred for rapid ketosis, especially in infants or tube-fed patients.",
+    "MAD is suitable for school-age children and adolescents but risks 'carbohydrate creep' and hidden sugars.",
+    "LGIT allows higher carbohydrate intake and fits Indian dietary patterns when classic ratios are impractical.",
+    "Inpatient initiation is recommended for infants, medically complex children, or those at risk of dehydration or metabolic disease.",
+    "Outpatient initiation is feasible for stable older children with reliable caregivers and access to labs."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Ketogenic Diet",
+    "Epilepsy",
+    "Diet Therapy",
+    "Medium-Chain Triglycerides",
+    "Low Glycemic Index Diet",
+    "Nutritional Deficiencies",
+    "Pediatrics",
+    "Dietary Carbohydrates"
+  ],
+  "tags_custom": [
+    "dietary interventions",
+    "epilepsy management",
+    "ketogenic protocols",
+    "nutritional planning",
+    "risk-based initiation"
+  ],
+  "reference_quote": "Optimal Clinical Management of Children Receiving Dietary Therapies for Epilepsy recommends tailoring ketogenic diet protocols to individual patient needs, emphasizing risk-based initiation settings and caregiver capacity.",
+  "document_key_topics": [
+    "Ketogenic diet variants and their applications",
+    "Risk-based initiation settings for dietary therapy",
+    "Nutritional considerations and failure modes",
+    "Tailoring dietary protocols to patient and caregiver needs"
+  ],
+  "chunk_heading": "THERAPEUTIC DIETS & SPECIAL INTERVENTIONS;KETOGENIC DIET VARIANT SELECTION AND INITIATION SETTING;",
+  "topic": "THERAPEUTIC DIETS & SPECIAL INTERVENTIONS",
+  "subtopic": "KETOGENIC DIET VARIANT SELECTION AND INITIATION SETTING",
+  "sub_subtopic": null,
+  "heading_path": "THERAPEUTIC DIETS & SPECIAL INTERVENTIONS;KETOGENIC DIET VARIANT SELECTION AND INITIATION SETTING;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1i"
+}

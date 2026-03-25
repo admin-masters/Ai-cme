@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Micronutrient surveillance and bone health monitoring are critical in pediatric IBD to prevent growth failure, anemia, and low bone density. Regular panels, growth tracking, and proactive bone health strategies are essential, especially during active disease or flares.",
+  "learning_objectives": [
+    "Understand the role of micronutrient surveillance in pediatric IBD management.",
+    "Learn the recommended monitoring schedule for growth and bone health in children with IBD.",
+    "Identify risk factors for low bone mineral density and strategies for prevention.",
+    "Integrate nutritional recovery with pharmacotherapy to optimize treatment outcomes."
+  ],
+  "key_facts": [
+    "Micronutrient panels should include CBC, iron status, albumin, vitamin D (25(OH)D), and calcium, with B12 and folate added for Crohn\u2019s disease with ileal involvement.",
+    "Repeat panels 8\u201312 weeks after induction therapy and annually in remission; shorter intervals are needed during active disease or poor growth.",
+    "Track weight, height, growth velocity, and Tanner stage annually; failure to improve height velocity within 6\u201312 months warrants reassessment.",
+    "Children with prolonged inflammation, delayed puberty, low BMI, or repeated steroid exposure are at risk for low bone density; DXA scans may be needed for high-risk patients.",
+    "Ensure adequate calcium and vitamin D intake, correct deficiencies, and encourage weight-bearing activities to support bone health."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Inflammatory Bowel Diseases",
+    "Micronutrients",
+    "Bone Density",
+    "Growth Disorders",
+    "Vitamin D Deficiency",
+    "Calcium Deficiency",
+    "Pediatrics",
+    "Nutrition Assessment"
+  ],
+  "tags_custom": [
+    "Pediatric IBD nutrition",
+    "Bone health monitoring",
+    "Growth tracking",
+    "Micronutrient deficiency",
+    "IBD flare management"
+  ],
+  "reference_quote": "Micronutrient deficiency is both a cause and consequence of active IBD and predicts poor growth. A surveillance schedule prevents the 'symptoms improved' trap in which anemia and low bone density persist. (NASPGHAN clinical report)",
+  "document_key_topics": [
+    "Micronutrient surveillance in pediatric IBD",
+    "Growth tracking and Tanner staging",
+    "Bone health risk factors and monitoring",
+    "Integration of nutrition with pharmacotherapy"
+  ],
+  "chunk_heading": "NUTRITION IN GI DISORDERS & MALABSORPTION;PEDIATRIC IBD NUTRITION AND GROWTH PRESERVATION;MICRONUTRIENT SURVEILLANCE AND BONE HEALTH MONITORING SCHEDULE;",
+  "topic": "NUTRITION IN GI DISORDERS & MALABSORPTION",
+  "subtopic": "PEDIATRIC IBD NUTRITION AND GROWTH PRESERVATION",
+  "sub_subtopic": "MICRONUTRIENT SURVEILLANCE AND BONE HEALTH MONITORING SCHEDULE",
+  "heading_path": "NUTRITION IN GI DISORDERS & MALABSORPTION;PEDIATRIC IBD NUTRITION AND GROWTH PRESERVATION;MICRONUTRIENT SURVEILLANCE AND BONE HEALTH MONITORING SCHEDULE;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2\u00805"
+}

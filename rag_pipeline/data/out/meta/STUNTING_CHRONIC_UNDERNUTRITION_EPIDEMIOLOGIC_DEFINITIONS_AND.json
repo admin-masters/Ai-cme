@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Stunting, a marker of chronic undernutrition, is defined as height-for-age below -2 SD from WHO standards. India faces a high burden of stunting, wasting, and anemia in children under 5 years, as reported by NFHS-5 and CNNS benchmarks.",
+  "learning_objectives": [
+    "Understand the epidemiologic definition of stunting and its classification criteria.",
+    "Analyze the national burden of stunting and related conditions in India using NFHS-5 and CNNS data.",
+    "Learn the importance of accurate measurement techniques and corrected age for preterm infants.",
+    "Identify determinants and red flags for growth faltering in pediatric practice."
+  ],
+  "key_facts": [
+    "Stunting is defined as height-for-age below -2 SD from WHO child growth standards; severe stunting is < -3 SD.",
+    "NFHS-5 (2019\u201321) reports high prevalence of stunting, wasting, and anemia among children under 5 years in India.",
+    "CNNS (2016\u201318) provides biomarker data on micronutrient deficits and inflammation pathways.",
+    "Corrected age is essential for preterm infants to avoid false labeling of stunting during infancy.",
+    "WHO growth reference charts for ages 5\u201319 years or IAP charts are recommended for school-age children."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Stunting",
+    "Malnutrition",
+    "Child Growth",
+    "Epidemiology",
+    "India",
+    "Micronutrient Deficiency",
+    "Anthropometry",
+    "Pediatrics"
+  ],
+  "tags_custom": [
+    "Chronic undernutrition",
+    "Growth standards",
+    "NFHS-5 data",
+    "CNNS benchmarks",
+    "Pediatric growth faltering"
+  ],
+  "reference_quote": "NFHS-5 (2019\u201321) reports a high national burden among children under 5 years, with stunting and wasting remaining common and anemia extremely prevalent in 6\u201359 month children.",
+  "document_key_topics": [
+    "Definition and classification of stunting",
+    "National burden of stunting and wasting in India",
+    "Measurement techniques and corrected age for preterm infants",
+    "Role of biomarkers in assessing micronutrient deficits"
+  ],
+  "chunk_heading": "STUNTING, CHRONIC UNDERNUTRITION & DETERMINANTS;EPIDEMIOLOGIC DEFINITIONS AND BURDEN IN INDIA;",
+  "topic": "STUNTING, CHRONIC UNDERNUTRITION & DETERMINANTS",
+  "subtopic": "EPIDEMIOLOGIC DEFINITIONS AND BURDEN IN INDIA",
+  "sub_subtopic": null,
+  "heading_path": "STUNTING, CHRONIC UNDERNUTRITION & DETERMINANTS;EPIDEMIOLOGIC DEFINITIONS AND BURDEN IN INDIA;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "1a"
+}

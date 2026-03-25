@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "Guidance on managing feeding fatigue in preterm/LBW/ELBW infants with congenital heart disease, focusing on energy needs, feeding strategies, and multidisciplinary care to prevent growth faltering and complications.",
+  "learning_objectives": [
+    "Understand the energy and feeding challenges in infants with congenital heart disease (CHD).",
+    "Learn strategies to manage feeding fatigue, including pacing and nutrient concentration.",
+    "Recognize signs of growth faltering and when to escalate care to a multidisciplinary team.",
+    "Incorporate electrolyte and bone-mineral monitoring in nutrition plans for infants on diuretics."
+  ],
+  "key_facts": [
+    "Infants with hemodynamically significant CHD often have increased energy needs but limited feeding endurance.",
+    "Short, frequent feeds with pacing are recommended to reduce fatigue and aspiration risk.",
+    "Feeds should not exceed one hour; prolonged feeds can worsen fatigue and increase complications.",
+    "Concentrate feeds cautiously and stepwise, monitoring hydration and growth proportionality.",
+    "Signs like diaphoresis, tachypnea during feeds, or recurrent respiratory infections warrant cardiology and nutrition review.",
+    "Electrolyte and bone-mineral monitoring is essential for infants on diuretics for heart failure."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Congenital Heart Disease",
+    "Feeding Behavior",
+    "Infant, Low Birth Weight",
+    "Energy Metabolism",
+    "Growth Disorders",
+    "Diuretics",
+    "Nutritional Support",
+    "Respiratory Insufficiency"
+  ],
+  "tags_custom": [
+    "feeding fatigue",
+    "growth faltering",
+    "nutrition management",
+    "preterm infants",
+    "cardiology care"
+  ],
+  "reference_quote": "The safest route to higher intake depends on endurance and respiratory stability rather than on a single 'calorie goal.'",
+  "document_key_topics": [
+    "Feeding fatigue in CHD infants",
+    "Energy and nutrient optimization",
+    "Multidisciplinary care for growth faltering",
+    "Electrolyte and bone-mineral monitoring in diuretic use"
+  ],
+  "chunk_heading": "PRETERM/LBW/ELBW POST-DISCHARGE NUTRITION;COMORBIDITY-SPECIFIC NUTRITION MODIFICATIONS AFTER DISCHARGE;CONGENITAL HEART DISEASE FEEDING FATIGUE MANAGEMENT;",
+  "topic": "PRETERM/LBW/ELBW POST-DISCHARGE NUTRITION",
+  "subtopic": "COMORBIDITY-SPECIFIC NUTRITION MODIFICATIONS AFTER DISCHARGE",
+  "sub_subtopic": "CONGENITAL HEART DISEASE FEEDING FATIGUE MANAGEMENT",
+  "heading_path": "PRETERM/LBW/ELBW POST-DISCHARGE NUTRITION;COMORBIDITY-SPECIFIC NUTRITION MODIFICATIONS AFTER DISCHARGE;CONGENITAL HEART DISEASE FEEDING FATIGUE MANAGEMENT;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2\u00952.1"
+}

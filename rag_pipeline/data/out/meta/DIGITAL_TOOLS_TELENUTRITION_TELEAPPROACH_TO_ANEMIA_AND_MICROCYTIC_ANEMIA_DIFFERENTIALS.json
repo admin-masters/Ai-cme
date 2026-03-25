@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Tele-nutrition for microcytic anemia requires careful differentiation of iron deficiency and hemoglobinopathies using indices, severity classification, and response checkpoints to ensure safe supplementation and timely escalation.",
+  "learning_objectives": [
+    "Understand the role of tele-nutrition in managing anemia and micronutrient deficiencies.",
+    "Learn to differentiate iron deficiency anemia from thalassemia trait using indices like MCV, RDW, and Mentzer index.",
+    "Identify triggers for in-person evaluation in severe anemia or cardiopulmonary compromise.",
+    "Establish response checkpoints for iron supplementation and manage non-response effectively."
+  ],
+  "key_facts": [
+    "Microcytosis with RDW >13 suggests iron deficiency, while Mentzer index <13 suggests thalassemia trait.",
+    "Severe anemia or cardiopulmonary symptoms require urgent in-person evaluation, not remote management.",
+    "Expected hemoglobin rise in iron deficiency anemia is ~1 g/dL within 14 days; lack of response warrants further investigation.",
+    "Hemoglobin cutoff tables should distinguish programmatic thresholds (e.g., MoHFW) from WHO reference cutoffs for comparability.",
+    "India has a high prevalence of hemoglobinopathies and mixed anemia, necessitating careful interpretation before intensifying iron supplementation."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Anemia, Microcytic",
+    "Iron Deficiency",
+    "Hemoglobinopathies",
+    "Telemedicine",
+    "Nutritional Support",
+    "Mentzer Index",
+    "Micronutrients",
+    "Thalassemia"
+  ],
+  "tags_custom": [
+    "tele-nutrition",
+    "anemia management",
+    "safe supplementation",
+    "remote care protocols",
+    "diagnostic indices"
+  ],
+  "reference_quote": "WHO guideline on haemoglobin cutoffs to define anaemia (2024): 'Severe anemia thresholds require urgent in-person evaluation to prevent cardiopulmonary compromise.'",
+  "document_key_topics": [
+    "Tele-nutrition for anemia management",
+    "Differentiating microcytic anemia causes",
+    "Safe iron supplementation protocols",
+    "Response checkpoints in anemia treatment"
+  ],
+  "chunk_heading": "DIGITAL TOOLS & TELE-NUTRITION;TELE-APPROACH TO ANEMIA AND MICRONUTRIENT DEFICIENCIES WITH SAFE SUPPLEMENTATION;MICROCYTIC ANEMIA DIFFERENTIALS AND HEMOGLOBINOPATHY SCREENING STOP RULES;",
+  "topic": "DIGITAL TOOLS & TELE-NUTRITION",
+  "subtopic": "TELE-APPROACH TO ANEMIA AND MICRONUTRIENT DEFICIENCIES WITH SAFE SUPPLEMENTATION",
+  "sub_subtopic": "MICROCYTIC ANEMIA DIFFERENTIALS AND HEMOGLOBINOPATHY SCREENING STOP RULES",
+  "heading_path": "DIGITAL TOOLS & TELE-NUTRITION;TELE-APPROACH TO ANEMIA AND MICRONUTRIENT DEFICIENCIES WITH SAFE SUPPLEMENTATION;MICROCYTIC ANEMIA DIFFERENTIALS AND HEMOGLOBINOPATHY SCREENING STOP RULES;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u00842"
+}

@@ -1,0 +1,46 @@
+{
+  "chunk_summary": "Surgical intervention in acute osteoarticular infections is essential when antibiotics fail, diagnostic certainty requires tissue, or complications like abscesses or necrosis arise. Early specialist review is critical for high-risk sites like the hip or spine.",
+  "learning_objectives": [
+    "Understand the indications for surgical intervention in acute osteoarticular infections.",
+    "Identify scenarios requiring urgent drainage or debridement in septic arthritis and osteomyelitis.",
+    "Recognize the importance of multidisciplinary collaboration in managing complex bone infections."
+  ],
+  "key_facts": [
+    "Urgent drainage is mandatory in septic arthritis to prevent cartilage damage.",
+    "Surgical or image-guided drainage is indicated for subperiosteal abscess, intramuscular abscess, or large collections.",
+    "Failure to improve after 48-72 hours of antibiotics necessitates surgical reassessment.",
+    "Delayed drainage in the hip, shoulder, pelvis, or spine increases risks of osteonecrosis, neurologic injury, or disability.",
+    "Routine use of local antibiotic beads is not recommended in most pediatric cases."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Osteomyelitis",
+    "Septic Arthritis",
+    "Surgical Debridement",
+    "Bone Biopsy",
+    "Abscess Drainage",
+    "Pediatric Infections",
+    "Cartilage Damage",
+    "Multidisciplinary Care"
+  ],
+  "tags_custom": [
+    "acute bone infections",
+    "surgical source control",
+    "pediatric osteomyelitis",
+    "septic arthritis management"
+  ],
+  "reference_quote": "In septic arthritis, urgent drainage is the default because pus within the joint rapidly injures cartilage. (Source: Indian Academy of Pediatrics Consensus Statement)",
+  "document_key_topics": [
+    "Indications for surgical intervention in bone infections",
+    "Management of septic arthritis and osteomyelitis",
+    "Role of multidisciplinary teams in infection control"
+  ],
+  "chunk_heading": "BONE INFECTIONS;SURGICAL SOURCE CONTROL AND IMPLANT ASSOCIATED INFECTIONS;OPERATIVE INDICATIONS IN ACUTE OSTEOARTICULAR INFECTION;",
+  "topic": "BONE INFECTIONS",
+  "subtopic": "SURGICAL SOURCE CONTROL AND IMPLANT ASSOCIATED INFECTIONS",
+  "sub_subtopic": "OPERATIVE INDICATIONS IN ACUTE OSTEOARTICULAR INFECTION",
+  "heading_path": "BONE INFECTIONS;SURGICAL SOURCE CONTROL AND IMPLANT ASSOCIATED INFECTIONS;OPERATIVE INDICATIONS IN ACUTE OSTEOARTICULAR INFECTION;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1y1"
+}

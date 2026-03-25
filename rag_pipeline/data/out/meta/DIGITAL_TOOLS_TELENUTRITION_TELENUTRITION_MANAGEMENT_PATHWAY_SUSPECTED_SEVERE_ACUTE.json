@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section outlines tele-nutrition protocols for triaging suspected severe acute malnutrition (SAM) in children aged 6\u201359 months, emphasizing early identification, urgent referral, and caregiver education to ensure safe stabilization and follow-up care.",
+  "learning_objectives": [
+    "Understand the criteria for identifying suspected severe acute malnutrition (SAM) in children aged 6\u201359 months.",
+    "Learn tele-triage protocols for assessing danger signs and determining referral urgency.",
+    "Recognize the importance of caregiver education and interim safety measures during referral.",
+    "Familiarize with community-based protocols and their limitations in India."
+  ],
+  "key_facts": [
+    "Suspected SAM in children aged 6\u201359 months includes MUAC <115 mm, very low weight-for-height/length, or bilateral pitting oedema.",
+    "Presence of any danger sign or oedema necessitates urgent referral to a stabilization facility.",
+    "Danger signs include lethargy, fever, hypothermia, respiratory distress, persistent vomiting, dehydration, and severe anemia.",
+    "Interim advice includes small frequent feeds, maintaining warmth, and avoiding force-feeding during travel to a facility.",
+    "Community-based protocols may be possible for uncomplicated SAM, but availability of therapeutic foods and trained programs varies by state in India."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Severe Acute Malnutrition",
+    "Telemedicine",
+    "Nutritional Support",
+    "Child Nutrition Disorders",
+    "Referral and Consultation",
+    "Triage",
+    "Nutrition Assessment",
+    "Community Health Services"
+  ],
+  "tags_custom": [
+    "tele-nutrition",
+    "acute malnutrition",
+    "child health",
+    "referral protocols",
+    "caregiver education"
+  ],
+  "reference_quote": "Severe acute malnutrition (SAM) can deteriorate rapidly due to hypoglycemia, hypothermia, infection, and electrolyte imbalance, so tele-nutrition should prioritize early identification and urgent referral rather than remote 'treatment.'",
+  "document_key_topics": [
+    "Severe acute malnutrition (SAM) identification and triage",
+    "Tele-nutrition protocols for referral and stabilization",
+    "Caregiver education and interim safety measures",
+    "Community-based management of uncomplicated SAM"
+  ],
+  "chunk_heading": "DIGITAL TOOLS & TELE-NUTRITION;TELE-NUTRITION MANAGEMENT PATHWAY FOR ACUTE MALNUTRITION;SUSPECTED SEVERE ACUTE MALNUTRITION TRIAGE AND FACILITY REFERRAL;",
+  "topic": "DIGITAL TOOLS & TELE-NUTRITION",
+  "subtopic": "TELE-NUTRITION MANAGEMENT PATHWAY FOR ACUTE MALNUTRITION",
+  "sub_subtopic": "SUSPECTED SEVERE ACUTE MALNUTRITION TRIAGE AND FACILITY REFERRAL",
+  "heading_path": "DIGITAL TOOLS & TELE-NUTRITION;TELE-NUTRITION MANAGEMENT PATHWAY FOR ACUTE MALNUTRITION;SUSPECTED SEVERE ACUTE MALNUTRITION TRIAGE AND FACILITY REFERRAL;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1}2"
+}

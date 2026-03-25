@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "This section discusses screening and initial management of obstructive sleep apnea (OSA) in children with metabolic risk, emphasizing routine screening, diagnostic guidelines, and management strategies including adenotonsillectomy and weight loss.",
+  "learning_objectives": [
+    "Understand the impact of obstructive sleep apnea on cardiometabolic risk in children.",
+    "Learn the recommended screening criteria and diagnostic approaches for OSA in pediatric metabolic risk clinics.",
+    "Identify first-line management strategies for OSA, including adenotonsillectomy and weight loss.",
+    "Recognize practical constraints in low-resource settings and prioritize risk-based referrals."
+  ],
+  "key_facts": [
+    "Sleep-disordered breathing worsens insulin resistance, increases blood pressure, and negatively affects liver health.",
+    "Routine screening for OSA includes symptoms such as snoring \u22653 nights/week, witnessed apneas, daytime sleepiness, and morning headaches.",
+    "The 2012 AAP guideline recommends overnight polysomnography (PSG) for children with snoring and OSA symptoms.",
+    "Adenotonsillectomy is the first-line therapy for OSA when adenotonsillar hypertrophy is present.",
+    "Weight loss is recommended for children with OSA and obesity to improve outcomes.",
+    "In low-access settings, prioritize referrals for children with significant symptoms, hypertension, or severe obesity."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Obstructive Sleep Apnea",
+    "Metabolic Syndrome",
+    "Pediatric Obesity",
+    "Polysomnography",
+    "Adenotonsillectomy",
+    "Hypertension",
+    "Insulin Resistance",
+    "Sleep Disorders"
+  ],
+  "tags_custom": [
+    "OSA screening",
+    "pediatric metabolic risk",
+    "low-resource management",
+    "cardiometabolic impact",
+    "weight loss intervention"
+  ],
+  "reference_quote": "The 2012 AAP guideline recommends overnight polysomnography (PSG) for children who snore and have symptoms or signs of OSA. When PSG is unavailable, alternative testing or referral to a specialist is recommended rather than dismissing symptoms. (Source: https://pubmed.ncbi.nlm.nih.gov/22926173/)",
+  "document_key_topics": [
+    "Impact of obstructive sleep apnea on metabolic risk in children",
+    "Screening criteria and diagnostic guidelines for OSA",
+    "Management strategies for OSA, including adenotonsillectomy and weight loss",
+    "Challenges in low-resource settings for OSA diagnosis and treatment"
+  ],
+  "chunk_heading": "METABOLIC RISK IN CHILDREN;LONGITUDINAL FOLLOW-UP AND COMORBIDITY MODULES;OBSTRUCTIVE SLEEP APNEA SCREENING AND INITIAL MANAGEMENT;",
+  "topic": "METABOLIC RISK IN CHILDREN",
+  "subtopic": "LONGITUDINAL FOLLOW-UP AND COMORBIDITY MODULES",
+  "sub_subtopic": "OBSTRUCTIVE SLEEP APNEA SCREENING AND INITIAL MANAGEMENT",
+  "heading_path": "METABOLIC RISK IN CHILDREN;LONGITUDINAL FOLLOW-UP AND COMORBIDITY MODULES;OBSTRUCTIVE SLEEP APNEA SCREENING AND INITIAL MANAGEMENT;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1\u009d2.1"
+}

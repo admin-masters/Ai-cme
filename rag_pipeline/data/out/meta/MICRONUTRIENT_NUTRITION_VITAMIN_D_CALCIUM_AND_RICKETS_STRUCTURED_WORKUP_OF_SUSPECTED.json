@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Structured workup for suspected rickets involves biochemical tests, radiology, and targeted evaluations to differentiate nutritional rickets from renal, endocrine, or genetic causes.",
+  "learning_objectives": [
+    "Understand the biochemical markers used to diagnose nutritional rickets.",
+    "Learn the role of radiological findings in confirming rickets and monitoring treatment response.",
+    "Identify criteria for broadening evaluation to non-nutritional causes of rickets.",
+    "Recognize the importance of structured clinical pathways in managing suspected rickets."
+  ],
+  "key_facts": [
+    "Initial tests include serum calcium, phosphate, alkaline phosphatase, albumin, creatinine, and magnesium (if hypocalcemia is suspected).",
+    "Classic nutritional rickets shows high alkaline phosphatase, low phosphate, and variable calcium levels.",
+    "Radiographs of the wrist or knee showing metaphyseal cupping, fraying, and widened growth plates confirm rickets.",
+    "Vitamin D deficiency is confirmed with 25(OH)D levels; secondary hyperparathyroidism is identified via PTH testing.",
+    "A correctly prescribed 12-week regimen of vitamin D and calcium should show biochemical and radiologic improvement."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Rickets",
+    "Vitamin D Deficiency",
+    "Calcium Metabolism Disorders",
+    "Biochemical Markers",
+    "Radiography",
+    "Hyperparathyroidism",
+    "Renal Tubular Disorders",
+    "Metabolic Acidosis"
+  ],
+  "tags_custom": [
+    "nutritional rickets",
+    "clinical pathways",
+    "structured workup",
+    "pediatric bone health",
+    "diagnostic criteria"
+  ],
+  "reference_quote": "Suspected rickets should be evaluated with a structured pathway that distinguishes nutritional rickets from renal tubular and genetic disorders. (Source: https://iapindia.org/pdf/Ch-013-Rickets.pdf)",
+  "document_key_topics": [
+    "Biochemical evaluation for rickets",
+    "Radiological diagnosis of rickets",
+    "Differentiating nutritional and non-nutritional rickets",
+    "Vitamin D and calcium treatment protocols"
+  ],
+  "chunk_heading": "MICRONUTRIENT NUTRITION;VITAMIN D, CALCIUM, AND RICKETS CLINICAL DECISION PATHWAYS;STRUCTURED WORKUP OF SUSPECTED   RICKETS;",
+  "topic": "MICRONUTRIENT NUTRITION",
+  "subtopic": "VITAMIN D, CALCIUM, AND RICKETS CLINICAL DECISION PATHWAYS",
+  "sub_subtopic": "STRUCTURED WORKUP OF SUSPECTED   RICKETS",
+  "heading_path": "MICRONUTRIENT NUTRITION;VITAMIN D, CALCIUM, AND RICKETS CLINICAL DECISION PATHWAYS;STRUCTURED WORKUP OF SUSPECTED   RICKETS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u00852"
+}

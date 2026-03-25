@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "Defines follow-up cadence and monitoring metrics for feeding support in neurodisability, stratified by risk tiers, with practical guidelines for Indian practice and tele-follow-up options.",
+  "learning_objectives": [
+    "Understand the classification of risk tiers for feeding support in neurodisability.",
+    "Learn the recommended follow-up cadence for each risk tier, including numeric guidelines.",
+    "Identify standardized monitoring metrics for tracking feeding safety and efficiency.",
+    "Explore tele-follow-up strategies for caregivers facing travel barriers."
+  ],
+  "key_facts": [
+    "Risk tiers are categorized as low, moderate, and high based on feeding safety, growth, and respiratory events.",
+    "High-risk patients require reviews every 2\u20134 weeks until stable, then every 2\u20133 months.",
+    "Moderate-risk patients need reviews every 6\u20138 weeks until stable, then every 3\u20136 months.",
+    "Low-risk patients should be reviewed every 6 months, with earlier reviews after respiratory infections.",
+    "Standardized metrics include EDACS, IDDSI levels, meal duration, hydration markers, and respiratory burden.",
+    "Tele-follow-up can be used for stability checks, with caregivers sharing videos for assessment."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Neurodevelopmental Disorders",
+    "Feeding and Eating Disorders",
+    "Nutritional Status",
+    "Respiratory Tract Infections",
+    "Caregivers",
+    "Telemedicine",
+    "Growth Monitoring",
+    "Swallowing Disorders"
+  ],
+  "tags_custom": [
+    "feeding support",
+    "risk stratification",
+    "follow-up cadence",
+    "caregiver education",
+    "telehealth"
+  ],
+  "reference_quote": "\"Define a risk tier at each visit using swallow safety, efficiency, respiratory events, and caregiver feasibility, then match review frequency to risk.\" (Source: ESPGHAN Advice Guide)",
+  "document_key_topics": [
+    "Risk stratification for feeding support",
+    "Follow-up cadence for neurodisability patients",
+    "Standardized monitoring metrics",
+    "Tele-follow-up for caregiver support"
+  ],
+  "chunk_heading": "NEURODISABILITY & FEEDING SUPPORT;FOLLOW-UP CADENCE AND STANDARDIZED MONITORING METRICS BY RISK TIER;",
+  "topic": "NEURODISABILITY & FEEDING SUPPORT",
+  "subtopic": "FOLLOW-UP CADENCE AND STANDARDIZED MONITORING METRICS BY RISK TIER",
+  "sub_subtopic": null,
+  "heading_path": "NEURODISABILITY & FEEDING SUPPORT;FOLLOW-UP CADENCE AND STANDARDIZED MONITORING METRICS BY RISK TIER;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "1j"
+}

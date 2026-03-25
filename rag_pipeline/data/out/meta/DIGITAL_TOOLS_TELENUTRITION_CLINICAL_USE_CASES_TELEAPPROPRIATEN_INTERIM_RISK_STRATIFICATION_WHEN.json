@@ -1,0 +1,46 @@
+{
+  "chunk_summary": "Guidance on interim risk stratification in tele-nutrition when reliable anthropometry is unavailable, using clinical, functional, and social domains to guide actions and referrals.",
+  "learning_objectives": [
+    "Understand the importance of interim risk stratification in tele-nutrition when anthropometric data is unavailable.",
+    "Identify and apply the four domains of risk assessment: danger signs, feeding function, activity/function, and social/safeguarding risks.",
+    "Learn appropriate actions for low, moderate, and high interim risk levels, including referral and follow-up workflows."
+  ],
+  "key_facts": [
+    "Interim risk stratification is essential when reliable anthropometry is unavailable due to barriers like migration or device unavailability.",
+    "Four domains guide risk assessment: danger signs, feeding function, activity/function, and social/safeguarding risks.",
+    "Low risk requires a behavior plan and measurement verification within a scheduled timeframe.",
+    "Moderate risk necessitates clinician review, a high-safety essentials plan, and measurement within 7\u201314 days.",
+    "High risk (e.g., danger signs, suspected SAM) mandates immediate triage and referral, halting routine tele-counseling."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Telemedicine",
+    "Nutrition Assessment",
+    "Risk Assessment",
+    "Malnutrition",
+    "Anthropometry",
+    "Child Nutrition Disorders",
+    "Referral and Consultation",
+    "Health Services Accessibility"
+  ],
+  "tags_custom": [
+    "tele-nutrition",
+    "interim risk stratification",
+    "clinical workflows",
+    "safety stop rules"
+  ],
+  "reference_quote": "Telemedicine Practice Guidelines (MoHFW/Board of Governors, 2020): 'Tele-nutrition workflows should not stall when reliable anthropometry cannot be obtained for weeks due to migration, rural access barriers, device unavailability, or caregiver constraints.'",
+  "document_key_topics": [
+    "Interim risk stratification in tele-nutrition",
+    "Clinical workflows for tele-appropriateness",
+    "Safety stop rules and referral triggers"
+  ],
+  "chunk_heading": "DIGITAL TOOLS & TELE-NUTRITION;CLINICAL USE CASES, TELE-APPROPRIATENESS, AND SAFETY STOP RULES;INTERIM RISK STRATIFICATION WHEN RELIABLE ANTHROPOMETRY IS UNAVAILABLE;",
+  "topic": "DIGITAL TOOLS & TELE-NUTRITION",
+  "subtopic": "CLINICAL USE CASES, TELE-APPROPRIATENESS, AND SAFETY STOP RULES",
+  "sub_subtopic": "INTERIM RISK STRATIFICATION WHEN RELIABLE ANTHROPOMETRY IS UNAVAILABLE",
+  "heading_path": "DIGITAL TOOLS & TELE-NUTRITION;CLINICAL USE CASES, TELE-APPROPRIATENESS, AND SAFETY STOP RULES;INTERIM RISK STRATIFICATION WHEN RELIABLE ANTHROPOMETRY IS UNAVAILABLE;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1l2"
+}

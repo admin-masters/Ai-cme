@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Guidelines for preventing fortifier preparation errors in expressed and donor milk emphasize error-proofing, recipe standardization, hygiene, and time controls to ensure safety and nutritional accuracy.",
+  "learning_objectives": [
+    "Understand the importance of treating human milk fortifier (HMF) preparation as a high-risk process.",
+    "Learn proper hygiene and handling protocols for fortifier preparation to prevent contamination.",
+    "Recognize the role of recipe standardization and independent double-checks in reducing errors.",
+    "Apply time controls and storage guidelines to maintain milk safety and efficacy."
+  ],
+  "key_facts": [
+    "Fortified milk should be refrigerated promptly and used within 24 hours.",
+    "Continuous feeding hang time is commonly limited to 4 hours per unit policy.",
+    "Powdered HMF is not sterile; minimize air exposure and prepare the smallest practical batch.",
+    "Use single-use sachets and avoid scooping from bulk containers to reduce contamination risk.",
+    "Label fortified milk with infant identifier, fortifier strength, and preparation time for accuracy."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Milk Banks",
+    "Human Milk",
+    "Infant Nutrition",
+    "Milk Fortifiers",
+    "Contamination Prevention",
+    "Hygiene",
+    "Feeding Guidelines",
+    "Osmolarity"
+  ],
+  "tags_custom": [
+    "fortifier preparation",
+    "milk safety",
+    "contamination prevention",
+    "feeding protocols",
+    "nutritional accuracy"
+  ],
+  "reference_quote": "Treat human milk fortifier (HMF) preparation as a high-risk medication process with error-proofing rather than relying on individual vigilance. (Reference 1)",
+  "document_key_topics": [
+    "Fortifier preparation errors",
+    "Hygiene and contamination prevention",
+    "Recipe standardization and labeling",
+    "Time controls for fortified milk"
+  ],
+  "chunk_heading": "EXPRESSED MILK, DONOR MILK & MILK BANKING;PREVENTION OF FORTIFIER PREPARATION ERRORS;",
+  "topic": "EXPRESSED MILK, DONOR MILK & MILK BANKING",
+  "subtopic": "PREVENTION OF FORTIFIER PREPARATION ERRORS",
+  "sub_subtopic": null,
+  "heading_path": "EXPRESSED MILK, DONOR MILK & MILK BANKING;PREVENTION OF FORTIFIER PREPARATION ERRORS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2w"
+}

@@ -1,0 +1,47 @@
+{
+  "chunk_summary": "Guidelines for discharge nutrition prescriptions in persistent diarrhea, emphasizing measurable plans, micronutrient supplementation, follow-up schedules, and caregiver education to prevent malnutrition.",
+  "learning_objectives": [
+    "Understand the importance of measurable discharge nutrition plans for persistent diarrhea.",
+    "Learn age-specific dosing for Vitamin A and iron supplementation during recovery.",
+    "Identify follow-up schedules and stop rules for diet progression in malnourished children.",
+    "Educate caregivers on preventing iatrogenic malnutrition during diarrhea management."
+  ],
+  "key_facts": [
+    "Vitamin A dosing: 50,000 IU for infants <6 months, 100,000 IU for 6\u201312 months, and 200,000 IU for >12 months as a single dose.",
+    "Iron supplementation: Start after acute diarrhea ends, at 3 mg/kg/day elemental iron when tolerated.",
+    "Target intake: Expressed as kcal/kg/day for under-5 programs, with planned feed frequency and ORS for ongoing losses.",
+    "Follow-up: Reassess within 48\u201372 hours for dehydration or weight loss; otherwise within 7 days for diet-stage decisions.",
+    "Stop rules: Escalate diet stage or refer if no improvement after 7 days; return precautions include blood in stool, vomiting, reduced urine output, edema, or lethargy."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Diarrhea",
+    "Malnutrition",
+    "Micronutrients",
+    "Vitamin A",
+    "Iron",
+    "Oral Rehydration Solutions",
+    "Diet Therapy",
+    "Breastfeeding"
+  ],
+  "tags_custom": [
+    "Persistent diarrhea protocols",
+    "Discharge nutrition planning",
+    "Caregiver education",
+    "Follow-up guidelines"
+  ],
+  "reference_quote": "Persistent diarrhea requires measurable nutrition plans, including kcal/kg/day targets, micronutrient supplementation, and caregiver scripts to prevent malnutrition. (IAP Standard Treatment Guidelines: Persistent diarrhea, Chapter 030)",
+  "document_key_topics": [
+    "Discharge nutrition prescription for persistent diarrhea",
+    "Micronutrient supplementation guidelines",
+    "Follow-up and stop rules for diet progression"
+  ],
+  "chunk_heading": "NUTRITION IN GI DISORDERS & MALABSORPTION;NUTRITION REHABILITATION AND PERSISTENT DIARRHEA PROTOCOLS;DISCHARGE NUTRITION PRESCRIPTION WITH FOLLOW-UP AND STOP RULES;",
+  "topic": "NUTRITION IN GI DISORDERS & MALABSORPTION",
+  "subtopic": "NUTRITION REHABILITATION AND PERSISTENT DIARRHEA PROTOCOLS",
+  "sub_subtopic": "DISCHARGE NUTRITION PRESCRIPTION WITH FOLLOW-UP AND STOP RULES",
+  "heading_path": "NUTRITION IN GI DISORDERS & MALABSORPTION;NUTRITION REHABILITATION AND PERSISTENT DIARRHEA PROTOCOLS;DISCHARGE NUTRITION PRESCRIPTION WITH FOLLOW-UP AND STOP RULES;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2t7"
+}

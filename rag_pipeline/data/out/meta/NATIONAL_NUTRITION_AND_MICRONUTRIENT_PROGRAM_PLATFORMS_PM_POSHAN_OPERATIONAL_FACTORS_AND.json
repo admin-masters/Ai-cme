@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "Operational factors in the PM POSHAN scheme impact pediatric nutrition outcomes, requiring clinicians to identify and document issues like meal intake, attendance, and supply-chain disruptions for effective escalation and intervention.",
+  "learning_objectives": [
+    "Understand the operational challenges in the PM POSHAN scheme and their clinical implications.",
+    "Learn to identify and document school meal-related factors contributing to pediatric growth or anemia concerns.",
+    "Develop practical clinic-based approaches to assess and escalate school nutrition issues.",
+    "Recognize governance-related barriers to effective implementation of school meal programs."
+  ],
+  "key_facts": [
+    "PM POSHAN is a key source of calories and micronutrients for school-age children in India.",
+    "Operational issues include irregular attendance, supply-chain interruptions, and kitchen capacity constraints.",
+    "Fortified rice introduction may face local acceptability challenges, impacting meal intake.",
+    "Clinicians should ask targeted questions: 'Did you eat the school meal yesterday?', 'How many school days were missed in the last two weeks?', and 'Was there any menu or rice change recently?'",
+    "Actionable documentation should include clinical risk (e.g., low Hb or underweight) and specific decisions (e.g., therapeutic iron started).",
+    "Escalation pathways involve addressing concerns to the class teacher or school health nodal teacher.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Child Nutrition Disorders",
+    "Micronutrients",
+    "School Health Services",
+    "Anemia, Iron-Deficiency",
+    "Food Supply",
+    "Health Policy",
+    "Dietary Supplements",
+    "Public Health Programs"
+  ],
+  "tags_custom": [
+    "PM POSHAN",
+    "school meals",
+    "pediatric nutrition",
+    "fortified rice",
+    "clinical documentation"
+  ],
+  "reference_quote": "High-yield operational factors include: irregular attendance or mid-day meal timing leading to skipped meals; supply-chain interruptions for staples, vegetables, eggs/milk, or fortified inputs; local acceptability issues after menu or staple transitions (including fortified rice introduction); and kitchen capacity constraints (cook-cum-helper availability, water access, fuel, and hygiene).",
+  "document_key_topics": [
+    "Operational challenges in PM POSHAN implementation",
+    "Clinical documentation for pediatric nutrition concerns",
+    "Governance and supply-chain issues in school meal programs"
+  ],
+  "chunk_heading": "NATIONAL NUTRITION AND FORTIFICATION PROGRAMS IN INDIA;MICRONUTRIENT PROGRAM PLATFORMS AND PEDIATRIC TOUCHPOINTS;PM POSHAN OPERATIONAL FACTORS AND ACTIONABLE CLINIC DOCUMENTATION;",
+  "topic": "NATIONAL NUTRITION AND FORTIFICATION PROGRAMS IN INDIA",
+  "subtopic": "MICRONUTRIENT PROGRAM PLATFORMS AND PEDIATRIC TOUCHPOINTS",
+  "sub_subtopic": "PM POSHAN OPERATIONAL FACTORS AND ACTIONABLE CLINIC DOCUMENTATION",
+  "heading_path": "NATIONAL NUTRITION AND FORTIFICATION PROGRAMS IN INDIA;MICRONUTRIENT PROGRAM PLATFORMS AND PEDIATRIC TOUCHPOINTS;PM POSHAN OPERATIONAL FACTORS AND ACTIONABLE CLINIC DOCUMENTATION;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "2k7"
+}

@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "Visible severe wasting is a high-sensitivity bedside screen for severe acute malnutrition (SAM) in under-five children, used when anthropometric measurements are unavailable or impractical.",
+  "learning_objectives": [
+    "Understand the clinical signs of visible severe wasting and its role in SAM screening.",
+    "Learn the bedside assessment techniques for identifying visible severe wasting in children under five.",
+    "Recognize false positives and negatives in visible severe wasting screening and their implications.",
+    "Integrate visible severe wasting screening with other SAM diagnostic tools like MUAC and oedema checks."
+  ],
+  "key_facts": [
+    "Visible severe wasting is a high-sensitivity sign used in IMCI/IMNCI protocols to prevent missed SAM cases.",
+    "Assessment involves observing loss of subcutaneous fat, prominent ribs/scapulae, thin limbs, and 'baggy pants' skin folds.",
+    "False positives include constitutionally thin children with preserved appetite and stable growth trajectory.",
+    "False negatives occur in cases of oedema, which can mask low tissue mass; bilateral pitting oedema checks are essential.",
+    "Disposition rule: Treat visible severe wasting as SAM until proven otherwise; initiate urgent danger sign assessment and referral.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Malnutrition",
+    "Severe Acute Malnutrition",
+    "Child Health",
+    "Anthropometry",
+    "Body Composition",
+    "Edema",
+    "Nutrition Assessment",
+    "Pediatrics"
+  ],
+  "tags_custom": [
+    "visible severe wasting",
+    "SAM triage",
+    "bedside screening",
+    "under-five health contact",
+    "IMCI/IMNCI protocols"
+  ],
+  "reference_quote": "Visible severe wasting is a high-sensitivity sign used in IMCI/IMNCI logic to prevent missed severe acute malnutrition when length/height-based indices cannot be obtained immediately (IMNCI Chart Booklet for Medical Officers, 2023).",
+  "document_key_topics": [
+    "Visible severe wasting as a SAM screening tool",
+    "Bedside assessment techniques for malnutrition",
+    "False positives and negatives in SAM diagnosis",
+    "Integration of visible wasting with anthropometric measures"
+  ],
+  "chunk_heading": "MALNUTRITION\u2014UNDERNUTRITION: SCREENING & CLASSIFICATION;MINIMUM SCREENING DATASET AT EVERY UNDER-FIVE HEALTH CONTACT;VISIBLE SEVERE WASTING AS TRIAGE SCREEN;",
+  "topic": "MALNUTRITION\u2014UNDERNUTRITION: SCREENING & CLASSIFICATION",
+  "subtopic": "MINIMUM SCREENING DATASET AT EVERY UNDER-FIVE HEALTH CONTACT",
+  "sub_subtopic": "VISIBLE SEVERE WASTING AS TRIAGE SCREEN",
+  "heading_path": "MALNUTRITION\u2014UNDERNUTRITION: SCREENING & CLASSIFICATION;MINIMUM SCREENING DATASET AT EVERY UNDER-FIVE HEALTH CONTACT;VISIBLE SEVERE WASTING AS TRIAGE SCREEN;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1f1"
+}

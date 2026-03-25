@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "Standardized anthropometry techniques are essential to prevent measurement errors, false diagnoses, and inappropriate referrals in child growth monitoring, especially in Indian outpatient care settings.",
+  "learning_objectives": [
+    "Understand the importance of standardizing anthropometric measurements to prevent diagnostic errors.",
+    "Learn proper techniques for measuring length, height, weight, and MUAC in children.",
+    "Recognize the need for verification steps in clinic workflows to confirm abnormal growth values.",
+    "Identify challenges in growth monitoring across multiple sources in Indian outpatient care."
+  ],
+  "key_facts": [
+    "For children under 2 years, use a calibrated length board, two-person technique, and correct head and foot positioning.",
+    "Height measurement requires heels together, Frankfurt plane alignment, and a stable stadiometer.",
+    "Weight should be measured with a calibrated scale, minimal clothing, and consistent timing to avoid classification errors.",
+    "MUAC measurement involves locating the midpoint between acromion and olecranon on the left arm and ensuring the tape is snug but not compressing tissue.",
+    "Clinic workflows should include immediate re-measurement if a child crosses centiles unexpectedly or meets high-risk thresholds.",
+    "In Indian outpatient care, confirm abnormal values in clinic to prevent missed SAM triage and unnecessary endocrine evaluations."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Anthropometry",
+    "Child Growth",
+    "Stunting",
+    "Malnutrition",
+    "Body Weight",
+    "Mid-Upper Arm Circumference",
+    "Growth Monitoring",
+    "Measurement Techniques"
+  ],
+  "tags_custom": [
+    "measurement standardization",
+    "error prevention",
+    "Indian outpatient care",
+    "growth monitoring",
+    "clinical safeguards"
+  ],
+  "reference_quote": "Standardize technique to prevent false diagnoses and inappropriate referrals. For length in children under 2 years, use a calibrated length board, two-person technique, and correct head and foot positioning.",
+  "document_key_topics": [
+    "Anthropometry technique standardization",
+    "Error prevention in child growth monitoring",
+    "Verification steps in clinical workflows",
+    "Challenges in Indian outpatient growth monitoring"
+  ],
+  "chunk_heading": "SAFEGUARDS;ANTHROPOMETRY TECHNIQUE STANDARDIZATION AND ERROR PREVENTION;",
+  "topic": "SAFEGUARDS",
+  "subtopic": "ANTHROPOMETRY TECHNIQUE STANDARDIZATION AND ERROR PREVENTION",
+  "sub_subtopic": null,
+  "heading_path": "SAFEGUARDS;ANTHROPOMETRY TECHNIQUE STANDARDIZATION AND ERROR PREVENTION;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "5a"
+}

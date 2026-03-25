@@ -1,0 +1,47 @@
+{
+  "chunk_summary": "This section outlines triggers for investigating under-five stunting in India, emphasizing determinant-based patterns and a first-line test bundle for children with medical red flags or growth abnormalities.",
+  "learning_objectives": [
+    "Understand determinant-based patterns of under-five stunting and their implications for investigation.",
+    "Identify medical red flags and triggers for further testing in stunted children.",
+    "Learn the components of a pragmatic first-line test bundle for stunting in outpatient settings."
+  ],
+  "key_facts": [
+    "Stunting investigations should be triggered by pattern recognition, not solely by HAZ values.",
+    "Investigation triggers include severe short stature (< -3 SD), height deceleration, dysmorphism, chronic diarrhea, hepatosplenomegaly, and developmental regression.",
+    "A first-line test bundle includes CBC, ferritin with CRP/ESR, urinalysis, TSH with free T4, and coeliac screening (tTG-IgA and total IgA).",
+    "Stunted but otherwise well children should first receive determinant correction (diet, anemia, WASH) before broad testing.",
+    "Stool microscopy or antigen testing is recommended for chronic diarrhea or malabsorption features."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Stunting",
+    "Chronic Malnutrition",
+    "Pediatric Growth Disorders",
+    "Nutritional Status",
+    "Hypothyroidism",
+    "Coeliac Disease",
+    "Diarrhea",
+    "Hepatosplenomegaly"
+  ],
+  "tags_custom": [
+    "Under-five stunting",
+    "First-line investigations",
+    "Determinant correction",
+    "India-specific guidelines"
+  ],
+  "reference_quote": "\u2018Short stature in childhood: challenges and choices\u2019 emphasizes the importance of accurate measurements and pattern recognition in diagnosing growth disorders. (Reference 1)",
+  "document_key_topics": [
+    "Determinant-based stunting patterns",
+    "Investigation triggers for stunting",
+    "First-line test bundle for stunted children",
+    "Counseling and determinant correction strategies"
+  ],
+  "chunk_heading": "STUNTING, CHRONIC UNDERNUTRITION & DETERMINANTS;UNDER- FIVE STUNTING INVESTIGATION TRIGGERS AND FIRST-LINE TEST BUNDLE;",
+  "topic": "STUNTING, CHRONIC UNDERNUTRITION & DETERMINANTS",
+  "subtopic": "UNDER- FIVE STUNTING INVESTIGATION TRIGGERS AND FIRST-LINE TEST BUNDLE",
+  "sub_subtopic": null,
+  "heading_path": "STUNTING, CHRONIC UNDERNUTRITION & DETERMINANTS;UNDER- FIVE STUNTING INVESTIGATION TRIGGERS AND FIRST-LINE TEST BUNDLE;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "6u"
+}

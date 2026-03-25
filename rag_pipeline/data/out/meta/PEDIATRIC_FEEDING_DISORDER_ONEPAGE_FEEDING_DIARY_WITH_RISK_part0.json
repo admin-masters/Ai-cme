@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section outlines a structured one-page feeding diary with risk scoring for pediatric feeding disorders, emphasizing measurable data, behavioral restructuring, and intake structure over appetite tonics during a 3-day observation period before follow-up.",
+  "learning_objectives": [
+    "Understand the components of a one-page feeding diary for pediatric feeding disorders.",
+    "Learn how to use risk behavior scoring to guide counseling intensity.",
+    "Identify feeding safety issues such as gagging, choking, or coughing during meals.",
+    "Explore strategies to reduce recall bias using photo diaries and structured intake tracking."
+  ],
+  "key_facts": [
+    "Diary duration: 3 consecutive days before a 2-week follow-up.",
+    "Minimum dataset includes total milk volume (mL), meal/snack timing, portion sizes, and energy-densification methods.",
+    "Risk behavior scoring: 0 (none), 1 (sometimes), 2 (most days). High scores prioritize behavioral restructuring.",
+    "Photo diary: One 'before and after' photo per meal daily for 3 days to reduce recall bias.",
+    "Avoid daily weighing during the diary window; focus on intake structure and behavior."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Pediatric Feeding Disorders",
+    "Diet Records",
+    "Behavior Therapy",
+    "Energy Intake",
+    "Feeding Behavior",
+    "Risk Assessment",
+    "Malnutrition Prevention",
+    "Counseling"
+  ],
+  "tags_custom": [
+    "feeding diary",
+    "risk scoring",
+    "behavioral restructuring",
+    "photo diary",
+    "pediatric nutrition"
+  ],
+  "reference_quote": "Use a structured diary to convert 'not eating' into measurable data and make non-adherence visible without blame. (Source: NICE NG75)",
+  "document_key_topics": [
+    "Pediatric feeding disorder management",
+    "Structured feeding diary design",
+    "Risk behavior scoring for counseling",
+    "Behavioral and nutritional interventions"
+  ],
+  "chunk_heading": "PEDIATRIC FEEDING DISORDER;ONE-PAGE FEEDING DIARY WITH RISK SCORING;",
+  "topic": "PEDIATRIC FEEDING DISORDER",
+  "subtopic": "ONE-PAGE FEEDING DIARY WITH RISK SCORING",
+  "sub_subtopic": null,
+  "heading_path": "PEDIATRIC FEEDING DISORDER;ONE-PAGE FEEDING DIARY WITH RISK SCORING;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2c.1"
+}

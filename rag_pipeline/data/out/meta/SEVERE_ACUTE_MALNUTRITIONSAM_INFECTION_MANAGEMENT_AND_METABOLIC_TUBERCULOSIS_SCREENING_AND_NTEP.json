@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section addresses tuberculosis screening and linkage to the National Tuberculosis Elimination Programme (NTEP) for children with severe acute malnutrition (SAM) who fail to respond to therapeutic feeding and infection control measures.",
+  "learning_objectives": [
+    "Understand the importance of TB screening in non-responding SAM cases.",
+    "Learn diagnostic approaches for TB in malnourished children, including syndrome-based evaluation and microbiological specimen collection.",
+    "Recognize the role of NTEP linkage in ensuring proper TB management and follow-up.",
+    "Identify co-management strategies, including pyridoxine prophylaxis during TB treatment."
+  ],
+  "key_facts": [
+    "Non-response in SAM wards should prompt TB screening rather than repeated feed escalation.",
+    "Severe malnutrition can cause false-negative TST results due to secondary immunodeficiency.",
+    "Pyridoxine prophylaxis (10 mg/day) is recommended with isoniazid-containing TB regimens to reduce neuropathy risk.",
+    "Specimens for TB diagnosis can be collected via gastric aspirate/lavage or induced sputum per pediatric protocols.",
+    "Children suspected of TB must be logged as presumptive cases in the NTEP network, with results actively tracked."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Severe Acute Malnutrition",
+    "Tuberculosis",
+    "Pediatric Nutrition Disorders",
+    "Immunodeficiency",
+    "National Health Programs",
+    "Vitamin B6",
+    "HIV Infections",
+    "Radiography"
+  ],
+  "tags_custom": [
+    "SAM non-responders",
+    "TB screening protocols",
+    "NTEP linkage",
+    "Pyridoxine prophylaxis",
+    "Malnutrition physiology"
+  ],
+  "reference_quote": "Interpret tests with malnutrition physiology in mind. Severe malnutrition can cause false negative TST due to secondary immunodeficiency, so a negative skin test must not close the case in a high-risk, non-responding child. (Reference 1: National Tuberculosis Elimination Programme, Paediatric TB management guideline)",
+  "document_key_topics": [
+    "Tuberculosis screening in SAM non-responders",
+    "NTEP linkage for TB management",
+    "Diagnostic challenges in malnourished children",
+    "Co-management strategies for TB and malnutrition"
+  ],
+  "chunk_heading": "SEVERE  ACUTE  MALNUTRITION-(SAM)  MANAGEMENT;INFECTION  MANAGEMENT AND   METABOLIC  CORRECTIONS;TUBERCULOSIS  SCREENING  AND  NTEP  LINKAGE IN NON RESPONDERS;",
+  "topic": "SEVERE  ACUTE  MALNUTRITION-(SAM)  MANAGEMENT",
+  "subtopic": "INFECTION  MANAGEMENT AND   METABOLIC  CORRECTIONS",
+  "sub_subtopic": "TUBERCULOSIS  SCREENING  AND  NTEP  LINKAGE IN NON RESPONDERS",
+  "heading_path": "SEVERE  ACUTE  MALNUTRITION-(SAM)  MANAGEMENT;INFECTION  MANAGEMENT AND   METABOLIC  CORRECTIONS;TUBERCULOSIS  SCREENING  AND  NTEP  LINKAGE IN NON RESPONDERS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "3b1"
+}

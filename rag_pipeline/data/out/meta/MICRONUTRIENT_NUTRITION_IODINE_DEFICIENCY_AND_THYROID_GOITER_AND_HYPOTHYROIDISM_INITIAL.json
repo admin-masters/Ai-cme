@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Guidelines for initial testing and management of goiter and hypothyroidism in children, emphasizing TSH and free T4 tests, clinical correlation, and avoiding empiric iodine therapy.",
+  "learning_objectives": [
+    "Understand the initial diagnostic approach for pediatric goiter and hypothyroidism, including TSH and free T4 testing.",
+    "Recognize clinical signs of hypothyroidism and differentiate between primary hypothyroidism and subclinical cases.",
+    "Learn appropriate management strategies for euthyroid goiter and indications for urgent referral.",
+    "Identify the role of iodine nutrition and household practices in thyroid health."
+  ],
+  "key_facts": [
+    "First-line tests for suspected hypothyroidism are TSH and free T4; high TSH with low free T4 confirms primary hypothyroidism.",
+    "Do not treat goiter empirically with iodine drops or thyroid tonics; reinforce iodized salt use instead.",
+    "Isolated mild TSH elevation with normal free T4 requires clinical correlation and repeat testing, not immediate high-dose therapy.",
+    "Ultrasound is indicated for nodular goiter, asymmetry, rapid enlargement, compressive symptoms, or malignancy suspicion.",
+    "Urgent referral is needed for very low free T4, significant symptoms, congenital hypothyroidism, or large goiter with compressive signs."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Goiter",
+    "Hypothyroidism",
+    "Thyroid Function Tests",
+    "Iodine Deficiency",
+    "Thyroid Diseases",
+    "Pediatric Endocrinology",
+    "Autoimmune Thyroiditis",
+    "Ultrasonography"
+  ],
+  "tags_custom": [
+    "pediatric thyroid management",
+    "iodine nutrition",
+    "thyroid testing guidelines",
+    "goiter evaluation",
+    "clinical decision-making"
+  ],
+  "reference_quote": "Do not treat goiter with empiric iodine drops or 'thyroid tonics.' If the child is euthyroid with a small diffuse goiter, reinforce iodized salt use and monitor growth and thyroid function over time. (Indian Academy of Pediatrics Standard Treatment Guidelines: Hypothyroidism)",
+  "document_key_topics": [
+    "Diagnostic approach for pediatric goiter and hypothyroidism",
+    "Role of iodine nutrition in thyroid health",
+    "Management strategies for euthyroid goiter",
+    "Indications for urgent referral in thyroid dysfunction"
+  ],
+  "chunk_heading": "MICRONUTRIENT NUTRITION;IODINE DEFICIENCY AND THYROID DYSFUNCTION DECISIONS;GOITER AND HYPOTHYROIDISM INITIAL TEST SELECTION;",
+  "topic": "MICRONUTRIENT NUTRITION",
+  "subtopic": "IODINE DEFICIENCY AND THYROID DYSFUNCTION DECISIONS",
+  "sub_subtopic": "GOITER AND HYPOTHYROIDISM INITIAL TEST SELECTION",
+  "heading_path": "MICRONUTRIENT NUTRITION;IODINE DEFICIENCY AND THYROID DYSFUNCTION DECISIONS;GOITER AND HYPOTHYROIDISM INITIAL TEST SELECTION;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1|3"
+}

@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section outlines a structured discharge nutrition checklist for preterm and low birth weight infants, emphasizing growth targets, feeding plans, micronutrient prescriptions, and follow-up monitoring protocols.",
+  "learning_objectives": [
+    "Understand the importance of a written nutrition bundle for preterm infant discharge planning.",
+    "Learn target growth trajectories and weight gain goals for very preterm infants (e.g., 15\u201320 g/kg/day).",
+    "Identify feeding types, fortification plans, and micronutrient prescriptions for preterm infants.",
+    "Recognize follow-up protocols and monitoring strategies for growth and metabolic bone disease."
+  ],
+  "key_facts": [
+    "Target weight gain for very preterm infants is typically 15\u201320 g/kg/day, with some units using 10\u201315 g/kg/day.",
+    "Feeding plans may include mother\u2019s milk, fortified human milk, preterm formula, or combinations.",
+    "Micronutrient prescriptions include iron (mg/kg/day based on birth weight and corrected age) and vitamin D (dose per unit protocol).",
+    "Monitoring for metabolic bone disease involves biochemical screening (e.g., alkaline phosphatase, serum phosphorus).",
+    "Follow-up should use corrected age for growth assessment, with weekly reviews initially, then spaced once stable."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Infant, Premature",
+    "Low Birth Weight Infant",
+    "Enteral Nutrition",
+    "Growth and Development",
+    "Micronutrients",
+    "Human Milk",
+    "Metabolic Bone Disease",
+    "Postnatal Care"
+  ],
+  "tags_custom": [
+    "Preterm discharge planning",
+    "Nutrition monitoring",
+    "Growth targets",
+    "Feeding protocols",
+    "Micronutrient supplementation"
+  ],
+  "reference_quote": "Many neonatal references use a weight gain goal around 15\u201320 g/kg/day for very preterm infants, while some unit frameworks use 10\u201315 g/kg/day; specify the local target and the action threshold when gain falls below it.",
+  "document_key_topics": [
+    "Growth targets and weight gain goals for preterm infants",
+    "Feeding plans and fortification strategies",
+    "Micronutrient supplementation and metabolic bone disease monitoring",
+    "Follow-up protocols and referral pathways for post-discharge care"
+  ],
+  "chunk_heading": "INFANT & YOUNG CHILD FEEDING UNDER 2 YEARS;FEEDING PROTOCOLS FOR PRETERM  LOW BIRTH WEIGHT AND MALNOURISHED INFANTS;PRETERM DISCHARGE NUTRITION  CHECKLIST WITH GROWTH TARGETS AND MONITORING;",
+  "topic": "INFANT & YOUNG CHILD FEEDING UNDER 2 YEARS",
+  "subtopic": "FEEDING PROTOCOLS FOR PRETERM  LOW BIRTH WEIGHT AND MALNOURISHED INFANTS",
+  "sub_subtopic": "PRETERM DISCHARGE NUTRITION  CHECKLIST WITH GROWTH TARGETS AND MONITORING",
+  "heading_path": "INFANT & YOUNG CHILD FEEDING UNDER 2 YEARS;FEEDING PROTOCOLS FOR PRETERM  LOW BIRTH WEIGHT AND MALNOURISHED INFANTS;PRETERM DISCHARGE NUTRITION  CHECKLIST WITH GROWTH TARGETS AND MONITORING;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "4\u008b2"
+}

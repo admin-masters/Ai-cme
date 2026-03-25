@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "Postpyloric feeding is recommended for children with high aspiration risk or failed gastric feeding, emphasizing continuous jejunal feeding and monitoring clinical tolerance over gastric residual volume checks.",
+  "learning_objectives": [
+    "Understand indications for postpyloric feeding in pediatric patients.",
+    "Learn the physiological differences and safety considerations between gastric and jejunal feeding.",
+    "Identify clinical signs of feeding intolerance and appropriate monitoring strategies.",
+    "Recognize triggers for escalation from gastric to postpyloric feeding access."
+  ],
+  "key_facts": [
+    "Postpyloric feeding is indicated for aspiration risk, recurrent emesis, or poor gastric emptying.",
+    "Jejunal feeds are typically delivered continuously to avoid dumping syndrome.",
+    "Dumping syndrome symptoms include tachycardia, diaphoresis, diarrhea, and abdominal pain.",
+    "Iso-osmolar feeds (<300 mOsm/kg) are better tolerated than hyperosmolar mixtures.",
+    "Gastric residual volume (GRV) checks are not useful for jejunal feeding; clinical endpoints like stool output and respiratory status should be monitored.",
+    "Escalation triggers include recurrent aspiration pneumonia and failure to meet nutritional needs due to frequent fasting."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Enteral Nutrition",
+    "Jejunal Feeding",
+    "Aspiration Pneumonia",
+    "Dumping Syndrome",
+    "Gastrointestinal Physiology",
+    "Pediatric Critical Care",
+    "Nutritional Support",
+    "Feeding Tubes"
+  ],
+  "tags_custom": [
+    "postpyloric feeding",
+    "feeding intolerance",
+    "nutritional therapy",
+    "pediatric enteral care",
+    "clinical monitoring"
+  ],
+  "reference_quote": "Postpyloric feeding is not a 'stronger' version of gastric feeding; it changes physiology and safety rules.",
+  "document_key_topics": [
+    "Postpyloric feeding indications and benefits",
+    "Jejunal feeding techniques and risks",
+    "Monitoring feeding tolerance in pediatric patients",
+    "Escalation criteria for enteral feeding access"
+  ],
+  "chunk_heading": "PRINCIPLES;",
+  "topic": "PRINCIPLES",
+  "subtopic": "General",
+  "sub_subtopic": null,
+  "heading_path": "PRINCIPLES;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2a"
+}

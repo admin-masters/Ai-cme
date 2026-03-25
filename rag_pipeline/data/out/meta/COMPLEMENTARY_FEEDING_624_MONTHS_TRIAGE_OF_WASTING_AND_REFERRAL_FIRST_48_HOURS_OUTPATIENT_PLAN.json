@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "Guidelines for stabilizing children with severe wasting and complications during the first 48 hours in outpatient care while arranging referral, focusing on hydration, infection screening, safe feeding, and follow-up.",
+  "learning_objectives": [
+    "Understand the triage process for children with severe wasting and complications.",
+    "Learn safe interim feeding practices for malnourished children during outpatient stabilization.",
+    "Identify clinical danger signs and assess appetite to determine referral urgency.",
+    "Recognize the importance of follow-up and community-based rehabilitation pathways."
+  ],
+  "key_facts": [
+    "Children with severe wasting and complications require urgent facility-based care.",
+    "Appetite assessment is critical; poor appetite indicates need for inpatient care.",
+    "Rehydrate promptly if diarrhea with dehydration is present; severe dehydration necessitates admission.",
+    "Avoid thin, low-energy foods; prescribe small, frequent, energy-dense feeds if appetite is present.",
+    "Arrange follow-up within 48\u201372 hours and link to community systems like ANM/AWW.",
+    "Document anthropometric triggers to monitor progress and prevent default."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Malnutrition",
+    "Severe Acute Malnutrition",
+    "Complementary Feeding",
+    "Dehydration",
+    "Infection Control",
+    "Nutritional Rehabilitation",
+    "Referral and Consultation",
+    "Pediatric Nutrition"
+  ],
+  "tags_custom": [
+    "wasting triage",
+    "outpatient stabilization",
+    "feeding guidelines",
+    "community follow-up",
+    "malnutrition management"
+  ],
+  "reference_quote": "Children with severe wasting and complications (lethargy, persistent vomiting, hypothermia/fever, severe dehydration, respiratory distress, severe anemia, or inability to feed) require urgent facility-based care. \u2014 National Health Mission Operational Guidelines",
+  "document_key_topics": [
+    "Triage of wasting and referral pathways",
+    "Outpatient stabilization during referral delays",
+    "Safe feeding practices for malnourished children",
+    "Community follow-up and rehabilitation systems"
+  ],
+  "chunk_heading": "COMPLEMENTARY FEEDING 6\u201324 MONTHS;TRIAGE OF WASTING AND REFERRAL PATHWAYS;FIRST 48 HOURS OUTPATIENT PLAN WHILE ARRANGING REFERRAL;",
+  "topic": "COMPLEMENTARY FEEDING 6\u201324 MONTHS",
+  "subtopic": "TRIAGE OF WASTING AND REFERRAL PATHWAYS",
+  "sub_subtopic": "FIRST 48 HOURS OUTPATIENT PLAN WHILE ARRANGING REFERRAL",
+  "heading_path": "COMPLEMENTARY FEEDING 6\u201324 MONTHS;TRIAGE OF WASTING AND REFERRAL PATHWAYS;FIRST 48 HOURS OUTPATIENT PLAN WHILE ARRANGING REFERRAL;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1\u008e1"
+}

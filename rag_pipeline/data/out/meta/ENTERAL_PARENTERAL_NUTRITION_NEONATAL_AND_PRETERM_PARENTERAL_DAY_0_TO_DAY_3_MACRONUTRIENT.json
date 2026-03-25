@@ -1,0 +1,46 @@
+{
+  "chunk_summary": "Guidelines for macronutrient advancement and energy safety checks in neonatal parenteral nutrition during the first 72 hours, focusing on glucose, amino acids, and lipids dosing, with safety precautions for critically ill neonates.",
+  "learning_objectives": [
+    "Understand the macronutrient advancement framework for neonatal parenteral nutrition during the first 72 hours.",
+    "Learn safe starting doses and advancement rates for glucose, amino acids, and lipids in preterm and term neonates.",
+    "Recognize the importance of energy balance and dose-safety checks to prevent complications like hyperglycemia or organ dysfunction."
+  ],
+  "key_facts": [
+    "Start total energy at 40\u201360 kcal/kg/day and advance to 75\u2013120 kcal/kg/day by day 3.",
+    "Glucose: Start at 6\u20139 g/kg/day, advance to 9\u201316 g/kg/day if glucose control allows.",
+    "Amino acids: Preterm infants start at 1.5\u20132.0 g/kg/day, advance to 3\u20134 g/kg/day; term neonates start at 1\u20132 g/kg/day, advance to 2.5\u20133 g/kg/day.",
+    "Lipids: Start at 1\u20132 g/kg/day, advance by 0.5\u20131 g/kg/day to 3\u20134 g/kg/day with triglyceride monitoring.",
+    "Avoid starting amino acids above 3 g/kg/day and balance non-protein energy with 60\u201375% carbohydrate and 25\u201340% lipid."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Parenteral Nutrition",
+    "Neonatal Nutrition",
+    "Preterm Infants",
+    "Macronutrients",
+    "Glucose Metabolism",
+    "Amino Acids",
+    "Lipid Emulsions",
+    "Energy Metabolism"
+  ],
+  "tags_custom": [
+    "Neonatal PN guidelines",
+    "Macronutrient dosing",
+    "Energy safety checks",
+    "Preterm nutrition"
+  ],
+  "reference_quote": "Neonatal PN should be written as a 'first 72 hours' pathway because rapid physiologic transitions drive most safety events.",
+  "document_key_topics": [
+    "Neonatal parenteral nutrition guidelines",
+    "Macronutrient dosing and advancement",
+    "Energy safety checks in preterm neonates"
+  ],
+  "chunk_heading": "ENTERAL & PARENTERAL NUTRITION;NEONATAL AND PRETERM PARENTERAL NUTRITION FIRST 72 HOURS;DAY 0 TO DAY 3 MACRONUTRIENT ADVANCEMENT AND ENERGY SAFETY CHECKS;",
+  "topic": "ENTERAL & PARENTERAL NUTRITION",
+  "subtopic": "NEONATAL AND PRETERM PARENTERAL NUTRITION FIRST 72 HOURS",
+  "sub_subtopic": "DAY 0 TO DAY 3 MACRONUTRIENT ADVANCEMENT AND ENERGY SAFETY CHECKS",
+  "heading_path": "ENTERAL & PARENTERAL NUTRITION;NEONATAL AND PRETERM PARENTERAL NUTRITION FIRST 72 HOURS;DAY 0 TO DAY 3 MACRONUTRIENT ADVANCEMENT AND ENERGY SAFETY CHECKS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2\u008a1"
+}

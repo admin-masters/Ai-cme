@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "This section outlines dashboard views for managing overdue high-risk children and failed checkpoints in tele-nutrition workflows, emphasizing actionable insights for clinicians to improve care delivery and safety monitoring.",
+  "learning_objectives": [
+    "Understand the design and functionality of dashboards for high-risk children in tele-nutrition services.",
+    "Learn how to identify and manage overdue cases, failed checkpoints, and escalation verification.",
+    "Explore the integration of structured templates and follow-up tracking to enhance telecare safety.",
+    "Recognize the importance of linking failed contact cases to community services or alternative outreach."
+  ],
+  "key_facts": [
+    "Dashboards should answer three daily questions: who is overdue, who is worsening, and who needs escalation completion verified.",
+    "View 1: High-risk overdue list filters by risk tier, measurement confidence, and next due date, with one-click contact logging and a 'failed contact count' field.",
+    "View 2: Failed checkpoint list flags growth faltering (2-4 weeks), acute malnutrition (2 weeks), anemia (no hemoglobin rise), and obesity (4-6 weeks).",
+    "View 3: Escalation verification tracks in-person measurements, lab tests, or referrals, marking unverified cases as telecare safety failures.",
+    "A 'lost to follow-up' status is added after repeated failed contacts to maintain accurate denominators in quality metrics.",
+    "Initial implementation can start with three spreadsheet tabs matching the dashboard views, reviewed weekly."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Telemedicine",
+    "Nutrition Disorders",
+    "Child Health",
+    "Health Information Systems",
+    "Patient Safety",
+    "Quality Improvement",
+    "Risk Assessment",
+    "Health Monitoring"
+  ],
+  "tags_custom": [
+    "tele-nutrition dashboards",
+    "high-risk children",
+    "escalation tracking",
+    "failed checkpoints",
+    "clinical workflow optimization"
+  ],
+  "reference_quote": "Design dashboards as action lists, not as retrospective analytics reports. (Source: WHO Guideline: recommendations on digital interventions for health system strengthening)",
+  "document_key_topics": [
+    "Dashboard design for tele-nutrition workflows",
+    "Management of high-risk and overdue cases",
+    "Escalation verification and telecare safety",
+    "Failed checkpoint tracking and follow-up"
+  ],
+  "chunk_heading": "DIGITAL TOOLS & TELE-NUTRITION;END-TO-END TELE-NUTRITION SERVICE WORKFLOW, REGISTRIES, AND DASHBOARDS;DASHBOARD VIEWS FOR OVERDUE HIGH-RISK CHILDREN AND FAILED CHECKPOINTS;",
+  "topic": "DIGITAL TOOLS & TELE-NUTRITION",
+  "subtopic": "END-TO-END TELE-NUTRITION SERVICE WORKFLOW, REGISTRIES, AND DASHBOARDS",
+  "sub_subtopic": "DASHBOARD VIEWS FOR OVERDUE HIGH-RISK CHILDREN AND FAILED CHECKPOINTS",
+  "heading_path": "DIGITAL TOOLS & TELE-NUTRITION;END-TO-END TELE-NUTRITION SERVICE WORKFLOW, REGISTRIES, AND DASHBOARDS;DASHBOARD VIEWS FOR OVERDUE HIGH-RISK CHILDREN AND FAILED CHECKPOINTS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u00955"
+}

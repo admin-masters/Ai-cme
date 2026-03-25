@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Clinic workflows for linking children with Moderate Acute Malnutrition (MAM) to Anganwadi and community services in India emphasize entitlements, supplementation, and coordinated care through Mission Poshan guidelines and community health touchpoints.",
+  "learning_objectives": [
+    "Understand the clinical workflow for diagnosing and linking MAM cases to Anganwadi services.",
+    "Learn the role of entitlements like THR and HCM in supplementary feeding programs.",
+    "Explore the integration of community health workers (AWW, ANM, ASHA) in MAM management.",
+    "Analyze the importance of documentation and referral notes in ensuring continuity of care."
+  ],
+  "key_facts": [
+    "Mission Poshan guidelines mandate registration at the nearest Anganwadi center for MAM cases.",
+    "Supplementation entitlements like THR and HCM are provided for approximately 300 days per year.",
+    "The Poshan Tracker includes a migration facility to maintain access for families on the move.",
+    "Referral notes must include anthropometry (e.g., MUAC, weight, height), clinical status, and next clinic date.",
+    "Monthly VHSND touchpoints facilitate growth monitoring and morbidity screening."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Malnutrition",
+    "Community Health Services",
+    "Child Nutrition Disorders",
+    "Growth Monitoring",
+    "India",
+    "Supplementary Feeding",
+    "Referral and Consultation",
+    "Anthropometry"
+  ],
+  "tags_custom": [
+    "Anganwadi linkage",
+    "Mission Poshan guidelines",
+    "MAM management workflow",
+    "Community health integration",
+    "Supplementary nutrition programs"
+  ],
+  "reference_quote": "Mission Poshan scheme guidance specifies that beneficiaries must be registered at the nearest Anganwadi centre and that supplementation is delivered through entitlements such as THR and HCM, typically for a minimum of about 300 days per year.",
+  "document_key_topics": [
+    "Moderate Acute Malnutrition (MAM) diagnosis and management",
+    "Anganwadi and community service linkages",
+    "Supplementary feeding entitlements and workflows",
+    "Role of community health workers in MAM care"
+  ],
+  "chunk_heading": "MODERATE ACUTE MALNUTRITION (MAM) AND SUPPLEMENTARY FEEDING;PROGRAM LINKAGES AND CONTINUUM OF CARE IN INDIA;CLINIC WORKFLOW FOR LINKING TO ANGANWADI AND COMMUNITY SERVICES;",
+  "topic": "MODERATE ACUTE MALNUTRITION (MAM) AND SUPPLEMENTARY FEEDING",
+  "subtopic": "PROGRAM LINKAGES AND CONTINUUM OF CARE IN INDIA",
+  "sub_subtopic": "CLINIC WORKFLOW FOR LINKING TO ANGANWADI AND COMMUNITY SERVICES",
+  "heading_path": "MODERATE ACUTE MALNUTRITION (MAM) AND SUPPLEMENTARY FEEDING;PROGRAM LINKAGES AND CONTINUUM OF CARE IN INDIA;CLINIC WORKFLOW FOR LINKING TO ANGANWADI AND COMMUNITY SERVICES;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "3v1"
+}

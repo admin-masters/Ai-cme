@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Management of pneumonia with hypoxia in SAM involves aggressive treatment, oxygen therapy, empiric antibiotics, and step-down to oral agents once stable, following local guidelines and clinical reassessment.",
+  "learning_objectives": [
+    "Understand the clinical signs and diagnostic criteria for severe pneumonia in SAM, including hypoxia and cyanosis.",
+    "Learn the first-line empiric antibiotic regimens for pneumonia in SAM and indications for anti-staphylococcal coverage.",
+    "Recognize step-down criteria for transitioning from injectable to oral antibiotics in pneumonia management.",
+    "Identify investigations that guide management, such as blood cultures, chest radiographs, and electrolyte assessments."
+  ],
+  "key_facts": [
+    "Hypoxia in SAM pneumonia is defined as oxygen saturation <90% (<94% with pneumonia).",
+    "First-line empiric antibiotics: injectable ampicillin plus gentamicin; add cloxacillin for suspected staphylococcal pneumonia.",
+    "Step-down to oral antibiotics when respiratory distress resolves, oxygen requirement stops, and oral feeds are tolerated.",
+    "Complete antibiotic course: 5\u20137 days for uncomplicated pneumonia; longer for staphylococcal pneumonia or complications.",
+    "Investigations: blood culture before antibiotics, chest radiograph for effusion or pneumatocele, electrolytes for dehydration or shock."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Severe Acute Malnutrition",
+    "Pneumonia",
+    "Hypoxia",
+    "Antibiotics",
+    "Empiric Therapy",
+    "Oxygen Therapy",
+    "Staphylococcal Infections",
+    "Blood Culture"
+  ],
+  "tags_custom": [
+    "SAM pneumonia management",
+    "antibiotic step-down",
+    "hypoxia treatment",
+    "clinical reassessment",
+    "infection control"
+  ],
+  "reference_quote": "Empiric antibiotics for admitted/complicated SAM should align to one local standard. A common first-line regimen is injectable ampicillin plus gentamicin. Add anti-staphylococcal coverage (e.g., cloxacillin) when staphylococcal pneumonia is suspected.",
+  "document_key_topics": [
+    "Pneumonia management in SAM",
+    "Hypoxia treatment protocols",
+    "Empiric antibiotic regimens",
+    "Step-down criteria for antibiotics"
+  ],
+  "chunk_heading": "SEVERE ACUTE MALNUTRITION-(SAM) MANAGEMENT;INFECTION MANAGEMENT AND  METABOLIC CORRECTIONS;PNEUMONIA WITH HYPOXIA MANAGEMENT AND ANTIBIOTIC STEP-DOWN;",
+  "topic": "SEVERE ACUTE MALNUTRITION-(SAM) MANAGEMENT",
+  "subtopic": "INFECTION MANAGEMENT AND  METABOLIC CORRECTIONS",
+  "sub_subtopic": "PNEUMONIA WITH HYPOXIA MANAGEMENT AND ANTIBIOTIC STEP-DOWN",
+  "heading_path": "SEVERE ACUTE MALNUTRITION-(SAM) MANAGEMENT;INFECTION MANAGEMENT AND  METABOLIC CORRECTIONS;PNEUMONIA WITH HYPOXIA MANAGEMENT AND ANTIBIOTIC STEP-DOWN;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "3t3"
+}

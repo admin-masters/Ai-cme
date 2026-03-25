@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Post-discharge nutrition for preterm/LBW/ELBW infants emphasizes energy and protein intake targets, adjusted for growth trajectory, phenotype, and feeding method, with ranges of 110\u2013140 kcal/kg/day and 3 g/kg/day protein being typical guidelines.",
+  "learning_objectives": [
+    "Understand energy and protein intake targets for preterm/LBW/ELBW infants post-discharge.",
+    "Identify adjustments in nutritional targets based on phenotype (e.g., BPD, CHD).",
+    "Learn staged decision-making for safe feeding, protein adequacy, and caloric escalation.",
+    "Recognize the importance of monitoring hydration and electrolytes in high-risk infants."
+  ],
+  "key_facts": [
+    "Energy intake target: 115\u2013140 kcal/kg/day for preterm infants receiving full enteral feeds.",
+    "Protein intake target: ~3 g/kg/day from term age onward.",
+    "Phenotypes like BPD or CHD may require increased nutrient density due to higher energy expenditure.",
+    "Small stepwise increases in caloric density are preferred over large jumps when fluids are restricted.",
+    "Rapid weight gain with lagging length/head growth suggests reassessment of energy density and protein adequacy."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Infant, Premature",
+    "Low Birth Weight",
+    "Nutritional Requirements",
+    "Energy Intake",
+    "Protein Intake",
+    "Breastfeeding",
+    "Bronchopulmonary Dysplasia",
+    "Congenital Heart Defects"
+  ],
+  "tags_custom": [
+    "post-discharge nutrition",
+    "growth monitoring",
+    "nutrient density",
+    "feeding strategies",
+    "preterm infant care"
+  ],
+  "reference_quote": "ESPGHAN describes total energy intake around 115\u2013140 kcal/kg/day as generally sufficient for growth and emphasizes a protein-to-energy approach rather than calories alone.",
+  "document_key_topics": [
+    "Energy and protein intake targets for preterm infants",
+    "Nutritional adjustments for specific phenotypes (e.g., BPD, CHD)",
+    "Safe feeding practices and staged decision-making",
+    "Monitoring hydration and electrolytes in high-risk infants"
+  ],
+  "chunk_heading": "PRETERM/LBW/ELBW POST-DISCHARGE NUTRITION;GROWTH ASSESSMENT AND TARGET SETTING AFTER DISCHARGE;ENERGY AND PROTEIN INTAKE TARGET RANGES;",
+  "topic": "PRETERM/LBW/ELBW POST-DISCHARGE NUTRITION",
+  "subtopic": "GROWTH ASSESSMENT AND TARGET SETTING AFTER DISCHARGE",
+  "sub_subtopic": "ENERGY AND PROTEIN INTAKE TARGET RANGES",
+  "heading_path": "PRETERM/LBW/ELBW POST-DISCHARGE NUTRITION;GROWTH ASSESSMENT AND TARGET SETTING AFTER DISCHARGE;ENERGY AND PROTEIN INTAKE TARGET RANGES;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1r6"
+}

@@ -1,0 +1,47 @@
+{
+  "chunk_summary": "Acute FPIES management focuses on hydration, monitoring, and severity-based disposition criteria, emphasizing IV fluid boluses and ondansetron for severe cases, with clear discharge and admission guidelines.",
+  "learning_objectives": [
+    "Understand the severity-based criteria for managing acute FPIES episodes.",
+    "Learn the appropriate use of IV fluid boluses and ondansetron in FPIES emergency care.",
+    "Identify key indicators for hospital admission versus safe discharge in FPIES cases."
+  ],
+  "key_facts": [
+    "Acute FPIES management prioritizes hydration and monitoring, not IM epinephrine.",
+    "Severe FPIES episodes involve \u22654 projectile vomiting episodes, lethargy, and dehydration requiring IV bolus therapy (20 mL/kg isotonic fluids).",
+    "Ondansetron is used at 0.15 mg/kg (max dose 16 mg) IV or IM for emesis control in children over 6 months, with caution for QT prolongation in cardiac patients.",
+    "Discharge is appropriate when oral fluids are tolerated, and caregivers receive written instructions and a return plan.",
+    "Hospital admission is required for repeated IV boluses, persistent lethargy, hypotension, or inability to tolerate oral fluids."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Food Hypersensitivity",
+    "Enterocolitis",
+    "Dehydration",
+    "Fluid Therapy",
+    "Ondansetron",
+    "Hypotension",
+    "Emergency Medical Services",
+    "Pediatrics"
+  ],
+  "tags_custom": [
+    "FPIES management",
+    "acute care protocols",
+    "hydration therapy",
+    "emergency guidelines"
+  ],
+  "reference_quote": "Acute FPIES often resolves within hours, unlike viral gastroenteritis which typically persists for days. (American Academy of Allergy, Asthma & Immunology, 2017)",
+  "document_key_topics": [
+    "Acute management of FPIES",
+    "Severity-based disposition criteria",
+    "Use of IV fluids and ondansetron in FPIES care",
+    "Hospital admission and discharge guidelines for FPIES"
+  ],
+  "chunk_heading": "FOOD ALLERGY & THERAPEUTIC ELIMINATION DIETS;FPIES ACUTE CARE AND SAFE RE-CHALLENGE;FPIES EMERGENCY MANAGEMENT AND DISPOSITION CRITERIA;",
+  "topic": "FOOD ALLERGY & THERAPEUTIC ELIMINATION DIETS",
+  "subtopic": "FPIES ACUTE CARE AND SAFE RE-CHALLENGE",
+  "sub_subtopic": "FPIES EMERGENCY MANAGEMENT AND DISPOSITION CRITERIA",
+  "heading_path": "FOOD ALLERGY & THERAPEUTIC ELIMINATION DIETS;FPIES ACUTE CARE AND SAFE RE-CHALLENGE;FPIES EMERGENCY MANAGEMENT AND DISPOSITION CRITERIA;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u00811"
+}

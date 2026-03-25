@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "This section outlines the diagnostic and therapeutic pathway for suspected cow\u2019s milk protein allergy (CMPA) in preterm, LBW, and ELBW infants post-discharge, emphasizing phenotype identification, elimination trials, and re-challenge protocols to confirm diagnosis while supporting breastfeeding and nutritional adequacy.",
+  "learning_objectives": [
+    "Understand the diagnostic criteria and phenotypes of cow\u2019s milk protein allergy (CMPA) in preterm and LBW infants.",
+    "Learn the appropriate use of elimination diets and re-challenge protocols for CMPA diagnosis.",
+    "Identify safe feeding practices and nutritional support strategies for breastfeeding and formula-fed infants with suspected CMPA.",
+    "Recognize alternative formula options and their indications, including extensively hydrolyzed formulas (EHF) and amino acid formulas (AAF)."
+  ],
+  "key_facts": [
+    "CMPA is often over-diagnosed in infants with regurgitation, colic, or constipation, leading to unnecessary interventions.",
+    "Immediate reactions (e.g., urticaria, wheeze, angioedema) suggest an IgE-mediated allergy, while delayed reactions (e.g., blood-streaked stools, eczema, vomiting) are more common in young infants.",
+    "For breastfeeding infants, maternal cow\u2019s milk elimination with dietetic support is recommended, with symptom improvement expected in 2\u20134 weeks.",
+    "For formula-fed infants, extensively hydrolyzed formulas (EHF) are first-line, with amino acid formulas (AAF) reserved for severe cases or EHF failure.",
+    "Soy formula may be considered in older infants but carries a risk of cross-reactivity.",
+    "Diagnosis should be confirmed by reintroducing cow\u2019s milk under clinician guidance, except in cases of severe prior reactions."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Cow's Milk Hypersensitivity",
+    "Infant, Low Birth Weight",
+    "Infant, Premature",
+    "Breastfeeding",
+    "Hypoallergenic Formulas",
+    "Elimination Diet",
+    "Food Hypersensitivity",
+    "Nutritional Support"
+  ],
+  "tags_custom": [
+    "CMPA diagnosis",
+    "feeding safety",
+    "preterm nutrition",
+    "elimination trial",
+    "formula options"
+  ],
+  "reference_quote": "\u2018A structured outpatient pathway reduces both missed cases and overtreatment.\u2019 (Indian Pediatrics, 2020)",
+  "document_key_topics": [
+    "Diagnostic criteria for CMPA in preterm and LBW infants",
+    "Therapeutic strategies for breastfeeding and formula-fed infants",
+    "Role of elimination diets and re-challenge in CMPA diagnosis",
+    "Nutritional adequacy and safe feeding practices"
+  ],
+  "chunk_heading": "PRETERM/LBW/ELBW POST-DISCHARGE NUTRITION;BREASTFEEDING SKILLS AND FEEDING SAFETY DECISIONS;DIAGNOSTIC AND THERAPEUTIC PATHWAY FOR SUSPECTED COW MILK PROTEIN ALLERGY;",
+  "topic": "PRETERM/LBW/ELBW POST-DISCHARGE NUTRITION",
+  "subtopic": "BREASTFEEDING SKILLS AND FEEDING SAFETY DECISIONS",
+  "sub_subtopic": "DIAGNOSTIC AND THERAPEUTIC PATHWAY FOR SUSPECTED COW MILK PROTEIN ALLERGY",
+  "heading_path": "PRETERM/LBW/ELBW POST-DISCHARGE NUTRITION;BREASTFEEDING SKILLS AND FEEDING SAFETY DECISIONS;DIAGNOSTIC AND THERAPEUTIC PATHWAY FOR SUSPECTED COW MILK PROTEIN ALLERGY;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1\u00838"
+}

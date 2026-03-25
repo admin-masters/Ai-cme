@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section outlines donor milk eligibility tiers, reassessment intervals, and exit criteria to optimize DHM allocation in NICUs, focusing on preterm and high-risk infants.",
+  "learning_objectives": [
+    "Understand the tiered eligibility system for donor human milk (DHM) allocation in NICUs.",
+    "Learn the reassessment criteria and intervals for DHM eligibility.",
+    "Identify exit criteria for transitioning from DHM to maternal milk or formula.",
+    "Recognize the clinical markers for prioritizing DHM use in preterm and high-risk infants."
+  ],
+  "key_facts": [
+    "Tier 1 includes extremely preterm (<28 weeks) or ELBW (<1000 g) infants, infants with NEC, post-surgery, or high-risk clinical instability.",
+    "Tier 2 includes stable very preterm (<32 weeks) or VLBW (<1500 g) infants with inadequate maternal milk supply.",
+    "Reassessment of DHM eligibility should occur every 24\u201348 hours, documenting maternal milk volume, infant tolerance, and clinical risk.",
+    "Exit criteria include sustained maternal milk availability (>80% of enteral volume for 48 hours) or clinical maturity (34\u201336 weeks PMA).",
+    "Transition from DHM should be stepwise, prioritizing maternal milk first, with formula as a secondary option."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Donor Milk",
+    "Infant, Premature",
+    "Necrotizing Enterocolitis",
+    "Milk Banks",
+    "Enteral Nutrition",
+    "Infant Nutrition",
+    "Lactation Support",
+    "Neonatal Intensive Care Units"
+  ],
+  "tags_custom": [
+    "DHM eligibility",
+    "NICU feeding protocols",
+    "preterm infant nutrition",
+    "maternal milk transition",
+    "clinical reassessment"
+  ],
+  "reference_quote": "Donor human milk for preventing necrotising enterocolitis in very preterm or very low birth weight infants \u2014 https://www.cochranelibrary.com/cdsr/doi/...",
+  "document_key_topics": [
+    "Donor milk eligibility tiers",
+    "Reassessment intervals and criteria",
+    "Exit criteria for DHM use",
+    "NICU feeding protocols for preterm infants"
+  ],
+  "chunk_heading": "EXPRESSED MILK, DONOR MILK & MILK BANKING;DONOR MILK ELIGIBILITY TIERS AND REASSESSMENT EXIT CRITERIA;",
+  "topic": "EXPRESSED MILK, DONOR MILK & MILK BANKING",
+  "subtopic": "DONOR MILK ELIGIBILITY TIERS AND REASSESSMENT EXIT CRITERIA",
+  "sub_subtopic": null,
+  "heading_path": "EXPRESSED MILK, DONOR MILK & MILK BANKING;DONOR MILK ELIGIBILITY TIERS AND REASSESSMENT EXIT CRITERIA;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2m"
+}

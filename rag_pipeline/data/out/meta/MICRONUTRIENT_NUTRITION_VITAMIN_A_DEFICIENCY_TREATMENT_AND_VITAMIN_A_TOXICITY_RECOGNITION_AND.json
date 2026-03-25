@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "Vitamin A toxicity, often iatrogenic, can result from excessive dosing or overlapping prophylactic and therapeutic regimens. Acute and chronic toxicity symptoms require prompt recognition, dose documentation, and prevention strategies in clinical practice.",
+  "learning_objectives": [
+    "Recognize symptoms of acute and chronic vitamin A toxicity in children.",
+    "Understand the importance of dose documentation and caregiver education in preventing toxicity.",
+    "Learn management strategies for vitamin A toxicity, including stopping non-essential sources and supportive care.",
+    "Identify risk factors for narrowed safety margins in children with chronic liver disease or fortified product use."
+  ],
+  "key_facts": [
+    "Acute toxicity symptoms include headache, irritability, nausea/vomiting, and bulging fontanelle in infants.",
+    "Chronic toxicity can manifest as hepatomegaly, alopecia, bone pain, and persistent headache over weeks to months.",
+    "Repeated megadoses or overlapping prophylactic and therapeutic regimens are common causes of iatrogenic toxicity.",
+    "Prevention includes documenting dose type (prophylactic vs therapeutic) and avoiding large doses within short intervals.",
+    "Management involves stopping non-essential vitamin A sources and assessing for neurologic red flags like raised intracranial pressure.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Vitamin A",
+    "Hypervitaminosis A",
+    "Micronutrients",
+    "Pediatric Toxicology",
+    "Prophylaxis",
+    "Iatrogenic Disease",
+    "Liver Diseases",
+    "Nutritional Disorders"
+  ],
+  "tags_custom": [
+    "Vitamin A toxicity",
+    "Pediatric nutrition",
+    "Dose documentation",
+    "Preventive care",
+    "Therapeutic guidelines"
+  ],
+  "reference_quote": "Acute toxicity after a large dose can cause headache, irritability, nausea/vomiting, and in infants a bulging fontanelle consistent with raised intracranial pressure. These effects are often transient but can alarm families; pre-counsel that mild symptoms may occur and that repeat dosing is unsafe. (Reference 1)",
+  "document_key_topics": [
+    "Vitamin A toxicity symptoms and recognition",
+    "Prevention strategies for iatrogenic vitamin A toxicity",
+    "Management of acute and chronic vitamin A toxicity",
+    "Risk factors for narrowed safety margins in vulnerable populations"
+  ],
+  "chunk_heading": "MICRONUTRIENT NUTRITION;VITAMIN A DEFICIENCY TREATMENT AND PROPHYLAXIS DECISIONS;VITAMIN A TOXICITY RECOGNITION AND PREVENTION;",
+  "topic": "MICRONUTRIENT NUTRITION",
+  "subtopic": "VITAMIN A DEFICIENCY TREATMENT AND PROPHYLAXIS DECISIONS",
+  "sub_subtopic": "VITAMIN A TOXICITY RECOGNITION AND PREVENTION",
+  "heading_path": "MICRONUTRIENT NUTRITION;VITAMIN A DEFICIENCY TREATMENT AND PROPHYLAXIS DECISIONS;VITAMIN A TOXICITY RECOGNITION AND PREVENTION;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u00814"
+}

@@ -1,0 +1,47 @@
+{
+  "chunk_summary": "This example evaluates probiotics for preventing antibiotic-associated diarrhea (AAD) in children, emphasizing risk-based decision-making and safe clinical adoption practices.",
+  "learning_objectives": [
+    "Understand the role of probiotics in preventing antibiotic-associated diarrhea (AAD) in children.",
+    "Learn to apply baseline risk assessment to guide clinical decisions on probiotic use.",
+    "Identify high-risk contexts where probiotics may be cautiously considered.",
+    "Recognize contraindications for probiotic use in immunocompromised or critically ill patients."
+  ],
+  "key_facts": [
+    "Most AAD cases are mild; probiotics are recommended only for higher morbidity risk situations.",
+    "The overall NNTB for preventing C. difficile-associated diarrhea is approximately 42, but drops to 12 when baseline risk exceeds 5%.",
+    "Routine probiotic prophylaxis is not advised for immunocompetent children with low baseline risk.",
+    "Probiotics should be used with defined strain, dose, duration, and monitoring for harms in high-risk contexts.",
+    "Avoid live-microbe probiotics in severely immunocompromised children due to risk of invasive infection."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Probiotics",
+    "Antibiotic-Associated Diarrhea",
+    "Clostridioides difficile",
+    "Risk Assessment",
+    "Immunocompromised Host",
+    "Clinical Guidelines",
+    "Child Health",
+    "Infectious Disease Prevention"
+  ],
+  "tags_custom": [
+    "probiotic safety",
+    "antibiotic stewardship",
+    "pediatric diarrhea prevention",
+    "risk-based decision-making"
+  ],
+  "reference_quote": "Indian guidance notes most AAD is mild and recommends probiotics only in selected situations with higher morbidity risk, rather than routine prophylaxis for all immunocompetent children. (Indian Academy of Pediatrics National Consultative Group recommendations, 2022)",
+  "document_key_topics": [
+    "Probiotics for antibiotic-associated diarrhea prevention",
+    "Risk-based clinical decision-making",
+    "Guidelines for safe probiotic use in children"
+  ],
+  "chunk_heading": "RESEARCH & EMERGING CONCEPTS;EVIDENCE APPRAISAL TOOLKIT FOR SAFE CLINICAL ADOPTION;WORKED EXAMPLE PROBIOTICS FOR ANTIBIOTIC ASSOCIATED DIARRHEA;",
+  "topic": "RESEARCH & EMERGING CONCEPTS",
+  "subtopic": "EVIDENCE APPRAISAL TOOLKIT FOR SAFE CLINICAL ADOPTION",
+  "sub_subtopic": "WORKED EXAMPLE PROBIOTICS FOR ANTIBIOTIC ASSOCIATED DIARRHEA",
+  "heading_path": "RESEARCH & EMERGING CONCEPTS;EVIDENCE APPRAISAL TOOLKIT FOR SAFE CLINICAL ADOPTION;WORKED EXAMPLE PROBIOTICS FOR ANTIBIOTIC ASSOCIATED DIARRHEA;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1f5"
+}

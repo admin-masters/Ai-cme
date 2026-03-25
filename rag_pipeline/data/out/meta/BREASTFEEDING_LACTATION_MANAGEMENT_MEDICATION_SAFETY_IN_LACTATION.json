@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Guidelines for antithyroid therapy during lactation emphasize methimazole or propylthiouracil at moderate doses, with careful monitoring of infant thyroid function and maternal health. Timing doses post-breastfeeding minimizes infant exposure.",
+  "learning_objectives": [
+    "Understand the factors influencing medication transfer into breast milk.",
+    "Learn safe dosing guidelines for methimazole and propylthiouracil during lactation.",
+    "Recognize the importance of monitoring infant thyroid function and maternal health during antithyroid therapy.",
+    "Identify incompatible therapies like radioiodine and plan alternatives."
+  ],
+  "key_facts": [
+    "Methimazole is preferred over propylthiouracil due to lower maternal hepatotoxicity risk.",
+    "Compatible dosing: Methimazole up to 20\u201330 mg/day; Propylthiouracil up to 300\u2013450 mg/day.",
+    "Doses should be taken immediately after breastfeeding to reduce infant exposure.",
+    "Routine infant thyroid testing is not required unless symptoms arise.",
+    "Radioiodine therapy is incompatible with breastfeeding and requires specialist planning."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Breastfeeding",
+    "Lactation",
+    "Antithyroid Agents",
+    "Methimazole",
+    "Propylthiouracil",
+    "Thyroid Function Tests",
+    "Radioiodine Therapy",
+    "Maternal Health"
+  ],
+  "tags_custom": [
+    "medication safety",
+    "infant thyroid monitoring",
+    "postpartum care",
+    "antithyroid therapy",
+    "breastfeeding guidelines"
+  ],
+  "reference_quote": "Current evidence supports both methimazole and propylthiouracil during lactation at moderate doses, with careful maternal dosing and clinical monitoring of the infant.",
+  "document_key_topics": [
+    "Medication safety during lactation",
+    "Antithyroid therapy guidelines",
+    "Infant thyroid monitoring",
+    "Radioiodine therapy incompatibility"
+  ],
+  "chunk_heading": "BREASTFEEDING & LACTATION MANAGEMENT;MEDICATION SAFETY IN LACTATION INCLUDING ANTITHYROID THERAPY;",
+  "topic": "BREASTFEEDING & LACTATION MANAGEMENT",
+  "subtopic": "MEDICATION SAFETY IN LACTATION INCLUDING ANTITHYROID THERAPY",
+  "sub_subtopic": null,
+  "heading_path": "BREASTFEEDING & LACTATION MANAGEMENT;MEDICATION SAFETY IN LACTATION INCLUDING ANTITHYROID THERAPY;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u0088"
+}

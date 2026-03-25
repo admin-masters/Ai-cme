@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Guidelines for pediatric parenteral nutrition emphasize delayed initiation in stable children to reduce complications, while early PN is critical for neonates or high-risk cases. Nutrition risk screening tools like STRONGkids and PNST guide urgency and intervention planning.",
+  "learning_objectives": [
+    "Understand the indications for early versus delayed parenteral nutrition in pediatric critical care.",
+    "Learn to apply nutrition risk screening tools such as STRONGkids and PNST in clinical practice.",
+    "Recognize the metabolic needs of neonates and high-risk pediatric patients requiring early parenteral nutrition.",
+    "Identify strategies to avoid iatrogenic overfeeding in critically ill children."
+  ],
+  "key_facts": [
+    "Aggressive early PN in hemodynamically unstable children can increase infectious and metabolic complications; withholding PN for up to one week is reasonable if enteral progress is expected.",
+    "Early PN is indicated for neonates, especially very low birth weight infants or those with congenital gastrointestinal anomalies, when enteral feeding is not possible.",
+    "STRONGkids scoring: 0 (low risk), 1\u20133 (moderate risk), 4\u20135 (high risk); high scores should trigger dietitian involvement within 24 hours.",
+    "Acute-phase energy delivery should not exceed resting energy expenditure, estimated using the Schofield equation if indirect calorimetry is unavailable.",
+    "High-risk cases include severe wasting, oncology patients with negligible intake, or major postoperative ileus with no enteral tolerance expected for 5\u20137 days."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Parenteral Nutrition",
+    "Enteral Nutrition",
+    "Critical Care",
+    "Pediatrics",
+    "Neonatology",
+    "Nutrition Assessment",
+    "Energy Metabolism",
+    "Malnutrition"
+  ],
+  "tags_custom": [
+    "pediatric nutrition",
+    "risk screening tools",
+    "neonatal care",
+    "critical illness nutrition",
+    "feeding strategies"
+  ],
+  "reference_quote": "Early versus late parenteral nutrition in critically ill children (PEPaNIC trial) \u2014 withholding supplemental macronutrient PN for up to one week is reasonable in stable children to reduce complications.",
+  "document_key_topics": [
+    "Timing decisions for parenteral nutrition in pediatric critical care",
+    "Nutrition risk screening tools and their application",
+    "Metabolic needs of neonates and high-risk pediatric patients",
+    "Strategies to prevent iatrogenic overfeeding in critically ill children"
+  ],
+  "chunk_heading": "ENTERAL & PARENTERAL NUTRITION;ROUTE SELECTION AND TIMING DECISIONS FOR ENTERAL AND PARENTERAL NUTRITION;NUTRITION RISK SCREENING AND INDICATIONS FOR PARENTERAL NUTRITION;",
+  "topic": "ENTERAL & PARENTERAL NUTRITION",
+  "subtopic": "ROUTE SELECTION AND TIMING DECISIONS FOR ENTERAL AND PARENTERAL NUTRITION",
+  "sub_subtopic": "NUTRITION RISK SCREENING AND INDICATIONS FOR PARENTERAL NUTRITION",
+  "heading_path": "ENTERAL & PARENTERAL NUTRITION;ROUTE SELECTION AND TIMING DECISIONS FOR ENTERAL AND PARENTERAL NUTRITION;NUTRITION RISK SCREENING AND INDICATIONS FOR PARENTERAL NUTRITION;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "1f3"
+}

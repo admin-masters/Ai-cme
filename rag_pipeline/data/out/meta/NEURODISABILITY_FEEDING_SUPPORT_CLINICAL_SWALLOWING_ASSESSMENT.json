@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "Clinical swallowing assessment for neurodisability focuses on safety, sufficiency, and family acceptability, addressing feeding aversion risks and urgent red flags like aspiration or respiratory distress.",
+  "learning_objectives": [
+    "Identify red flags in pediatric dysphagia, including choking, cyanosis, and aspiration pneumonia.",
+    "Understand the role of structured observation and interdisciplinary management in feeding aversion and pediatric feeding disorder (PFD).",
+    "Assess developmental feeding skills, caregiver techniques, and gastrointestinal contributors during clinical swallowing evaluations."
+  ],
+  "key_facts": [
+    "Red flags include recurrent choking, cyanosis during feeds, oxygen desaturation, and suspected aspiration pneumonia linked to meals.",
+    "Silent aspiration may occur without a cough, requiring careful observation of airway compromise signs.",
+    "Feeding aversion can result from coercive feeding; prioritize safety and nutrition over behavioral correction.",
+    "Clinical assessment includes posture, oral-motor skills, meal fatigue, and hydration markers like urine output and tears.",
+    "Trialed consistencies should be used to assess airway compromise during bedside evaluations.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Deglutition Disorders",
+    "Feeding Behavior",
+    "Pediatric Dysphagia",
+    "Neurodevelopmental Disorders",
+    "Aspiration Pneumonia",
+    "Respiratory Distress",
+    "Feeding and Eating Disorders",
+    "Swallowing Physiology"
+  ],
+  "tags_custom": [
+    "feeding aversion",
+    "clinical swallowing assessment",
+    "pediatric feeding disorder",
+    "interdisciplinary management",
+    "silent aspiration"
+  ],
+  "reference_quote": "Use three questions at every visit: is oral feeding safe today, sufficient today, and acceptable for the family system. (Source: ESPGHAN Advice Guide)",
+  "document_key_topics": [
+    "Clinical swallowing assessment in neurodisability",
+    "Feeding aversion and oral defensiveness",
+    "Interdisciplinary management of pediatric feeding disorder"
+  ],
+  "chunk_heading": "NEURODISABILITY & FEEDING SUPPORT;CLINICAL SWALLOWING ASSESSMENT INCLUDING FEEDING AVERSION RISK;",
+  "topic": "NEURODISABILITY & FEEDING SUPPORT",
+  "subtopic": "CLINICAL SWALLOWING ASSESSMENT INCLUDING FEEDING AVERSION RISK",
+  "sub_subtopic": null,
+  "heading_path": "NEURODISABILITY & FEEDING SUPPORT;CLINICAL SWALLOWING ASSESSMENT INCLUDING FEEDING AVERSION RISK;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1d"
+}

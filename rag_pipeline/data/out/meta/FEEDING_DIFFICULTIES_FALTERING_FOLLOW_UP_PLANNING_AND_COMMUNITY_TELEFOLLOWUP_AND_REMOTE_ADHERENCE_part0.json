@@ -1,0 +1,47 @@
+{
+  "chunk_summary": "Tele-follow-up for feeding difficulties and faltering growth ensures adherence, rapid troubleshooting, and integration with community systems, focusing on clinically stable children with high adherence risks.",
+  "learning_objectives": [
+    "Understand the role of tele-follow-up in managing feeding difficulties and faltering growth.",
+    "Identify criteria for selecting tele-follow-up versus in-person assessment.",
+    "Learn how to integrate tele-follow-up data with community programs like ICDS and MCP/RCH records."
+  ],
+  "key_facts": [
+    "Tele-follow-up is suitable for clinically stable children with high adherence risks, such as travel barriers or caregiver overload.",
+    "Recommended check-in intervals: 48\u201372 hours for high-risk infants and 7 days for toddlers starting new meal structures.",
+    "Minimum dataset includes milk volume (mL/day), meal/snack count, meal duration, and choking/coughing events.",
+    "Families can provide a 3-day diary or daily 'before and after' meal photos for adherence verification.",
+    "Community integration involves weighing at anganwadi/ICDS platforms using MCP/RCH records to ensure comparable measurements."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Feeding Behavior",
+    "Failure to Thrive",
+    "Telemedicine",
+    "Community Health Services",
+    "Child Nutrition Disorders",
+    "Patient Compliance",
+    "Infant Nutrition",
+    "Growth Disorders"
+  ],
+  "tags_custom": [
+    "tele-follow-up",
+    "adherence monitoring",
+    "community integration",
+    "feeding difficulties",
+    "faltering growth"
+  ],
+  "reference_quote": "Use NICE principles for regular but not excessive monitoring, and maintain safeguarding vigilance when follow-up repeatedly fails despite outreach.",
+  "document_key_topics": [
+    "Tele-follow-up for feeding difficulties",
+    "Adherence monitoring and troubleshooting",
+    "Community program integration for growth monitoring"
+  ],
+  "chunk_heading": "FEEDING DIFFICULTIES & FALTERING GROWTH;FOLLOW UP PLANNING AND COMMUNITY PROGRAM INTEGRATION;TELE-FOLLOW-UP AND REMOTE ADHERENCE VERIFICATION;",
+  "topic": "FEEDING DIFFICULTIES & FALTERING GROWTH",
+  "subtopic": "FOLLOW UP PLANNING AND COMMUNITY PROGRAM INTEGRATION",
+  "sub_subtopic": "TELE-FOLLOW-UP AND REMOTE ADHERENCE VERIFICATION",
+  "heading_path": "FEEDING DIFFICULTIES & FALTERING GROWTH;FOLLOW UP PLANNING AND COMMUNITY PROGRAM INTEGRATION;TELE-FOLLOW-UP AND REMOTE ADHERENCE VERIFICATION;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "4\u00912.1"
+}

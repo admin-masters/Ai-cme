@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "Guidelines for transitioning from stabilization to rehabilitation feeding in children with stunting and severe acute malnutrition, including discharge follow-up criteria to prevent relapse and ensure sustained recovery.",
+  "learning_objectives": [
+    "Understand the staged approach to nutritional rehabilitation after stabilization in children with stunting and severe acute malnutrition.",
+    "Learn the criteria for transitioning from starter diets to higher-energy catch-up feeding.",
+    "Recognize the importance of follow-up schedules and addressing determinants like food insecurity post-discharge.",
+    "Identify high-risk failure patterns such as stalled weight gain or recurring edema."
+  ],
+  "key_facts": [
+    "Rehabilitation feeding should gradually increase energy intake up to 220 kcal/kg/day to prevent complications.",
+    "Transition to catch-up feeding occurs only when the child is clinically stable, appetite has returned, and edema is reducing.",
+    "Follow-up schedule: one week post-discharge, every two weeks in the first month, then monthly until recovery thresholds are met.",
+    "Discharge is not the endpoint; relapse and intercurrent infections are common without proper follow-up.",
+    "Outpatient clinicians should document discharge phenotype, feeding regimen, and medications, and link families to community nutrition platforms."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Stunting",
+    "Severe Acute Malnutrition",
+    "Nutritional Rehabilitation",
+    "Energy Intake",
+    "Edema",
+    "Follow-Up Studies",
+    "Food Insecurity",
+    "Sanitation"
+  ],
+  "tags_custom": [
+    "Rehabilitation feeding",
+    "Discharge criteria",
+    "Nutritional follow-up",
+    "High-risk failure patterns"
+  ],
+  "reference_quote": "Facility-based manuals describe transition from a starter diet to higher-energy catch-up feeding only once the child is clinically stable, appetite has returned, and edema is reducing.",
+  "document_key_topics": [
+    "Rehabilitation feeding transitions",
+    "Discharge follow-up criteria",
+    "Prevention of relapse in malnourished children",
+    "Addressing determinants like food insecurity and sanitation"
+  ],
+  "chunk_heading": "STUNTING, CHRONIC UNDERNUTRITION & DETERMINANTS;MANAGEMENT WHEN STUNTING COEXISTS WITH SEVERE ACUTE MALNUTRITION;REHABILITATION FEEDING TRANSITIONS AND DISCHARGE FOLLOW UP CRITERIA;",
+  "topic": "STUNTING, CHRONIC UNDERNUTRITION & DETERMINANTS",
+  "subtopic": "MANAGEMENT WHEN STUNTING COEXISTS WITH SEVERE ACUTE MALNUTRITION",
+  "sub_subtopic": "REHABILITATION FEEDING TRANSITIONS AND DISCHARGE FOLLOW UP CRITERIA",
+  "heading_path": "STUNTING, CHRONIC UNDERNUTRITION & DETERMINANTS;MANAGEMENT WHEN STUNTING COEXISTS WITH SEVERE ACUTE MALNUTRITION;REHABILITATION FEEDING TRANSITIONS AND DISCHARGE FOLLOW UP CRITERIA;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "7\u008c2"
+}

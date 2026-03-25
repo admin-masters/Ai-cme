@@ -1,0 +1,46 @@
+{
+  "chunk_summary": "This section discusses trace element management in pediatric cholestasis, emphasizing deficiencies, toxicity risks, and supplementation strategies during parenteral nutrition.",
+  "learning_objectives": [
+    "Understand the clinical signs and risks of trace element deficiencies in pediatric cholestasis.",
+    "Learn appropriate supplementation dosages and monitoring strategies for zinc, selenium, copper, and manganese.",
+    "Recognize the importance of balancing deficiency and toxicity risks in trace element management during parenteral nutrition."
+  ],
+  "key_facts": [
+    "Zinc supplementation in pediatric cholestasis is commonly dosed at 1 mg/kg/day, with reassessment over 4\u20138 weeks.",
+    "Selenium deficiency can lead to cardiomyopathy, myopathy, and immune dysfunction, especially in prolonged parenteral nutrition.",
+    "Manganese accumulation during cholestasis-related parenteral nutrition can cause neurotoxicity; monitoring whole-blood manganese is recommended.",
+    "Copper deficiency can result in anemia, neutropenia, and bone abnormalities; proactive monitoring and rescue strategies are essential if copper is reduced.",
+    "Serum zinc is an inflammation-sensitive marker and may be unreliable in certain settings."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Cholestasis",
+    "Parenteral Nutrition",
+    "Trace Elements",
+    "Zinc",
+    "Selenium",
+    "Copper",
+    "Manganese",
+    "Pediatric Nutrition"
+  ],
+  "tags_custom": [
+    "trace element management",
+    "cholestasis nutrition",
+    "pediatric supplementation",
+    "parenteral nutrition risks"
+  ],
+  "reference_quote": "Deficiency can worsen appetite, immune function, wound healing, and neurodevelopment, while impaired biliary excretion can increase toxicity risk for selected elements.",
+  "document_key_topics": [
+    "Trace element deficiencies in cholestasis",
+    "Supplementation strategies for zinc, selenium, copper, and manganese",
+    "Monitoring and toxicity prevention during parenteral nutrition"
+  ],
+  "chunk_heading": "NUTRITION;",
+  "topic": "NUTRITION",
+  "subtopic": "General",
+  "sub_subtopic": null,
+  "heading_path": "NUTRITION;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "4a"
+}

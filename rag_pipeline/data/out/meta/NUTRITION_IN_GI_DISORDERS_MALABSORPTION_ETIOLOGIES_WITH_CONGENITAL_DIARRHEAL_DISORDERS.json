@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "Congenital diarrheal disorders require urgent stabilization and referral due to risks of dehydration, electrolyte imbalance, and intestinal failure. Management includes fluid replacement, electrolyte correction, specialized nutrition, and early referral to pediatric gastroenterology.",
+  "learning_objectives": [
+    "Recognize red flags for congenital diarrheal disorders requiring urgent intervention.",
+    "Understand the principles of fluid and electrolyte management in congenital diarrhea.",
+    "Identify the role of specialized enteral and parenteral nutrition in stabilization.",
+    "Apply refeeding precautions to prevent complications in underfed infants."
+  ],
+  "key_facts": [
+    "Congenital diarrheal disorders often present with neonatal onset, profuse watery stools, and failure to thrive despite adequate feeding.",
+    "Fluid replacement should match stool losses, using solutions with 0.7\u20130.9% NaCl and 0.2\u20130.3% KCl, adjusted based on serum electrolytes.",
+    "Monitor urine output, weight, and electrolytes frequently during stabilization.",
+    "Specialized enteral formulas or parenteral nutrition may be required during acute management.",
+    "Refeeding precautions are critical to prevent electrolyte shifts, even in very young infants.",
+    "Early referral to tertiary pediatric gastroenterology or intestinal rehabilitation centers is essential."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Congenital Diarrheal Disorders",
+    "Dehydration",
+    "Electrolyte Imbalance",
+    "Parenteral Nutrition",
+    "Enteral Nutrition",
+    "Refeeding Syndrome",
+    "Pediatric Gastroenterology",
+    "Intestinal Failure"
+  ],
+  "tags_custom": [
+    "urgent stabilization",
+    "neonatal diarrhea",
+    "specialized nutrition",
+    "electrolyte management",
+    "tertiary referral"
+  ],
+  "reference_quote": "Very early onset severe diarrhea is not \u2018persistent gastroenteritis\u2019 and requires urgent stabilization plus referral because congenital diarrheal disorders can progress rapidly to dehydration, electrolyte catastrophe, and intestinal failure.",
+  "document_key_topics": [
+    "Urgent stabilization in congenital diarrheal disorders",
+    "Fluid and electrolyte management in neonatal diarrhea",
+    "Specialized nutrition for congenital enteropathies",
+    "Referral to pediatric gastroenterology"
+  ],
+  "chunk_heading": "NUTRITION IN GI DISORDERS & MALABSORPTION;MALABSORPTION ETIOLOGIES WITH CONDITION-SPECIFIC DIET THERAPIES;CONGENITAL DIARRHEAL DISORDERS STABILIZATION AND REFERRAL URGENCY;",
+  "topic": "NUTRITION IN GI DISORDERS & MALABSORPTION",
+  "subtopic": "MALABSORPTION ETIOLOGIES WITH CONDITION-SPECIFIC DIET THERAPIES",
+  "sub_subtopic": "CONGENITAL DIARRHEAL DISORDERS STABILIZATION AND REFERRAL URGENCY",
+  "heading_path": "NUTRITION IN GI DISORDERS & MALABSORPTION;MALABSORPTION ETIOLOGIES WITH CONDITION-SPECIFIC DIET THERAPIES;CONGENITAL DIARRHEAL DISORDERS STABILIZATION AND REFERRAL URGENCY;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "2\u00928"
+}

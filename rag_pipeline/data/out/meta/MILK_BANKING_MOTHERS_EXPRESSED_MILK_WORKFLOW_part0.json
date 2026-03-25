@@ -1,0 +1,47 @@
+{
+  "chunk_summary": "This workflow outlines the step-by-step process for handling mother's expressed breast milk (EBM) in NICU settings, including explicit stop rules to ensure safety and quality control from expression to administration.",
+  "learning_objectives": [
+    "Understand the step-by-step workflow for handling expressed breast milk in NICU settings.",
+    "Identify and apply stop rules to ensure milk safety and prevent errors in labeling, storage, and administration.",
+    "Learn proper cooling, transport, and storage protocols for expressed breast milk.",
+    "Recognize the importance of documentation and quality review in milk banking workflows."
+  ],
+  "key_facts": [
+    "Milk must be placed in a refrigerator (2\u20134\u00b0C) or insulated cooler within 1 hour of expression.",
+    "Labels must include infant identifier, mother identifier, date/time of expression, and 'use by' time per unit policy.",
+    "Stop rules include discarding milk with missing/uncertain labels, mismatched identifiers, or unknown cold-chain duration.",
+    "Residual milk left at room temperature beyond policy or leftover after feeding for more than 2 hours must be discarded.",
+    "Two-person identity checks are required during preparation and administration stages."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Milk Banks",
+    "Breast Milk",
+    "Neonatal Intensive Care Units",
+    "Cold Chain",
+    "Food Safety",
+    "Labeling",
+    "Quality Control"
+  ],
+  "tags_custom": [
+    "NICU milk workflow",
+    "expressed breast milk safety",
+    "stop rules",
+    "milk storage protocols"
+  ],
+  "reference_quote": "Labels must include infant identifier, mother identifier, date/time of expression, and 'use by' time per unit policy. Stop rule: missing or uncertain label equals discard.",
+  "document_key_topics": [
+    "Milk banking workflow in NICU",
+    "Stop rules for expressed breast milk",
+    "Cold chain and storage protocols",
+    "Safety and quality control in milk handling"
+  ],
+  "chunk_heading": "MILK BANKING;MOTHER'S EXPRESSED MILK WORKFLOW WITH STOP RULES;",
+  "topic": "MILK BANKING",
+  "subtopic": "MOTHER'S EXPRESSED MILK WORKFLOW WITH STOP RULES",
+  "sub_subtopic": null,
+  "heading_path": "MILK BANKING;MOTHER'S EXPRESSED MILK WORKFLOW WITH STOP RULES;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "2a.1"
+}

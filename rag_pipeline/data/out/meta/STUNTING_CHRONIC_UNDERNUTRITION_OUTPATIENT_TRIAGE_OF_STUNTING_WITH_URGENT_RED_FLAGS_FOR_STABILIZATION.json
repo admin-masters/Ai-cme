@@ -1,0 +1,47 @@
+{
+  "chunk_summary": "This section outlines urgent red flags in outpatient triage of stunted children, emphasizing acute risk identification, stabilization, and inpatient referral to prevent complications like sepsis and hypoglycemia.",
+  "learning_objectives": [
+    "Identify urgent red flags in stunted children requiring inpatient stabilization.",
+    "Understand the physiological risks of severe malnutrition, including hypoglycemia and sepsis.",
+    "Apply national and IAP protocols for managing severe acute malnutrition (SAM).",
+    "Differentiate between stable outpatient cases and those needing urgent inpatient care."
+  ],
+  "key_facts": [
+    "Stunting is typically chronic but can present with acute risks requiring immediate attention.",
+    "Urgent red flags include bilateral pitting edema, severe wasting, very low MUAC, lethargy, inability to feed, hypothermia, high fever, dehydration, or shock.",
+    "Severely malnourished children are at high risk for hypoglycemia, hypothermia, electrolyte imbalances, and sepsis.",
+    "Inappropriate rehydration in severe malnutrition can lead to complications; hydration must be reassessed carefully.",
+    "National and IAP protocols prioritize facility-based care for children with edema, poor appetite, or systemic danger signs."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Stunting",
+    "Malnutrition",
+    "Severe Acute Malnutrition",
+    "Nutritional Edema",
+    "Dehydration",
+    "Hypoglycemia",
+    "Sepsis",
+    "Pediatric Triage"
+  ],
+  "tags_custom": [
+    "acute risk identification",
+    "inpatient referral",
+    "growth monitoring",
+    "SAM management"
+  ],
+  "reference_quote": "Severely malnourished children are vulnerable to hypoglycemia, hypothermia, electrolyte derangements, and sepsis. (WHO guideline on the prevention and management of wasting and nutritional oedema)",
+  "document_key_topics": [
+    "Stunting and chronic undernutrition",
+    "Outpatient triage and acute risk identification",
+    "Urgent red flags for inpatient referral"
+  ],
+  "chunk_heading": "STUNTING, CHRONIC UNDERNUTRITION & DETERMINANTS;OUTPATIENT TRIAGE OF STUNTING WITH ACUTE RISK IDENTIFICATION;URGENT RED FLAGS FOR STABILIZATION AND INPATIENT REFERRAL;",
+  "topic": "STUNTING, CHRONIC UNDERNUTRITION & DETERMINANTS",
+  "subtopic": "OUTPATIENT TRIAGE OF STUNTING WITH ACUTE RISK IDENTIFICATION",
+  "sub_subtopic": "URGENT RED FLAGS FOR STABILIZATION AND INPATIENT REFERRAL",
+  "heading_path": "STUNTING, CHRONIC UNDERNUTRITION & DETERMINANTS;OUTPATIENT TRIAGE OF STUNTING WITH ACUTE RISK IDENTIFICATION;URGENT RED FLAGS FOR STABILIZATION AND INPATIENT REFERRAL;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "5s1"
+}

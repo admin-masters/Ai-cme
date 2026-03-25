@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "Guidelines for synbiotic and postbiotic use in pediatrics emphasize evidence-based, time-limited trials with measurable outcomes, avoiding use in high-risk populations or unsupported indications.",
+  "learning_objectives": [
+    "Understand the distinction between complementary and synergistic synbiotics.",
+    "Learn the criteria for initiating and stopping synbiotic/postbiotic therapy in pediatric patients.",
+    "Identify contraindications for synbiotic/postbiotic use in high-risk pediatric populations.",
+    "Recognize the importance of documenting product details for pharmacovigilance."
+  ],
+  "key_facts": [
+    "Synbiotics combine probiotics with substrates, classified as complementary or synergistic based on their interaction.",
+    "Clinical predictability of commercial synbiotic/postbiotic products is low due to lack of strain-substrate pairing and viability data.",
+    "Trial duration: 7\u201314 days for acute diarrhea prevention, 2\u20134 weeks for functional symptoms.",
+    "Avoid use in children with central venous catheters, severe immunocompromise, critical illness, or in NICU settings unless protocolized.",
+    "Document product, lot, dose, duration, and adverse effects to support pharmacovigilance."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Synbiotics",
+    "Probiotics",
+    "Postbiotics",
+    "Pediatrics",
+    "Gastrointestinal Diseases",
+    "Evidence-Based Practice",
+    "Pharmacovigilance",
+    "Dietary Supplements"
+  ],
+  "tags_custom": [
+    "pediatric probiotics",
+    "synbiotic stewardship",
+    "postbiotic safety",
+    "clinical guidelines",
+    "functional symptoms"
+  ],
+  "reference_quote": "In practice, most commercial 'synbiotic' or 'postbiotic' pediatric products do not specify strain\u2013substrate pairing, viability at end of shelf life, or dose of the active component, so clinical predictability is low.",
+  "document_key_topics": [
+    "Synbiotic and postbiotic definitions and classifications",
+    "Guidelines for pediatric synbiotic/postbiotic use",
+    "Contraindications and safety considerations"
+  ],
+  "chunk_heading": "RESEARCH & EMERGING CONCEPTS;STRAIN SPECIFIC PROBIOTIC AND SYNBIOTIC PRESCRIBING;SYNBIOTIC AND POSTBIOTIC STEWARDSHIP WITH STOP RULES;",
+  "topic": "RESEARCH & EMERGING CONCEPTS",
+  "subtopic": "STRAIN SPECIFIC PROBIOTIC AND SYNBIOTIC PRESCRIBING",
+  "sub_subtopic": "SYNBIOTIC AND POSTBIOTIC STEWARDSHIP WITH STOP RULES",
+  "heading_path": "RESEARCH & EMERGING CONCEPTS;STRAIN SPECIFIC PROBIOTIC AND SYNBIOTIC PRESCRIBING;SYNBIOTIC AND POSTBIOTIC STEWARDSHIP WITH STOP RULES;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1o1"
+}

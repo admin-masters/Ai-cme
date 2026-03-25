@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "This section discusses anthropometric methods and borderline malnutrition interpretation in outpatient care, focusing on moderate acute malnutrition (MAM) and supplementary feeding strategies.",
+  "learning_objectives": [
+    "Understand the role of anthropometry in diagnosing malnutrition in outpatient settings.",
+    "Identify criteria for moderate acute malnutrition (MAM) and appropriate interventions.",
+    "Learn supplementary feeding guidelines for borderline malnutrition cases."
+  ],
+  "key_facts": [
+    "Moderate acute malnutrition (MAM) is defined by weight-for-height Z-scores between -2 and -3 SD or mid-upper arm circumference (MUAC) of 11.5\u201312.5 cm.",
+    "Supplementary feeding programs aim to provide 500\u20131000 kcal/day to address nutritional deficits.",
+    "Anthropometric measurements, such as MUAC and weight-for-height, are critical for monitoring malnutrition in outpatient care.",
+    "Borderline malnutrition cases require close monitoring to prevent progression to severe acute malnutrition (SAM).",
+    "Outpatient care focuses on community-based management of malnutrition using accessible and cost-effective interventions."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Malnutrition",
+    "Anthropometry",
+    "Outpatient Care",
+    "Nutritional Support",
+    "Mid-Upper Arm Circumference",
+    "Weight-for-Height",
+    "Supplementary Feeding",
+    "Community Health Services"
+  ],
+  "tags_custom": [
+    "borderline malnutrition",
+    "moderate acute malnutrition",
+    "feeding strategies",
+    "nutritional assessment",
+    "outpatient management"
+  ],
+  "reference_quote": "Moderate acute malnutrition (MAM) is managed through supplementary feeding programs providing 500\u20131000 kcal/day to prevent progression to severe malnutrition.",
+  "document_key_topics": [
+    "Anthropometric methods in malnutrition diagnosis",
+    "Moderate acute malnutrition (MAM) criteria",
+    "Supplementary feeding strategies",
+    "Outpatient care for borderline malnutrition"
+  ],
+  "chunk_heading": "FEEDING;ANTHROPOMETRY AND BORDERLINE INTERPRETATION IN OUTPATIENT CARE;",
+  "topic": "FEEDING",
+  "subtopic": "ANTHROPOMETRY AND BORDERLINE INTERPRETATION IN OUTPATIENT CARE",
+  "sub_subtopic": null,
+  "heading_path": "FEEDING;ANTHROPOMETRY AND BORDERLINE INTERPRETATION IN OUTPATIENT CARE;",
+  "reference_count": 0,
+  "has_guidelines": false,
+  "sequence": "2c"
+}

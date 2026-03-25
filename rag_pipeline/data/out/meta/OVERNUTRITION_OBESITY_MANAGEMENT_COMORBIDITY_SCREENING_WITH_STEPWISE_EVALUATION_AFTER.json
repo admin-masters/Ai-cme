@@ -1,0 +1,47 @@
+{
+  "chunk_summary": "Stepwise evaluation of persistent ALT elevation in children with obesity focuses on confirming MASLD, excluding alternative etiologies, and determining referral needs based on severity and red flags.",
+  "learning_objectives": [
+    "Understand the structured approach to evaluating persistent ALT elevation in pediatric obesity.",
+    "Identify first-line tests for excluding alternative causes of elevated ALT.",
+    "Recognize red flags requiring referral to pediatric gastroenterology/hepatology."
+  ],
+  "key_facts": [
+    "Persistent ALT elevation supports MASLD diagnosis after excluding other causes.",
+    "Step 1: Repeat ALT with AST and GGT after 3\u20136 months of lifestyle intensification.",
+    "Step 2: First-line tests include hepatitis B/C markers, tissue transglutaminase IgA, autoimmune markers, and ceruloplasmin in older children.",
+    "Step 3: Ultrasound can support steatosis but does not exclude MASLD; refer for red flags like jaundice or hepatosplenomegaly.",
+    "Elevated ALT with systemic symptoms warrants checking bilirubin, albumin, and INR."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Obesity",
+    "Fatty Liver",
+    "Alanine Transaminase",
+    "Nonalcoholic Fatty Liver Disease",
+    "Pediatric Obesity",
+    "Hepatitis",
+    "Autoimmune Diseases",
+    "Ultrasonography"
+  ],
+  "tags_custom": [
+    "MASLD evaluation",
+    "ALT persistence",
+    "pediatric liver screening",
+    "obesity comorbidities"
+  ],
+  "reference_quote": "Persistently elevated ALT over repeated measurements supports a diagnosis on the metabolic dysfunction\u2013associated steatotic liver disease (MASLD) spectrum when other causes are excluded.",
+  "document_key_topics": [
+    "Persistent ALT elevation in pediatric obesity",
+    "MASLD diagnosis and management",
+    "Exclusion of alternative etiologies",
+    "Referral criteria for severe liver disease"
+  ],
+  "chunk_heading": "OVERNUTRITION & OBESITY MANAGEMENT;COMORBIDITY SCREENING WITH ACTIONABLE PATHWAYS;STEPWISE EVALUATION AFTER PERSISTENT ALT ELEVATION SUGGESTING MASLD;",
+  "topic": "OVERNUTRITION & OBESITY MANAGEMENT",
+  "subtopic": "COMORBIDITY SCREENING WITH ACTIONABLE PATHWAYS",
+  "sub_subtopic": "STEPWISE EVALUATION AFTER PERSISTENT ALT ELEVATION SUGGESTING MASLD",
+  "heading_path": "OVERNUTRITION & OBESITY MANAGEMENT;COMORBIDITY SCREENING WITH ACTIONABLE PATHWAYS;STEPWISE EVALUATION AFTER PERSISTENT ALT ELEVATION SUGGESTING MASLD;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1x10"
+}

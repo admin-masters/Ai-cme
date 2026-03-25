@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "Guidelines for charting preterm infant growth using corrected age, preterm-specific charts, and WHO standards, emphasizing z-scores, growth velocity, and follow-up care.",
+  "learning_objectives": [
+    "Understand the importance of corrected age in growth charting for preterm infants.",
+    "Learn how to interpret z-scores and growth velocity for preterm infants using WHO/IAP and preterm-specific charts.",
+    "Identify appropriate follow-up intervals and nutritional interventions for preterm infants.",
+    "Recognize the implications of extrauterine growth restriction (EUGR) and its management."
+  ],
+  "key_facts": [
+    "Corrected age is calculated as chronological age minus weeks born before 40 weeks (e.g., a 16-week-old born at 32 weeks is plotted at 8 weeks corrected age).",
+    "Use corrected age for growth charting until at least 24 months, extending to 36 months for very preterm infants.",
+    "Preterm-specific charts like Fenton are used for 22 to 50 weeks postmenstrual age.",
+    "Frequent follow-up is recommended: weekly or fortnightly weights post-discharge, then monthly plotting during infancy.",
+    "Persistent decline in weight-for-age z-score or head growth warrants targeted nutrition review and neurodevelopmental surveillance.",
+    "WHO term charts are used after discharge, with corrected age applied for accurate plotting."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Infant, Premature",
+    "Growth Charts",
+    "Z-Score",
+    "Catch-Up Growth",
+    "Nutritional Status",
+    "Head Circumference",
+    "Postnatal Care",
+    "Extrauterine Growth Restriction"
+  ],
+  "tags_custom": [
+    "preterm growth monitoring",
+    "corrected age charting",
+    "z-score interpretation",
+    "EUGR management"
+  ],
+  "reference_quote": "Corrected age equals chronological age minus the number of weeks born before 40 weeks (for example, a 16-week-old born at 32 weeks is plotted at 8 weeks corrected age).",
+  "document_key_topics": [
+    "Preterm infant growth charting",
+    "Corrected age and z-scores",
+    "Follow-up care and EUGR management"
+  ],
+  "chunk_heading": "GROWTH VELOCITY, Z-SCORES; WHO/IAP CHARTS);SELECTION AND USE OF GROWTH CHARTS;PRETERM INFANT CHARTING WITH CORRECTED AGE;",
+  "topic": "GROWTH VELOCITY, Z-SCORES",
+  "subtopic": "WHO/IAP CHARTS)",
+  "sub_subtopic": "SELECTION AND USE OF GROWTH CHARTS",
+  "heading_path": "GROWTH VELOCITY, Z-SCORES; WHO/IAP CHARTS);SELECTION AND USE OF GROWTH CHARTS;PRETERM INFANT CHARTING WITH CORRECTED AGE;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2v21.1"
+}

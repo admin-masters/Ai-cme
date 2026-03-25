@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Waist circumference complements BMI in identifying central adiposity, especially in Indian children, where cardiometabolic risk occurs at lower BMI. It is crucial in scenarios where BMI misleads, such as muscular adolescents or those with chronic conditions.",
+  "learning_objectives": [
+    "Understand the limitations of BMI in specific clinical scenarios and its potential to mislead.",
+    "Learn the proper technique for measuring waist circumference and its role in assessing central adiposity.",
+    "Recognize the importance of waist circumference in identifying cardiometabolic risk in Indian children.",
+    "Interpret waist circumference trends and thresholds for risk screening in overweight and obese children."
+  ],
+  "key_facts": [
+    "BMI is a screening tool, not a direct measure of adiposity or fat distribution.",
+    "Misleading BMI scenarios include muscular adolescents, edema, chronic kidney disease, and extreme height or short stature.",
+    "Waist circumference should be measured at the midpoint between the lowest rib and iliac crest, after gentle expiration.",
+    "The IAP suggests using the 70th percentile of waist circumference as a threshold for higher cardiometabolic risk in Indian children.",
+    "Waist-to-height ratio can be used as an adjunct but not as a replacement for waist circumference."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Body Mass Index",
+    "Waist Circumference",
+    "Adiposity",
+    "Pediatric Obesity",
+    "Anthropometry",
+    "Cardiometabolic Risk",
+    "Chronic Kidney Disease",
+    "Musculoskeletal Abnormalities"
+  ],
+  "tags_custom": [
+    "BMI limitations",
+    "central adiposity",
+    "Indian pediatric obesity",
+    "waist measurement technique",
+    "cardiometabolic screening"
+  ],
+  "reference_quote": "Current IAP obesity guidance supports waist measurement in overweight and obesity and suggests a pragmatic threshold around the 70th percentile to flag higher cardiometabolic risk.",
+  "document_key_topics": [
+    "BMI limitations in specific clinical scenarios",
+    "Waist circumference as a complementary measure",
+    "Cardiometabolic risk in Indian children",
+    "Standardized anthropometry techniques"
+  ],
+  "chunk_heading": "OVERNUTRITION & OBESITY MANAGEMENT;STANDARDIZED ANTHROPOMETRY AND CHART-BASED DIAGNOSIS;WAIST CIRCUMFERENCE USE AND CLINICAL SCENARIOS WHERE BMI MISLEADS;",
+  "topic": "OVERNUTRITION & OBESITY MANAGEMENT",
+  "subtopic": "STANDARDIZED ANTHROPOMETRY AND CHART-BASED DIAGNOSIS",
+  "sub_subtopic": "WAIST CIRCUMFERENCE USE AND CLINICAL SCENARIOS WHERE BMI MISLEADS",
+  "heading_path": "OVERNUTRITION & OBESITY MANAGEMENT;STANDARDIZED ANTHROPOMETRY AND CHART-BASED DIAGNOSIS;WAIST CIRCUMFERENCE USE AND CLINICAL SCENARIOS WHERE BMI MISLEADS;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1h4"
+}

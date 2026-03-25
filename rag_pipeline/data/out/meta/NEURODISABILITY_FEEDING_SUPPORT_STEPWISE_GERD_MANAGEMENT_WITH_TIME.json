@@ -1,0 +1,46 @@
+{
+  "chunk_summary": "Stepwise GERD management in children with neurodisability emphasizes non-pharmacologic measures, time-limited PPI trials, and careful deprescribing while avoiding routine use of prokinetics due to uncertain efficacy and adverse effects.",
+  "learning_objectives": [
+    "Understand the multifactorial nature of GERD symptoms in children with neurodisability.",
+    "Learn the stepwise approach to GERD management, including modifiable feeding practices and time-limited PPI trials.",
+    "Recognize alarm features requiring referral, such as persistent dysphagia, weight loss, or recurrent hematemesis."
+  ],
+  "key_facts": [
+    "GERD symptoms in neurodisability are often multifactorial, including dysphagia, secretion aspiration, and weak cough.",
+    "Empiric PPI trials should be time-limited to 4\u20138 weeks with planned review and deprescribing strategies.",
+    "Prokinetics like domperidone or metoclopramide are not recommended due to uncertain efficacy and significant adverse effects.",
+    "Positioning during and after feeds, avoiding overfeeding, and adjusting feeding volumes/frequency are key non-pharmacologic measures.",
+    "Alarm features such as weight loss, unexplained anemia, or severe feeding aversion warrant referral for further evaluation."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Gastroesophageal Reflux",
+    "Neurodevelopmental Disorders",
+    "Proton Pump Inhibitors",
+    "Feeding Behavior",
+    "Dysphagia",
+    "Domperidone",
+    "Metoclopramide",
+    "Fundoplication"
+  ],
+  "tags_custom": [
+    "GERD management in neurodisability",
+    "time-limited PPI trials",
+    "feeding optimization"
+  ],
+  "reference_quote": "Reserve PPI therapy for symptom patterns consistent with acid-mediated pain or esophagitis risk (feeding-associated pain, persistent heartburn symptoms in older children, hematemesis, anemia, dysphagia).",
+  "document_key_topics": [
+    "GERD management in children with neurodisability",
+    "Non-pharmacologic feeding strategies",
+    "Time-limited PPI trials and deprescribing",
+    "Referral criteria for alarm features"
+  ],
+  "chunk_heading": "NEURODISABILITY & FEEDING SUPPORT;STEPWISE GERD MANAGEMENT WITH TIME- LIMITED PPI TRIALS;",
+  "topic": "NEURODISABILITY & FEEDING SUPPORT",
+  "subtopic": "STEPWISE GERD MANAGEMENT WITH TIME- LIMITED PPI TRIALS",
+  "sub_subtopic": null,
+  "heading_path": "NEURODISABILITY & FEEDING SUPPORT;STEPWISE GERD MANAGEMENT WITH TIME- LIMITED PPI TRIALS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1t"
+}

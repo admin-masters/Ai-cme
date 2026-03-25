@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Guidelines for time-bound diet ladder trials in persistent diarrhea, with stop rules, red flag escalation triggers, and referral protocols to prevent harm from prolonged dietary restrictions in children with GI disorders.",
+  "learning_objectives": [
+    "Understand the time-bound diet ladder approach for managing persistent diarrhea in children.",
+    "Identify red flag symptoms that necessitate urgent referral during diet trials.",
+    "Learn the importance of avoiding repeated dietary restrictions without new hypotheses.",
+    "Recognize when to escalate to elemental formulas or specialist-directed care."
+  ],
+  "key_facts": [
+    "Diet ladder stages (Diet A, B, C) should each last approximately 7 days with daily monitoring of intake, stool frequency, hydration, and weight.",
+    "Urgent referral is required within 48\u201372 hours if red flags such as persistent blood in stool, recurrent dehydration, or severe anemia are observed.",
+    "Failure of all three diet ladder stages warrants consideration of elemental formula or total parenteral nutrition (TPN).",
+    "Reassess within 48\u201372 hours if weight is falling or dehydration is recent; otherwise, reassess within 7 days for stage transitions.",
+    "India-specific pitfall: Delaying referral while repeatedly restricting diets in inflammatory diarrhea can worsen outcomes."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Persistent Diarrhea",
+    "Diet Therapy",
+    "Malabsorption Syndromes",
+    "Pediatric Nutrition",
+    "Referral and Consultation",
+    "Inflammatory Bowel Diseases",
+    "Total Parenteral Nutrition",
+    "Extrapulmonary Tuberculosis"
+  ],
+  "tags_custom": [
+    "diet ladder protocol",
+    "pediatric GI disorders",
+    "referral triggers",
+    "elemental formula",
+    "nutrition rehabilitation"
+  ],
+  "reference_quote": "Use the IAP ladder as the timeline anchor: prescribe Diet A for about 7 days, then Diet B for about 7 days, then Diet C for about 7 days with documented daily intake, stool frequency, hydration, and weight change. (Source: IAP Standard Treatment Guidelines, Chapter 030)",
+  "document_key_topics": [
+    "Time-bound diet ladder protocols for persistent diarrhea",
+    "Red flag symptoms and referral escalation triggers",
+    "Avoiding harm from progressive dietary restrictions",
+    "Specialist-directed care for intestinal failure"
+  ],
+  "chunk_heading": "NUTRITION IN GI DISORDERS & MALABSORPTION;NUTRITION REHABILITATION AND PERSISTENT DIARRHEA PROTOCOLS;TIME-BOUND DIET LADDER STOP RULES AND REFERRAL ESCALATION TRIGGERS;",
+  "topic": "NUTRITION IN GI DISORDERS & MALABSORPTION",
+  "subtopic": "NUTRITION REHABILITATION AND PERSISTENT DIARRHEA PROTOCOLS",
+  "sub_subtopic": "TIME-BOUND DIET LADDER STOP RULES AND REFERRAL ESCALATION TRIGGERS",
+  "heading_path": "NUTRITION IN GI DISORDERS & MALABSORPTION;NUTRITION REHABILITATION AND PERSISTENT DIARRHEA PROTOCOLS;TIME-BOUND DIET LADDER STOP RULES AND REFERRAL ESCALATION TRIGGERS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2p3"
+}

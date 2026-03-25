@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section addresses the triage and initial management of hypertriglyceridemia-associated pancreatitis in children, emphasizing fluid resuscitation, early nutrition, and addressing underlying metabolic drivers to reduce pancreatitis risk.",
+  "learning_objectives": [
+    "Recognize clinical signs of hypertriglyceridemia-associated pancreatitis in children and initiate appropriate diagnostic tests.",
+    "Implement hospital-level care, including fluid resuscitation, analgesia, and early enteral feeding, for pediatric pancreatitis management.",
+    "Identify and address underlying metabolic drivers such as diabetes or hypothyroidism to prevent recurrence.",
+    "Understand the role of fibrate therapy in managing persistent hypertriglyceridemia in children."
+  ],
+  "key_facts": [
+    "Hypertriglyceridemia-associated pancreatitis should be suspected in children with elevated triglycerides, abdominal pain, or persistent vomiting.",
+    "Initial fluid resuscitation involves isotonic crystalloid with a 10\u201320 mL/kg bolus, followed by maintenance fluids at 1.5\u20132 times normal rates.",
+    "Early enteral or oral feeding within 48\u201372 hours is preferred for mild acute pancreatitis when tolerated.",
+    "Fibrate therapy may be considered for fasting triglycerides >400\u2013500 mg/dL, targeting levels <400 mg/dL to reduce pancreatitis risk.",
+    "Avoid routine statin-fibrate combinations in children due to the risk of myopathy.",
+    "Dietary triggers, such as free-sugar beverages and refined snacks, are common contributors to hypertriglyceridemia."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Hypertriglyceridemia",
+    "Pancreatitis",
+    "Pediatrics",
+    "Fluid Resuscitation",
+    "Enteral Nutrition",
+    "Fibrate Therapy",
+    "Diabetes Mellitus",
+    "Metabolic Syndrome"
+  ],
+  "tags_custom": [
+    "Pediatric pancreatitis",
+    "Triglyceride management",
+    "Acute care guidelines",
+    "Metabolic risk factors"
+  ],
+  "reference_quote": "Treat symptoms and physiology first rather than focusing only on lipid numbers. In hospital-level care, initial priorities are fluid resuscitation, monitoring, and early nutrition.",
+  "document_key_topics": [
+    "Hypertriglyceridemia-associated pancreatitis in children",
+    "Hospital-level management of pediatric pancreatitis",
+    "Role of metabolic drivers in pancreatitis risk",
+    "Fibrate therapy and triglyceride reduction strategies"
+  ],
+  "chunk_heading": "METABOLIC RISK IN CHILDREN;PEDIATRIC DYSLIPIDEMIA MANAGEMENT FOR METABOLIC RISK;HYPERTRIGLYCERIDEMIA PANCREATITIS TRIAGE AND INITIAL MANAGEMENT;",
+  "topic": "METABOLIC RISK IN CHILDREN",
+  "subtopic": "PEDIATRIC DYSLIPIDEMIA MANAGEMENT FOR METABOLIC RISK",
+  "sub_subtopic": "HYPERTRIGLYCERIDEMIA PANCREATITIS TRIAGE AND INITIAL MANAGEMENT",
+  "heading_path": "METABOLIC RISK IN CHILDREN;PEDIATRIC DYSLIPIDEMIA MANAGEMENT FOR METABOLIC RISK;HYPERTRIGLYCERIDEMIA PANCREATITIS TRIAGE AND INITIAL MANAGEMENT;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u008e4"
+}

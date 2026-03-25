@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "This section discusses structured diet history, growth references, and limitations of biochemical markers in managing nutrition for chronic kidney and liver disease, emphasizing practical dietary strategies and the interpretation of biochemical data.",
+  "learning_objectives": [
+    "Understand the importance of a reproducible diet history in assessing nutrition for CKD and CLD patients.",
+    "Identify key dietary sources of sodium, phosphate, and potassium and their impact on disease management.",
+    "Learn the limitations of biochemical markers like albumin and prealbumin in diagnosing malnutrition.",
+    "Apply India-specific nutrient databases and label reading to tailor dietary advice."
+  ],
+  "key_facts": [
+    "A 24-hour recall or 3-day diary is recommended to document meal patterns and identify dietary sources of sodium, phosphate, and potassium.",
+    "Salt substitutes containing potassium chloride can trigger hyperkalemia in CKD patients.",
+    "In CLD, albumin and prealbumin levels are unreliable markers of malnutrition due to inflammation and reduced synthesis.",
+    "Vitamin E status in cholestasis should be interpreted using lipid-adjusted ratios.",
+    "India-specific nutrient databases, such as the ICMR NIN Indian Food Composition Tables, are essential for translating dietary advice into local contexts."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Chronic Kidney Disease",
+    "Chronic Liver Disease",
+    "Dietary Assessment",
+    "Biochemical Markers",
+    "Sodium Intake",
+    "Potassium Metabolism",
+    "Malnutrition",
+    "Nutrition Monitoring"
+  ],
+  "tags_custom": [
+    "Diet history",
+    "Indian food composition",
+    "Biochemical limitations",
+    "CKD nutrition",
+    "CLD nutrition"
+  ],
+  "reference_quote": "A reproducible diet history is more valuable than long food lists. Start with a 'typical day' 24-hour recall to capture missed meals and the main drivers of sodium, phosphate, and potassium exposure.",
+  "document_key_topics": [
+    "Structured diet history for CKD and CLD",
+    "Limitations of biochemical markers in malnutrition diagnosis",
+    "India-specific dietary adaptations"
+  ],
+  "chunk_heading": "NUTRITION IN CHRONIC KIDNEY & LIVER DISEASE;NUTRITION ASSESSMENT AND TREND-BASED MONITORING;STRUCTURED DIET HISTORY GROWTH REFERENCES AND LIMITATIONS OF BIOCHEMICAL MARKERS;",
+  "topic": "NUTRITION IN CHRONIC KIDNEY & LIVER DISEASE",
+  "subtopic": "NUTRITION ASSESSMENT AND TREND-BASED MONITORING",
+  "sub_subtopic": "STRUCTURED DIET HISTORY GROWTH REFERENCES AND LIMITATIONS OF BIOCHEMICAL MARKERS",
+  "heading_path": "NUTRITION IN CHRONIC KIDNEY & LIVER DISEASE;NUTRITION ASSESSMENT AND TREND-BASED MONITORING;STRUCTURED DIET HISTORY GROWTH REFERENCES AND LIMITATIONS OF BIOCHEMICAL MARKERS;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "1f2"
+}

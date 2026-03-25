@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "Supervised oral food challenges (OFCs) confirm food allergies, delabel unnecessary avoidance, and assess tolerance, especially in cases of discordant history or tests, multiple eliminations, or chronic conditions like eczema or EoE.",
+  "learning_objectives": [
+    "Understand the indications for supervised oral food challenges in food allergy management.",
+    "Learn how to assess risk\u2013benefit decisions for OFCs in clinical practice.",
+    "Identify scenarios where OFCs should be deferred or conducted in hospital settings.",
+    "Recognize the role of OFCs in expanding diets and addressing chronic conditions."
+  ],
+  "key_facts": [
+    "Supervised OFCs are essential for confirming food allergies and delabeling unnecessary avoidance.",
+    "High-yield indications include discordant history/tests, suspected tolerance, and poor growth due to multiple eliminations.",
+    "OFCs can clarify triggers for chronic conditions like eczema or eosinophilic esophagitis (EoE).",
+    "Deferral criteria include fever, infection, asthma flare, uncontrolled eczema, or recent severe anaphylaxis.",
+    "Hospital-level readiness is recommended for OFCs after severe anaphylaxis or when comorbidities are not optimized.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Food Hypersensitivity",
+    "Oral Food Challenge",
+    "Eczema",
+    "Eosinophilic Esophagitis",
+    "Skin Prick Test",
+    "Immunoglobulin E",
+    "Anaphylaxis",
+    "Diet Therapy"
+  ],
+  "tags_custom": [
+    "supervised OFC",
+    "food allergy management",
+    "diet expansion",
+    "risk-benefit analysis",
+    "chronic condition triggers"
+  ],
+  "reference_quote": "Teach trainees to frame OFC as a risk\u2013benefit decision: the benefit is adding a nutritionally important food back to the diet and reducing future anxiety; the risk is a provoked reaction that must be managed in a prepared setting. (AAAAI Practice Parameter, 2020)",
+  "document_key_topics": [
+    "Supervised oral food challenge indications",
+    "Risk\u2013benefit analysis in food allergy management",
+    "Deferral criteria for oral food challenges",
+    "Role of OFCs in chronic conditions and diet expansion"
+  ],
+  "chunk_heading": "FOOD ALLERGY & THERAPEUTIC ELIMINATION DIETS;ORAL FOOD CHALLENGE AND HOME INTRODUCTION PROTOCOLS;SUPERVISED ORAL FOOD CHALLENGE INDICATIONS;",
+  "topic": "FOOD ALLERGY & THERAPEUTIC ELIMINATION DIETS",
+  "subtopic": "ORAL FOOD CHALLENGE AND HOME INTRODUCTION PROTOCOLS",
+  "sub_subtopic": "SUPERVISED ORAL FOOD CHALLENGE INDICATIONS",
+  "heading_path": "FOOD ALLERGY & THERAPEUTIC ELIMINATION DIETS;ORAL FOOD CHALLENGE AND HOME INTRODUCTION PROTOCOLS;SUPERVISED ORAL FOOD CHALLENGE INDICATIONS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1u1"
+}

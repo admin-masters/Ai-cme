@@ -1,0 +1,51 @@
+{
+  "chunk_summary": "This section discusses managing electrolyte derangements and ensuring calcium-phosphate safety during enteral and parenteral nutrition, with a focus on monitoring thresholds, refeeding physiology, and preventing complications like metabolic acidosis and line occlusion.",
+  "learning_objectives": [
+    "Understand the physiological basis of electrolyte shifts during parenteral nutrition and their clinical implications.",
+    "Learn strategies to manage phosphate and magnesium deficits, particularly in malnourished or refeeding patients.",
+    "Recognize the importance of calcium-phosphate stability in PN admixtures and safe compounding practices.",
+    "Identify and mitigate risks of hyperchloremic metabolic acidosis in vulnerable populations like very low birth weight infants."
+  ],
+  "key_facts": [
+    "Electrolyte disturbances during PN are often iatrogenic, driven by excessive carbohydrate delivery and refeeding physiology.",
+    "Early monitoring should prioritize phosphate, magnesium, sodium, and potassium, especially in malnourished children or those resuming nutrition after prolonged fasting.",
+    "Rapid anabolism without adequate replacement can lead to weakness, ileus, arrhythmias, and respiratory failure.",
+    "In very low birth weight infants, excessive chloride delivery can cause hyperchloremic metabolic acidosis; acetate-based sodium/potassium salts are recommended per protocol.",
+    "Calcium-phosphate precipitation can occlude lines and embolize; use pharmacy compatibility charts and follow correct mixing protocols.",
+    "Organic phosphate preparations are preferred for stability, and medications should not be injected into PN lines unless compatibility is confirmed.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Parenteral Nutrition",
+    "Electrolyte Imbalance",
+    "Calcium-Phosphate Metabolism",
+    "Refeeding Syndrome",
+    "Hyperchloremic Acidosis",
+    "Magnesium Deficiency",
+    "Phosphate Deficiency",
+    "Infant, Very Low Birth Weight"
+  ],
+  "tags_custom": [
+    "PN safety",
+    "electrolyte management",
+    "calcium-phosphate stability",
+    "refeeding physiology",
+    "metabolic complications"
+  ],
+  "reference_quote": "Early monitoring should therefore focus on phosphate and magnesium in addition to sodium and potassium, particularly in malnourished children and in those starting nutrition after prolonged negligible intake.",
+  "document_key_topics": [
+    "Electrolyte derangements during parenteral nutrition",
+    "Calcium-phosphate safety in PN admixtures",
+    "Refeeding physiology and its clinical management",
+    "Prevention of metabolic acidosis in vulnerable populations"
+  ],
+  "chunk_heading": "ENTERAL & PARENTERAL NUTRITION;MONITORING THRESHOLDS AND COMPLICATION RESPONSE PATHWAYS;ELECTROLYTE DERANGEMENT   MANAGEMENT AND CALCIUM PHOSPHATE SAFETY;",
+  "topic": "ENTERAL & PARENTERAL NUTRITION",
+  "subtopic": "MONITORING THRESHOLDS AND COMPLICATION RESPONSE PATHWAYS",
+  "sub_subtopic": "ELECTROLYTE DERANGEMENT   MANAGEMENT AND CALCIUM PHOSPHATE SAFETY",
+  "heading_path": "ENTERAL & PARENTERAL NUTRITION;MONITORING THRESHOLDS AND COMPLICATION RESPONSE PATHWAYS;ELECTROLYTE DERANGEMENT   MANAGEMENT AND CALCIUM PHOSPHATE SAFETY;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "2\u008e2"
+}

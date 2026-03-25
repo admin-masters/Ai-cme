@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "This checklist ensures safe handling of expressed and donor milk by assessing staff competency in labeling, storage, preparation, and administration, with periodic rechecks and retraining to prevent errors and improve quality.",
+  "learning_objectives": [
+    "Understand the importance of correct labeling and storage of expressed breast milk (EBM).",
+    "Demonstrate competency in preparation, fortification, and administration of EBM, including tube feeding.",
+    "Recognize and apply stop rules for expired or improperly handled milk.",
+    "Implement audit feedback into standard operating procedures (SOPs) and quality improvement plans."
+  ],
+  "key_facts": [
+    "Competency should be assessed at induction and rechecked periodically for all staff handling EBM.",
+    "Labeling must include infant and mother identifiers, date/time, and 'use by' information.",
+    "Tube feeding hang time is commonly limited to 4 hours, with scheduled syringe/tubing changes.",
+    "Preparation requires a two-person identity check and labeling fortified bottles with preparation time and strength.",
+    "Improper handling (e.g., incorrect labeling, unsafe preparation) mandates immediate retraining."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Breast Milk Expression",
+    "Milk Banks",
+    "Lactation Management",
+    "Neonatal Intensive Care Units",
+    "Food Handling",
+    "Quality Assurance, Health Care",
+    "Patient Safety",
+    "Health Personnel Competency"
+  ],
+  "tags_custom": [
+    "expressed milk handling",
+    "NICU milk safety",
+    "competency checklist",
+    "milk storage guidelines"
+  ],
+  "reference_quote": "Mismanagement of expressed breast milk can lead to preventable harm, emphasizing the need for strict labeling, storage, and handling protocols. (Source: https://patientsafety.pa.gov/ADVISORIES/Pages/200706_46.aspx)",
+  "document_key_topics": [
+    "Milk handling competency assessment",
+    "Labeling and storage guidelines for expressed milk",
+    "Preparation and administration of fortified milk",
+    "Quality improvement through audits and retraining"
+  ],
+  "chunk_heading": "EXPRESSED MILK, DONOR MILK & MILK BANKING;MINIMUM COMPETENCY CHECKLIST FOR MILK HANDLING;",
+  "topic": "EXPRESSED MILK, DONOR MILK & MILK BANKING",
+  "subtopic": "MINIMUM COMPETENCY CHECKLIST FOR MILK HANDLING",
+  "sub_subtopic": null,
+  "heading_path": "EXPRESSED MILK, DONOR MILK & MILK BANKING;MINIMUM COMPETENCY CHECKLIST FOR MILK HANDLING;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2p"
+}

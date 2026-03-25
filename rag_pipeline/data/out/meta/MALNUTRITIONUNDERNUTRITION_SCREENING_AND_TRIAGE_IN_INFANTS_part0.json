@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "Guidance for screening and triage in infants under six months focuses on identifying 'at risk' infants early, assessing the mother\u2013infant dyad, and using stepwise criteria for feeding diagnosis and intervention decisions.",
+  "learning_objectives": [
+    "Understand the updated global guidance for identifying infants under six months as 'at risk' of poor growth and development.",
+    "Learn the stepwise approach for screening and triage, including emergency triage, risk assessment, and feeding diagnosis.",
+    "Recognize criteria for inpatient versus outpatient care and follow-up protocols for at-risk infants."
+  ],
+  "key_facts": [
+    "Infants under six months are screened for 'at risk' status using criteria such as WAZ < -2 SD, WLZ < -2 SD, MUAC < 110 mm, recent weight loss, or failure to gain weight across two measurements.",
+    "Assessment focuses on the mother\u2013infant dyad, including feeding effectiveness and maternal factors.",
+    "Emergency triage prioritizes IMNCI danger signs or severe illness signs before feeding counseling.",
+    "Feeding diagnosis includes milk transfer assessment, feeding frequency, and illness evaluation (e.g., oral thrush, respiratory disease).",
+    "Inpatient care is recommended for danger signs, severe illness, nutritional oedema, or ongoing weight loss; outpatient care involves intensive breastfeeding support and close follow-up."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Malnutrition",
+    "Undernutrition",
+    "Infant Nutrition Disorders",
+    "Growth Disorders",
+    "Breastfeeding",
+    "Maternal Health",
+    "Nutritional Assessment",
+    "Pediatric Screening"
+  ],
+  "tags_custom": [
+    "infant triage",
+    "feeding assessment",
+    "growth monitoring",
+    "maternal-infant dyad",
+    "early intervention"
+  ],
+  "reference_quote": "Assessment should focus on the mother\u2013infant dyad because feeding effectiveness and maternal factors often drive the phenotype. (Source: WHO, https://www.who.int/publications/i/item/9789240082830)",
+  "document_key_topics": [
+    "Screening criteria for infants under six months",
+    "Mother\u2013infant dyad assessment",
+    "Feeding diagnosis and intervention",
+    "Inpatient versus outpatient care decisions"
+  ],
+  "chunk_heading": "MALNUTRITION\u2014UNDERNUTRITION: SCREENING & CLASSIFICATION;SCREENING AND TRIAGE IN INFANTS UNDER SIX MONTHS;",
+  "topic": "MALNUTRITION\u2014UNDERNUTRITION: SCREENING & CLASSIFICATION",
+  "subtopic": "SCREENING AND TRIAGE IN INFANTS UNDER SIX MONTHS",
+  "sub_subtopic": null,
+  "heading_path": "MALNUTRITION\u2014UNDERNUTRITION: SCREENING & CLASSIFICATION;SCREENING AND TRIAGE IN INFANTS UNDER SIX MONTHS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2w.1"
+}

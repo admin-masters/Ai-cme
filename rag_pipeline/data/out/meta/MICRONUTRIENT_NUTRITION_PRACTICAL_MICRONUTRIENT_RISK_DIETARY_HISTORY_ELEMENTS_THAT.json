@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "This section outlines dietary history elements that influence micronutrient deficiency risk, focusing on age-specific dietary patterns, risk factors, and practical counseling strategies for iron, B12, and other deficiencies.",
+  "learning_objectives": [
+    "Understand how prolonged exclusive breastfeeding and delayed complementary feeding impact iron and B12 status in infants.",
+    "Identify dietary patterns in toddlers and adolescents that increase the risk of micronutrient deficiencies, particularly iron and zinc.",
+    "Learn practical counseling strategies for addressing high-risk dietary behaviors and environmental factors like pica, deworming, and sanitation.",
+    "Recognize the role of menstrual history and dietary restrictions in adolescent anemia risk."
+  ],
+  "key_facts": [
+    "Prolonged exclusive breastfeeding beyond 6 months increases the risk of iron deficiency and maternal B12 deficiency effects, especially in vegetarian households.",
+    "Toddlers consuming >800 mL/day of milk are at high risk for iron deficiency due to displacement of iron-rich foods.",
+    "Practical milk intake target: 400\u2013600 mL/day for children aged 1\u20135 years.",
+    "High-phytate staples (e.g., unrefined cereals, some millets) reduce iron and zinc absorption in older children and adolescents.",
+    "Environmental factors like pica, geophagia, and helminth infections modify anemia response and should be screened.",
+    "Iodized salt use, vitamin A dosing history, and sunlight exposure are critical exposure variables for counseling."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Micronutrients",
+    "Iron Deficiency Anemia",
+    "Vitamin B12 Deficiency",
+    "Dietary Habits",
+    "Child Nutrition",
+    "Adolescent Nutrition",
+    "Helminthiasis",
+    "Phytates"
+  ],
+  "tags_custom": [
+    "dietary risk factors",
+    "pediatric anemia",
+    "micronutrient counseling",
+    "iron deficiency",
+    "adolescent health"
+  ],
+  "reference_quote": "Prolonged exclusive breastfeeding increases risk of iron deficiency and can also unmask maternal dietary B12 deficiency effects, especially in predominantly vegetarian households. (Source: Indian Pediatrics, Nutritional anemia in children: consensus recommendations)",
+  "document_key_topics": [
+    "Dietary risk factors for micronutrient deficiencies",
+    "Age-specific counseling for iron and B12 deficiency",
+    "Environmental and behavioral factors affecting anemia",
+    "Practical dietary guidelines for children and adolescents"
+  ],
+  "chunk_heading": "MICRONUTRIENT NUTRITION;PRACTICAL MICRONUTRIENT RISK ASSESSMENT IN CLINIC;DIETARY HISTORY ELEMENTS THAT CHANGE PRETEST PROBABILITY;",
+  "topic": "MICRONUTRIENT NUTRITION",
+  "subtopic": "PRACTICAL MICRONUTRIENT RISK ASSESSMENT IN CLINIC",
+  "sub_subtopic": "DIETARY HISTORY ELEMENTS THAT CHANGE PRETEST PROBABILITY",
+  "heading_path": "MICRONUTRIENT NUTRITION;PRACTICAL MICRONUTRIENT RISK ASSESSMENT IN CLINIC;DIETARY HISTORY ELEMENTS THAT CHANGE PRETEST PROBABILITY;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "1f4"
+}

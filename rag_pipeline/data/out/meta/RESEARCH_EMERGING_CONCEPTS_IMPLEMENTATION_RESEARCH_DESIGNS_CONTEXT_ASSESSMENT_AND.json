@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section explores context assessment and strategy selection in implementation research for nutrition practice, emphasizing frameworks like CFIR and RE-AIM to identify barriers and facilitators, and the ERIC taxonomy for actionable strategies tailored to clinical settings.",
+  "learning_objectives": [
+    "Understand the role of implementation research in translating nutrition interventions into practice.",
+    "Learn to assess context using frameworks like CFIR and RE-AIM for measurable outcomes.",
+    "Identify and select appropriate implementation strategies from the ERIC taxonomy.",
+    "Apply practical strategies to reduce clinician cognitive load in high-pressure settings."
+  ],
+  "key_facts": [
+    "CFIR assesses context across five domains: intervention characteristics, inner setting, outer setting, individual characteristics, and process.",
+    "RE-AIM evaluates interventions across five dimensions: reach, effectiveness, adoption, implementation, and maintenance.",
+    "ERIC taxonomy includes strategies like workflow redesign, task shifting, and patient-facing materials.",
+    "Example implementation target: Deliver a 60-second sugar-sweetened beverage reduction script to adolescents with overweight.",
+    "In high-volume clinics, strategies like integrating prompts into case sheets or pre-printing handouts in local languages can reduce cognitive load."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Implementation Science",
+    "Nutrition Therapy",
+    "Contextual Factors",
+    "Health Promotion",
+    "Quality Improvement",
+    "Pediatric Obesity",
+    "Clinical Decision Support",
+    "Behavioral Interventions"
+  ],
+  "tags_custom": [
+    "nutrition implementation",
+    "context assessment",
+    "workflow optimization",
+    "pediatric interventions",
+    "real-world strategies"
+  ],
+  "reference_quote": "CFIR structures assessment across intervention characteristics, inner setting, outer setting, individual characteristics, and process, helping you identify barriers and facilitators that are actually modifiable. \u2014 CFIR Guide",
+  "document_key_topics": [
+    "Implementation research frameworks (CFIR, RE-AIM)",
+    "Context assessment in nutrition practice",
+    "ERIC taxonomy for strategy selection",
+    "Practical strategies for high-pressure clinical settings"
+  ],
+  "chunk_heading": "RESEARCH & EMERGING CONCEPTS;IMPLEMENTATION RESEARCH DESIGNS FOR NUTRITION PRACTICE;CONTEXT ASSESSMENT AND IMPLEMENTATION STRATEGY SELECTION;",
+  "topic": "RESEARCH & EMERGING CONCEPTS",
+  "subtopic": "IMPLEMENTATION RESEARCH DESIGNS FOR NUTRITION PRACTICE",
+  "sub_subtopic": "CONTEXT ASSESSMENT AND IMPLEMENTATION STRATEGY SELECTION",
+  "heading_path": "RESEARCH & EMERGING CONCEPTS;IMPLEMENTATION RESEARCH DESIGNS FOR NUTRITION PRACTICE;CONTEXT ASSESSMENT AND IMPLEMENTATION STRATEGY SELECTION;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1\u008d1"
+}

@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "This section outlines the triage and first-line management of heavy menstrual bleeding (HMB) in adolescents, emphasizing the prevention of iron deficiency anemia and the identification of bleeding disorders through history, examination, and targeted investigations.",
+  "learning_objectives": [
+    "Understand the triage process for adolescents with heavy menstrual bleeding, including assessment of hemodynamic stability.",
+    "Identify key historical and clinical signs of bleeding disorders in adolescents with HMB.",
+    "Learn first-line medical management options for HMB, including tranexamic acid and NSAIDs.",
+    "Recognize the importance of treating iron deficiency anemia and when to refer to specialists."
+  ],
+  "key_facts": [
+    "HMB in adolescents can lead to severe iron deficiency anemia and may indicate underlying bleeding disorders.",
+    "Triage includes assessing hemodynamic stability using pulse, blood pressure, and orthostatic vitals.",
+    "Minimum investigations include CBC with indices, ferritin, pregnancy testing (if indicated), and targeted coagulation studies.",
+    "Tranexamic acid is dosed at 15\u201325 mg/kg (max 1 g) 2\u20133 times daily on heavy days.",
+    "NSAIDs can be used during menses unless contraindicated, and iron deficiency should be treated to restore hemoglobin and replenish stores.",
+    "Pelvic examination is not mandatory for all adolescents and should be individualized based on symptoms and safeguarding context."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Adolescent",
+    "Menorrhagia",
+    "Iron-Deficiency Anemia",
+    "Tranexamic Acid",
+    "Nonsteroidal Anti-Inflammatory Agents",
+    "Bleeding Disorders",
+    "Thyroid Function Tests",
+    "Hemodynamic Stability"
+  ],
+  "tags_custom": [
+    "adolescent health",
+    "menstrual management",
+    "nutritional risks",
+    "first-line treatment",
+    "gynecology"
+  ],
+  "reference_quote": "Heavy menstrual bleeding: Assessment and management (NICE NG88) \u2014 Control bleeding and correct anemia in parallel.",
+  "document_key_topics": [
+    "Triage for heavy menstrual bleeding in adolescents",
+    "Assessment of bleeding disorders and anemia",
+    "First-line medical management of HMB",
+    "Role of investigations and specialist referral"
+  ],
+  "chunk_heading": "ADOLESCENT NUTRITION;MENSTRUAL HEALTH AND MENARCHE-RELATED NUTRITIONAL RISKS;TRIAGE AND FIRST-LINE MANAGEMENT OF HEAVY MENSTRUAL BLEEDING;",
+  "topic": "ADOLESCENT NUTRITION",
+  "subtopic": "MENSTRUAL HEALTH AND MENARCHE-RELATED NUTRITIONAL RISKS",
+  "sub_subtopic": "TRIAGE AND FIRST-LINE MANAGEMENT OF HEAVY MENSTRUAL BLEEDING",
+  "heading_path": "ADOLESCENT NUTRITION;MENSTRUAL HEALTH AND MENARCHE-RELATED NUTRITIONAL RISKS;TRIAGE AND FIRST-LINE MANAGEMENT OF HEAVY MENSTRUAL BLEEDING;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1o3"
+}

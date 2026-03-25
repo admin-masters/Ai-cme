@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Adolescent anemia evaluation focuses on iron deficiency risks, targeted screening, therapeutic dosing, adherence strategies, and program linkage for prevention and treatment.",
+  "learning_objectives": [
+    "Understand the risk factors for iron deficiency anemia in adolescents, including dietary and physiological contributors.",
+    "Learn how to conduct targeted screening for anemia symptoms and underlying causes such as heavy menstrual bleeding and chronic inflammation.",
+    "Develop strategies to improve adherence to iron supplementation regimens and address common barriers.",
+    "Recognize the importance of transitioning from therapeutic dosing to preventive IFA regimens after anemia correction."
+  ],
+  "key_facts": [
+    "Adolescents are at high risk for iron deficiency due to growth spurts, dietary restrictions, and menstruation-related blood loss.",
+    "Weekly Iron and Folic Acid Supplementation (WIFS) programs are implemented through schools or community platforms but adherence varies.",
+    "Screening should include CBC morphology, dietary behaviors, and symptoms of heavy menstrual bleeding (e.g., changing pads every 1\u20132 hours).",
+    "Therapeutic iron dosing should be linked to daily routines and adjusted for tolerability (e.g., nausea on an empty stomach).",
+    "Incomplete hemoglobin response may indicate hemoglobinopathy, chronic disease, or combined micronutrient deficiencies."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Iron Deficiency Anemia",
+    "Adolescent Health",
+    "Dietary Supplements",
+    "Menstrual Disorders",
+    "Micronutrients",
+    "Hemoglobinopathies",
+    "Chronic Disease",
+    "Inflammation"
+  ],
+  "tags_custom": [
+    "adolescent anemia",
+    "iron supplementation",
+    "program adherence",
+    "therapeutic dosing",
+    "preventive strategies"
+  ],
+  "reference_quote": "Programmatic weekly IFA supplementation through school or community platforms may already be occurring, but adherence is variable and regimens differ by implementation site. (Source: National Health Mission, WIFS operational guidelines)",
+  "document_key_topics": [
+    "Iron deficiency anemia in adolescents",
+    "Screening and diagnostic strategies for anemia",
+    "Therapeutic and preventive iron supplementation",
+    "Programmatic linkage for anemia management"
+  ],
+  "chunk_heading": "MICRONUTRIENT NUTRITION;IRON DEFICIENCY ANEMIA DIAGNOSTIC AND THERAPEUTIC DECISIONS;ADOLESCENT ANEMIA EVALUATION WITH PROGRAM LINKAGE;",
+  "topic": "MICRONUTRIENT NUTRITION",
+  "subtopic": "IRON DEFICIENCY ANEMIA DIAGNOSTIC AND THERAPEUTIC DECISIONS",
+  "sub_subtopic": "ADOLESCENT ANEMIA EVALUATION WITH PROGRAM LINKAGE",
+  "heading_path": "MICRONUTRIENT NUTRITION;IRON DEFICIENCY ANEMIA DIAGNOSTIC AND THERAPEUTIC DECISIONS;ADOLESCENT ANEMIA EVALUATION WITH PROGRAM LINKAGE;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1x9"
+}

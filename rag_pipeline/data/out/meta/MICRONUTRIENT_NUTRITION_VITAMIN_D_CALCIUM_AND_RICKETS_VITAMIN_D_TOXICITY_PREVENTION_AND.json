@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "Guidelines for preventing and managing vitamin D toxicity, including dosing clarity, monitoring, and treatment of hypercalcemia, with a focus on pediatric care in India.",
+  "learning_objectives": [
+    "Understand the clinical features and diagnostic criteria for vitamin D toxicity.",
+    "Learn strategies to prevent vitamin D toxicity, including proper dosing and caregiver education.",
+    "Identify appropriate management steps for suspected or confirmed vitamin D toxicity.",
+    "Recognize the importance of follow-up and reassessment in children receiving therapeutic vitamin D."
+  ],
+  "key_facts": [
+    "Vitamin D toxicity is defined by 25(OH)D levels >100 ng/mL, often with hypercalcemia and/or hypercalciuria.",
+    "High-strength preparations (e.g., 60,000 IU sachets) increase the risk of dosing errors in India.",
+    "Clinical features include nausea, vomiting, constipation, lethargy, polyuria, and nephrocalcinosis in severe cases.",
+    "Avoid 'stoss' therapy in young infants unless under specialist supervision due to risk of prolonged hypercalcemia.",
+    "Management includes stopping vitamin D and calcium, assessing hydration, and treating hypercalcemia with hydration, diuretics, or glucocorticoids if severe.",
+    "Children on therapeutic vitamin D should have planned reassessment to review symptoms and adjust dosing."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Vitamin D",
+    "Hypercalcemia",
+    "Hypercalciuria",
+    "Nephrocalcinosis",
+    "Pediatrics",
+    "Micronutrients",
+    "Dietary Supplements",
+    "Toxicity"
+  ],
+  "tags_custom": [
+    "Vitamin D toxicity",
+    "Pediatric nutrition",
+    "Clinical management",
+    "Dosing errors",
+    "Hypercalcemia treatment"
+  ],
+  "reference_quote": "Toxicity is defined by very high 25(OH)D levels (often >100 ng/mL) with hypercalcemia and/or hypercalciuria.",
+  "document_key_topics": [
+    "Vitamin D toxicity prevention",
+    "Management of hypercalcemia",
+    "Pediatric dosing guidelines",
+    "Follow-up for therapeutic vitamin D use"
+  ],
+  "chunk_heading": "MICRONUTRIENT NUTRITION;VITAMIN D, CALCIUM, AND RICKETS CLINICAL DECISION PATHWAYS;VITAMIN D TOXICITY PREVENTION AND MANAGEMENT;",
+  "topic": "MICRONUTRIENT NUTRITION",
+  "subtopic": "VITAMIN D, CALCIUM, AND RICKETS CLINICAL DECISION PATHWAYS",
+  "sub_subtopic": "VITAMIN D TOXICITY PREVENTION AND MANAGEMENT",
+  "heading_path": "MICRONUTRIENT NUTRITION;VITAMIN D, CALCIUM, AND RICKETS CLINICAL DECISION PATHWAYS;VITAMIN D TOXICITY PREVENTION AND MANAGEMENT;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1\u00896"
+}

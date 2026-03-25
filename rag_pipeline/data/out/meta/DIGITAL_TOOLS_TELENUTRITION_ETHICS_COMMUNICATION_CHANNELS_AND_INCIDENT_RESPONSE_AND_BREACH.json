@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section outlines incident response and breach notification workflows for child health data in Indian tele-nutrition, emphasizing containment, notification duties, and return-to-care steps to ensure ethical and equitable practices.",
+  "learning_objectives": [
+    "Understand the importance of incident response workflows in tele-nutrition services for child health data.",
+    "Learn the first-hour containment actions for cyber incidents, including device isolation and evidence preservation.",
+    "Explore notification requirements under CERT-In and DPDP for data breaches and patient communication strategies.",
+    "Develop a breach playbook with defined roles and proactive return-to-care measures."
+  ],
+  "key_facts": [
+    "CERT-In mandates reporting certain cyber incidents within hours of detection.",
+    "Under DPDP, personal data breaches require notification to the Data Protection Board of India and affected individuals.",
+    "First-hour actions include disabling accounts, revoking sessions, changing passwords, and preserving logs for audits.",
+    "Clinics must contractually require vendor cooperation for breach reporting and support.",
+    "Return-to-care steps include recreating registries from backups and prioritizing high-risk children for follow-up.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Telemedicine",
+    "Nutrition Therapy",
+    "Child Health",
+    "Data Breach",
+    "Incident Response",
+    "Cybersecurity",
+    "Health Equity",
+    "Ethics"
+  ],
+  "tags_custom": [
+    "Tele-nutrition",
+    "Data protection",
+    "Breach notification",
+    "Child data security",
+    "Indian healthcare"
+  ],
+  "reference_quote": "Under DPDP, personal data breaches require notification to the Data Protection Board of India and affected individuals when applicable; plan patient-facing messages that are factual, non-alarming, and include practical steps.",
+  "document_key_topics": [
+    "Incident response workflows for tele-nutrition services",
+    "Breach notification requirements under CERT-In and DPDP",
+    "Ethical and equitable practices in child health data management"
+  ],
+  "chunk_heading": "DIGITAL TOOLS & TELE-NUTRITION;ETHICS, COMMUNICATION CHANNELS, AND EQUITY IN INDIAN TELE-NUTRITION;INCIDENT RESPONSE AND BREACH NOTIFICATION WORKFLOW FOR CHILD HEALTH DATA;",
+  "topic": "DIGITAL TOOLS & TELE-NUTRITION",
+  "subtopic": "ETHICS, COMMUNICATION CHANNELS, AND EQUITY IN INDIAN TELE-NUTRITION",
+  "sub_subtopic": "INCIDENT RESPONSE AND BREACH NOTIFICATION WORKFLOW FOR CHILD HEALTH DATA",
+  "heading_path": "DIGITAL TOOLS & TELE-NUTRITION;ETHICS, COMMUNICATION CHANNELS, AND EQUITY IN INDIAN TELE-NUTRITION;INCIDENT RESPONSE AND BREACH NOTIFICATION WORKFLOW FOR CHILD HEALTH DATA;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u009e5"
+}

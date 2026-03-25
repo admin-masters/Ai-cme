@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section outlines a stepwise algorithm for managing feeding challenges in neurodisability, integrating triage, action, and follow-up, with conservative failure criteria and escalation strategies for nutrition and hydration support.",
+  "learning_objectives": [
+    "Understand the stepwise approach to managing feeding difficulties in neurodisability using an integrated algorithm.",
+    "Identify conservative failure criteria for feeding plans and their clinical implications.",
+    "Learn when to escalate to non-oral hydration or nutrition, including short-term NG/NJ trials and gastrostomy planning.",
+    "Recognize the importance of individualized plans and follow-up for tracking outcomes like growth, hydration, and caregiver burden."
+  ],
+  "key_facts": [
+    "Baseline function should be classified using GMFCS and EDACS (or MINI-EDACS for ages 18-36 months).",
+    "Conservative failure criteria include ongoing cough, choking, weight decline, dehydration, or prolonged mealtimes overwhelming caregivers, reviewed within 2-6 weeks.",
+    "Inpatient evaluation is necessary for suspected pneumonia requiring oxygen, unsafe hydration, or caregiver inability to execute plans.",
+    "Texture modification should follow posture, bolus pacing, utensil changes, and environmental adjustments, per NICE guidance.",
+    "Non-oral nutrition escalation should begin with short-term NG/NJ trials before considering long-term gastrostomy."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Neurodevelopmental Disorders",
+    "Dysphagia",
+    "Enteral Nutrition",
+    "Cerebral Palsy",
+    "Gastrostomy",
+    "Nutritional Support",
+    "Respiratory Aspiration",
+    "Caregivers"
+  ],
+  "tags_custom": [
+    "feeding algorithm",
+    "pediatric neurodisability",
+    "escalation criteria",
+    "nutrition management",
+    "caregiver burden"
+  ],
+  "reference_quote": "NICE guidance emphasizes individualized plans for texture modification in children with cerebral palsy (Reference 1).",
+  "document_key_topics": [
+    "Integrated feeding support algorithm",
+    "Conservative failure criteria for feeding plans",
+    "Escalation to non-oral nutrition and hydration",
+    "Follow-up and caregiver burden management"
+  ],
+  "chunk_heading": "NEURODISABILITY AND FEEDING SUPPORT;INTEGRATED ESCALATION ALGORITHM AND CONSERVATIVE FAILURE CRITERIA;",
+  "topic": "NEURODISABILITY AND FEEDING SUPPORT",
+  "subtopic": "INTEGRATED ESCALATION ALGORITHM AND CONSERVATIVE FAILURE CRITERIA",
+  "sub_subtopic": null,
+  "heading_path": "NEURODISABILITY AND FEEDING SUPPORT;INTEGRATED ESCALATION ALGORITHM AND CONSERVATIVE FAILURE CRITERIA;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1f.1"
+}

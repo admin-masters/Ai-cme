@@ -1,0 +1,47 @@
+{
+  "chunk_summary": "Guidance on India-adapted vitamin D dosing for preterm/LBW/ELBW infants, including weight-based recommendations, monitoring strategies, and adjustments for special conditions like cholestasis or metabolic bone disease.",
+  "learning_objectives": [
+    "Understand India-specific vitamin D dosing guidelines for preterm and low birth weight infants.",
+    "Learn how to monitor and adjust vitamin D supplementation based on weight, diet, and clinical conditions.",
+    "Recognize the importance of accounting for fortified formula and avoiding vitamin D overdosing.",
+    "Identify monitoring strategies for high-risk infants, including those with cholestasis or metabolic bone disease."
+  ],
+  "key_facts": [
+    "India-specific guidelines recommend 400 IU/day for LBW infants (1500\u20132499 g) and 800 IU/day for VLBW infants (<1500 g) up to 6 months.",
+    "ESPGHAN suggests 400\u2013700 IU/kg/day for stable preterm infants, with a maximum of 1000 IU/day.",
+    "Vitamin D sufficiency is defined as serum 25-hydroxyvitamin D >50 nmol/L, severe deficiency <25 nmol/L, and levels >120 nmol/L should be avoided.",
+    "High-risk infants (e.g., cholestasis, prolonged PN, or metabolic bone disease) may require higher doses and closer monitoring.",
+    "Vitamin D from fortified formula should be accounted for when determining supplementation needs."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Vitamin D",
+    "Infant, Low Birth Weight",
+    "Infant, Very Low Birth Weight",
+    "Nutritional Support",
+    "Micronutrients",
+    "Cholestasis",
+    "Metabolic Bone Disease",
+    "Parenteral Nutrition"
+  ],
+  "tags_custom": [
+    "India-specific guidelines",
+    "Vitamin D supplementation",
+    "Neonatal nutrition",
+    "Preterm infant care"
+  ],
+  "reference_quote": "Indian facility guidance commonly uses 400 IU/day for LBW infants 1500\u20132499 g and 800 IU/day for VLBW infants <1500 g, continued to 6 months.",
+  "document_key_topics": [
+    "India-adapted vitamin D dosing for preterm/LBW/ELBW infants",
+    "Monitoring and adjusting vitamin D supplementation",
+    "Special considerations for high-risk infants"
+  ],
+  "chunk_heading": "PRETERM/LBW/ELBW POST-DISCHARGE NUTRITION;MICRONUTRIENT SUPPORT AND LAB MONITORING AFTER DISCHARGE;VITAMIN D DOSING WITH INDIA-ADAPTED",
+  "topic": "PRETERM/LBW/ELBW POST-DISCHARGE NUTRITION",
+  "subtopic": "MICRONUTRIENT SUPPORT AND LAB MONITORING AFTER DISCHARGE",
+  "sub_subtopic": "VITAMIN D DOSING WITH INDIA-ADAPTED",
+  "heading_path": "PRETERM/LBW/ELBW POST-DISCHARGE NUTRITION;MICRONUTRIENT SUPPORT AND LAB MONITORING AFTER DISCHARGE;VITAMIN D DOSING WITH INDIA-ADAPTED",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u00884"
+}

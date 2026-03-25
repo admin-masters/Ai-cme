@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "Time-bound ALT monitoring in pediatric MASLD involves structured follow-up, response assessment, and escalation strategies, including lifestyle changes, pharmacotherapy, and elastography for persistent ALT elevation or comorbidities.",
+  "learning_objectives": [
+    "Understand the role of ALT monitoring in pediatric MASLD diagnosis and management.",
+    "Learn time-bound criteria for defining response and nonresponse to lifestyle interventions.",
+    "Identify escalation strategies, including pharmacotherapy and elastography, for nonresponders.",
+    "Recognize sex-specific ALT thresholds and their clinical significance."
+  ],
+  "key_facts": [
+    "Sex-specific ALT thresholds: >26 IU/L for boys and >22 IU/L for girls in adolescents.",
+    "Clinically significant ALT: >2\u00d7 sex-specific thresholds.",
+    "Recheck ALT at 12 weeks post-intervention; assess response over 3\u20136 months.",
+    "Nonresponse: Persistent ALT >2\u00d7 threshold or worsening trends despite lifestyle changes.",
+    "Escalation includes increased visit frequency, pharmacotherapy, or bariatric referral for class 2\u20133 obesity with comorbidities.",
+    "Elastography is recommended for persistent ALT elevation, multi-comorbidity clustering (e.g., T2DM), or hepatomegaly."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Pediatric Obesity",
+    "Non-alcoholic Fatty Liver Disease",
+    "Alanine Transaminase",
+    "Liver Function Tests",
+    "Lifestyle Modification",
+    "Obesity Management",
+    "Elastography",
+    "Type 2 Diabetes Mellitus"
+  ],
+  "tags_custom": [
+    "Pediatric MASLD",
+    "ALT monitoring",
+    "Nonresponse management",
+    "Lifestyle intervention",
+    "Obesity-related liver disease"
+  ],
+  "reference_quote": "Use sex-specific pediatric upper limits of normal for ALT (about 26 IU/L for boys and 22 IU/L for girls in adolescents); treat values >2\u00d7 these thresholds as clinically significant.",
+  "document_key_topics": [
+    "Time-bound ALT monitoring in pediatric MASLD",
+    "Lifestyle interventions for MASLD management",
+    "Criteria for response and nonresponse in MASLD",
+    "Escalation strategies for nonresponders"
+  ],
+  "chunk_heading": "METABOLIC RISK IN CHILDREN;PEDIATRIC MASLD SCREENING DIAGNOSIS AND STAGING;TIME-BOUND ALT MONITORING AND NONRESPONSE ESCALATION IN PEDIATRIC MASLD;",
+  "topic": "METABOLIC RISK IN CHILDREN",
+  "subtopic": "PEDIATRIC MASLD SCREENING DIAGNOSIS AND STAGING",
+  "sub_subtopic": "TIME-BOUND ALT MONITORING AND NONRESPONSE ESCALATION IN PEDIATRIC MASLD",
+  "heading_path": "METABOLIC RISK IN CHILDREN;PEDIATRIC MASLD SCREENING DIAGNOSIS AND STAGING;TIME-BOUND ALT MONITORING AND NONRESPONSE ESCALATION IN PEDIATRIC MASLD;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u00887"
+}

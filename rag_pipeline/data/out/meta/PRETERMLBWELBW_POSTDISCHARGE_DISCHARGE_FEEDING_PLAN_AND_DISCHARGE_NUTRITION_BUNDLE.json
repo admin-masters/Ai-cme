@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "The discharge nutrition bundle template ensures standardized documentation for preterm/LBW/ELBW infants, covering feeding plans, comorbidities, intake prescriptions, micronutrient supplementation, and follow-up care to mitigate risks post-NICU discharge.",
+  "learning_objectives": [
+    "Understand the components of a discharge nutrition bundle for preterm/LBW/ELBW infants.",
+    "Learn how to document feeding phenotypes, comorbidities, and observed feeding assessments.",
+    "Identify key micronutrient supplementation guidelines and follow-up care protocols."
+  ],
+  "key_facts": [
+    "Minimum documentation fields include GA at birth, birth weight, discharge weight, and corrected age.",
+    "Feeding phenotypes include direct breastfeeding, measurable top-ups, expressed milk feeds, formula/mixed, or tube feeds.",
+    "Micronutrient supplementation includes vitamin D (IU/day) and iron (mg/kg/day elemental).",
+    "Fortification methods include HMF in EBM or nutrient-enriched formula with specific recipes and limits.",
+    "Follow-up booking should occur within 24\u201372 hours post-discharge for Tier 3 care."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Infant, Premature",
+    "Low Birth Weight Infant",
+    "Enteral Nutrition",
+    "Breastfeeding",
+    "Micronutrients",
+    "Postnatal Care",
+    "Discharge Planning",
+    "Nutritional Requirements"
+  ],
+  "tags_custom": [
+    "discharge nutrition bundle",
+    "feeding plan documentation",
+    "preterm infant care",
+    "micronutrient supplementation",
+    "post-NICU follow-up"
+  ],
+  "reference_quote": "Transitioning the breastfeeding preterm infant from the NICU to home requires careful planning and documentation to ensure feeding safety and nutritional adequacy. (Academy of Breastfeeding Medicine Clinical Protocol #12)",
+  "document_key_topics": [
+    "Standardized discharge nutrition documentation for preterm/LBW/ELBW infants",
+    "Feeding phenotype and comorbidity assessment",
+    "Micronutrient supplementation and fortification guidelines",
+    "Follow-up care and caregiver monitoring tools"
+  ],
+  "chunk_heading": "PRETERM/LBW/ELBW POST-DISCHARGE NUTRITION;DISCHARGE FEEDING PLAN AND CAREGIVER MONITORING TOOLS;DISCHARGE NUTRITION BUNDLE DOCUMENTATION TEMPLATE;",
+  "topic": "PRETERM/LBW/ELBW POST-DISCHARGE NUTRITION",
+  "subtopic": "DISCHARGE FEEDING PLAN AND CAREGIVER MONITORING TOOLS",
+  "sub_subtopic": "DISCHARGE NUTRITION BUNDLE DOCUMENTATION TEMPLATE",
+  "heading_path": "PRETERM/LBW/ELBW POST-DISCHARGE NUTRITION;DISCHARGE FEEDING PLAN AND CAREGIVER MONITORING TOOLS;DISCHARGE NUTRITION BUNDLE DOCUMENTATION TEMPLATE;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1h3"
+}

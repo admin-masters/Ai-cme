@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section provides a standardized FPIES emergency letter template for schools and emergency departments, detailing acute management steps, symptoms, and discharge advice to prevent misdiagnosis and ensure proper care.",
+  "learning_objectives": [
+    "Understand the clinical presentation and typical symptoms of FPIES, including delayed onset and absence of IgE-mediated signs.",
+    "Learn the acute management protocol for FPIES, including IV fluid administration and ondansetron use.",
+    "Recognize the importance of distinguishing FPIES from other conditions like sepsis or food poisoning.",
+    "Familiarize with discharge advice and follow-up care for children with FPIES."
+  ],
+  "key_facts": [
+    "FPIES is a delayed, non-IgE-mediated food allergy with symptoms appearing 1\u20134 hours after ingestion of trigger foods.",
+    "Typical symptoms include repetitive vomiting, pallor, lethargy, and sometimes diarrhea, but not hives or wheezing.",
+    "Acute management includes assessing airway, breathing, circulation, and administering isotonic IV fluids for dehydration or hypotension.",
+    "Ondansetron may be used for vomiting if not contraindicated.",
+    "IM epinephrine is not routine for isolated FPIES reactions but is indicated if anaphylaxis features (e.g., hives, wheeze, immediate hypotension) are present.",
+    "Discharge advice includes avoiding trigger foods, not testing foods at home post-reaction, and ensuring follow-up care."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Food Hypersensitivity",
+    "Food Protein-Induced Enterocolitis Syndrome",
+    "Emergency Medical Services",
+    "Dehydration",
+    "Hypotension",
+    "Ondansetron",
+    "Epinephrine",
+    "Acute Disease"
+  ],
+  "tags_custom": [
+    "FPIES management",
+    "school health",
+    "emergency care",
+    "pediatric allergy"
+  ],
+  "reference_quote": "International consensus guidelines for diagnosis and management of FPIES (AAAAI).",
+  "document_key_topics": [
+    "FPIES symptoms and triggers",
+    "Acute management of FPIES reactions",
+    "Discharge and follow-up care for FPIES",
+    "Differentiating FPIES from other conditions"
+  ],
+  "chunk_heading": "FOOD ALLERGY & THERAPEUTIC ELIMINATION DIETS;DOCUMENTATION TEMPLATES FOR ELIMINATION AND REINTRODUCTION;FPIES EMERGENCY LETTER TEMPLATE FOR SCHOOLS AND ED;",
+  "topic": "FOOD ALLERGY & THERAPEUTIC ELIMINATION DIETS",
+  "subtopic": "DOCUMENTATION TEMPLATES FOR ELIMINATION AND REINTRODUCTION",
+  "sub_subtopic": "FPIES EMERGENCY LETTER TEMPLATE FOR SCHOOLS AND ED",
+  "heading_path": "FOOD ALLERGY & THERAPEUTIC ELIMINATION DIETS;DOCUMENTATION TEMPLATES FOR ELIMINATION AND REINTRODUCTION;FPIES EMERGENCY LETTER TEMPLATE FOR SCHOOLS AND ED;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "1\u00a63"
+}

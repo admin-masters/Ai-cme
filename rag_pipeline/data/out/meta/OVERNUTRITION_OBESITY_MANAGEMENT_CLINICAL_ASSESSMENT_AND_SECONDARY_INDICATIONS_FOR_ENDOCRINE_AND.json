@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Guidelines for endocrine and genetic testing in pediatric obesity emphasize phenotype-driven evaluation, avoiding routine panels, and addressing common interpretation errors to prevent misdiagnosis and treatment delays.",
+  "learning_objectives": [
+    "Understand when endocrine testing is indicated in pediatric obesity based on clinical features.",
+    "Identify common pitfalls in interpreting thyroid function tests in obese children.",
+    "Recognize the criteria for genetic testing in cases of severe early-onset obesity.",
+    "Learn to triage patients for specialist referral based on specific clinical signs."
+  ],
+  "key_facts": [
+    "Endocrine testing is indicated when obesity is accompanied by short stature, falling height velocity, or delayed puberty.",
+    "Mildly elevated TSH with normal T3 and T4 often reflects adaptive changes in obesity, not primary hypothyroidism.",
+    "Testing for hypercortisolism is reserved for cushingoid features and growth deceleration, not simple weight gain.",
+    "Genetic testing is most useful in severe obesity starting before age 5 with hyperphagia, developmental delay, or dysmorphism.",
+    "Specialist referral and neuroimaging are prioritized for suspected hypothalamic or pituitary disease (e.g., rapid-onset obesity with headache or visual symptoms)."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Pediatric Obesity",
+    "Endocrine System Diseases",
+    "Thyroid Function Tests",
+    "Cushing Syndrome",
+    "Genetic Testing",
+    "Hypothalamic Diseases",
+    "Pituitary Diseases",
+    "Hyperphagia"
+  ],
+  "tags_custom": [
+    "pediatric obesity",
+    "endocrine testing",
+    "genetic evaluation",
+    "diagnostic pitfalls",
+    "specialist referral"
+  ],
+  "reference_quote": "Endocrine testing is not routine in pediatric obesity; it is phenotype-driven. Broad 'endocrine panels' in typical primary obesity create false labels, increase cost, and delay structured obesity care. (Endocrine Society Clinical Practice Guideline, 2017)",
+  "document_key_topics": [
+    "Indications for endocrine testing in pediatric obesity",
+    "Common interpretation errors in thyroid function tests",
+    "Criteria for genetic testing in early-onset obesity",
+    "Specialist referral for hypothalamic or pituitary disease"
+  ],
+  "chunk_heading": "OVERNUTRITION & OBESITY MANAGEMENT;CLINICAL ASSESSMENT AND SECONDARY CAUSE TRIAGE;INDICATIONS FOR ENDOCRINE AND GENETIC TESTING WITH COMMON INTERPRETATION TRAPS;",
+  "topic": "OVERNUTRITION & OBESITY MANAGEMENT",
+  "subtopic": "CLINICAL ASSESSMENT AND SECONDARY CAUSE TRIAGE",
+  "sub_subtopic": "INDICATIONS FOR ENDOCRINE AND GENETIC TESTING WITH COMMON INTERPRETATION TRAPS",
+  "heading_path": "OVERNUTRITION & OBESITY MANAGEMENT;CLINICAL ASSESSMENT AND SECONDARY CAUSE TRIAGE;INDICATIONS FOR ENDOCRINE AND GENETIC TESTING WITH COMMON INTERPRETATION TRAPS;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1m3"
+}

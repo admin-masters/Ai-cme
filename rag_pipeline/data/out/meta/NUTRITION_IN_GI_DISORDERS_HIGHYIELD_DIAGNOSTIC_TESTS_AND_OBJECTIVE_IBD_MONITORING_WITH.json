@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "Objective monitoring of pediatric IBD includes PUCAI for severity grading and fecal calprotectin (FC) for mucosal inflammation assessment, aiding in treatment decisions and preventing complications like anemia and growth delays.",
+  "learning_objectives": [
+    "Understand the role of PUCAI in grading ulcerative colitis severity and monitoring treatment response.",
+    "Learn pediatric-specific thresholds for fecal calprotectin in ulcerative colitis and Crohn's disease.",
+    "Identify clinical and laboratory markers for objective risk assessment in pediatric IBD.",
+    "Recognize the importance of timely escalation in treatment to prevent malnutrition and growth impairment."
+  ],
+  "key_facts": [
+    "PUCAI \u226565 indicates acute severe colitis requiring admission.",
+    "Clinically meaningful PUCAI improvement is \u226520 points or remission entry.",
+    "Fecal calprotectin >250 mg/g indicates active mucosal inflammation in pediatric ulcerative colitis.",
+    "Low fecal calprotectin (<250 mg/g) after induction therapy predicts favorable outcomes in pediatric Crohn's disease.",
+    "Healthy fecal calprotectin values in children >4 years may reach ~100 mg/g, with adult-like thresholds <50 mg/g.",
+    "Objective risk markers include blood in stool, weight loss, anemia, low albumin, and falling height velocity."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Inflammatory Bowel Diseases",
+    "Ulcerative Colitis",
+    "Crohn Disease",
+    "Fecal Calprotectin",
+    "Pediatric Nutrition",
+    "Growth Disorders",
+    "Anemia",
+    "Clinical Scoring Systems"
+  ],
+  "tags_custom": [
+    "PUCAI monitoring",
+    "pediatric IBD diagnostics",
+    "fecal biomarkers",
+    "growth impairment",
+    "objective risk assessment"
+  ],
+  "reference_quote": "Fecal calprotectin (FC) >250 mg/g is used as evidence of active mucosal inflammation even when symptoms improve. (Source: ESPGHAN position paper)",
+  "document_key_topics": [
+    "PUCAI scoring for ulcerative colitis severity",
+    "Fecal calprotectin thresholds in pediatric IBD",
+    "Objective risk markers for IBD progression",
+    "Impact of IBD on pediatric growth and nutrition"
+  ],
+  "chunk_heading": "NUTRITION IN GI DISORDERS & MALABSORPTION;HIGH-YIELD DIAGNOSTIC TESTS AND RESULT INTERPRETATION;OBJECTIVE IBD MONITORING WITH PUCAI AND FECAL CALPROTECTIN;",
+  "topic": "NUTRITION IN GI DISORDERS & MALABSORPTION",
+  "subtopic": "HIGH-YIELD DIAGNOSTIC TESTS AND RESULT INTERPRETATION",
+  "sub_subtopic": "OBJECTIVE IBD MONITORING WITH PUCAI AND FECAL CALPROTECTIN",
+  "heading_path": "NUTRITION IN GI DISORDERS & MALABSORPTION;HIGH-YIELD DIAGNOSTIC TESTS AND RESULT INTERPRETATION;OBJECTIVE IBD MONITORING WITH PUCAI AND FECAL CALPROTECTIN;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "2k1"
+}

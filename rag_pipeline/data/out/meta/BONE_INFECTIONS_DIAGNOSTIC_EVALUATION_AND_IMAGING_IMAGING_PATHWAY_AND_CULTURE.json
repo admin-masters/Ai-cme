@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "This section outlines imaging pathways for diagnosing bone infections, emphasizing resource-adapted strategies and culture-negative management in children.",
+  "learning_objectives": [
+    "Understand the stepwise imaging approach for pediatric bone infections, including plain radiographs, ultrasound, and MRI.",
+    "Recognize the importance of clinical re-evaluation and resource-adapted imaging pathways when advanced imaging is unavailable.",
+    "Learn appropriate management strategies for culture-negative infections, including when to escalate diagnostics or therapy."
+  ],
+  "key_facts": [
+    "Plain radiographs are the first imaging step for focal bone or joint pain but may appear normal in early osteomyelitis.",
+    "Ultrasound is preferred for suspected septic arthritis or subperiosteal fluid, especially in the hip or shoulder.",
+    "MRI is the gold standard for detecting early marrow edema and defining abscesses, particularly in pelvic, sacroiliac, and spinal infections.",
+    "Bone scans are useful for suspected multifocal disease but provide limited anatomic detail.",
+    "Culture-negative infections should not lead to automatic antibiotic escalation if clinical improvement is observed.",
+    "If fever, pain, or inflammatory markers persist, broaden the differential to include TB, fungi, and malignancy.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Osteomyelitis",
+    "Septic Arthritis",
+    "Magnetic Resonance Imaging",
+    "Ultrasonography",
+    "Bone Scintigraphy",
+    "Pediatric Orthopedics",
+    "Anti-Bacterial Agents",
+    "Infectious Disease Diagnosis"
+  ],
+  "tags_custom": [
+    "pediatric bone infections",
+    "imaging pathways",
+    "culture-negative management",
+    "resource-adapted diagnostics"
+  ],
+  "reference_quote": "Plain radiographs are the first imaging step in any child with focal bone or joint pain because they help exclude fracture, dislocation, tumor, and late bony destruction. (Source: Indian Academy of Pediatrics Consensus Statement)",
+  "document_key_topics": [
+    "Imaging strategies for pediatric bone infections",
+    "Management of culture-negative infections",
+    "Resource-adapted diagnostic pathways"
+  ],
+  "chunk_heading": "BONE INFECTIONS;DIAGNOSTIC EVALUATION AND IMAGING SELECTION;IMAGING PATHWAY AND CULTURE NEGATIVE DIAGNOSTIC DECISIONS;",
+  "topic": "BONE INFECTIONS",
+  "subtopic": "DIAGNOSTIC EVALUATION AND IMAGING SELECTION",
+  "sub_subtopic": "IMAGING PATHWAY AND CULTURE NEGATIVE DIAGNOSTIC DECISIONS",
+  "heading_path": "BONE INFECTIONS;DIAGNOSTIC EVALUATION AND IMAGING SELECTION;IMAGING PATHWAY AND CULTURE NEGATIVE DIAGNOSTIC DECISIONS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1m5"
+}

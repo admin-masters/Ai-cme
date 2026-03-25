@@ -1,0 +1,47 @@
+{
+  "chunk_summary": "This section discusses diagnostic cutoffs and laboratory evaluation for pediatric overweight and obesity, emphasizing age-specific criteria, risk stratification, and comorbidity screening.",
+  "learning_objectives": [
+    "Understand age-specific diagnostic cutoffs for pediatric overweight and obesity using WHO and IAP charts.",
+    "Identify clinical risk factors and comorbidities associated with pediatric obesity.",
+    "Learn laboratory evaluation protocols for cardiometabolic and liver-related comorbidities in overweight and obese children."
+  ],
+  "key_facts": [
+    "For children under 5 years, overweight is defined as > +2 SD and obesity as > +3 SD on WHO weight-for-length/height z-scores.",
+    "For children aged 5\u201318 years, BMI-for-age is plotted on IAP charts, with South Asian-specific cutoffs of 23 (overweight risk) and 27 (obesity risk).",
+    "Initial risk stratification includes assessing blood pressure, puberty stage, sleep history, dietary patterns, and family history of metabolic diseases.",
+    "Laboratory evaluation includes fasting lipid profile, fasting glucose or HbA1c, and ALT for NAFLD in obese children.",
+    "Overweight children are tested for comorbidities only if additional risk factors, such as acanthosis nigricans or hypertension, are present.",
+    "Secondary causes of obesity should be considered if accompanied by short stature, delayed puberty, dysmorphic features, or rapid onset."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Pediatric Obesity",
+    "Overweight",
+    "Body Mass Index",
+    "Risk Assessment",
+    "Cardiometabolic Risk Factors",
+    "Non-alcoholic Fatty Liver Disease",
+    "Growth Disorders",
+    "Diagnostic Techniques and Procedures"
+  ],
+  "tags_custom": [
+    "Pediatric nutrition",
+    "Obesity screening",
+    "South Asian guidelines",
+    "Childhood growth patterns"
+  ],
+  "reference_quote": "From 5\u201318 years, plot BMI-for-age on IAP charts and use adult-equivalent cut-offs; for South Asian children, the 23 (overweight risk) and 27 (obesity risk) lines support earlier risk detection.",
+  "document_key_topics": [
+    "Pediatric obesity diagnostic cutoffs",
+    "Risk stratification in childhood obesity",
+    "Laboratory evaluation for obesity-related comorbidities"
+  ],
+  "chunk_heading": "MACRONUTRIENT NUTRITION ACROSS CHILDHOOD;PEDIATRIC OVERWEIGHT AND OBESITY DIAGNOSTIC CUTOFFS AND LABORATORY EVALUATION;",
+  "topic": "MACRONUTRIENT NUTRITION ACROSS CHILDHOOD",
+  "subtopic": "PEDIATRIC OVERWEIGHT AND OBESITY DIAGNOSTIC CUTOFFS AND LABORATORY EVALUATION",
+  "sub_subtopic": null,
+  "heading_path": "MACRONUTRIENT NUTRITION ACROSS CHILDHOOD;PEDIATRIC OVERWEIGHT AND OBESITY DIAGNOSTIC CUTOFFS AND LABORATORY EVALUATION;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2|.1"
+}

@@ -1,0 +1,47 @@
+{
+  "chunk_summary": "This section outlines age- and sex-specific energy requirements for Indian children based on ICMR-NIN 2020 values, emphasizing practical application in clinical settings and individualized adjustments for activity, growth, and weight management.",
+  "learning_objectives": [
+    "Understand the ICMR-NIN 2020 energy requirement values for Indian children across different age and sex groups.",
+    "Learn how to individualize energy targets based on activity level, growth needs, and weight management.",
+    "Apply practical strategies to address common energy intake errors in children and adolescents."
+  ],
+  "key_facts": [
+    "Energy requirements for children (moderate activity): 0\u20136 months: 530 kcal/day; 6\u201312 months: 660 kcal/day; 1\u20133 years: 1110 kcal/day; 4\u20136 years: 1360 kcal/day; 7\u20139 years: 1700 kcal/day.",
+    "Energy requirements for boys: 10\u201312 years: 2220 kcal/day; 13\u201315 years: 2860 kcal/day; 16\u201318 years: 3320 kcal/day.",
+    "Energy requirements for girls: 10\u201312 years: 2060 kcal/day; 13\u201315 years: 2400 kcal/day; 16\u201318 years: 2500 kcal/day.",
+    "Small children require more energy per kg of body weight compared to adolescents.",
+    "Adjust energy targets for high activity, cold exposure, or catch-up growth, and reduce them for excess weight gain or inactivity.",
+    "Practical strategies include correcting dilute feeds in infants, addressing skipped meals in adolescents, and reducing sugary beverages across all ages."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Energy Intake",
+    "Child Nutrition",
+    "Dietary Requirements",
+    "Growth and Development",
+    "Adolescent Nutrition",
+    "Caloric Needs",
+    "India",
+    "Nutritional Counseling"
+  ],
+  "tags_custom": [
+    "ICMR-NIN guidelines",
+    "Pediatric energy needs",
+    "Calorie adjustment strategies",
+    "Childhood nutrition"
+  ],
+  "reference_quote": "The ICMR-NIN 2020 brief note provides age- and sex-specific estimated energy requirements for moderate activity.",
+  "document_key_topics": [
+    "Age- and sex-specific energy requirements for Indian children",
+    "Practical application of energy targets in clinical settings",
+    "Adjustments for activity, growth, and weight management"
+  ],
+  "chunk_heading": "MACRONUTRIENT NUTRITION ACROSS CHILDHOOD;ESTIMATED ENERGY REQUIREMENTS FOR INDIAN CHILDREN USING ICMR-NIN VALUES;",
+  "topic": "MACRONUTRIENT NUTRITION ACROSS CHILDHOOD",
+  "subtopic": "ESTIMATED ENERGY REQUIREMENTS FOR INDIAN CHILDREN USING ICMR-NIN VALUES",
+  "sub_subtopic": null,
+  "heading_path": "MACRONUTRIENT NUTRITION ACROSS CHILDHOOD;ESTIMATED ENERGY REQUIREMENTS FOR INDIAN CHILDREN USING ICMR-NIN VALUES;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1k"
+}

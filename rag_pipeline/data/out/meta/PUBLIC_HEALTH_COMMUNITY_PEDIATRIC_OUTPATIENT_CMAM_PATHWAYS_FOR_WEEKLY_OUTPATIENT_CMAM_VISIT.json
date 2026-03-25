@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section outlines the weekly outpatient CMAM visit checklist and discharge criteria for managing uncomplicated wasting in children, emphasizing anthropometry, illness screening, appetite assessment, feeding plans, and discharge rules.",
+  "learning_objectives": [
+    "Understand the weekly outpatient CMAM visit protocol for uncomplicated wasting.",
+    "Learn the key steps for anthropometry, illness screening, and appetite assessment.",
+    "Identify discharge criteria for children recovering from uncomplicated wasting.",
+    "Recognize the importance of feeding plans and risk management in CMAM programs."
+  ],
+  "key_facts": [
+    "Anthropometry includes weight, edema check, and MUAC (6\u201359 months), with re-measurement if values are discordant with clinical appearance.",
+    "Appetite failure should be treated as a diagnosis with four common causes: active infection, caregiver preparation barrier, sharing/diversion, and low caregiver\u2013child interaction quality.",
+    "Feeding plans should include 150\u2013185 kcal/kg/day of RUTF until recovery, with adjustments for sharing risks.",
+    "Discharge criteria: normalization of both WHZ \u2265 -2 and MUAC \u2265 125 mm, with follow-up if only one normalizes.",
+    "Escalation is required if weight loss occurs for two consecutive visits or if edema persists."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Community Health Services",
+    "Malnutrition",
+    "Pediatrics",
+    "Anthropometry",
+    "Nutritional Support",
+    "Appetite Regulation",
+    "Micronutrients",
+    "Wasting Syndrome"
+  ],
+  "tags_custom": [
+    "CMAM protocol",
+    "uncomplicated wasting",
+    "pediatric nutrition",
+    "discharge criteria",
+    "feeding plans"
+  ],
+  "reference_quote": "Teach an explicit exit rule: recovery should ideally normalize both WHZ \u2265 -2 and MUAC \u2265 125 mm before discharge, with planned follow-up if only one normalizes.",
+  "document_key_topics": [
+    "Weekly outpatient CMAM visit protocol",
+    "Anthropometry and illness screening",
+    "Feeding plans and RUTF guidelines",
+    "Discharge criteria for uncomplicated wasting"
+  ],
+  "chunk_heading": "PUBLIC HEALTH & COMMUNITY PEDIATRIC NUTRITION;OUTPATIENT CMAM PATHWAYS FOR UNCOMPLICATED WASTING;WEEKLY OUTPATIENT CMAM VISIT CHECKLIST AND DISCHARGE CRITERIA;",
+  "topic": "PUBLIC HEALTH & COMMUNITY PEDIATRIC NUTRITION",
+  "subtopic": "OUTPATIENT CMAM PATHWAYS FOR UNCOMPLICATED WASTING",
+  "sub_subtopic": "WEEKLY OUTPATIENT CMAM VISIT CHECKLIST AND DISCHARGE CRITERIA",
+  "heading_path": "PUBLIC HEALTH & COMMUNITY PEDIATRIC NUTRITION;OUTPATIENT CMAM PATHWAYS FOR UNCOMPLICATED WASTING;WEEKLY OUTPATIENT CMAM VISIT CHECKLIST AND DISCHARGE CRITERIA;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1{2"
+}

@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "This section discusses monitoring and evaluation metrics for pediatric nutrition programs, focusing on coverage, quality, and outcome indicators for schemes like Anganwadi Services and PM POSHAN, with actionable data for corrective measures.",
+  "learning_objectives": [
+    "Understand the role of coverage, quality, and outcome indicators in pediatric nutrition program monitoring.",
+    "Learn how to use dashboards and field audits to identify gaps in service delivery.",
+    "Familiarize with specific metrics for Anganwadi Services and PM POSHAN, including attendance, meal safety, and growth tracking.",
+    "Recognize the importance of reconciling reported data with field verification for accurate program evaluation."
+  ],
+  "key_facts": [
+    "Coverage indicators include the proportion of eligible beneficiaries registered and receiving services on at least 21 days per month.",
+    "Quality indicators include measurement-accuracy audits and stock-out days for food or supplement inputs.",
+    "Outcome indicators include wasting, stunting, and underweight prevalence, as well as recovery and non-response rates for wasting services.",
+    "PM POSHAN monitoring involves periodic school visits, meal safety checks, and a dedicated M&E budget line.",
+    "Dashboards should be used to identify areas for corrective action, with field audits verifying data accuracy."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Pediatric Nutrition",
+    "Public Health",
+    "Program Evaluation",
+    "Malnutrition",
+    "Growth Monitoring",
+    "Health Indicators",
+    "Community Health Services",
+    "Food Safety"
+  ],
+  "tags_custom": [
+    "Anganwadi Services",
+    "PM POSHAN",
+    "Monitoring Metrics",
+    "Corrective Action",
+    "Nutrition Programs"
+  ],
+  "reference_quote": "For PM POSHAN, monitoring is built into school governance: committees and local bodies check regularity, meal wholesomeness, cleanliness, and procurement timeliness, and guidelines recommend periodic monitoring visits.",
+  "document_key_topics": [
+    "Monitoring and evaluation metrics for pediatric nutrition programs",
+    "Coverage, quality, and outcome indicators for Anganwadi Services",
+    "PM POSHAN scheme monitoring and governance"
+  ],
+  "chunk_heading": "PUBLIC HEALTH & COMMUNITY PEDIATRIC NUTRITION;MONITORING AND EVALUATION METRICS FOR PROGRAM CORRECTIVE ACTION;COVERAGE QUALITY AND OUTCOME INDICATORS FOR KEY SCHEMES;",
+  "topic": "PUBLIC HEALTH & COMMUNITY PEDIATRIC NUTRITION",
+  "subtopic": "MONITORING AND EVALUATION METRICS FOR PROGRAM CORRECTIVE ACTION",
+  "sub_subtopic": "COVERAGE QUALITY AND OUTCOME INDICATORS FOR KEY SCHEMES",
+  "heading_path": "PUBLIC HEALTH & COMMUNITY PEDIATRIC NUTRITION;MONITORING AND EVALUATION METRICS FOR PROGRAM CORRECTIVE ACTION;COVERAGE QUALITY AND OUTCOME INDICATORS FOR KEY SCHEMES;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u00991"
+}

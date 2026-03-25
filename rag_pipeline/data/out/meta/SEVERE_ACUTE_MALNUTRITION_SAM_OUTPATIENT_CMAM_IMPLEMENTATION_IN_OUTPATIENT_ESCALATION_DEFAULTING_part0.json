@@ -1,0 +1,47 @@
+{
+  "chunk_summary": "Guidelines for outpatient SAM management in India emphasize escalation criteria, addressing defaulting risks, and managing discordant anthropometry for safe treatment and discharge decisions.",
+  "learning_objectives": [
+    "Understand the criteria for escalating SAM cases from outpatient to inpatient care.",
+    "Identify strategies to reduce defaulting in outpatient CMAM programs in India.",
+    "Learn how to manage discordant anthropometric measures during enrollment and discharge.",
+    "Incorporate follow-up and counseling techniques to improve adherence and safety."
+  ],
+  "key_facts": [
+    "Escalation to inpatient care is required for danger signs such as oedema, persistent anorexia, or severe dehydration.",
+    "High defaulting rates in India are linked to travel difficulties and weak community referrals.",
+    "Frontline workers like ASHA reduce defaulting risks through follow-up and case tracing.",
+    "MUAC and WHZ identify different risk groups; both should be documented at baseline and discharge.",
+    "Discharge decisions should not rely on a single marker; both MUAC and WHZ must normalize for safe discharge.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Severe Acute Malnutrition",
+    "Community-Based Management of Acute Malnutrition",
+    "Anthropometry",
+    "Nutritional Oedema",
+    "Appetite Disorders",
+    "Patient Compliance",
+    "India"
+  ],
+  "tags_custom": [
+    "SAM escalation criteria",
+    "defaulting risks",
+    "discordant anthropometry",
+    "outpatient CMAM India"
+  ],
+  "reference_quote": "Large Indian program experience has shown high defaulting when travel is difficult or when community referral is weak; referrals by frontline workers such as ASHA reduce default risk.",
+  "document_key_topics": [
+    "Escalation criteria for SAM outpatient programs",
+    "Defaulting risks and mitigation strategies",
+    "Management of discordant anthropometric measures"
+  ],
+  "chunk_heading": "SEVERE ACUTE MALNUTRITION (SAM) MANAGEMENT;OUTPATIENT CMAM IMPLEMENTATION IN INDIA;OUTPATIENT ESCALATION DEFAULTING AND DISCORDANT ANTHROPOMETRY DECISIONS;",
+  "topic": "SEVERE ACUTE MALNUTRITION (SAM) MANAGEMENT",
+  "subtopic": "OUTPATIENT CMAM IMPLEMENTATION IN INDIA",
+  "sub_subtopic": "OUTPATIENT ESCALATION DEFAULTING AND DISCORDANT ANTHROPOMETRY DECISIONS",
+  "heading_path": "SEVERE ACUTE MALNUTRITION (SAM) MANAGEMENT;OUTPATIENT CMAM IMPLEMENTATION IN INDIA;OUTPATIENT ESCALATION DEFAULTING AND DISCORDANT ANTHROPOMETRY DECISIONS;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1{2.1"
+}

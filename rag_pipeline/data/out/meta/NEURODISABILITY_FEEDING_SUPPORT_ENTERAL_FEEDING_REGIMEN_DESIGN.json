@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Designing enteral feeding regimens for children with neurodisability involves individualized energy needs, formula selection, hydration flushes, and managing complications like vomiting, diarrhea, and tube blockage.",
+  "learning_objectives": [
+    "Understand how to individualize energy needs for children with neurological impairment based on mobility, muscle tone, and growth response.",
+    "Learn the advantages and disadvantages of bolus versus continuous feeding modes in managing reflux and gastric tolerance.",
+    "Recognize the importance of hydration flushes for tube patency and medication administration.",
+    "Identify first-line responses to common complications such as vomiting, diarrhea, and tube blockage."
+  ],
+  "key_facts": [
+    "Energy needs should start from age-based dietary reference targets and be adjusted based on mobility, muscle tone, and activity.",
+    "Reassess weight trends and body composition proxies (e.g., mid-upper arm circumference, triceps skinfold) every 6 months.",
+    "Bolus feeds support hunger-satiety cycles but may worsen reflux; continuous feeds improve tolerance in severe reflux or delayed gastric emptying.",
+    "Hydration flushes should be performed before and after bolus feeds, and before, between, and after medications.",
+    "Blenderized feeds require strict hygiene, nutrient completeness, and monitoring to prevent tube blockage."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Enteral Nutrition",
+    "Neurological Impairments",
+    "Feeding Methods",
+    "Hydration",
+    "Gastroesophageal Reflux",
+    "Tube Feeding Complications",
+    "Dietary Reference Intakes",
+    "Blenderized Tube Feeding"
+  ],
+  "tags_custom": [
+    "feeding regimen design",
+    "hydration management",
+    "complication response",
+    "blenderized feeding",
+    "tube patency"
+  ],
+  "reference_quote": "Energy needs in neurologic impairment vary widely; start from age-based dietary reference targets and then individualize based on mobility, muscle tone, activity, and observed growth response. (ESPGHAN Advice Guide)",
+  "document_key_topics": [
+    "Individualized energy needs in neurodisability",
+    "Bolus vs. continuous feeding modes",
+    "Hydration flush protocols",
+    "Management of enteral feeding complications"
+  ],
+  "chunk_heading": "NEURODISABILITY & FEEDING SUPPORT;ENTERAL FEEDING REGIMEN DESIGN INCLUDING HYDRATION FLUSHES AND COMPLICATION MANAGEMENT;",
+  "topic": "NEURODISABILITY & FEEDING SUPPORT",
+  "subtopic": "ENTERAL FEEDING REGIMEN DESIGN INCLUDING HYDRATION FLUSHES AND COMPLICATION MANAGEMENT",
+  "sub_subtopic": null,
+  "heading_path": "NEURODISABILITY & FEEDING SUPPORT;ENTERAL FEEDING REGIMEN DESIGN INCLUDING HYDRATION FLUSHES AND COMPLICATION MANAGEMENT;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1v"
+}

@@ -1,0 +1,1027 @@
+[
+  {
+    "chunk_id": "COMMON_PEDIATRIC_EMERGENCIES_PHYSIOLOGY_FIRST_TRIAGE_AND_CORE_ABCDE_TRIAGE_AND_INVESTIGATION",
+    "pdf_source": "Common Pediatric Emergencies_fixed.pdf",
+    "topic": "COMMON PEDIATRIC EMERGENCIES",
+    "subtopic": "PHYSIOLOGY FIRST TRIAGE AND CORE EMERGENCY SUPPORTS",
+    "sub_subtopic": "ABCDE TRIAGE AND INVESTIGATION DECISIONS IN THE FIRST HOUR",
+    "heading_path": "COMMON PEDIATRIC EMERGENCIES;PHYSIOLOGY FIRST TRIAGE AND CORE EMERGENCY SUPPORTS;ABCDE TRIAGE AND INVESTIGATION DECISIONS IN THE FIRST HOUR;",
+    "references": [
+      "https://unicefintercluster.net/cpaor/sites/default/files/cp/WHO-2005-Pocketbook-of-hospital- carefor-children.pdf",
+      "https://iapindia.org/pdf/Ch-105-Oxygen-Therapy-in-Office-Practice.pdf IAP Standard Treatment Guidelines: Shock in office practice \u2014 https://iapindia.org/pdf/Ch- WHO Pocket Book of Hospital Care for Children: ETAT and emergency triage guidance \u2014 IAP Standard Treatment Guidelines: Oxygen therapy in office practice \u2014",
+      "073Shock-in-Office-Practice.pdf"
+    ],
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "blob_url": "https://cmetyphoid.blob.core.windows.net/typhoidnew/COMMON_PEDIATRIC_EMERGENCIES_PHYSIOLOGY_FIRST_TRIAGE_AND_CORE_ABCDE_TRIAGE_AND_INVESTIGATION.pdf",
+    "char_count": 1485,
+    "sequence": "1b1"
+  },
+  {
+    "chunk_id": "COMMON_PEDIATRIC_EMERGENCIES_PHYSIOLOGY_FIRST_TRIAGE_AND_CORE_UNDIFFERENTIATED_FEBRILE_CHILD",
+    "pdf_source": "Common Pediatric Emergencies_fixed.pdf",
+    "topic": "COMMON PEDIATRIC EMERGENCIES",
+    "subtopic": "PHYSIOLOGY FIRST TRIAGE AND CORE EMERGENCY SUPPORTS",
+    "sub_subtopic": "UNDIFFERENTIATED FEBRILE CHILD DANGER SIGNS FIRST HOUR TESTS AND EMPIRIC ACTIONS",
+    "heading_path": "COMMON PEDIATRIC EMERGENCIES;PHYSIOLOGY FIRST TRIAGE AND CORE EMERGENCY SUPPORTS;UNDIFFERENTIATED FEBRILE CHILD DANGER SIGNS FIRST HOUR TESTS AND EMPIRIC ACTIONS;",
+    "references": [
+      "Pocket Book of Hospital Care for Children \u2014 https://www.who.int/publications/i/item/978-92-4- 154837-3",
+      "National Guidelines for Clinical Management of Dengue Fever 2023 \u2014 https://cdn.who.int/media/docs/default-source/searo/india/publications/national-guidelines- clinical-management-dengue1.pdf?sfvrsn=8b01bb03_2",
+      "Malaria Drug Policy 2013 \u2014 https://ncvbdc.mohfw.gov.in/Doc/National-Drug-Policy-2013.pdf"
+    ],
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "blob_url": "https://cmetyphoid.blob.core.windows.net/typhoidnew/COMMON_PEDIATRIC_EMERGENCIES_PHYSIOLOGY_FIRST_TRIAGE_AND_CORE_UNDIFFERENTIATED_FEBRILE_CHILD.pdf",
+    "char_count": 1833,
+    "sequence": "1c2"
+  },
+  {
+    "chunk_id": "COMMON_PEDIATRIC_EMERGENCIES_PHYSIOLOGY_FIRST_TRIAGE_AND_CORE_OXYGEN_DEVICE_SELECTION_AND",
+    "pdf_source": "Common Pediatric Emergencies_fixed.pdf",
+    "topic": "COMMON PEDIATRIC EMERGENCIES",
+    "subtopic": "PHYSIOLOGY FIRST TRIAGE AND CORE EMERGENCY SUPPORTS",
+    "sub_subtopic": "OXYGEN DEVICE SELECTION AND SATURATION TARGETS WITH SPO2 ARTIFACT TROUBLESHOOTING",
+    "heading_path": "COMMON PEDIATRIC EMERGENCIES;PHYSIOLOGY FIRST TRIAGE AND CORE EMERGENCY SUPPORTS;OXYGEN DEVICE SELECTION AND SATURATION TARGETS WITH SPO2 ARTIFACT TROUBLESHOOTING;",
+    "references": [
+      "IAP Standard Treatment Guidelines: Oxygen therapy in office practice \u2014 https://iapindia.org/pdf/Ch-105-Oxygen-Therapy-in-Office-Practice.pdf - Royal Children\u2019s Hospital: Oxygen delivery guideline and target saturations \u2014 https://www.rch.org.au/rchcpg/hospital_clinical_guideline_index/oxygen_delivery/",
+      "https://www.rch.org.au/rchcpg/hospital_clinical_guideline_index/oxygen_delivery/",
+      "skin tones \u2014 https://www.fda.gov/news-events/press-announcements/fda-proposes- updated-recommendationshelp-improve-performance-pulse-oximeters-across-skin-tones - Effect of skin tone on pulse oximetry accuracy: systematic review \u2014 https://pubmed.ncbi.nlm.nih.gov/38368234/ FDA: Updated recommendations to improve pulse oximeter performance across",
+      "https://pubmed.ncbi.nlm.nih.gov/38368234/"
+    ],
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "blob_url": "https://cmetyphoid.blob.core.windows.net/typhoidnew/COMMON_PEDIATRIC_EMERGENCIES_PHYSIOLOGY_FIRST_TRIAGE_AND_CORE_OXYGEN_DEVICE_SELECTION_AND.pdf",
+    "char_count": 1568,
+    "sequence": "1d3"
+  },
+  {
+    "chunk_id": "COMMON_PEDIATRIC_EMERGENCIES_PHYSIOLOGY_FIRST_TRIAGE_AND_CORE",
+    "pdf_source": "Common Pediatric Emergencies_fixed.pdf",
+    "topic": "COMMON PEDIATRIC EMERGENCIES",
+    "subtopic": "PHYSIOLOGY FIRST TRIAGE AND CORE EMERGENCY",
+    "sub_subtopic": null,
+    "heading_path": "COMMON PEDIATRIC EMERGENCIES;PHYSIOLOGY FIRST TRIAGE AND CORE EMERGENCY",
+    "references": [],
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "blob_url": "https://cmetyphoid.blob.core.windows.net/typhoidnew/COMMON_PEDIATRIC_EMERGENCIES_PHYSIOLOGY_FIRST_TRIAGE_AND_CORE.pdf",
+    "char_count": 1,
+    "sequence": "1e"
+  },
+  {
+    "chunk_id": "SUPPORTS_BAG_MASK_VENTILATION_TECHNIQUE_AND",
+    "pdf_source": "Common Pediatric Emergencies_fixed.pdf",
+    "topic": "SUPPORTS",
+    "subtopic": "BAG MASK VENTILATION TECHNIQUE AND TROUBLESHOOTING IN CHILDREN",
+    "sub_subtopic": null,
+    "heading_path": "SUPPORTS;BAG MASK VENTILATION TECHNIQUE AND TROUBLESHOOTING IN CHILDREN;",
+    "references": [
+      "Pediatric BLS Algorithm \u2014 https://cpr.heart.org/-/media/cpr-files/cpr-guidelines- files/algorithms/pediatric-bls-algorithm.pdf?sc_lang=en",
+      "Highlights of the 2025 AHA Guidelines Update for Pediatric Basic and Advanced Life Support \u2014 https://www.ahajournals.org/doi/10.1161/CIR.0000000000001368",
+      "Emergency Airway Management \u2014 https://www.rch.org.au/clinicalguide/guideline_index/Emergency_airway_management/"
+    ],
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "blob_url": "https://cmetyphoid.blob.core.windows.net/typhoidnew/SUPPORTS_BAG_MASK_VENTILATION_TECHNIQUE_AND.pdf",
+    "char_count": 1567,
+    "sequence": "2a"
+  },
+  {
+    "chunk_id": "COMMON_PEDIATRIC_EMERGENCIES_PHYSIOLOGY_FIRST_TRIAGE_AND_CORE_INTRAOSSEOUS_ACCESS_INDICATIONS",
+    "pdf_source": "Common Pediatric Emergencies_fixed.pdf",
+    "topic": "COMMON PEDIATRIC EMERGENCIES",
+    "subtopic": "PHYSIOLOGY FIRST TRIAGE AND CORE EMERGENCY SUPPORTS",
+    "sub_subtopic": "INTRAOSSEOUS ACCESS INDICATIONS INSERTION TECHNIQUE AND COMPLICATIONS",
+    "heading_path": "COMMON PEDIATRIC EMERGENCIES;PHYSIOLOGY FIRST TRIAGE AND CORE EMERGENCY SUPPORTS;INTRAOSSEOUS ACCESS INDICATIONS INSERTION TECHNIQUE AND COMPLICATIONS;",
+    "references": [
+      "Intraosseous Access \u2014 https://www.rch.org.au/clinicalguide/guideline_index/Intraosseous_access/",
+      "Highlights of the 2025 AHA Guidelines Update for Pediatric Basic and Advanced Life Support \u2014 https://www.ahajournals.org/doi/10.1161/CIR.0000000000001368 Pain control matters because flushing is painful in conscious children. Use local anesthetic"
+    ],
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "blob_url": "https://cmetyphoid.blob.core.windows.net/typhoidnew/COMMON_PEDIATRIC_EMERGENCIES_PHYSIOLOGY_FIRST_TRIAGE_AND_CORE_INTRAOSSEOUS_ACCESS_INDICATIONS.pdf",
+    "char_count": 1421,
+    "sequence": "2f4"
+  },
+  {
+    "chunk_id": "COMMON_PEDIATRIC_EMERGENCIES_PHYSIOLOGY_FIRST_TRIAGE_AND_CORE",
+    "pdf_source": "Common Pediatric Emergencies_fixed.pdf",
+    "topic": "COMMON PEDIATRIC EMERGENCIES",
+    "subtopic": "PHYSIOLOGY FIRST TRIAGE AND CORE EMERGENCY",
+    "sub_subtopic": null,
+    "heading_path": "COMMON PEDIATRIC EMERGENCIES;PHYSIOLOGY FIRST TRIAGE AND CORE EMERGENCY",
+    "references": [
+      "https://www.rch.org.au/clinicalguide/guideline_index/Emergency_airway_management/"
+    ],
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "blob_url": "https://cmetyphoid.blob.core.windows.net/typhoidnew/COMMON_PEDIATRIC_EMERGENCIES_PHYSIOLOGY_FIRST_TRIAGE_AND_CORE.pdf",
+    "char_count": 295,
+    "sequence": "2g"
+  },
+  {
+    "chunk_id": "SUPPORTS_EMERGENCY_ENDOTRACHEAL_TUBE_SIZING",
+    "pdf_source": "Common Pediatric Emergencies_fixed.pdf",
+    "topic": "SUPPORTS",
+    "subtopic": "EMERGENCY ENDOTRACHEAL TUBE SIZING DEPTH CONFIRMATION AND RESCUE AIRWAY OPTIONS",
+    "sub_subtopic": null,
+    "heading_path": "SUPPORTS;EMERGENCY ENDOTRACHEAL TUBE SIZING DEPTH CONFIRMATION AND RESCUE AIRWAY OPTIONS;",
+    "references": [
+      "Airway Management (Trauma Service Manual Appendix) \u2014 https://www.rch.org.au/uploadedFiles/Main/Content/trauma-service/manual/appendix_4.pdf",
+      "Emergency Airway Management \u2014 https://www.rch.org.au/clinicalguide/guideline_index/Emergency_airway_management/",
+      "Highlights of the 2025 AHA Guidelines Update for Pediatric Basic and Advanced Life Support \u2014 https://www.ahajournals.org/doi/10.1161/CIR.0000000000001368"
+    ],
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "blob_url": "https://cmetyphoid.blob.core.windows.net/typhoidnew/SUPPORTS_EMERGENCY_ENDOTRACHEAL_TUBE_SIZING.pdf",
+    "char_count": 1385,
+    "sequence": "2b"
+  },
+  {
+    "chunk_id": "COMMON_PEDIATRIC_EMERGENCIES_RESUSCITATION_AND_ARRHYTHMIA_PEDIATRIC_CARDIAC_ARREST_CPR",
+    "pdf_source": "Common Pediatric Emergencies_fixed.pdf",
+    "topic": "COMMON PEDIATRIC EMERGENCIES",
+    "subtopic": "RESUSCITATION AND ARRHYTHMIA EMERGENCIES",
+    "sub_subtopic": "PEDIATRIC CARDIAC ARREST CPR DEFIBRILLATION AND MEDICATION SEQUENCE",
+    "heading_path": "COMMON PEDIATRIC EMERGENCIES;RESUSCITATION AND ARRHYTHMIA EMERGENCIES;PEDIATRIC CARDIAC ARREST CPR DEFIBRILLATION AND MEDICATION SEQUENCE;",
+    "references": [
+      "Highlights of the 2025 AHA Guidelines for CPR and ECC \u2014 https://cpr.heart.org/-/media/CPR- Files/2025-documents-for-cpr-heart-edits- posting/ResuscitationScience/252500_Hghlghts_2025ECCGuidelines.pdf?sc_lang=en",
+      "AHA 2025 Algorithms landing page (pediatric BLS and PALS) \u2014 https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/algorithms",
+      "IAP Standard Treatment Guidelines: CPR and BLS in office practice \u2014 https://iapindia.org/pdf/Ch055-stg-CPR-BLS-in-office-practice.pdf",
+      "AHA 2025 Pediatric Cardiac Arrest Algorithm (PALS CA) \u2014 https://cpr.heart.org/- /media/CPRFiles/CPR-Guidelines-Files/2025-Algorithms/Algorithm-PALS-CA-250123.pdf?sc_lang=en"
+    ],
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "blob_url": "https://cmetyphoid.blob.core.windows.net/typhoidnew/COMMON_PEDIATRIC_EMERGENCIES_RESUSCITATION_AND_ARRHYTHMIA_PEDIATRIC_CARDIAC_ARREST_CPR.pdf",
+    "char_count": 1593,
+    "sequence": "2i1"
+  },
+  {
+    "chunk_id": "COMMON_PEDIATRIC_EMERGENCIES_RESUSCITATION_AND_ARRHYTHMIA_POST_ROSC_STABILIZATION_TARGETS",
+    "pdf_source": "Common Pediatric Emergencies_fixed.pdf",
+    "topic": "COMMON PEDIATRIC EMERGENCIES",
+    "subtopic": "RESUSCITATION AND ARRHYTHMIA EMERGENCIES",
+    "sub_subtopic": "POST ROSC STABILIZATION TARGETS AND TRANSFER READY CHECKLIST",
+    "heading_path": "COMMON PEDIATRIC EMERGENCIES;RESUSCITATION AND ARRHYTHMIA EMERGENCIES;POST ROSC STABILIZATION TARGETS AND TRANSFER READY CHECKLIST;",
+    "references": [
+      "AHA 2025 Components of Post\u2013Cardiac Arrest Care Checklist (PALS PCAC) \u2014 https://cpr.heart.org//media/CPR-Files/CPR-Guidelines-Files/2025-Algorithms/Checklist-PALS- PCAC250213.pdf?sc_lang=en",
+      "https://www.ahajournals.org/doi/10.1161/CIR.0000000000001368",
+      "https://www.ahajournals.org/doi/10.1161/CIR.0000000000000697 - AHA 2025 Algorithms landing Pediatric post\u2013cardiac arrest care scientific statement (Topjian 2019) \u2014 Part 8: Pediatric Advanced Life Support: 2025 AHA Guidelines \u2014 page (post-cardiac arrest resources) \u2014 https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc- guidelines/algorithms",
+      "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-"
+    ],
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "blob_url": "https://cmetyphoid.blob.core.windows.net/typhoidnew/COMMON_PEDIATRIC_EMERGENCIES_RESUSCITATION_AND_ARRHYTHMIA_POST_ROSC_STABILIZATION_TARGETS.pdf",
+    "char_count": 1565,
+    "sequence": "2j2"
+  },
+  {
+    "chunk_id": "COMMON_PEDIATRIC_EMERGENCIES_RESUSCITATION_AND_ARRHYTHMIA_BRADYCARDIA_AND_TACHYARRHYTHMIA",
+    "pdf_source": "Common Pediatric Emergencies_fixed.pdf",
+    "topic": "COMMON PEDIATRIC EMERGENCIES",
+    "subtopic": "RESUSCITATION AND ARRHYTHMIA EMERGENCIES",
+    "sub_subtopic": "BRADYCARDIA AND TACHYARRHYTHMIA WITH A PULSE EMERGENCY DECISIONS",
+    "heading_path": "COMMON PEDIATRIC EMERGENCIES;RESUSCITATION AND ARRHYTHMIA EMERGENCIES;BRADYCARDIA AND TACHYARRHYTHMIA WITH A PULSE EMERGENCY DECISIONS;",
+    "references": [
+      "AHA 2025 Pediatric Bradycardia With a Pulse Algorithm \u2014 https://cpr.heart.org/- /media/CPRFiles/CPR-Guidelines-Files/2025-Algorithms/Algorithm-PALS-Bradycardia- 250121.pdf?sc_lang=en",
+      "IAP Standard Treatment Guidelines: Supraventricular tachycardia \u2014 https://iapindia.org/pdf/Ch- 036-STG-supraventricular-tachycardia.pdf",
+      "Part 8: Pediatric Advanced Life Support: 2025 AHA Guidelines \u2014 https://www.ahajournals.org/doi/10.1161/CIR.0000000000001368",
+      "AHA 2025 Pediatric Tachyarrhythmia With a Pulse Algorithm \u2014 https://cpr.heart.org/- /media/CPRFiles/CPR-Guidelines-Files/2025-Algorithms/Algorithm-PALS- Tachyarrhythmia250117.pdf?sc_lang=en"
+    ],
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "blob_url": "https://cmetyphoid.blob.core.windows.net/typhoidnew/COMMON_PEDIATRIC_EMERGENCIES_RESUSCITATION_AND_ARRHYTHMIA_BRADYCARDIA_AND_TACHYARRHYTHMIA.pdf",
+    "char_count": 1533,
+    "sequence": "2k3"
+  },
+  {
+    "chunk_id": "COMMON_PEDIATRIC_EMERGENCIES_ACUTE_AIRWAY_AND_RESPIRATORY_STRIDOR_DIFFERENTIAL_DIAGNOSIS_AND",
+    "pdf_source": "Common Pediatric Emergencies_fixed.pdf",
+    "topic": "COMMON PEDIATRIC EMERGENCIES",
+    "subtopic": "ACUTE AIRWAY AND RESPIRATORY EMERGENCIES",
+    "sub_subtopic": "STRIDOR DIFFERENTIAL DIAGNOSIS AND CROUP EMERGENCY TREATMENT",
+    "heading_path": "COMMON PEDIATRIC EMERGENCIES;ACUTE AIRWAY AND RESPIRATORY EMERGENCIES;STRIDOR DIFFERENTIAL DIAGNOSIS AND CROUP EMERGENCY TREATMENT;",
+    "references": [
+      "IAP Standard Treatment Guidelines: Croup in children \u2014 https://iapindia.org/pdf/Ch-010-croup- inchildren.pdf",
+      "Royal Children\u2019s Hospital: Acute upper airway obstruction guideline \u2014 https://www.rch.org.au/clinicalguide/guideline_index/acute_upper_airway_obstruction/",
+      "IAP Standard Treatment Guidelines: Acute epiglottitis \u2014 https://iapindia.org/pdf/Ch-058-stg- acuteepiglottitis.pdf",
+      "Royal Children\u2019s Hospital: Croup (laryngotracheobronchitis) guideline \u2014 https://www.rch.org.au/clinicalguide/guideline_index/croup_laryngotracheobronchitis/"
+    ],
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "blob_url": "https://cmetyphoid.blob.core.windows.net/typhoidnew/COMMON_PEDIATRIC_EMERGENCIES_ACUTE_AIRWAY_AND_RESPIRATORY_STRIDOR_DIFFERENTIAL_DIAGNOSIS_AND.pdf",
+    "char_count": 1574,
+    "sequence": "2m1"
+  },
+  {
+    "chunk_id": "COMMON_PEDIATRIC_EMERGENCIES_ACUTE_AIRWAY_AND_RESPIRATORY_BRONCHIOLITIS_SUPPORTIVE_CARE_part0",
+    "pdf_source": "Common Pediatric Emergencies_fixed.pdf",
+    "topic": "COMMON PEDIATRIC EMERGENCIES",
+    "subtopic": "ACUTE AIRWAY AND RESPIRATORY EMERGENCIES",
+    "sub_subtopic": "BRONCHIOLITIS SUPPORTIVE CARE OXYGEN THRESHOLDS AND RESPIRATORY SUPPORT ESCALATION",
+    "heading_path": "COMMON PEDIATRIC EMERGENCIES;ACUTE AIRWAY AND RESPIRATORY EMERGENCIES;BRONCHIOLITIS SUPPORTIVE CARE OXYGEN THRESHOLDS AND RESPIRATORY SUPPORT ESCALATION;",
+    "references": [
+      "https://www.nice.org.uk/guidance/ng9/chapter/recommendations",
+      "https://www.rch.org.au/clinicalguide/guideline_index/Bronchiolitis/",
+      "https://portaldeboaspraticas.iff.fiocruz.br/wp-content/uploads/2019/04/e1474.full_.pdf",
+      "https://iapindia.org/pdf/Ch-027Bronchiolitis.pdf"
+    ],
+    "chunk_index": 0,
+    "total_chunks": 2,
+    "blob_url": "https://cmetyphoid.blob.core.windows.net/typhoidnew/COMMON_PEDIATRIC_EMERGENCIES_ACUTE_AIRWAY_AND_RESPIRATORY_BRONCHIOLITIS_SUPPORTIVE_CARE_part0.pdf",
+    "char_count": 1529,
+    "sequence": "2n2.1"
+  },
+  {
+    "chunk_id": "COMMON_PEDIATRIC_EMERGENCIES_ACUTE_AIRWAY_AND_RESPIRATORY_BRONCHIOLITIS_SUPPORTIVE_CARE_part1",
+    "pdf_source": "Common Pediatric Emergencies_fixed.pdf",
+    "topic": "COMMON PEDIATRIC EMERGENCIES",
+    "subtopic": "ACUTE AIRWAY AND RESPIRATORY EMERGENCIES",
+    "sub_subtopic": "BRONCHIOLITIS SUPPORTIVE CARE OXYGEN THRESHOLDS AND RESPIRATORY SUPPORT ESCALATION",
+    "heading_path": "COMMON PEDIATRIC EMERGENCIES;ACUTE AIRWAY AND RESPIRATORY EMERGENCIES;BRONCHIOLITIS SUPPORTIVE CARE OXYGEN THRESHOLDS AND RESPIRATORY SUPPORT ESCALATION;",
+    "references": [
+      "https://www.nice.org.uk/guidance/ng9/chapter/recommendations",
+      "https://www.rch.org.au/clinicalguide/guideline_index/Bronchiolitis/",
+      "https://portaldeboaspraticas.iff.fiocruz.br/wp-content/uploads/2019/04/e1474.full_.pdf",
+      "https://iapindia.org/pdf/Ch-027Bronchiolitis.pdf"
+    ],
+    "chunk_index": 1,
+    "total_chunks": 2,
+    "blob_url": "https://cmetyphoid.blob.core.windows.net/typhoidnew/COMMON_PEDIATRIC_EMERGENCIES_ACUTE_AIRWAY_AND_RESPIRATORY_BRONCHIOLITIS_SUPPORTIVE_CARE_part1.pdf",
+    "char_count": 550,
+    "sequence": "2n2.2"
+  },
+  {
+    "chunk_id": "COMMON_PEDIATRIC_EMERGENCIES_ACUTE_AIRWAY_AND_RESPIRATORY_ACUTE_SEVERE_ASTHMA_STEPWISE",
+    "pdf_source": "Common Pediatric Emergencies_fixed.pdf",
+    "topic": "COMMON PEDIATRIC EMERGENCIES",
+    "subtopic": "ACUTE AIRWAY AND RESPIRATORY EMERGENCIES",
+    "sub_subtopic": "ACUTE SEVERE ASTHMA STEPWISE BRONCHODILATOR ESCALATION AND PICU TRANSFER TRIGGERS",
+    "heading_path": "COMMON PEDIATRIC EMERGENCIES;ACUTE AIRWAY AND RESPIRATORY EMERGENCIES;ACUTE SEVERE ASTHMA STEPWISE BRONCHODILATOR ESCALATION AND PICU TRANSFER TRIGGERS;",
+    "references": [
+      "https://ginasthma.org/wpcontent/uploads/2025/05/GINA-Summary-Guide-2025-WEB-WMS.pdf",
+      "Canadian Paediatric Society: Managing an acute asthma exacerbation in children \u2014 https://cps.ca/en/documents/position/managing-an-acute-asthma-exacerbation IAP Standard Treatment Guidelines: Bronchial asthma \u2014 https://iapindia.org/pdf/Ch-035- IAP Standard Treatment Guidelines: Under 5 wheeze \u2014 https://iapindia.org/pdf/Ch-045- GINA 2025 Summary Guide for Asthma Management and Prevention \u2014",
+      "https://iapindia.org/pdf/Ch-035-",
+      "https://iapindia.org/pdf/Ch-045-",
+      "STGbronchial-asthma.pdf",
+      "Under-5Wheeze.pdf"
+    ],
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "blob_url": "https://cmetyphoid.blob.core.windows.net/typhoidnew/COMMON_PEDIATRIC_EMERGENCIES_ACUTE_AIRWAY_AND_RESPIRATORY_ACUTE_SEVERE_ASTHMA_STEPWISE.pdf",
+    "char_count": 1741,
+    "sequence": "2o3"
+  },
+  {
+    "chunk_id": "COMMON_PEDIATRIC_EMERGENCIES_ACUTE_AIRWAY_AND_RESPIRATORY_DISCHARGE_PLANNING_AFTER_ASTHMA",
+    "pdf_source": "Common Pediatric Emergencies_fixed.pdf",
+    "topic": "COMMON PEDIATRIC EMERGENCIES",
+    "subtopic": "ACUTE AIRWAY AND RESPIRATORY EMERGENCIES",
+    "sub_subtopic": "DISCHARGE PLANNING AFTER ASTHMA EXACERBATION WITH CONTROLLER THERAPY AND ACTION PLAN",
+    "heading_path": "COMMON PEDIATRIC EMERGENCIES;ACUTE AIRWAY AND RESPIRATORY EMERGENCIES;DISCHARGE PLANNING AFTER ASTHMA EXACERBATION WITH CONTROLLER THERAPY AND ACTION PLAN;",
+    "references": [
+      "GINA 2025 Summary Guide for Asthma Management and Prevention \u2014 https://ginasthma.org/wpcontent/uploads/2025/05/GINA-Summary-Guide-2025-WEB-WMS.pdf",
+      "IAP Standard Treatment Guidelines: Bronchial asthma \u2014 https://iapindia.org/pdf/Ch-035- STGbronchial-asthma.pdf",
+      "IAP Standard Treatment Guidelines: Under 5 wheeze \u2014 https://iapindia.org/pdf/Ch-045-Under- 5Wheeze.pdf",
+      "Royal Children\u2019s Hospital: Acute asthma guideline \u2014 https://www.rch.org.au/clinicalguide/guideline_index/Asthma_acute/"
+    ],
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "blob_url": "https://cmetyphoid.blob.core.windows.net/typhoidnew/COMMON_PEDIATRIC_EMERGENCIES_ACUTE_AIRWAY_AND_RESPIRATORY_DISCHARGE_PLANNING_AFTER_ASTHMA.pdf",
+    "char_count": 1624,
+    "sequence": "2p4"
+  },
+  {
+    "chunk_id": "COMMON_PEDIATRIC_EMERGENCIES_ACUTE_AIRWAY_AND_RESPIRATORY_COMMUNITY_ACQUIRED_PNEUMONIA",
+    "pdf_source": "Common Pediatric Emergencies_fixed.pdf",
+    "topic": "COMMON PEDIATRIC EMERGENCIES",
+    "subtopic": "ACUTE AIRWAY AND RESPIRATORY EMERGENCIES",
+    "sub_subtopic": "COMMUNITY ACQUIRED PNEUMONIA TRIAGE AND OUTPATIENT ANTIBIOTIC DOSE SELECTION",
+    "heading_path": "COMMON PEDIATRIC EMERGENCIES;ACUTE AIRWAY AND RESPIRATORY EMERGENCIES;COMMUNITY ACQUIRED PNEUMONIA TRIAGE AND OUTPATIENT ANTIBIOTIC DOSE SELECTION;",
+    "references": [
+      "https://iapindia.org/pdf/Ch-011-Community-Acquired-Pneumonia.pdf - WHO IMCI chart booklet: pneumonia classification and referral triggers \u2014 https://cdn.who.int/media/docs/default- source/mca-documents/child/imci-integratedmanagement-of-childhood-illness/imci-in-service- training/imci-chart-booklet.pdf?sfvrsn=f63af425_1 - ICMR treatment guidelines for antimicrobial use in common syndromes (2019) \u2014 https://www.icmr.gov.in/icmrobject/custom_data/pdf/resourceguidelines/Treatment_Guidelines_20 19_Final.pdf",
+      "https://cdn.who.int/media/docs/default-",
+      "https://www.icmr.gov.in/icmrobject/custom_data/pdf/resourceguidelines/Treatment_Guidelines_20",
+      "IDSA/PIDS guideline: community-acquired pneumonia in infants and children (2011) \u2014 https://www.idsociety.org/practice-guideline/community-acquired-pneumonia-cap-in-infants- andchildren/"
+    ],
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "blob_url": "https://cmetyphoid.blob.core.windows.net/typhoidnew/COMMON_PEDIATRIC_EMERGENCIES_ACUTE_AIRWAY_AND_RESPIRATORY_COMMUNITY_ACQUIRED_PNEUMONIA.pdf",
+    "char_count": 1598,
+    "sequence": "2q5"
+  },
+  {
+    "chunk_id": "COMMON_PEDIATRIC_EMERGENCIES_ACUTE_AIRWAY_AND_RESPIRATORY_INPATIENT_PNEUMONIA_ANTIBIOTIC",
+    "pdf_source": "Common Pediatric Emergencies_fixed.pdf",
+    "topic": "COMMON PEDIATRIC EMERGENCIES",
+    "subtopic": "ACUTE AIRWAY AND RESPIRATORY EMERGENCIES",
+    "sub_subtopic": "INPATIENT PNEUMONIA ANTIBIOTIC ESCALATION AND NONRESPONSE AT 48 TO 72 HOURS",
+    "heading_path": "COMMON PEDIATRIC EMERGENCIES;ACUTE AIRWAY AND RESPIRATORY EMERGENCIES;INPATIENT PNEUMONIA ANTIBIOTIC ESCALATION AND NONRESPONSE AT 48 TO 72 HOURS;",
+    "references": [
+      "IAP Standard Treatment Guidelines: Community acquired pneumonia \u2014 https://iapindia.org/pdf/Ch-011-Community-Acquired-Pneumonia.pdf",
+      "ICMR AMRTG: guidance for antimicrobial selection based on Indian resistance patterns \u2014 https://amrtg.icmr.org.in/",
+      "Royal Children\u2019s Hospital: Pneumonia guideline \u2014 https://www.rch.org.au/clinicalguide/guideline_index/Pneumonia/ - IAP Standard Treatment Guidelines: Empyema (complicated pneumonia) \u2014 https://iapindia.org/pdf/Ch-029-STG-Empyema.pdf",
+      "https://iapindia.org/pdf/Ch-029-STG-Empyema.pdf"
+    ],
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "blob_url": "https://cmetyphoid.blob.core.windows.net/typhoidnew/COMMON_PEDIATRIC_EMERGENCIES_ACUTE_AIRWAY_AND_RESPIRATORY_INPATIENT_PNEUMONIA_ANTIBIOTIC.pdf",
+    "char_count": 1669,
+    "sequence": "2r6"
+  },
+  {
+    "chunk_id": "COMMON_PEDIATRIC_EMERGENCIES_ACUTE_AIRWAY_AND_RESPIRATORY_PNEUMOTHORAX_RECOGNITION_NEEDLE",
+    "pdf_source": "Common Pediatric Emergencies_fixed.pdf",
+    "topic": "COMMON PEDIATRIC EMERGENCIES",
+    "subtopic": "ACUTE AIRWAY AND RESPIRATORY EMERGENCIES",
+    "sub_subtopic": "PNEUMOTHORAX RECOGNITION NEEDLE DECOMPRESSION AND CHEST DRAIN TRANSFER CRITERIA",
+    "heading_path": "COMMON PEDIATRIC EMERGENCIES;ACUTE AIRWAY AND RESPIRATORY EMERGENCIES;PNEUMOTHORAX RECOGNITION NEEDLE DECOMPRESSION AND CHEST DRAIN TRANSFER CRITERIA;",
+    "references": [
+      "Pneumothorax in Children (IAP Standard Treatment Guidelines) \u2014 https://iapindia.org/pdf/Ch-052- stg-pneumothorax-in-children.pdf",
+      "Management of Pneumothorax and Hemothorax (RCH Trauma Guideline) \u2014 https://www.rch.org.au/trauma-service/manual/management_of_pneumothorax_and_hemothorax/",
+      "Highlights of the 2025 AHA Guidelines Update for Pediatric Basic and Advanced Life Support \u2014 https://www.ahajournals.org/doi/10.1161/CIR.0000000000001368"
+    ],
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "blob_url": "https://cmetyphoid.blob.core.windows.net/typhoidnew/COMMON_PEDIATRIC_EMERGENCIES_ACUTE_AIRWAY_AND_RESPIRATORY_PNEUMOTHORAX_RECOGNITION_NEEDLE.pdf",
+    "char_count": 1567,
+    "sequence": "2s7"
+  },
+  {
+    "chunk_id": "COMMON_PEDIATRIC_EMERGENCIES_ANAPHYLAXIS_EMERGENCY_RECOGNITION_INTRAMUSCULAR_EPINEPHRINE_DOSING",
+    "pdf_source": "Common Pediatric Emergencies_fixed.pdf",
+    "topic": "COMMON PEDIATRIC EMERGENCIES",
+    "subtopic": "ANAPHYLAXIS EMERGENCY RECOGNITION AND EPINEPHRINE THERAPY",
+    "sub_subtopic": "INTRAMUSCULAR EPINEPHRINE DOSING FLUID RESUSCITATION AND OBSERVATION DECISIONS",
+    "heading_path": "COMMON PEDIATRIC EMERGENCIES;ANAPHYLAXIS EMERGENCY RECOGNITION AND EPINEPHRINE THERAPY;INTRAMUSCULAR EPINEPHRINE DOSING FLUID RESUSCITATION AND OBSERVATION DECISIONS;",
+    "references": [
+      "IAP Standard Treatment Guidelines: Anaphylaxis \u2014 https://iapindia.org/pdf/gepAz6wsH5c3B2r_Standard-Treatment-Guidelines-Anaphylaxis.pdf",
+      "World Allergy Organization Anaphylaxis Guidance 2020 \u2014 https://www.worldallergyorganizationjournal.org/article/S1939-4551%2820%2930375-6/fulltext",
+      "Royal Children\u2019s Hospital: Anaphylaxis guideline \u2014 https://www.rch.org.au/clinicalguide/guideline_index/anaphylaxis/ - NIAID/FAAN consensus criteria for anaphylaxis (summary PDF) \u2014 https://www.med.unc.edu/casp/wp-content/uploads/sites/563/2021/01/NIAID.FAAN- AnaphylaxisCriteria-.pdf",
+      "https://www.med.unc.edu/casp/wp-content/uploads/sites/563/2021/01/NIAID.FAAN-"
+    ],
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "blob_url": "https://cmetyphoid.blob.core.windows.net/typhoidnew/COMMON_PEDIATRIC_EMERGENCIES_ANAPHYLAXIS_EMERGENCY_RECOGNITION_INTRAMUSCULAR_EPINEPHRINE_DOSING.pdf",
+    "char_count": 1614,
+    "sequence": "2u1"
+  },
+  {
+    "chunk_id": "COMMON_PEDIATRIC_EMERGENCIES_SHOCK_SEPSIS_AND_DENGUE_EARLY_SHOCK_RECOGNITION_FLUID",
+    "pdf_source": "Common Pediatric Emergencies_fixed.pdf",
+    "topic": "COMMON PEDIATRIC EMERGENCIES",
+    "subtopic": "SHOCK SEPSIS AND DENGUE HEMODYNAMIC EMERGENCIES",
+    "sub_subtopic": "EARLY SHOCK RECOGNITION FLUID TITRATION AND VASOACTIVE SELECTION IN CHILDREN",
+    "heading_path": "COMMON PEDIATRIC EMERGENCIES;SHOCK SEPSIS AND DENGUE HEMODYNAMIC EMERGENCIES;EARLY SHOCK RECOGNITION FLUID TITRATION AND VASOACTIVE SELECTION IN CHILDREN;",
+    "references": [
+      "https://iapindia.org/pdf/Ch-",
+      "guidelines (2020) \u2014 https://journals.lww.com/pccmjournal/fulltext/2020/02000/surviving_sepsis_campaign_internation al_guidelines.1.aspx",
+      "WHO Pocket Book of Hospital Care for Children: Shock assessment and treatment \u2014 https://unicefintercluster.net/cpaor/sites/default/files/cp/WHO-2005-Pocketbook-of-hospital- carefor-children.pdf",
+      "https://www.ahajournals.org/doi/10.1161/CIR.0000000000001368 Surviving Sepsis Campaign: Pediatric septic shock and sepsis-associated organ dysfunction Part 8: Pediatric Advanced Life Support: 2025 AHA Guidelines \u2014",
+      "073Shock-in-Office-Practice.pdf"
+    ],
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "blob_url": "https://cmetyphoid.blob.core.windows.net/typhoidnew/COMMON_PEDIATRIC_EMERGENCIES_SHOCK_SEPSIS_AND_DENGUE_EARLY_SHOCK_RECOGNITION_FLUID.pdf",
+    "char_count": 1700,
+    "sequence": "2w1"
+  },
+  {
+    "chunk_id": "COMMON_PEDIATRIC_EMERGENCIES_SHOCK_SEPSIS_AND_DENGUE_SEPSIS_ANTIBIOTIC_BUNDLE_TIMING",
+    "pdf_source": "Common Pediatric Emergencies_fixed.pdf",
+    "topic": "COMMON PEDIATRIC EMERGENCIES",
+    "subtopic": "SHOCK SEPSIS AND DENGUE HEMODYNAMIC EMERGENCIES",
+    "sub_subtopic": "SEPSIS ANTIBIOTIC BUNDLE TIMING CULTURE COLLECTION AND DEESCALATION STRATEGY",
+    "heading_path": "COMMON PEDIATRIC EMERGENCIES;SHOCK SEPSIS AND DENGUE HEMODYNAMIC EMERGENCIES;SEPSIS ANTIBIOTIC BUNDLE TIMING CULTURE COLLECTION AND DEESCALATION STRATEGY;",
+    "references": [
+      "Surviving Sepsis Campaign International Guidelines for Children (2020) \u2014 https://journals.lww.com/pccmjournal/fulltext/2020/02000/surviving_sepsis_campaign_internation al_guidelines.20.aspx",
+      "National Treatment Guidelines for Antimicrobial Use in Infectious Disease Syndromes 2025 \u2014 https://ncdc.mohfw.gov.in/wp-content/uploads/2025/12/National-Treatment-Guidelines-for-AMU- in-ID-syndromes-2025.pdf",
+      "ICMR Antimicrobial Resistance Treatment Guidelines Portal \u2014 https://amrtg.icmr.org.in/"
+    ],
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "blob_url": "https://cmetyphoid.blob.core.windows.net/typhoidnew/COMMON_PEDIATRIC_EMERGENCIES_SHOCK_SEPSIS_AND_DENGUE_SEPSIS_ANTIBIOTIC_BUNDLE_TIMING.pdf",
+    "char_count": 1841,
+    "sequence": "2x2"
+  },
+  {
+    "chunk_id": "COMMON_PEDIATRIC_EMERGENCIES_SHOCK_SEPSIS_AND_DENGUE_SEVERE_MALARIA_RECOGNITION",
+    "pdf_source": "Common Pediatric Emergencies_fixed.pdf",
+    "topic": "COMMON PEDIATRIC EMERGENCIES",
+    "subtopic": "SHOCK SEPSIS AND DENGUE HEMODYNAMIC EMERGENCIES",
+    "sub_subtopic": "SEVERE MALARIA RECOGNITION ARTESUNATE DOSING AND FIRST HOUR COINTERVENTIONS",
+    "heading_path": "COMMON PEDIATRIC EMERGENCIES;SHOCK SEPSIS AND DENGUE HEMODYNAMIC EMERGENCIES;SEVERE MALARIA RECOGNITION ARTESUNATE DOSING AND FIRST HOUR COINTERVENTIONS;",
+    "references": [
+      "Malaria Drug Policy 2013 \u2014 https://ncvbdc.mohfw.gov.in/Doc/National-Drug-Policy-2013.pdf Run ##ABCDE## stabilization and treat common co-threats in parallel with diagnostics. Check Transfer early when there is persistent altered sensorium, recurrent seizures, escalating Confirm malaria urgently with smear and/or ##RDT##, but do not wait for confirmation",
+      "Malaria (IAP Standard Treatment Guidelines) \u2014 https://iapindia.org/pdf/Ch-095-malaria.pdf",
+      "WHO Guidelines for Malaria \u2014 https://www.who.int/publications/i/item/guidelines-for-malaria"
+    ],
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "blob_url": "https://cmetyphoid.blob.core.windows.net/typhoidnew/COMMON_PEDIATRIC_EMERGENCIES_SHOCK_SEPSIS_AND_DENGUE_SEVERE_MALARIA_RECOGNITION.pdf",
+    "char_count": 1485,
+    "sequence": "2y3"
+  },
+  {
+    "chunk_id": "COMMON_PEDIATRIC_EMERGENCIES_SHOCK_SEPSIS_AND_DENGUE_DENGUE_WARNING_SIGN_RECOGNITION",
+    "pdf_source": "Common Pediatric Emergencies_fixed.pdf",
+    "topic": "COMMON PEDIATRIC EMERGENCIES",
+    "subtopic": "SHOCK SEPSIS AND DENGUE HEMODYNAMIC EMERGENCIES",
+    "sub_subtopic": "DENGUE WARNING SIGN RECOGNITION AND FLUID MANAGEMENT DURING THE CRITICAL PHASE",
+    "heading_path": "COMMON PEDIATRIC EMERGENCIES;SHOCK SEPSIS AND DENGUE HEMODYNAMIC EMERGENCIES;DENGUE WARNING SIGN RECOGNITION AND FLUID MANAGEMENT DURING THE CRITICAL PHASE;",
+    "references": [
+      "\u2014 https://ncvbdc.mohfw.gov.in/WriteReadData/l892s/42616651361605607948.pdf",
+      "WHO: Dengue guidelines for diagnosis, treatment, prevention and control (2009) \u2014 https://iris.who.int/handle/10665/44188",
+      "https://iapindia.org/pdf/Ch-073-Shock-in-Office-Practice.pdf IAP Standard Treatment Guidelines: Shock in office practice (dengue shock physiology) \u2014 IAP Standard Treatment Guidelines: Dengue \u2014 https://iapindia.org/pdf/Ch-012-Dengue.pdf -",
+      "https://iapindia.org/pdf/Ch-012-Dengue.pdf"
+    ],
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "blob_url": "https://cmetyphoid.blob.core.windows.net/typhoidnew/COMMON_PEDIATRIC_EMERGENCIES_SHOCK_SEPSIS_AND_DENGUE_DENGUE_WARNING_SIGN_RECOGNITION.pdf",
+    "char_count": 1698,
+    "sequence": "2z4"
+  },
+  {
+    "chunk_id": "COMMON_PEDIATRIC_EMERGENCIES_SHOCK_SEPSIS_AND_DENGUE_HEMODYNAMIC",
+    "pdf_source": "Common Pediatric Emergencies_fixed.pdf",
+    "topic": "COMMON PEDIATRIC EMERGENCIES",
+    "subtopic": "SHOCK SEPSIS AND DENGUE HEMODYNAMIC",
+    "sub_subtopic": null,
+    "heading_path": "COMMON PEDIATRIC EMERGENCIES;SHOCK SEPSIS AND DENGUE HEMODYNAMIC",
+    "references": [],
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "blob_url": "https://cmetyphoid.blob.core.windows.net/typhoidnew/COMMON_PEDIATRIC_EMERGENCIES_SHOCK_SEPSIS_AND_DENGUE_HEMODYNAMIC.pdf",
+    "char_count": 1,
+    "sequence": "2{"
+  },
+  {
+    "chunk_id": "EMERGENCIES_DENGUE_FLUID_RATE_TITRATION",
+    "pdf_source": "Common Pediatric Emergencies_fixed.pdf",
+    "topic": "EMERGENCIES",
+    "subtopic": "DENGUE FLUID RATE TITRATION HEMATOCRIT GUIDED TRANSFUSION AND RECOVERY PHASE STOP POINTS",
+    "sub_subtopic": null,
+    "heading_path": "EMERGENCIES;DENGUE FLUID RATE TITRATION HEMATOCRIT GUIDED TRANSFUSION AND RECOVERY PHASE STOP POINTS;",
+    "references": [
+      "National Guidelines for Clinical Management of Dengue Fever 2023 \u2014 https://cdn.who.int/media/docs/default-source/searo/india/publications/national-guidelines- clinical-management-dengue1.pdf?sfvrsn=8b01bb03_2",
+      "Dengue Fever Standard Treatment Workflow (ICMR) \u2014 https://www.icmr.gov.in/icmrobject/uploads/STWs/1725952338_paediatrics_dengue_fever.pdf",
+      "Dengue in Children (IAP Standard Treatment Guidelines) \u2014 https://iapindia.org/pdf/Ch-138- Dengue-in-Children.pdf"
+    ],
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "blob_url": "https://cmetyphoid.blob.core.windows.net/typhoidnew/EMERGENCIES_DENGUE_FLUID_RATE_TITRATION.pdf",
+    "char_count": 1686,
+    "sequence": "3a"
+  },
+  {
+    "chunk_id": "COMMON_PEDIATRIC_EMERGENCIES_SHOCK_SEPSIS_AND_DENGUE_SEVERE_ACUTE_MALNUTRITION",
+    "pdf_source": "Common Pediatric Emergencies_fixed.pdf",
+    "topic": "COMMON PEDIATRIC EMERGENCIES",
+    "subtopic": "SHOCK SEPSIS AND DENGUE HEMODYNAMIC EMERGENCIES",
+    "sub_subtopic": "SEVERE ACUTE MALNUTRITION MODIFICATIONS IN SHOCK SEPSIS AND DEHYDRATION",
+    "heading_path": "COMMON PEDIATRIC EMERGENCIES;SHOCK SEPSIS AND DENGUE HEMODYNAMIC EMERGENCIES;SEVERE ACUTE MALNUTRITION MODIFICATIONS IN SHOCK SEPSIS AND DEHYDRATION;",
+    "references": [
+      "WHO: Updates on the management of severe acute malnutrition in infants and children (Pocket Book) \u2014 https://www.ncbi.nlm.nih.gov/books/NBK154447/ - WHO eLENA: Management of shock in severe acute malnutrition \u2014 https://www.who.int/tools/elena/interventions/shock-sam",
+      "https://www.who.int/tools/elena/interventions/shock-sam",
+      "IAP guideline: Severe acute malnutrition (India) \u2014 https://iapindia.org/pdf/IAP- GuidelineManagement-of-SAM.pdf",
+      "MoHFW: Facility-based management of children with severe acute malnutrition (participant manual) \u2014 https://nhm.gov.in/images/pdf/programmes/child- health/guidelines/facility_based_management_of_children_with_sam_participant_manual.pdf"
+    ],
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "blob_url": "https://cmetyphoid.blob.core.windows.net/typhoidnew/COMMON_PEDIATRIC_EMERGENCIES_SHOCK_SEPSIS_AND_DENGUE_SEVERE_ACUTE_MALNUTRITION.pdf",
+    "char_count": 1677,
+    "sequence": "3|5"
+  },
+  {
+    "chunk_id": "COMMON_PEDIATRIC_EMERGENCIES_NEUROLOGIC_AND_METABOLIC_UNDIFFERENTIATED_ALTERED_SENSORIUM",
+    "pdf_source": "Common Pediatric Emergencies_fixed.pdf",
+    "topic": "COMMON PEDIATRIC EMERGENCIES",
+    "subtopic": "NEUROLOGIC AND METABOLIC EMERGENCIES WITH ALTERED SENSORIUM",
+    "sub_subtopic": "UNDIFFERENTIATED ALTERED SENSORIUM FIRST HOUR COMA PATHWAY",
+    "heading_path": "COMMON PEDIATRIC EMERGENCIES;NEUROLOGIC AND METABOLIC EMERGENCIES WITH ALTERED SENSORIUM;UNDIFFERENTIATED ALTERED SENSORIUM FIRST HOUR COMA PATHWAY;",
+    "references": [
+      "Altered Conscious State (Royal Children\u2019s Hospital Melbourne) \u2014 https://www.rch.org.au/clinicalguide/guideline_index/Altered_conscious_state/",
+      "Acute Bacterial Meningitis (IAP Standard Treatment Guidelines) \u2014 https://iapindia.org/pdf/Ch-056- stg-acute-bacterial-meningitis.pdf",
+      "Convulsive Status Epilepticus (IAP Standard Treatment Guidelines) \u2014 https://iapindia.org/pdf/Ch- 030-convulsive-status-epilepticus.pdf"
+    ],
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "blob_url": "https://cmetyphoid.blob.core.windows.net/typhoidnew/COMMON_PEDIATRIC_EMERGENCIES_NEUROLOGIC_AND_METABOLIC_UNDIFFERENTIATED_ALTERED_SENSORIUM.pdf",
+    "char_count": 1681,
+    "sequence": "3~1"
+  },
+  {
+    "chunk_id": "COMMON_PEDIATRIC_EMERGENCIES_NEUROLOGIC_AND_METABOLIC_CONVULSIVE_STATUS_EPILEPTICUS",
+    "pdf_source": "Common Pediatric Emergencies_fixed.pdf",
+    "topic": "COMMON PEDIATRIC EMERGENCIES",
+    "subtopic": "NEUROLOGIC AND METABOLIC EMERGENCIES WITH ALTERED SENSORIUM",
+    "sub_subtopic": "CONVULSIVE STATUS EPILEPTICUS BENZODIAZEPINE AND SECOND LINE ANTISEIZURE PROTOCOL",
+    "heading_path": "COMMON PEDIATRIC EMERGENCIES;NEUROLOGIC AND METABOLIC EMERGENCIES WITH ALTERED SENSORIUM;CONVULSIVE STATUS EPILEPTICUS BENZODIAZEPINE AND SECOND LINE ANTISEIZURE PROTOCOL;",
+    "references": [
+      "https://www.aesnet.org/docs/default-source/pdfs-clinical/aes-convulsive-status- epilepticustreatment-algorithm.pdf",
+      "\u2014 https://unicefintercluster.net/cpaor/sites/default/files/cp/WHO-2005-Pocketbook-of-hospital- carefor-children.pdf WHO Pocket Book of Hospital Care for Children: Convulsions and acute seizure management American Epilepsy Society guideline: Convulsive status epilepticus treatment algorithm \u2014 IAP Standard Treatment Guidelines: Status epilepticus \u2014 https://iapindia.org/pdf/Ch-014-",
+      "https://iapindia.org/pdf/Ch-014-",
+      "StatusEpilepticus.pdf"
+    ],
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "blob_url": "https://cmetyphoid.blob.core.windows.net/typhoidnew/COMMON_PEDIATRIC_EMERGENCIES_NEUROLOGIC_AND_METABOLIC_CONVULSIVE_STATUS_EPILEPTICUS.pdf",
+    "char_count": 1540,
+    "sequence": "3\u007f2"
+  },
+  {
+    "chunk_id": "COMMON_PEDIATRIC_EMERGENCIES_NEUROLOGIC_AND_METABOLIC_FEBRILE_SEIZURE_CLASSIFICATION_CNS",
+    "pdf_source": "Common Pediatric Emergencies_fixed.pdf",
+    "topic": "COMMON PEDIATRIC EMERGENCIES",
+    "subtopic": "NEUROLOGIC AND METABOLIC EMERGENCIES WITH ALTERED SENSORIUM",
+    "sub_subtopic": "FEBRILE SEIZURE CLASSIFICATION CNS INFECTION RED FLAGS AND DISCHARGE CRITERIA",
+    "heading_path": "COMMON PEDIATRIC EMERGENCIES;NEUROLOGIC AND METABOLIC EMERGENCIES WITH ALTERED SENSORIUM;FEBRILE SEIZURE CLASSIFICATION CNS INFECTION RED FLAGS AND DISCHARGE CRITERIA;",
+    "references": [
+      "Febrile Seizures (IAP Standard Treatment Guidelines) \u2014 https://iapindia.org/pdf/Ch-048-febrile- seizures.pdf",
+      "Febrile Seizures Consensus Statement (AOCN, Indian Pediatrics 2021) \u2014 https://www.indianpediatrics.net/sep2021/681.pdf",
+      "Febrile Seizures (Royal Children\u2019s Hospital Melbourne) \u2014 https://www.rch.org.au/clinicalguide/guideline_index/Febrile_seizures/"
+    ],
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "blob_url": "https://cmetyphoid.blob.core.windows.net/typhoidnew/COMMON_PEDIATRIC_EMERGENCIES_NEUROLOGIC_AND_METABOLIC_FEBRILE_SEIZURE_CLASSIFICATION_CNS.pdf",
+    "char_count": 1837,
+    "sequence": "3\u00803"
+  },
+  {
+    "chunk_id": "COMMON_PEDIATRIC_EMERGENCIES_NEUROLOGIC_AND_METABOLIC_ACUTE_BACTERIAL_MENINGITIS_EMPIRIC",
+    "pdf_source": "Common Pediatric Emergencies_fixed.pdf",
+    "topic": "COMMON PEDIATRIC EMERGENCIES",
+    "subtopic": "NEUROLOGIC AND METABOLIC EMERGENCIES WITH ALTERED SENSORIUM",
+    "sub_subtopic": "ACUTE BACTERIAL MENINGITIS EMPIRIC ANTIBIOTICS AND LUMBAR PUNCTURE TIMING",
+    "heading_path": "COMMON PEDIATRIC EMERGENCIES;NEUROLOGIC AND METABOLIC EMERGENCIES WITH ALTERED SENSORIUM;ACUTE BACTERIAL MENINGITIS EMPIRIC ANTIBIOTICS AND LUMBAR PUNCTURE TIMING;",
+    "references": [
+      "IAP Standard Treatment Guidelines: Acute bacterial meningitis \u2014 https://iapindia.org/pdf/Ch-009- Acute-Bacterial-Meningitis.pdf",
+      "WHO Pocket Book of Hospital Care for Children: Meningitis management \u2014 https://unicefintercluster.net/cpaor/sites/default/files/cp/WHO-2005-Pocketbook-of-hospital- carefor-children.pdf",
+      "NICE guideline: Bacterial meningitis and meningococcal disease recognition and management \u2014 https://www.nice.org.uk/guidance/cg102",
+      "ICMR AMRTG: antimicrobial resistance guidance for empiric therapy \u2014 https://amrtg.icmr.org.in/"
+    ],
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "blob_url": "https://cmetyphoid.blob.core.windows.net/typhoidnew/COMMON_PEDIATRIC_EMERGENCIES_NEUROLOGIC_AND_METABOLIC_ACUTE_BACTERIAL_MENINGITIS_EMPIRIC.pdf",
+    "char_count": 1562,
+    "sequence": "3\u00814"
+  },
+  {
+    "chunk_id": "COMMON_PEDIATRIC_EMERGENCIES_NEUROLOGIC_AND_METABOLIC",
+    "pdf_source": "Common Pediatric Emergencies_fixed.pdf",
+    "topic": "COMMON PEDIATRIC EMERGENCIES",
+    "subtopic": "NEUROLOGIC AND METABOLIC EMERGENCIES WITH",
+    "sub_subtopic": null,
+    "heading_path": "COMMON PEDIATRIC EMERGENCIES;NEUROLOGIC AND METABOLIC EMERGENCIES WITH",
+    "references": [],
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "blob_url": "https://cmetyphoid.blob.core.windows.net/typhoidnew/COMMON_PEDIATRIC_EMERGENCIES_NEUROLOGIC_AND_METABOLIC.pdf",
+    "char_count": 1,
+    "sequence": "3\u0082"
+  },
+  {
+    "chunk_id": "ALTERED_SENSORIUM_HYPERTENSIVE_EMERGENCY_RECOGNITION",
+    "pdf_source": "Common Pediatric Emergencies_fixed.pdf",
+    "topic": "ALTERED SENSORIUM",
+    "subtopic": "HYPERTENSIVE EMERGENCY RECOGNITION SECONDARY CAUSE SCREENING AND TITRATED REDUCTION",
+    "sub_subtopic": null,
+    "heading_path": "ALTERED SENSORIUM;HYPERTENSIVE EMERGENCY RECOGNITION SECONDARY CAUSE SCREENING AND TITRATED REDUCTION;",
+    "references": [
+      "Hypertension (IAP Standard Treatment Guidelines) \u2014 https://iapindia.org/pdf/Ch-057-stg- hypertension.pdf",
+      "Clinical Practice Guideline for Screening and Management of High Blood Pressure in Children and Adolescents (AAP 2017) \u2014 https://publications.aap.org/pediatrics/article/140/3/e20171904/3864/Clinical-Practice-Guideline- for-Screening-and",
+      "Hypertensive Crises in Children and Adolescents \u2014 https://www.frontiersin.org/journals/pediatrics/articles/10.3389/fped.2020.588911/full"
+    ],
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "blob_url": "https://cmetyphoid.blob.core.windows.net/typhoidnew/ALTERED_SENSORIUM_HYPERTENSIVE_EMERGENCY_RECOGNITION.pdf",
+    "char_count": 1601,
+    "sequence": "4a"
+  },
+  {
+    "chunk_id": "COMMON_PEDIATRIC_EMERGENCIES_NEUROLOGIC_AND_METABOLIC_HYPOGLYCEMIA_RECOGNITION_DEXTROSE",
+    "pdf_source": "Common Pediatric Emergencies_fixed.pdf",
+    "topic": "COMMON PEDIATRIC EMERGENCIES",
+    "subtopic": "NEUROLOGIC AND METABOLIC EMERGENCIES WITH ALTERED SENSORIUM",
+    "sub_subtopic": "HYPOGLYCEMIA RECOGNITION DEXTROSE BOLUS OPTIONS AND PREVENTION OF RECURRENCE",
+    "heading_path": "COMMON PEDIATRIC EMERGENCIES;NEUROLOGIC AND METABOLIC EMERGENCIES WITH ALTERED SENSORIUM;HYPOGLYCEMIA RECOGNITION DEXTROSE BOLUS OPTIONS AND PREVENTION OF RECURRENCE;",
+    "references": [
+      "WHO Pocket Book of Hospital Care for Children: Hypoglycemia management \u2014 https://unicefintercluster.net/cpaor/sites/default/files/cp/WHO-2005-Pocketbook-of-hospital- carefor-children.pdf",
+      "Royal Children\u2019s Hospital: Hypoglycaemia clinical guideline \u2014 https://www.rch.org.au/clinicalguide/guideline_index/Hypoglycaemia/ - WHO: Management of hypoglycaemia in children (evidence update) \u2014 https://pmc.ncbi.nlm.nih.gov/articles/PMC8640692/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC8640692/",
+      "IAP guideline: Severe acute malnutrition (hypoglycemia risk and prevention) \u2014 https://iapindia.org/pdf/IAP-Guideline-Management-of-SAM.pdf"
+    ],
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "blob_url": "https://cmetyphoid.blob.core.windows.net/typhoidnew/COMMON_PEDIATRIC_EMERGENCIES_NEUROLOGIC_AND_METABOLIC_HYPOGLYCEMIA_RECOGNITION_DEXTROSE.pdf",
+    "char_count": 1552,
+    "sequence": "4\u00835"
+  },
+  {
+    "chunk_id": "COMMON_PEDIATRIC_EMERGENCIES_NEUROLOGIC_AND_METABOLIC_DIABETIC_KETOACIDOSIS_CONTROLLED",
+    "pdf_source": "Common Pediatric Emergencies_fixed.pdf",
+    "topic": "COMMON PEDIATRIC EMERGENCIES",
+    "subtopic": "NEUROLOGIC AND METABOLIC EMERGENCIES WITH ALTERED SENSORIUM",
+    "sub_subtopic": "DIABETIC KETOACIDOSIS CONTROLLED REHYDRATION INSULIN TIMING AND CEREBRAL INJURY SURVEILLANCE",
+    "heading_path": "COMMON PEDIATRIC EMERGENCIES;NEUROLOGIC AND METABOLIC EMERGENCIES WITH ALTERED SENSORIUM;DIABETIC KETOACIDOSIS CONTROLLED REHYDRATION INSULIN TIMING AND CEREBRAL INJURY SURVEILLANCE;",
+    "references": [
+      "https://www.ispad.org/page/ISPADGuidelines2022",
+      "https://www.bsped.org.uk/media/1712/bsped-dka-guideline-2020.pdf",
+      "https://www.nejm.org/doi/full/10.1056/NEJMra1203367"
+    ],
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "blob_url": "https://cmetyphoid.blob.core.windows.net/typhoidnew/COMMON_PEDIATRIC_EMERGENCIES_NEUROLOGIC_AND_METABOLIC_DIABETIC_KETOACIDOSIS_CONTROLLED.pdf",
+    "char_count": 1951,
+    "sequence": "4\u00846"
+  },
+  {
+    "chunk_id": "COMMON_PEDIATRIC_EMERGENCIES_POISONING_AND_ENVENOMATION",
+    "pdf_source": "Common Pediatric Emergencies_fixed.pdf",
+    "topic": "COMMON PEDIATRIC EMERGENCIES",
+    "subtopic": "POISONING AND ENVENOMATION EMERGENCY MANAGEMENT IN INDIA",
+    "sub_subtopic": null,
+    "heading_path": "COMMON PEDIATRIC EMERGENCIES;POISONING AND ENVENOMATION EMERGENCY MANAGEMENT IN INDIA;",
+    "references": [
+      "https://iapindia.org/pdf/Ch-040-"
+    ],
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "blob_url": "https://cmetyphoid.blob.core.windows.net/typhoidnew/COMMON_PEDIATRIC_EMERGENCIES_POISONING_AND_ENVENOMATION.pdf",
+    "char_count": 179,
+    "sequence": "4\u0085"
+  },
+  {
+    "chunk_id": "COMMON_PEDIATRIC_EMERGENCIES_POISONING_AND_ENVENOMATION_TOXIDROME_RECOGNITION_AIRWAY",
+    "pdf_source": "Common Pediatric Emergencies_fixed.pdf",
+    "topic": "COMMON PEDIATRIC EMERGENCIES",
+    "subtopic": "POISONING AND ENVENOMATION EMERGENCY MANAGEMENT IN INDIA",
+    "sub_subtopic": "TOXIDROME RECOGNITION AIRWAY PROTECTION AND SAFE GASTROINTESTINAL DECONTAMINATION",
+    "heading_path": "COMMON PEDIATRIC EMERGENCIES;POISONING AND ENVENOMATION EMERGENCY MANAGEMENT IN INDIA;TOXIDROME RECOGNITION AIRWAY PROTECTION AND SAFE GASTROINTESTINAL DECONTAMINATION;",
+    "references": [
+      "IAP Standard Treatment Guidelines: Poisoning in children \u2014 https://iapindia.org/pdf/Ch-109- Poisoning-in-Children.pdf",
+      "Royal Children\u2019s Hospital: Poisoning and toxicology guideline index \u2014 https://www.rch.org.au/clinicalguide/guideline_index/Poisoning/",
+      "Management of acute organophosphorus pesticide poisoning (review, lavage risk discussion) \u2014 https://pmc.ncbi.nlm.nih.gov/articles/PMC2493390/",
+      "Tamil Nadu NHM: Handbook of poisoning management (India context) \u2014 https://www.nhm.tn.gov.in/sites/default/files/202302/Hand%20Book%20poisoning%20manageme nt.pdf"
+    ],
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "blob_url": "https://cmetyphoid.blob.core.windows.net/typhoidnew/COMMON_PEDIATRIC_EMERGENCIES_POISONING_AND_ENVENOMATION_TOXIDROME_RECOGNITION_AIRWAY.pdf",
+    "char_count": 1670,
+    "sequence": "4\u00861"
+  },
+  {
+    "chunk_id": "COMMON_PEDIATRIC_EMERGENCIES_POISONING_AND_ENVENOMATION",
+    "pdf_source": "Common Pediatric Emergencies_fixed.pdf",
+    "topic": "COMMON PEDIATRIC EMERGENCIES",
+    "subtopic": "POISONING AND ENVENOMATION EMERGENCY",
+    "sub_subtopic": null,
+    "heading_path": "COMMON PEDIATRIC EMERGENCIES;POISONING AND ENVENOMATION EMERGENCY",
+    "references": [],
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "blob_url": "https://cmetyphoid.blob.core.windows.net/typhoidnew/COMMON_PEDIATRIC_EMERGENCIES_POISONING_AND_ENVENOMATION.pdf",
+    "char_count": 88,
+    "sequence": "4\u0087"
+  },
+  {
+    "chunk_id": "MANAGEMENT_IN_INDIA_ANTIDOTE_PROTOCOLS_FOR_HIGH",
+    "pdf_source": "Common Pediatric Emergencies_fixed.pdf",
+    "topic": "MANAGEMENT IN INDIA",
+    "subtopic": "ANTIDOTE PROTOCOLS FOR HIGH FREQUENCY POISONINGS AND TRANSFER THRESHOLDS",
+    "sub_subtopic": null,
+    "heading_path": "MANAGEMENT IN INDIA;ANTIDOTE PROTOCOLS FOR HIGH FREQUENCY POISONINGS AND TRANSFER THRESHOLDS;",
+    "references": [
+      "Poisoning in Children (IAP Standard Treatment Guidelines) \u2014 https://iapindia.org/pdf/Ch-109- Poisoning-in-Children.pdf",
+      "Poisoning Acute Guidelines (Royal Children\u2019s Hospital Melbourne) \u2014 https://www.rch.org.au/clinicalguide/guideline_index/Poisoning_-_Acute_Guidelines/",
+      "Tricyclic Antidepressant Poisoning (Royal Children\u2019s Hospital Melbourne) \u2014 https://www.rch.org.au/clinicalguide/guideline_index/Tricyclic_antidepressant_TCA_poisoning/"
+    ],
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "blob_url": "https://cmetyphoid.blob.core.windows.net/typhoidnew/MANAGEMENT_IN_INDIA_ANTIDOTE_PROTOCOLS_FOR_HIGH.pdf",
+    "char_count": 1570,
+    "sequence": "5a"
+  },
+  {
+    "chunk_id": "COMMON_PEDIATRIC_EMERGENCIES_POISONING_AND_ENVENOMATION_PARACETAMOL_TOXICITY_RISK",
+    "pdf_source": "Common Pediatric Emergencies_fixed.pdf",
+    "topic": "COMMON PEDIATRIC EMERGENCIES",
+    "subtopic": "POISONING AND ENVENOMATION EMERGENCY MANAGEMENT IN INDIA",
+    "sub_subtopic": "PARACETAMOL TOXICITY RISK STRATIFICATION NAC INFUSION AND SAFE DISCHARGE PLANNING",
+    "heading_path": "COMMON PEDIATRIC EMERGENCIES;POISONING AND ENVENOMATION EMERGENCY MANAGEMENT IN INDIA;PARACETAMOL TOXICITY RISK STRATIFICATION NAC INFUSION AND SAFE DISCHARGE PLANNING;",
+    "references": [
+      "Paracetamol Poisoning (IAP Standard Treatment Guidelines) \u2014 https://iapindia.org/pdf/Ch-111- Paracetamol-Poisoning.pdf",
+      "Paracetamol Poisoning (Royal Children\u2019s Hospital Melbourne) \u2014 https://www.rch.org.au/clinicalguide/guideline_index/Paracetamol_poisoning/",
+      "Management of Acetaminophen Poisoning in the US and Canada Updated 2026 (ACMT Practice Statement) \u2014 https://pubmed.ncbi.nlm.nih.gov/39803672/"
+    ],
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "blob_url": "https://cmetyphoid.blob.core.windows.net/typhoidnew/COMMON_PEDIATRIC_EMERGENCIES_POISONING_AND_ENVENOMATION_PARACETAMOL_TOXICITY_RISK.pdf",
+    "char_count": 1660,
+    "sequence": "5\u00882"
+  },
+  {
+    "chunk_id": "COMMON_PEDIATRIC_EMERGENCIES_POISONING_AND_ENVENOMATION_VENOMOUS_SNAKEBITE_AND_SCORPION",
+    "pdf_source": "Common Pediatric Emergencies_fixed.pdf",
+    "topic": "COMMON PEDIATRIC EMERGENCIES",
+    "subtopic": "POISONING AND ENVENOMATION EMERGENCY MANAGEMENT IN INDIA",
+    "sub_subtopic": "VENOMOUS SNAKEBITE AND SCORPION STING EMERGENCY MANAGEMENT WITH EARLY REFERRAL",
+    "heading_path": "COMMON PEDIATRIC EMERGENCIES;POISONING AND ENVENOMATION EMERGENCY MANAGEMENT IN INDIA;VENOMOUS SNAKEBITE AND SCORPION STING EMERGENCY MANAGEMENT WITH EARLY REFERRAL;",
+    "references": [
+      "IAP Standard Treatment Guidelines: Snakebite \u2014 https://iapindia.org/pdf/Ch-102-Snakebite.pdf",
+      "National Action Plan for Prevention and Control of Snakebite Envenoming in India (2024) \u2014 https://ncdc.mohfw.gov.in/wp-content/uploads/2024/07/NATIONAL-ACTION-PLAN- FORPREVENTION-AND-CONTROL-OF-SNAKEBITE-ENVENOMING-NAPSE.pdf",
+      "Snake Bite: Indian guidelines and protocol (SCTIMST PDF) \u2014 https://www.sctimst.ac.in/Post- floodManagement/General-Health-Care/snake-insects/snake_bit_India.pdf",
+      "IAP Standard Treatment Guidelines: Scorpion envenomation \u2014 https://iapindia.org/pdf/Ch- 086Scorpion-Envenomation.pdf"
+    ],
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "blob_url": "https://cmetyphoid.blob.core.windows.net/typhoidnew/COMMON_PEDIATRIC_EMERGENCIES_POISONING_AND_ENVENOMATION_VENOMOUS_SNAKEBITE_AND_SCORPION.pdf",
+    "char_count": 1588,
+    "sequence": "5\u00893"
+  },
+  {
+    "chunk_id": "COMMON_PEDIATRIC_EMERGENCIES_ACUTE_DEHYDRATION_AND_BURNS_ACUTE_WATERY_DIARRHEA_DEHYDRATION",
+    "pdf_source": "Common Pediatric Emergencies_fixed.pdf",
+    "topic": "COMMON PEDIATRIC EMERGENCIES",
+    "subtopic": "ACUTE DEHYDRATION AND BURNS EMERGENCY STABILIZATION",
+    "sub_subtopic": "ACUTE WATERY DIARRHEA DEHYDRATION CLASSIFICATION AND ORS OR IV REHYDRATION PLANS",
+    "heading_path": "COMMON PEDIATRIC EMERGENCIES;ACUTE DEHYDRATION AND BURNS EMERGENCY STABILIZATION;ACUTE WATERY DIARRHEA DEHYDRATION CLASSIFICATION AND ORS OR IV REHYDRATION PLANS;",
+    "references": [
+      "IAP Standard Treatment Guidelines: Acute diarrhea \u2014 https://iapindia.org/pdf/Ch-006- AcuteDiarrhea.pdf",
+      "WHO: Diarrhoea treatment guidelines and ORS recommendations \u2014 https://www.who.int/publications/i/item/9241593180",
+      "UNICEF and WHO: Diarrhoea management and zinc supplementation guidance \u2014 https://www.unicef.org/reports/diarrhoea-why-children-are-still-dying-and-what-can-be-done - WHO Pocket Book of Hospital Care for Children: Dehydration and shock management \u2014 https://unicefintercluster.net/cpaor/sites/default/files/cp/WHO-2005-Pocketbook-of-hospital- carefor-children.pdf",
+      "https://unicefintercluster.net/cpaor/sites/default/files/cp/WHO-2005-Pocketbook-of-hospital-"
+    ],
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "blob_url": "https://cmetyphoid.blob.core.windows.net/typhoidnew/COMMON_PEDIATRIC_EMERGENCIES_ACUTE_DEHYDRATION_AND_BURNS_ACUTE_WATERY_DIARRHEA_DEHYDRATION.pdf",
+    "char_count": 1532,
+    "sequence": "5\u008b1"
+  },
+  {
+    "chunk_id": "COMMON_PEDIATRIC_EMERGENCIES_ACUTE_DEHYDRATION_AND_BURNS_PEDIATRIC_BURN_RESUSCITATION_FLUID",
+    "pdf_source": "Common Pediatric Emergencies_fixed.pdf",
+    "topic": "COMMON PEDIATRIC EMERGENCIES",
+    "subtopic": "ACUTE DEHYDRATION AND BURNS EMERGENCY STABILIZATION",
+    "sub_subtopic": "PEDIATRIC BURN RESUSCITATION FLUID TITRATION AND INHALATION INJURY AIRWAY DECISIONS",
+    "heading_path": "COMMON PEDIATRIC EMERGENCIES;ACUTE DEHYDRATION AND BURNS EMERGENCY STABILIZATION;PEDIATRIC BURN RESUSCITATION FLUID TITRATION AND INHALATION INJURY AIRWAY DECISIONS;",
+    "references": [
+      "Scalds and Burns (IAP Standard Treatment Guidelines) \u2014 https://iapindia.org/pdf/Ch-077-Scalds- and-Burns.pdf",
+      "Burns Acute Management (Royal Children\u2019s Hospital Melbourne) \u2014 https://www.rch.org.au/clinicalguide/guideline_index/Burns_-_acute_management/",
+      "Burn Center Referral Criteria (American Burn Association) \u2014 https://ameriburn.org/wp- content/uploads/2017/05/burncenterreferralcriteria.pdf"
+    ],
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "blob_url": "https://cmetyphoid.blob.core.windows.net/typhoidnew/COMMON_PEDIATRIC_EMERGENCIES_ACUTE_DEHYDRATION_AND_BURNS_PEDIATRIC_BURN_RESUSCITATION_FLUID.pdf",
+    "char_count": 1688,
+    "sequence": "5\u008c2"
+  },
+  {
+    "chunk_id": "COMMON_PEDIATRIC_EMERGENCIES_TRAUMA_INJURY_AND_POST_EXPOSURE_PEDIATRIC_TRAUMA_PRIMARY_SURVEY",
+    "pdf_source": "Common Pediatric Emergencies_fixed.pdf",
+    "topic": "COMMON PEDIATRIC EMERGENCIES",
+    "subtopic": "TRAUMA INJURY AND POST EXPOSURE PROPHYLAXIS",
+    "sub_subtopic": "PEDIATRIC TRAUMA PRIMARY SURVEY HEMORRHAGE CONTROL AND FRACTURE STABILIZATION",
+    "heading_path": "COMMON PEDIATRIC EMERGENCIES;TRAUMA INJURY AND POST EXPOSURE PROPHYLAXIS;PEDIATRIC TRAUMA PRIMARY SURVEY HEMORRHAGE CONTROL AND FRACTURE STABILIZATION;",
+    "references": [
+      "Royal Children\u2019s Hospital: Trauma guideline and primary survey \u2014 https://www.rch.org.au/clinicalguide/guideline_index/Trauma/",
+      "WHO: Guidelines for Essential Trauma Care (PDF) \u2014 https://iris.who.int/bitstream/handle/10665/43232/9241546409.pdf",
+      "IAP Standard Treatment Guidelines: Injuries in office practice \u2014 https://iapindia.org/pdf/Ch- 124Injuries-in-Office-Practice.pdf",
+      "NICE guideline CG89: Child maltreatment when to suspect \u2014 https://www.nice.org.uk/guidance/cg89"
+    ],
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "blob_url": "https://cmetyphoid.blob.core.windows.net/typhoidnew/COMMON_PEDIATRIC_EMERGENCIES_TRAUMA_INJURY_AND_POST_EXPOSURE_PEDIATRIC_TRAUMA_PRIMARY_SURVEY.pdf",
+    "char_count": 1682,
+    "sequence": "5\u008e1"
+  },
+  {
+    "chunk_id": "COMMON_PEDIATRIC_EMERGENCIES_TRAUMA_INJURY_AND_POST_EXPOSURE",
+    "pdf_source": "Common Pediatric Emergencies_fixed.pdf",
+    "topic": "COMMON PEDIATRIC EMERGENCIES",
+    "subtopic": "TRAUMA INJURY AND POST EXPOSURE",
+    "sub_subtopic": null,
+    "heading_path": "COMMON PEDIATRIC EMERGENCIES;TRAUMA INJURY AND POST EXPOSURE",
+    "references": [],
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "blob_url": "https://cmetyphoid.blob.core.windows.net/typhoidnew/COMMON_PEDIATRIC_EMERGENCIES_TRAUMA_INJURY_AND_POST_EXPOSURE.pdf",
+    "char_count": 91,
+    "sequence": "5\u008f"
+  },
+  {
+    "chunk_id": "PROPHYLAXIS_HEMORRHAGIC_SHOCK_BLOOD_FIRST",
+    "pdf_source": "Common Pediatric Emergencies_fixed.pdf",
+    "topic": "PROPHYLAXIS",
+    "subtopic": "HEMORRHAGIC SHOCK BLOOD FIRST RESUSCITATION AND TRANSFUSION VOLUMES",
+    "sub_subtopic": null,
+    "heading_path": "PROPHYLAXIS;HEMORRHAGIC SHOCK BLOOD FIRST RESUSCITATION AND TRANSFUSION VOLUMES;",
+    "references": [
+      "Guidelines for Essential Trauma Care (WHO) \u2014 https://www.who.int/publications/i/item/9241546409",
+      "Injuries in Office Practice (IAP Standard Treatment Guidelines) \u2014 https://iapindia.org/pdf/Ch-124- Injuries-in-Office-Practice.pdf",
+      "Highlights of the 2025 AHA Guidelines Update for Pediatric Basic and Advanced Life Support \u2014 https://www.ahajournals.org/doi/10.1161/CIR.0000000000001368"
+    ],
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "blob_url": "https://cmetyphoid.blob.core.windows.net/typhoidnew/PROPHYLAXIS_HEMORRHAGIC_SHOCK_BLOOD_FIRST.pdf",
+    "char_count": 1515,
+    "sequence": "6a"
+  },
+  {
+    "chunk_id": "COMMON_PEDIATRIC_EMERGENCIES_TRAUMA_INJURY_AND_POST_EXPOSURE_PEDIATRIC_HEAD_INJURY_RISK",
+    "pdf_source": "Common Pediatric Emergencies_fixed.pdf",
+    "topic": "COMMON PEDIATRIC EMERGENCIES",
+    "subtopic": "TRAUMA INJURY AND POST EXPOSURE PROPHYLAXIS",
+    "sub_subtopic": "PEDIATRIC HEAD INJURY RISK STRATIFICATION FOR CT AND SAFE DISCHARGE COUNSELING",
+    "heading_path": "COMMON PEDIATRIC EMERGENCIES;TRAUMA INJURY AND POST EXPOSURE PROPHYLAXIS;PEDIATRIC HEAD INJURY RISK STRATIFICATION FOR CT AND SAFE DISCHARGE COUNSELING;",
+    "references": [
+      "NICE guideline NG232: Head injury assessment and early management \u2014 https://www.nice.org.uk/guidance/ng232",
+      "PECARN study: Identification of children at very low risk of clinically important brain injuries (Lancet 2009) \u2014 https://www.pecarn.org/studyDatasets/documents/Kuppermann_2009_TheLancet_000.pdf",
+      "Royal Children\u2019s Hospital: Head injury guideline \u2014 https://www.rch.org.au/clinicalguide/guideline_index/Head_injury/",
+      "IAP Standard Treatment Guidelines: Injuries in office practice \u2014 https://iapindia.org/pdf/Ch- 124Injuries-in-Office-Practice.pdf"
+    ],
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "blob_url": "https://cmetyphoid.blob.core.windows.net/typhoidnew/COMMON_PEDIATRIC_EMERGENCIES_TRAUMA_INJURY_AND_POST_EXPOSURE_PEDIATRIC_HEAD_INJURY_RISK.pdf",
+    "char_count": 1508,
+    "sequence": "6\u00902"
+  },
+  {
+    "chunk_id": "COMMON_PEDIATRIC_EMERGENCIES_TRAUMA_INJURY_AND_POST_EXPOSURE",
+    "pdf_source": "Common Pediatric Emergencies_fixed.pdf",
+    "topic": "COMMON PEDIATRIC EMERGENCIES",
+    "subtopic": "TRAUMA INJURY AND POST EXPOSURE",
+    "sub_subtopic": null,
+    "heading_path": "COMMON PEDIATRIC EMERGENCIES;TRAUMA INJURY AND POST EXPOSURE",
+    "references": [],
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "blob_url": "https://cmetyphoid.blob.core.windows.net/typhoidnew/COMMON_PEDIATRIC_EMERGENCIES_TRAUMA_INJURY_AND_POST_EXPOSURE.pdf",
+    "char_count": 1,
+    "sequence": "6\u0091"
+  },
+  {
+    "chunk_id": "PROPHYLAXIS_RABIES_AND_TETANUS_PROPHYLAXIS",
+    "pdf_source": "Common Pediatric Emergencies_fixed.pdf",
+    "topic": "PROPHYLAXIS",
+    "subtopic": "RABIES AND TETANUS PROPHYLAXIS DECISIONS AFTER ANIMAL BITE OR WOUND",
+    "sub_subtopic": null,
+    "heading_path": "PROPHYLAXIS;RABIES AND TETANUS PROPHYLAXIS DECISIONS AFTER ANIMAL BITE OR WOUND;",
+    "references": [
+      "National Guidelines for Rabies Prophylaxis 2019 (NCDC) \u2014 https://ncdc.mohfw.gov.in/WriteReadData/l892s/National_Guidelines_for_Rabies_Prophylaxis_201 9.pdf",
+      "Rabies Prophylaxis in Children (IAP Standard Treatment Guidelines) \u2014 https://iapindia.org/pdf/Ch- 083-Rabies-Prophylaxis-in-Children.pdf",
+      "Rabies Vaccines WHO Position Paper 2018 \u2014 https://iris.who.int/bitstream/handle/10665/272372/WER9316.pdf Tetanus prophylaxis depends on wound type and immunization status. For contaminated or"
+    ],
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "blob_url": "https://cmetyphoid.blob.core.windows.net/typhoidnew/PROPHYLAXIS_RABIES_AND_TETANUS_PROPHYLAXIS.pdf",
+    "char_count": 1598,
+    "sequence": "6b"
+  },
+  {
+    "chunk_id": "COMMON_PEDIATRIC_EMERGENCIES_ACUTE_SURGICAL_AND_ASPHYXIAL_TIME_CRITICAL_ABDOMINAL_AND",
+    "pdf_source": "Common Pediatric Emergencies_fixed.pdf",
+    "topic": "COMMON PEDIATRIC EMERGENCIES",
+    "subtopic": "ACUTE SURGICAL AND ASPHYXIAL EMERGENCIES",
+    "sub_subtopic": "TIME CRITICAL ABDOMINAL AND SCROTAL EMERGENCIES REQUIRING URGENT SURGICAL REFERRAL",
+    "heading_path": "COMMON PEDIATRIC EMERGENCIES;ACUTE SURGICAL AND ASPHYXIAL EMERGENCIES;TIME CRITICAL ABDOMINAL AND SCROTAL EMERGENCIES REQUIRING URGENT SURGICAL REFERRAL;",
+    "references": [
+      "Royal Children\u2019s Hospital: Acute abdominal pain guideline \u2014 https://www.rch.org.au/clinicalguide/guideline_index/Abdominal_pain_-_acute/",
+      "Royal Children\u2019s Hospital: Intussusception guideline \u2014 https://www.rch.org.au/clinicalguide/guideline_index/intussusception/ - Royal Children\u2019s Hospital: Acute scrotal pain or swelling guideline \u2014 https://www.rch.org.au/clinicalguide/guideline_index/Acute_scrotal_pain_or_swelling/ - IAP Standard Treatment Guidelines: Undescended testes and testicular torsion \u2014 https://iapindia.org/pdf/Ch-112-Undescended-Testes-and-Testicular-Torsion.pdf",
+      "https://www.rch.org.au/clinicalguide/guideline_index/Acute_scrotal_pain_or_swelling/",
+      "https://iapindia.org/pdf/Ch-112-Undescended-Testes-and-Testicular-Torsion.pdf"
+    ],
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "blob_url": "https://cmetyphoid.blob.core.windows.net/typhoidnew/COMMON_PEDIATRIC_EMERGENCIES_ACUTE_SURGICAL_AND_ASPHYXIAL_TIME_CRITICAL_ABDOMINAL_AND.pdf",
+    "char_count": 1632,
+    "sequence": "6\u00931"
+  },
+  {
+    "chunk_id": "COMMON_PEDIATRIC_EMERGENCIES_ACUTE_SURGICAL_AND_ASPHYXIAL_INGESTED_FOREIGN_BODY_AND_CAUSTIC",
+    "pdf_source": "Common Pediatric Emergencies_fixed.pdf",
+    "topic": "COMMON PEDIATRIC EMERGENCIES",
+    "subtopic": "ACUTE SURGICAL AND ASPHYXIAL EMERGENCIES",
+    "sub_subtopic": "INGESTED FOREIGN BODY AND CAUSTIC INGESTION ENDOSCOPY TIMING AND TRANSFER TRIGGERS",
+    "heading_path": "COMMON PEDIATRIC EMERGENCIES;ACUTE SURGICAL AND ASPHYXIAL EMERGENCIES;INGESTED FOREIGN BODY AND CAUSTIC INGESTION ENDOSCOPY TIMING AND TRANSFER TRIGGERS;",
+    "references": [
+      "Management of Ingested Foreign Bodies in Children (NASPGHAN 2015) \u2014 https://naspghan.org/files/documents/pdfs/position- papers/Management_of_Ingested_Foreign_Bodies_in.28.pdf",
+      "Diagnosis, Management, and Prevention of Button Battery Ingestion (NASPGHAN 2021) \u2014 https://naspghan.org/files/Battery%20Ingestion%20PP%20Final%206-22-21.pdf",
+      "Foreign Body Ingestion (Royal Children\u2019s Hospital Melbourne) \u2014 https://www.rch.org.au/clinicalguide/guideline_index/Foreign_body_ingestion/"
+    ],
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "blob_url": "https://cmetyphoid.blob.core.windows.net/typhoidnew/COMMON_PEDIATRIC_EMERGENCIES_ACUTE_SURGICAL_AND_ASPHYXIAL_INGESTED_FOREIGN_BODY_AND_CAUSTIC.pdf",
+    "char_count": 1636,
+    "sequence": "6\u00942"
+  },
+  {
+    "chunk_id": "COMMON_PEDIATRIC_EMERGENCIES_ACUTE_SURGICAL_AND_ASPHYXIAL_ASPHYXIAL_EMERGENCIES_CHOKING",
+    "pdf_source": "Common Pediatric Emergencies_fixed.pdf",
+    "topic": "COMMON PEDIATRIC EMERGENCIES",
+    "subtopic": "ACUTE SURGICAL AND ASPHYXIAL EMERGENCIES",
+    "sub_subtopic": "ASPHYXIAL EMERGENCIES CHOKING INHALED FOREIGN BODY AND DROWNING OBSERVATION CRITERIA",
+    "heading_path": "COMMON PEDIATRIC EMERGENCIES;ACUTE SURGICAL AND ASPHYXIAL EMERGENCIES;ASPHYXIAL EMERGENCIES CHOKING INHALED FOREIGN BODY AND DROWNING OBSERVATION CRITERIA;",
+    "references": [
+      "AHA 2025 Foreign Body Airway Obstruction (FBAO) Algorithm \u2014 https://cpr.heart.org/- /media/CPR-Files/CPR-Guidelines-Files/2025-Algorithms/Algorithm-BLS-FBAO- Child250127.pdf?sc_lang=en",
+      "Royal Children\u2019s Hospital: Inhaled foreign bodies guideline \u2014 https://www.rch.org.au/clinicalguide/guideline_index/inhaled_foreign_bodies/ - ILCOR: Treatment recommendations for drowning (2025 update) \u2014 https://costr.ilcor.org/document/treatment-recommendations-for-drowning - Children\u2019s Health Queensland: Drowning \u2013 emergency management guideline \u2014 https://www.childrens.health.qld.gov.au/__data/assets/pdf_file/0011/172676/gdl-01027.pdf",
+      "https://costr.ilcor.org/document/treatment-recommendations-for-drowning",
+      "https://www.childrens.health.qld.gov.au/__data/assets/pdf_file/0011/172676/gdl-01027.pdf"
+    ],
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "blob_url": "https://cmetyphoid.blob.core.windows.net/typhoidnew/COMMON_PEDIATRIC_EMERGENCIES_ACUTE_SURGICAL_AND_ASPHYXIAL_ASPHYXIAL_EMERGENCIES_CHOKING.pdf",
+    "char_count": 1559,
+    "sequence": "6\u00953"
+  },
+  {
+    "chunk_id": "COMMON_PEDIATRIC_EMERGENCIES_NEONATAL_AND_YOUNG_INFANT",
+    "pdf_source": "Common Pediatric Emergencies_fixed.pdf",
+    "topic": "COMMON PEDIATRIC EMERGENCIES",
+    "subtopic": "NEONATAL AND YOUNG INFANT",
+    "sub_subtopic": null,
+    "heading_path": "COMMON PEDIATRIC EMERGENCIES;NEONATAL AND YOUNG INFANT",
+    "references": [],
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "blob_url": "https://cmetyphoid.blob.core.windows.net/typhoidnew/COMMON_PEDIATRIC_EMERGENCIES_NEONATAL_AND_YOUNG_INFANT.pdf",
+    "char_count": 90,
+    "sequence": "6\u0097"
+  },
+  {
+    "chunk_id": "EMERGENCIES_PRETERM_NEONATAL_RESUSCITATION",
+    "pdf_source": "Common Pediatric Emergencies_fixed.pdf",
+    "topic": "EMERGENCIES",
+    "subtopic": "PRETERM NEONATAL RESUSCITATION OXYGEN TITRATION THERMAL PROTECTION AND GLUCOSE SURVEILLANCE",
+    "sub_subtopic": null,
+    "heading_path": "EMERGENCIES;PRETERM NEONATAL RESUSCITATION OXYGEN TITRATION THERMAL PROTECTION AND GLUCOSE SURVEILLANCE;",
+    "references": [
+      "Neonatal Resuscitation Program (IAP Standard Treatment Guidelines) \u2014 https://iapindia.org/pdf/Ch-104-Neonatal-Resuscitation-Program.pdf",
+      "Neonatal Hypothermia (IAP Standard Treatment Guidelines) \u2014 https://iapindia.org/pdf/Ch-067- Neonatal-Hypothermia.pdf",
+      "2025 AHA Guidelines Update for Neonatal Resuscitation \u2014 https://www.ahajournals.org/doi/10.1161/CIR.0000000000001367"
+    ],
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "blob_url": "https://cmetyphoid.blob.core.windows.net/typhoidnew/EMERGENCIES_PRETERM_NEONATAL_RESUSCITATION.pdf",
+    "char_count": 1483,
+    "sequence": "6b"
+  },
+  {
+    "chunk_id": "COMMON_PEDIATRIC_EMERGENCIES_NEONATAL_AND_YOUNG_INFANT_NEONATAL_SEPSIS_EARLY_RECOGNITION",
+    "pdf_source": "Common Pediatric Emergencies_fixed.pdf",
+    "topic": "COMMON PEDIATRIC EMERGENCIES",
+    "subtopic": "NEONATAL AND YOUNG INFANT EMERGENCIES",
+    "sub_subtopic": "NEONATAL SEPSIS EARLY RECOGNITION ANTIBIOTIC SELECTION AND 48 HOUR REVIEW",
+    "heading_path": "COMMON PEDIATRIC EMERGENCIES;NEONATAL AND YOUNG INFANT EMERGENCIES;NEONATAL SEPSIS EARLY RECOGNITION ANTIBIOTIC SELECTION AND 48 HOUR REVIEW;",
+    "references": [
+      "IAP Standard Treatment Guidelines: Neonatal sepsis \u2014 https://iapindia.org/pdf/Ch-033-STG- Neonatal-Sepsis.pdf",
+      "WHO Pocket Book of Hospital Care for Children: Possible serious bacterial infection in neonates \u2014 https://unicefintercluster.net/cpaor/sites/default/files/cp/WHO-2005-Pocketbook-of-hospital- carefor-children.pdf",
+      "NICE guideline NG195: Neonatal infection antibiotics for prevention and treatment \u2014 https://www.nice.org.uk/guidance/ng195",
+      "ICMR AMRTG: antimicrobial guidance for neonatal and pediatric sepsis in India \u2014 https://amrtg.icmr.org.in/"
+    ],
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "blob_url": "https://cmetyphoid.blob.core.windows.net/typhoidnew/COMMON_PEDIATRIC_EMERGENCIES_NEONATAL_AND_YOUNG_INFANT_NEONATAL_SEPSIS_EARLY_RECOGNITION.pdf",
+    "char_count": 1606,
+    "sequence": "6\u00981"
+  },
+  {
+    "chunk_id": "COMMON_PEDIATRIC_EMERGENCIES_NEONATAL_AND_YOUNG_INFANT_NEONATAL_JAUNDICE_EMERGENCY_RISK",
+    "pdf_source": "Common Pediatric Emergencies_fixed.pdf",
+    "topic": "COMMON PEDIATRIC EMERGENCIES",
+    "subtopic": "NEONATAL AND YOUNG INFANT EMERGENCIES",
+    "sub_subtopic": "NEONATAL JAUNDICE EMERGENCY RISK STRATIFICATION PHOTOTHERAPY AND EXCHANGE TRANSFUSION TRIGGERS",
+    "heading_path": "COMMON PEDIATRIC EMERGENCIES;NEONATAL AND YOUNG INFANT EMERGENCIES;NEONATAL JAUNDICE EMERGENCY RISK STRATIFICATION PHOTOTHERAPY AND EXCHANGE TRANSFUSION TRIGGERS;",
+    "references": [
+      "https://iapindia.org/pdf/Ch-079-",
+      "https://publications.aap.org/pediatrics/article/150/3/e2022058859/188754/Clinical- PracticeGuideline-Revision",
+      "https://www.nice.org.uk/guidance/cg98",
+      "https://unicefintercluster.net/cpaor/sites/default/files/cp/WHO-2005-Pocketbook-of-hospital- carefor-children.pdf American Academy of Pediatrics: Clinical practice guideline for hyperbilirubinemia (2022) \u2014 WHO Pocket Book of Hospital Care for Children: Jaundice management in newborns \u2014 NICE guideline CG98: Jaundice in newborn babies under 28 days \u2014",
+      "STGNeonatal-Jaundice.pdf"
+    ],
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "blob_url": "https://cmetyphoid.blob.core.windows.net/typhoidnew/COMMON_PEDIATRIC_EMERGENCIES_NEONATAL_AND_YOUNG_INFANT_NEONATAL_JAUNDICE_EMERGENCY_RISK.pdf",
+    "char_count": 1637,
+    "sequence": "6\u00992"
+  },
+  {
+    "chunk_id": "COMMON_PEDIATRIC_EMERGENCIES_NEONATAL_AND_YOUNG_INFANT_INFANT_EPISODIC_COLLAPSE",
+    "pdf_source": "Common Pediatric Emergencies_fixed.pdf",
+    "topic": "COMMON PEDIATRIC EMERGENCIES",
+    "subtopic": "NEONATAL AND YOUNG INFANT EMERGENCIES",
+    "sub_subtopic": "INFANT EPISODIC COLLAPSE DIFFERENTIATING BRUE SEPSIS AND DUCT DEPENDENT HEART DISEASE",
+    "heading_path": "COMMON PEDIATRIC EMERGENCIES;NEONATAL AND YOUNG INFANT EMERGENCIES;INFANT EPISODIC COLLAPSE DIFFERENTIATING BRUE SEPSIS AND DUCT DEPENDENT HEART DISEASE; An",
+    "references": [
+      "https://publications.aap.org/pediatrics/article/137/5/e20160590/52606/Brief-Resolved- Unexplained-Events-Formerly",
+      "https://www.ncbi.nlm.nih.gov/books/NBK441897/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC4925861/",
+      "CyanoticSpell.pdf Merck Manual: Congenital heart disease causing cyanosis and shock in the newborn \u2014 Prostaglandin E1 for maintaining ductal patency in duct-dependent lesions (review) \u2014 IAP Standard Treatment Guidelines: Cyanotic spell \u2014 https://iapindia.org/pdf/Ch-090-"
+    ],
+    "chunk_index": 0,
+    "total_chunks": 1,
+    "blob_url": "https://cmetyphoid.blob.core.windows.net/typhoidnew/COMMON_PEDIATRIC_EMERGENCIES_NEONATAL_AND_YOUNG_INFANT_INFANT_EPISODIC_COLLAPSE.pdf",
+    "char_count": 1834,
+    "sequence": "6\u00992"
+  }
+]

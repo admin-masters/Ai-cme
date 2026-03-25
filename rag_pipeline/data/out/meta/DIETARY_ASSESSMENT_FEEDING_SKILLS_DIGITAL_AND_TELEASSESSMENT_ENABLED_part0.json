@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Digital tools enhance dietary assessment and feeding skills evaluation by enabling remote, asynchronous methods like photo-assisted recalls, caregiver-recorded videos, and AI-based tools, while emphasizing validation, consent, and accessibility in diverse settings like India.",
+  "learning_objectives": [
+    "Understand the role of digital tools in dietary assessment and feeding skills evaluation.",
+    "Identify practical digital methods such as photo-assisted recalls and caregiver-recorded videos.",
+    "Recognize the importance of validation, consent, and accessibility in implementing digital dietary tools.",
+    "Explore emerging AI applications for portion estimation and diet quality scoring."
+  ],
+  "key_facts": [
+    "Photo-assisted 24-hour recalls and mobile food diaries can reduce missed snacks and beverages.",
+    "Caregiver-recorded videos reveal feeding behaviors like posture and pacing not observable in clinics.",
+    "In India, platforms like POSHAN Tracker are integrated with ICDS services for community use.",
+    "AI tools for portion estimation and diet quality scoring require validation with local foods.",
+    "Consent and safeguards are critical for using images and videos in dietary assessments.",
+    "Digital tools should augment, not replace, core methods like structured recalls and anthropometry."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Dietary Assessment",
+    "Feeding Behavior",
+    "Artificial Intelligence",
+    "Telemedicine",
+    "Nutrition Assessment",
+    "Caregivers",
+    "India",
+    "Health Literacy"
+  ],
+  "tags_custom": [
+    "Digital dietary tools",
+    "Feeding skills evaluation",
+    "AI in nutrition",
+    "Remote assessment"
+  ],
+  "reference_quote": "Emerging tools use AI for portion estimation and diet quality scoring, and digital decision support has been piloted for anemia and infant feeding counseling. (Source: https://media.path.org/documents/Digital_Interventions_for_Anemia_landscape_final_re)",
+  "document_key_topics": [
+    "Digital dietary assessment methods",
+    "Feeding skills evaluation via caregiver videos",
+    "AI applications in nutrition",
+    "Validation and ethical considerations in digital tools"
+  ],
+  "chunk_heading": "DIETARY ASSESSMENT & FEEDING SKILLS EVALUATION;DIGITAL AND TELEASSESSMENT ENABLED DIETARY EVALUATION;",
+  "topic": "DIETARY ASSESSMENT & FEEDING SKILLS EVALUATION",
+  "subtopic": "DIGITAL AND TELEASSESSMENT ENABLED DIETARY EVALUATION",
+  "sub_subtopic": null,
+  "heading_path": "DIETARY ASSESSMENT & FEEDING SKILLS EVALUATION;DIGITAL AND TELEASSESSMENT ENABLED DIETARY EVALUATION;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1n.1"
+}

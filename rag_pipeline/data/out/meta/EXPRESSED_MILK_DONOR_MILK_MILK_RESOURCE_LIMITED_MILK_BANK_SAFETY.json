@@ -1,0 +1,51 @@
+{
+  "chunk_summary": "Resource-limited milk banks can ensure safety by focusing on critical control points, including pasteurization, cold-chain management, and competency-based training, while maintaining traceability and quality assurance for donor human milk (DHM).",
+  "learning_objectives": [
+    "Understand critical safety controls for milk banking in resource-limited settings.",
+    "Learn the importance of Holder pasteurization and its time-temperature verification.",
+    "Identify strategies for cold-chain management and power resilience in hot climates.",
+    "Recognize the role of competency-based training and auditing in reducing contamination risks."
+  ],
+  "key_facts": [
+    "Holder pasteurization requires a verified time-temperature profile using calibrated thermometers.",
+    "Pooling should only involve donors with complete screening documentation and aseptic technique.",
+    "Cold-chain failures are common in hot climates; facilities should maintain freezer logs, alarms, and backup power systems.",
+    "Transport of DHM requires validated insulated boxes with frozen gel packs and discard rules for thawed products.",
+    "Quarantine space must hold pasteurized DHM until microbiology results confirm safety.",
+    "Low-cost audit tools like daily checklists and batch record scoring can detect safety issues early.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Milk Banks",
+    "Donor Human Milk",
+    "Pasteurization",
+    "Cold Chain",
+    "Microbiological Safety",
+    "Quality Assurance",
+    "Aseptic Techniques",
+    "Training Programs"
+  ],
+  "tags_custom": [
+    "resource-limited settings",
+    "milk bank safety",
+    "donor milk processing",
+    "cold-chain management",
+    "traceability"
+  ],
+  "reference_quote": "Holder pasteurization can be delivered using a dedicated pasteurizer or a temperature-controlled water bath, but the time\u2013temperature profile must be verified with calibrated thermometers and documented for every batch.",
+  "document_key_topics": [
+    "Safety controls in resource-limited milk banks",
+    "Holder pasteurization and microbiological safety",
+    "Cold-chain management and power resilience",
+    "Competency-based training and auditing"
+  ],
+  "chunk_heading": "EXPRESSED MILK, DONOR MILK & MILK BANKING;RESOURCE LIMITED MILK BANK SAFETY CONTROLS;",
+  "topic": "EXPRESSED MILK, DONOR MILK & MILK BANKING",
+  "subtopic": "RESOURCE LIMITED MILK BANK SAFETY CONTROLS",
+  "sub_subtopic": null,
+  "heading_path": "EXPRESSED MILK, DONOR MILK & MILK BANKING;RESOURCE LIMITED MILK BANK SAFETY CONTROLS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2\u0086"
+}

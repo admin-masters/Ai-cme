@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "Guidance on second-line differentials for faltering growth after adherent non-response, emphasizing symptom clusters to guide referrals and targeted investigations.",
+  "learning_objectives": [
+    "Understand the definition and criteria for 'adherent non-response' in faltering growth.",
+    "Identify symptom clusters that guide second-line differential diagnoses and referrals.",
+    "Recognize when to escalate care based on persistent symptoms or psychosocial concerns."
+  ],
+  "key_facts": [
+    "Adherent non-response is defined as failure to improve weight trajectory after 2\u20134 weeks despite adherence to meal structure, calorie prescription, and treatment of pain or constipation.",
+    "Persistent vomiting, dysphagia, or atopy history suggests esophageal pathology like EoE, requiring pediatric GI referral and endoscopy.",
+    "Chronic diarrhea with blood/mucus or elevated inflammatory markers indicates possible inflammatory bowel disease, warranting stool evaluation and early referral.",
+    "Linear growth disproportion or fatigue with constipation should prompt endocrine/systemic checks (e.g., TSH/free T4, renal function).",
+    "Recurrent infections or chronic cough with household exposure necessitates TB diagnostics and infection risk screening."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Faltering Growth",
+    "Feeding and Eating Disorders",
+    "Esophageal Diseases",
+    "Inflammatory Bowel Diseases",
+    "Celiac Disease",
+    "Endocrine System Diseases",
+    "Tuberculosis",
+    "Malabsorption Syndromes"
+  ],
+  "tags_custom": [
+    "adherent non-response",
+    "pediatric GI referral",
+    "psychosocial factors",
+    "targeted diagnostics",
+    "feeding difficulties"
+  ],
+  "reference_quote": "Persistent vomiting, dysphagia, food impaction, or strong atopy history suggests esophageal pathology such as EoE and warrants pediatric GI referral for endoscopic evaluation. (NICE NG75)",
+  "document_key_topics": [
+    "Adherent non-response in faltering growth",
+    "Symptom-based second-line differentials",
+    "Targeted referrals for pediatric GI, endocrine, and infection concerns",
+    "Psychosocial and safeguarding considerations in persistent cases"
+  ],
+  "chunk_heading": "FEEDING DIFFICULTIES & FALTERING GROWTH;NON RESPONSE REASSESSMENT AND DOMAIN BASED REFERRAL;SECOND-LINE DIFFERENTIALS  AFTER ADHERENT NON-RESPONSE;",
+  "topic": "FEEDING DIFFICULTIES & FALTERING GROWTH",
+  "subtopic": "NON RESPONSE REASSESSMENT AND DOMAIN BASED REFERRAL",
+  "sub_subtopic": "SECOND-LINE DIFFERENTIALS  AFTER ADHERENT NON-RESPONSE",
+  "heading_path": "FEEDING DIFFICULTIES & FALTERING GROWTH;NON RESPONSE REASSESSMENT AND DOMAIN BASED REFERRAL;SECOND-LINE DIFFERENTIALS  AFTER ADHERENT NON-RESPONSE;",
+  "reference_count": 6,
+  "has_guidelines": false,
+  "sequence": "4\u008a2"
+}

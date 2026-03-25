@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "This section outlines the classification of thinness in school-age children and adolescents using BMI-for-age z-scores, highlights red flags for medical evaluation, and emphasizes follow-up protocols for undernutrition screening.",
+  "learning_objectives": [
+    "Understand the use of BMI-for-age z-scores (BAZ) for assessing thinness in ages 5\u201319 years.",
+    "Identify red flags in adolescents that warrant medical evaluation and referral.",
+    "Learn follow-up protocols for monitoring weight trajectory and height velocity in cases of thinness or severe thinness."
+  ],
+  "key_facts": [
+    "Thinness is classified as BMI-for-age z-score (BAZ) < -2 to \u2265 -3 SD, and severe thinness as BAZ < -3 SD.",
+    "Weight-for-age is not a reliable indicator for acute-risk decisions in children over 10 years.",
+    "Red flags include rapid weight loss, delayed puberty, chronic gastrointestinal symptoms, and signs of disordered eating.",
+    "Follow-up for thinness should occur within 4\u20136 weeks; severe thinness or red flags require sooner reassessment.",
+    "Height velocity should be compared to familial range using mid-parental height to rule out endocrine or systemic disease."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Malnutrition",
+    "Undernutrition",
+    "Body Mass Index",
+    "Adolescent Health",
+    "Growth Disorders",
+    "Puberty",
+    "Gastrointestinal Diseases",
+    "Eating Disorders"
+  ],
+  "tags_custom": [
+    "Thinness classification",
+    "School-age nutrition",
+    "Adolescent screening",
+    "Red flags in undernutrition",
+    "Follow-up protocols"
+  ],
+  "reference_quote": "BMI-for-age z-scores (BAZ) from the WHO 2007 growth reference are used to assess acute undernutrition in ages 5\u201319 years, not weight-for-height.",
+  "document_key_topics": [
+    "BMI-for-age z-score classification for thinness",
+    "Red flags in adolescent undernutrition",
+    "Follow-up and monitoring protocols for thinness",
+    "Height velocity assessment in short stature"
+  ],
+  "chunk_heading": "MALNUTRITION\u2014UNDERNUTRITION: SCREENING & CLASSIFICATION;THINNESS CLASSIFICATION AND RED  FLAGS IN SCHOOL-AGE AND ADOLESCENTS;",
+  "topic": "MALNUTRITION\u2014UNDERNUTRITION: SCREENING & CLASSIFICATION",
+  "subtopic": "THINNESS CLASSIFICATION AND RED  FLAGS IN SCHOOL-AGE AND ADOLESCENTS",
+  "sub_subtopic": null,
+  "heading_path": "MALNUTRITION\u2014UNDERNUTRITION: SCREENING & CLASSIFICATION;THINNESS CLASSIFICATION AND RED  FLAGS IN SCHOOL-AGE AND ADOLESCENTS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2y"
+}

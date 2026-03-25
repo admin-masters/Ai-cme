@@ -1,0 +1,47 @@
+{
+  "chunk_summary": "This section discusses phenotype-driven nutrition decisions in GI disorders, using clinical vignettes to guide safe feeding practices, diagnostic integrity, and parallel management of nutrition and disease etiology.",
+  "learning_objectives": [
+    "Understand phenotype-driven nutrition strategies for GI disorders like persistent diarrhea, celiac disease, and Crohn's disease.",
+    "Learn to balance safe feeding practices with diagnostic integrity in malabsorption syndromes.",
+    "Recognize the importance of monitoring and stepwise advancement in refeeding syndrome management."
+  ],
+  "key_facts": [
+    "Case 1: For persistent diarrhea, use IAP Diet A (low-lactose, energy-dense) with ORS and zinc; reassess in 7 days.",
+    "Case 2: Resume adequate gluten intake before repeating tTG-IgA and total IgA tests for celiac diagnosis; confirm with biopsy.",
+    "Case 3: In suspected Crohn\u2019s disease with minimal intake, start EEN, check baseline phosphate, potassium, magnesium, and prescribe thiamine.",
+    "Refeeding syndrome requires stepwise calorie advancement and monitoring of electrolytes to prevent complications.",
+    "Across cases, avoid unnecessary dietary eliminations and ensure time-stamped diagnostic stop rules."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Gastrointestinal Diseases",
+    "Malabsorption Syndromes",
+    "Diarrhea",
+    "Celiac Disease",
+    "Crohn Disease",
+    "Refeeding Syndrome",
+    "Nutritional Therapy",
+    "Phenotype"
+  ],
+  "tags_custom": [
+    "clinical vignettes",
+    "nutrition decisions",
+    "feeding safety",
+    "diagnostic integrity",
+    "malabsorption management"
+  ],
+  "reference_quote": "IAP Standard Treatment Guidelines recommend IAP Diet A for persistent diarrhea with energy density preserved and low lactose intake.",
+  "document_key_topics": [
+    "Phenotype-driven nutrition in GI disorders",
+    "Safe feeding practices in malabsorption syndromes",
+    "Diagnostic integrity in celiac disease and Crohn\u2019s disease"
+  ],
+  "chunk_heading": "NUTRITION IN GI DISORDERS & MALABSORPTION;CLINICAL VIGNETTES FOR PHENOTYPE-DRIVEN NUTRITION DECISIONS;",
+  "topic": "NUTRITION IN GI DISORDERS & MALABSORPTION",
+  "subtopic": "CLINICAL VIGNETTES FOR PHENOTYPE-DRIVEN NUTRITION DECISIONS",
+  "sub_subtopic": null,
+  "heading_path": "NUTRITION IN GI DISORDERS & MALABSORPTION;CLINICAL VIGNETTES FOR PHENOTYPE-DRIVEN NUTRITION DECISIONS;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "2\u00928"
+}

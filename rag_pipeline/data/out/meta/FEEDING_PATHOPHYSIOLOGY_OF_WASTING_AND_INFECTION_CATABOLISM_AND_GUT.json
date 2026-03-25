@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Acute wasting arises from infection-driven catabolism, gut dysfunction, and inadequate intake, requiring energy supplementation, WASH interventions, and close follow-up to prevent relapse.",
+  "learning_objectives": [
+    "Understand the role of infection and gut dysfunction in acute wasting.",
+    "Learn energy requirements for recovery in children aged 6\u201359 months with moderate wasting.",
+    "Identify clinical signs of unresolved illness or inflammation in malnourished children.",
+    "Explore WASH strategies to mitigate environmental enteric dysfunction (EED)."
+  ],
+  "key_facts": [
+    "Acute wasting results from a mismatch between intake/absorption and physiological needs, amplified by infections and inflammation.",
+    "Environmental enteric dysfunction (EED) causes intestinal inflammation, impaired absorption, and barrier disruption.",
+    "Children aged 6\u201359 months with moderate wasting require 100\u2013130 kcal/kg/day during recovery, per 2023 WHO guidelines.",
+    "Relapse after discharge often reflects unresolved infection burden, food insecurity, or caregiving constraints.",
+    "Persistent poor appetite is a clinical marker of unresolved illness or inflammation, not behavioral issues."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Malnutrition",
+    "Wasting Syndrome",
+    "Environmental Enteric Dysfunction",
+    "Infection",
+    "Energy Metabolism",
+    "Micronutrients",
+    "Diarrhea",
+    "Child Nutrition Disorders"
+  ],
+  "tags_custom": [
+    "acute wasting",
+    "gut dysfunction",
+    "infection catabolism",
+    "WASH interventions",
+    "recovery nutrition"
+  ],
+  "reference_quote": "Immune dysfunction as a cause and consequence of malnutrition \u2014 https://www.ncbi.nlm.nih.gov/books/NBK601642/",
+  "document_key_topics": [
+    "Infection-driven catabolism in wasting",
+    "Environmental enteric dysfunction (EED)",
+    "Energy supplementation for recovery",
+    "Relapse prevention strategies"
+  ],
+  "chunk_heading": "FEEDING;PATHOPHYSIOLOGY OF WASTING AND CLINICAL CORRELATES;INFECTION CATABOLISM AND GUT DYSFUNCTION IN WASTING;",
+  "topic": "FEEDING",
+  "subtopic": "PATHOPHYSIOLOGY OF WASTING AND CLINICAL CORRELATES",
+  "sub_subtopic": "INFECTION CATABOLISM AND GUT DYSFUNCTION IN WASTING",
+  "heading_path": "FEEDING;PATHOPHYSIOLOGY OF WASTING AND CLINICAL CORRELATES;INFECTION CATABOLISM AND GUT DYSFUNCTION IN WASTING;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2b1"
+}

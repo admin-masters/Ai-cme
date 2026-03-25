@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section focuses on recognizing and managing catheter occlusion and thrombosis in enteral and parenteral nutrition, emphasizing monitoring thresholds and initial response strategies based on pediatric guidelines.",
+  "learning_objectives": [
+    "Identify signs and symptoms of catheter occlusion and thrombosis in pediatric patients receiving parenteral nutrition.",
+    "Understand initial management strategies for catheter-related complications.",
+    "Apply evidence-based guidelines to prevent and address catheter occlusion and thrombosis.",
+    "Recognize the importance of monitoring thresholds in managing complications."
+  ],
+  "key_facts": [
+    "Catheter occlusion is a common complication in parenteral nutrition, with thrombotic occlusion being a primary cause.",
+    "Initial management includes assessing catheter patency and using thrombolytic agents if indicated.",
+    "Pediatric guidelines recommend regular monitoring of catheter function to prevent complications.",
+    "Thrombosis risk increases with prolonged catheter use and improper maintenance protocols.",
+    "ESPEN guidelines emphasize the importance of early recognition and intervention to reduce morbidity.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Parenteral Nutrition",
+    "Catheter-Related Infections",
+    "Thrombosis",
+    "Catheter Occlusion",
+    "Pediatrics",
+    "Venous Access Devices",
+    "Thrombolytic Therapy",
+    "Clinical Guidelines"
+  ],
+  "tags_custom": [
+    "catheter complications",
+    "parenteral nutrition management",
+    "pediatric thrombosis",
+    "clinical monitoring"
+  ],
+  "reference_quote": "ESPGHAN/ESPEN/ESPR guidelines emphasize the importance of early recognition and management of catheter-related complications to minimize risks in pediatric parenteral nutrition.",
+  "document_key_topics": [
+    "Catheter occlusion in parenteral nutrition",
+    "Thrombosis recognition and management",
+    "Pediatric parenteral nutrition guidelines",
+    "Monitoring thresholds for complications"
+  ],
+  "chunk_heading": "ENTERAL & PARENTERAL NUTRITION;MONITORING THRESHOLDS AND COMPLICATION RESPONSE PATHWAYS;CATHETER OCCLUSION AND THROMBOSIS RECOGNITION AND INITIAL MANAGEMENT;",
+  "topic": "ENTERAL & PARENTERAL NUTRITION",
+  "subtopic": "MONITORING THRESHOLDS AND COMPLICATION RESPONSE PATHWAYS",
+  "sub_subtopic": "CATHETER OCCLUSION AND THROMBOSIS RECOGNITION AND INITIAL MANAGEMENT",
+  "heading_path": "ENTERAL & PARENTERAL NUTRITION;MONITORING THRESHOLDS AND COMPLICATION RESPONSE PATHWAYS;CATHETER OCCLUSION AND THROMBOSIS RECOGNITION AND INITIAL MANAGEMENT;",
+  "reference_count": 2,
+  "has_guidelines": false,
+  "sequence": "2\u00926.2"
+}

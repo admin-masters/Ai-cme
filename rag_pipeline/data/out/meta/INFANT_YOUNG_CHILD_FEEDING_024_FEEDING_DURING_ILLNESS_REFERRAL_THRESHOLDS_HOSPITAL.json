@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Guidelines for managing feeding during illness, hospitalization, and recovery in infants and young children, including referral thresholds, hospital nutrition support, and post-illness catch-up feeding strategies.",
+  "learning_objectives": [
+    "Identify referral thresholds for severe feeding difficulties and dehydration in infants.",
+    "Understand hospital-based nutrition strategies, including enteral and parenteral feeding protocols.",
+    "Implement post-illness catch-up feeding plans to prevent undernutrition.",
+    "Recognize the importance of monitoring weight and micronutrient supplementation during recovery."
+  ],
+  "key_facts": [
+    "Urgent referral is required for severe dehydration (e.g., lethargy, sunken eyes, minimal urine), persistent vomiting, or respiratory distress with inability to feed.",
+    "Avoid prolonged NPO status; use dextrose-containing fluids during fasting and restart feeds promptly.",
+    "Expressed breast milk or donor human milk is preferred for preterm or very sick neonates in the NICU.",
+    "Enteral nutrition should begin as soon as the gut is functional; TPN is reserved for contraindications to enteral feeding.",
+    "Post-illness catch-up feeding includes one extra meal or snack daily for 2 weeks, enriched with oil, pulses, egg, or dairy.",
+    "Follow-up weight checks and reassessment of micronutrient supplementation are essential after severe illnesses like diarrhea or pneumonia."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Infant Nutrition",
+    "Child Nutrition Disorders",
+    "Enteral Nutrition",
+    "Parenteral Nutrition",
+    "Dehydration",
+    "Post-Illness Recovery",
+    "Micronutrient Deficiency",
+    "Hospitalization"
+  ],
+  "tags_custom": [
+    "Feeding during illness",
+    "Catch-up nutrition",
+    "Hospital feeding protocols",
+    "Severe dehydration management"
+  ],
+  "reference_quote": "In hospital, nutrition should run in parallel with medical therapy. Avoid prolonged NPO status; if fasting is required for procedures, use dextrose-containing fluids and restart feeds promptly.",
+  "document_key_topics": [
+    "Referral thresholds for feeding difficulties",
+    "Hospital nutrition support strategies",
+    "Post-illness catch-up feeding",
+    "Monitoring and preventing undernutrition"
+  ],
+  "chunk_heading": "INFANT & YOUNG CHILD FEEDING 0\u201324 MONTHS;FEEDING DURING ILLNESS HOSPITALIZATION AND RECOVERY;REFERRAL THRESHOLDS HOSPITAL NUTRITION SUPPORT AND POST-ILLNESS CATCH-UP;",
+  "topic": "INFANT & YOUNG CHILD FEEDING 0\u201324 MONTHS",
+  "subtopic": "FEEDING DURING ILLNESS HOSPITALIZATION AND RECOVERY",
+  "sub_subtopic": "REFERRAL THRESHOLDS HOSPITAL NUTRITION SUPPORT AND POST-ILLNESS CATCH-UP",
+  "heading_path": "INFANT & YOUNG CHILD FEEDING 0\u201324 MONTHS;FEEDING DURING ILLNESS HOSPITALIZATION AND RECOVERY;REFERRAL THRESHOLDS HOSPITAL NUTRITION SUPPORT AND POST-ILLNESS CATCH-UP;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u007f2"
+}

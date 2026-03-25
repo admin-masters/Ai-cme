@@ -1,0 +1,47 @@
+{
+  "chunk_summary": "Standardizing growth references in tele-nutrition ensures consistent interpretation, prevents harm, and aligns remote anthropometry with WHO and IAP guidelines for children under 5 and 5\u201318 years respectively.",
+  "learning_objectives": [
+    "Understand the importance of consistent growth references in tele-nutrition services.",
+    "Learn how to apply WHO standards for children under 5 and IAP 2015 charts for ages 5\u201318.",
+    "Identify escalation thresholds for urgent referrals based on digital tool outputs.",
+    "Recognize the risks of misclassification using inappropriate growth references."
+  ],
+  "key_facts": [
+    "WHO standards are recommended for children under 5 years, focusing on WAZ, HAZ, and WHZ indices.",
+    "IAP 2015 growth charts are used for children aged 5\u201318 years, emphasizing BAZ and height trajectory with pubertal context.",
+    "Urgent referral thresholds include WHZ below -3 or MUAC <115 mm for children aged 6\u201359 months.",
+    "Misclassification using adult BMI thresholds can lead to harmful interventions in children.",
+    "Growth faltering pathways should include predefined centile crossing thresholds for reassessment."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Telemedicine",
+    "Nutrition Assessment",
+    "Child Growth Standards",
+    "Anthropometry",
+    "Body Mass Index",
+    "Growth Monitoring",
+    "Malnutrition"
+  ],
+  "tags_custom": [
+    "tele-nutrition",
+    "growth references",
+    "remote anthropometry",
+    "pediatric nutrition",
+    "standardization"
+  ],
+  "reference_quote": "WHO standards for children under 5 years and IAP 2015 growth charts for ages 5\u201318 years provide a pragmatic approach to growth monitoring in Indian practice.",
+  "document_key_topics": [
+    "Standardized growth references in tele-nutrition",
+    "WHO and IAP guidelines for pediatric growth monitoring",
+    "Escalation thresholds for malnutrition and growth faltering"
+  ],
+  "chunk_heading": "DIGITAL TOOLS & TELE-NUTRITION;GROWTH REFERENCES AND REMOTE ANTHROPOMETRY USING DIGITAL TOOLS;CONSISTENT GROWTH REFERENCES AND CLINIC THRESHOLD STANDARDIZATION;",
+  "topic": "DIGITAL TOOLS & TELE-NUTRITION",
+  "subtopic": "GROWTH REFERENCES AND REMOTE ANTHROPOMETRY USING DIGITAL TOOLS",
+  "sub_subtopic": "CONSISTENT GROWTH REFERENCES AND CLINIC THRESHOLD STANDARDIZATION",
+  "heading_path": "DIGITAL TOOLS & TELE-NUTRITION;GROWTH REFERENCES AND REMOTE ANTHROPOMETRY USING DIGITAL TOOLS;CONSISTENT GROWTH REFERENCES AND CLINIC THRESHOLD STANDARDIZATION;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1p1"
+}

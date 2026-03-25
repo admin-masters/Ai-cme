@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "Guidelines for managing enteral failure in pediatric oncology mucositis, emphasizing timely parenteral nutrition initiation, refeeding precautions, and infection prevention strategies.",
+  "learning_objectives": [
+    "Understand the criteria for defining enteral failure in pediatric oncology mucositis.",
+    "Learn the appropriate timing and method for initiating parenteral nutrition (PN) in high-risk pediatric patients.",
+    "Recognize the importance of monitoring refeeding syndrome parameters and preventing CLABSI during prolonged PN.",
+    "Develop strategies for transitioning from PN to enteral nutrition (EN) safely."
+  ],
+  "key_facts": [
+    "Enteral failure should be treated as time-limited; initiate PN if intake remains negligible for several days or vomiting prevents delivery.",
+    "Start PN calories at or below resting energy expenditure (REE) using Schofield equations without stress factors if indirect calorimetry is unavailable.",
+    "Prescribe a minimum protein intake of 1.5 g/kg/day, with higher amounts for younger children when feasible.",
+    "Monitor phosphate, potassium, magnesium, and glucose closely to manage refeeding syndrome risks.",
+    "Plan for central line care and CLABSI prevention early if prolonged PN is anticipated.",
+    "Reassess nutrition plans every 24 hours during the transition from PN to EN to avoid overfeeding and electrolyte imbalances."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Parenteral Nutrition",
+    "Enteral Nutrition",
+    "Mucositis",
+    "Pediatric Oncology",
+    "Refeeding Syndrome",
+    "Central Venous Catheters",
+    "Nutritional Support",
+    "Infection Control"
+  ],
+  "tags_custom": [
+    "pediatric nutrition",
+    "oncology supportive care",
+    "enteral failure",
+    "parenteral rescue",
+    "CLABSI prevention"
+  ],
+  "reference_quote": "Treat this as a time-limited enteral failure state: optimize symptom control (pain, antiemetics) and attempt EN if safe, but define an early trigger for temporary PN when intake remains negligible for several days or when repeated vomiting prevents delivery.",
+  "document_key_topics": [
+    "Management of enteral failure in pediatric oncology mucositis",
+    "Guidelines for initiating and monitoring parenteral nutrition",
+    "Refeeding syndrome prevention and electrolyte monitoring",
+    "Infection prevention during prolonged PN use"
+  ],
+  "chunk_heading": "ENTERAL & PARENTERAL NUTRITION;DISEASE-SPECIFIC MODIFICATIONS IN HIGH-RISK PEDIATRIC CONDITIONS;ONCOLOGY MUCOSITIS ENTERAL FAILURE AND TIMELY PARENTERAL RESCUE;",
+  "topic": "ENTERAL & PARENTERAL NUTRITION",
+  "subtopic": "DISEASE-SPECIFIC MODIFICATIONS IN HIGH-RISK PEDIATRIC CONDITIONS",
+  "sub_subtopic": "ONCOLOGY MUCOSITIS ENTERAL FAILURE AND TIMELY PARENTERAL RESCUE",
+  "heading_path": "ENTERAL & PARENTERAL NUTRITION;DISEASE-SPECIFIC MODIFICATIONS IN HIGH-RISK PEDIATRIC CONDITIONS;ONCOLOGY MUCOSITIS ENTERAL FAILURE AND TIMELY PARENTERAL RESCUE;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2\u00963"
+}

@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "Guidelines for evaluating childhood obesity in India, including comorbidity thresholds, referral criteria, and follow-up plans based on IAP and WHO standards, with specific numeric cutoffs for BMI, dysglycemia, and ALT levels.",
+  "learning_objectives": [
+    "Understand the IAP and WHO thresholds for classifying obesity and comorbidities in Indian children.",
+    "Identify criteria for endocrine and genetic evaluations in pediatric obesity cases.",
+    "Interpret lab results for dysglycemia, MASLD/NAFLD risk, and hypertension in children.",
+    "Develop structured follow-up plans based on comorbidity-driven findings."
+  ],
+  "key_facts": [
+    "IAP BMI-for-age cutoffs for Asian Indian children: \u226523 for overweight risk, \u226527 for obesity.",
+    "Prediabetes: fasting glucose 100\u2013125 mg/dL or 2-hour OGTT 140\u2013199 mg/dL; diabetes: fasting glucose \u2265126 mg/dL or 2-hour OGTT \u2265200 mg/dL.",
+    "ALT thresholds for MASLD/NAFLD risk: >26 U/L in males, >22 U/L in females; ALT >80 U/L requires expedited assessment.",
+    "Endocrine evaluation is recommended for obesity with short stature or falling height velocity.",
+    "Genetic evaluation is advised for obesity onset before 5 years, hyperphagia, consanguinity, dysmorphism, or developmental delay.",
+    "Follow-up intervals should be comorbidity-driven, with urgent referrals for diabetes-range glucose, ALT >80 U/L, or stage 2 hypertension."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Pediatric Obesity",
+    "Body Mass Index",
+    "Dysglycemia",
+    "Non-alcoholic Fatty Liver Disease",
+    "Hypertension",
+    "Endocrine System Diseases",
+    "Genetic Predisposition to Disease",
+    "India"
+  ],
+  "tags_custom": [
+    "Childhood Obesity Guidelines",
+    "IAP Standards",
+    "Comorbidity Management",
+    "Pediatric Endocrinology",
+    "Indian Population Health"
+  ],
+  "reference_quote": "Classify severity using the chart (under-5 WHO weight-for-height z-scores; 5\u201318 years IAP BMI-for-age with adult-equivalent cutoffs 23 for overweight risk and 27 for obesity in Asian Indian children).",
+  "document_key_topics": [
+    "Childhood obesity evaluation and classification",
+    "Comorbidity thresholds and lab interpretation",
+    "Endocrine and genetic evaluation criteria",
+    "Follow-up and referral guidelines"
+  ],
+  "chunk_heading": "MACRONUTRIENT NUTRITION ACROSS CHILDHOOD;OBESITY COMORBIDITY THRESHOLDS AND ESCALATION CRITERIA IN INDIA;",
+  "topic": "MACRONUTRIENT NUTRITION ACROSS CHILDHOOD",
+  "subtopic": "OBESITY COMORBIDITY THRESHOLDS AND ESCALATION CRITERIA IN INDIA",
+  "sub_subtopic": null,
+  "heading_path": "MACRONUTRIENT NUTRITION ACROSS CHILDHOOD;OBESITY COMORBIDITY THRESHOLDS AND ESCALATION CRITERIA IN INDIA;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2}"
+}

@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "Chronic nonbacterial osteomyelitis (CNO) is an autoinflammatory bone disorder in children, requiring differentiation from infection or malignancy. Diagnosis involves imaging, biopsy, and exclusion of bacterial causes, with NSAIDs as first-line therapy.",
+  "learning_objectives": [
+    "Understand the clinical presentation and typical sites of chronic nonbacterial osteomyelitis (CNO).",
+    "Learn diagnostic strategies, including imaging and biopsy, to differentiate CNO from infection or malignancy.",
+    "Identify first-line and advanced treatment options for CNO, including NSAIDs and biologic therapies.",
+    "Recognize the importance of long-term follow-up in managing CNO complications."
+  ],
+  "key_facts": [
+    "CNO commonly affects school-age children and adolescents, with typical sites including the clavicle, vertebrae, pelvis, and long bone metaphyses.",
+    "Whole-body MRI is the imaging modality of choice to identify multifocal inflammatory patterns and clinically silent lesions.",
+    "Histology typically shows sterile chronic inflammation, not pus-producing infection.",
+    "First-line treatment is with NSAIDs, with corticosteroids, bisphosphonates, or biologics reserved for refractory cases.",
+    "Vertebral involvement can lead to compression deformities, necessitating long-term follow-up.",
+    "CNO diagnosis should be suspected in multifocal, recurrent, or antibiotic-unresponsive osteomyelitis cases."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Osteomyelitis",
+    "Chronic Disease",
+    "Autoinflammatory Diseases",
+    "Magnetic Resonance Imaging",
+    "Nonsteroidal Anti-Inflammatory Agents",
+    "Pediatric Rheumatology",
+    "Bone Biopsy",
+    "Sterile Inflammation"
+  ],
+  "tags_custom": [
+    "CNO diagnosis",
+    "pediatric bone disorders",
+    "nonbacterial osteomyelitis",
+    "autoinflammatory therapy",
+    "long-term management"
+  ],
+  "reference_quote": "\"Whole-body magnetic resonance imaging is the imaging study of choice because it identifies clinically silent lesions and helps distinguish a multifocal inflammatory pattern from isolated pyogenic disease.\" (Source: Chronic Nonbacterial Osteomyelitis in Children \u2014 https://pmc.ncbi.nlm.nih.gov/articles/PMC8303960/)",
+  "document_key_topics": [
+    "Chronic nonbacterial osteomyelitis (CNO) diagnosis",
+    "Differentiation from infection and malignancy",
+    "Therapeutic approaches for CNO",
+    "Long-term management and complications"
+  ],
+  "chunk_heading": "BONE INFECTIONS;SUBACUTE CHRONIC AND AUTOINFLAMMATORY BONE LESIONS;CHRONIC NONBACTERIAL OSTEOMYELITIS DIAGNOSTIC DIFFERENTIATION AND THERAPY;",
+  "topic": "BONE INFECTIONS",
+  "subtopic": "SUBACUTE CHRONIC AND AUTOINFLAMMATORY BONE LESIONS",
+  "sub_subtopic": "CHRONIC NONBACTERIAL OSTEOMYELITIS DIAGNOSTIC DIFFERENTIATION AND THERAPY",
+  "heading_path": "BONE INFECTIONS;SUBACUTE CHRONIC AND AUTOINFLAMMATORY BONE LESIONS;CHRONIC NONBACTERIAL OSTEOMYELITIS DIAGNOSTIC DIFFERENTIATION AND THERAPY;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u00883"
+}

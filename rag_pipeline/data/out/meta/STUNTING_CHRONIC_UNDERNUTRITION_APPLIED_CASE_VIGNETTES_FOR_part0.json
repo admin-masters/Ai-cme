@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section provides case-based guidance on stunting workup and counseling, covering under-five, red-flag, and adolescent scenarios with tailored interventions and follow-up strategies.",
+  "learning_objectives": [
+    "Identify and classify stunting in children using HAZ scores and clinical indicators.",
+    "Apply determinant-based interventions, including dietary, WASH, and micronutrient strategies.",
+    "Recognize red flags for testing and manage coexisting conditions like malabsorption or anemia.",
+    "Counsel families on growth monitoring, dietary improvements, and follow-up thresholds."
+  ],
+  "key_facts": [
+    "HAZ -2.6 indicates stunting without wasting in a 20-month-old child.",
+    "Recurrent diarrhea requires ORS, zinc, and deworming/vitamin A status checks.",
+    "Coeliac serology (tTG-IgA and total IgA) is essential for suspected malabsorption.",
+    "Adolescents with delayed menarche and low growth velocity need endocrine evaluation if no progress in 6 months.",
+    "WASH interventions include safe water storage, soap at critical points, and clean play spaces."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Stunting",
+    "Chronic Malnutrition",
+    "Diarrhea",
+    "Dietary Diversity",
+    "Coeliac Disease",
+    "Adolescent Growth",
+    "Anemia",
+    "WASH (Water, Sanitation, and Hygiene)"
+  ],
+  "tags_custom": [
+    "Stunting Workup",
+    "Case Vignettes",
+    "Growth Monitoring",
+    "Nutritional Counseling",
+    "Pediatric Nutrition"
+  ],
+  "reference_quote": "Stunting can coexist with a treatable intestinal disorder; initiate determinant actions while awaiting results. (Source: WHO, 2023)",
+  "document_key_topics": [
+    "Stunting classification and management",
+    "Determinant-based interventions for chronic undernutrition",
+    "Red-flag symptoms and diagnostic testing",
+    "Adolescent growth and double burden of malnutrition"
+  ],
+  "chunk_heading": "STUNTING, CHRONIC UNDERNUTRITION & DETERMINANTS;APPLIED CASE VIGNETTES FOR STUNTING WORKUP AND COUNSELING;",
+  "topic": "STUNTING, CHRONIC UNDERNUTRITION & DETERMINANTS",
+  "subtopic": "APPLIED CASE VIGNETTES FOR STUNTING WORKUP AND COUNSELING",
+  "sub_subtopic": null,
+  "heading_path": "STUNTING, CHRONIC UNDERNUTRITION & DETERMINANTS;APPLIED CASE VIGNETTES FOR STUNTING WORKUP AND COUNSELING;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "7\u008f.1"
+}

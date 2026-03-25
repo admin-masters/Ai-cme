@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "This section outlines screening triggers for metabolic risk in Indian children using BMI, waist circumference, and clinical risk factors, emphasizing India-specific guidelines and practical triage markers.",
+  "learning_objectives": [
+    "Understand the role of BMI, waist circumference, and clinical risk factors in metabolic risk screening for children.",
+    "Learn India-specific BMI cutoffs and waist-to-height ratio thresholds for risk stratification.",
+    "Identify high-yield clinical risk factors that warrant metabolic screening in children.",
+    "Recognize the benefits of bundled screening approaches to improve efficiency and reduce costs."
+  ],
+  "key_facts": [
+    "India-specific BMI cutoffs: \u226523 for overweight and \u226527 for obesity (ages 5\u201318 years).",
+    "For children under 5 years, use WHO weight-for-length/height standards.",
+    "Waist-to-height ratio >0.5 is a practical marker for central adiposity risk.",
+    "High-yield clinical triggers include family history of ASCVD, type 2 diabetes, maternal gestational diabetes, and signs of insulin resistance (e.g., acanthosis, elevated BP).",
+    "Medications like systemic glucocorticoids and atypical antipsychotics can increase metabolic risk.",
+    "Bundled screening reduces missed comorbidities, lowers costs, and standardizes follow-up intervals."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Body Mass Index",
+    "Waist Circumference",
+    "Metabolic Syndrome",
+    "Childhood Obesity",
+    "Risk Assessment",
+    "Insulin Resistance",
+    "Dyslipidemias",
+    "Pediatric Obesity"
+  ],
+  "tags_custom": [
+    "India-specific guidelines",
+    "Pediatric metabolic risk",
+    "Screening protocols",
+    "Central adiposity"
+  ],
+  "reference_quote": "\"For ages 5\u201318 years, the IAP approach uses 2015 BMI charts with adult-equivalent cutoffs (about 23 for overweight and 27 for obesity).\" (IAP guidelines on childhood obesity, 2023)",
+  "document_key_topics": [
+    "India-specific BMI and waist circumference guidelines",
+    "Clinical risk factors for metabolic screening",
+    "Bundled screening for metabolic risk in children"
+  ],
+  "chunk_heading": "METABOLIC RISK IN CHILDREN;RISK STRATIFICATION AND INITIAL SCREENING DECISIONS;SCREENING TRIGGERS USING BMI WAIST AND CLINICAL RISK;",
+  "topic": "METABOLIC RISK IN CHILDREN",
+  "subtopic": "RISK STRATIFICATION AND INITIAL SCREENING DECISIONS",
+  "sub_subtopic": "SCREENING TRIGGERS USING BMI WAIST AND CLINICAL RISK",
+  "heading_path": "METABOLIC RISK IN CHILDREN;RISK STRATIFICATION AND INITIAL SCREENING DECISIONS;SCREENING TRIGGERS USING BMI WAIST AND CLINICAL RISK;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1h1"
+}

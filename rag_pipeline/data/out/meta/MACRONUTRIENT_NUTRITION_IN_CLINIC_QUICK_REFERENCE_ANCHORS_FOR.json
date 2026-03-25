@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "This section provides quick reference anchors for outpatient macronutrient decisions in children, including age-specific macronutrient distributions, hydration, and growth management strategies, with a focus on practical application in clinical and programmatic settings.",
+  "learning_objectives": [
+    "Understand age-specific macronutrient distribution ranges and hydration targets for children.",
+    "Learn strategies for managing growth faltering and obesity in outpatient pediatric care.",
+    "Incorporate programmatic anchors like PM POSHAN meals into nutritional counseling.",
+    "Apply WHO and IAP growth standards to assess and monitor pediatric growth."
+  ],
+  "key_facts": [
+    "Macronutrient distribution (AMDR): Fat 30\u201340% (ages 1\u20133), 25\u201335% (ages 4\u201318); Carbohydrate 45\u201365%; Protein 5\u201320% (ages 1\u20133), 10\u201330% (ages 4\u201318).",
+    "Fibre targets (DRI): 19 g/day (ages 1\u20133), 25 g/day (ages 4\u20138), 31 g/day boys and 26 g/day girls (ages 9\u201313), 38 g/day males and 26 g/day females (ages 14\u201318).",
+    "Hydration (DRI total water AI): 1.3 L/day (ages 1\u20133), 1.7 L/day (ages 4\u20138), increasing with heat and activity.",
+    "Growth faltering: Aim for weight gain 2\u20133\u00d7 the median for age; reassess at 2 weeks and escalate at 4 weeks if no improvement.",
+    "Obesity management: Eliminate sugar-sweetened beverages and packaged snacks before reducing home meals; follow up in 4\u20136 weeks.",
+    "PM POSHAN meals: Primary school meals provide ~450 kcal/12 g protein; upper primary meals provide ~700 kcal/20 g protein."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Child Nutrition",
+    "Macronutrients",
+    "Dietary Reference Intakes",
+    "Pediatric Obesity",
+    "Growth Disorders",
+    "Hydration",
+    "Dietary Fiber",
+    "Premature Infant Nutrition"
+  ],
+  "tags_custom": [
+    "Outpatient nutrition",
+    "Growth monitoring",
+    "Pediatric hydration",
+    "School meal programs",
+    "Nutritional counseling"
+  ],
+  "reference_quote": "Macronutrient distribution anchor (AMDR): ages 1\u20133 years fat 30\u201340% of energy; ages 4\u201318 years fat 25\u201335%; carbohydrate 45\u201365%; protein 5\u201320% (1\u20133) and 10\u201330% (4\u201318).",
+  "document_key_topics": [
+    "Age-specific macronutrient and hydration guidelines",
+    "Growth faltering and obesity management in children",
+    "Integration of PM POSHAN meals into nutritional plans",
+    "Nutritional follow-up and adherence strategies"
+  ],
+  "chunk_heading": "MACRONUTRIENT NUTRITION IN CHILDHOOD;CLINIC QUICK REFERENCE ANCHORS FOR OUTPATIENT MACRONUTRIENT DECISIONS;",
+  "topic": "MACRONUTRIENT NUTRITION IN CHILDHOOD",
+  "subtopic": "CLINIC QUICK REFERENCE ANCHORS FOR OUTPATIENT MACRONUTRIENT DECISIONS",
+  "sub_subtopic": null,
+  "heading_path": "MACRONUTRIENT NUTRITION IN CHILDHOOD;CLINIC QUICK REFERENCE ANCHORS FOR OUTPATIENT MACRONUTRIENT DECISIONS;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "4\u0081"
+}

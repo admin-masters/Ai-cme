@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Persistent diarrhea in India is a high-mortality syndrome requiring stool phenotype-based nutrition strategies and early referral for growth and age-related red flags.",
+  "learning_objectives": [
+    "Understand stool phenotypes and their implications for nutritional management in persistent diarrhea.",
+    "Identify growth and age-related red flags for early referral in GI disorders.",
+    "Differentiate between secondary lactose intolerance, fat malabsorption, and inflammatory disease based on stool characteristics.",
+    "Apply India-specific guidelines for triage and first-pass assessment in pediatric GI disorders."
+  ],
+  "key_facts": [
+    "Persistent diarrhea is defined by IAP as lasting >14 days with nutritional deterioration, most cases occurring in infancy (60% before 6 months, 90% below 1 year).",
+    "Watery diarrhea with perianal excoriation and explosive stools suggests secondary lactose intolerance; prioritize hydration and low-lactose trials.",
+    "Bulky, greasy, foul-smelling stools indicate fat malabsorption; avoid indiscriminate fat restriction until etiology is clarified.",
+    "Bloody stools, nocturnal symptoms, weight loss, anemia, and low albumin suggest inflammatory disease; expedite definitive evaluation.",
+    "Neonatal profuse diarrhea with recurrent dehydration may indicate congenital diarrheal disorders or immunodeficiency-related enteropathy."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Diarrhea",
+    "Malabsorption Syndromes",
+    "Lactose Intolerance",
+    "Celiac Disease",
+    "Inflammatory Bowel Diseases",
+    "Growth Disorders",
+    "Pediatric Nutrition",
+    "India"
+  ],
+  "tags_custom": [
+    "stool phenotype",
+    "growth risk stratification",
+    "persistent diarrhea",
+    "India-specific guidelines",
+    "nutritional triage"
+  ],
+  "reference_quote": "Persistent diarrhea in India should be treated as a high-mortality syndrome rather than a prolonged episode of acute gastroenteritis. (IAP Standard Treatment Guidelines: Persistent diarrhea, Chapter 030)",
+  "document_key_topics": [
+    "Stool phenotype-based nutritional management",
+    "Growth and age-related risk stratification",
+    "India-specific guidelines for persistent diarrhea",
+    "Differentiation of GI disorders based on stool characteristics"
+  ],
+  "chunk_heading": "NUTRITION IN GI DISORDERS & MALABSORPTION;INDIA-FOCUSED TRIAGE AND FIRST-PASS ASSESSMENT;STOOL PHENOTYPE AND GROWTH-BASED RISK STRATIFICATION;",
+  "topic": "NUTRITION IN GI DISORDERS & MALABSORPTION",
+  "subtopic": "INDIA-FOCUSED TRIAGE AND FIRST-PASS ASSESSMENT",
+  "sub_subtopic": "STOOL PHENOTYPE AND GROWTH-BASED RISK STRATIFICATION",
+  "heading_path": "NUTRITION IN GI DISORDERS & MALABSORPTION;INDIA-FOCUSED TRIAGE AND FIRST-PASS ASSESSMENT;STOOL PHENOTYPE AND GROWTH-BASED RISK STRATIFICATION;",
+  "reference_count": 6,
+  "has_guidelines": false,
+  "sequence": "1d3"
+}

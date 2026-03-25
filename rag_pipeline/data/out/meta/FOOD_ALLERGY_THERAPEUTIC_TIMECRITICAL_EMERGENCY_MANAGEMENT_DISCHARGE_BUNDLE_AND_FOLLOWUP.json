@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section outlines discharge planning and follow-up for pediatric anaphylaxis, emphasizing observation, caregiver education, and a structured discharge bundle to prevent and manage biphasic reactions and future episodes.",
+  "learning_objectives": [
+    "Understand the importance of risk-stratified observation and discharge planning after pediatric anaphylaxis.",
+    "Learn the five essential elements of a complete discharge bundle for anaphylaxis management.",
+    "Recognize the need for caregiver education, including emergency action plans and epinephrine administration.",
+    "Identify follow-up strategies to confirm triggers, reassess comorbidities, and ensure long-term safety."
+  ],
+  "key_facts": [
+    "Biphasic reactions can occur after apparent recovery, necessitating risk-stratified observation.",
+    "Children with severe episodes (e.g., hypotension, airway involvement, or multiple epinephrine doses) require longer observation or admission.",
+    "A complete discharge bundle includes a written action plan, epinephrine access plan, caregiver teach-back, trigger documentation, and follow-up timeline.",
+    "Follow-up should include an early review within 1\u20132 weeks and periodic reassessment of avoidance strategies and comorbid asthma control.",
+    "Caregivers must demonstrate the emergency plan before discharge, especially for high-risk children."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Anaphylaxis",
+    "Pediatrics",
+    "Emergency Medical Services",
+    "Epinephrine",
+    "Caregivers",
+    "Patient Discharge",
+    "Follow-Up Studies",
+    "Risk Assessment"
+  ],
+  "tags_custom": [
+    "pediatric anaphylaxis",
+    "discharge planning",
+    "biphasic reactions",
+    "caregiver education",
+    "epinephrine management"
+  ],
+  "reference_quote": "Discharge planning is part of anaphylaxis treatment, not an optional add-on. Biphasic reactions can occur after apparent recovery, so observation and disposition should be risk stratified and documented.",
+  "document_key_topics": [
+    "Discharge planning for pediatric anaphylaxis",
+    "Biphasic reaction risk and observation guidelines",
+    "Caregiver education and emergency preparedness",
+    "Follow-up strategies for trigger confirmation and comorbidity management"
+  ],
+  "chunk_heading": "FOOD ALLERGY & THERAPEUTIC ELIMINATION DIETS;TIME-CRITICAL EMERGENCY MANAGEMENT AT FIRST CONTACT;DISCHARGE BUNDLE AND FOLLOW-UP AFTER PEDIATRIC ANAPHYLAXIS;",
+  "topic": "FOOD ALLERGY & THERAPEUTIC ELIMINATION DIETS",
+  "subtopic": "TIME-CRITICAL EMERGENCY MANAGEMENT AT FIRST CONTACT",
+  "sub_subtopic": "DISCHARGE BUNDLE AND FOLLOW-UP AFTER PEDIATRIC ANAPHYLAXIS",
+  "heading_path": "FOOD ALLERGY & THERAPEUTIC ELIMINATION DIETS;TIME-CRITICAL EMERGENCY MANAGEMENT AT FIRST CONTACT;DISCHARGE BUNDLE AND FOLLOW-UP AFTER PEDIATRIC ANAPHYLAXIS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1o3"
+}

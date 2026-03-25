@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section outlines staged nutrition rehabilitation in severe malnutrition and persistent diarrhea, emphasizing cautious stabilization feeding, gradual calorie increases, and refeeding risk management.",
+  "learning_objectives": [
+    "Understand the principles of staged nutrition rehabilitation in severe malnutrition.",
+    "Learn the composition and role of stabilization and catch-up diets in malnutrition management.",
+    "Identify and manage refeeding syndrome risks during nutritional rehabilitation.",
+    "Apply practical strategies for managing persistent diarrhea with energy-dense, low-lactose feeds."
+  ],
+  "key_facts": [
+    "Stabilization diet provides ~75 kcal and 0.9 g protein per 100 mL, with low protein and sodium content.",
+    "Catch-up feeding targets ~100 kcal/kg/day with energy-dense feeds to support recovery.",
+    "Lactose load in animal milk should be reduced by mixing with cereals instead of diluting with water.",
+    "Refeeding risk requires monitoring electrolytes (phosphate, magnesium) and prescribing thiamine before increasing carbohydrate intake.",
+    "Daily monitoring of intake, weight, and clinical signs is essential during the transition to catch-up feeding."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Severe Acute Malnutrition",
+    "Refeeding Syndrome",
+    "Persistent Diarrhea",
+    "Nutritional Rehabilitation",
+    "Energy Intake",
+    "Electrolyte Imbalance",
+    "Dietary Proteins",
+    "Lactose Intolerance"
+  ],
+  "tags_custom": [
+    "stabilization feeding",
+    "catch-up diet",
+    "malnutrition protocols",
+    "refeeding risk",
+    "persistent diarrhea management"
+  ],
+  "reference_quote": "India\u2019s facility-based care protocols operationalize this using a stabilization diet (often termed a starter feed) that provides about 75 kcal and 0.9 g protein per 100 mL, is low in protein and sodium, and is given as small frequent feeds as soon as the child can tolerate. (Source: National Health Mission manual)",
+  "document_key_topics": [
+    "Staged nutrition rehabilitation in severe malnutrition",
+    "Stabilization and catch-up feeding protocols",
+    "Management of persistent diarrhea with low-lactose, energy-dense feeds",
+    "Refeeding syndrome risk and electrolyte monitoring"
+  ],
+  "chunk_heading": "NUTRITION IN GI DISORDERS & MALABSORPTION;NUTRITION REHABILITATION AND PERSISTENT DIARRHEA PROTOCOLS;STABILIZATION TO CATCH-UP FEEDING IN SEVERE MALNUTRITION;",
+  "topic": "NUTRITION IN GI DISORDERS & MALABSORPTION",
+  "subtopic": "NUTRITION REHABILITATION AND PERSISTENT DIARRHEA PROTOCOLS",
+  "sub_subtopic": "STABILIZATION TO CATCH-UP FEEDING IN SEVERE MALNUTRITION",
+  "heading_path": "NUTRITION IN GI DISORDERS & MALABSORPTION;NUTRITION REHABILITATION AND PERSISTENT DIARRHEA PROTOCOLS;STABILIZATION TO CATCH-UP FEEDING IN SEVERE MALNUTRITION;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2n1"
+}

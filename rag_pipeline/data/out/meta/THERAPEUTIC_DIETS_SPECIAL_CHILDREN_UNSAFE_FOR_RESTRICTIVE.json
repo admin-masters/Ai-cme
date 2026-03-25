@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "Restrictive diets are unsafe for children with severe malnutrition, unstable illness, or psychosocial risks. Stabilization, multidisciplinary care, and targeted interventions are prioritized over broad dietary restrictions.",
+  "learning_objectives": [
+    "Understand contraindications for restrictive diet trials in children with high-risk conditions.",
+    "Identify safer alternatives to dietary restrictions for children with psychosocial or medical vulnerabilities.",
+    "Learn strategies for supervised implementation of necessary restrictive diets in high-risk cases."
+  ],
+  "key_facts": [
+    "Restrictive diets should not be initiated in children with severe acute malnutrition, dehydration, or unstable medical illness without stabilization.",
+    "Children with eating disorders, ARFID, or rigid food rules are at high risk for harm from dietary restrictions.",
+    "Families with food insecurity or low caregiver capacity may struggle with safe substitutions, increasing micronutrient inadequacy.",
+    "Restrictive diets for high-risk children require proactive replacement nutrition, early follow-up, and clear stop rules.",
+    "WHO guidelines emphasize stabilization and multidisciplinary assessment before dietary interventions in malnourished children."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Diet Therapy",
+    "Malnutrition",
+    "Eating Disorders",
+    "Pediatric Nutrition",
+    "Food Insecurity",
+    "Ketogenic Diet",
+    "FODMAP Diet",
+    "Avoidant Restrictive Food Intake Disorder"
+  ],
+  "tags_custom": [
+    "restrictive diets",
+    "pediatric risk factors",
+    "nutrition stabilization",
+    "multidisciplinary care",
+    "psychosocial risks"
+  ],
+  "reference_quote": "Avoid initiating multifood eliminations, low-FODMAP restriction, or ketogenic dietary therapy in children with severe acute malnutrition, significant dehydration, unstable medical illness, or rapidly declining weight/height trajectory until stabilization and multidisciplinary assessment occur. (WHO Guideline)",
+  "document_key_topics": [
+    "Contraindications for restrictive diets in children",
+    "Psychosocial risks and eating disorders in pediatric nutrition",
+    "Safe implementation of necessary dietary restrictions",
+    "Impact of food insecurity on therapeutic diets"
+  ],
+  "chunk_heading": "THERAPEUTIC DIETS & SPECIAL INTERVENTIONS;CHILDREN UNSAFE FOR RESTRICTIVE DIET TRIALS;",
+  "topic": "THERAPEUTIC DIETS & SPECIAL INTERVENTIONS",
+  "subtopic": "CHILDREN UNSAFE FOR RESTRICTIVE DIET TRIALS",
+  "sub_subtopic": null,
+  "heading_path": "THERAPEUTIC DIETS & SPECIAL INTERVENTIONS;CHILDREN UNSAFE FOR RESTRICTIVE DIET TRIALS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1d"
+}

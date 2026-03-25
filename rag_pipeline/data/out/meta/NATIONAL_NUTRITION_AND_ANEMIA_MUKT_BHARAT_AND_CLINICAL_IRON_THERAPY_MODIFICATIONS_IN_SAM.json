@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section discusses condition-specific modifications to iron therapy in severe acute malnutrition (SAM), hemoglobinopathies, malabsorption, and prematurity, emphasizing clinical guidelines and safety measures for anemia management in vulnerable populations.",
+  "learning_objectives": [
+    "Understand the contraindications and timing of iron therapy in facility-based management of SAM.",
+    "Learn diagnostic approaches for anemia in hemoglobinopathies and transfusion-dependent conditions.",
+    "Identify strategies for managing iron deficiency in malabsorption and inflammation-related anemia.",
+    "Explore iron supplementation protocols for preterm and low birth weight infants."
+  ],
+  "key_facts": [
+    "Iron is avoided during the stabilization phase of SAM due to infection risk and metabolic instability; introduced only during rehabilitation after appetite returns.",
+    "Anemia in transfusion-dependent thalassemia is not iron deficiency; routine prophylactic iron should be excluded unless deficiency is confirmed.",
+    "Persistent microcytosis despite therapy warrants evaluation for conditions like celiac disease, chronic diarrhea, or CKD; ferritin interpretation should account for inflammation.",
+    "Preterm infants often require earlier iron supplementation, typically around 2 mg/kg/day elemental iron.",
+    "Adherence barriers to oral iron include vomiting, refusal, and stool discoloration; these must be addressed before escalating therapy."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Anemia",
+    "Iron Deficiency",
+    "Severe Acute Malnutrition",
+    "Hemoglobinopathies",
+    "Malabsorption Syndromes",
+    "Premature Infant",
+    "Iron Supplementation",
+    "Nutritional Therapy"
+  ],
+  "tags_custom": [
+    "SAM iron therapy",
+    "clinical anemia management",
+    "iron supplementation guidelines",
+    "prematurity nutrition",
+    "malabsorption anemia"
+  ],
+  "reference_quote": "Iron is avoided during the stabilization phase of complicated SAM because infection risk and metabolic instability are highest. Introduce iron only after clinical stabilization and return of appetite. (NHM Operational Guidelines on SAM Management)",
+  "document_key_topics": [
+    "Iron therapy in severe acute malnutrition (SAM)",
+    "Anemia management in hemoglobinopathies",
+    "Iron supplementation in malabsorption syndromes",
+    "Prematurity and low birth weight iron protocols"
+  ],
+  "chunk_heading": "NATIONAL NUTRITION AND FORTIFICATION PROGRAMS IN INDIA;ANEMIA MUKT BHARAT AND CLINICAL IRON MANAGEMENT;IRON THERAPY MODIFICATIONS IN SAM, HEMOGLOBINOPATHIES, MALABSORPTION, AND PREMATURITY;",
+  "topic": "NATIONAL NUTRITION AND FORTIFICATION PROGRAMS IN INDIA",
+  "subtopic": "ANEMIA MUKT BHARAT AND CLINICAL IRON MANAGEMENT",
+  "sub_subtopic": "IRON THERAPY MODIFICATIONS IN SAM, HEMOGLOBINOPATHIES, MALABSORPTION, AND PREMATURITY",
+  "heading_path": "NATIONAL NUTRITION AND FORTIFICATION PROGRAMS IN INDIA;ANEMIA MUKT BHARAT AND CLINICAL IRON MANAGEMENT;IRON THERAPY MODIFICATIONS IN SAM, HEMOGLOBINOPATHIES, MALABSORPTION, AND PREMATURITY;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2x6"
+}

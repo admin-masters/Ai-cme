@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "This section outlines criteria for determining outpatient versus inpatient care for children with feeding difficulties and faltering growth, emphasizing red flags such as dehydration, unsafe feeding, systemic infection, and psychosocial risks.",
+  "learning_objectives": [
+    "Understand the criteria for inpatient admission versus outpatient management in children with faltering growth.",
+    "Identify red flags requiring urgent referral, including dehydration, unsafe feeding, and systemic infection.",
+    "Learn to assess caregiver capacity and follow-up reliability in outpatient care plans.",
+    "Recognize the importance of early intervention in newborns and infants to prevent complications."
+  ],
+  "key_facts": [
+    "Young infants with >10% early weight loss or not back to birth weight by 3 weeks require admission or observation.",
+    "Unsafe feeding signs include choking, cyanosis, suspected aspiration, or inability to maintain hydration orally.",
+    "Systemic infection signs such as fever with poor perfusion or lethargy necessitate rapid diagnostics and monitoring.",
+    "Outpatient care is appropriate only if the child is hemodynamically stable, adequately hydrated, and caregivers can follow a written nutrition plan.",
+    "Failed outpatient management over 2\u20134 weeks with documented adherence requires specialist referral and expanded investigations."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Faltering Growth",
+    "Feeding and Eating Disorders",
+    "Dehydration",
+    "Infant Nutrition Disorders",
+    "Caregiver Burden",
+    "Hospitalization",
+    "Outpatient Care",
+    "Risk Assessment"
+  ],
+  "tags_custom": [
+    "feeding difficulties",
+    "urgent referral criteria",
+    "site-of-care decisions",
+    "pediatric triage",
+    "nutrition management"
+  ],
+  "reference_quote": "Admit or observe the same day when any of the following apply: young infants with rapid decline, >10% early weight loss, clinical dehydration, or not back to birth weight by 3 weeks despite feeding support. (NICE NG75)",
+  "document_key_topics": [
+    "Criteria for inpatient versus outpatient care in faltering growth",
+    "Red flags for urgent referral in feeding difficulties",
+    "Importance of caregiver capacity and follow-up reliability"
+  ],
+  "chunk_heading": "FEEDING DIFFICULTIES & FALTERING GROWTH;TRIAGE RED FLAGS AND URGENT REFERRAL DECISIONS;OUTPATIENT VERSUS INPATIENT SITE-OF-CARE CRITERIA;",
+  "topic": "FEEDING DIFFICULTIES & FALTERING GROWTH",
+  "subtopic": "TRIAGE RED FLAGS AND URGENT REFERRAL DECISIONS",
+  "sub_subtopic": "OUTPATIENT VERSUS INPATIENT SITE-OF-CARE CRITERIA",
+  "heading_path": "FEEDING DIFFICULTIES & FALTERING GROWTH;TRIAGE RED FLAGS AND URGENT REFERRAL DECISIONS;OUTPATIENT VERSUS INPATIENT SITE-OF-CARE CRITERIA;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1i5"
+}

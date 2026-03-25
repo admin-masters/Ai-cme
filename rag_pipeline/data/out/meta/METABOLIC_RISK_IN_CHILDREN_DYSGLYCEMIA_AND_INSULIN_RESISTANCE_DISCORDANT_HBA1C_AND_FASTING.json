@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section addresses discordant HbA1c and fasting glucose results in Indian children, emphasizing anemia correction, OGTT use, and avoiding diagnostic bias in metabolic risk evaluation.",
+  "learning_objectives": [
+    "Understand the impact of iron deficiency anemia and hemoglobinopathies on HbA1c interpretation.",
+    "Learn structured pathways for resolving discordant HbA1c and fasting glucose results in children.",
+    "Recognize the importance of OGTT in detecting impaired glucose tolerance missed by fasting tests.",
+    "Avoid diagnostic anchoring bias in differentiating diabetes types in children."
+  ],
+  "key_facts": [
+    "Iron deficiency anemia can falsely elevate HbA1c; iron replacement lowers HbA1c without true glycemic change.",
+    "HbA1c of 5.7\u20136.4% with fasting glucose <100 mg/dL requires anemia assessment and correction before retesting.",
+    "Fasting glucose of 100\u2013125 mg/dL with HbA1c <5.7% indicates prediabetes risk; OGTT is recommended in puberty, MASLD, or strong family history.",
+    "Discordant glycemic results are common in India due to prevalent hemoglobinopathies and anemia.",
+    "Evaluate for pancreatic autoantibodies in cases of diabetes-range glycemia with weight loss, ketosis, or rapid onset."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Metabolic Syndrome",
+    "Dysglycemia",
+    "Insulin Resistance",
+    "Hemoglobin A1c",
+    "Iron Deficiency Anemia",
+    "Oral Glucose Tolerance Test",
+    "Pediatric Obesity",
+    "Autoimmune Diabetes"
+  ],
+  "tags_custom": [
+    "HbA1c discordance",
+    "Indian pediatric guidelines",
+    "OGTT in children",
+    "anemia and glycemia",
+    "diabetes diagnostic pathways"
+  ],
+  "reference_quote": "Iron deficiency is associated with higher HbA1c, and iron replacement can lower HbA1c without true glycemic change. \u2014 NGSP",
+  "document_key_topics": [
+    "Discordant HbA1c and fasting glucose interpretation in Indian children",
+    "Impact of anemia and hemoglobinopathies on glycemic markers",
+    "Structured clinical pathways for dysglycemia and insulin resistance",
+    "Avoiding diagnostic bias in pediatric diabetes evaluation"
+  ],
+  "chunk_heading": "METABOLIC RISK IN CHILDREN; DYSGLYCEMIA AND INSULIN RESISTANCE CLINICAL PATHWAY;DISCORDANT HBA1C AND FASTING GLUCOSE INTERPRETATION IN INDIA;",
+  "topic": "METABOLIC RISK IN CHILDREN",
+  "subtopic": "DYSGLYCEMIA AND INSULIN RESISTANCE CLINICAL PATHWAY",
+  "sub_subtopic": "DISCORDANT HBA1C AND FASTING GLUCOSE INTERPRETATION IN INDIA",
+  "heading_path": "METABOLIC RISK IN CHILDREN; DYSGLYCEMIA AND INSULIN RESISTANCE CLINICAL PATHWAY;DISCORDANT HBA1C AND FASTING GLUCOSE INTERPRETATION IN INDIA;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1y3"
+}

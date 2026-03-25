@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "This section outlines telemedicine compliance, consent, and documentation requirements for tele-nutrition in India, emphasizing RMP accountability, consent protocols, and mandatory record retention for at least three years.",
+  "learning_objectives": [
+    "Understand the professional accountability of RMPs in tele-nutrition practices in India.",
+    "Learn the consent requirements for tele-nutrition consultations, especially for minors.",
+    "Identify the documentation and record retention guidelines for tele-nutrition services.",
+    "Recognize the limitations of telemedicine in emergency and pediatric nutrition scenarios."
+  ],
+  "key_facts": [
+    "Tele-nutrition in India requires the same professional accountability as in-person care.",
+    "Consent is implied if the caregiver initiates the consult but must be explicit if initiated by the clinic.",
+    "For minors (<18 years), consent must come from a parent, adult sibling, or legal guardian.",
+    "Case records and digital trails must be retained for at least three years from the last consult.",
+    "Telemedicine is not recommended for emergencies unless limited to first aid, life-saving measures, counseling, or referral advice.",
+    "Prescriptions must be issued by RMPs, and therapeutic supplements or drugs cannot be prescribed by non-RMP staff."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Telemedicine",
+    "Nutrition Therapy",
+    "Informed Consent",
+    "Medical Records",
+    "Pediatrics",
+    "Professional Practice",
+    "Remote Consultation",
+    "India"
+  ],
+  "tags_custom": [
+    "tele-nutrition",
+    "regulatory compliance",
+    "pediatric nutrition",
+    "digital health"
+  ],
+  "reference_quote": "Telemedicine guidance frames the clinical act as being delivered by a registered medical practitioner (RMP) and warns that remote assessment has intrinsic limits.",
+  "document_key_topics": [
+    "Telemedicine compliance in tele-nutrition",
+    "Consent protocols for tele-nutrition consultations",
+    "Documentation and record retention requirements"
+  ],
+  "chunk_heading": "DIGITAL TOOLS & TELE-NUTRITION;GUIDELINE FOUNDATIONS AND REGULATORY SCOPE FOR TELE-NUTRITION IN INDIA;TELEMEDICINE PRACTICE GUIDELINE COMPLIANCE, CONSENT, AND DOCUMENTATION;",
+  "topic": "DIGITAL TOOLS & TELE-NUTRITION",
+  "subtopic": "GUIDELINE FOUNDATIONS AND REGULATORY SCOPE FOR TELE-NUTRITION IN INDIA",
+  "sub_subtopic": "TELEMEDICINE PRACTICE GUIDELINE COMPLIANCE, CONSENT, AND DOCUMENTATION",
+  "heading_path": "DIGITAL TOOLS & TELE-NUTRITION;GUIDELINE FOUNDATIONS AND REGULATORY SCOPE FOR TELE-NUTRITION IN INDIA;TELEMEDICINE PRACTICE GUIDELINE COMPLIANCE, CONSENT, AND DOCUMENTATION;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1b1"
+}

@@ -1,0 +1,47 @@
+{
+  "chunk_summary": "Clinic vignettes illustrate sequenced outpatient pathways for managing pediatric obesity, emphasizing comorbidity-driven decisions such as insulin resistance, OSA, steatotic liver disease, and depression screening.",
+  "learning_objectives": [
+    "Understand the role of comorbidities in tailoring obesity management pathways for pediatric patients.",
+    "Apply evidence-based guidelines for screening and managing insulin resistance, OSA, and steatotic liver disease in children with obesity.",
+    "Recognize the importance of mental health assessment in obesity management, especially in cases involving bullying or depression."
+  ],
+  "key_facts": [
+    "A BMI above the adult-equivalent 23 line on the IAP 2015 chart indicates overweight status in Indian practice.",
+    "A 12-year-old with obesity and habitual snoring should be evaluated for OSA using polysomnography or ENT referral per AAP guidelines.",
+    "Elevated ALT in a 14-year-old with class 2 obesity suggests steatotic liver disease risk; repeat ALT in 8\u201312 weeks and refer if persistent.",
+    "Mental health linkage and safety assessment are prioritized for a 13-year-old with obesity and school avoidance due to bullying.",
+    "Lifestyle interventions include removing sugar-sweetened beverages, restructuring meals, and protecting sleep routines."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Obesity",
+    "Pediatric Obesity",
+    "Insulin Resistance",
+    "Obstructive Sleep Apnea",
+    "Steatotic Liver Disease",
+    "Depression",
+    "Lifestyle Intervention",
+    "Comorbidity"
+  ],
+  "tags_custom": [
+    "clinic vignettes",
+    "sequenced pathway",
+    "pediatric obesity management",
+    "comorbidity-driven care"
+  ],
+  "reference_quote": "A BMI above the adult-equivalent 23 line on the IAP 2015 chart indicates overweight status in Indian practice. (Source: IAP Guidelines on Prevention and Management of Childhood Obesity, 2023)",
+  "document_key_topics": [
+    "Pediatric obesity management",
+    "Comorbidity-driven care pathways",
+    "Lifestyle interventions for obesity",
+    "Mental health and obesity"
+  ],
+  "chunk_heading": "OVERNUTRITION & OBESITY MANAGEMENT;SEQUENCED OUTPATIENT PATHWAY AND FOLLOW-UP CADENCE;CLINIC VIGNETTES ILLUSTRATING PATHWAY-CONSISTENT DECISIONS;",
+  "topic": "OVERNUTRITION & OBESITY MANAGEMENT",
+  "subtopic": "SEQUENCED OUTPATIENT PATHWAY AND FOLLOW-UP CADENCE",
+  "sub_subtopic": "CLINIC VIGNETTES ILLUSTRATING PATHWAY-CONSISTENT DECISIONS",
+  "heading_path": "OVERNUTRITION & OBESITY MANAGEMENT;SEQUENCED OUTPATIENT PATHWAY AND FOLLOW-UP CADENCE;CLINIC VIGNETTES ILLUSTRATING PATHWAY-CONSISTENT DECISIONS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u00946"
+}

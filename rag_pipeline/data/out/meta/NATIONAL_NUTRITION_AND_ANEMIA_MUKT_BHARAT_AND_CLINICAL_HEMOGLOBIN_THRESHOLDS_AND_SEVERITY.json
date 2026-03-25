@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section discusses hemoglobin thresholds and severity classification in India's Anemia Mukt Bharat program, highlighting WHO 2024 updates, clinical management strategies, and implications for national surveys and program dashboards.",
+  "learning_objectives": [
+    "Understand the updated WHO 2024 hemoglobin thresholds and their implications for anemia classification.",
+    "Learn how hemoglobin thresholds influence clinical referral and programmatic decisions in India.",
+    "Recognize the importance of documenting the framework used for anemia classification in clinical and survey contexts.",
+    "Identify clinical signs of severe anemia requiring urgent stabilization and referral."
+  ],
+  "key_facts": [
+    "WHO 2024 hemoglobin thresholds: <10.5 g/dL for 6\u201323 months, <11.0 g/dL for 24\u201359 months.",
+    "NFHS-5 Phase 2 reports anemia prevalence in children 6\u201359 months (<11 g/dL) at 67.1% nationally.",
+    "Hemoglobin thresholds influence school screening, referral urgency, and program dashboards in India.",
+    "Severe anemia should be treated as a clinical syndrome, with symptoms like tachycardia, respiratory distress, or shock prompting urgent care.",
+    "Comparing anemia prevalence across time periods requires consistent use of the same cutoff framework."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Anemia",
+    "Hemoglobin",
+    "Iron Deficiency",
+    "Child Health",
+    "Clinical Guidelines",
+    "Referral and Consultation",
+    "Public Health Programs",
+    "India"
+  ],
+  "tags_custom": [
+    "Anemia Mukt Bharat",
+    "Hemoglobin thresholds",
+    "WHO guidelines",
+    "National surveys",
+    "Clinical management"
+  ],
+  "reference_quote": "WHO updated hemoglobin cutoffs in 2024, introducing separate thresholds for 6\u201323 months (<10.5 g/dL) versus 24\u201359 months (<11.0 g/dL) and updating severity bands.",
+  "document_key_topics": [
+    "WHO 2024 hemoglobin threshold updates",
+    "Anemia prevalence in India (NFHS-5 data)",
+    "Clinical management of severe anemia",
+    "Programmatic implications of hemoglobin thresholds"
+  ],
+  "chunk_heading": "NATIONAL NUTRITION AND FORTIFICATION PROGRAMS IN INDIA;ANEMIA MUKT BHARAT AND CLINICAL IRON MANAGEMENT;HEMOGLOBIN THRESHOLDS AND SEVERITY CLASSIFICATION FOR REFERRAL;",
+  "topic": "NATIONAL NUTRITION AND FORTIFICATION PROGRAMS IN INDIA",
+  "subtopic": "ANEMIA MUKT BHARAT AND CLINICAL IRON MANAGEMENT",
+  "sub_subtopic": "HEMOGLOBIN THRESHOLDS AND SEVERITY CLASSIFICATION FOR REFERRAL",
+  "heading_path": "NATIONAL NUTRITION AND FORTIFICATION PROGRAMS IN INDIA;ANEMIA MUKT BHARAT AND CLINICAL IRON MANAGEMENT;HEMOGLOBIN THRESHOLDS AND SEVERITY CLASSIFICATION FOR REFERRAL;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2t2"
+}

@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "This section discusses dietary modifications for transient lactose intolerance, cow\u2019s milk protein allergy, and celiac disease, emphasizing proper diagnosis, management, and nutritional balance to prevent complications.",
+  "learning_objectives": [
+    "Differentiate between transient lactose intolerance and cow\u2019s milk protein allergy based on clinical features.",
+    "Understand the dietary management of secondary lactose intolerance and celiac disease.",
+    "Recognize red flags requiring referral in cases of chronic gastrointestinal symptoms.",
+    "Learn the importance of avoiding unnecessary dietary restrictions and ensuring balanced nutrition."
+  ],
+  "key_facts": [
+    "Secondary lactose intolerance often follows mucosal injury and presents with watery stools, bloating, and perianal rash after milk consumption.",
+    "Management of lactose intolerance includes temporary lactose reduction and reintroduction as symptoms improve to avoid prolonged diet narrowing.",
+    "Cow\u2019s milk protein allergy is suggested by blood or mucus in stools, eczema, wheeze, vomiting, or poor growth after milk exposure.",
+    "Celiac disease should be suspected in cases of chronic diarrhea, abdominal distension, anemia, or persistent undernutrition despite adequate intake.",
+    "Gluten-free diets should not be started before testing for celiac disease to avoid false-negative serology results.",
+    "Referral is recommended for red flags such as blood in stool, failure to thrive, dehydration, or nocturnal symptoms.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Lactose Intolerance",
+    "Cow's Milk Protein Allergy",
+    "Celiac Disease",
+    "Dietary Modification",
+    "Gastroenteritis",
+    "Nutritional Deficiencies",
+    "Growth Disorders",
+    "Food Hypersensitivity"
+  ],
+  "tags_custom": [
+    "Pediatric Nutrition",
+    "Dietary Management",
+    "Gastrointestinal Disorders",
+    "Food Allergies"
+  ],
+  "reference_quote": "Secondary lactose intolerance typically follows mucosal injury and presents with watery stools, abdominal bloating, and perianal rash after milk, without blood in stool or systemic allergy features. (Source: https://www.ncbi.nlm.nih.gov/books/NBK532285/)",
+  "document_key_topics": [
+    "Lactose intolerance management",
+    "Cow\u2019s milk protein allergy diagnosis",
+    "Celiac disease and gluten-free diet guidelines",
+    "Nutritional balance in dietary restrictions"
+  ],
+  "chunk_heading": "MODIFICATION;",
+  "topic": "MODIFICATION",
+  "subtopic": "General",
+  "sub_subtopic": null,
+  "heading_path": "MODIFICATION;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "4a.1"
+}

@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section outlines empiric antibiotic regimens for severe acute malnutrition (SAM), emphasizing protocolized treatment based on complication status, with specific dosages and durations for various conditions.",
+  "learning_objectives": [
+    "Understand the rationale for empiric antibiotic use in SAM due to silent infections and blunted inflammatory responses.",
+    "Identify first-line antibiotic regimens for uncomplicated and complicated SAM cases.",
+    "Learn the criteria for escalating therapy and modifying antibiotics based on clinical response or culture results.",
+    "Recognize syndrome-specific durations for antibiotic therapy in SAM-related infections."
+  ],
+  "key_facts": [
+    "Uncomplicated SAM: Oral amoxicillin 15 mg/kg every 8 hours for 5 days.",
+    "Complicated SAM: Inj. ampicillin 50 mg/kg every 6 hours + inj. gentamicin 7.5 mg/kg once daily for 7 days.",
+    "Suspected staphylococcal infection: Add inj. cloxacillin (100 mg/kg/day in divided doses).",
+    "Sepsis treatment duration: 7 days for suspected, 10\u201314 days for culture-proven cases.",
+    "Meningitis treatment duration: 14\u201321 days; deep-seated infections require at least 4 weeks.",
+    "Third-generation cephalosporins (e.g., cefotaxime 150 mg/kg/day or ceftriaxone 100 mg/kg/day) are used for severe cases or specific syndromes."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Severe Acute Malnutrition",
+    "Empiric Antibiotic Therapy",
+    "Pediatric Infections",
+    "Sepsis",
+    "Meningitis",
+    "Antibiotic Resistance",
+    "Community Health Services",
+    "Nutrition Disorders"
+  ],
+  "tags_custom": [
+    "SAM management",
+    "pediatric antibiotics",
+    "infection protocols",
+    "complicated malnutrition"
+  ],
+  "reference_quote": "In SAM, routine infections can be clinically silent and inflammatory responses blunted, so empiric antibiotics are protocolized rather than optional.",
+  "document_key_topics": [
+    "Empiric antibiotic regimens for SAM",
+    "Management of uncomplicated and complicated SAM",
+    "Syndrome-specific antibiotic durations",
+    "Criteria for therapy escalation and modification"
+  ],
+  "chunk_heading": "PUBLIC HEALTH & COMMUNITY PEDIATRIC NUTRITION;FACILITY MANAGEMENT OF COMPLICATED SAM AND DISCHARGE PLANNING;EMPIRIC ANTIBIOTICS IN SEVERE ACUTE MALNUTRITION FIRST LINE REGIMENS;",
+  "topic": "PUBLIC HEALTH & COMMUNITY PEDIATRIC NUTRITION",
+  "subtopic": "FACILITY MANAGEMENT OF COMPLICATED SAM AND DISCHARGE PLANNING",
+  "sub_subtopic": "EMPIRIC ANTIBIOTICS IN SEVERE ACUTE MALNUTRITION FIRST LINE REGIMENS",
+  "heading_path": "PUBLIC HEALTH & COMMUNITY PEDIATRIC NUTRITION;FACILITY MANAGEMENT OF COMPLICATED SAM AND DISCHARGE PLANNING;EMPIRIC ANTIBIOTICS IN SEVERE ACUTE MALNUTRITION FIRST LINE REGIMENS;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1\u00802.1"
+}

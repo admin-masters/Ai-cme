@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "Guidelines for monitoring growth and lab values in preterm infants receiving expressed or donor milk, emphasizing actionable steps for nutrition therapy and fortification adjustments.",
+  "learning_objectives": [
+    "Understand the importance of linking growth and lab monitoring to actionable nutrition therapy.",
+    "Learn how to assess and adjust milk fortification based on weight gain, BUN levels, and metabolic bone disease indicators.",
+    "Identify strategies to manage feeding intolerance and avoid complications like NEC during fortification."
+  ],
+  "key_facts": [
+    "Target weight gain: \u226515 g/kg/day over 3 days; investigate intake discrepancies if below target.",
+    "Low BUN with poor growth suggests increasing protein delivery; high BUN requires hydration and renal function assessment.",
+    "Low phosphorus with rising ALP indicates inadequate mineral intake, requiring fortifier review and supplementation adjustments.",
+    "Prolonged exposure to unfortified donor human milk (DHM) increases risk of metabolic bone disease of prematurity (MBD).",
+    "Feeding intolerance after fortification may require stepping down to half-strength fortifier while maintaining human milk feeds."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Infant, Premature",
+    "Human Milk",
+    "Milk Banks",
+    "Nutrition Therapy",
+    "Bone Diseases, Metabolic",
+    "Feeding Intolerance",
+    "BUN (Blood Urea Nitrogen)",
+    "Necrotizing Enterocolitis"
+  ],
+  "tags_custom": [
+    "growth monitoring",
+    "milk fortification",
+    "preterm nutrition",
+    "feeding intolerance management",
+    "metabolic bone disease"
+  ],
+  "reference_quote": "Fortification of human milk for preterm infants: update and recommendations of the European Milk Bank Association Working Group \u2014 'Fortification protocols should be tailored to individual growth and metabolic needs, with close monitoring of lab values and clinical tolerance.'",
+  "document_key_topics": [
+    "Growth monitoring in preterm infants",
+    "Milk fortification protocols",
+    "Metabolic bone disease of prematurity (MBD)",
+    "Feeding intolerance management"
+  ],
+  "chunk_heading": "EXPRESSED MILK, DONOR MILK & MILK BANKING;ACTION RULES FOR GROWTH AND LAB MONITORING;",
+  "topic": "EXPRESSED MILK, DONOR MILK & MILK BANKING",
+  "subtopic": "ACTION RULES FOR GROWTH AND LAB MONITORING",
+  "sub_subtopic": null,
+  "heading_path": "EXPRESSED MILK, DONOR MILK & MILK BANKING;ACTION RULES FOR GROWTH AND LAB MONITORING;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2|"
+}

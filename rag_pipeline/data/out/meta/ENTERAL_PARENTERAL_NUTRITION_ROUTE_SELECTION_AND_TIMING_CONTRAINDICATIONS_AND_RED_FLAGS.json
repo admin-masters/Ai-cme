@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "This section discusses contraindications and red flags for initiating or continuing enteral feeding in critically ill patients, emphasizing hemodynamic stability, gut perfusion, and specific clinical scenarios where enteral nutrition (EN) should be withheld or paused.",
+  "learning_objectives": [
+    "Identify clinical contraindications and red flags for initiating or continuing enteral feeding in critically ill patients.",
+    "Understand the role of hemodynamic stability and gut perfusion in enteral nutrition decisions.",
+    "Recognize when to transition from withholding enteral nutrition to initiating trophic feeds.",
+    "Learn alternative strategies, such as supplemental parenteral nutrition, when enteral feeding is not feasible."
+  ],
+  "key_facts": [
+    "Enteral feeding should be withheld in cases of refractory shock with escalating vasopressor requirements, rising lactate, or abdominal compartment syndrome.",
+    "Red flags for stopping feeds include progressive emesis, bilious vomiting without a bilious baseline, hematemesis, and sudden respiratory compromise.",
+    "Routine gastric residual volume (GRV) checks should not be used as the sole marker of feeding intolerance due to lack of clear outcome benefit.",
+    "Trophic gastric feeds can be considered during hemodynamic stability to maintain gut integrity but must be low-volume and monitored for signs of deterioration.",
+    "If enteral nutrition is not feasible for several days, supplemental parenteral nutrition should be planned to avoid prolonged fasting.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Enteral Nutrition",
+    "Parenteral Nutrition",
+    "Critical Illness",
+    "Hemodynamic Stability",
+    "Gastrointestinal Diseases",
+    "Shock",
+    "Necrotizing Enterocolitis",
+    "Nutritional Support"
+  ],
+  "tags_custom": [
+    "contraindications",
+    "feeding intolerance",
+    "critical care nutrition",
+    "red flags",
+    "gut perfusion"
+  ],
+  "reference_quote": "Feeds should be withheld or paused when there is strong concern for gut ischemia/necrosis or inability to move/absorb feeds safely. (Source: ASPEN/SCCM 2017 \u2014 https://pubmed.ncbi.nlm.nih.gov/28686844/)",
+  "document_key_topics": [
+    "Contraindications for enteral feeding",
+    "Red flags for feeding intolerance",
+    "Transitioning to trophic feeds",
+    "Supplemental parenteral nutrition planning"
+  ],
+  "chunk_heading": "ENTERAL & PARENTERAL NUTRITION;ROUTE SELECTION AND TIMING DECISIONS FOR ENTERAL AND PARENTERAL NUTRITION;CONTRAINDICATIONS AND RED FLAGS FOR ENTERAL FEEDING;",
+  "topic": "ENTERAL & PARENTERAL NUTRITION",
+  "subtopic": "ROUTE SELECTION AND TIMING DECISIONS FOR ENTERAL AND PARENTERAL NUTRITION",
+  "sub_subtopic": "CONTRAINDICATIONS AND RED FLAGS FOR ENTERAL FEEDING",
+  "heading_path": "ENTERAL & PARENTERAL NUTRITION;ROUTE SELECTION AND TIMING DECISIONS FOR ENTERAL AND PARENTERAL NUTRITION;CONTRAINDICATIONS AND RED FLAGS FOR ENTERAL FEEDING;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1e2"
+}

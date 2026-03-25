@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Guidelines for trace element and vitamin dosing in pediatric parenteral nutrition, with specific modifications for cholestasis, including adjusted manganese and copper management and increased monitoring for high-output losses.",
+  "learning_objectives": [
+    "Understand routine trace element dosing and condition-specific modifications in pediatric parenteral nutrition.",
+    "Learn cholestasis-specific adjustments for manganese and copper dosing in parenteral nutrition.",
+    "Recognize the importance of monitoring serum zinc and alkaline phosphatase in high-output losses.",
+    "Prescribe daily IV multivitamins containing water- and fat-soluble vitamins for pediatric patients on long-term PN."
+  ],
+  "key_facts": [
+    "Zinc dosing: 250 micrograms/kg/day for term infants up to 3 months, 100 micrograms/kg/day for 3\u201312 months, and 50 micrograms/kg/day for children older than 12 months (maximum 5 mg/day).",
+    "Copper dosing: 20 micrograms/kg/day for term infants and children (maximum 0.5 mg/day).",
+    "Selenium dosing: 2\u20133 micrograms/kg/day for term infants and children (maximum 100 micrograms/day).",
+    "Manganese dosing: No more than 1 microgram/kg/day (maximum 50 micrograms/day) due to tissue deposition risk; discontinue in cholestasis.",
+    "Cholestasis management: Avoid reflex zero-copper dosing; monitor copper status and individualize dosing."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Parenteral Nutrition",
+    "Trace Elements",
+    "Vitamins",
+    "Cholestasis",
+    "Pediatrics",
+    "Electrolyte Balance",
+    "Micronutrients",
+    "Nutritional Support"
+  ],
+  "tags_custom": [
+    "pediatric nutrition",
+    "cholestasis management",
+    "trace element dosing",
+    "parenteral vitamin provision",
+    "high-output losses"
+  ],
+  "reference_quote": "Prescribe a daily IV multivitamin containing water- and fat-soluble vitamins from the outset whenever possible.",
+  "document_key_topics": [
+    "Trace element dosing in pediatric parenteral nutrition",
+    "Cholestasis-specific modifications for manganese and copper",
+    "Vitamin provision in long-term parenteral nutrition",
+    "Monitoring and adjustments for high-output losses"
+  ],
+  "chunk_heading": "ENTERAL & PARENTERAL NUTRITION;PARENTERAL ELECTROLYTE VITAMIN AND TRACE ELEMENT PRESCRIPTION;TRACE ELEMENT AND VITAMIN PROVISION WITH CHOLESTASIS MODIFICATIONS;",
+  "topic": "ENTERAL & PARENTERAL NUTRITION",
+  "subtopic": "PARENTERAL ELECTROLYTE VITAMIN AND TRACE ELEMENT PRESCRIPTION",
+  "sub_subtopic": "TRACE ELEMENT AND VITAMIN PROVISION WITH CHOLESTASIS MODIFICATIONS",
+  "heading_path": "ENTERAL & PARENTERAL NUTRITION;PARENTERAL ELECTROLYTE VITAMIN AND TRACE ELEMENT PRESCRIPTION;TRACE ELEMENT AND VITAMIN PROVISION WITH CHOLESTASIS MODIFICATIONS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2\u00892"
+}

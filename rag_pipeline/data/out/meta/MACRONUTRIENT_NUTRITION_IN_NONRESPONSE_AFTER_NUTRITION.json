@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Non-response to nutrition therapy in children requires reassessment of adherence, screening for organic causes, and timely escalation to advanced workup or referral based on clinical severity and growth metrics.",
+  "learning_objectives": [
+    "Understand timelines for expected weight change after nutrition therapy in children.",
+    "Identify key clinical signs warranting escalation in non-responsive cases.",
+    "Learn first-line diagnostic workup for faltering growth in resource-limited settings.",
+    "Recognize when to refer for specialized care in cases of severe malnutrition or safeguarding concerns."
+  ],
+  "key_facts": [
+    "Improved meal frequency and energy density should produce measurable weight change within 2\u20134 weeks in uncomplicated cases.",
+    "Escalation is warranted if weight-for-length/height is < -3 SD or if symptoms like bilateral pedal edema, chronic diarrhea (>14 days), or developmental regression are present.",
+    "Screen for chronic infections (e.g., TB, HIV), celiac disease, inflammatory bowel disease, renal disease, congenital heart disease, and endocrine disorders.",
+    "First-line workup includes complete blood count, urinalysis, stool exam, and targeted tests like tissue transglutaminase IgA for suspected celiac disease.",
+    "Referral should not be delayed if the child is clinically unwell, dehydrated, hypoxic, has edema, or safeguarding concerns exist."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Child Nutrition Disorders",
+    "Failure to Thrive",
+    "Malnutrition",
+    "Growth Disorders",
+    "Pediatric Diagnosis",
+    "Nutritional Therapy",
+    "Dietary Supplements",
+    "Referral and Consultation"
+  ],
+  "tags_custom": [
+    "faltering growth",
+    "nutrition therapy escalation",
+    "pediatric malnutrition",
+    "clinical workup",
+    "organic causes screening"
+  ],
+  "reference_quote": "Improved meal frequency and energy density should produce measurable weight change within 2\u20134 weeks. (NICE NG75, 2017)",
+  "document_key_topics": [
+    "Non-response to nutrition therapy in children",
+    "Timelines for weight change after dietary intervention",
+    "Escalation criteria for faltering growth",
+    "First-line diagnostic workup in resource-limited settings"
+  ],
+  "chunk_heading": "MACRONUTRIENT NUTRITION IN CHILDHOOD;NON-RESPONSE AFTER NUTRITION THERAPY TIMELINES AND ESCALATION WORKUP;",
+  "topic": "MACRONUTRIENT NUTRITION IN CHILDHOOD",
+  "subtopic": "NON-RESPONSE AFTER NUTRITION THERAPY TIMELINES AND ESCALATION WORKUP",
+  "sub_subtopic": null,
+  "heading_path": "MACRONUTRIENT NUTRITION IN CHILDHOOD;NON-RESPONSE AFTER NUTRITION THERAPY TIMELINES AND ESCALATION WORKUP;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "3o"
+}

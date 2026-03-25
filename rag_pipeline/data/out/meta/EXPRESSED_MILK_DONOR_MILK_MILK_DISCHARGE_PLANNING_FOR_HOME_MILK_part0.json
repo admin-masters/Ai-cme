@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section outlines discharge planning for preterm infants, focusing on safe handling, storage, and fortification of expressed milk, with specific guidelines for NICU graduates and fortified milk preparation.",
+  "learning_objectives": [
+    "Understand the importance of written protocols for home milk handling and storage for preterm infants.",
+    "Learn safe practices for transporting expressed milk, including maintaining a cold chain.",
+    "Recognize the risks and safety measures associated with fortifying milk at home.",
+    "Identify follow-up strategies to reassess fortification needs and ensure growth monitoring."
+  ],
+  "key_facts": [
+    "Refrigerate expressed milk promptly at about 4\u00b0C and discard milk kept at room temperature beyond a few hours.",
+    "Thawed milk must be used within 24 hours of complete thawing.",
+    "Transport milk in an insulated cooler with frozen gel packs to maintain a cold chain.",
+    "Prepare fortified milk only for the next 24 hours, refrigerate it, and discard leftovers after feeding.",
+    "Label fortified bottles with preparation time and strength to minimize errors.",
+    "Reassess fortification needs at early follow-up based on weight gain and feeding tolerance."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Breast Milk",
+    "Infant, Premature",
+    "Milk Banks",
+    "Milk Handling",
+    "Fortified Foods",
+    "Growth Monitoring",
+    "Cold Chain",
+    "Feeding Behavior"
+  ],
+  "tags_custom": [
+    "NICU discharge",
+    "milk fortification",
+    "infant nutrition",
+    "home milk safety"
+  ],
+  "reference_quote": "Families need a written protocol for home collection, labeling, storage, and transport that matches the infant\u2019s risk profile.",
+  "document_key_topics": [
+    "Expressed milk handling and storage",
+    "Milk fortification safety",
+    "Discharge planning for preterm infants",
+    "Follow-up and growth monitoring"
+  ],
+  "chunk_heading": "EXPRESSED MILK, DONOR MILK & MILK BANKING;DISCHARGE PLANNING FOR HOME MILK HANDLING AND FORTIFICATION;",
+  "topic": "EXPRESSED MILK, DONOR MILK & MILK BANKING",
+  "subtopic": "DISCHARGE PLANNING FOR HOME MILK HANDLING AND FORTIFICATION",
+  "sub_subtopic": null,
+  "heading_path": "EXPRESSED MILK, DONOR MILK & MILK BANKING;DISCHARGE PLANNING FOR HOME MILK HANDLING AND FORTIFICATION;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2~.1"
+}

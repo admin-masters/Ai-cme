@@ -1,0 +1,47 @@
+{
+  "chunk_summary": "This section outlines stepwise plotting of BMI using IAP growth charts for children aged 5\u201318, emphasizing error prevention in OPD settings and severity classification for obesity management.",
+  "learning_objectives": [
+    "Understand the stepwise process for plotting BMI on IAP growth charts for ages 5\u201318.",
+    "Learn methods to prevent common OPD errors in anthropometric measurements and BMI classification.",
+    "Apply severity classification for obesity using IAP percent-of-cutoff guidelines for escalation planning."
+  ],
+  "key_facts": [
+    "BMI is calculated as weight (kg) divided by height (m) squared.",
+    "IAP BMI charts are sex-specific and applicable for ages 5\u201318.",
+    "Adult-equivalent BMI cutoffs: below 23, between 23\u201327, and at/above 27.",
+    "Severe obesity staging: Class 2 (120\u2013140% of age-specific cutoff) and Class 3 (\u2265140%).",
+    "Common OPD errors include age miscalculation and incorrect height/weight measurements."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Body Mass Index",
+    "Anthropometry",
+    "Obesity",
+    "Pediatric Obesity",
+    "Growth Charts",
+    "Risk Assessment",
+    "Clinical Guidelines",
+    "India"
+  ],
+  "tags_custom": [
+    "IAP BMI chart plotting",
+    "OPD error prevention",
+    "Childhood obesity management",
+    "Severity classification"
+  ],
+  "reference_quote": "Never apply adult cutoffs (25/30) to children in Indian practice because this delays recognition of risk.",
+  "document_key_topics": [
+    "Standardized anthropometry for BMI calculation",
+    "IAP BMI chart plotting for ages 5\u201318",
+    "Error prevention in OPD settings",
+    "Severity classification for obesity management"
+  ],
+  "chunk_heading": "OVERNUTRITION & OBESITY MANAGEMENT;STANDARDIZED ANTHROPOMETRY AND CHART-BASED DIAGNOSIS;STEPWISE IAP BMI CHART PLOTTING AND OPD ERROR PREVENTION;",
+  "topic": "OVERNUTRITION & OBESITY MANAGEMENT",
+  "subtopic": "STANDARDIZED ANTHROPOMETRY AND CHART-BASED DIAGNOSIS",
+  "sub_subtopic": "STEPWISE IAP BMI CHART PLOTTING AND OPD ERROR PREVENTION",
+  "heading_path": "OVERNUTRITION & OBESITY MANAGEMENT;STANDARDIZED ANTHROPOMETRY AND CHART-BASED DIAGNOSIS;STEPWISE IAP BMI CHART PLOTTING AND OPD ERROR PREVENTION;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1g3"
+}

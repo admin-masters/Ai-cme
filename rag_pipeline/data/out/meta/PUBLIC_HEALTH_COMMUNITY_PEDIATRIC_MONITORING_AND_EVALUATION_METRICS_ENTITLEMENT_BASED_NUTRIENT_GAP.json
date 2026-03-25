@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section discusses entitlement-based nutrient gap estimation using intake fraction to evaluate pediatric nutrition programs and identify barriers to effective nutrient delivery.",
+  "learning_objectives": [
+    "Understand the concept of intake fraction and its application in estimating nutrient gaps in pediatric nutrition programs.",
+    "Learn how to calculate nutrient gaps based on entitlement and consumption data for schemes like ICDS and PM POSHAN.",
+    "Identify proximal barriers to nutrient intake, such as taste, stigma, or illness-related anorexia.",
+    "Explore corrective actions like intake audits and meal-day tracking to improve program outcomes."
+  ],
+  "key_facts": [
+    "ICDS THR entitlement for children aged 6\u201335 months: 500 kcal and 12\u201315 g protein per day.",
+    "PM POSHAN lower primary entitlement: 450 kcal and 12 g protein per school day.",
+    "Example calculation: If a child consumes 50% of ICDS THR entitlement, they receive ~250 kcal and 6\u20137.5 g protein, with an equivalent gap.",
+    "Plate-waste observation for PM POSHAN suggests ~70% consumption, resulting in ~315 kcal and 8.4 g protein per meal-day, missing ~135 kcal and 3.6 g protein daily.",
+    "Missed service days significantly impact scheme contribution; e.g., 10 meal-days/month halves expected nutrient delivery."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Pediatric Nutrition",
+    "Nutritional Status",
+    "Community Health Services",
+    "Food Security",
+    "Dietary Intake",
+    "Malnutrition",
+    "Program Evaluation",
+    "Nutrition Assessment"
+  ],
+  "tags_custom": [
+    "Intake Fraction Analysis",
+    "Entitlement-Based Nutrition",
+    "Corrective Action Metrics",
+    "Pediatric Food Programs",
+    "Nutrient Gap Estimation"
+  ],
+  "reference_quote": "National Food Security Act, 2013 Schedule II Nutritional Standards: 'Entitlement-based nutritional standards are defined for children, pregnant women, and lactating mothers under public schemes.'",
+  "document_key_topics": [
+    "Entitlement-based nutrient gap estimation",
+    "Intake fraction methodology for pediatric nutrition programs",
+    "Barriers to effective nutrient delivery in public schemes",
+    "Corrective actions for improving program outcomes"
+  ],
+  "chunk_heading": "PUBLIC HEALTH & COMMUNITY PEDIATRIC NUTRITION;MONITORING AND EVALUATION METRICS FOR PROGRAM CORRECTIVE ACTION;ENTITLEMENT BASED NUTRIENT GAP ESTIMATION USING INTAKE FRACTION;",
+  "topic": "PUBLIC HEALTH & COMMUNITY PEDIATRIC NUTRITION",
+  "subtopic": "MONITORING AND EVALUATION METRICS FOR PROGRAM CORRECTIVE ACTION",
+  "sub_subtopic": "ENTITLEMENT BASED NUTRIENT GAP ESTIMATION USING INTAKE FRACTION",
+  "heading_path": "PUBLIC HEALTH & COMMUNITY PEDIATRIC NUTRITION;MONITORING AND EVALUATION METRICS FOR PROGRAM CORRECTIVE ACTION;ENTITLEMENT BASED NUTRIENT GAP ESTIMATION USING INTAKE FRACTION;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1\u009c4"
+}

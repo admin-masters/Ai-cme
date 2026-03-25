@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "Guidance on selecting pathways for managing refeeding syndrome in under-5 SAM cases versus high-risk refeeding in older children with GI disease, emphasizing tailored calorie starts, electrolyte monitoring, and thiamine supplementation.",
+  "learning_objectives": [
+    "Understand the differences between under-5 SAM protocols and high-risk refeeding syndrome management.",
+    "Learn the importance of cautious calorie initiation and electrolyte monitoring in refeeding syndrome.",
+    "Identify mixed-case scenarios requiring combined approaches in pediatric GI disease and malnutrition."
+  ],
+  "key_facts": [
+    "Under-5 SAM protocols use structured WHO/NHM pathways with stabilization feeds followed by catch-up feeds.",
+    "Avoid adult-style calorie starts (e.g., 10 kcal/kg/day) in stabilized under-5 SAM cases.",
+    "High-risk refeeding syndrome management includes conservative calorie starts, thiamine supplementation, and close electrolyte monitoring for 72 hours.",
+    "Baseline low phosphate, potassium, or magnesium increases refeeding risk in older children and adolescents.",
+    "Mixed cases (e.g., older child with IBD and edema) require staged feeding plans with explicit phosphate monitoring and higher-acuity settings."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Malnutrition",
+    "Refeeding Syndrome",
+    "Severe Acute Malnutrition",
+    "Electrolyte Imbalance",
+    "Thiamine Deficiency",
+    "Pediatric Gastroenterology",
+    "Nutrition Therapy",
+    "Enteral Nutrition"
+  ],
+  "tags_custom": [
+    "SAM protocols",
+    "refeeding safety",
+    "electrolyte monitoring",
+    "mixed malnutrition cases",
+    "pediatric nutrition"
+  ],
+  "reference_quote": "In children 6\u201359 months meeting SAM criteria, use the structured WHO/NHM inpatient SAM pathway because it was designed around pediatric physiology and includes built-in safeguards.",
+  "document_key_topics": [
+    "Under-5 SAM protocol management",
+    "High-risk refeeding syndrome in older children",
+    "Electrolyte monitoring and thiamine supplementation",
+    "Mixed malnutrition cases in pediatric GI disease"
+  ],
+  "chunk_heading": "NUTRITION IN GI DISORDERS & MALABSORPTION;REFEEDING SYNDROME SAFETY IN GI DISEASE;PATHWAY SELECTION BETWEEN UNDER-5 SAM PROTOCOLS AND HIGH- RISK REFEEDING MANAGEMENT;",
+  "topic": "NUTRITION IN GI DISORDERS & MALABSORPTION",
+  "subtopic": "REFEEDING SYNDROME SAFETY IN GI DISEASE",
+  "sub_subtopic": "PATHWAY SELECTION BETWEEN UNDER-5 SAM PROTOCOLS AND HIGH- RISK REFEEDING MANAGEMENT",
+  "heading_path": "NUTRITION IN GI DISORDERS & MALABSORPTION;REFEEDING SYNDROME SAFETY IN GI DISEASE;PATHWAY SELECTION BETWEEN UNDER-5 SAM PROTOCOLS AND HIGH- RISK REFEEDING MANAGEMENT;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2\u00851"
+}

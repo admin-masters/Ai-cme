@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "Guidelines for home nasogastric tube feeding in preterm/LBW/ELBW infants emphasize caregiver training, mixed-modality feeding, and clear weaning criteria to ensure safety and promote oral feeding skills post-discharge.",
+  "learning_objectives": [
+    "Understand criteria for selecting preterm/LBW/ELBW infants for home nasogastric tube feeding.",
+    "Learn caregiver training essentials for safe home NGT feeding, including tube placement and troubleshooting.",
+    "Identify weaning pathways and escalation criteria for persistent tube dependence or poor growth."
+  ],
+  "key_facts": [
+    "Home NGT feeding is suitable for infants with stable cardiorespiratory status and predictable feeding tolerance.",
+    "Caregiver training must include hands-on demonstration, teach-back, and explicit stop-and-seek-care rules for emergencies like respiratory distress or cyanosis.",
+    "Mixed-modality feeding protects oral skills: oral feeds first, followed by tube top-up to meet daily mL/kg/day targets.",
+    "Weaning can begin when oral intake exceeds 80% of the target for several days with appropriate growth.",
+    "Escalate to specialist review if tube dependence persists beyond several weeks or if growth remains poor despite guaranteed volumes."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Infant, Premature",
+    "Low Birth Weight Infant",
+    "Nasogastric Intubation",
+    "Caregivers",
+    "Feeding Behavior",
+    "Postdischarge Care",
+    "Weaning",
+    "Growth and Development"
+  ],
+  "tags_custom": [
+    "home feeding safety",
+    "preterm nutrition",
+    "NGT training",
+    "oral feeding skills",
+    "weaning criteria"
+  ],
+  "reference_quote": "Short-term home NGT feeding can prevent repeated admissions when an infant\u2019s oral skills lag behind nutritional needs, but only when caregiver training and follow-up are robust. (UC Davis Health Neonatal and Infant Home NGT Guideline)",
+  "document_key_topics": [
+    "Home nasogastric tube feeding training",
+    "Weaning criteria for preterm infants",
+    "Mixed-modality feeding strategies",
+    "Caregiver education and safety protocols"
+  ],
+  "chunk_heading": "PRETERM/LBW/ELBW POST-DISCHARGE NUTRITION;BREASTFEEDING SKILLS AND FEEDING SAFETY DECISIONS;HOME NASOGASTRIC TUBE FEEDING TRAINING AND WEANING CRITERIA;",
+  "topic": "PRETERM/LBW/ELBW POST-DISCHARGE NUTRITION",
+  "subtopic": "BREASTFEEDING SKILLS AND FEEDING SAFETY DECISIONS",
+  "sub_subtopic": "HOME NASOGASTRIC TUBE FEEDING TRAINING AND WEANING CRITERIA",
+  "heading_path": "PRETERM/LBW/ELBW POST-DISCHARGE NUTRITION;BREASTFEEDING SKILLS AND FEEDING SAFETY DECISIONS;HOME NASOGASTRIC TUBE FEEDING TRAINING AND WEANING CRITERIA;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "1\u00816"
+}

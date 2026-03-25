@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "This section addresses troubleshooting issues in entitlements migration and quality failures in supplementary feeding programs for MAM in India, emphasizing documentation, quality assurance, and operational fixes to ensure care continuity.",
+  "learning_objectives": [
+    "Understand the role of documentation in ensuring access to supplementary nutrition for MAM children.",
+    "Identify and address common operational issues in entitlements migration and quality failures.",
+    "Learn the importance of compliance with food safety and quality assurance in supplementary feeding programs.",
+    "Recognize the clinical and ethical importance of supplementary nutrition as standard care for MAM children."
+  ],
+  "key_facts": [
+    "Migration-based registration can be facilitated through the Poshan Tracker facility as per Mission Poshan guidance.",
+    "Quality complaints regarding rations are mandatory and should be escalated to the anganwadi supervisor or CDPO.",
+    "Household feeding prescriptions should ensure adequate energy density when daily HCM attendance is not possible.",
+    "Operational issues like ration sharing, incorrect preparation, or diversion should be addressed before escalating to medical investigations.",
+    "Accurate anthropometry and classification as MAM are critical for reducing exclusion from supplementary nutrition programs.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Malnutrition",
+    "Supplementary Feeding",
+    "Child Nutrition Disorders",
+    "Food Safety",
+    "Health Services Accessibility",
+    "Nutrition Policy",
+    "Community Health Services"
+  ],
+  "tags_custom": [
+    "MAM troubleshooting",
+    "entitlements migration",
+    "quality assurance",
+    "Poshan Tracker",
+    "anganwadi services"
+  ],
+  "reference_quote": "Programme rules and guidance emphasize quality assurance and compliance with food safety requirements, so quality complaints are not 'optional.'",
+  "document_key_topics": [
+    "Entitlements migration in supplementary feeding programs",
+    "Quality assurance and food safety in MAM interventions",
+    "Operational troubleshooting in household feeding and ration distribution"
+  ],
+  "chunk_heading": "MODERATE ACUTE MALNUTRITION (MAM) AND SUPPLEMENTARY FEEDING;PROGRAM LINKAGES AND CONTINUUM OF CARE IN INDIA;TROUBLESHOOTING ENTITLEMENTS MIGRATION AND QUALITY FAILURES;",
+  "topic": "MODERATE ACUTE MALNUTRITION (MAM) AND SUPPLEMENTARY FEEDING",
+  "subtopic": "PROGRAM LINKAGES AND CONTINUUM OF CARE IN INDIA",
+  "sub_subtopic": "TROUBLESHOOTING ENTITLEMENTS MIGRATION AND QUALITY FAILURES",
+  "heading_path": "MODERATE ACUTE MALNUTRITION (MAM) AND SUPPLEMENTARY FEEDING;PROGRAM LINKAGES AND CONTINUUM OF CARE IN INDIA;TROUBLESHOOTING ENTITLEMENTS MIGRATION AND QUALITY FAILURES;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "3w2"
+}

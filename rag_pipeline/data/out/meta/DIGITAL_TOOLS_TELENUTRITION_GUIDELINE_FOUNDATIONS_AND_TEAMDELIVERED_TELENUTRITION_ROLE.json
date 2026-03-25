@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "Defines role boundaries and escalation protocols for team-delivered tele-nutrition in India, emphasizing RMP accountability, allied health scopes, and workflow safeguards for patient safety.",
+  "learning_objectives": [
+    "Understand the role boundaries for Registered Medical Practitioners (RMPs) in tele-nutrition teams.",
+    "Learn the responsibilities of allied health professionals, including dietitians and nursing staff, in tele-nutrition workflows.",
+    "Identify escalation triggers for systemic symptoms, severe anemia, SAM danger signs, or eating disorder red flags.",
+    "Explore consent, documentation, and workflow safeguards in tele-nutrition delivery."
+  ],
+  "key_facts": [
+    "Only qualified and licensed RMPs can diagnose and prescribe in telemedicine settings.",
+    "India\u2019s National Commission for Allied and Healthcare Professions mandates defined scopes and registers for allied health roles.",
+    "Health workers can assist with history-taking, patient examination, and reinforcing RMP advice but cannot diagnose or prescribe.",
+    "Dietitians must escalate cases with systemic symptoms, suspected SAM danger signs, severe anemia, or eating disorder red flags to RMPs.",
+    "Two sign-offs are required in tele-nutrition workflows: diet plan finalization and RMP approval.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Telemedicine",
+    "Nutrition Therapy",
+    "Dietetics",
+    "Health Personnel",
+    "Patient Safety",
+    "Clinical Guidelines",
+    "India",
+    "Workflow"
+  ],
+  "tags_custom": [
+    "tele-nutrition",
+    "role boundaries",
+    "escalation protocols",
+    "team-based care",
+    "digital health tools"
+  ],
+  "reference_quote": "Telemedicine guidance is explicit that only qualified and licensed registered medical practitioners (RMPs) may practice telemedicine, which must translate into clear scope-of-practice boundaries in team-delivered tele-nutrition. (Source: Telemedicine Practice Guidelines, India)",
+  "document_key_topics": [
+    "Role boundaries in tele-nutrition teams",
+    "Escalation protocols for patient safety",
+    "Scope of practice for allied health professionals",
+    "Workflow safeguards in tele-nutrition delivery"
+  ],
+  "chunk_heading": "DIGITAL TOOLS & TELE-NUTRITION;GUIDELINE FOUNDATIONS AND REGULATORY SCOPE FOR TELE-NUTRITION IN INDIA;TEAM-DELIVERED TELE-NUTRITION ROLE BOUNDARIES AND ESCALATION AUTHORITY;",
+  "topic": "DIGITAL TOOLS & TELE-NUTRITION",
+  "subtopic": "GUIDELINE FOUNDATIONS AND REGULATORY SCOPE FOR TELE-NUTRITION IN INDIA",
+  "sub_subtopic": "TEAM-DELIVERED TELE-NUTRITION ROLE BOUNDARIES AND ESCALATION AUTHORITY",
+  "heading_path": "DIGITAL TOOLS & TELE-NUTRITION;GUIDELINE FOUNDATIONS AND REGULATORY SCOPE FOR TELE-NUTRITION IN INDIA;TEAM-DELIVERED TELE-NUTRITION ROLE BOUNDARIES AND ESCALATION AUTHORITY;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1i8"
+}

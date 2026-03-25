@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "Nutritional strategies for infants with BPD post-discharge focus on high energy intake, fluid restriction, and feeding safety to address increased metabolic demands and comorbid risks like dysphagia and metabolic bone disease.",
+  "learning_objectives": [
+    "Understand the importance of caloric density adjustments (e.g., 22-24 kcal/oz) in fluid-restricted infants with BPD.",
+    "Recognize the role of monitoring hydration, electrolytes, and metabolic bone health in infants on diuretics or hypercaloric feeds.",
+    "Identify feeding strategies to minimize fatigue and ensure swallow safety in BPD infants.",
+    "Learn to document and communicate feeding and nutrition plans for community follow-up teams."
+  ],
+  "key_facts": [
+    "Infants with BPD require higher energy intake due to increased work of breathing, with caloric density adjustments (e.g., 22-24 kcal/oz).",
+    "Avoid formula concentrations above 24 kcal/oz unless under specialist supervision due to risks of free-water imbalance and renal solute load.",
+    "Prolonged diuretic use increases risks of electrolyte derangements and metabolic bone disease; monitor phosphorus and ALP levels.",
+    "Feeding strategies include shorter, more frequent feeds, paced bottle feeding, and slower-flow nipples to reduce fatigue.",
+    "Red flags like increased oxygen needs or choking during feeds require immediate swallow safety evaluation and respiratory stabilization."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Bronchopulmonary Dysplasia",
+    "Infant, Low Birth Weight",
+    "Nutritional Support",
+    "Fluid Therapy",
+    "Dysphagia",
+    "Metabolic Bone Diseases",
+    "Diuretics",
+    "Energy Intake"
+  ],
+  "tags_custom": [
+    "BPD nutrition",
+    "fluid restriction",
+    "post-discharge feeding",
+    "metabolic monitoring",
+    "feeding safety"
+  ],
+  "reference_quote": "Infants with BPD often need higher energy intake because work of breathing increases expenditure, while total fluids may be constrained. (American Academy of Pediatrics, Reference 1)",
+  "document_key_topics": [
+    "Nutritional management in BPD with fluid restriction",
+    "Caloric density adjustments and feeding strategies",
+    "Monitoring hydration, electrolytes, and bone health in BPD infants"
+  ],
+  "chunk_heading": "PRETERM/LBW/ELBW POST-DISCHARGE NUTRITION;COMORBIDITY-SPECIFIC NUTRITION MODIFICATIONS AFTER DISCHARGE;BRONCHOPULMONARY DYSPLASIA NUTRITION WITH FLUID RESTRICTION;",
+  "topic": "PRETERM/LBW/ELBW POST-DISCHARGE NUTRITION",
+  "subtopic": "COMORBIDITY-SPECIFIC NUTRITION MODIFICATIONS AFTER DISCHARGE",
+  "sub_subtopic": "BRONCHOPULMONARY DYSPLASIA NUTRITION WITH FLUID RESTRICTION",
+  "heading_path": "PRETERM/LBW/ELBW POST-DISCHARGE NUTRITION;COMORBIDITY-SPECIFIC NUTRITION MODIFICATIONS AFTER DISCHARGE;BRONCHOPULMONARY DYSPLASIA NUTRITION WITH FLUID RESTRICTION;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "2\u00941"
+}

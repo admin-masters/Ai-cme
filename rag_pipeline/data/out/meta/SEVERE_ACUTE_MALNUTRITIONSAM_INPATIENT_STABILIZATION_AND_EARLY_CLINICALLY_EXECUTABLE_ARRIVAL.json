@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Guidelines for arrival assessment and triage in inpatient stabilization of severe acute malnutrition (SAM), focusing on emergency screening, immediate interventions, and early monitoring during the high-risk first 24\u201372 hours.",
+  "learning_objectives": [
+    "Understand the ABCD emergency screening protocol for SAM patients upon arrival.",
+    "Learn immediate interventions for hypoglycemia, hypothermia, and hypoxia in SAM care.",
+    "Identify key history and examination elements for syndrome-specific pathways and escalation planning.",
+    "Implement predefined first-day monitoring for SAM patients in inpatient care."
+  ],
+  "key_facts": [
+    "The first 24\u201372 hours are the highest-risk period for inpatient SAM care.",
+    "Immediate actions include ABCD screening, bedside glucose and temperature checks, and empiric antibiotics for complicated SAM.",
+    "Anthropometric measures include weight, height/length, MUAC, WHZ/WLZ, and edema grading.",
+    "Focused history includes last feed, diarrhea type, urine output, and exposure to measles or TB.",
+    "First-day monitoring tracks temperature, respiratory rate, pulse, mental state, intake, vomits/stools, and urine frequency."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Malnutrition",
+    "Severe Acute Malnutrition",
+    "Emergency Medical Services",
+    "Hypoglycemia",
+    "Hypothermia",
+    "Pediatric Nutrition Disorders",
+    "Anthropometry",
+    "Monitoring, Physiologic"
+  ],
+  "tags_custom": [
+    "SAM triage protocol",
+    "early stabilization",
+    "pediatric inpatient care",
+    "emergency interventions",
+    "syndrome-specific pathways"
+  ],
+  "reference_quote": "Avoidable deaths commonly follow missed danger signs, delayed glucose/warmth/feeding actions, or iatrogenic 'standard pediatrics' fluids and feeds that do not respect the altered physiology of severe malnutrition. \u2014 WHO, Pocket book of hospital care for children: Severe acute malnutrition chapter",
+  "document_key_topics": [
+    "Emergency screening and stabilization in SAM",
+    "Immediate interventions for hypoglycemia, hypothermia, and hypoxia",
+    "Focused history and targeted examination for syndrome-specific pathways",
+    "Predefined first-day monitoring in inpatient SAM care"
+  ],
+  "chunk_heading": "SEVERE ACUTE MALNUTRITION-(SAM) MANAGEMENT;INPATIENT STABILIZATION AND  EARLY MONITORING;CLINICALLY EXECUTABLE ARRIVAL ASSESSMENT AND TRIAGE  ORDER SET;",
+  "topic": "SEVERE ACUTE MALNUTRITION-(SAM) MANAGEMENT",
+  "subtopic": "INPATIENT STABILIZATION AND  EARLY MONITORING",
+  "sub_subtopic": "CLINICALLY EXECUTABLE ARRIVAL ASSESSMENT AND TRIAGE  ORDER SET",
+  "heading_path": "SEVERE ACUTE MALNUTRITION-(SAM) MANAGEMENT;INPATIENT STABILIZATION AND  EARLY MONITORING;CLINICALLY EXECUTABLE ARRIVAL ASSESSMENT AND TRIAGE  ORDER SET;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2i1"
+}

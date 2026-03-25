@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "This decision pathway for children with growth faltering emphasizes accurate anthropometry, identification of red flags, dietary assessment, and targeted interventions, with follow-up and investigations as needed.",
+  "learning_objectives": [
+    "Understand the stepwise approach to evaluating growth faltering in children.",
+    "Learn to identify urgent red flags requiring hospital evaluation.",
+    "Develop skills to assess dietary intake, feeding skills, and caregiver interactions.",
+    "Recognize when to escalate to investigations or specialist teams."
+  ],
+  "key_facts": [
+    "Step 1: Confirm accurate anthropometry and plot on WHO growth standards; crossing percentiles is more critical than a single point.",
+    "Step 2: Identify red flags such as severe wasting, bilateral edema, or persistent vomiting for urgent hospital evaluation.",
+    "Step 3: Use a 24-hour recall and FFQ to assess dietary intake and feeding skills; common issues include energy dilution and excessive milk intake.",
+    "Step 5: Intervene with specific meal frequency, energy-dense additions (e.g., oil/ghee), and responsive feeding behavior targets.",
+    "Follow-up in 2\u20134 weeks with repeat weight and diet screen; escalate to investigations if growth does not respond to adequate intake."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Faltering Growth",
+    "Dietary Assessment",
+    "Feeding Behavior",
+    "Anthropometry",
+    "Malabsorption Syndromes",
+    "Child Nutrition Disorders",
+    "Growth Disorders",
+    "Pediatric Evaluation"
+  ],
+  "tags_custom": [
+    "growth faltering",
+    "feeding skills",
+    "dietary intervention",
+    "pediatric nutrition"
+  ],
+  "reference_quote": "Step 1: Confirm accurate anthropometry, plot on WHO growth standards, and review velocity (crossing percentiles is often more important than a single point).",
+  "document_key_topics": [
+    "Growth faltering evaluation",
+    "Dietary intake and feeding skills assessment",
+    "Intervention and follow-up for growth issues",
+    "Indications for further investigations"
+  ],
+  "chunk_heading": "DIETARY ASSESSMENT & FEEDING SKILLS EVALUATION;DECISION PATHWAY FOR CHILD WITH GROWTH FALTERING;",
+  "topic": "DIETARY ASSESSMENT & FEEDING SKILLS EVALUATION",
+  "subtopic": "DECISION PATHWAY FOR CHILD WITH GROWTH FALTERING",
+  "sub_subtopic": null,
+  "heading_path": "DIETARY ASSESSMENT & FEEDING SKILLS EVALUATION;DECISION PATHWAY FOR CHILD WITH GROWTH FALTERING;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u0080"
+}

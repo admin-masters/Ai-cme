@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "This section outlines adverse event triage and reporting pathways in India's nutrition and fortification programs, emphasizing clinical triage, documentation, and escalation protocols for incidents like iron overdose or vitamin A toxicity.",
+  "learning_objectives": [
+    "Understand the clinical triage process for adverse events in nutrition and fortification programs.",
+    "Learn proper documentation and reporting pathways for suspected adverse events.",
+    "Identify and manage pediatric emergencies such as iron overdose and vitamin A toxicity.",
+    "Recognize the importance of preserving evidence and escalating through appropriate channels."
+  ],
+  "key_facts": [
+    "Adverse events are categorized as true illness or governance issues (e.g., rumors, quality concerns).",
+    "Clinical triage includes assessing vitals, hydration, neuro signs, abdominal pain, and alternate causes like viral illness or food contamination.",
+    "Iron overdose from IFA syrup/tablets is a pediatric emergency requiring urgent referral with the product for dose estimation.",
+    "Vitamin A toxicity risk increases with improper spacing; avoid 'catch-up' dosing after the 16\u201318 month dose.",
+    "For cluster events, document exposure details (e.g., date, source, product, batch) and escalate to relevant authorities (e.g., school nodal teacher, food safety authorities).",
+    "Preserve uncooked samples or packaging photos for evidence; avoid storing cooked food."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Nutrition Programs",
+    "Food Fortification",
+    "Adverse Drug Reaction Reporting Systems",
+    "Pediatric Emergency Medicine",
+    "Iron Overload",
+    "Vitamin A Toxicity",
+    "Public Health Surveillance",
+    "Food Safety"
+  ],
+  "tags_custom": [
+    "adverse event triage",
+    "fortified rice programs",
+    "pediatric nutrition safety",
+    "clinical documentation",
+    "program escalation pathways"
+  ],
+  "reference_quote": "\u2018Preserve evidence when feasible: retain a small uncooked sample or packaging photo; do not store cooked food.\u2019 (Fortified rice quality management SoP, DFPD, 2022)",
+  "document_key_topics": [
+    "Adverse event triage in nutrition programs",
+    "Clinical documentation and reporting pathways",
+    "Management of iron overdose and vitamin A toxicity",
+    "Escalation protocols for food safety and governance issues"
+  ],
+  "chunk_heading": "NATIONAL NUTRITION AND FORTIFICATION PROGRAMS IN INDIA;IMPLEMENTATION ROLES, MONITORING INDICATORS, AND CLINIC DOCUMENTATION;ADVERSE EVENT TRIAGE AND PROGRAMME REPORTING PATHWAYS;",
+  "topic": "NATIONAL NUTRITION AND FORTIFICATION PROGRAMS IN INDIA",
+  "subtopic": "IMPLEMENTATION ROLES, MONITORING INDICATORS, AND CLINIC DOCUMENTATION",
+  "sub_subtopic": "ADVERSE EVENT TRIAGE AND PROGRAMME REPORTING PATHWAYS",
+  "heading_path": "NATIONAL NUTRITION AND FORTIFICATION PROGRAMS IN INDIA;IMPLEMENTATION ROLES, MONITORING INDICATORS, AND CLINIC DOCUMENTATION;ADVERSE EVENT TRIAGE AND PROGRAMME REPORTING PATHWAYS;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "2\u00884"
+}

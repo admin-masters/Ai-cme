@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "This section discusses age-structured differential diagnosis of chronic diarrhea in India, highlighting nutrition-critical red flags and tailored interventions for infants, toddlers, and adolescents, with a focus on early referral and diagnostic integrity.",
+  "learning_objectives": [
+    "Understand age-specific differential diagnoses for chronic diarrhea in infants, toddlers, and adolescents.",
+    "Identify nutrition-critical red flags requiring urgent intervention or referral.",
+    "Apply safe nutrition strategies while awaiting definitive diagnostic results.",
+    "Recognize systemic and iatrogenic contributors to chronic diarrhea across all age groups."
+  ],
+  "key_facts": [
+    "In early infancy, profuse watery diarrhea with failure to thrive may indicate congenital diarrheal disorders or severe allergy phenotypes.",
+    "Toddlers with functional diarrhea often benefit from reducing sweetened beverages and increasing dietary fat and fiber.",
+    "School-age children with growth failure, delayed puberty, and anemia should be evaluated for celiac disease and IBD, keeping gluten in the diet until testing is complete.",
+    "Chronic infections, including opportunistic pathogens in HIV, should be considered across all ages.",
+    "Early referral to tertiary pediatric gastroenterology is critical for infants with severe symptoms to prevent progression to intestinal failure.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Chronic Diarrhea",
+    "Malabsorption Syndromes",
+    "Pediatric Gastroenterology",
+    "Celiac Disease",
+    "Inflammatory Bowel Diseases",
+    "Failure to Thrive",
+    "Dietary Therapy",
+    "HIV Infections"
+  ],
+  "tags_custom": [
+    "India-specific guidelines",
+    "Age-structured diagnosis",
+    "Nutrition red flags",
+    "Pediatric malabsorption",
+    "Triage and referral"
+  ],
+  "reference_quote": "Early infancy: profuse watery diarrhea beginning in the neonatal period, persistence despite fasting, recurrent severe dehydration, or early failure to thrive suggests congenital diarrheal disorders, immunodeficiency-related enteropathy, or severe allergy phenotypes. (Source: https://iapindia.org/pdf/Ch-030-STG-persistent-diarrhea.pdf)",
+  "document_key_topics": [
+    "Age-specific differential diagnosis of chronic diarrhea",
+    "Nutrition-critical red flags in pediatric GI disorders",
+    "Safe nutrition strategies during diagnostic evaluation",
+    "Systemic and iatrogenic contributors to diarrhea"
+  ],
+  "chunk_heading": "NUTRITION IN GI DISORDERS & MALABSORPTION;INDIA-FOCUSED TRIAGE AND FIRSTPASS ASSESSMENT;AGE-STRUCTURED DIFFERENTIAL DIAGNOSIS WITH NUTRITION-CRITICAL RED FLAGS;",
+  "topic": "NUTRITION IN GI DISORDERS & MALABSORPTION",
+  "subtopic": "INDIA-FOCUSED TRIAGE AND FIRSTPASS ASSESSMENT",
+  "sub_subtopic": "AGE-STRUCTURED DIFFERENTIAL DIAGNOSIS WITH NUTRITION-CRITICAL RED FLAGS",
+  "heading_path": "NUTRITION IN GI DISORDERS & MALABSORPTION;INDIA-FOCUSED TRIAGE AND FIRSTPASS ASSESSMENT;AGE-STRUCTURED DIFFERENTIAL DIAGNOSIS WITH NUTRITION-CRITICAL RED FLAGS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2h1"
+}

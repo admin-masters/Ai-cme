@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "This section focuses on the micronutrient supplementation schedule for inpatient care of children with severe acute malnutrition (SAM), emphasizing infection management and metabolic corrections based on established guidelines and protocols.",
+  "learning_objectives": [
+    "Understand the role of micronutrient supplementation in managing SAM in inpatient settings.",
+    "Learn the recommended schedule and dosages for micronutrient administration in SAM care.",
+    "Identify key metabolic corrections required during SAM treatment.",
+    "Explore infection management strategies in children with SAM."
+  ],
+  "key_facts": [
+    "Micronutrient supplementation is critical for recovery in SAM and includes vitamins A, D, and zinc.",
+    "Vitamin A is administered at 50,000 IU for infants under 6 months, 100,000 IU for 6-12 months, and 200,000 IU for children over 12 months.",
+    "Iron supplementation is delayed until the child shows signs of recovery to avoid exacerbating infections.",
+    "Zinc supplementation is recommended at 2 mg/kg/day to support immune function and recovery.",
+    "SAM management includes addressing hypoglycemia and hypothermia as part of metabolic corrections.",
+    "Infection management involves empirical antibiotic therapy due to high risk of sepsis in SAM patients."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Malnutrition",
+    "Micronutrients",
+    "Vitamin A",
+    "Zinc",
+    "Iron",
+    "Infection Control",
+    "Metabolic Diseases",
+    "Pediatric Nutrition"
+  ],
+  "tags_custom": [
+    "SAM inpatient care",
+    "micronutrient schedule",
+    "infection management",
+    "metabolic corrections"
+  ],
+  "reference_quote": "Vitamin A supplementation is essential in SAM care, with dosages varying by age: 50,000 IU for infants under 6 months, 100,000 IU for 6-12 months, and 200,000 IU for children over 12 months. (Source: WHO Pocket Book of Hospital Care for Children)",
+  "document_key_topics": [
+    "Micronutrient supplementation in SAM",
+    "Infection management in SAM",
+    "Metabolic corrections in SAM care"
+  ],
+  "chunk_heading": "- SEVERE ACUTE MALNUTRITION-(SAM) MANAGEMENT;INFECTION MANAGEMENT AND METABOLIC CORRECTIONS;MICRONUTRIENT SUPPLEMENTATION SCHEDULE IN INPATIENT SAM CARE;",
+  "topic": "- SEVERE ACUTE MALNUTRITION-(SAM) MANAGEMENT",
+  "subtopic": "INFECTION MANAGEMENT AND METABOLIC CORRECTIONS",
+  "sub_subtopic": "MICRONUTRIENT SUPPLEMENTATION SCHEDULE IN INPATIENT SAM CARE",
+  "heading_path": "- SEVERE ACUTE MALNUTRITION-(SAM) MANAGEMENT;INFECTION MANAGEMENT AND METABOLIC CORRECTIONS;MICRONUTRIENT SUPPLEMENTATION SCHEDULE IN INPATIENT SAM CARE;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "3c1.2"
+}

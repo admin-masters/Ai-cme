@@ -1,0 +1,45 @@
+{
+  "chunk_summary": "Outpatient first-week plan for adolescents with anorexia nervosa or atypical anorexia includes medical monitoring, parent-led meal supervision, and criteria for escalation to inpatient care.",
+  "learning_objectives": [
+    "Understand the initial outpatient management plan for adolescents with anorexia nervosa or atypical anorexia.",
+    "Identify key medical assessments and monitoring protocols during the first week of outpatient care.",
+    "Recognize criteria for escalation to inpatient care based on clinical and physiological parameters."
+  ],
+  "key_facts": [
+    "Day 0 assessments include standardized weight, orthostatic vitals, baseline labs (electrolytes, glucose, LFT), and ECG if indicated.",
+    "Parent-led meal supervision involves three meals and 2\u20133 snacks daily, with caregivers plating meals to relieve adolescents of portion decisions.",
+    "Twice-weekly medical reviews are recommended in week 1 for low weight, borderline vitals, or unreliable intake; weekly reviews are the minimum once weight restoration begins.",
+    "Escalation to inpatient care is required for <75% median BMI, dehydration, hypophosphatemia, prolonged QTc, severe bradycardia, or other critical symptoms.",
+    "Orthostatic changes indicating concern include a pulse increase >20/min or BP drop >20/10 mmHg."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Adolescent Nutrition",
+    "Anorexia Nervosa",
+    "Eating Disorders",
+    "Outpatient Care",
+    "Refeeding Syndrome",
+    "Parent-Child Relations",
+    "Body Mass Index",
+    "Electrolyte Imbalance"
+  ],
+  "tags_custom": [
+    "First-week management",
+    "Anorexia outpatient care",
+    "Adolescent health"
+  ],
+  "reference_quote": "Start parent-led meal supervision immediately: three meals plus 2\u20133 snacks daily, with caregivers plating meals so the adolescent is relieved of portion decisions.",
+  "document_key_topics": [
+    "Outpatient management of anorexia nervosa",
+    "Parent-led meal supervision",
+    "Criteria for inpatient escalation"
+  ],
+  "chunk_heading": "ADOLESCENT NUTRITION;EATING DISORDERS IN ADOLESCENTS;OUTPATIENT FIRST-WEEK PLAN FOR ANOREXIA NERVOSA AND ATYPICAL ANOREXIA;",
+  "topic": "ADOLESCENT NUTRITION",
+  "subtopic": "EATING DISORDERS IN ADOLESCENTS",
+  "sub_subtopic": "OUTPATIENT FIRST-WEEK PLAN FOR ANOREXIA NERVOSA AND ATYPICAL ANOREXIA",
+  "heading_path": "ADOLESCENT NUTRITION;EATING DISORDERS IN ADOLESCENTS;OUTPATIENT FIRST-WEEK PLAN FOR ANOREXIA NERVOSA AND ATYPICAL ANOREXIA;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "1\u007f4"
+}

@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Folate deficiency in adolescents requires careful management, prioritizing B12 exclusion or co-treatment to prevent neurologic injury. Treatment includes folic acid supplementation, dietary counseling, and monitoring for anemia resolution and risk factors.",
+  "learning_objectives": [
+    "Understand the importance of excluding or co-treating B12 deficiency before addressing folate deficiency.",
+    "Learn the recommended folic acid dosing protocols for adolescents with folate deficiency.",
+    "Recognize dietary and clinical risk factors for folate deficiency in adolescents.",
+    "Develop strategies for monitoring hematologic response and preventing recurrence through diet restoration."
+  ],
+  "key_facts": [
+    "Folic acid treatment: 5 mg orally once daily for 4 months, followed by reassessment.",
+    "Safety precaution: Folate can mask B12-related neurologic injury while correcting anemia.",
+    "Dietary risk factors: Low intake of pulses, greens, or restrictive eating patterns.",
+    "Maintenance dosing: 5 mg every 1\u20137 days under supervision for chronic risk cases.",
+    "Monitoring: Repeat CBC to assess hematologic response and symptoms in multifactorial anemia cases."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Adolescent Nutrition",
+    "Micronutrient Deficiency",
+    "Folate Deficiency",
+    "Vitamin B12 Deficiency",
+    "Macrocytosis",
+    "Dietary Counseling",
+    "Anemia",
+    "Iron-Folic Acid Supplementation"
+  ],
+  "tags_custom": [
+    "Folate treatment protocols",
+    "B12 safety precautions",
+    "Adolescent dietary risks",
+    "Preventive supplementation",
+    "Diet restoration strategies"
+  ],
+  "reference_quote": "Folate can correct anemia while allowing B12-related neurologic injury to progress. (Clinical Practice Guidelines: Micronutrient deficiency, RCH)",
+  "document_key_topics": [
+    "Folate deficiency treatment in adolescents",
+    "Vitamin B12 safety precautions",
+    "Dietary risk factors and counseling",
+    "Monitoring and maintenance protocols"
+  ],
+  "chunk_heading": "ADOLESCENT NUTRITION;MICRONUTRIENT DEFICIENCY MANAGEMENT PROTOCOLS;FOLATE DEFICIENCY TREATMENT AND B12 SAFETY PRECAUTIONS;",
+  "topic": "ADOLESCENT NUTRITION",
+  "subtopic": "MICRONUTRIENT DEFICIENCY MANAGEMENT PROTOCOLS",
+  "sub_subtopic": "FOLATE DEFICIENCY TREATMENT AND B12 SAFETY PRECAUTIONS",
+  "heading_path": "ADOLESCENT NUTRITION;MICRONUTRIENT DEFICIENCY MANAGEMENT PROTOCOLS;FOLATE DEFICIENCY TREATMENT AND B12 SAFETY PRECAUTIONS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1s3"
+}

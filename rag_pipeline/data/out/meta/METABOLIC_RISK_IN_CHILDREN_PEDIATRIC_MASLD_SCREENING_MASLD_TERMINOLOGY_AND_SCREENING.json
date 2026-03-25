@@ -1,0 +1,47 @@
+{
+  "chunk_summary": "Pediatric MASLD screening in India emphasizes ALT and ultrasound for obese/overweight children, with tailored guidelines addressing local prevalence and risk factors.",
+  "learning_objectives": [
+    "Understand the updated MASLD terminology and its relevance in pediatric metabolic risk.",
+    "Learn the 2024 ISPGHAN recommendations for MASLD screening in Indian children.",
+    "Compare ALT and ultrasound as screening tools for pediatric MASLD.",
+    "Recognize the importance of systematic screening in high-risk pediatric populations."
+  ],
+  "key_facts": [
+    "MASLD replaces NAFLD under the steatotic liver disease (SLD) umbrella, with MASH replacing NASH.",
+    "ALT thresholds: >22 U/L for girls, >26 U/L for boys; >80 U/L indicates higher concern.",
+    "2017 NASPGHAN guidelines recommend ALT as the primary screening test, not routine ultrasound.",
+    "2024 ISPGHAN guidelines for India recommend screening obese (BMI \u226595th percentile) and overweight (BMI \u226585th to <95th percentile) children with additional risk factors using ALT and ultrasound.",
+    "Persistent ALT >2\u00d7 upper limit of normal for >3 months warrants further evaluation."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Pediatrics",
+    "Non-alcoholic Fatty Liver Disease",
+    "Steatosis",
+    "Liver Function Tests",
+    "Obesity",
+    "Insulin Resistance",
+    "Ultrasonography",
+    "Hypertension"
+  ],
+  "tags_custom": [
+    "Pediatric MASLD",
+    "Indian guidelines",
+    "ALT screening",
+    "Obesity-related liver risk"
+  ],
+  "reference_quote": "The 2024 ISPGHAN pediatric MASLD practice recommendations, tailored to Indian context, advise screening obese children (BMI \u226595th percentile) and overweight children (BMI \u226585th to <95th percentile) with additional risk factors using abdominal ultrasound in combination with ALT.",
+  "document_key_topics": [
+    "MASLD terminology and its evolution",
+    "Pediatric MASLD screening strategies",
+    "Indian-specific MASLD guidelines"
+  ],
+  "chunk_heading": "METABOLIC RISK IN CHILDREN;PEDIATRIC MASLD SCREENING DIAGNOSIS AND STAGING;MASLD TERMINOLOGY AND SCREENING STRATEGY IN INDIA;",
+  "topic": "METABOLIC RISK IN CHILDREN",
+  "subtopic": "PEDIATRIC MASLD SCREENING DIAGNOSIS AND STAGING",
+  "sub_subtopic": "MASLD TERMINOLOGY AND SCREENING STRATEGY IN INDIA",
+  "heading_path": "METABOLIC RISK IN CHILDREN;PEDIATRIC MASLD SCREENING DIAGNOSIS AND STAGING;MASLD TERMINOLOGY AND SCREENING STRATEGY IN INDIA;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "1\u00801"
+}

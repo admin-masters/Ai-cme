@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Urgent referral and safeguarding escalation are critical for children with faltering growth, especially in cases of rapid weight loss, severe undernutrition, or psychosocial risks like neglect or caregiver incapacity.",
+  "learning_objectives": [
+    "Identify red flags requiring urgent referral in children with faltering growth.",
+    "Understand safeguarding protocols for psychosocial risks affecting feeding and growth.",
+    "Learn practical clinic strategies for assessing food access and caregiver mental health.",
+    "Apply NICE NG75 guidelines to manage faltering growth effectively."
+  ],
+  "key_facts": [
+    "Urgent specialist review is needed for rapid weight loss, severe undernutrition, or failure to respond to primary care interventions.",
+    "Safeguarding escalation is required for suspected neglect, caregiver intoxication, or domestic violence compromising child safety.",
+    "Same-day safeguarding escalation is necessary when caregiver capacity or safety is in question.",
+    "Urgent psychosocial escalation within days is appropriate for severe food insecurity or caregiver distress causing chaotic feeding.",
+    "NICE NG75 recommends referral to pediatric specialists if primary care interventions fail."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Faltering Growth",
+    "Feeding and Eating Disorders",
+    "Child Nutrition Disorders",
+    "Safeguarding",
+    "Psychosocial Factors",
+    "Malnutrition",
+    "Pediatric Referral",
+    "Caregiver Mental Health"
+  ],
+  "tags_custom": [
+    "urgent referral",
+    "feeding difficulties",
+    "safeguarding escalation",
+    "psychosocial risks",
+    "child neglect"
+  ],
+  "reference_quote": "NICE lists failure to respond to interventions delivered in primary care as a trigger to discuss with or refer to pediatric specialist services.",
+  "document_key_topics": [
+    "Urgent referral criteria for faltering growth",
+    "Safeguarding escalation in feeding difficulties",
+    "Psychosocial risks affecting child nutrition",
+    "Practical clinic strategies for risk assessment"
+  ],
+  "chunk_heading": "FEEDING DIFFICULTIES & FALTERING GROWTH;TRIAGE RED FLAGS AND URGENT REFERRAL DECISIONS;URGENT REFERRAL AND SAFEGUARDING ESCALATION;",
+  "topic": "FEEDING DIFFICULTIES & FALTERING GROWTH",
+  "subtopic": "TRIAGE RED FLAGS AND URGENT REFERRAL DECISIONS",
+  "sub_subtopic": "URGENT REFERRAL AND SAFEGUARDING ESCALATION",
+  "heading_path": "FEEDING DIFFICULTIES & FALTERING GROWTH;TRIAGE RED FLAGS AND URGENT REFERRAL DECISIONS;URGENT REFERRAL AND SAFEGUARDING ESCALATION;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1g3"
+}

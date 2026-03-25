@@ -1,0 +1,47 @@
+{
+  "chunk_summary": "Donor eligibility screening ensures safe milk donation by assessing health history, conducting serologic tests, and requiring periodic reassessment to prevent infection transmission and harmful exposures.",
+  "learning_objectives": [
+    "Understand the purpose and process of donor eligibility screening for milk banking.",
+    "Identify exclusion criteria and temporary deferral conditions for milk donors.",
+    "Learn the serologic testing requirements and periodic reassessment protocols for ongoing donors.",
+    "Recognize the importance of hygienic milk expression and cold-chain transport."
+  ],
+  "key_facts": [
+    "Donor screening includes health history and serologic testing for HIV-1/2, HBsAg, HCV, and syphilis (VDRL or RPR).",
+    "Temporary deferral applies to acute febrile illness, mastitis, or short-term medication use incompatible with infant feeding.",
+    "Periodic reassessment is recommended every 3\u20136 months during active donation.",
+    "Donors must provide informed consent for testing and anonymous, non-commercial milk use.",
+    "Milk expressed during temporary deferral periods must not enter the donation pool."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Milk Banks",
+    "Donor Screening",
+    "HIV Infections",
+    "Hepatitis B",
+    "Hepatitis C",
+    "Syphilis",
+    "Cold Chain",
+    "Informed Consent"
+  ],
+  "tags_custom": [
+    "donor eligibility",
+    "milk safety",
+    "serologic testing",
+    "hygienic practices"
+  ],
+  "reference_quote": "Donor eligibility screening aims to prevent transmission of infections and harmful exposures through donated milk.",
+  "document_key_topics": [
+    "Donor eligibility screening process",
+    "Serologic testing and exclusion criteria",
+    "Periodic reassessment of milk donors"
+  ],
+  "chunk_heading": "EXPRESSED MILK, DONOR MILK & MILK BANKING;DONOR ELIGIBILITY SCREENING AND PERIODIC REASSESSMENT;",
+  "topic": "EXPRESSED MILK, DONOR MILK & MILK BANKING",
+  "subtopic": "DONOR ELIGIBILITY SCREENING AND PERIODIC REASSESSMENT",
+  "sub_subtopic": null,
+  "heading_path": "EXPRESSED MILK, DONOR MILK & MILK BANKING;DONOR ELIGIBILITY SCREENING AND PERIODIC REASSESSMENT;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "2n.1"
+}

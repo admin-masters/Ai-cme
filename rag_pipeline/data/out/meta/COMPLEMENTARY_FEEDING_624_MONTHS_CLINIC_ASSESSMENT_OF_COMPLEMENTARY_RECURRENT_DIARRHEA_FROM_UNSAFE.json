@@ -1,0 +1,47 @@
+{
+  "chunk_summary": "Recurrent diarrhea in 6\u201324-month-olds can result from unsafe food storage practices. Clinic assessment emphasizes practical safety plans, including immediate feeding, safe water use, and hygiene reinforcement.",
+  "learning_objectives": [
+    "Understand the link between unsafe food storage and recurrent diarrhea in infants aged 6\u201324 months.",
+    "Learn practical interventions for food safety in homes without refrigeration.",
+    "Recognize when to escalate evaluation for chronic or severe diarrhea in infants."
+  ],
+  "key_facts": [
+    "Cooked foods kept at room temperature for more than ~2 hours increase microbial contamination risk.",
+    "Recurrent diarrhea in infants can occur every 2\u20133 weeks due to unsafe food storage and water practices.",
+    "Bottle and teat use is discouraged due to cleaning challenges; cup and spoon feeding is safer.",
+    "Boiled or treated water should be used for drinking and food preparation, and stored covered.",
+    "Handwashing with soap before food preparation and feeding reduces contamination risk."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Diarrhea, Infantile",
+    "Food Safety",
+    "Complementary Feeding",
+    "Water Microbiology",
+    "Hygiene",
+    "Infant Nutrition",
+    "Food Contamination",
+    "Public Health"
+  ],
+  "tags_custom": [
+    "unsafe food storage",
+    "recurrent diarrhea",
+    "infant feeding practices",
+    "WASH interventions",
+    "home food safety"
+  ],
+  "reference_quote": "Cooked infant foods are safest when fed immediately; if not refrigerated, discard foods kept at room temperature for more than ~2 hours and reheat until very hot throughout before feeding. (WHO Five Keys to Safer Food Manual)",
+  "document_key_topics": [
+    "Complementary feeding safety for infants 6\u201324 months",
+    "Recurrent diarrhea prevention through food and water hygiene",
+    "Practical home-based interventions for food storage"
+  ],
+  "chunk_heading": "COMPLEMENTARY FEEDING 6\u201324 MONTHS;CLINIC ASSESSMENT OF COMPLEMENTARY FEEDING DOMAINS;RECURRENT DIARRHEA FROM UNSAFE FOOD STORAGE;",
+  "topic": "COMPLEMENTARY FEEDING 6\u201324 MONTHS",
+  "subtopic": "CLINIC ASSESSMENT OF COMPLEMENTARY FEEDING DOMAINS",
+  "sub_subtopic": "RECURRENT DIARRHEA FROM UNSAFE FOOD STORAGE",
+  "heading_path": "COMPLEMENTARY FEEDING 6\u201324 MONTHS;CLINIC ASSESSMENT OF COMPLEMENTARY FEEDING DOMAINS;RECURRENT DIARRHEA FROM UNSAFE FOOD STORAGE;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1j7"
+}

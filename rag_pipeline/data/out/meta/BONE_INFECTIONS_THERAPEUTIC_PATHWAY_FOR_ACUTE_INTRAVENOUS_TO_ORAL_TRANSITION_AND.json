@@ -1,0 +1,46 @@
+{
+  "chunk_summary": "Guidelines for transitioning from IV to oral therapy in acute hematogenous osteomyelitis, criteria for treatment success, and steps for addressing early treatment failure are outlined, with emphasis on clinical and laboratory benchmarks.",
+  "learning_objectives": [
+    "Understand the criteria for transitioning from intravenous to oral therapy in acute hematogenous osteomyelitis.",
+    "Identify appropriate durations of therapy based on disease severity and complications.",
+    "Recognize the importance of structured re-evaluation in cases of early treatment failure."
+  ],
+  "key_facts": [
+    "Transition to oral therapy requires the child to be afebrile for 24-48 hours, improving clinically, and with a falling C-reactive protein (target: <20-30 mg/L or 1/3-1/2 of peak value).",
+    "For uncomplicated cases, a total treatment duration of 3-4 weeks is sufficient; extend to 4-6 weeks for multifocal disease, MRSA, Salmonella, abscess, or pelvic/spinal involvement.",
+    "High-bioavailability oral options include cephalexin, cloxacillin, clindamycin, linezolid, and co-amoxiclav, tailored to susceptibility and site.",
+    "Neonates, severely immunocompromised children, and those with poor source control require prolonged intravenous therapy.",
+    "Failure to improve within 48-72 hours necessitates re-evaluation, including culture review, dosing confirmation, and investigation for missed complications like abscess or multifocal infection."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Osteomyelitis",
+    "Anti-Bacterial Agents",
+    "Drug Administration Routes",
+    "C-Reactive Protein",
+    "Methicillin-Resistant Staphylococcus aureus",
+    "Sepsis",
+    "Abscess",
+    "Pediatrics"
+  ],
+  "tags_custom": [
+    "IV to oral transition",
+    "pediatric bone infections",
+    "treatment failure review",
+    "antibiotic therapy"
+  ],
+  "reference_quote": "\u2018A falling C-reactive protein is more useful than a single value, but a practical target is a clear downward trend to below about 20 to 30 mg/L or to roughly one third to one half of the peak value.\u2019 (Source: Indian Academy of Pediatrics Consensus Statement)",
+  "document_key_topics": [
+    "Criteria for IV to oral transition in osteomyelitis",
+    "Duration of therapy based on disease severity",
+    "Management of early treatment failure"
+  ],
+  "chunk_heading": "BONE INFECTIONS;THERAPEUTIC PATHWAY FOR ACUTE HEMATOGENOUS OSTEOMYELITIS;INTRAVENOUS TO ORAL TRANSITION AND EARLY TREATMENT FAILURE REVIEW;",
+  "topic": "BONE INFECTIONS",
+  "subtopic": "THERAPEUTIC PATHWAY FOR ACUTE HEMATOGENOUS OSTEOMYELITIS",
+  "sub_subtopic": "INTRAVENOUS TO ORAL TRANSITION AND EARLY TREATMENT FAILURE REVIEW",
+  "heading_path": "BONE INFECTIONS;THERAPEUTIC PATHWAY FOR ACUTE HEMATOGENOUS OSTEOMYELITIS;INTRAVENOUS TO ORAL TRANSITION AND EARLY TREATMENT FAILURE REVIEW;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1s2"
+}

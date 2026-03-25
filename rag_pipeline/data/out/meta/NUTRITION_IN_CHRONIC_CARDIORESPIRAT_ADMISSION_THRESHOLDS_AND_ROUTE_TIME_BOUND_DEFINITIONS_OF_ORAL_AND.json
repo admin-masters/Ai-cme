@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Defines time-bound criteria for oral and enteral nutrition treatment failure in chronic cardiorespiratory disease to guide timely escalation and prevent prolonged deficits.",
+  "learning_objectives": [
+    "Understand time-bound definitions for oral and enteral nutrition treatment failure in chronic cardiorespiratory disease.",
+    "Identify criteria for oral strategy failure, including calorie delivery and weight velocity metrics.",
+    "Recognize signs of enteral feeding intolerance and when to escalate to post-pyloric feeding or supplemental PN.",
+    "Apply monitoring protocols for inpatient and outpatient rescue phases."
+  ],
+  "key_facts": [
+    "Oral strategy failure is defined within 7\u201314 days if \u226590% of prescribed calories are delivered but no improvement in weight velocity or z-score trajectory is observed.",
+    "Tube feeding failure is defined within 7\u201314 days if calorie targets are unmet due to intolerance (e.g., emesis, aspiration) or unsafe feeding despite first-line modifications.",
+    "First intervention for oral feeding failure with <90% calorie delivery is to address delivery issues, not change targets.",
+    "Daily weights and intake accounting are recommended during inpatient rescue phases, with weekly weight checks for outpatient care.",
+    "Escalation to post-pyloric feeding or supplemental PN should be considered if repeated feed interruptions worsen deficits."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Nutrition Disorders",
+    "Enteral Nutrition",
+    "Pediatric Malnutrition",
+    "Chronic Disease",
+    "Respiratory Insufficiency",
+    "Weight Gain",
+    "Feeding Behavior",
+    "Parenteral Nutrition"
+  ],
+  "tags_custom": [
+    "time-bound criteria",
+    "nutrition failure escalation",
+    "oral feeding failure",
+    "enteral feeding intolerance",
+    "growth monitoring"
+  ],
+  "reference_quote": "This time-bounded approach aligns with pediatric malnutrition frameworks that emphasize serial measurements and growth velocity, and it creates a clear handover standard across teams.",
+  "document_key_topics": [
+    "Time-bound definitions for oral and enteral treatment failure",
+    "Criteria for oral and enteral feeding strategy failure",
+    "Monitoring protocols for inpatient and outpatient care",
+    "Escalation strategies for nutrition failure"
+  ],
+  "chunk_heading": "NUTRITION IN CHRONIC CARDIORESPIRATORY DISEASE;ADMISSION THRESHOLDS AND ROUTE ESCALATION FOR NUTRITION FAILURE;TIME BOUND DEFINITIONS OF ORAL AND ENTERAL TREATMENT FAILURE;",
+  "topic": "NUTRITION IN CHRONIC CARDIORESPIRATORY DISEASE",
+  "subtopic": "ADMISSION THRESHOLDS AND ROUTE ESCALATION FOR NUTRITION FAILURE",
+  "sub_subtopic": "TIME BOUND DEFINITIONS OF ORAL AND ENTERAL TREATMENT FAILURE",
+  "heading_path": "NUTRITION IN CHRONIC CARDIORESPIRATORY DISEASE;ADMISSION THRESHOLDS AND ROUTE ESCALATION FOR NUTRITION FAILURE;TIME BOUND DEFINITIONS OF ORAL AND ENTERAL TREATMENT FAILURE;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1{2"
+}

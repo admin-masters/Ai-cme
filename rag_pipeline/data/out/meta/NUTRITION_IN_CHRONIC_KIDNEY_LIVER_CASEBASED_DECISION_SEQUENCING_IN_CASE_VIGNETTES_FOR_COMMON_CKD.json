@@ -1,0 +1,46 @@
+{
+  "chunk_summary": "This section explores pediatric CKD nutrition pitfalls through case vignettes, focusing on sodium depletion, hyperkalemia, and hyperphosphatemia management strategies in children with CKD or on dialysis.",
+  "learning_objectives": [
+    "Identify and manage sodium depletion in infants with CKD and poor growth trajectories.",
+    "Understand the risks of potassium chloride additives in low-sodium diets for adolescents with CKD.",
+    "Optimize phosphate binder timing and dietary strategies for children on peritoneal dialysis with hyperphosphatemia."
+  ],
+  "key_facts": [
+    "Sodium-wasting CKD can suppress appetite and growth despite normal serum sodium levels.",
+    "Potassium chloride additives in marketed low-sodium salts can cause hyperkalemia (potassium levels 5.8\u20136.2 mmol/L).",
+    "Phosphate binders must be taken with phosphate-containing meals/snacks to effectively manage hyperphosphatemia.",
+    "Measured sodium supplementation can improve hydration and growth in infants with CKD.",
+    "Persistent hyperphosphatemia in children on PD may require removal of phosphate additives and reassessment of calcium load."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Chronic Kidney Disease",
+    "Pediatric Nutrition",
+    "Sodium Deficiency",
+    "Hyperkalemia",
+    "Hyperphosphatemia",
+    "Peritoneal Dialysis",
+    "Growth Disorders",
+    "Diet Therapy"
+  ],
+  "tags_custom": [
+    "CKD nutrition pitfalls",
+    "pediatric renal care",
+    "case-based learning",
+    "dialysis management"
+  ],
+  "reference_quote": "The Pediatric Renal Nutrition Taskforce recommends measured sodium supplementation for infants with sodium-wasting CKD to improve growth and hydration. (Source: https://link.springer.com/article/10.1007/s00467-025-06913-z)",
+  "document_key_topics": [
+    "Sodium depletion in CKD",
+    "Hyperkalemia from dietary additives",
+    "Phosphate binder timing in dialysis"
+  ],
+  "chunk_heading": "NUTRITION IN CHRONIC KIDNEY & LIVER DISEASE;CASE-BASED DECISION SEQUENCING IN PEDIATRIC CKD AND CLD;CASE VIGNETTES FOR COMMON CKD NUTRITION PITFALLS;",
+  "topic": "NUTRITION IN CHRONIC KIDNEY & LIVER DISEASE",
+  "subtopic": "CASE-BASED DECISION SEQUENCING IN PEDIATRIC CKD AND CLD",
+  "sub_subtopic": "CASE VIGNETTES FOR COMMON CKD NUTRITION PITFALLS",
+  "heading_path": "NUTRITION IN CHRONIC KIDNEY & LIVER DISEASE;CASE-BASED DECISION SEQUENCING IN PEDIATRIC CKD AND CLD;CASE VIGNETTES FOR COMMON CKD NUTRITION PITFALLS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "5\u008b1"
+}

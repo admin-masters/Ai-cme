@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "Zinc and trace element supplementation for preterm/LBW/ELBW infants post-discharge should be indication-based, not routine, with decisions tied to risk phenotypes and national guidelines.",
+  "learning_objectives": [
+    "Understand the indications for zinc and trace element supplementation in preterm/LBW/ELBW infants post-discharge.",
+    "Differentiate between routine and indication-based supplementation strategies.",
+    "Recognize clinical scenarios where zinc supplementation may be beneficial, such as persistent diarrhea or chronic cholestasis.",
+    "Learn the importance of documenting supplementation details in discharge summaries."
+  ],
+  "key_facts": [
+    "Routine zinc supplementation is not recommended for all LBW infants on human milk due to insufficient evidence of universal benefit.",
+    "Zinc supplementation may be considered in cases of persistent diarrhea, high gastrointestinal losses, or chronic cholestasis.",
+    "Poor linear growth with relatively preserved weight can indicate micronutrient limitations.",
+    "In India, zinc is recommended for acute diarrhea treatment in children under five, but not for long-term prophylaxis.",
+    "A time-limited therapeutic trial with growth monitoring is preferred over indefinite supplementation in resource-limited settings.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Zinc",
+    "Trace Elements",
+    "Infant, Low Birth Weight",
+    "Infant, Premature",
+    "Nutritional Support",
+    "Diarrhea",
+    "Growth Monitoring",
+    "Micronutrients"
+  ],
+  "tags_custom": [
+    "post-discharge nutrition",
+    "zinc supplementation",
+    "LBW infant care",
+    "growth assessment",
+    "Indian child health guidelines"
+  ],
+  "reference_quote": "The WHO preterm/LBW care guideline notes that zinc supplementation may be considered in preterm infants, but Indian facility guidance does not recommend routine zinc for all LBW infants on human milk because evidence for universal benefit is insufficient.",
+  "document_key_topics": [
+    "Zinc supplementation in preterm/LBW infants",
+    "Indication-based trace element supplementation",
+    "Growth monitoring and therapeutic trials",
+    "Integration with national child-health programs"
+  ],
+  "chunk_heading": "PRETERM/LBW/ELBW POST-DISCHARGE NUTRITION;MICRONUTRIENT SUPPORT AND LAB MONITORING AFTER DISCHARGE;ZINC AND TRACE ELEMENT SUPPLEMENTATION INDICATIONS;",
+  "topic": "PRETERM/LBW/ELBW POST-DISCHARGE NUTRITION",
+  "subtopic": "MICRONUTRIENT SUPPORT AND LAB MONITORING AFTER DISCHARGE",
+  "sub_subtopic": "ZINC AND TRACE ELEMENT SUPPLEMENTATION INDICATIONS",
+  "heading_path": "PRETERM/LBW/ELBW POST-DISCHARGE NUTRITION;MICRONUTRIENT SUPPORT AND LAB MONITORING AFTER DISCHARGE;ZINC AND TRACE ELEMENT SUPPLEMENTATION INDICATIONS;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1\u00895.1"
+}

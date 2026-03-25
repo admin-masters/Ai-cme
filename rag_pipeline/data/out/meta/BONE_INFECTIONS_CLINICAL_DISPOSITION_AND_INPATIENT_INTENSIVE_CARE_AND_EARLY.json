@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Guidelines for inpatient care and early discharge in pediatric bone infections emphasize initial hospitalization, intensive care for severe cases, and criteria for transitioning to outpatient therapy based on clinical stability and microbiological results.",
+  "learning_objectives": [
+    "Understand criteria for inpatient intensive care in pediatric bone infections.",
+    "Learn the timing and sequence of diagnostic and therapeutic interventions, including aspiration and antibiotic initiation.",
+    "Identify conditions for safe early discharge and outpatient management.",
+    "Recognize the importance of de-escalation and microbiological review in treatment plans."
+  ],
+  "key_facts": [
+    "Initial hospitalization is recommended for most children with suspected acute osteoarticular infections, especially during the first 48 hours.",
+    "Intensive care is required for septic shock, hemodynamic instability, respiratory failure, or spinal cord compromise.",
+    "Stable children may transition to outpatient therapy after cultures, source control, pain management, and family education are completed.",
+    "De-escalation of antibiotics based on microbiology results is a core quality marker to reduce toxicity and improve outcomes.",
+    "Explicit review of clinical progress should occur at 48-72 hours to assess improvement, imaging needs, or treatment failure."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Osteomyelitis",
+    "Septic Arthritis",
+    "Pediatric Infections",
+    "Antibiotic Therapy",
+    "Intensive Care Units",
+    "Microbiological Culture",
+    "Discharge Planning",
+    "Clinical Monitoring"
+  ],
+  "tags_custom": [
+    "bone infections in children",
+    "early discharge criteria",
+    "inpatient care guidelines",
+    "antibiotic de-escalation",
+    "septic arthritis management"
+  ],
+  "reference_quote": "Most children with suspected acute osteoarticular infection should be admitted initially because the first forty-eight hours determine the diagnosis, the need for aspiration or surgery, and the adequacy of early antibiotic response. (Texas Children\u2019s Hospital Musculoskeletal Infections Guideline 2024)",
+  "document_key_topics": [
+    "Inpatient care criteria for pediatric bone infections",
+    "Early discharge planning and outpatient therapy",
+    "Diagnostic and therapeutic timing in osteoarticular infections",
+    "Antibiotic de-escalation and microbiological review"
+  ],
+  "chunk_heading": "BONE INFECTIONS;CLINICAL DISPOSITION AND MONITORING DECISIONS;INPATIENT INTENSIVE CARE AND EARLY DISCHARGE CRITERIA;",
+  "topic": "BONE INFECTIONS",
+  "subtopic": "CLINICAL DISPOSITION AND MONITORING DECISIONS",
+  "sub_subtopic": "INPATIENT INTENSIVE CARE AND EARLY DISCHARGE CRITERIA",
+  "heading_path": "BONE INFECTIONS;CLINICAL DISPOSITION AND MONITORING DECISIONS;INPATIENT INTENSIVE CARE AND EARLY DISCHARGE CRITERIA;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1p1"
+}

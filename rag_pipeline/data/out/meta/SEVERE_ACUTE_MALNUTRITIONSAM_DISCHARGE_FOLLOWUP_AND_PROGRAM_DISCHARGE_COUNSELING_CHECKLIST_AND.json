@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Discharge planning for SAM involves caregiver training, structured prescriptions, and follow-up to prevent relapse, ensure safe feeding, and monitor recovery progress.",
+  "learning_objectives": [
+    "Understand the components of a discharge counseling checklist for SAM management.",
+    "Learn how to write a structured outpatient prescription for therapeutic food and medications.",
+    "Recognize danger signs requiring immediate medical attention post-discharge.",
+    "Implement follow-up protocols to reduce defaulting and ensure program quality."
+  ],
+  "key_facts": [
+    "Caregiver demonstration of feed preparation, storage, and administration is mandatory before discharge.",
+    "Outpatient prescription must specify therapeutic food (e.g., RUTF sachets/day), micronutrient schedules, and next visit date within 7 days.",
+    "Danger signs include poor intake, repeated vomiting, fever, hypothermia, fast breathing, convulsions, lethargy, and worsening edema.",
+    "High-dose vitamin A administration should be documented to avoid duplication.",
+    "Missed visits require tracing within 48\u201372 hours by designated personnel (e.g., ASHA/AWW/ANM)."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Malnutrition",
+    "Severe Acute Malnutrition",
+    "Nutritional Therapy",
+    "Micronutrients",
+    "Vitamin A",
+    "Outpatient Care",
+    "Caregiver Education",
+    "Follow-Up Studies"
+  ],
+  "tags_custom": [
+    "SAM discharge planning",
+    "RUTF prescription",
+    "Caregiver training",
+    "Danger signs monitoring",
+    "Follow-up protocols"
+  ],
+  "reference_quote": "Discharge planning in SAM is a handover of risk, not an endpoint. A discharge counseling checklist and a structured outpatient prescription reduce relapse, defaulting, and unsafe home feeding. (National Health Mission, Participant manual for facility-based care of severe acute malnutrition)",
+  "document_key_topics": [
+    "Discharge counseling checklist for SAM",
+    "Outpatient prescription template for therapeutic food and medications",
+    "Caregiver training and danger sign recognition",
+    "Follow-up protocols to ensure program quality"
+  ],
+  "chunk_heading": "SEVERE ACUTE MALNUTRITION-(SAM) MANAGEMENT;DISCHARGE FOLLOW-UP AND  PROGRAM QUALITY;DISCHARGE COUNSELING CHECKLIST AND OUTPATIENT PRESCRIPTION TEMPLATE;",
+  "topic": "SEVERE ACUTE MALNUTRITION-(SAM) MANAGEMENT",
+  "subtopic": "DISCHARGE FOLLOW-UP AND  PROGRAM QUALITY",
+  "sub_subtopic": "DISCHARGE COUNSELING CHECKLIST AND OUTPATIENT PRESCRIPTION TEMPLATE",
+  "heading_path": "SEVERE ACUTE MALNUTRITION-(SAM) MANAGEMENT;DISCHARGE FOLLOW-UP AND  PROGRAM QUALITY;DISCHARGE COUNSELING CHECKLIST AND OUTPATIENT PRESCRIPTION TEMPLATE;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "3\u008f1"
+}

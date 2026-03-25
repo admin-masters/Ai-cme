@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Guidelines for multi-food elimination diets emphasize minimizing nutritional risks through defined endpoints, dietitian involvement, growth monitoring, and planned reintroduction to prevent malnutrition and system failure.",
+  "learning_objectives": [
+    "Understand the risks and management strategies for multi-food elimination diets.",
+    "Learn to establish stop-loss rules and monitoring protocols to prevent malnutrition.",
+    "Identify appropriate durations and diagnostic endpoints for elimination diets in conditions like EoE.",
+    "Apply protein and energy anchor principles to ensure dietary adequacy."
+  ],
+  "key_facts": [
+    "Multi-food elimination diets are high-risk and require a written rationale and defined endpoints.",
+    "Diagnostic non-IgE elimination diets typically last 2\u20136 weeks, while EoE diets may last 8\u201312 weeks before repeat endoscopy.",
+    "Growth reviews should occur within 2\u20134 weeks of starting the diet, with weight trends and dietary adequacy documented at each visit.",
+    "Laboratory assessments (e.g., hemoglobin, albumin, ferritin, vitamin B12) are triggered by high risk or symptoms of protein-losing disease.",
+    "Every multi-food elimination diet must include a written reintroduction plan to avoid system failure.",
+    "Protein and energy anchors are critical to prevent reliance on refined carbohydrates and ensure nutritional adequacy."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Food Hypersensitivity",
+    "Elimination Diet",
+    "Eosinophilic Esophagitis",
+    "Nutritional Status",
+    "Dietary Proteins",
+    "Growth Monitoring",
+    "Malnutrition",
+    "Diet Therapy"
+  ],
+  "tags_custom": [
+    "multi-food elimination",
+    "nutritional monitoring",
+    "dietitian involvement",
+    "reintroduction planning"
+  ],
+  "reference_quote": "Multi-food elimination should be treated as a high-risk intervention because nutritional compromise is predictable. (ESPGHAN, 2024)",
+  "document_key_topics": [
+    "Multi-food elimination diet risks and management",
+    "Nutritional monitoring and growth assessment",
+    "Protein and energy anchor principles",
+    "Reintroduction planning in elimination diets"
+  ],
+  "chunk_heading": "FOOD ALLERGY & THERAPEUTIC ELIMINATION DIETS;NUTRITION-SAFE ELIMINATION DIETS AND MONITORING;MULTI-FOOD ELIMINATION STOP-LOSS NUTRITION RULES;",
+  "topic": "FOOD ALLERGY & THERAPEUTIC ELIMINATION DIETS",
+  "subtopic": "NUTRITION-SAFE ELIMINATION DIETS AND MONITORING",
+  "sub_subtopic": "MULTI-FOOD ELIMINATION STOP-LOSS NUTRITION RULES",
+  "heading_path": "FOOD ALLERGY & THERAPEUTIC ELIMINATION DIETS;NUTRITION-SAFE ELIMINATION DIETS AND MONITORING;MULTI-FOOD ELIMINATION STOP-LOSS NUTRITION RULES;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u00904"
+}

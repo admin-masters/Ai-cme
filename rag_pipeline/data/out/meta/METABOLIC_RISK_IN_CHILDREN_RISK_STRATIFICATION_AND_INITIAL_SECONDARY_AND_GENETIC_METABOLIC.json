@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Early referral is critical for children with secondary or genetic metabolic phenotypes, including lipodystrophy, hypercortisolism, and syndromic obesity, to ensure tailored interventions and avoid ineffective lifestyle counseling.",
+  "learning_objectives": [
+    "Identify phenotypes requiring early endocrine or genetic referral in children with metabolic risk.",
+    "Understand clinical signs of lipodystrophy, hypercortisolism, and syndromic obesity.",
+    "Learn referral thresholds for genetic counseling and specialty services in pediatric obesity.",
+    "Document phenotypes explicitly to prioritize referral urgency and avoid repetitive advice."
+  ],
+  "key_facts": [
+    "Severe insulin resistance disproportionate to adiposity warrants early endocrine referral.",
+    "Lipodystrophy may present with marked acanthosis, low subcutaneous fat, very high triglycerides, fatty liver, or early-onset diabetes.",
+    "Hypercortisolism is suspected with weight gain, growth deceleration, proximal muscle weakness, violaceous striae, and hypertension.",
+    "Syndromic or monogenic obesity often has early onset (<5 years), hyperphagia, dysmorphic features, developmental delay, or autosomal inheritance patterns.",
+    "Consanguinity lowers the threshold for genetic referral in India."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Metabolic Diseases",
+    "Pediatric Obesity",
+    "Lipodystrophy",
+    "Hypercortisolism",
+    "Genetic Counseling",
+    "Insulin Resistance",
+    "Dyslipidemia",
+    "Endocrine Disorders"
+  ],
+  "tags_custom": [
+    "early referral",
+    "syndromic obesity",
+    "genetic phenotypes",
+    "pediatric endocrinology",
+    "specialty care"
+  ],
+  "reference_quote": "Suspect lipodystrophy when there is marked acanthosis with relatively low subcutaneous fat, very high TG, fatty liver, or early-onset diabetes. This phenotype can present as apparent 'lean diabetes' with extreme dyslipidemia and requires specialist evaluation for genetic or acquired lipodystrophy and tailored therapy. (Source: IAP guidelines on childhood obesity)",
+  "document_key_topics": [
+    "Secondary metabolic phenotypes in children",
+    "Genetic and syndromic obesity",
+    "Referral thresholds for endocrine and genetic evaluation",
+    "Tailored interventions for pediatric metabolic disorders"
+  ],
+  "chunk_heading": "METABOLIC RISK IN CHILDREN;RISK STRATIFICATION AND INITIAL SCREENING DECISIONS;SECONDARY AND GENETIC METABOLIC PHENOTYPES REQUIRING EARLY REFERRAL;",
+  "topic": "METABOLIC RISK IN CHILDREN",
+  "subtopic": "RISK STRATIFICATION AND INITIAL SCREENING DECISIONS",
+  "sub_subtopic": "SECONDARY AND GENETIC METABOLIC PHENOTYPES REQUIRING EARLY REFERRAL",
+  "heading_path": "METABOLIC RISK IN CHILDREN;RISK STRATIFICATION AND INITIAL SCREENING DECISIONS;SECONDARY AND GENETIC METABOLIC PHENOTYPES REQUIRING EARLY REFERRAL;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1n5"
+}

@@ -1,0 +1,47 @@
+{
+  "chunk_summary": "Guidance on enteral feeding escalation for children with neurodisability, focusing on safety, sufficiency, and family feasibility, with thresholds for oral feeding and staged support strategies like NG/NJ tubes or gastrostomy.",
+  "learning_objectives": [
+    "Understand thresholds for transitioning from oral to enteral feeding in children with neurodisability.",
+    "Learn the indications for short-term trans-nasal tube feeding versus gastrostomy placement.",
+    "Recognize the importance of family feasibility and caregiver support in feeding decisions.",
+    "Identify risks such as aspiration, dehydration, and caregiver exhaustion in feeding management."
+  ],
+  "key_facts": [
+    "Oral feeding should be reconsidered if total feeding time exceeds 3 hours/day or provides only 60-80% of nutritional needs with growth faltering.",
+    "Unsafe swallowing with aspiration risk is a critical threshold for enteral feeding escalation.",
+    "Short-term NG/NJ feeding is recommended for stabilization, while gastrostomy is preferred for long-term supplementation beyond several weeks.",
+    "Mixed strategies, combining tube feeding with safe oral 'pleasure feeds,' can maintain oral experience and social participation.",
+    "Recurrent aspiration-related respiratory illness and caregiver exhaustion are key triggers for escalation."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Enteral Nutrition",
+    "Deglutition Disorders",
+    "Gastrostomy",
+    "Nasogastric Intubation",
+    "Caregivers",
+    "Nutritional Support",
+    "Child, Preschool",
+    "Neurologic Manifestations"
+  ],
+  "tags_custom": [
+    "feeding thresholds",
+    "neurodisability care",
+    "aspiration risk",
+    "family-centered care"
+  ],
+  "reference_quote": "Thresholds used in neurologic impairment guidance include total oral feeding time exceeding about 3 hours per day, oral intake supplying only about 60-80% of individual needs with growth faltering, or any unsafe swallow where aspiration risk cannot be reduced to an acceptable level.",
+  "document_key_topics": [
+    "Enteral feeding thresholds in neurodisability",
+    "Short-term versus long-term feeding strategies",
+    "Family feasibility and caregiver support in feeding decisions"
+  ],
+  "chunk_heading": "NEURODISABILITY & FEEDING SUPPORT;ENTERAL FEEDING ESCALATION THRESHOLDS AND ROUTE SELECTION;",
+  "topic": "NEURODISABILITY & FEEDING SUPPORT",
+  "subtopic": "ENTERAL FEEDING ESCALATION THRESHOLDS AND ROUTE SELECTION",
+  "sub_subtopic": null,
+  "heading_path": "NEURODISABILITY & FEEDING SUPPORT;ENTERAL FEEDING ESCALATION THRESHOLDS AND ROUTE SELECTION;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1u"
+}

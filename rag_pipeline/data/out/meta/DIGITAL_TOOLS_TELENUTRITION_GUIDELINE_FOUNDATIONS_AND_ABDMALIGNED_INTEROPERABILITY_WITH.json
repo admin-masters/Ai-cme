@@ -1,0 +1,51 @@
+{
+  "chunk_summary": "This section discusses tele-nutrition interoperability in India, focusing on ABDM-aligned workflows, ABHA identity verification, consented record sharing, and FHIR-based data structuring for scalable, safe, and portable nutrition care.",
+  "learning_objectives": [
+    "Understand the role of ABDM in tele-nutrition interoperability and record sharing.",
+    "Learn how to implement ABHA identity verification and consent management in tele-nutrition platforms.",
+    "Identify the minimum shareable dataset for tele-nutrition and its FHIR-aligned structuring.",
+    "Explore strategies to prevent pediatric mislinking in tele-nutrition workflows."
+  ],
+  "key_facts": [
+    "Tele-nutrition platforms should align with ABDM concepts like identity, consent, and continuity.",
+    "ABHA identity verification should occur at the earliest stable touchpoint but not hinder care.",
+    "Pediatric identity verification requires two independent identifiers (e.g., caregiver phone and child DOB).",
+    "Consent must be layered: clinical consent, media storage consent, and external sharing consent.",
+    "Minimum shareable dataset includes anthropometry (e.g., WAZ/HAZ/WHZ/BAZ), red-flag results, risk tier, and FHIR-aligned formats.",
+    "Explicit, auditable consent is required for external record sharing.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Telemedicine",
+    "Nutrition Therapy",
+    "Electronic Health Records",
+    "Interoperability",
+    "Patient Consent",
+    "Pediatrics",
+    "Health Information Exchange",
+    "Health Data Standards"
+  ],
+  "tags_custom": [
+    "ABDM",
+    "Tele-nutrition",
+    "ABHA identity",
+    "FHIR standards",
+    "Pediatric care"
+  ],
+  "reference_quote": "Align workflow design to ABDM concepts: identity, consent, what is shared, and continuity when integration is absent. \u2014 Reference 5 (Ayushman Bharat Digital Mission)",
+  "document_key_topics": [
+    "ABDM-aligned tele-nutrition workflows",
+    "ABHA identity verification and consent management",
+    "FHIR-based structuring of tele-nutrition data",
+    "Pediatric identity verification and record linkage"
+  ],
+  "chunk_heading": "DIGITAL TOOLS & TELE-NUTRITION;GUIDELINE FOUNDATIONS AND REGULATORY SCOPE FOR TELE-NUTRITION IN INDIA;ABDM-ALIGNED INTEROPERABILITY WITH ABHA IDENTITY AND CONSENTED RECORD SHARING;",
+  "topic": "DIGITAL TOOLS & TELE-NUTRITION",
+  "subtopic": "GUIDELINE FOUNDATIONS AND REGULATORY SCOPE FOR TELE-NUTRITION IN INDIA",
+  "sub_subtopic": "ABDM-ALIGNED INTEROPERABILITY WITH ABHA IDENTITY AND CONSENTED RECORD SHARING",
+  "heading_path": "DIGITAL TOOLS & TELE-NUTRITION;GUIDELINE FOUNDATIONS AND REGULATORY SCOPE FOR TELE-NUTRITION IN INDIA;ABDM-ALIGNED INTEROPERABILITY WITH ABHA IDENTITY AND CONSENTED RECORD SHARING;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "1f5"
+}

@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "CMPA phenotypes require tailored diagnosis and management, distinguishing between IgE-mediated, non-IgE-mediated, and mixed presentations. Indian guidelines emphasize elimination diets with re-challenge for non-IgE cases and caution against unnecessary testing or prolonged restrictions without confirmation.",
+  "learning_objectives": [
+    "Understand the clinical phenotypes of cow's milk protein allergy (CMPA) and their diagnostic criteria.",
+    "Learn the role of elimination diets and re-challenge in diagnosing non-IgE-mediated CMPA.",
+    "Identify red flags and differential diagnoses for CMPA in Indian clinical settings.",
+    "Recognize the limitations of routine testing in CMPA diagnosis."
+  ],
+  "key_facts": [
+    "CMPA phenotypes include IgE-mediated, non-IgE-mediated (e.g., FPIAP, FPE, FPIES), and mixed presentations.",
+    "Non-IgE-mediated CMPA diagnosis involves elimination of cow\u2019s milk protein followed by re-challenge after symptom improvement.",
+    "Indian guidelines caution against empirical exclusion of cow\u2019s milk protein without confirmation.",
+    "Routine tests like total eosinophil count, total IgE levels, and atopic patch testing are not recommended for CMPA diagnosis.",
+    "Red flags for alternative diagnoses include poor growth, persistent diarrhea, significant blood in stool, fever, and systemic illness."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Food Hypersensitivity",
+    "Milk Hypersensitivity",
+    "Immunoglobulin E",
+    "Eosinophilic Esophagitis",
+    "Elimination Diet",
+    "Food Protein-Induced Enterocolitis Syndrome",
+    "Gastrointestinal Diseases",
+    "Diagnosis, Differential"
+  ],
+  "tags_custom": [
+    "CMPA phenotypes",
+    "non-IgE-mediated allergy",
+    "elimination diet",
+    "Indian guidelines",
+    "pediatric allergy"
+  ],
+  "reference_quote": "Indian guidance supports diagnosis by elimination of cow\u2019s milk protein followed by planned re-challenge once symptoms improve, and cautions against empirical exclusion without confirmation.",
+  "document_key_topics": [
+    "CMPA phenotypes and their clinical presentations",
+    "Diagnostic approach for non-IgE-mediated CMPA",
+    "Role of elimination diets and re-challenge in CMPA",
+    "Differential diagnoses and red flags in CMPA"
+  ],
+  "chunk_heading": "FOOD ALLERGY & THERAPEUTIC ELIMINATION DIETS;COWS MILK PROTEIN ALLERGY PHENOTYPE MANAGEMENT;CMPA PHENOTYPES DIAGNOSIS AND DIFFERENTIALS;",
+  "topic": "FOOD ALLERGY & THERAPEUTIC ELIMINATION DIETS",
+  "subtopic": "COWS MILK PROTEIN ALLERGY PHENOTYPE MANAGEMENT",
+  "sub_subtopic": "CMPA PHENOTYPES DIAGNOSIS AND DIFFERENTIALS",
+  "heading_path": "FOOD ALLERGY & THERAPEUTIC ELIMINATION DIETS;COWS MILK PROTEIN ALLERGY PHENOTYPE MANAGEMENT;CMPA PHENOTYPES DIAGNOSIS AND DIFFERENTIALS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1y1"
+}

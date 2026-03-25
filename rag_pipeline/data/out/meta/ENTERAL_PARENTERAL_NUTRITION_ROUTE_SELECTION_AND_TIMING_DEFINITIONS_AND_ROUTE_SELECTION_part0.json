@@ -1,0 +1,47 @@
+{
+  "chunk_summary": "This section defines enteral and parenteral nutrition, outlines a heuristic for route selection in sick children, and emphasizes timely planning for nutrition support when intake is inadequate for >48\u201372 hours.",
+  "learning_objectives": [
+    "Understand the definitions and indications for enteral and parenteral nutrition.",
+    "Learn the practical heuristic for selecting a nutrition route in pediatric patients.",
+    "Recognize the importance of documenting a nutrition plan for children with negligible intake for >48\u201372 hours.",
+    "Identify factors influencing the choice of feeding method, including gut functionality and aspiration risk."
+  ],
+  "key_facts": [
+    "Enteral nutrition (EN) is preferred when the gut is functional, as it supports mucosal integrity and reduces reliance on central venous access.",
+    "Parenteral nutrition (PN) is indicated when EN is not feasible due to gastrointestinal immaturity, malabsorption, or contraindications to gut feeding.",
+    "A practical route-selection heuristic includes assessing gut perfusion, aspiration risk, delivery method, and duration of support.",
+    "Children with negligible intake for >48\u201372 hours should have a documented nutrition route, starting dose, target dose, and monitoring schedule.",
+    "The decision-making process prioritizes safety and feasibility, with EN being the default unless contraindicated."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Enteral Nutrition",
+    "Parenteral Nutrition",
+    "Nutritional Support",
+    "Pediatrics",
+    "Gastrointestinal Function",
+    "Aspiration Risk",
+    "Nutrition Assessment",
+    "Feeding Methods"
+  ],
+  "tags_custom": [
+    "route selection",
+    "pediatric nutrition",
+    "nutrition planning",
+    "feeding guidelines"
+  ],
+  "reference_quote": "\u201cUse the gut if it works\u201d remains the default because enteral feeding supports mucosal integrity and reduces reliance on central venous access.",
+  "document_key_topics": [
+    "Definitions of enteral and parenteral nutrition",
+    "Heuristic for route selection in pediatric patients",
+    "Timing and planning for nutrition support"
+  ],
+  "chunk_heading": "ENTERAL & PARENTERAL NUTRITION;ROUTE SELECTION AND TIMING DECISIONS FOR ENTERAL AND PARENTERAL NUTRITION;DEFINITIONS AND ROUTE SELECTION HEURISTIC;",
+  "topic": "ENTERAL & PARENTERAL NUTRITION",
+  "subtopic": "ROUTE SELECTION AND TIMING DECISIONS FOR ENTERAL AND PARENTERAL NUTRITION",
+  "sub_subtopic": "DEFINITIONS AND ROUTE SELECTION HEURISTIC",
+  "heading_path": "ENTERAL & PARENTERAL NUTRITION;ROUTE SELECTION AND TIMING DECISIONS FOR ENTERAL AND PARENTERAL NUTRITION;DEFINITIONS AND ROUTE SELECTION HEURISTIC;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1d1.1"
+}

@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "Guidelines for using the MCP card to ensure effective clinic-to-ICDS and NRC referral handoffs for feeding and care of children under 2 years, with a focus on anthropometry, feeding prescriptions, and program integration.",
+  "learning_objectives": [
+    "Understand the role of the MCP card in clinic-to-ICDS and NRC referral handoffs.",
+    "Learn how to document feeding status, anthropometry, and growth classification for children under 2 years.",
+    "Identify key referral criteria for children with SAM or feeding failure.",
+    "Integrate ICDS and NRC programs into child nutrition and health management."
+  ],
+  "key_facts": [
+    "The MCP card should document feeding category (EBF, mixed feeding, or non-breastfed), meal frequency, and diversity status.",
+    "Anthropometry must include weight, recumbent length, edema check, and growth classification using WHO z-scores.",
+    "For SAM cases, referrals must include danger signs, last intake tolerated, dehydration signs, and expected destination (e.g., NRC).",
+    "Caregiver follow-up should include ASHA home visits within 72 hours to check feeding and urine output.",
+    "Linkages to ICDS programs should include THR enrollment, IFA schedule, and vitamin A dose updates."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Infant Nutrition",
+    "Child Nutrition Disorders",
+    "Severe Acute Malnutrition",
+    "Anthropometry",
+    "Referral and Consultation",
+    "Integrated Child Development Services",
+    "Breastfeeding",
+    "Vitamin A Deficiency"
+  ],
+  "tags_custom": [
+    "MCP card usage",
+    "ICDS integration",
+    "SAM management",
+    "Feeding counseling",
+    "Referral protocols"
+  ],
+  "reference_quote": "Use the MCP card (or discharge/referral note) to transmit a minimum dataset that allows Anganwadi, ASHA, and facility teams to continue the same plan.",
+  "document_key_topics": [
+    "MCP card documentation for feeding and growth monitoring",
+    "Referral protocols for SAM and feeding failure",
+    "Integration of ICDS and NRC programs into child health management"
+  ],
+  "chunk_heading": "- INFANT & YOUNG CHILD FEEDING UNDER 2 YEARS;INDIA PROGRAM INTEGRATION AND CULTURALLY EFFECTIVE COUNSELING;CLINIC-TO-ICDS AND NRC REFERRAL HANDOFF USING MCP CARD;",
+  "topic": "- INFANT & YOUNG CHILD FEEDING UNDER 2 YEARS",
+  "subtopic": "INDIA PROGRAM INTEGRATION AND CULTURALLY EFFECTIVE COUNSELING",
+  "sub_subtopic": "CLINIC-TO-ICDS AND NRC REFERRAL HANDOFF USING MCP CARD",
+  "heading_path": "- INFANT & YOUNG CHILD FEEDING UNDER 2 YEARS;INDIA PROGRAM INTEGRATION AND CULTURALLY EFFECTIVE COUNSELING;CLINIC-TO-ICDS AND NRC REFERRAL HANDOFF USING MCP CARD;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "4c1"
+}

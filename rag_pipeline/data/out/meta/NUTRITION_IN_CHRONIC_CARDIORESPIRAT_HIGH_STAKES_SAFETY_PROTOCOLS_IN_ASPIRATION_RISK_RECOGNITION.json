@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "This section discusses aspiration risk in children with chronic cardiorespiratory disease, emphasizing bedside screening, cautious use of thickeners, and referral for instrumental swallowing evaluations to ensure safe nutrition rehabilitation.",
+  "learning_objectives": [
+    "Recognize clinical signs of aspiration risk in children with chronic cardiorespiratory disease.",
+    "Understand the safety concerns and guidelines for using thickening agents in medically fragile infants.",
+    "Learn appropriate referral pathways for swallowing evaluations, including VFSS and FEES.",
+    "Identify alternative feeding strategies to protect the lungs in cases of confirmed aspiration."
+  ],
+  "key_facts": [
+    "Aspiration can present as recurrent pneumonia, chronic wet cough, or feeding-related desaturation in children with CHD or CLD.",
+    "Xanthan gum\u2013based thickeners are contraindicated in premature infants due to associations with necrotizing enterocolitis (Beal et al., 2012).",
+    "Structured bedside screening should assess for cough, choking, wet voice, increased work of breathing, prolonged feed times, and desaturation events during meals.",
+    "First-line modifications include upright positioning, paced feeding with rest breaks, and nipple-flow adjustment in infants.",
+    "Instrumental assessments like VFSS or FEES are recommended for recurrent pneumonia or suspected aspiration.",
+    "Temporary NG feeding or gastrostomy may be necessary to protect the lungs when aspiration is confirmed."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Aspiration",
+    "Swallowing Disorders",
+    "Congenital Heart Defects",
+    "Chronic Lung Disease",
+    "Enterocolitis, Necrotizing",
+    "Thickening Agents",
+    "Feeding Methods",
+    "Fiberoptic Endoscopic Evaluation of Swallowing"
+  ],
+  "tags_custom": [
+    "aspiration risk",
+    "nutrition rehabilitation",
+    "swallow evaluation",
+    "feeding safety",
+    "pediatric dysphagia"
+  ],
+  "reference_quote": "\"Avoid xanthan gum\u2013based thickeners in premature infants because of reported associations with necrotizing enterocolitis and professional warnings urging caution.\" (Beal et al., 2012)",
+  "document_key_topics": [
+    "Aspiration risk in chronic cardiorespiratory disease",
+    "Safety protocols for thickening agents",
+    "Swallowing evaluation and instrumental assessments",
+    "Alternative feeding strategies for aspiration prevention"
+  ],
+  "chunk_heading": "NUTRITION IN CHRONIC CARDIORESPIRATORY DISEASE;HIGH STAKES SAFETY PROTOCOLS IN NUTRITION REHABILITATION;ASPIRATION RISK RECOGNITION THICKENING CAUTIONS AND SWALLOW EVALUATION;",
+  "topic": "NUTRITION IN CHRONIC CARDIORESPIRATORY DISEASE",
+  "subtopic": "HIGH STAKES SAFETY PROTOCOLS IN NUTRITION REHABILITATION",
+  "sub_subtopic": "ASPIRATION RISK RECOGNITION THICKENING CAUTIONS AND SWALLOW EVALUATION",
+  "heading_path": "NUTRITION IN CHRONIC CARDIORESPIRATORY DISEASE;HIGH STAKES SAFETY PROTOCOLS IN NUTRITION REHABILITATION;ASPIRATION RISK RECOGNITION THICKENING CAUTIONS AND SWALLOW EVALUATION;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u00892"
+}

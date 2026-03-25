@@ -1,0 +1,51 @@
+{
+  "chunk_summary": "Phosphate binder selection in pediatric CKD prioritizes calcium load safety, avoiding aluminum binders, and balancing dietary phosphate control with protein preservation.",
+  "learning_objectives": [
+    "Understand the role of phosphate binders in managing hyperphosphatemia in pediatric CKD.",
+    "Learn strategies to balance dietary phosphate control while preserving protein intake.",
+    "Identify safety considerations for calcium-based and non-calcium phosphate binders.",
+    "Monitor calcium, phosphate, and PTH trends to guide binder adjustments."
+  ],
+  "key_facts": [
+    "Phosphate-lowering therapy should begin when phosphate is persistently elevated, alongside calcium and PTH trends.",
+    "Avoid long-term aluminum-containing binders due to toxicity risks.",
+    "Limit calcium-based binders in cases of hypercalcemia or suppressed PTH to prevent adynamic bone disease.",
+    "Non-calcium binders should be considered when total calcium exposure from diet and medications is high.",
+    "Binder efficacy requires administration with every phosphate-containing meal or snack.",
+    "Corrective steps before dietary phosphate restriction include binder timing, removing phosphate additives, and treating metabolic acidosis and constipation.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Chronic Kidney Disease",
+    "Pediatric Nephrology",
+    "Phosphate Binders",
+    "Hyperphosphatemia",
+    "Calcium Metabolism",
+    "Parathyroid Hormone",
+    "Dietary Proteins",
+    "Metabolic Acidosis"
+  ],
+  "tags_custom": [
+    "CKD-MBD management",
+    "pediatric nutrition",
+    "phosphate control",
+    "calcium safety",
+    "binder selection"
+  ],
+  "reference_quote": "Start phosphate-lowering therapy when phosphate is progressively or persistently elevated, interpreted alongside calcium and PTH trends rather than a single value. (KDIGO 2017 Clinical Practice Guideline Update)",
+  "document_key_topics": [
+    "Phosphate binder selection in pediatric CKD",
+    "Calcium load safety and hypercalcemia prevention",
+    "Dietary phosphate control strategies",
+    "Monitoring trends in calcium, phosphate, and PTH"
+  ],
+  "chunk_heading": "- NUTRITION IN CHRONIC KIDNEY & LIVER DISEASE;MICRONUTRIENTS AND MINERAL BONE DISORDER IN PEDIATRIC CKD;PHOSPHATE BINDER SELECTION AND CALCIUM LOAD SAFETY IN CKD;",
+  "topic": "- NUTRITION IN CHRONIC KIDNEY & LIVER DISEASE",
+  "subtopic": "MICRONUTRIENTS AND MINERAL BONE DISORDER IN PEDIATRIC CKD",
+  "sub_subtopic": "PHOSPHATE BINDER SELECTION AND CALCIUM LOAD SAFETY IN CKD",
+  "heading_path": "- NUTRITION IN CHRONIC KIDNEY & LIVER DISEASE;MICRONUTRIENTS AND MINERAL BONE DISORDER IN PEDIATRIC CKD;PHOSPHATE BINDER SELECTION AND CALCIUM LOAD SAFETY IN CKD;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "3a1"
+}

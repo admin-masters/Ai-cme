@@ -1,0 +1,47 @@
+{
+  "chunk_summary": "Guidelines for minimum exclusion work-up in children with persistent ALT elevation to rule out treatable mimics before diagnosing MASLD, emphasizing targeted testing and early referral for high-risk cases.",
+  "learning_objectives": [
+    "Understand the minimum exclusion work-up for persistent ALT elevation in pediatric MASLD screening.",
+    "Identify key triggers for escalating evaluation and early referral in suspected MASLD cases.",
+    "Differentiate between simple fatty liver and higher-risk liver diseases in children."
+  ],
+  "key_facts": [
+    "MASLD is a diagnosis of exclusion, requiring the elimination of treatable mimics such as viral hepatitis, thyroid dysfunction, celiac disease, Wilson disease, and autoimmune hepatitis.",
+    "Minimum exclusion tests include HBsAg, anti-HCV, TSH, free T4, IgA tissue transglutaminase, serum ceruloplasmin, ANA, ASMA, and total IgG.",
+    "Persistent ALT >2\u00d7 sex-specific upper limit of normal for >3 months or ALT >80 U/L are triggers for escalation.",
+    "Additional red flags include hepatomegaly, splenomegaly, falling platelets, jaundice, or impaired synthetic liver function.",
+    "Drug-induced liver injury from medications like anti-TB drugs, antiepileptics, or steroids must be ruled out.",
+    "Early referral to pediatric hepatology is recommended for syndromic features or suspected inborn errors of metabolism."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Pediatric Obesity",
+    "Non-alcoholic Fatty Liver Disease",
+    "Alanine Transaminase",
+    "Hepatitis, Viral",
+    "Thyroid Function Tests",
+    "Celiac Disease",
+    "Wilson Disease",
+    "Autoimmune Hepatitis"
+  ],
+  "tags_custom": [
+    "MASLD screening",
+    "ALT elevation",
+    "pediatric hepatology",
+    "liver disease exclusion"
+  ],
+  "reference_quote": "MASLD is a diagnosis of exclusion. Before labeling a child with MASLD, rule out common and treatable mimics that are clinically relevant in India and can coexist with obesity. (ISPGHAN/Indian Pediatrics, 2024)",
+  "document_key_topics": [
+    "Minimum exclusion work-up for persistent ALT elevation",
+    "Triggers for escalation and referral in pediatric MASLD",
+    "Differentiating simple fatty liver from higher-risk diseases"
+  ],
+  "chunk_heading": "METABOLIC RISK IN CHILDREN;PEDIATRIC MASLD SCREENING DIAGNOSIS AND STAGING;MINIMUM EXCLUSION WORK-UP FOR PERSISTENT ALT ELEVATION;",
+  "topic": "METABOLIC RISK IN CHILDREN",
+  "subtopic": "PEDIATRIC MASLD SCREENING DIAGNOSIS AND STAGING",
+  "sub_subtopic": "MINIMUM EXCLUSION WORK-UP FOR PERSISTENT ALT ELEVATION",
+  "heading_path": "METABOLIC RISK IN CHILDREN;PEDIATRIC MASLD SCREENING DIAGNOSIS AND STAGING;MINIMUM EXCLUSION WORK-UP FOR PERSISTENT ALT ELEVATION;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1\u00812"
+}

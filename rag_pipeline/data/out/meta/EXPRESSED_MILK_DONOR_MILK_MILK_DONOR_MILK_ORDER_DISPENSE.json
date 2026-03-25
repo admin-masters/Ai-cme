@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "This workflow outlines the regulated clinical use of pasteurized donor human milk (DHM) in NICUs, detailing steps from eligibility and consent to dispensing, storage, administration, and reassessment, with strict safety and traceability protocols.",
+  "learning_objectives": [
+    "Understand the eligibility criteria and documentation required for prescribing donor human milk (DHM).",
+    "Learn the safety protocols for dispensing, storing, and administering DHM in NICUs.",
+    "Recognize the importance of daily reassessment and transition planning to prioritize maternal milk.",
+    "Identify stop rules and incident reporting procedures for DHM use."
+  ],
+  "key_facts": [
+    "DHM is treated as a regulated clinical product with medication-level controls in NICUs.",
+    "Eligibility requires documentation of indications like very preterm birth or prior NEC, with DHM serving as a bridge, not a substitute for maternal milk.",
+    "Informed consent must include counseling on donor screening, pasteurization, and residual infectious risks.",
+    "DHM must be dispensed from 'released' stock with batch records, and storage must follow FIFO (first-in, first-out) principles.",
+    "Daily reassessment of maternal milk volumes and infant stability is required every 24\u201348 hours.",
+    "Stop rules include non-traceable bottles, expired stock, compromised seals, or uncertain cold-chain integrity."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Milk Banks",
+    "Donor Milk",
+    "Infant, Premature",
+    "Neonatal Intensive Care Units",
+    "Pasteurization",
+    "Milk, Human",
+    "Informed Consent",
+    "Patient Safety"
+  ],
+  "tags_custom": [
+    "DHM workflow",
+    "NICU protocols",
+    "traceability",
+    "maternal milk prioritization",
+    "incident reporting"
+  ],
+  "reference_quote": "Donor human milk for the high-risk infant: preparation, safety, and usage options in the United States \u2014 https://pubmed.ncbi.nlm.nih.gov/27994111/",
+  "document_key_topics": [
+    "Donor human milk (DHM) workflow in NICUs",
+    "Safety and traceability protocols for DHM",
+    "Maternal milk prioritization and transition planning",
+    "Incident reporting and stop rules for DHM use"
+  ],
+  "chunk_heading": "EXPRESSED MILK, DONOR MILK & MILK BANKING;DONOR MILK ORDER DISPENSE ADMINISTER TRACE WORKFLOW;",
+  "topic": "EXPRESSED MILK, DONOR MILK & MILK BANKING",
+  "subtopic": "DONOR MILK ORDER DISPENSE ADMINISTER TRACE WORKFLOW",
+  "sub_subtopic": null,
+  "heading_path": "EXPRESSED MILK, DONOR MILK & MILK BANKING;DONOR MILK ORDER DISPENSE ADMINISTER TRACE WORKFLOW;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2j"
+}

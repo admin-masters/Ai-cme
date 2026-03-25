@@ -1,0 +1,46 @@
+{
+  "chunk_summary": "Safe macronutrient sequencing in facility-based management of severe acute malnutrition involves stabilization with controlled feeding (F-75), transitioning to rehabilitation (F-100), and ensuring clinical recovery before discharge, following national and WHO guidelines.",
+  "learning_objectives": [
+    "Understand the stabilization-to-rehabilitation sequence in severe acute malnutrition management.",
+    "Learn the feeding protocols for F-75 and F-100 during different phases of treatment.",
+    "Recognize discharge criteria and follow-up protocols for children recovering from severe acute malnutrition."
+  ],
+  "key_facts": [
+    "Admission criteria include weight-for-length/height < -3 SD, MUAC <115 mm (6\u201359 months), or bilateral pitting edema.",
+    "Initial feeding uses F-75 for controlled energy and protein delivery during stabilization.",
+    "Transition to F-100 or catch-up diet occurs when appetite returns and edema resolves.",
+    "Discharge requires at least 15% weight gain from admission weight, edema resolution, and reliable feeding.",
+    "Fluid management prioritizes oral/nasogastric rehydration; IV fluids are avoided unless shock is present."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Severe Acute Malnutrition",
+    "Macronutrients",
+    "Child Nutrition Disorders",
+    "Rehabilitation",
+    "Feeding Methods",
+    "Fluid Therapy",
+    "Micronutrients",
+    "Malnutrition Management"
+  ],
+  "tags_custom": [
+    "SAM stabilization",
+    "F-75 feeding protocol",
+    "Discharge planning",
+    "Nutrition rehabilitation"
+  ],
+  "reference_quote": "The WHO 2023 wasting guideline updates global recommendations; in India, follow national FBMC and nutrition rehabilitation centre protocols while tracking evolving guidance.",
+  "document_key_topics": [
+    "Severe acute malnutrition stabilization and rehabilitation",
+    "Feeding protocols for F-75 and F-100",
+    "Discharge criteria and follow-up planning"
+  ],
+  "chunk_heading": "MACRONUTRIENT NUTRITION ACROSS CHILDHOOD;FACILITY BASED MANAGEMENT OF SEVERE ACUTE MALNUTRITION SAFE MACRONUTRIENT SEQUENCING;",
+  "topic": "MACRONUTRIENT NUTRITION ACROSS CHILDHOOD",
+  "subtopic": "FACILITY BASED MANAGEMENT OF SEVERE ACUTE MALNUTRITION SAFE MACRONUTRIENT SEQUENCING",
+  "sub_subtopic": null,
+  "heading_path": "MACRONUTRIENT NUTRITION ACROSS CHILDHOOD;FACILITY BASED MANAGEMENT OF SEVERE ACUTE MALNUTRITION SAFE MACRONUTRIENT SEQUENCING;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "2\u007f"
+}

@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "Guidelines for feeding infants and young children under 2 years during illness, hospitalization, and recovery, emphasizing referral thresholds, hospital nutrition support, and post-illness catch-up strategies.",
+  "learning_objectives": [
+    "Identify referral thresholds for severe feeding difficulties and dehydration in infants.",
+    "Understand hospital nutrition protocols, including enteral and parenteral feeding options.",
+    "Implement post-illness catch-up feeding strategies to prevent undernutrition.",
+    "Monitor weight and dietary diversity during and after hospitalization."
+  ],
+  "key_facts": [
+    "Urgent referral is needed for severe dehydration signs: lethargy, sunken eyes, absent tears, poor drinking, minimal urine output.",
+    "Avoid prolonged NPO status; use dextrose-containing fluids during fasting and restart feeds promptly.",
+    "Expressed breast milk or donor human milk is preferred for NICU infants unable to suck safely.",
+    "Begin enteral nutrition as soon as the gut is functional; reserve TPN for contraindicated or intolerant cases.",
+    "Post-illness catch-up feeding includes one extra meal/snack daily for 2 weeks, enriched with oil, pulses, egg, or dairy.",
+    "Follow-up weight checks are essential after severe diarrhea, pneumonia, measles, or hospitalization."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Infant Nutrition",
+    "Hospitalization",
+    "Enteral Nutrition",
+    "Parenteral Nutrition",
+    "Dehydration",
+    "Micronutrient Supplementation",
+    "Undernutrition",
+    "Post-Illness Recovery"
+  ],
+  "tags_custom": [
+    "feeding during illness",
+    "hospital nutrition protocols",
+    "catch-up feeding",
+    "referral thresholds",
+    "weight monitoring"
+  ],
+  "reference_quote": "Escalate care when feeding failure threatens survival. Refer urgently for signs of severe dehydration, persistent vomiting, convulsions, or respiratory distress with inability to feed. (WHO Pocket Book of Hospital Care for Children, 2nd edition)",
+  "document_key_topics": [
+    "Referral thresholds for feeding difficulties and dehydration",
+    "Hospital nutrition support protocols",
+    "Post-illness catch-up feeding strategies",
+    "Monitoring weight and dietary diversity during recovery"
+  ],
+  "chunk_heading": "INFANT & YOUNG CHILD FEEDING UNDER 2 YEARS;FEEDING DURING ILLNESS HOSPITALIZATION AND RECOVERY;REFERRAL THRESHOLDS HOSPITAL NUTRITION  SUPPORT AND POST-ILLNESS CATCH-UP;",
+  "topic": "INFANT & YOUNG CHILD FEEDING UNDER 2 YEARS",
+  "subtopic": "FEEDING DURING ILLNESS HOSPITALIZATION AND RECOVERY",
+  "sub_subtopic": "REFERRAL THRESHOLDS HOSPITAL NUTRITION  SUPPORT AND POST-ILLNESS CATCH-UP",
+  "heading_path": "INFANT & YOUNG CHILD FEEDING UNDER 2 YEARS;FEEDING DURING ILLNESS HOSPITALIZATION AND RECOVERY;REFERRAL THRESHOLDS HOSPITAL NUTRITION  SUPPORT AND POST-ILLNESS CATCH-UP;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "4\u00843"
+}

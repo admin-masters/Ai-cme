@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "Guidelines for preventive supplementation doses in high-risk vegetarian diets, emphasizing vitamin B12, iron, vitamin A, vitamin D, calcium, and zinc, tailored to national schedules and specific risk factors.",
+  "learning_objectives": [
+    "Understand the preventive supplementation needs for high-risk vegetarian patterns, including vegan diets and dairy-poor diets.",
+    "Learn the recommended dosages for vitamin B12, iron, vitamin A, vitamin D, calcium, and zinc in children and adolescents.",
+    "Recognize the importance of aligning supplementation with national schedules and verifying current guidelines.",
+    "Identify operational approaches for supplementation in cases of poor adherence or specific deficiencies."
+  ],
+  "key_facts": [
+    "Vitamin B12: Daily 5\u201310 \u00b5g or weekly 2000 \u00b5g for vegan children or breastfed infants of unsupplemented vegan mothers.",
+    "Iron prophylaxis: Biweekly IFA syrup (20 mg iron + 100 \u00b5g folic acid) for 6\u201359 months; weekly tablets (45 mg iron + 400 \u00b5g folic acid) for 5\u201310 years; weekly tablets (60 mg iron + 500 \u00b5g folic acid) for 10\u201319 years.",
+    "Vitamin A: First dose at 9 months (100,000 IU), followed by 200,000 IU every 6 months until 5 years (total 9 doses).",
+    "Vitamin D: Routine 400 IU/day in infancy; supplementation for older children in high-risk contexts (low sun exposure, dairy-poor diets).",
+    "Zinc in diarrhea: 10 mg/day (<6 months) or 20 mg/day (\u22656 months) for 14 days alongside ORS.",
+    "National schedules and program-anchored doses should be verified regularly to ensure compliance with updated guidelines."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Vegetarian Diet",
+    "Vitamin B12 Deficiency",
+    "Iron Deficiency",
+    "Vitamin A Deficiency",
+    "Vitamin D",
+    "Zinc",
+    "Child Nutrition",
+    "Dietary Supplements"
+  ],
+  "tags_custom": [
+    "high-risk vegetarian diets",
+    "preventive supplementation",
+    "pediatric nutrition",
+    "national health programs"
+  ],
+  "reference_quote": "Align with AMB/I-NIPI schedules. Operational doses commonly used in India include 6\u201359 months biweekly IFA syrup 1 mL (20 mg elemental iron + 100 \u00b5g folic acid).",
+  "document_key_topics": [
+    "Preventive supplementation in high-risk vegetarian diets",
+    "National health program alignment for supplementation",
+    "Specific nutrient guidelines for children and adolescents"
+  ],
+  "chunk_heading": "VEGETARIAN & REGIONAL FEEDING PATTERNS;VERSION-ANCHORED PREVENTIVE SUPPLEMENTATION DOSES IN HIGH-RISK VEGETARIAN PATTERNS;",
+  "topic": "VEGETARIAN & REGIONAL FEEDING PATTERNS",
+  "subtopic": "VERSION-ANCHORED PREVENTIVE SUPPLEMENTATION DOSES IN HIGH-RISK VEGETARIAN PATTERNS",
+  "sub_subtopic": null,
+  "heading_path": "VEGETARIAN & REGIONAL FEEDING PATTERNS;VERSION-ANCHORED PREVENTIVE SUPPLEMENTATION DOSES IN HIGH-RISK VEGETARIAN PATTERNS;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "1t"
+}

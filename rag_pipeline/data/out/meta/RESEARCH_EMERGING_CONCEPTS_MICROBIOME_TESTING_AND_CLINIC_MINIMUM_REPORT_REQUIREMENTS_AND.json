@@ -1,0 +1,51 @@
+{
+  "chunk_summary": "Clinical microbiome testing reports require metadata for valid interpretation and should avoid therapeutic advice. Pediatric counseling focuses on education, avoiding supplement cascades, and referring cases with red flags to specialists.",
+  "learning_objectives": [
+    "Understand the minimum standards for interpreting stool microbiome profiling reports.",
+    "Identify non-actionable outputs and educate families on their clinical relevance.",
+    "Recognize red flags that warrant referral to pediatric gastroenterology.",
+    "Prevent supplement cascades by prioritizing symptom-based care over microbiome-based interventions."
+  ],
+  "key_facts": [
+    "Broad stool microbiome profiling is inappropriate for diagnosing functional abdominal pain, constipation, eczema, or 'low immunity.'",
+    "Interpretation requires clinically relevant metadata such as age, diet, stool consistency, and recent antibiotics.",
+    "Composite 'dysbiosis indices' and oversimplified ratios are discouraged by international consensus.",
+    "There is no validated pediatric threshold for 'low diversity' that mandates treatment.",
+    "Relative abundance of Bifidobacteria is not a deficiency state; feeding patterns and antibiotics are more actionable.",
+    "Candida overgrowth in stool should not be treated as disease without compatible clinical syndromes.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Microbiota",
+    "Pediatrics",
+    "Gastrointestinal Diseases",
+    "Probiotics",
+    "Fecal Microbiota Transplantation",
+    "Clinical Guidelines",
+    "Diet Therapy",
+    "Antibiotics"
+  ],
+  "tags_custom": [
+    "microbiome testing",
+    "pediatric counseling",
+    "non-actionable outputs",
+    "clinical metadata",
+    "supplement cascade prevention"
+  ],
+  "reference_quote": "International consensus guidance emphasizes that interpretation is invalid without clinically relevant metadata (age, recent antibiotics, diet, stool consistency, handling time and temperature).",
+  "document_key_topics": [
+    "Minimum standards for microbiome testing reports",
+    "Non-actionable outputs in stool microbiome profiling",
+    "Pediatric counseling strategies for microbiome-related findings",
+    "Referral criteria for pediatric gastroenterology"
+  ],
+  "chunk_heading": "RESEARCH & EMERGING CONCEPTS;MICROBIOME TESTING AND CLINIC COUNSELING PATHWAYS;MINIMUM REPORT REQUIREMENTS AND NON ACTIONABLE OUTPUTS;",
+  "topic": "RESEARCH & EMERGING CONCEPTS",
+  "subtopic": "MICROBIOME TESTING AND CLINIC COUNSELING PATHWAYS",
+  "sub_subtopic": "MINIMUM REPORT REQUIREMENTS AND NON ACTIONABLE OUTPUTS",
+  "heading_path": "RESEARCH & EMERGING CONCEPTS;MICROBIOME TESTING AND CLINIC COUNSELING PATHWAYS;MINIMUM REPORT REQUIREMENTS AND NON ACTIONABLE OUTPUTS;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1k4"
+}

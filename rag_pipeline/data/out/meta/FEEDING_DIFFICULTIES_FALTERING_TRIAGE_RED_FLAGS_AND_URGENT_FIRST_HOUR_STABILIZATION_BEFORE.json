@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "Guidance on first-hour stabilization for children with feeding difficulties or faltering growth, focusing on hydration, glucose monitoring, aspiration management, and safe referral practices to minimize harm before transfer.",
+  "learning_objectives": [
+    "Understand first-hour stabilization protocols for children with feeding difficulties or faltering growth.",
+    "Identify and manage dehydration, aspiration, and severe acute malnutrition (SAM) during urgent referrals.",
+    "Learn safe feeding practices and phased stabilization for children with SAM.",
+    "Prepare effective referral documentation to improve continuity of care."
+  ],
+  "key_facts": [
+    "If dehydration is suspected and the child can drink, start oral rehydration and continue breastfeeding; if not, arrange urgent transfer for IV management.",
+    "Avoid rapid calorie intake or overhydration in children with SAM during the first day to prevent deterioration.",
+    "For suspected aspiration, oral feeding is unsafe until a feeding-safety assessment is completed; prioritize small volumes and upright positioning if feeding is necessary.",
+    "Recheck glucose in severely undernourished or lethargic children and ensure warmth during transfer.",
+    "Provide a written handover for urgent referrals, including anthropometry, growth concerns, red flags, and immediate actions taken.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Feeding and Eating Disorders of Childhood",
+    "Dehydration",
+    "Severe Acute Malnutrition",
+    "Aspiration Pneumonia",
+    "Oral Rehydration Therapy",
+    "Nutritional Rehabilitation",
+    "Shock",
+    "Referral and Consultation"
+  ],
+  "tags_custom": [
+    "first-hour stabilization",
+    "urgent pediatric care",
+    "feeding safety",
+    "malnutrition management",
+    "referral protocols"
+  ],
+  "reference_quote": "If SAM is present, do not 'push calories fast' on day 1. Facility-based guidance emphasizes phased stabilization (including cautious fluids) because standard pediatric overhydration and inappropriate rapid feeding can precipitate deterioration.",
+  "document_key_topics": [
+    "First-hour stabilization for feeding difficulties",
+    "Management of dehydration and aspiration",
+    "Safe practices for severe acute malnutrition (SAM)",
+    "Effective referral documentation"
+  ],
+  "chunk_heading": "FEEDING DIFFICULTIES & FALTERING GROWTH;TRIAGE RED FLAGS AND URGENT REFERRAL DECISIONS;FIRST HOUR STABILIZATION BEFORE TRANSFER;",
+  "topic": "FEEDING DIFFICULTIES & FALTERING GROWTH",
+  "subtopic": "TRIAGE RED FLAGS AND URGENT REFERRAL DECISIONS",
+  "sub_subtopic": "FIRST HOUR STABILIZATION BEFORE TRANSFER",
+  "heading_path": "FEEDING DIFFICULTIES & FALTERING GROWTH;TRIAGE RED FLAGS AND URGENT REFERRAL DECISIONS;FIRST HOUR STABILIZATION BEFORE TRANSFER;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "1f2"
+}

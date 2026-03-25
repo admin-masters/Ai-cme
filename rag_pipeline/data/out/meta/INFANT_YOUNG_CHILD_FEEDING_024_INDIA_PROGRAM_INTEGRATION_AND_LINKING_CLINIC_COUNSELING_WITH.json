@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "This section discusses integrating clinic counseling with India's ICDS, ASHA, POSHAN, and NRC networks to improve infant and young child feeding practices, emphasizing program touchpoints, referral pathways, and community-based interventions.",
+  "learning_objectives": [
+    "Understand the role of ICDS, ASHA, and POSHAN in supporting infant and young child feeding (IYCF).",
+    "Learn how to document and track feeding status using core IYCF indicators and child health cards.",
+    "Identify referral pathways for malnourished children and coordinate follow-up care through NRCs and community workers.",
+    "Explore culturally effective counseling strategies for low-literacy families and working mothers."
+  ],
+  "key_facts": [
+    "Core IYCF indicators include early initiation, exclusive breastfeeding (EBF) under 6 months, timely complementary feeding at 6 months, minimum meal frequency (MMF), minimum dietary diversity (MDD), and minimum acceptable diet (MAD).",
+    "Anganwadi workers under ICDS provide growth monitoring and take-home rations for children aged 6\u201336 months.",
+    "ASHA workers reinforce breastfeeding, complementary feeding, and iron adherence during HBNC and HBYC home visits.",
+    "Digital tools like POSHAN Tracker support growth data continuity and early escalation for weight faltering.",
+    "Children with wasting, edema, or persistent feeding refusal should be referred to Nutrition Rehabilitation Centers (NRCs).",
+    "Vitamin A supplementation schedules are tracked via child health cards and delivered through Anganwadi outreach sessions."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Infant Nutrition",
+    "Child Nutrition Disorders",
+    "Breastfeeding",
+    "Complementary Feeding",
+    "Community Health Workers",
+    "Nutrition Rehabilitation",
+    "Growth Monitoring",
+    "Vitamin A Deficiency"
+  ],
+  "tags_custom": [
+    "ICDS integration",
+    "POSHAN Abhiyaan",
+    "ASHA counseling",
+    "NRC referral pathways",
+    "IYCF indicators"
+  ],
+  "reference_quote": "Under ICDS, Anganwadi workers provide growth monitoring and take-home rations for 6\u201336 months; counsel caregivers on correct preparation so rations are not diluted into low-calorie gruels. (Reference: Ministry of Women and Child Development India, Integrated Child Development Services Scheme)",
+  "document_key_topics": [
+    "Infant and young child feeding indicators and tracking",
+    "Community-based nutrition interventions (ICDS, ASHA, POSHAN)",
+    "Referral pathways for malnourished children",
+    "Culturally effective counseling strategies"
+  ],
+  "chunk_heading": "INFANT & YOUNG CHILD FEEDING 0\u201324 MONTHS;INDIA PROGRAM INTEGRATION AND CULTURALLY EFFECTIVE COUNSELING;LINKING CLINIC COUNSELING WITH ICDS ASHA POSHAN AND NRC REFERRAL NETWORKS;",
+  "topic": "INFANT & YOUNG CHILD FEEDING 0\u201324 MONTHS",
+  "subtopic": "INDIA PROGRAM INTEGRATION AND CULTURALLY EFFECTIVE COUNSELING",
+  "sub_subtopic": "LINKING CLINIC COUNSELING WITH ICDS ASHA POSHAN AND NRC REFERRAL NETWORKS",
+  "heading_path": "INFANT & YOUNG CHILD FEEDING 0\u201324 MONTHS;INDIA PROGRAM INTEGRATION AND CULTURALLY EFFECTIVE COUNSELING;LINKING CLINIC COUNSELING WITH ICDS ASHA POSHAN AND NRC REFERRAL NETWORKS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u008e2"
+}

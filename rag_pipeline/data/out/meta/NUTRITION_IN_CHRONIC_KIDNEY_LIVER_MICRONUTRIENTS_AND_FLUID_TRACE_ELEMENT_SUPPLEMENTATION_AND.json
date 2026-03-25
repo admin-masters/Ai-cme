@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section discusses trace element supplementation and toxicity risks in pediatric cholestasis and parenteral nutrition, focusing on zinc, selenium, copper, and manganese management to prevent deficiencies and toxicity.",
+  "learning_objectives": [
+    "Understand the clinical signs and management of zinc and selenium deficiencies in pediatric cholestasis.",
+    "Learn the risks of manganese toxicity and strategies to minimize exposure in prolonged parenteral nutrition.",
+    "Identify appropriate supplementation dosages and monitoring protocols for trace elements in cholestasis.",
+    "Recognize the role of impaired biliary excretion in trace element toxicity."
+  ],
+  "key_facts": [
+    "Zinc deficiency may present with poor growth, periorificial dermatitis, dysgeusia, or recurrent infections; a common dose is 1 mg/kg/day of elemental zinc with reassessment in 4\u20138 weeks.",
+    "Selenium deficiency can cause cardiomyopathy, myopathy, and immune dysfunction, especially in prolonged parenteral nutrition.",
+    "Manganese toxicity, linked to impaired biliary excretion, can cause neurotoxicity; whole-blood manganese monitoring is recommended when available.",
+    "Copper and manganese require careful balance due to the risk of toxicity in cholestasis.",
+    "Serum zinc is an inflammation-sensitive marker and may not always reflect true deficiency."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Cholestasis",
+    "Parenteral Nutrition",
+    "Trace Elements",
+    "Zinc Deficiency",
+    "Selenium Deficiency",
+    "Manganese Toxicity",
+    "Copper Metabolism Disorders",
+    "Pediatric Nutrition"
+  ],
+  "tags_custom": [
+    "Trace Element Management",
+    "Chronic Liver Disease",
+    "Micronutrient Deficiency",
+    "Toxicity Risk",
+    "Pediatric Cholestasis"
+  ],
+  "reference_quote": "Deficiency can worsen appetite, immune function, wound healing, and neurodevelopment, while impaired biliary excretion can increase toxicity risk for selected elements. (Source: NASPGHAN/ESPGHAN joint position paper)",
+  "document_key_topics": [
+    "Trace element supplementation in pediatric cholestasis",
+    "Zinc and selenium deficiency management",
+    "Manganese toxicity in parenteral nutrition",
+    "Monitoring and dosing guidelines for trace elements"
+  ],
+  "chunk_heading": "NUTRITION IN CHRONIC KIDNEY & LIVER DISEASE; MICRONUTRIENTS AND FLUID MANAGEMENT IN PEDIATRIC CHRONIC LIVER DISEASE; TRACE ELEMENT SUPPLEMENTATION AND TOXICITY RISK IN CHOLESTASIS AND PARENTERAL NUTRITION;",
+  "topic": "NUTRITION IN CHRONIC KIDNEY & LIVER DISEASE",
+  "subtopic": "MICRONUTRIENTS AND FLUID MANAGEMENT IN PEDIATRIC CHRONIC LIVER DISEASE",
+  "sub_subtopic": "TRACE ELEMENT SUPPLEMENTATION AND TOXICITY RISK IN CHOLESTASIS AND PARENTERAL NUTRITION",
+  "heading_path": "NUTRITION IN CHRONIC KIDNEY & LIVER DISEASE; MICRONUTRIENTS AND FLUID MANAGEMENT IN PEDIATRIC CHRONIC LIVER DISEASE; TRACE ELEMENT SUPPLEMENTATION AND TOXICITY RISK IN CHOLESTASIS AND PARENTERAL NUTRITION;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1c1"
+}

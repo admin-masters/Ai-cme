@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Integrate macronutrient counseling into clinic workflows, linking undernourished children to ICDS/Mission POSHAN 2.0 and PM POSHAN schemes, while addressing myths and ensuring follow-up plans for measurable outcomes.",
+  "learning_objectives": [
+    "Understand how to integrate macronutrient counseling into routine clinic workflows.",
+    "Learn referral protocols for undernourished children to ICDS/Mission POSHAN 2.0 and PM POSHAN schemes.",
+    "Identify and address common myths about childhood nutrition using evidence-based scripts.",
+    "Develop actionable follow-up plans with measurable endpoints for nutrition interventions."
+  ],
+  "key_facts": [
+    "WHO z-score or IAP BMI status is used for growth classification in nutrition notes.",
+    "PM POSHAN meals provide 450 kcal and 12 g protein for primary school children, and 700 kcal with 20 g protein for upper primary children.",
+    "Children under 6 years with undernutrition should be linked to anganwadi services under ICDS/Mission POSHAN 2.0.",
+    "Severe wasting, edema, or complications require referral to nutrition rehabilitation centers under NHM.",
+    "Brief counseling scripts address myths like 'breastmilk already has water and calories' and 'juice is not fruit; give whole fruit.'"
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Child Nutrition Disorders",
+    "Macronutrients",
+    "Nutrition Assessment",
+    "Malnutrition",
+    "Dietary Proteins",
+    "Nutrition Therapy",
+    "Public Health Programs",
+    "Referral and Consultation"
+  ],
+  "tags_custom": [
+    "childhood nutrition counseling",
+    "program referral protocols",
+    "nutrition myths correction",
+    "macronutrient intake optimization",
+    "follow-up planning"
+  ],
+  "reference_quote": "Children under 6 years with undernutrition or food insecurity should be linked to anganwadi services under ICDS/Mission POSHAN 2.0 for supplementary nutrition and counseling.",
+  "document_key_topics": [
+    "Macronutrient counseling integration in clinics",
+    "Referral protocols for nutrition programs",
+    "Addressing common myths in childhood nutrition",
+    "Follow-up planning for measurable nutrition outcomes"
+  ],
+  "chunk_heading": "MACRONUTRIENT NUTRITION IN CHILDHOOD;CLINIC DOCUMENTATION  PROGRAM REFERRAL AND COUNSELING SCRIPTS FOR COMMON MYTHS;  Integrate",
+  "topic": "MACRONUTRIENT NUTRITION IN CHILDHOOD",
+  "subtopic": "CLINIC DOCUMENTATION  PROGRAM REFERRAL AND COUNSELING SCRIPTS FOR COMMON MYTHS",
+  "sub_subtopic": "Integrate",
+  "heading_path": "MACRONUTRIENT NUTRITION IN CHILDHOOD;CLINIC DOCUMENTATION  PROGRAM REFERRAL AND COUNSELING SCRIPTS FOR COMMON MYTHS;  Integrate",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "4\u0081"
+}

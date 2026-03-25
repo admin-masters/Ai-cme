@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section focuses on discharge planning for safe handling, storage, and fortification of expressed and donor milk for home use, emphasizing guidelines for preterm infants and NICU graduates.",
+  "learning_objectives": [
+    "Understand proper storage and handling protocols for expressed and donor milk at home.",
+    "Learn fortification techniques to support growth in preterm infants using human milk and formulas.",
+    "Recognize the importance of milk banking and donor milk in neonatal care.",
+    "Apply evidence-based practices for transitioning NICU graduates to home milk handling."
+  ],
+  "key_facts": [
+    "Human milk can be stored in a refrigerator at 4\u00b0C for up to 4 days and in a freezer at -18\u00b0C for up to 6 months (ABM Protocol #8).",
+    "Fortification of human milk is essential for preterm infants to meet their nutritional needs and support growth (PMC10662944).",
+    "Donor milk is pasteurized to ensure safety and is often used in NICU settings for vulnerable infants (CPS Position Statement).",
+    "Proper handling of expressed milk includes avoiding cross-contamination and maintaining hygiene during preparation (CDC Guidelines).",
+    "NICU graduates may require individualized milk fortification plans based on their growth and health status (CPS Position Statement)."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Breast Milk",
+    "Milk Banks",
+    "Infant, Premature",
+    "Human Milk Fortification",
+    "Neonatal Intensive Care Units",
+    "Pasteurization",
+    "Infant Nutrition",
+    "Milk Storage"
+  ],
+  "tags_custom": [
+    "discharge planning",
+    "home milk handling",
+    "preterm infant care",
+    "milk fortification",
+    "donor milk safety"
+  ],
+  "reference_quote": "Human milk can be stored in a refrigerator at 4\u00b0C for up to 4 days and in a freezer at -18\u00b0C for up to 6 months. (ABM Clinical Protocol #8)",
+  "document_key_topics": [
+    "Expressed milk storage and handling",
+    "Donor milk safety and usage",
+    "Human milk fortification for preterm infants",
+    "Discharge planning for NICU graduates"
+  ],
+  "chunk_heading": "EXPRESSED MILK, DONOR MILK & MILK BANKING;DISCHARGE PLANNING FOR HOME MILK HANDLING AND FORTIFICATION;",
+  "topic": "EXPRESSED MILK, DONOR MILK & MILK BANKING",
+  "subtopic": "DISCHARGE PLANNING FOR HOME MILK HANDLING AND FORTIFICATION",
+  "sub_subtopic": null,
+  "heading_path": "EXPRESSED MILK, DONOR MILK & MILK BANKING;DISCHARGE PLANNING FOR HOME MILK HANDLING AND FORTIFICATION;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2~.2"
+}

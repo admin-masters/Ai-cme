@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "Guidance on investigating persistent growth faltering in children aged 6\u201324 months, focusing on feeding quality, red flags, and tailored diagnostic work-ups for underlying causes.",
+  "learning_objectives": [
+    "Identify key red flags that warrant early investigation in cases of persistent growth faltering.",
+    "Understand the role of feeding quality, safety, and skill in addressing poor weight gain in children aged 6\u201324 months.",
+    "Learn the minimum outpatient work-up for persistent growth faltering, including specific tests and their indications.",
+    "Recognize region-specific considerations, such as chronic infections and malabsorption, in the differential diagnosis."
+  ],
+  "key_facts": [
+    "Persistent growth faltering should be investigated if no weight gain occurs over 2\u20134 weeks despite addressing feeding issues.",
+    "Red flags include persistent vomiting, blood in stool, chronic diarrhea, recurrent infections, edema, and developmental regression.",
+    "Minimum outpatient work-up includes CBC, urine analysis/culture, stool evaluation, celiac screening (tissue transglutaminase IgA and total IgA), and TSH based on symptoms.",
+    "In India, consider tuberculosis, celiac disease, cow\u2019s milk protein allergy, and hypothyroidism as potential causes.",
+    "Measurement quality (calibrated scale, correct length technique) must be confirmed before initiating investigations."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Growth Disorders",
+    "Failure to Thrive",
+    "Malnutrition",
+    "Pediatric Nutrition",
+    "Celiac Disease",
+    "Hypothyroidism",
+    "Feeding Behavior",
+    "Diagnostic Techniques and Procedures"
+  ],
+  "tags_custom": [
+    "growth faltering",
+    "feeding assessment",
+    "pediatric malnutrition",
+    "diagnostic work-up"
+  ],
+  "reference_quote": "\"If these are corrected and there is still no weight gain over 2\u20134 weeks, broaden the differential.\" (Source: NICE guideline NG75)",
+  "document_key_topics": [
+    "Persistent growth faltering in children aged 6\u201324 months",
+    "Red flags and early investigation criteria",
+    "Minimum diagnostic work-up for malnutrition",
+    "Region-specific differential diagnoses"
+  ],
+  "chunk_heading": "COMPLEMENTARY FEEDING 6\u201324 MONTHS;MALNUTRITION TRIAGE AND SPECIAL POPULATIONS;INVESTIGATION THRESHOLDS FOR PERSISTENT GROWTH FALTERING;",
+  "topic": "COMPLEMENTARY FEEDING 6\u201324 MONTHS",
+  "subtopic": "MALNUTRITION TRIAGE AND SPECIAL POPULATIONS",
+  "sub_subtopic": "INVESTIGATION THRESHOLDS FOR PERSISTENT GROWTH FALTERING",
+  "heading_path": "COMPLEMENTARY FEEDING 6\u201324 MONTHS;MALNUTRITION TRIAGE AND SPECIAL POPULATIONS;INVESTIGATION THRESHOLDS FOR PERSISTENT GROWTH FALTERING;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1\u00903"
+}

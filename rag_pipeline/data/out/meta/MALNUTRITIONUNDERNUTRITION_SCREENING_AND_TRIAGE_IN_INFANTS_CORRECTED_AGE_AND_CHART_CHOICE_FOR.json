@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "Guidelines for screening preterm infants under six months emphasize using corrected age and appropriate growth charts to distinguish prematurity-related size from malnutrition. Transition to WHO standards post-term and manage severe acute malnutrition based on clinical signs, regardless of preterm status.",
+  "learning_objectives": [
+    "Understand the importance of corrected age in assessing growth for preterm infants.",
+    "Learn how to select and transition between growth charts for preterm and term-equivalent infants.",
+    "Identify clinical signs of severe acute malnutrition in preterm infants and appropriate management protocols."
+  ],
+  "key_facts": [
+    "Corrected age = chronological age - (40 weeks - gestational age at birth).",
+    "Use preterm growth references (e.g., INTERGROWTH-21st) until term-equivalent age, then transition to WHO Child Growth Standards.",
+    "Avoid switching growth charts between visits to prevent false centile crossing.",
+    "MUAC thresholds for severe acute malnutrition in infants may include <110 mm at 6 weeks.",
+    "Prematurity explains small size but not nutritional oedema, persistent weight loss, or clinical compromise."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Malnutrition",
+    "Premature Birth",
+    "Infant, Premature",
+    "Growth Charts",
+    "Anthropometry",
+    "Severe Acute Malnutrition",
+    "Nutritional Assessment",
+    "Infant Nutrition Disorders"
+  ],
+  "tags_custom": [
+    "Corrected Age",
+    "Preterm Growth Standards",
+    "Infant Screening",
+    "MUAC Thresholds",
+    "Catch-up Growth"
+  ],
+  "reference_quote": "Use corrected age when interpreting growth and development in ex-preterm infants, because chronological age overestimates expected growth for gestation. (Source: WHO guideline on the prevention and management of wasting and nutritional oedema in infants and children under 5 years)",
+  "document_key_topics": [
+    "Corrected age calculation and application",
+    "Growth chart selection for preterm infants",
+    "Severe acute malnutrition criteria in preterm infants",
+    "Transitioning to WHO Child Growth Standards post-term"
+  ],
+  "chunk_heading": "MALNUTRITION\u2014UNDERNUTRITION: SCREENING & CLASSIFICATION;SCREENING AND TRIAGE IN INFANTS UNDER SIX MONTHS;CORRECTED AGE AND CHART CHOICE FOR PRETERM INFANTS;",
+  "topic": "MALNUTRITION\u2014UNDERNUTRITION: SCREENING & CLASSIFICATION",
+  "subtopic": "SCREENING AND TRIAGE IN INFANTS UNDER SIX MONTHS",
+  "sub_subtopic": "CORRECTED AGE AND CHART CHOICE FOR PRETERM INFANTS",
+  "heading_path": "MALNUTRITION\u2014UNDERNUTRITION: SCREENING & CLASSIFICATION;SCREENING AND TRIAGE IN INFANTS UNDER SIX MONTHS;CORRECTED AGE AND CHART CHOICE FOR PRETERM INFANTS;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "2x1"
+}

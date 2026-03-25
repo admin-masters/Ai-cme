@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "Food safety counselling for THR and hot cooked meals emphasizes safe storage, preparation, and hygiene practices to prevent diarrhoea and ensure effective supplementary feeding, with guidance on rehydration and zinc supplementation during illness.",
+  "learning_objectives": [
+    "Understand the importance of food safety in supplementary feeding regimens, including THR and hot cooked meals.",
+    "Learn practical food storage, preparation, and hygiene practices to prevent diarrhoea in children.",
+    "Recognize the role of continued feeding, ORS, and zinc supplementation during diarrhoea to prevent malnutrition.",
+    "Identify and address system-level issues in supplementary feeding programs, such as unsafe preparation or spoiled rations."
+  ],
+  "key_facts": [
+    "Hot cooked meals should be fed fresh or reheated thoroughly if stored.",
+    "Take-home rations (THR) should be stored in dry, covered containers and prepared with safe water using clean utensils.",
+    "Handwashing with soap before food preparation and feeding is critical to prevent contamination.",
+    "Zinc supplementation for acute diarrhoea: 20 mg daily for 10\u201314 days (10 mg daily if under 6 months).",
+    "ORS with low osmolarity is recommended for rehydration in moderate acute malnutrition (MAM).",
+    "Spoiled rations (foul smell, insects, or moisture clumping) should be discarded and replaced via anganwadi supervisors."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Food Safety",
+    "Diarrhea",
+    "Zinc",
+    "Oral Rehydration Solutions",
+    "Child Nutrition Disorders",
+    "Hygiene",
+    "Malnutrition",
+    "Supplementary Feeding"
+  ],
+  "tags_custom": [
+    "Take-Home Rations",
+    "Hot Cooked Meals",
+    "Food Hygiene",
+    "Child Feeding Practices",
+    "Nutrition Counselling"
+  ],
+  "reference_quote": "Handwashing with soap before preparation and feeding should be part of the prescription, because contaminated water and hands can turn nutritional support into repeated diarrhoea.",
+  "document_key_topics": [
+    "Food safety in supplementary feeding",
+    "Hygiene practices for THR and hot cooked meals",
+    "Management of diarrhoea during supplementary feeding",
+    "Zinc and ORS guidelines for child nutrition"
+  ],
+  "chunk_heading": "FEEDING;SUPPLEMENTARY FEEDING REGIMENS AND SAFE PRODUCT USE;FOOD SAFETY COUNSELLING FOR THR AND HOT COOKED MEALS;",
+  "topic": "FEEDING",
+  "subtopic": "SUPPLEMENTARY FEEDING REGIMENS AND SAFE PRODUCT USE",
+  "sub_subtopic": "FOOD SAFETY COUNSELLING FOR THR AND HOT COOKED MEALS",
+  "heading_path": "FEEDING;SUPPLEMENTARY FEEDING REGIMENS AND SAFE PRODUCT USE;FOOD SAFETY COUNSELLING FOR THR AND HOT COOKED MEALS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "3q4"
+}

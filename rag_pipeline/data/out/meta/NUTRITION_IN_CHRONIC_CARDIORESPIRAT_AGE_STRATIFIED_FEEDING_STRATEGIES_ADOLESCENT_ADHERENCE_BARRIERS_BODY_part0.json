@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "Adolescents with chronic cardiorespiratory diseases face unique nutritional challenges, including body image issues, adherence barriers, and transition readiness. Tailored counseling and adherence strategies are critical, especially in conditions like cystic fibrosis (CF), where nutritional needs evolve with treatments like CFTR modulators.",
+  "learning_objectives": [
+    "Understand the impact of body image and peer influence on adolescent nutrition adherence in chronic diseases.",
+    "Identify strategies to address adherence barriers, such as enzyme use in CF patients.",
+    "Learn how CFTR modulator therapy affects nutritional needs and metabolic risks in adolescents.",
+    "Develop transition-to-adult-care readiness plans focusing on nutrition and self-management skills."
+  ],
+  "key_facts": [
+    "Adolescents with CF may experience rapid weight gain and metabolic changes with CFTR modulator therapy, requiring updated dietary counseling.",
+    "Skipping pancreatic enzymes at school can lead to declining BMI percentiles and steatorrhea in CF patients.",
+    "Guideline BMI targets in CF are linked to lung function outcomes, emphasizing the importance of adherence.",
+    "Adolescents should be able to explain their enzyme or supplement plan, identify red flags (e.g., dehydration), and recover calories after illness.",
+    "Screening for dieting pressures, meal skipping, and unsupervised supplement use is critical in this age group.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Adolescent Nutrition",
+    "Cystic Fibrosis",
+    "Body Image",
+    "Patient Adherence",
+    "Nutritional Counseling",
+    "Transition to Adult Care",
+    "Pancreatic Enzymes",
+    "Chronic Disease Management"
+  ],
+  "tags_custom": [
+    "CFTR modulator therapy",
+    "adolescent adherence",
+    "nutrition barriers",
+    "transition readiness",
+    "school-based enzyme plans"
+  ],
+  "reference_quote": "Traditional care emphasizes high energy intake to maintain growth targets, but CFTR modulator therapy may drive rapid weight gain and changing metabolic risk; dietary counseling should therefore be revisited when modulators start rather than assuming the previous high-calorie plan remains appropriate.",
+  "document_key_topics": [
+    "Adolescent adherence barriers in chronic diseases",
+    "Nutritional challenges in cystic fibrosis",
+    "Transition readiness and self-management skills",
+    "Impact of CFTR modulator therapy on nutrition"
+  ],
+  "chunk_heading": "NUTRITION IN CHRONIC CARDIORESPIRATORY DISEASE;AGE STRATIFIED FEEDING STRATEGIES FROM INFANCY TO ADOLESCENCE;ADOLESCENT ADHERENCE BARRIERS BODY IMAGE AND TRANSITION SKILLS;",
+  "topic": "NUTRITION IN CHRONIC CARDIORESPIRATORY DISEASE",
+  "subtopic": "AGE STRATIFIED FEEDING STRATEGIES FROM INFANCY TO ADOLESCENCE",
+  "sub_subtopic": "ADOLESCENT ADHERENCE BARRIERS BODY IMAGE AND TRANSITION SKILLS",
+  "heading_path": "NUTRITION IN CHRONIC CARDIORESPIRATORY DISEASE;AGE STRATIFIED FEEDING STRATEGIES FROM INFANCY TO ADOLESCENCE;ADOLESCENT ADHERENCE BARRIERS BODY IMAGE AND TRANSITION SKILLS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1x4.1"
+}

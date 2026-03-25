@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "Guidance on managing feeding in neurodisability when swallow studies are unavailable, emphasizing structured conservative pathways, risk classification, bedside interventions, and escalation triggers for referral.",
+  "learning_objectives": [
+    "Understand conservative management strategies for feeding in neurodisability when VFSS or FEES are unavailable.",
+    "Learn to classify risk levels and document feeding plans using GMFCS and EDACS frameworks.",
+    "Identify escalation triggers for referral to higher centers for instrumental swallowing assessments."
+  ],
+  "key_facts": [
+    "Functional classification tools like GMFCS and EDACS should be used to assess feeding risk levels (low, moderate, high).",
+    "Escalation triggers include pneumonia, dehydration markers, weight loss, growth deceleration, or excessive mealtime duration.",
+    "Referral notes should include IDDSI levels, respiratory events, feeding time, medications, anthropometry trends, and specific questions for the receiving team.",
+    "India's RBSK and DEIC pathways can be utilized for structured referrals and follow-ups.",
+    "Bedside interventions include posture optimization, bolus control, pacing, and conservative texture restrictions.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Neurodisability",
+    "Feeding and Eating Disorders",
+    "Swallowing Disorders",
+    "Cerebral Palsy",
+    "Aspiration Pneumonia",
+    "Nutritional Support",
+    "Risk Assessment",
+    "Referral and Consultation"
+  ],
+  "tags_custom": [
+    "feeding management",
+    "resource-limited care",
+    "swallow study alternatives",
+    "pediatric neurodisability",
+    "escalation protocols"
+  ],
+  "reference_quote": "Use India's program pathways by documenting referrals through RBSK and DEIC when applicable, and schedule follow-up proactively rather than relying on caregiver initiative. (NHM, India)",
+  "document_key_topics": [
+    "Conservative feeding management in neurodisability",
+    "Risk classification and escalation triggers",
+    "Referral pathways and documentation"
+  ],
+  "chunk_heading": "NEURODISABILITY AND FEEDING SUPPORT;RESOURCE-ADAPTED MANAGEMENT WHEN SWALLOW STUDIES ARE UNAVAILABLE;",
+  "topic": "NEURODISABILITY AND FEEDING SUPPORT",
+  "subtopic": "RESOURCE-ADAPTED MANAGEMENT WHEN SWALLOW STUDIES ARE UNAVAILABLE",
+  "sub_subtopic": null,
+  "heading_path": "NEURODISABILITY AND FEEDING SUPPORT;RESOURCE-ADAPTED MANAGEMENT WHEN SWALLOW STUDIES ARE UNAVAILABLE;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1n"
+}

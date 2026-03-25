@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Pediatric metabolic risk in India involves early-onset cardiometabolic complications, influenced by central adiposity and unique BMI thresholds. IDF pediatric criteria guide risk assessment, emphasizing prevention of type 2 diabetes, ASCVD, and liver disease progression.",
+  "learning_objectives": [
+    "Understand the clinical definition and components of pediatric metabolic risk, including central adiposity, dyslipidemia, and insulin resistance.",
+    "Recognize the unique metabolic risk profile of South Asian children, including lower BMI thresholds for complications.",
+    "Apply IDF pediatric criteria for metabolic syndrome in children aged 10-16 years and address risks in younger children.",
+    "Develop strategies to prevent youth-onset type 2 diabetes, ASCVD, and MASLD progression."
+  ],
+  "key_facts": [
+    "South Asian children may develop metabolic complications at lower BMI compared to Western cohorts.",
+    "IDF pediatric criteria for ages 10-16 require central obesity (waist \u226590th percentile) plus at least two of: triglycerides \u2265150 mg/dL, HDL-C <40 mg/dL, BP \u2265130/85 mmHg, fasting glucose \u2265100 mg/dL.",
+    "MASLD (formerly NAFLD) is a key hepatic risk associated with pediatric metabolic syndrome.",
+    "Double burden in India: early undernutrition or rapid catch-up growth can lead to later central adiposity and amplified metabolic risks.",
+    "Abdominal obesity and any abnormal risk marker warrant intervention, even in children under age 10."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Pediatric Obesity",
+    "Metabolic Syndrome",
+    "Insulin Resistance",
+    "Dyslipidemia",
+    "Hypertension",
+    "Nonalcoholic Fatty Liver Disease",
+    "Cardiovascular Risk",
+    "Body Mass Index"
+  ],
+  "tags_custom": [
+    "South Asian metabolic risk",
+    "Childhood obesity guidelines",
+    "MASLD progression",
+    "Youth-onset diabetes prevention",
+    "Double burden of malnutrition"
+  ],
+  "reference_quote": "The IDF pediatric criteria (ages 10 to <16 years) require central obesity (waist \u226590th percentile) plus at least two of triglycerides \u2265150 mg/dL, HDL-C <40 mg/dL, BP \u2265130/85 mmHg, and fasting glucose \u2265100 mg/dL.",
+  "document_key_topics": [
+    "Pediatric metabolic syndrome criteria",
+    "South Asian-specific metabolic risk factors",
+    "Double burden of malnutrition in India",
+    "Prevention of youth-onset type 2 diabetes and MASLD"
+  ],
+  "chunk_heading": "METABOLIC RISK IN CHILDREN;CLINICAL FOUNDATIONS OF PEDIATRIC METABOLIC RISK;DEFINING METABOLIC RISK AND INDIA CONTEXT;",
+  "topic": "METABOLIC RISK IN CHILDREN",
+  "subtopic": "CLINICAL FOUNDATIONS OF PEDIATRIC METABOLIC RISK",
+  "sub_subtopic": "DEFINING METABOLIC RISK AND INDIA CONTEXT",
+  "heading_path": "METABOLIC RISK IN CHILDREN;CLINICAL FOUNDATIONS OF PEDIATRIC METABOLIC RISK;DEFINING METABOLIC RISK AND INDIA CONTEXT;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1b1"
+}

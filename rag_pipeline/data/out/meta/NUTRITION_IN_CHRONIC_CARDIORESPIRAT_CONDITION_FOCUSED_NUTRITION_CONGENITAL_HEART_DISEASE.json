@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "Physiology-based feeding decisions in congenital heart disease (CHD) focus on safety, aspiration risk, and delivery efficiency, with tailored pathways for feeding intolerance management.",
+  "learning_objectives": [
+    "Understand physiology-based feeding intolerance in CHD, including pulmonary overcirculation, systemic hypoperfusion, and global hypoxia.",
+    "Identify unsafe feeding signs such as rising lactate, worsening perfusion, or abdominal pathology.",
+    "Learn practical feeding pathways, including human milk use, fortification, tube feeding, and parenteral nutrition (PN)."
+  ],
+  "key_facts": [
+    "CHD feeding intolerance is categorized into pulmonary overcirculation, systemic hypoperfusion, and global hypoxia.",
+    "Unsafe feeding signs include rising lactate, worsening perfusion, and escalating vasoactive support.",
+    "Feeding inefficiency due to tachypnea and fatigue responds to calorie concentration and tube assistance.",
+    "Human milk is preferred; fortify or concentrate when fluids are restricted.",
+    "Post-pyloric feeds are recommended for reflux or aspiration risk; PN is added when enteral feeding fails.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Congenital Heart Disease",
+    "Feeding Intolerance",
+    "Parenteral Nutrition",
+    "Pulmonary Overcirculation",
+    "Systemic Hypoperfusion",
+    "Global Hypoxia",
+    "Enteral Nutrition",
+    "Aspiration Risk"
+  ],
+  "tags_custom": [
+    "CHD feeding pathways",
+    "pediatric nutrition",
+    "feeding intolerance management",
+    "perioperative nutrition",
+    "tube feeding strategies"
+  ],
+  "reference_quote": "In CHD, a physiology-based approach helps distinguish unsafe feeding from inefficient feeding. (Pediatric Cardiac Intensive Care Society, Nutrition guidelines for the pediatric and neonatal congenital heart patient)",
+  "document_key_topics": [
+    "Physiology-based feeding intolerance in CHD",
+    "Safety and aspiration risk in feeding",
+    "Feeding pathways: human milk, fortification, tube feeding, PN"
+  ],
+  "chunk_heading": "NUTRITION IN CHRONIC CARDIORESPIRATORY DISEASE;CONDITION FOCUSED NUTRITION PATHWAYS FOR CHD CLD AND CF;CONGENITAL HEART DISEASE PHYSIOLOGY BASED FEEDING INTOLERANCE DECISIONS;",
+  "topic": "NUTRITION IN CHRONIC CARDIORESPIRATORY DISEASE",
+  "subtopic": "CONDITION FOCUSED NUTRITION PATHWAYS FOR CHD CLD AND CF",
+  "sub_subtopic": "CONGENITAL HEART DISEASE PHYSIOLOGY BASED FEEDING INTOLERANCE DECISIONS",
+  "heading_path": "NUTRITION IN CHRONIC CARDIORESPIRATORY DISEASE;CONDITION FOCUSED NUTRITION PATHWAYS FOR CHD CLD AND CF;CONGENITAL HEART DISEASE PHYSIOLOGY BASED FEEDING INTOLERANCE DECISIONS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u008d1"
+}

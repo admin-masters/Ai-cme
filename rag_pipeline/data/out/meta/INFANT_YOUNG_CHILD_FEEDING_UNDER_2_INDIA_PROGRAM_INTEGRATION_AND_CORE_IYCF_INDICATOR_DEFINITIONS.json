@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "This section defines core IYCF indicators (MMF, MDD, MAD) and counseling thresholds for feeding children under 2 years in India, emphasizing culturally tailored approaches and WHO/UNICEF guidelines.",
+  "learning_objectives": [
+    "Understand the definitions and thresholds for core IYCF indicators: MMF, MDD, and MAD.",
+    "Learn how to assess dietary intake using a 24-hour recall method.",
+    "Identify culturally appropriate strategies to improve feeding practices in Indian contexts.",
+    "Apply WHO/UNICEF guidelines to local program reporting and counseling."
+  ],
+  "key_facts": [
+    "Minimum Meal Frequency (MMF): At least 2 feeds/day for breastfed children 6\u20138 months, 3 feeds/day for 9\u201323 months, and 4 feeds/day for non-breastfed children 6\u201323 months.",
+    "Minimum Dietary Diversity (MDD): At least 5 of 8 food groups in the past 24 hours per updated WHO/UNICEF guidelines.",
+    "Minimum Acceptable Diet (MAD): Achieved when both MMF and MDD are met, with at least 2 milk feeds for non-breastfed children.",
+    "Indian reporting formats may still use older 4-of-7 group cut-offs; however, counseling should aim for the 5-of-8 goal.",
+    "Structured 24-hour recall is used to assess dietary intake and map it to MMF and MDD targets.",
+    "Counseling should address low MMF by increasing feeding opportunities and low MDD by adding missing food groups using locally available options."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Infant Nutrition",
+    "Child Nutrition",
+    "Dietary Diversity",
+    "Breastfeeding",
+    "Complementary Feeding",
+    "Nutrition Assessment",
+    "India",
+    "World Health Organization"
+  ],
+  "tags_custom": [
+    "IYCF indicators",
+    "culturally tailored counseling",
+    "feeding thresholds",
+    "Indian nutrition programs",
+    "dietary recall methods"
+  ],
+  "reference_quote": "Minimum dietary diversity (MDD) uses the updated WHO/UNICEF definition: at least 5 of 8 food groups in the past 24 hours.",
+  "document_key_topics": [
+    "Core IYCF indicator definitions (MMF, MDD, MAD)",
+    "Culturally effective counseling for feeding under 2 years",
+    "WHO/UNICEF feeding guidelines and local adaptations",
+    "Dietary assessment using 24-hour recall"
+  ],
+  "chunk_heading": "INFANT & YOUNG CHILD FEEDING UNDER 2 YEARS;INDIA PROGRAM INTEGRATION AND  CULTURALLY EFFECTIVE COUNSELING;CORE IYCF INDICATOR DEFINITIONS AND  COUNSELING THRESHOLDS;",
+  "topic": "INFANT & YOUNG CHILD FEEDING UNDER 2 YEARS",
+  "subtopic": "INDIA PROGRAM INTEGRATION AND  CULTURALLY EFFECTIVE COUNSELING",
+  "sub_subtopic": "CORE IYCF INDICATOR DEFINITIONS AND  COUNSELING THRESHOLDS",
+  "heading_path": "INFANT & YOUNG CHILD FEEDING UNDER 2 YEARS;INDIA PROGRAM INTEGRATION AND  CULTURALLY EFFECTIVE COUNSELING;CORE IYCF INDICATOR DEFINITIONS AND  COUNSELING THRESHOLDS;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "4\u00951"
+}

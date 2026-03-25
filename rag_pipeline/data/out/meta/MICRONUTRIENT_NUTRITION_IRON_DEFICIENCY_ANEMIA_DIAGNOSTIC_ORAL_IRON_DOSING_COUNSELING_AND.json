@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Guidance on oral iron dosing for uncomplicated iron deficiency anemia, including counseling on administration, monitoring timelines, and response expectations.",
+  "learning_objectives": [
+    "Understand the recommended dosing and administration of oral iron for uncomplicated iron deficiency anemia.",
+    "Learn counseling strategies to improve adherence and absorption of oral iron therapy.",
+    "Identify expected response timelines and monitoring protocols for therapeutic efficacy.",
+    "Recognize steps to take in cases of nonresponse or slower-than-expected improvement."
+  ],
+  "key_facts": [
+    "Therapeutic oral elemental iron is typically prescribed at 3 mg/kg/day, with a range of 2\u20133 mg/kg/day for outpatient care.",
+    "Iron should be administered away from milk and calcium, ideally with vitamin C to enhance absorption.",
+    "Expected response includes reticulocytosis within 5\u20137 days and a hemoglobin rise of ~1 g/dL over 2\u20133 weeks.",
+    "Therapeutic dosing should continue until hemoglobin normalizes, followed by 2\u20133 months to replete iron stores.",
+    "Common side effects include dark stools and mild gastrointestinal upset; adherence can be improved by starting with a lower dose if nausea occurs.",
+    "Nonresponse should prompt re-checking of dose, adherence, and reassessment of underlying causes like malabsorption or inflammation."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Iron Deficiency Anemia",
+    "Iron, Dietary",
+    "Drug Administration Schedule",
+    "Patient Compliance",
+    "Vitamin C",
+    "Hemoglobinopathies",
+    "Nutritional Counseling",
+    "Pediatrics"
+  ],
+  "tags_custom": [
+    "oral iron therapy",
+    "adherence strategies",
+    "monitoring timelines",
+    "iron absorption"
+  ],
+  "reference_quote": "Daily iron supplementation in children with iron deficiency anemia should be calculated based on elemental iron requirements (IAP standard treatment guidelines).",
+  "document_key_topics": [
+    "Oral iron dosing and administration counseling",
+    "Monitoring response timelines in iron deficiency anemia",
+    "Adherence strategies and side effect management",
+    "Steps for addressing nonresponse to therapy"
+  ],
+  "chunk_heading": "MICRONUTRIENT NUTRITION;IRON DEFICIENCY ANEMIA DIAGNOSTIC AND THERAPEUTIC DECISIONS;ORAL IRON DOSING COUNSELING AND MONITORING TIMELINES;",
+  "topic": "MICRONUTRIENT NUTRITION",
+  "subtopic": "IRON DEFICIENCY ANEMIA DIAGNOSTIC AND THERAPEUTIC DECISIONS",
+  "sub_subtopic": "ORAL IRON DOSING COUNSELING AND MONITORING TIMELINES",
+  "heading_path": "MICRONUTRIENT NUTRITION;IRON DEFICIENCY ANEMIA DIAGNOSTIC AND THERAPEUTIC DECISIONS;ORAL IRON DOSING COUNSELING AND MONITORING TIMELINES;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1r3"
+}

@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "Guidelines for weaning and stopping post-discharge breast milk fortifier in preterm/LBW/ELBW infants emphasize proportional growth, tapering schedules, and clear stop criteria to ensure safe and effective nutrition transitions.",
+  "learning_objectives": [
+    "Understand the importance of proportional growth in determining when to wean or stop breast milk fortifier post-discharge.",
+    "Learn how to implement a step-down schedule for fortifier supplementation with reassessment intervals.",
+    "Recognize signs of overnutrition or disproportionate growth and adjust fortification accordingly.",
+    "Develop clear documentation and follow-up plans for post-fortification nutrition strategies."
+  ],
+  "key_facts": [
+    "Weaning plans should taper fortifier doses over weeks, e.g., from 6/day to 4/day to 2/day.",
+    "Fortification should continue only if weight gain is appropriate over 2\u20133 weeks with no down-crossing of growth curves.",
+    "Stop fortification if weight-for-length exceeds the 85th percentile to avoid overnutrition.",
+    "Reassess nutrition plans if weight gain is disproportionate to length or head circumference.",
+    "Document the stop endpoint and next nutrition plan to ensure caregiver clarity."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Infant, Premature",
+    "Infant, Low Birth Weight",
+    "Breast Milk",
+    "Nutritional Support",
+    "Growth and Development",
+    "Weaning",
+    "Nutritional Requirements",
+    "Postnatal Care"
+  ],
+  "tags_custom": [
+    "breast milk fortification",
+    "post-discharge nutrition",
+    "growth monitoring",
+    "weaning strategies"
+  ],
+  "reference_quote": "The ABM protocol uses >85th percentile as a practical trigger to reduce supplementation to avoid overnutrition.",
+  "document_key_topics": [
+    "Proportional growth as a criterion for weaning",
+    "Step-down schedules for fortifier tapering",
+    "Avoiding overnutrition and disproportionate growth",
+    "Clear documentation and follow-up nutrition plans"
+  ],
+  "chunk_heading": "PRETERM/LBW/ELBW POST-DISCHARGE NUTRITION;POST-DISCHARGE FEEDING STRATEGIES AND FORTIFICATION OPTIONS;WEANING AND STOPPING FORTIFIER USING PROPORTIONAL GROWTH;",
+  "topic": "PRETERM/LBW/ELBW POST-DISCHARGE NUTRITION",
+  "subtopic": "POST-DISCHARGE FEEDING STRATEGIES AND FORTIFICATION OPTIONS",
+  "sub_subtopic": "WEANING AND STOPPING FORTIFIER USING PROPORTIONAL GROWTH",
+  "heading_path": "PRETERM/LBW/ELBW POST-DISCHARGE NUTRITION;POST-DISCHARGE FEEDING STRATEGIES AND FORTIFICATION OPTIONS;WEANING AND STOPPING FORTIFIER USING PROPORTIONAL GROWTH;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1z6"
+}

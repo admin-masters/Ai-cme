@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Guidelines for energy and protein prescriptions in pediatric CKD, emphasizing age-based targets, ideal body weight adjustments, and monitoring growth metrics like height velocity and MUAC/TSF.",
+  "learning_objectives": [
+    "Understand age-specific protein and energy requirements for pediatric CKD patients.",
+    "Learn how to adjust prescriptions based on ideal body weight and growth metrics.",
+    "Recognize the importance of monitoring energy intake and addressing deficits promptly.",
+    "Apply guidelines for managing protein needs during intercurrent illness or peritonitis."
+  ],
+  "key_facts": [
+    "Protein targets (g/kg/day): 0\u20136 months CKD stage 3: 1.5\u20132.1; stages 4\u20135: 1.5\u20131.8; HD: 1.6; PD: 1.8.",
+    "Energy targets: ~100% EER for age; examples: 0\u20133 months: 100\u2013110 kcal/kg/day, 4\u20136 months: 80\u201390 kcal/kg/day.",
+    "Use ideal body weight for prescriptions when obesity or edema confounds true weight.",
+    "Monitor growth using height velocity and MUAC/TSF rather than scale weight alone.",
+    "Avoid dropping below age-based DRI protein floor unless specialist-directed and growth is closely monitored.",
+    "During illness or peritonitis, aim for the upper end of protein target ranges."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Chronic Kidney Disease",
+    "Pediatric Nutrition",
+    "Protein Requirements",
+    "Energy Metabolism",
+    "Growth Monitoring",
+    "Dialysis",
+    "Dietary Reference Intakes"
+  ],
+  "tags_custom": [
+    "CKD pediatric guidelines",
+    "protein-energy prescriptions",
+    "growth metrics",
+    "dialysis nutrition",
+    "ideal body weight adjustments"
+  ],
+  "reference_quote": "Use quantitative targets as starting prescriptions, then adjust to response. When obesity or edema confounds true weight, apply targets to ideal body weight and judge adequacy using height velocity and MUAC/TSF rather than scale weight alone.",
+  "document_key_topics": [
+    "Protein requirements in pediatric CKD",
+    "Energy needs and EER calculations",
+    "Growth monitoring and ideal body weight adjustments",
+    "Nutritional management during illness or peritonitis"
+  ],
+  "chunk_heading": "NUTRITION IN CHRONIC KIDNEY & LIVER DISEASE;PROTEIN-ENERGY NEEDS IN PEDIATRIC CHRONIC KIDNEY DISEASE;TARGET TABLES FOR ENERGY AND PROTEIN PRESCRIPTIONS IN CKD;",
+  "topic": "NUTRITION IN CHRONIC KIDNEY & LIVER DISEASE",
+  "subtopic": "PROTEIN-ENERGY NEEDS IN PEDIATRIC CHRONIC KIDNEY DISEASE",
+  "sub_subtopic": "TARGET TABLES FOR ENERGY AND PROTEIN PRESCRIPTIONS IN CKD",
+  "heading_path": "NUTRITION IN CHRONIC KIDNEY & LIVER DISEASE;PROTEIN-ENERGY NEEDS IN PEDIATRIC CHRONIC KIDNEY DISEASE;TARGET TABLES FOR ENERGY AND PROTEIN PRESCRIPTIONS IN CKD;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2l2"
+}

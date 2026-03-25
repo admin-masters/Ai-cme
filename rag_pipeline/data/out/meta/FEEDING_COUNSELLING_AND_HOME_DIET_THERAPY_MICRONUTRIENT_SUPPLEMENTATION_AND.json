@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "This section discusses micronutrient supplementation and infection prevention for children with moderate wasting, emphasizing integration with public health programs like Anaemia Mukt Bharat, deworming, and Vitamin A prophylaxis, alongside infection prevention strategies.",
+  "learning_objectives": [
+    "Understand the role of public health programs in addressing micronutrient deficiencies in children with moderate wasting.",
+    "Learn the prophylactic schedules for iron-folic acid, Vitamin A, and deworming in children.",
+    "Recognize the importance of infection prevention measures in managing moderate wasting.",
+    "Apply WHO guidelines for zinc supplementation during acute diarrhoea."
+  ],
+  "key_facts": [
+    "Anaemia Mukt Bharat provides IFA syrup (20 mg iron, 100 mcg folic acid) twice weekly for children aged 6\u201359 months.",
+    "Albendazole is given as a single 200 mg dose for ages 1\u20132 years and 400 mg for ages 2\u201319 years under National Deworming Day.",
+    "Vitamin A prophylaxis includes 100,000 IU at 9 months and 200,000 IU every 6 months up to 5 years.",
+    "Zinc supplementation for acute diarrhoea: 20 mg daily for 10\u201314 days (10 mg daily if under 6 months).",
+    "In children with clinical anaemia, treatment should follow national anaemia pathways rather than relying on prophylaxis alone."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Micronutrients",
+    "Iron",
+    "Folic Acid",
+    "Vitamin A",
+    "Zinc",
+    "Deworming",
+    "Diarrhea",
+    "Infection Control"
+  ],
+  "tags_custom": [
+    "Moderate wasting",
+    "Public health programs",
+    "Child nutrition",
+    "Anaemia prevention",
+    "Infection prevention"
+  ],
+  "reference_quote": "Anaemia Mukt Bharat: prophylactic iron\u2013folic acid (IFA) supplementation schedule \u2014 https://nhm.gov.in/index1.php?lang=1&level=3&lid=797&sublink...",
+  "document_key_topics": [
+    "Micronutrient supplementation in moderate wasting",
+    "Infection prevention strategies",
+    "Public health program integration"
+  ],
+  "chunk_heading": "FEEDING;COUNSELLING AND HOME DIET THERAPY IN UNCOMPLICATED MODERATE WASTING;MICRONUTRIENT SUPPLEMENTATION AND INFECTION PREVENTION LINKAGES;",
+  "topic": "FEEDING",
+  "subtopic": "COUNSELLING AND HOME DIET THERAPY IN UNCOMPLICATED MODERATE WASTING",
+  "sub_subtopic": "MICRONUTRIENT SUPPLEMENTATION AND INFECTION PREVENTION LINKAGES",
+  "heading_path": "FEEDING;COUNSELLING AND HOME DIET THERAPY IN UNCOMPLICATED MODERATE WASTING;MICRONUTRIENT SUPPLEMENTATION AND INFECTION PREVENTION LINKAGES;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "3k4"
+}

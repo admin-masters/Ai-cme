@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "This section discusses monitoring growth, protein adequacy, and bone mineralization in infants receiving expressed or donor milk, emphasizing fortification, nutritional adjustments, and clinical/laboratory monitoring to prevent complications like metabolic bone disease and feeding intolerance.",
+  "learning_objectives": [
+    "Understand the importance of monitoring growth parameters in infants receiving donor or expressed milk.",
+    "Learn how to assess protein adequacy using clinical and laboratory markers such as BUN and hydration status.",
+    "Identify strategies to prevent and manage metabolic bone disease of prematurity (MBD).",
+    "Recognize signs of feeding intolerance and appropriate interventions during fortification."
+  ],
+  "key_facts": [
+    "Daily weight and weekly length/head circumference monitoring are essential for in-hospital growth tracking.",
+    "Target weight gain for very low birth weight infants is 15\u201320 g/kg/day.",
+    "Low BUN with poor growth suggests inadequate protein intake, while high BUN may indicate excess protein or dehydration.",
+    "Rising alkaline phosphatase (ALP >800 IU/L) and low phosphorus levels indicate inadequate mineral delivery and risk of metabolic bone disease.",
+    "Vitamin D supplementation (400\u2013800 IU/day) and iron are necessary as fortifiers often lack sufficient micronutrients.",
+    "Temporary reduction to half-strength fortifier may be safer than stopping human milk feeds entirely if feeding intolerance occurs."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Infant, Very Low Birth Weight",
+    "Milk Banks",
+    "Bone Diseases, Metabolic",
+    "Nutritional Requirements",
+    "Dietary Proteins",
+    "Vitamin D",
+    "Enteral Nutrition",
+    "Feeding Intolerance"
+  ],
+  "tags_custom": [
+    "donor milk fortification",
+    "infant growth monitoring",
+    "metabolic bone disease",
+    "protein adequacy",
+    "feeding intolerance management"
+  ],
+  "reference_quote": "\"For metabolic bone disease of prematurity (MBD), trend serum phosphorus and alkaline phosphatase (ALP); rising ALP (often >800 IU/L) and low phosphorus suggest inadequate mineral delivery and should trigger review of fortifier strength and calcium/phosphorus supplementation.\"",
+  "document_key_topics": [
+    "Growth monitoring in infants receiving donor milk",
+    "Protein adequacy and nutritional adjustments",
+    "Prevention and management of metabolic bone disease",
+    "Clinical and laboratory monitoring for feeding intolerance"
+  ],
+  "chunk_heading": "EXPRESSED MILK, DONOR MILK & MILK BANKING;MONITORING GROWTH PROTEIN ADEQUACY AND BONE MINERALIZATION;",
+  "topic": "EXPRESSED MILK, DONOR MILK & MILK BANKING",
+  "subtopic": "MONITORING GROWTH PROTEIN ADEQUACY AND BONE MINERALIZATION",
+  "sub_subtopic": null,
+  "heading_path": "EXPRESSED MILK, DONOR MILK & MILK BANKING;MONITORING GROWTH PROTEIN ADEQUACY AND BONE MINERALIZATION;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "2{.1"
+}

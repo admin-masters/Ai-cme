@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "This section focuses on inpatient stabilization feeding and fluid safety protocols for children with severe acute malnutrition, emphasizing macronutrient needs and clinical guidelines for safe management.",
+  "learning_objectives": [
+    "Understand the principles of inpatient stabilization feeding for severe acute malnutrition (SAM).",
+    "Learn fluid management protocols to prevent complications in children with SAM.",
+    "Identify key macronutrient requirements during the stabilization phase.",
+    "Review evidence-based guidelines for managing SAM in clinical settings."
+  ],
+  "key_facts": [
+    "Children with severe acute malnutrition require therapeutic feeding with energy-dense formulas such as F-75 during the stabilization phase.",
+    "Fluid management must be cautious to avoid overhydration; intravenous fluids are only recommended in cases of shock or severe dehydration.",
+    "WHO guidelines recommend a daily energy intake of 100 kcal/kg/day during the stabilization phase.",
+    "Micronutrient supplementation, including vitamin A, zinc, and potassium, is critical to address deficiencies.",
+    "Rehydration solutions for malnutrition (ReSoMal) are preferred over standard oral rehydration solutions (ORS) for children with SAM.",
+    "Close monitoring of vital signs and anthropometric measurements is essential to track progress and prevent complications."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Severe Acute Malnutrition",
+    "Macronutrients",
+    "Fluid Therapy",
+    "Child Nutrition Disorders",
+    "Rehydration Solutions",
+    "Therapeutic Feeding",
+    "Vitamin and Mineral Supplementation",
+    "Hospital Care"
+  ],
+  "tags_custom": [
+    "SAM management",
+    "inpatient care",
+    "stabilization feeding",
+    "fluid safety",
+    "clinical guidelines"
+  ],
+  "reference_quote": "WHO guidelines recommend using F-75 therapeutic milk during the stabilization phase to provide 100 kcal/kg/day energy intake while avoiding overhydration risks.",
+  "document_key_topics": [
+    "Inpatient stabilization feeding for SAM",
+    "Fluid management and safety in SAM",
+    "Macronutrient and micronutrient requirements",
+    "Clinical guidelines for SAM management"
+  ],
+  "chunk_heading": "MACRONUTRIENT NUTRITION IN CHILDHOOD;INPATIENT STABILIZATION FEEDING AND FLUID SAFETY IN SEVERE ACUTE MALNUTRITION;",
+  "topic": "MACRONUTRIENT NUTRITION IN CHILDHOOD",
+  "subtopic": "INPATIENT STABILIZATION FEEDING AND FLUID SAFETY IN SEVERE ACUTE MALNUTRITION",
+  "sub_subtopic": null,
+  "heading_path": "MACRONUTRIENT NUTRITION IN CHILDHOOD;INPATIENT STABILIZATION FEEDING AND FLUID SAFETY IN SEVERE ACUTE MALNUTRITION;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "4\u007f.2"
+}

@@ -1,0 +1,51 @@
+{
+  "chunk_summary": "Subacute osteomyelitis, including Brodie abscess, presents with localized pain and minimal systemic symptoms. Diagnosis often requires MRI, and management includes biopsy, debridement, and culture-directed antibiotics.",
+  "learning_objectives": [
+    "Understand the clinical presentation and imaging findings of subacute osteomyelitis and Brodie abscess.",
+    "Learn the differential diagnosis for lytic bone lesions in children.",
+    "Identify appropriate diagnostic and therapeutic strategies, including biopsy and culture-directed antibiotics.",
+    "Recognize the importance of serial clinical reviews in monitoring treatment response."
+  ],
+  "key_facts": [
+    "Subacute osteomyelitis often presents with weeks of localized pain and minimal fever.",
+    "The metaphysis is the most common site, with imaging showing a lytic cavity and surrounding sclerosis.",
+    "MRI is essential for defining marrow involvement and abscess characteristics.",
+    "Brodie abscesses often require curettage or debridement and culture-directed antibiotics.",
+    "Methicillin-susceptible Staphylococcus aureus is the usual pathogen, and oral step-down therapy is reasonable after clinical improvement.",
+    "Failure to biopsy tumor-like lesions is a common diagnostic error.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Osteomyelitis",
+    "Brodie Abscess",
+    "Bone Infections",
+    "Magnetic Resonance Imaging",
+    "Staphylococcal Infections",
+    "Pediatric Orthopedics",
+    "Bone Lesions",
+    "Debridement"
+  ],
+  "tags_custom": [
+    "subacute bone infections",
+    "pediatric osteomyelitis",
+    "Brodie abscess management",
+    "diagnostic imaging",
+    "culture-directed therapy"
+  ],
+  "reference_quote": "\u2018The key management question is whether the lesion can confidently be treated as infection or whether tissue is required to exclude malignancy.\u2019",
+  "document_key_topics": [
+    "Subacute osteomyelitis presentation and diagnosis",
+    "Brodie abscess imaging and management",
+    "Differential diagnosis of lytic bone lesions",
+    "Role of biopsy and culture in treatment planning"
+  ],
+  "chunk_heading": "BONE INFECTIONS;SUBACUTE CHRONIC AND AUTOINFLAMMATORY BONE LESIONS;SUBACUTE OSTEOMYELITIS AND BRODIE ABSCESS EVALUATION;",
+  "topic": "BONE INFECTIONS",
+  "subtopic": "SUBACUTE CHRONIC AND AUTOINFLAMMATORY BONE LESIONS",
+  "sub_subtopic": "SUBACUTE OSTEOMYELITIS AND BRODIE ABSCESS EVALUATION",
+  "heading_path": "BONE INFECTIONS;SUBACUTE CHRONIC AND AUTOINFLAMMATORY BONE LESIONS;SUBACUTE OSTEOMYELITIS AND BRODIE ABSCESS EVALUATION;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u00861"
+}

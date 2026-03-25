@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section discusses sodium targets, diuretic monitoring, and fluid restriction strategies in pediatric cirrhosis with ascites, emphasizing tailored sodium management and avoiding routine fluid restriction unless serum sodium is \u2264125 mmol/L.",
+  "learning_objectives": [
+    "Understand the role of sodium restriction in managing pediatric cirrhosis with ascites.",
+    "Learn when and how to implement fluid restriction based on serum sodium levels.",
+    "Identify safe sodium targets and adjust dietary plans based on age, ascites severity, and renal function.",
+    "Monitor diuretic use and its impact on weight, serum electrolytes, and renal function."
+  ],
+  "key_facts": [
+    "Fluid restriction is recommended only when serum sodium is \u2264125 mmol/L.",
+    "Sodium targets for cholestasis/cirrhosis range from 1\u20132 mEq/kg/day but must be adjusted based on individual factors.",
+    "Spironolactone is commonly used at 1\u20136 mg/kg/day as the initial diuretic in pediatric practice.",
+    "Strict fluid restriction can reduce energy density and worsen feeding conflict in children.",
+    "Monitor weight trajectory, serum sodium, potassium, and renal function regularly during diuretic therapy."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Ascites",
+    "Cirrhosis",
+    "Hyponatremia",
+    "Diuretics",
+    "Sodium, Dietary",
+    "Fluid Therapy",
+    "Pediatrics",
+    "Renal Function"
+  ],
+  "tags_custom": [
+    "pediatric liver disease",
+    "ascites management",
+    "sodium restriction",
+    "fluid balance",
+    "diuretic monitoring"
+  ],
+  "reference_quote": "Major cirrhosis guidance supports fluid restriction only when there is moderate to severe hyponatremia. (Source: https://easl.eu/wp-content/uploads/2018/10/decompensated-cirrhosis-English-report.pdf)",
+  "document_key_topics": [
+    "Sodium restriction in pediatric cirrhosis with ascites",
+    "Fluid restriction guidelines based on serum sodium levels",
+    "Diuretic use and monitoring in pediatric liver disease",
+    "Nutritional strategies to balance calorie density and sodium intake"
+  ],
+  "chunk_heading": "NUTRITION IN CHRONIC KIDNEY & LIVER DISEASE; MICRONUTRIENTS AND FLUID MANAGEMENT IN PEDIATRIC CHRONIC LIVER DISEASE; ASCITES SODIUM TARGETS DIURETIC MONITORING AND HYPONATREMIA-TRIGGERED FLUID RESTRICTION;",
+  "topic": "NUTRITION IN CHRONIC KIDNEY & LIVER DISEASE",
+  "subtopic": "MICRONUTRIENTS AND FLUID MANAGEMENT IN PEDIATRIC CHRONIC LIVER DISEASE",
+  "sub_subtopic": "ASCITES SODIUM TARGETS DIURETIC MONITORING AND HYPONATREMIA-TRIGGERED FLUID RESTRICTION",
+  "heading_path": "NUTRITION IN CHRONIC KIDNEY & LIVER DISEASE; MICRONUTRIENTS AND FLUID MANAGEMENT IN PEDIATRIC CHRONIC LIVER DISEASE; ASCITES SODIUM TARGETS DIURETIC MONITORING AND HYPONATREMIA-TRIGGERED FLUID RESTRICTION;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1c1"
+}

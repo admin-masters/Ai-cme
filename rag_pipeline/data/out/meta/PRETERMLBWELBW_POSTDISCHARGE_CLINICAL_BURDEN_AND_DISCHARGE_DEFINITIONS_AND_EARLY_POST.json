@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "Defines preterm and LBW categories, highlights early post-discharge risks, and emphasizes feeding plans and follow-up care to mitigate mortality in the first month, especially the first week, in India.",
+  "learning_objectives": [
+    "Understand the definitions of preterm, LBW, VLBW, and ELBW and their clinical implications.",
+    "Recognize the early post-discharge risk window and its impact on mortality in preterm/LBW infants.",
+    "Learn the importance of individualized feeding plans and follow-up care for discharged preterm/LBW infants.",
+    "Explore India's national guidelines for post-discharge nutrition and care of LBW infants."
+  ],
+  "key_facts": [
+    "Preterm infants are born before 37 weeks, and very preterm before 32 weeks.",
+    "LBW is defined as <2.5 kg, VLBW as <1.5 kg, and ELBW as <1.0 kg.",
+    "India contributes significantly to the global burden of prematurity and LBW.",
+    "Post-discharge mortality is highest in the first month, with the greatest risk in the first week.",
+    "Feeding plans must include frequency, method, measurable supplements, and a return date.",
+    "Follow-up care should leverage NHM's continuum of care, including HBNC home visits."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Infant, Premature",
+    "Infant, Low Birth Weight",
+    "Postnatal Care",
+    "Nutritional Support",
+    "Feeding Behavior",
+    "Risk Assessment",
+    "Continuity of Patient Care",
+    "India"
+  ],
+  "tags_custom": [
+    "Preterm nutrition",
+    "LBW care",
+    "Post-discharge mortality",
+    "Feeding plans",
+    "India healthcare"
+  ],
+  "reference_quote": "Government of India follow-up guidance for SNCU-discharged and LBW infants highlights that a large fraction of post-discharge mortality occurs in the first month, with the highest risk in the first week.",
+  "document_key_topics": [
+    "Definitions of preterm and LBW categories",
+    "Early post-discharge risk and mortality",
+    "Feeding plans for preterm/LBW infants",
+    "India's national guidelines for LBW care"
+  ],
+  "chunk_heading": "PRETERM/LBW/ELBW POST-DISCHARGE NUTRITION;CLINICAL BURDEN AND DISCHARGE PHENOTYPING FOR NUTRITION PLANS;DEFINITIONS AND EARLY POST- DISCHARGE RISK WINDOW;",
+  "topic": "PRETERM/LBW/ELBW POST-DISCHARGE NUTRITION",
+  "subtopic": "CLINICAL BURDEN AND DISCHARGE PHENOTYPING FOR NUTRITION PLANS",
+  "sub_subtopic": "DEFINITIONS AND EARLY POST- DISCHARGE RISK WINDOW",
+  "heading_path": "PRETERM/LBW/ELBW POST-DISCHARGE NUTRITION;CLINICAL BURDEN AND DISCHARGE PHENOTYPING FOR NUTRITION PLANS;DEFINITIONS AND EARLY POST- DISCHARGE RISK WINDOW;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1b1"
+}

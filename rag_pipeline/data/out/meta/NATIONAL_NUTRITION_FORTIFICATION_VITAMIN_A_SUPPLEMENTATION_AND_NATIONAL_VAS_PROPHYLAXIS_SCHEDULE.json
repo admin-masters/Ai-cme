@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "The National Vitamin A Supplementation (VAS) schedule in India provides age-based prophylaxis for children aged 9 months to 5 years, emphasizing proper documentation, spacing, and safe administration to prevent double dosing or missed protection.",
+  "learning_objectives": [
+    "Understand the age-based National VAS prophylaxis schedule for children in India.",
+    "Learn the importance of proper documentation and spacing of VAS doses.",
+    "Identify safe administration practices and manage potential adverse effects of high-dose Vitamin A.",
+    "Recognize the role of community platforms in delivering VAS."
+  ],
+  "key_facts": [
+    "The first VAS dose (1 mL, 1 lakh IU) is given at 9 months, alongside the MR vaccine.",
+    "The second dose (2 mL, 2 lakh IU) is given at 16\u201318 months, followed by doses 3\u20139 every 6 months until 5 years of age.",
+    "VAS is administered orally; avoid dosing if the child is vomiting or unable to swallow safely.",
+    "Proper documentation is critical: verify the last dose date and schedule the next dose at least 6 months later.",
+    "Transient nausea or vomiting may occur after high-dose Vitamin A but is usually self-limited.",
+    "Repeated closely spaced dosing increases the risk of adverse effects without added benefit."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Vitamin A",
+    "Child Nutrition Disorders",
+    "Immunization Schedule",
+    "Prophylaxis",
+    "Community Health Services",
+    "Pediatric Dosage",
+    "Adverse Drug Reaction Reporting",
+    "Health Records, Personal"
+  ],
+  "tags_custom": [
+    "Vitamin A supplementation",
+    "Child health programs",
+    "Prophylaxis schedule",
+    "Documentation practices",
+    "Community health delivery"
+  ],
+  "reference_quote": "The first dose is given at 9 months (1 mL containing 1 lakh IU) typically alongside measles-rubella (MR) vaccination, followed by a second dose at 16\u201318 months (2 mL containing 2 lakh IU).",
+  "document_key_topics": [
+    "National VAS prophylaxis schedule for children",
+    "Documentation and spacing of Vitamin A doses",
+    "Safe administration practices for high-dose Vitamin A",
+    "Community-based delivery of VAS"
+  ],
+  "chunk_heading": "NATIONAL NUTRITION & FORTIFICATION PROGRAMS IN INDIA;VITAMIN A SUPPLEMENTATION AND THERAPEUTIC USE IN CHILDREN;NATIONAL VAS PROPHYLAXIS SCHEDULE AND DOCUMENTATION PRACTICE;",
+  "topic": "NATIONAL NUTRITION & FORTIFICATION PROGRAMS IN INDIA",
+  "subtopic": "VITAMIN A SUPPLEMENTATION AND THERAPEUTIC USE IN CHILDREN",
+  "sub_subtopic": "NATIONAL VAS PROPHYLAXIS SCHEDULE AND DOCUMENTATION PRACTICE",
+  "heading_path": "NATIONAL NUTRITION & FORTIFICATION PROGRAMS IN INDIA;VITAMIN A SUPPLEMENTATION AND THERAPEUTIC USE IN CHILDREN;NATIONAL VAS PROPHYLAXIS SCHEDULE AND DOCUMENTATION PRACTICE;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "1j1"
+}

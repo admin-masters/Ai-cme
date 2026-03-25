@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "This section discusses the selection and use of WHO/IAP growth charts, emphasizing error prevention in plotting and measurement to ensure accurate growth monitoring in children.",
+  "learning_objectives": [
+    "Understand the importance of selecting the correct growth chart based on age, sex, and index.",
+    "Identify common plotting and measurement errors and strategies to prevent them.",
+    "Learn techniques to improve data quality and reduce false referrals in growth monitoring.",
+    "Recognize the role of digital tools and staff training in enhancing measurement reliability."
+  ],
+  "key_facts": [
+    "Use sex-specific and age-appropriate charts: WHO (0\u20135 years) and IAP (5\u201318 years).",
+    "Common errors include age miscalculation, transcription mistakes (e.g., 6.2 kg vs. 6.02 kg), and unit confusion (cm vs. m).",
+    "Always plot in real time, record numeric values, and re-measure implausible centile jumps or drops.",
+    "Failing to measure and plot length in children under 2 years delays stunting recognition.",
+    "Digital charting systems can reduce errors if biologically implausible inputs are flagged for recheck.",
+    "Periodic staff training, checklists (e.g., shoes off, scale tared), and parent engagement improve reliability."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Growth Charts",
+    "Anthropometry",
+    "Child Development",
+    "Growth Monitoring",
+    "Pediatrics",
+    "Measurement Techniques",
+    "Electronic Health Records",
+    "Stunting"
+  ],
+  "tags_custom": [
+    "WHO/IAP growth charts",
+    "Measurement errors",
+    "Pediatric growth monitoring",
+    "Data quality",
+    "Digital charting"
+  ],
+  "reference_quote": "RCPCH: UK-WHO Growth Charts Guidance for Health Professionals \u2014 'The most useful systems flag biologically implausible inputs and prompt immediate recheck.'",
+  "document_key_topics": [
+    "Selection of appropriate growth charts",
+    "Common plotting and measurement errors",
+    "Strategies to improve data quality in growth monitoring",
+    "Role of digital tools and staff training in error prevention"
+  ],
+  "chunk_heading": "GROWTH VELOCITY, Z-SCORES; WHO/IAP CHARTS);SELECTION AND USE OF GROWTH CHARTS;COMMON PLOTTING ERRORS AND PREVENTION STRATEGIES;",
+  "topic": "GROWTH VELOCITY, Z-SCORES",
+  "subtopic": "WHO/IAP CHARTS)",
+  "sub_subtopic": "SELECTION AND USE OF GROWTH CHARTS",
+  "heading_path": "GROWTH VELOCITY, Z-SCORES; WHO/IAP CHARTS);SELECTION AND USE OF GROWTH CHARTS;COMMON PLOTTING ERRORS AND PREVENTION STRATEGIES;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2y24"
+}

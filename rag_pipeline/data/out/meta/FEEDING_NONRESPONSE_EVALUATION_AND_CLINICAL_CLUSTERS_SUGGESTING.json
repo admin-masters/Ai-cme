@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "This section discusses clinical clusters indicating tuberculosis, celiac, cardiac, or other diseases in children with feeding non-response, emphasizing targeted evaluation and early diagnosis to address underlying causes.",
+  "learning_objectives": [
+    "Identify clinical clusters suggesting tuberculosis, celiac disease, or cardiac conditions in children with feeding non-response.",
+    "Understand the importance of early targeted evaluation and diagnostic pathways for suspected conditions.",
+    "Learn the specific symptoms and diagnostic approaches for each clinical cluster.",
+    "Recognize the role of systemic symptoms and adherence verification in guiding investigations."
+  ],
+  "key_facts": [
+    "A TB suspicion cluster includes cough or fever for \u22652 weeks, weight loss, lymphadenopathy, or persistent pneumonia.",
+    "Celiac disease cluster includes chronic diarrhea, abdominal distension, anemia unresponsive to iron, and recurrent mouth ulcers.",
+    "Cardiac or chronic lung disease cluster includes tachypnea at rest, feeding fatigue, diaphoresis with feeds, and poor linear growth.",
+    "Children with TB suspicion should be linked to the NTEP diagnostic pathway, including chest imaging and microbiology with NAAT where feasible.",
+    "Celiac disease evaluation should follow Indian serology-based guidelines, avoiding empiric dietary restrictions without diagnosis."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Feeding Behavior",
+    "Tuberculosis",
+    "Celiac Disease",
+    "Heart Diseases",
+    "Malnutrition",
+    "Nutritional Rehabilitation",
+    "Diagnostic Techniques and Procedures",
+    "Child, Preschool"
+  ],
+  "tags_custom": [
+    "clinical clusters",
+    "non-response feeding",
+    "pediatric diagnostics",
+    "targeted evaluation",
+    "systemic symptoms"
+  ],
+  "reference_quote": "Treat non-response and early relapse as 'symptoms' that require a directed search for an underlying driver, not as a reason to keep changing supplements.",
+  "document_key_topics": [
+    "Feeding non-response evaluation",
+    "Clinical clusters for tuberculosis, celiac, and cardiac diseases",
+    "Targeted diagnostic pathways for pediatric conditions"
+  ],
+  "chunk_heading": "FEEDING;NON-RESPONSE EVALUATION AND TARGETED INVESTIGATION;CLINICAL CLUSTERS SUGGESTING TUBERCULOSIS CELIAC OR CARDIAC DISEASE;",
+  "topic": "FEEDING",
+  "subtopic": "NON-RESPONSE EVALUATION AND TARGETED INVESTIGATION",
+  "sub_subtopic": "CLINICAL CLUSTERS SUGGESTING TUBERCULOSIS CELIAC OR CARDIAC DISEASE",
+  "heading_path": "FEEDING;NON-RESPONSE EVALUATION AND TARGETED INVESTIGATION;CLINICAL CLUSTERS SUGGESTING TUBERCULOSIS CELIAC OR CARDIAC DISEASE;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "4l1"
+}

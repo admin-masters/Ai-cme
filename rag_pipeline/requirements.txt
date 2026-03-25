@@ -1,0 +1,8 @@
+requests
+torch
+transformers
+pdfminer.six
+reportlab
+azure-storage-blob
+openai
+future

@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "Guidelines for diagnosing and managing microcytic anemia in children, focusing on iron trials, ferritin interpretation, and stepwise testing strategies.",
+  "learning_objectives": [
+    "Understand when to initiate a diagnostic iron trial versus laboratory testing in microcytic anemia.",
+    "Learn how to interpret ferritin levels in the context of inflammation and infection.",
+    "Identify stepwise diagnostic approaches for microcytic anemia, including red flag scenarios.",
+    "Avoid common pitfalls in iron deficiency anemia diagnosis and treatment."
+  ],
+  "key_facts": [
+    "A rise in hemoglobin (Hb) >1 g/dL after 4 weeks of oral iron therapy confirms iron deficiency in mild anemia.",
+    "In severe anemia, Hb improvement may be seen within 2 weeks if adherence is good.",
+    "Ferritin levels should be interpreted with inflammation markers like CRP or AGP, as ferritin rises in infection.",
+    "Stepwise testing starts with CBC and smear, followed by ferritin, and expands to stool occult blood, celiac screening, or hemoglobinopathy testing if red flags are present.",
+    "Avoid relying on a single low serum iron value for treatment decisions; use ferritin and clinical phenotype instead."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Iron-Deficiency Anemia",
+    "Microcytic Anemia",
+    "Ferritin",
+    "Hemoglobin",
+    "C-Reactive Protein",
+    "Inflammation",
+    "Pediatrics",
+    "Diagnostic Techniques and Procedures"
+  ],
+  "tags_custom": [
+    "iron trial",
+    "stepwise testing",
+    "ferritin interpretation",
+    "pediatric anemia"
+  ],
+  "reference_quote": "Ferritin reflects iron stores but rises in infection/inflammation; in children with recent or active inflammation, higher ferritin cutoffs are used to define deficiency than in apparently healthy children.",
+  "document_key_topics": [
+    "Diagnostic iron trial in microcytic anemia",
+    "Ferritin interpretation in the context of inflammation",
+    "Stepwise diagnostic approach for pediatric anemia",
+    "Avoiding pitfalls in iron deficiency anemia management"
+  ],
+  "chunk_heading": "MICRONUTRIENT NUTRITION;IRON DEFICIENCY ANEMIA DIAGNOSTIC AND THERAPEUTIC DECISIONS;MICROCYTIC ANEMIA TEST SEQUENCE   AND DIAGNOSTIC IRON TRIAL;",
+  "topic": "MICRONUTRIENT NUTRITION",
+  "subtopic": "IRON DEFICIENCY ANEMIA DIAGNOSTIC AND THERAPEUTIC DECISIONS",
+  "sub_subtopic": "MICROCYTIC ANEMIA TEST SEQUENCE   AND DIAGNOSTIC IRON TRIAL",
+  "heading_path": "MICRONUTRIENT NUTRITION;IRON DEFICIENCY ANEMIA DIAGNOSTIC AND THERAPEUTIC DECISIONS;MICROCYTIC ANEMIA TEST SEQUENCE   AND DIAGNOSTIC IRON TRIAL;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1q2.1"
+}

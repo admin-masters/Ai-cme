@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section discusses age-specific pathogens and routes of infection in pediatric bone infections, emphasizing hematogenous spread, key pathogens like Staphylococcus aureus, and unique considerations such as Kingella kingae in young children and Salmonella in sickle cell disease.",
+  "learning_objectives": [
+    "Understand the primary routes of infection in pediatric bone infections, including hematogenous spread and direct inoculation.",
+    "Identify age-specific pathogens, including Kingella kingae in young children and Group B streptococcus in neonates.",
+    "Recognize the role of local epidemiology in guiding empiric antibiotic regimens.",
+    "Differentiate between common pathogens in post-traumatic and postoperative infections."
+  ],
+  "key_facts": [
+    "Hematogenous spread is the most common route of pediatric bone infections, especially in the metaphysis.",
+    "Staphylococcus aureus is the leading pathogen across all age groups, with methicillin-resistant strains requiring consideration.",
+    "Kingella kingae is significant in children aged 6-48 months but may be underdiagnosed in India due to insensitive culture methods.",
+    "Neonates are more likely to have Group B streptococcus and enteric Gram-negative bacilli infections.",
+    "Children with sickle cell disease have a characteristic association with Salmonella infections.",
+    "Post-traumatic and postoperative infections often involve coagulase-negative staphylococci, enteric Gram-negatives, and Pseudomonas."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Osteomyelitis",
+    "Septic Arthritis",
+    "Staphylococcus aureus",
+    "Kingella kingae",
+    "Group B Streptococcus",
+    "Salmonella Infections",
+    "Hematogenous Spread",
+    "Pediatric Infections"
+  ],
+  "tags_custom": [
+    "pediatric bone infections",
+    "age-specific pathogens",
+    "antibiotic resistance",
+    "post-traumatic infections"
+  ],
+  "reference_quote": "Staphylococcus aureus is the leading pathogen across age groups and must be covered in every empiric regimen.",
+  "document_key_topics": [
+    "Hematogenous spread in pediatric bone infections",
+    "Age-specific pathogens and their clinical relevance",
+    "Role of local epidemiology in infection management",
+    "Post-traumatic and postoperative infection microbiology"
+  ],
+  "chunk_heading": "BONE INFECTIONS;EPIDEMIOLOGY AND MICROBIAL PATHOGENESIS;AGE STRATIFIED PATHOGENS AND ROUTES OF INFECTION;",
+  "topic": "BONE INFECTIONS",
+  "subtopic": "EPIDEMIOLOGY AND MICROBIAL PATHOGENESIS",
+  "sub_subtopic": "AGE STRATIFIED PATHOGENS AND ROUTES OF INFECTION",
+  "heading_path": "BONE INFECTIONS;EPIDEMIOLOGY AND MICROBIAL PATHOGENESIS;AGE STRATIFIED PATHOGENS AND ROUTES OF INFECTION;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1c2"
+}

@@ -1,0 +1,47 @@
+{
+  "chunk_summary": "This section discusses anthropometric measurement techniques and data quality control for pediatric malnutrition classification, emphasizing accuracy, standardized methods, and program integration to reduce errors in public health and clinical settings.",
+  "learning_objectives": [
+    "Understand the importance of accurate anthropometric measurements in pediatric malnutrition classification.",
+    "Learn standardized techniques for measuring weight, length/height, and MUAC in children under 5 years.",
+    "Identify common sources of error in anthropometric data and strategies to mitigate them.",
+    "Recognize the role of community screening protocols in improving measurement completeness."
+  ],
+  "key_facts": [
+    "Small errors in length/height (1\u20132 cm) can misclassify malnutrition severity due to weight-for-length/height calculations.",
+    "MUAC should be measured at the midpoint between the acromion and olecranon on the left arm, with the tape snug but not tight.",
+    "For children under 2 years, use a rigid length board with two-person positioning; for older children, ensure proper standing posture with heels together and head in the Frankfort plane.",
+    "Community screening protocols use MUAC tape and edema checks to identify high-risk children for referral.",
+    "Documenting measurement methods and scheduling follow-ups reduces clinical and administrative errors."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Anthropometry",
+    "Malnutrition",
+    "Pediatrics",
+    "Mid-Upper Arm Circumference",
+    "Body Height",
+    "Body Weight",
+    "Edema",
+    "Public Health"
+  ],
+  "tags_custom": [
+    "measurement accuracy",
+    "malnutrition screening",
+    "data quality control",
+    "community health programs"
+  ],
+  "reference_quote": "Small errors in length/height are the most common cause of misclassification because wasting uses weight-for-length/height; a 1\u20132 cm error can shift a child across severity bands.",
+  "document_key_topics": [
+    "Anthropometric measurement techniques",
+    "Data quality control in malnutrition classification",
+    "Community screening protocols for malnutrition"
+  ],
+  "chunk_heading": "PUBLIC HEALTH & COMMUNITY PEDIATRIC NUTRITION;COMMUNITY ANTHROPOMETRY AND MALNUTRITION CLASSIFICATION;MEASUREMENT TECHNIQUE AND DATA QUALITY CONTROL;",
+  "topic": "PUBLIC HEALTH & COMMUNITY PEDIATRIC NUTRITION",
+  "subtopic": "COMMUNITY ANTHROPOMETRY AND MALNUTRITION CLASSIFICATION",
+  "sub_subtopic": "MEASUREMENT TECHNIQUE AND DATA QUALITY CONTROL",
+  "heading_path": "PUBLIC HEALTH & COMMUNITY PEDIATRIC NUTRITION;COMMUNITY ANTHROPOMETRY AND MALNUTRITION CLASSIFICATION;MEASUREMENT TECHNIQUE AND DATA QUALITY CONTROL;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1h1"
+}

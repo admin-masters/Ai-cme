@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section outlines protocols for cold chain transport and chain-of-custody documentation of expressed breast milk (EBM) and donor human milk (DHM), emphasizing temperature control, documentation accuracy, and incident reporting for safe handling and use.",
+  "learning_objectives": [
+    "Understand the importance of maintaining an unbroken cold chain for EBM and DHM transport.",
+    "Learn the documentation requirements for chain-of-custody during milk transport and dispensing.",
+    "Identify protocols for handling partially thawed or fully thawed milk upon receipt.",
+    "Explore strategies for incident reporting and quality assurance in milk transport systems."
+  ],
+  "key_facts": [
+    "EBM and DHM must be transported at \u22644\u00b0C (refrigerated) or frozen using insulated containers and frozen gel packs.",
+    "Chain-of-custody documentation includes container identifiers, volumes, dates, dispatch/receiving times, and staff signatures.",
+    "Partially thawed milk at \u22644\u00b0C should be refrigerated and used within 24 hours; fully thawed or warm milk must be discarded unless local policies allow safe use.",
+    "Cold-chain failures require incident reporting and review of packaging, courier timing, and backup power plans.",
+    "Temperature indicators or data loggers are recommended for high-volume milk networks to ensure transport temperature compliance."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Breast Milk",
+    "Milk Banks",
+    "Cold Chain",
+    "Human Milk",
+    "Infant Nutrition",
+    "Pasteurization",
+    "Documentation",
+    "Neonatal Intensive Care Units"
+  ],
+  "tags_custom": [
+    "expressed milk transport",
+    "chain of custody",
+    "milk safety protocols",
+    "temperature control",
+    "incident reporting"
+  ],
+  "reference_quote": "Transport of EBM or DHM must maintain an unbroken cold chain from the point of expression or dispensing to the point of use.",
+  "document_key_topics": [
+    "Cold chain transport protocols for EBM and DHM",
+    "Chain-of-custody documentation requirements",
+    "Handling thawed milk and incident reporting",
+    "Quality assurance in milk transport systems"
+  ],
+  "chunk_heading": "EXPRESSED MILK, DONOR MILK & MILK BANKING;COLD CHAIN TRANSPORT AND CHAIN OF CUSTODY DOCUMENTATION;",
+  "topic": "EXPRESSED MILK, DONOR MILK & MILK BANKING",
+  "subtopic": "COLD CHAIN TRANSPORT AND CHAIN OF CUSTODY DOCUMENTATION",
+  "sub_subtopic": null,
+  "heading_path": "EXPRESSED MILK, DONOR MILK & MILK BANKING;COLD CHAIN TRANSPORT AND CHAIN OF CUSTODY DOCUMENTATION;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1i"
+}

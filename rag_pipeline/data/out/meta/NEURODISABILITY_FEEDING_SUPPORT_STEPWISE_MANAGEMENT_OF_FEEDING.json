@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "Stepwise management of feeding aversion in neurodisability emphasizes safety, medical drivers, feeding skill mismatch, and psychosocial factors, with structured interventions to reduce caregiver distress and improve feeding outcomes.",
+  "learning_objectives": [
+    "Understand the role of medical, nutritional, feeding skill, and psychosocial domains in managing feeding aversion.",
+    "Identify and address safety concerns such as dysphagia markers before initiating therapy.",
+    "Develop stepwise interventions for feeding skill mismatch using IDDSI levels and texture ladders.",
+    "Implement non-coercive feeding routines to break psychosocial cycles of refusal."
+  ],
+  "key_facts": [
+    "Feeding aversion in neurodisability is rarely purely behavioral and often involves medical or skill-related drivers.",
+    "Safety concerns like choking, cyanosis, wet voice, or recurrent pneumonia should be treated as potential dysphagia.",
+    "Constipation is a frequent hidden driver in India; a written bowel plan is often the first intervention.",
+    "Reflux-associated distress should be managed with a time-limited, stepwise reflux plan rather than indefinite acid suppression.",
+    "Feeding skill mismatch can be addressed using IDDSI levels and a graded texture ladder with one-variable changes.",
+    "Non-coercive routines, fixed meal times, and positive reinforcement are key to breaking refusal cycles.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Feeding and Eating Disorders",
+    "Dysphagia",
+    "Gastroesophageal Reflux",
+    "Constipation",
+    "Oral Motor Function",
+    "Caregivers",
+    "Pediatric Feeding Disorders",
+    "Interdisciplinary Care"
+  ],
+  "tags_custom": [
+    "feeding aversion",
+    "neurodisability",
+    "caregiver support",
+    "pediatric feeding",
+    "texture ladder"
+  ],
+  "reference_quote": "\"Feeding aversion in neurodisability is rarely 'just behavioral.' Use the PFD domains (medical, nutritional, feeding skill, psychosocial) to prevent the common error of escalating pressure to eat when the driver is pain or skill mismatch.\" (Source: Pediatric Feeding Disorder: Consensus Definition and Conceptual Framework)",
+  "document_key_topics": [
+    "Feeding aversion in neurodisability",
+    "Stepwise management of dysphagia and feeding skill mismatch",
+    "Psychosocial interventions for caregiver distress"
+  ],
+  "chunk_heading": "NEURODISABILITY & FEEDING SUPPORT;STEPWISE MANAGEMENT OF FEEDING AVERSION AND CAREGIVER DISTRESS;",
+  "topic": "NEURODISABILITY & FEEDING SUPPORT",
+  "subtopic": "STEPWISE MANAGEMENT OF FEEDING AVERSION AND CAREGIVER DISTRESS",
+  "sub_subtopic": null,
+  "heading_path": "NEURODISABILITY & FEEDING SUPPORT;STEPWISE MANAGEMENT OF FEEDING AVERSION AND CAREGIVER DISTRESS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1e"
+}

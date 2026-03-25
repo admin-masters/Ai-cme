@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section discusses data hygiene, record retention, and communication channel separation in Indian tele-nutrition, emphasizing secure handling of sensitive child health data, explicit consent, and compliance with telemedicine guidelines for data retention and operational rules.",
+  "learning_objectives": [
+    "Understand the importance of separating communication channels for tele-nutrition services.",
+    "Learn best practices for data hygiene and record retention in tele-nutrition, including compliance with Indian telemedicine guidelines.",
+    "Identify operational rules for handling sensitive child health data and mitigating risks like data breaches.",
+    "Explore strategies for implementing a digital hygiene policy in tele-nutrition clinics."
+  ],
+  "key_facts": [
+    "Sensitive child health data includes growth measures, photos, feeding videos, and lab reports.",
+    "Telemedicine guidelines in India require maintaining case records and digital trails for at least three years from the last consultation.",
+    "Data minimization and purpose-limited retention are emphasized for child data protection.",
+    "Operational rules should include a 'no media on personal gallery' policy and role-based access for team members.",
+    "Explicit consent is required when using common messaging apps for sensitive data sharing.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Telemedicine",
+    "Nutrition Therapy",
+    "Data Security",
+    "Child Health",
+    "Medical Records",
+    "Informed Consent",
+    "Health Equity",
+    "Digital Health"
+  ],
+  "tags_custom": [
+    "Tele-nutrition ethics",
+    "Data hygiene",
+    "Record retention",
+    "Communication channels",
+    "Child data protection"
+  ],
+  "reference_quote": "Telemedicine guidance requires maintaining case records and a digital trail (phone logs, emails, chat/text, video interaction logs) for at least three years from the last consultation.",
+  "document_key_topics": [
+    "Data hygiene in tele-nutrition",
+    "Record retention guidelines for child health data",
+    "Secure communication channel separation"
+  ],
+  "chunk_heading": "DIGITAL TOOLS & TELE-NUTRITION;ETHICS, COMMUNICATION CHANNELS, AND EQUITY IN INDIAN TELE-NUTRITION;DATA HYGIENE, RECORD RETENTION, AND COMMUNICATION CHANNEL SEPARATION;",
+  "topic": "DIGITAL TOOLS & TELE-NUTRITION",
+  "subtopic": "ETHICS, COMMUNICATION CHANNELS, AND EQUITY IN INDIAN TELE-NUTRITION",
+  "sub_subtopic": "DATA HYGIENE, RECORD RETENTION, AND COMMUNICATION CHANNEL SEPARATION",
+  "heading_path": "DIGITAL TOOLS & TELE-NUTRITION;ETHICS, COMMUNICATION CHANNELS, AND EQUITY IN INDIAN TELE-NUTRITION;DATA HYGIENE, RECORD RETENTION, AND COMMUNICATION CHANNEL SEPARATION;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u009b2"
+}

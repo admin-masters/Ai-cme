@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "Micronutrient biomarkers have limitations in individual pediatric diagnosis due to variability, acute phase effects, and poor diagnostic specificity. Clinical context and response-to-therapy checkpoints are critical for cost-effective and accurate care.",
+  "learning_objectives": [
+    "Understand the limitations of micronutrient biomarkers in individual pediatric diagnosis.",
+    "Learn how acute phase effects (e.g., inflammation) impact biomarker interpretation.",
+    "Identify when to use clinical context and response-to-therapy checkpoints for treatment decisions.",
+    "Recognize the role of population-level biomarkers versus individual diagnostic tools."
+  ],
+  "key_facts": [
+    "Ferritin levels rise during inflammation, potentially masking iron deficiency.",
+    "Serum zinc levels are affected by diurnal variation and fasting status; a single low value rarely justifies long-term therapy.",
+    "Vitamin D testing (25(OH)D) should only be used when it changes treatment intensity; population-level low values are common.",
+    "Urinary iodine concentration is for population monitoring, not individual diagnosis.",
+    "Clinical signs like xerophthalmia or severe anemia warrant immediate treatment without waiting for biomarker results.",
+    "Response-to-therapy checkpoints, such as Hb rise after iron therapy, are often the most reliable diagnostic tools."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Micronutrients",
+    "Biomarkers",
+    "Pediatrics",
+    "Iron Deficiency",
+    "Zinc Deficiency",
+    "Vitamin D Deficiency",
+    "Iodine Deficiency",
+    "Inflammation"
+  ],
+  "tags_custom": [
+    "acute phase effects",
+    "response-to-therapy",
+    "cost-effective testing",
+    "individual diagnosis",
+    "biomarker variability"
+  ],
+  "reference_quote": "Ferritin concentrations for the assessment of iron status and iron deficiency \u2014 https://www.who.int/tools/elena/interventions/ferritin-concentrations...",
+  "document_key_topics": [
+    "Limitations of micronutrient biomarkers in children",
+    "Impact of acute phase effects on biomarker accuracy",
+    "Role of clinical context in interpreting test results",
+    "Use of response-to-therapy as a diagnostic tool"
+  ],
+  "chunk_heading": "MICRONUTRIENT NUTRITION;COST-AWARE MICRONUTRIENT TEST SELECTION IN CLINIC;LIMITATIONS OF MICRONUTRIENT BIOMARKERS IN INDIVIDUAL CHILDREN;",
+  "topic": "MICRONUTRIENT NUTRITION",
+  "subtopic": "COST-AWARE MICRONUTRIENT TEST SELECTION IN CLINIC",
+  "sub_subtopic": "LIMITATIONS OF MICRONUTRIENT BIOMARKERS IN INDIVIDUAL CHILDREN",
+  "heading_path": "MICRONUTRIENT NUTRITION;COST-AWARE MICRONUTRIENT TEST SELECTION IN CLINIC;LIMITATIONS OF MICRONUTRIENT BIOMARKERS IN INDIVIDUAL CHILDREN;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "1n4"
+}

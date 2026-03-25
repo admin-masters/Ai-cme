@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section discusses resource-adapted imaging, antibiogram use, and referral pathways for bone infections in India, emphasizing practical diagnostic sequences, local microbiology, and timely referral in resource-constrained settings.",
+  "learning_objectives": [
+    "Understand the role of resource-adapted imaging techniques like plain radiographs, ultrasound, and MRI in diagnosing bone infections in India.",
+    "Learn the criteria for early referral and management in district hospitals for pediatric bone infections.",
+    "Recognize the importance of local antibiograms and microbiology in guiding empiric therapy.",
+    "Identify key pathogens and resistance patterns relevant to bone infections in India."
+  ],
+  "key_facts": [
+    "Plain radiographs are the first-line imaging modality to exclude fractures, tumors, and bony destruction.",
+    "MRI is prioritized for uncertain diagnoses, pelvic or spinal disease, multifocal symptoms, abscesses, or preoperative mapping.",
+    "Referral is recommended if no clinical improvement occurs within 48 hours or if large collections or neurologic deficits are suspected.",
+    "Kingella kingae is likely underdetected in India due to insensitive isolation methods, while MRSA and skeletal TB are more prevalent.",
+    "Clindamycin use for staphylococcal infections requires inducible resistance testing when available."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Bone Infections",
+    "Pediatric Orthopedics",
+    "Diagnostic Imaging",
+    "Antibiotic Resistance",
+    "Referral and Consultation",
+    "India",
+    "Microbial Sensitivity Tests",
+    "Ultrasonography"
+  ],
+  "tags_custom": [
+    "Resource-constrained settings",
+    "Pediatric bone infections",
+    "Local antibiograms",
+    "Referral pathways",
+    "Imaging prioritization"
+  ],
+  "reference_quote": "Plain radiographs remain the first test because they are widely available and help exclude fracture, tumor, and established bony destruction. (Source: Indian Academy of Pediatrics Consensus Statement)",
+  "document_key_topics": [
+    "Resource-adapted imaging for bone infections",
+    "Local antibiogram and microbiology considerations",
+    "Referral criteria and pathways in resource-limited settings",
+    "Pathogen-specific resistance patterns in India"
+  ],
+  "chunk_heading": "BONE INFECTIONS;INDIA SPECIFIC OPERATIONAL AND REFERRAL CONSIDERATIONS;RESOURCE ADAPTED IMAGING ANTIBIOGRAM AND REFERRAL PATHWAYS;",
+  "topic": "BONE INFECTIONS",
+  "subtopic": "INDIA SPECIFIC OPERATIONAL AND REFERRAL CONSIDERATIONS",
+  "sub_subtopic": "RESOURCE ADAPTED IMAGING ANTIBIOGRAM AND REFERRAL PATHWAYS",
+  "heading_path": "BONE INFECTIONS;INDIA SPECIFIC OPERATIONAL AND REFERRAL CONSIDERATIONS;RESOURCE ADAPTED IMAGING ANTIBIOGRAM AND REFERRAL PATHWAYS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u00941"
+}

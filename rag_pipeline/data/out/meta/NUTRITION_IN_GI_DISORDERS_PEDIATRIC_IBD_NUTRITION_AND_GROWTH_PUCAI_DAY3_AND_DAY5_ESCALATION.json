@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "PUCAI scoring at day 3 and day 5 guides escalation in pediatric ulcerative colitis, emphasizing nutrition support and proactive management to prevent complications and malnutrition.",
+  "learning_objectives": [
+    "Understand the role of PUCAI scoring in guiding escalation decisions for pediatric ulcerative colitis.",
+    "Learn the nutritional strategies for managing malnutrition and electrolyte imbalances during acute severe colitis.",
+    "Identify key indications for enteral feeding and contraindications for nil by mouth in pediatric IBD patients.",
+    "Recognize the importance of proactive discharge planning to reduce relapse risk."
+  ],
+  "key_facts": [
+    "PUCAI scoring should be reassessed at day 3 and day 5 during intravenous steroid therapy to guide escalation decisions.",
+    "Lack of PUCAI improvement by day 3 signals high risk of steroid failure and need for rescue therapy planning.",
+    "Persistently high PUCAI scores by day 5 should prompt definitive action, such as rescue therapy or colectomy.",
+    "Enteral nutrition is recommended if oral intake is inadequate, malnutrition is present, or symptoms prevent sufficient intake.",
+    "Hypokalemia, hypomagnesemia, and hypophosphatemia should be monitored and treated proactively to prevent complications like ileus or colonic dilatation.",
+    "Avoid sudden calorie increases in severely undernourished patients to prevent refeeding syndrome."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Ulcerative Colitis",
+    "Pediatric Nutrition",
+    "Enteral Nutrition",
+    "Malabsorption Syndromes",
+    "Inflammatory Bowel Diseases",
+    "Electrolyte Imbalance",
+    "Refeeding Syndrome",
+    "Steroid Therapy"
+  ],
+  "tags_custom": [
+    "PUCAI scoring",
+    "pediatric IBD management",
+    "nutrition escalation",
+    "acute colitis complications",
+    "discharge planning"
+  ],
+  "reference_quote": "Lack of meaningful PUCAI improvement by day 3 signals high risk of steroid failure and should trigger early planning for rescue therapy, nutrition escalation, and surgical communication rather than 'wait and see.'",
+  "document_key_topics": [
+    "PUCAI scoring and escalation timing in pediatric ulcerative colitis",
+    "Nutrition strategies during acute severe colitis",
+    "Electrolyte monitoring and management in malnourished patients",
+    "Discharge planning to reduce relapse risk in pediatric IBD"
+  ],
+  "chunk_heading": "NUTRITION IN GI DISORDERS & MALABSORPTION;PEDIATRIC IBD NUTRITION AND GROWTH PRESERVATION;PUCAI DAY-3 AND DAY-5 ESCALATION WITH ENTERAL FEEDING IMPLICATIONS;",
+  "topic": "NUTRITION IN GI DISORDERS & MALABSORPTION",
+  "subtopic": "PEDIATRIC IBD NUTRITION AND GROWTH PRESERVATION",
+  "sub_subtopic": "PUCAI DAY-3 AND DAY-5 ESCALATION WITH ENTERAL FEEDING IMPLICATIONS",
+  "heading_path": "NUTRITION IN GI DISORDERS & MALABSORPTION;PEDIATRIC IBD NUTRITION AND GROWTH PRESERVATION;PUCAI DAY-3 AND DAY-5 ESCALATION WITH ENTERAL FEEDING IMPLICATIONS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2\u00838"
+}

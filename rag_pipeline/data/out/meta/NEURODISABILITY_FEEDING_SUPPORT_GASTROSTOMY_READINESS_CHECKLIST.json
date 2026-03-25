@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section outlines a gastrostomy readiness checklist and route selection for children with neurodisability and complex comorbidities, emphasizing risk mitigation, caregiver training, and contraindication screening to optimize outcomes.",
+  "learning_objectives": [
+    "Understand the indications for gastrostomy placement in neurodisability, including aspiration risk and caregiver burden.",
+    "Identify pre-procedure optimization targets such as respiratory infection treatment, reflux management, and constipation stabilization.",
+    "Recognize contraindications and practical thresholds for gastrostomy placement, including INR >1.5 and platelets <50,000/mm\u00b3.",
+    "Evaluate route selection considerations based on anatomy and comorbidities, including severe scoliosis and ventriculo-peritoneal shunts."
+  ],
+  "key_facts": [
+    "Indications for gastrostomy include unsafe swallowing, inefficient feeding, and unsustainable caregiver burden.",
+    "Absolute contraindications include frank peritonitis and uncorrectable coagulopathy; thresholds include INR >1.5 or platelets <50,000/mm\u00b3.",
+    "Pre-procedure optimization includes treating respiratory infections, stabilizing constipation, and addressing reflux and drooling.",
+    "Route selection may require imaging or laparoscopic assistance for severe scoliosis, portal hypertension, or ventriculo-peritoneal shunts.",
+    "Fundoplication should be reserved for refractory GERD after optimized medical and feeding management."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Neurodisability",
+    "Gastrostomy",
+    "Feeding and Eating Disorders",
+    "Aspiration Pneumonia",
+    "Caregiver Burden",
+    "Contraindications",
+    "Preoperative Care",
+    "Postoperative Complications"
+  ],
+  "tags_custom": [
+    "Gastrostomy readiness",
+    "Complex comorbidities",
+    "Feeding support",
+    "Risk mitigation",
+    "Caregiver training"
+  ],
+  "reference_quote": "\u2018Percutaneous endoscopic gastrostomy should be considered in children with unsafe swallowing or inefficient feeding, provided contraindications are addressed and caregiver readiness is confirmed.\u2019 (ESPGHAN Position Paper)",
+  "document_key_topics": [
+    "Gastrostomy readiness checklist",
+    "Route selection in complex comorbidities",
+    "Pre-procedure optimization targets",
+    "Contraindications and caregiver training"
+  ],
+  "chunk_heading": "NEURODISABILITY & FEEDING SUPPORT;GASTROSTOMY READINESS CHECKLIST AND ROUTE SELECTION IN COMPLEX COMORBIDITY;",
+  "topic": "NEURODISABILITY & FEEDING SUPPORT",
+  "subtopic": "GASTROSTOMY READINESS CHECKLIST AND ROUTE SELECTION IN COMPLEX COMORBIDITY",
+  "sub_subtopic": null,
+  "heading_path": "NEURODISABILITY & FEEDING SUPPORT;GASTROSTOMY READINESS CHECKLIST AND ROUTE SELECTION IN COMPLEX COMORBIDITY;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1y"
+}

@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section outlines a follow-up reminder system for tele-nutrition services, emphasizing missed-visit escalation, closed-loop verification, and standardized templates for reminders such as measurements, labs, and appointments.",
+  "learning_objectives": [
+    "Understand the workflow of follow-up reminder systems in tele-nutrition services.",
+    "Learn how to implement closed-loop verification for data review and escalation.",
+    "Familiarize with the use of standardized reminder templates for tele-nutrition follow-ups.",
+    "Explore WHO guidelines and telemedicine practices for digital health interventions."
+  ],
+  "key_facts": [
+    "The system requires three reminder templates: measurement due, lab due, and appointment due.",
+    "Staff must close the loop by recording 'data received and reviewed' or 'escalation initiated.'",
+    "Missed-visit escalation is a critical component of the workflow to ensure patient adherence.",
+    "Guidelines are aligned with WHO's digital health intervention recommendations (WHO, 2019).",
+    "The Telemedicine Practice Guidelines (2020) provide a framework for remote healthcare workflows."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Telemedicine",
+    "Nutrition Therapy",
+    "Reminder Systems",
+    "Patient Compliance",
+    "Health Information Systems",
+    "Digital Health",
+    "Workflow",
+    "Health Monitoring"
+  ],
+  "tags_custom": [
+    "tele-nutrition",
+    "follow-up system",
+    "missed-visit escalation",
+    "closed-loop verification",
+    "digital tools"
+  ],
+  "reference_quote": "WHO Guideline: recommendations on digital interventions for health system strengthening \u2014 'Digital tools can enhance patient follow-up and improve adherence to care plans.'",
+  "document_key_topics": [
+    "Follow-up reminder systems in tele-nutrition",
+    "Missed-visit escalation protocols",
+    "Closed-loop verification processes",
+    "Standardized templates for tele-nutrition workflows"
+  ],
+  "chunk_heading": "DIGITAL TOOLS & TELE-NUTRITION;END-TO-END TELE-NUTRITION SERVICE WORKFLOW, REGISTRIES, AND DASHBOARDS;FOLLOW-UP REMINDER SYSTEM WITH MISSED-VISIT ESCALATION AND CLOSED-LOOP VERIFICATION;",
+  "topic": "DIGITAL TOOLS & TELE-NUTRITION",
+  "subtopic": "END-TO-END TELE-NUTRITION SERVICE WORKFLOW, REGISTRIES, AND DASHBOARDS",
+  "sub_subtopic": "FOLLOW-UP REMINDER SYSTEM WITH MISSED-VISIT ESCALATION AND CLOSED-LOOP VERIFICATION",
+  "heading_path": "DIGITAL TOOLS & TELE-NUTRITION;END-TO-END TELE-NUTRITION SERVICE WORKFLOW, REGISTRIES, AND DASHBOARDS;FOLLOW-UP REMINDER SYSTEM WITH MISSED-VISIT ESCALATION AND CLOSED-LOOP VERIFICATION;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u00933.2"
+}

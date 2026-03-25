@@ -1,0 +1,47 @@
+{
+  "chunk_summary": "Loss-of-control eating is a critical comorbidity in obesity management requiring weight-neutral stabilization strategies and mental health evaluation to prevent binge cycles and distress.",
+  "learning_objectives": [
+    "Understand the clinical features and screening methods for loss-of-control (LOC) eating in children and adolescents.",
+    "Learn weight-neutral stabilization strategies for managing LOC eating and associated mood disorders.",
+    "Identify triggers and compensatory behaviors linked to LOC eating and their impact on obesity treatment outcomes."
+  ],
+  "key_facts": [
+    "Loss-of-control eating involves a subjective inability to stop eating, even if the amount consumed is not objectively large.",
+    "Screening should assess frequency (e.g., weekly vs. rare), triggers (e.g., stress, bullying), and compensatory behaviors (e.g., vomiting, laxatives).",
+    "LOC eating often co-occurs with mood disorders, weight stigma, and suicidality, requiring mental health evaluation.",
+    "Weight-neutral stabilization includes regular meals/snacks, sleep regulation, and psychotherapy (CBT or family-based interventions).",
+    "Avoid aggressive weight-loss messaging and restrictive diets, as these can amplify binge cycles.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Obesity",
+    "Eating Disorders",
+    "Binge Eating Disorder",
+    "Loss of Control Eating",
+    "Child Psychiatry",
+    "Cognitive Behavioral Therapy",
+    "Weight Management",
+    "Mental Health"
+  ],
+  "tags_custom": [
+    "LOC eating",
+    "weight-neutral strategies",
+    "pediatric obesity",
+    "psychotherapy interventions"
+  ],
+  "reference_quote": "Binge eating disorder in children and adolescents requires evidence-based psychotherapy such as CBT or family-based interventions. (NICE guideline NG69)",
+  "document_key_topics": [
+    "Loss-of-control eating in pediatric obesity",
+    "Weight-neutral stabilization strategies",
+    "Mental health evaluation in obesity management"
+  ],
+  "chunk_heading": "OVERNUTRITION & OBESITY MANAGEMENT;COMORBIDITY SCREENING WITH ACTIONABLE PATHWAYS;LOSS-OF-CONTROL EATING SCREENING AND WEIGHT- NEUTRAL STABILIZATION SEQUENCING;",
+  "topic": "OVERNUTRITION & OBESITY MANAGEMENT",
+  "subtopic": "COMORBIDITY SCREENING WITH ACTIONABLE PATHWAYS",
+  "sub_subtopic": "LOSS-OF-CONTROL EATING SCREENING AND WEIGHT- NEUTRAL STABILIZATION SEQUENCING",
+  "heading_path": "OVERNUTRITION & OBESITY MANAGEMENT;COMORBIDITY SCREENING WITH ACTIONABLE PATHWAYS;LOSS-OF-CONTROL EATING SCREENING AND WEIGHT- NEUTRAL STABILIZATION SEQUENCING;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1~16"
+}

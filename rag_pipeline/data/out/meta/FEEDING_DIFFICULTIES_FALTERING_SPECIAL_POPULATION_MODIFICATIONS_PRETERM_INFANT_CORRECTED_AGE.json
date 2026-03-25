@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Preterm infants require corrected age adjustments for feeding readiness and growth monitoring, emphasizing neurodevelopmental cues, gradual texture progression, and early referral for therapy in cases of persistent feeding difficulties.",
+  "learning_objectives": [
+    "Understand the importance of corrected age in assessing feeding readiness and growth in preterm infants.",
+    "Identify neurodevelopmental cues for complementary feeding initiation in preterm infants.",
+    "Recognize early referral triggers for feeding therapy in preterm infants with persistent difficulties.",
+    "Learn strategies to prevent feeding aversion and caregiver anxiety during texture progression."
+  ],
+  "key_facts": [
+    "Corrected age must be used for growth plotting and feeding readiness assessment in preterm infants.",
+    "Developmental cues for complementary feeding include good head control, ability to sit with support, and diminished tongue-thrust reflex.",
+    "Delays in introducing lumpy textures can reinforce feeding aversion; advancing too fast increases gagging risk.",
+    "Micronutrient prophylaxis (iron and vitamin D) should follow local policy for preterm infants.",
+    "Early referral is recommended for persistent choking, prolonged feeds, or caregiver exhaustion due to higher aspiration and growth failure risks.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Feeding Behavior",
+    "Infant, Premature",
+    "Growth Disorders",
+    "Oral Motor Function",
+    "Complementary Feeding",
+    "Micronutrients",
+    "Respiratory Disorders",
+    "Speech-Language Pathology"
+  ],
+  "tags_custom": [
+    "corrected age feeding",
+    "preterm infant care",
+    "feeding therapy triggers",
+    "texture progression strategies",
+    "caregiver support"
+  ],
+  "reference_quote": "Use corrected age when plotting weight and length/height and when judging readiness for textures and meal frequency. (WHO child growth standards)",
+  "document_key_topics": [
+    "Corrected age feeding readiness in preterm infants",
+    "Neurodevelopmental cues for complementary feeding",
+    "Early referral triggers for feeding therapy"
+  ],
+  "chunk_heading": "FEEDING DIFFICULTIES & FALTERING GROWTH;SPECIAL POPULATION MODIFICATIONS AND EARLY REFERRAL TRIGGERS;PRETERM INFANT CORRECTED AGE FEEDING READINESS;",
+  "topic": "FEEDING DIFFICULTIES & FALTERING GROWTH",
+  "subtopic": "SPECIAL POPULATION MODIFICATIONS AND EARLY REFERRAL TRIGGERS",
+  "sub_subtopic": "PRETERM INFANT CORRECTED AGE FEEDING READINESS",
+  "heading_path": "FEEDING DIFFICULTIES & FALTERING GROWTH;SPECIAL POPULATION MODIFICATIONS AND EARLY REFERRAL TRIGGERS;PRETERM INFANT CORRECTED AGE FEEDING READINESS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2y3"
+}

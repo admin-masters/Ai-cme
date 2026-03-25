@@ -1,0 +1,47 @@
+{
+  "chunk_summary": "This section outlines stabilization protocols for managing hypoglycemia, hypothermia, and dehydration in children with complicated severe acute malnutrition (SAM) in facility-based care settings, emphasizing immediate interventions and monitoring to prevent fatal outcomes.",
+  "learning_objectives": [
+    "Understand the criteria for admitting children with complicated SAM to specialized care facilities.",
+    "Learn the step-by-step protocols for managing hypoglycemia, hypothermia, and dehydration in children with SAM.",
+    "Recognize the importance of monitoring and reassessment during stabilization to prevent complications.",
+    "Familiarize with specific dosages and methods for administering glucose, ORS, and other supportive care."
+  ],
+  "key_facts": [
+    "Hypoglycemia is suspected if blood glucose is <54 mg/dL or if the child is cold, lethargic, or has had a long fast.",
+    "For hypoglycemia, give 50 mL of 10% glucose or sucrose solution orally, or 5 mL/kg IV 10% glucose if the child is lethargic or unconscious.",
+    "Hypothermia management includes skin-to-skin contact, warm blankets, and warm humidified oxygen; avoid hot water bottles due to burn risk.",
+    "Dehydration without shock is managed with reduced-osmolarity ORS in small frequent doses (e.g., 5 mL/kg every 30 minutes for 2 hours).",
+    "Shock is rare and diagnosed with strict criteria: lethargy/unconsciousness, cold hands, capillary refill >3 seconds, or weak/fast pulse."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Severe Acute Malnutrition",
+    "Hypoglycemia",
+    "Hypothermia",
+    "Dehydration",
+    "Pediatric Nutrition",
+    "Rehydration Solutions",
+    "Shock",
+    "Critical Care"
+  ],
+  "tags_custom": [
+    "SAM stabilization",
+    "pediatric emergency care",
+    "nutritional rehabilitation",
+    "facility-based care"
+  ],
+  "reference_quote": "Complicated SAM requires protocolized stabilization because hypoglycemia, hypothermia, and fluid overload can kill before 'full clerking.'",
+  "document_key_topics": [
+    "Stabilization of hypoglycemia in SAM",
+    "Management of hypothermia in pediatric SAM",
+    "Oral-first dehydration protocols for SAM"
+  ],
+  "chunk_heading": "PUBLIC HEALTH & COMMUNITY PEDIATRIC NUTRITION;FACILITY MANAGEMENT OF COMPLICATED SAM AND DISCHARGE PLANNING;STABILIZATION HYPOGLYCEMIA HYPOTHERMIA AND DEHYDRATION PROTOCOLS;",
+  "topic": "PUBLIC HEALTH & COMMUNITY PEDIATRIC NUTRITION",
+  "subtopic": "FACILITY MANAGEMENT OF COMPLICATED SAM AND DISCHARGE PLANNING",
+  "sub_subtopic": "STABILIZATION HYPOGLYCEMIA HYPOTHERMIA AND DEHYDRATION PROTOCOLS",
+  "heading_path": "PUBLIC HEALTH & COMMUNITY PEDIATRIC NUTRITION;FACILITY MANAGEMENT OF COMPLICATED SAM AND DISCHARGE PLANNING;STABILIZATION HYPOGLYCEMIA HYPOTHERMIA AND DEHYDRATION PROTOCOLS;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1\u007f1"
+}

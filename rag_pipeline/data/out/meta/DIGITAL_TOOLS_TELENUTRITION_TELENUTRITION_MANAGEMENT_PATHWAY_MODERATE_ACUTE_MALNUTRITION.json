@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Tele-nutrition supports moderate acute malnutrition rehabilitation for clinically stable children aged 6\u201359 months without danger signs, focusing on local foods, structured follow-ups, and escalation protocols for non-response.",
+  "learning_objectives": [
+    "Understand the criteria for moderate acute malnutrition in children aged 6\u201359 months.",
+    "Learn tele-nutrition strategies for meal planning and energy-dense food integration.",
+    "Identify follow-up protocols and escalation criteria for non-responsive cases.",
+    "Explore the role of community services in supplementary nutrition linkage."
+  ],
+  "key_facts": [
+    "Moderate acute malnutrition is defined as weight-for-height between -3 and -2 z-scores and/or MUAC \u2265115 mm and <125 mm for children aged 6\u201359 months.",
+    "Tele-rehabilitation is appropriate for children who are active, feeding, and without oedema or systemic danger signs.",
+    "Follow-up includes weekly weight and MUAC checks, with a 2-week checkpoint for progress assessment.",
+    "Non-response is classified if recovery is not achieved within four months despite interventions.",
+    "Structured meal plans should include culturally acceptable, energy-dense foods like oil, ghee, nut paste, milk, curd, eggs, and legumes."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Telemedicine",
+    "Malnutrition",
+    "Child Nutrition Disorders",
+    "Rehabilitation",
+    "Nutritional Support",
+    "Community Health Services",
+    "Anthropometry",
+    "Diet Therapy"
+  ],
+  "tags_custom": [
+    "tele-nutrition",
+    "moderate malnutrition",
+    "rehabilitation pathway",
+    "meal planning",
+    "follow-up protocols"
+  ],
+  "reference_quote": "Baseline triage determines whether tele-only rehabilitation is appropriate. Tele-only support is reasonable when the child is active, feeding, without oedema, and without systemic danger signs. (Source: WHO, 9789240082830)",
+  "document_key_topics": [
+    "Tele-nutrition for moderate acute malnutrition",
+    "Criteria for tele-rehabilitation eligibility",
+    "Structured meal planning for malnourished children",
+    "Follow-up and escalation protocols for non-response"
+  ],
+  "chunk_heading": "DIGITAL TOOLS & TELE-NUTRITION;TELE-NUTRITION MANAGEMENT PATHWAY FOR ACUTE MALNUTRITION;MODERATE ACUTE MALNUTRITION TELE-REHABILITATION WITHOUT DANGER SIGNS;",
+  "topic": "DIGITAL TOOLS & TELE-NUTRITION",
+  "subtopic": "TELE-NUTRITION MANAGEMENT PATHWAY FOR ACUTE MALNUTRITION",
+  "sub_subtopic": "MODERATE ACUTE MALNUTRITION TELE-REHABILITATION WITHOUT DANGER SIGNS",
+  "heading_path": "DIGITAL TOOLS & TELE-NUTRITION;TELE-NUTRITION MANAGEMENT PATHWAY FOR ACUTE MALNUTRITION;MODERATE ACUTE MALNUTRITION TELE-REHABILITATION WITHOUT DANGER SIGNS;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1|1"
+}

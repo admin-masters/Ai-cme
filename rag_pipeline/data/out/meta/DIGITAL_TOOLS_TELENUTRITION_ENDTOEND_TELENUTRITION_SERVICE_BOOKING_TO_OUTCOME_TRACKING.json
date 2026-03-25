@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "This section outlines a structured tele-nutrition workflow from booking to outcome tracking, emphasizing responsibility handoffs, risk stratification, and registry-based follow-ups for high-risk cases.",
+  "learning_objectives": [
+    "Understand the stepwise workflow for tele-nutrition services, including booking, data collection, and follow-up.",
+    "Learn how to classify cases into risk tiers and define response targets based on clinical thresholds.",
+    "Explore the role of registries in tracking outcomes and prioritizing high-risk cases.",
+    "Identify key safety-netting measures for high-risk pediatric nutrition cases."
+  ],
+  "key_facts": [
+    "The workflow includes six steps: booking, data collection, clinician review, plan delivery, follow-up reminders, and registry updates.",
+    "Step 1 involves consent capture, pathway assignment (e.g., undernutrition, obesity, anemia), and guardian authorization for minors.",
+    "High-risk cases, such as suspected SAM with danger signs or severe anemia, should default to referral and safety-netting.",
+    "Step 5 mandates weekly registry reviews to prioritize overdue high-risk children and track escalation triggers.",
+    "Structured plans should be caregiver-usable, combining text and voice notes for low-literacy populations."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Telemedicine",
+    "Nutrition Disorders",
+    "Pediatric Nutrition",
+    "Risk Assessment",
+    "Patient Care Planning",
+    "Health Records, Personal",
+    "Remote Consultation",
+    "Health Services Accessibility"
+  ],
+  "tags_custom": [
+    "tele-nutrition workflow",
+    "pediatric malnutrition",
+    "clinical decision-making",
+    "caregiver education"
+  ],
+  "reference_quote": "A tele-nutrition service should be designed as an operational pipeline with responsibility handoffs and audit points, not as a single video call.",
+  "document_key_topics": [
+    "Tele-nutrition service workflow",
+    "Risk stratification and safety-netting",
+    "Registry-based follow-up and tracking",
+    "Caregiver education and engagement"
+  ],
+  "chunk_heading": "DIGITAL TOOLS & TELE-NUTRITION;END-TO-END TELE-NUTRITION SERVICE WORKFLOW, REGISTRIES, AND DASHBOARDS;BOOKING TO OUTCOME TRACKING WORKFLOW WITH RESPONSIBILITY HANDOFFS;",
+  "topic": "DIGITAL TOOLS & TELE-NUTRITION",
+  "subtopic": "END-TO-END TELE-NUTRITION SERVICE WORKFLOW, REGISTRIES, AND DASHBOARDS",
+  "sub_subtopic": "BOOKING TO OUTCOME TRACKING WORKFLOW WITH RESPONSIBILITY HANDOFFS",
+  "heading_path": "DIGITAL TOOLS & TELE-NUTRITION;END-TO-END TELE-NUTRITION SERVICE WORKFLOW, REGISTRIES, AND DASHBOARDS;BOOKING TO OUTCOME TRACKING WORKFLOW WITH RESPONSIBILITY HANDOFFS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u00911"
+}

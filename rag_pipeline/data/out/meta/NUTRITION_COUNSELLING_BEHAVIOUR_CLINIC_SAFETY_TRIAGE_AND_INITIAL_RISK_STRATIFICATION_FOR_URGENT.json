@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "Risk stratification in pediatric nutrition focuses on identifying urgent stabilization needs through danger signs, complications, and anthropometric assessments, followed by appropriate referral or outpatient care planning.",
+  "learning_objectives": [
+    "Understand the criteria for urgent stabilization and referral in pediatric nutrition triage.",
+    "Learn to identify danger signs and complications requiring same-day escalation.",
+    "Apply anthropometric assessments to classify malnutrition severity and decide care settings.",
+    "Screen adolescents for restrictive eating disorders and refeeding risks."
+  ],
+  "key_facts": [
+    "Danger signs include lethargy, hypothermia, persistent vomiting, shock, severe dehydration, and respiratory distress.",
+    "Visible severe wasting requires severity classification and complication screening, not automatic referral.",
+    "Uncomplicated malnutrition can be managed outpatient if the child is alert, stable, and passes an appetite test.",
+    "Adolescents with rapid weight loss or very low intake for days should be flagged for refeeding risk.",
+    "Anthropometric SAM diagnosis requires validated weight and height measurements plotted on age/sex charts.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Malnutrition",
+    "Pediatric Nutrition",
+    "Risk Assessment",
+    "Anthropometry",
+    "Growth Disorders",
+    "Eating Disorders",
+    "Referral and Consultation",
+    "Refeeding Syndrome"
+  ],
+  "tags_custom": [
+    "nutrition triage",
+    "urgent stabilization",
+    "adolescent screening",
+    "SAM management",
+    "complication screening"
+  ],
+  "reference_quote": "Same-day escalation is required for danger signs such as lethargy, hypothermia, persistent vomiting, shock, severe dehydration, or respiratory distress. (NICE NG75)",
+  "document_key_topics": [
+    "Risk stratification for urgent stabilization in pediatric nutrition",
+    "Danger signs and complications requiring immediate referral",
+    "Anthropometric assessments for malnutrition classification",
+    "Adolescent screening for eating disorders and refeeding risks"
+  ],
+  "chunk_heading": "NUTRITION COUNSELLING & BEHAVIOUR CHANGE SKILLS;CLINIC SAFETY TRIAGE AND INITIAL ASSESSMENT;RISK STRATIFICATION FOR URGENT STABILIZATION AND REFERRAL;",
+  "topic": "NUTRITION COUNSELLING & BEHAVIOUR CHANGE SKILLS",
+  "subtopic": "CLINIC SAFETY TRIAGE AND INITIAL ASSESSMENT",
+  "sub_subtopic": "RISK STRATIFICATION FOR URGENT STABILIZATION AND REFERRAL",
+  "heading_path": "NUTRITION COUNSELLING & BEHAVIOUR CHANGE SKILLS;CLINIC SAFETY TRIAGE AND INITIAL ASSESSMENT;RISK STRATIFICATION FOR URGENT STABILIZATION AND REFERRAL;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1b1"
+}

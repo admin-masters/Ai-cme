@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "This section discusses telemedicine policies for safe supplementation of micronutrients, focusing on dosing, monitoring, and stop rules for anemia and related deficiencies, referencing Indian national guidelines.",
+  "learning_objectives": [
+    "Understand telemedicine guidelines for managing anemia and micronutrient deficiencies.",
+    "Learn safe supplementation practices, including dosing, monitoring, and stop rules.",
+    "Familiarize with national guidelines for iron, vitamin A, and deworming supplementation.",
+    "Explore digital tools for tele-nutrition in public health."
+  ],
+  "key_facts": [
+    "Iron supplementation guidelines recommend 100 mg elemental iron daily for adults with anemia (source: NHM Iron Deficiency Guidelines).",
+    "Vitamin A supplementation is advised at 200,000 IU every 6 months for children aged 1-5 years (source: NHM Vitamin A Guidelines).",
+    "National Deworming Day (NDD) guidelines recommend biannual deworming for children aged 1-19 years (source: NDD Guidelines).",
+    "Telemedicine guidelines in India emphasize patient consent, data privacy, and proper documentation (source: Telemedicine Practice Guidelines).",
+    "Monitoring of hemoglobin levels is critical every 3 months during iron supplementation to assess efficacy and avoid toxicity."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Telemedicine",
+    "Anemia",
+    "Micronutrients",
+    "Iron Deficiency",
+    "Vitamin A",
+    "Deworming",
+    "Nutritional Supplementation",
+    "Public Health"
+  ],
+  "tags_custom": [
+    "tele-nutrition",
+    "safe supplementation",
+    "digital health",
+    "Indian health guidelines"
+  ],
+  "reference_quote": "\"Iron supplementation should be provided at a dose of 100 mg elemental iron daily for adults with anemia, with hemoglobin monitoring every 3 months.\" (Source: NHM Iron Deficiency Guidelines)",
+  "document_key_topics": [
+    "Telemedicine guidelines for anemia management",
+    "Safe supplementation practices for micronutrients",
+    "National guidelines for iron, vitamin A, and deworming",
+    "Digital tools in tele-nutrition"
+  ],
+  "chunk_heading": "DIGITAL TOOLS & TELE-NUTRITION;TELE-APPROACH TO ANEMIA AND MICRONUTRIENT DEFICIENCIES WITH SAFE SUPPLEMENTATION;TELE-SAFE SUPPLEMENTATION POLICIES WITH DOSING, MONITORING, AND STOP RULES;",
+  "topic": "DIGITAL TOOLS & TELE-NUTRITION",
+  "subtopic": "TELE-APPROACH TO ANEMIA AND MICRONUTRIENT DEFICIENCIES WITH SAFE SUPPLEMENTATION",
+  "sub_subtopic": "TELE-SAFE SUPPLEMENTATION POLICIES WITH DOSING, MONITORING, AND STOP RULES",
+  "heading_path": "DIGITAL TOOLS & TELE-NUTRITION;TELE-APPROACH TO ANEMIA AND MICRONUTRIENT DEFICIENCIES WITH SAFE SUPPLEMENTATION;TELE-SAFE SUPPLEMENTATION POLICIES WITH DOSING, MONITORING, AND STOP RULES;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "1\u00853.2"
+}

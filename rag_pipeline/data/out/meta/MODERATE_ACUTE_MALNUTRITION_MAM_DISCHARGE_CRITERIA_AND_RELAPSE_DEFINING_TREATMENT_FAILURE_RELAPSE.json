@@ -1,0 +1,47 @@
+{
+  "chunk_summary": "Defines treatment failure, relapse, and post-recovery monitoring for moderate acute malnutrition (MAM), emphasizing structured follow-up, operational audits, and graduated monitoring schedules to prevent recurrence and ensure recovery.",
+  "learning_objectives": [
+    "Understand criteria for early failure and non-response in MAM treatment.",
+    "Learn operational definitions of relapse and thresholds for referral in MAM management.",
+    "Explore post-recovery monitoring strategies to prevent recurrence of malnutrition."
+  ],
+  "key_facts": [
+    "Early failure is defined as clinical deterioration or anthropometric worsening within 1\u20132 weeks of treatment initiation.",
+    "Non-response is identified after 2 structured follow-up visits (2\u20134 weeks) with no improvement in appetite, feeding behavior, or anthropometric trajectory.",
+    "Persistent non-response by 8 weeks is a practical threshold for referral to higher facilities in Indian protocols.",
+    "Relapse is defined as re-eligibility for MAM criteria within 2 months of discharge, including MUAC 115\u2013124 mm or WHZ/WLZ -3 to -2.",
+    "Post-recovery monitoring should align with service touchpoints and include graduated schedules."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Malnutrition",
+    "Nutritional Support",
+    "Anthropometry",
+    "Child Nutrition Disorders",
+    "Monitoring, Physiologic",
+    "Food Security",
+    "Recurrence",
+    "India"
+  ],
+  "tags_custom": [
+    "MAM relapse prevention",
+    "post-recovery monitoring",
+    "treatment failure criteria",
+    "Indian malnutrition protocols",
+    "structured follow-up"
+  ],
+  "reference_quote": "Relapse is clinically meaningful because it signals unresolved household food insecurity, recurrent infection burden, or unaddressed comorbidity. Indian facility-based malnutrition guidance defines relapse operationally as re-eligibility within about 2 months after cure.",
+  "document_key_topics": [
+    "Treatment failure criteria in MAM",
+    "Relapse prevention and operational definitions",
+    "Post-recovery monitoring strategies"
+  ],
+  "chunk_heading": "MODERATE ACUTE MALNUTRITION (MAM) AND SUPPLEMENTARY FEEDING;DISCHARGE CRITERIA AND RELAPSE PREVENTION AFTER RECOVERY;DEFINING TREATMENT FAILURE RELAPSE AND POST-RECOVERY MONITORING;",
+  "topic": "MODERATE ACUTE MALNUTRITION (MAM) AND SUPPLEMENTARY FEEDING",
+  "subtopic": "DISCHARGE CRITERIA AND RELAPSE PREVENTION AFTER RECOVERY",
+  "sub_subtopic": "DEFINING TREATMENT FAILURE RELAPSE AND POST-RECOVERY MONITORING",
+  "heading_path": "MODERATE ACUTE MALNUTRITION (MAM) AND SUPPLEMENTARY FEEDING;DISCHARGE CRITERIA AND RELAPSE PREVENTION AFTER RECOVERY;DEFINING TREATMENT FAILURE RELAPSE AND POST-RECOVERY MONITORING;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "3r2"
+}

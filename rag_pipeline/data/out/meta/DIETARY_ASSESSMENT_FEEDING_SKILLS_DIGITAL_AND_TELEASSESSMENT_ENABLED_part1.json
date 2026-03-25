@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section explores digital and teleassessment tools for dietary evaluation, emphasizing their role in health system strengthening, anemia management, and malnutrition tracking.",
+  "learning_objectives": [
+    "Understand the role of digital tools in dietary assessment and feeding skills evaluation.",
+    "Evaluate the effectiveness of teleassessment methods in addressing malnutrition and anemia.",
+    "Analyze the use of digital food frequency questionnaires validated against 24-hour recalls.",
+    "Explore global and regional progress in leveraging data for nutrition program improvements."
+  ],
+  "key_facts": [
+    "Digital interventions are recommended by WHO for health system strengthening (WHO, 2019).",
+    "A digital food frequency questionnaire was validated using 24-hour recalls as a reference method (PMC10882527).",
+    "Anemia-focused digital interventions have been analyzed for their landscape and impact (PATH report).",
+    "India's progress in addressing malnutrition is tracked using data-driven approaches (DataDENT POSHA report).",
+    "Teleassessment tools can enhance dietary evaluation in remote or underserved areas."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Dietary Assessment",
+    "Telemedicine",
+    "Nutrition Surveys",
+    "Anemia",
+    "Malnutrition",
+    "Health System Strengthening",
+    "Digital Health",
+    "Food Frequency Questionnaires"
+  ],
+  "tags_custom": [
+    "Digital dietary tools",
+    "Teleassessment methods",
+    "Nutrition data tracking",
+    "Anemia interventions",
+    "Malnutrition evaluation"
+  ],
+  "reference_quote": "Recommendations on digital interventions for health system strengthening (WHO, 2019).",
+  "document_key_topics": [
+    "Digital dietary assessment tools",
+    "Teleassessment for feeding skills evaluation",
+    "Anemia and malnutrition interventions",
+    "Data-driven nutrition program tracking"
+  ],
+  "chunk_heading": "DIETARY ASSESSMENT & FEEDING SKILLS EVALUATION;DIGITAL AND TELEASSESSMENT ENABLED DIETARY EVALUATION;",
+  "topic": "DIETARY ASSESSMENT & FEEDING SKILLS EVALUATION",
+  "subtopic": "DIGITAL AND TELEASSESSMENT ENABLED DIETARY EVALUATION",
+  "sub_subtopic": null,
+  "heading_path": "DIETARY ASSESSMENT & FEEDING SKILLS EVALUATION;DIGITAL AND TELEASSESSMENT ENABLED DIETARY EVALUATION;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1n.2"
+}

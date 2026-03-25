@@ -1,0 +1,45 @@
+{
+  "chunk_summary": "This section outlines a clinic workflow for assessing and managing vegetarian diets in children, focusing on growth, protein intake, and micronutrient risks, with practical follow-up strategies and red flag identification.",
+  "learning_objectives": [
+    "Understand how to classify vegetarian dietary patterns and assess their impact on growth and nutrition.",
+    "Learn to identify and address high-risk micronutrient deficiencies in vegetarian children.",
+    "Develop practical follow-up plans based on dietary history and clinical red flags."
+  ],
+  "key_facts": [
+    "Classify vegetarian patterns as lacto-vegetarian, lacto-ovo vegetarian, or vegan, and assess daily versus periodic restrictions (e.g., fasting days).",
+    "Anchor assessments in three outcomes: growth trajectory, daily protein intake, and exposure to high-risk micronutrients (e.g., vitamin B12, iron, calcium, vitamin D, zinc, iodine).",
+    "Excess milk intake in toddlers displaces iron- and protein-rich foods, increasing the risk of iron deficiency anemia (IDA).",
+    "For infants, watery meals like 'dal water/rice water' are a common failure mode and should be avoided.",
+    "Red flags requiring urgent referral include lethargy, syncope, seizures, severe pallor, neuroregression, and edema."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Vegetarian Diet",
+    "Child Nutrition Disorders",
+    "Micronutrients",
+    "Iron-Deficiency Anemia",
+    "Dietary Proteins",
+    "Growth and Development",
+    "Dietary Assessment",
+    "Pediatric Nutrition"
+  ],
+  "tags_custom": [
+    "vegetarian feeding patterns",
+    "pediatric dietary counseling",
+    "nutritional deficiencies"
+  ],
+  "reference_quote": "Excess milk displaces iron- and protein-containing foods and increases IDA risk; plan an explicit cap when intake is high. (Source: IAP Parental Guideline: Complementary Feeding)",
+  "document_key_topics": [
+    "Vegetarian dietary patterns and classifications",
+    "Nutritional assessment and follow-up in children",
+    "High-risk micronutrient deficiencies and red flags"
+  ],
+  "chunk_heading": "VEGETARIAN & REGIONAL FEEDING PATTERNS;CLINIC WORKFLOW FOR VEGETARIAN DIET ASSESSMENT AND FOLLOW-UP;",
+  "topic": "VEGETARIAN & REGIONAL FEEDING PATTERNS",
+  "subtopic": "CLINIC WORKFLOW FOR VEGETARIAN DIET ASSESSMENT AND FOLLOW-UP",
+  "sub_subtopic": null,
+  "heading_path": "VEGETARIAN & REGIONAL FEEDING PATTERNS;CLINIC WORKFLOW FOR VEGETARIAN DIET ASSESSMENT AND FOLLOW-UP;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1b"
+}

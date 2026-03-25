@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Strategies to prevent calorie deficits from NPO interruptions in children with chronic cardiorespiratory disease focus on proactive feeding plans, catch-up methods, and early supplemental PN during high-risk periods.",
+  "learning_objectives": [
+    "Understand the impact of prolonged NPO orders on malnutrition in children with chronic cardiopulmonary disease.",
+    "Learn operational strategies to restart feeds and prevent calorie deficits after interruptions.",
+    "Evaluate the role of early supplemental parenteral nutrition (PN) in high-risk scenarios.",
+    "Recognize the benefits of standardized feeding algorithms in neonatal CHD programs."
+  ],
+  "key_facts": [
+    "Prolonged or repeated NPO orders are a preventable cause of malnutrition, especially in perioperative CHD care.",
+    "Deficits accrue quickly; nutrition plans must include interruption strategies, such as bolus feeding, density increases, or nocturnal enteral runs.",
+    "Early supplemental PN is recommended if interruptions result in <75% caloric needs for several days.",
+    "Standardized feeding algorithms improve energy adequacy and reduce ambiguity in neonatal CHD programs.",
+    "In resource-limited settings, explicit feeding orders are critical for safety and efficiency."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Cardiopulmonary Disease",
+    "Malnutrition",
+    "Enteral Nutrition",
+    "Parenteral Nutrition",
+    "Congenital Heart Disease",
+    "Postoperative Care",
+    "Feeding Behavior",
+    "Nutritional Support"
+  ],
+  "tags_custom": [
+    "NPO interruptions",
+    "feeding algorithms",
+    "perioperative nutrition",
+    "pediatric cardiology",
+    "nutrition planning"
+  ],
+  "reference_quote": "Standardized feeding algorithms in neonatal CHD programs have been associated with earlier initiation and improved energy adequacy, largely because they reduce ambiguity about when to start, when to hold, and who is authorized to advance feeds. (Source: Pediatric Cardiac Intensive Care Society)",
+  "document_key_topics": [
+    "Impact of NPO interruptions on nutrition in chronic cardiorespiratory disease",
+    "Operational strategies to prevent calorie deficits",
+    "Role of supplemental parenteral nutrition in high-risk scenarios",
+    "Benefits of standardized feeding algorithms in neonatal CHD care"
+  ],
+  "chunk_heading": "NUTRITION IN CHRONIC CARDIORESPIRATORY DISEASE;SAFE INITIATION OF FEEDING DURING CARDIORESPIRATORY INSTABILITY;PREVENTING IATROGENIC CALORIE DEFICITS FROM NPO INTERRUPTIONS;",
+  "topic": "NUTRITION IN CHRONIC CARDIORESPIRATORY DISEASE",
+  "subtopic": "SAFE INITIATION OF FEEDING DURING CARDIORESPIRATORY INSTABILITY",
+  "sub_subtopic": "PREVENTING IATROGENIC CALORIE DEFICITS FROM NPO INTERRUPTIONS",
+  "heading_path": "NUTRITION IN CHRONIC CARDIORESPIRATORY DISEASE;SAFE INITIATION OF FEEDING DURING CARDIORESPIRATORY INSTABILITY;PREVENTING IATROGENIC CALORIE DEFICITS FROM NPO INTERRUPTIONS;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1n2"
+}

@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Guidelines for accurate recumbent length and standing height measurements to minimize errors in malnutrition classification, emphasizing repeat rules and proper positioning techniques.",
+  "learning_objectives": [
+    "Understand the importance of accurate anthropometric measurements in malnutrition classification.",
+    "Learn the correct procedures for measuring recumbent length using an infantometer.",
+    "Master the standing height measurement protocol using a stadiometer.",
+    "Recognize when to defer length/height measurements and apply alternative triage criteria."
+  ],
+  "key_facts": [
+    "Errors in length/height measurements can shift z-scores across critical -2 or -3 SD cutoffs for wasting and stunting.",
+    "Recumbent length requires a rigid length board, two trained measurers, and measurements to the nearest 0.1 cm.",
+    "Repeat measurements if discrepancies exceed 1 cm; reposition and remeasure until closest agreement is achieved.",
+    "Standing height requires a stadiometer, proper positioning (heels together, knees straight, head in Frankfort plane), and rechecks for slouching or bending.",
+    "Do not interchange length and height without noting the method; apply consistent adjustments if substitution is necessary."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Malnutrition",
+    "Anthropometry",
+    "Growth Disorders",
+    "Child Nutrition Disorders",
+    "Body Height",
+    "Body Length",
+    "Nutrition Assessment",
+    "Stunting"
+  ],
+  "tags_custom": [
+    "Anthropometric SOP",
+    "Height Measurement",
+    "Length Measurement",
+    "Malnutrition Screening",
+    "Pediatric Nutrition"
+  ],
+  "reference_quote": "Length/height is the most common point of failure in nutrition classification because small errors shift both wasting and stunting z-scores across -2 or -3 SD cutoffs. (WHO Child Growth Standards)",
+  "document_key_topics": [
+    "Reliable anthropometric measurement techniques",
+    "Recumbent length and standing height protocols",
+    "Impact of measurement errors on malnutrition classification",
+    "Alternative triage criteria for deferred measurements"
+  ],
+  "chunk_heading": "MALNUTRITION\u2014UNDERNUTRITION: SCREENING & CLASSIFICATION;CLINIC STANDARD OPERATING PROCEDURE FOR RELIABLE ANTHROPOMETRY;RECUMBENT LENGTH AND STANDING HEIGHT REPEAT RULES;",
+  "topic": "MALNUTRITION\u2014UNDERNUTRITION: SCREENING & CLASSIFICATION",
+  "subtopic": "CLINIC STANDARD OPERATING PROCEDURE FOR RELIABLE ANTHROPOMETRY",
+  "sub_subtopic": "RECUMBENT LENGTH AND STANDING HEIGHT REPEAT RULES",
+  "heading_path": "MALNUTRITION\u2014UNDERNUTRITION: SCREENING & CLASSIFICATION;CLINIC STANDARD OPERATING PROCEDURE FOR RELIABLE ANTHROPOMETRY;RECUMBENT LENGTH AND STANDING HEIGHT REPEAT RULES;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2j1"
+}

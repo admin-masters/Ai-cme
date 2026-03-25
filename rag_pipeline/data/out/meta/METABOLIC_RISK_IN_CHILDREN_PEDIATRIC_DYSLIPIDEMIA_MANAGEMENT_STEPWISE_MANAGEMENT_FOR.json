@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Stepwise management of pediatric hypertriglyceridemia focuses on lifestyle changes, lipid panel monitoring, and specialist referral for severe cases to reduce metabolic risk and prevent complications like pancreatitis.",
+  "learning_objectives": [
+    "Understand fasting triglyceride thresholds for pediatric hypertriglyceridemia management.",
+    "Learn stepwise interventions for triglyceride levels ranging from mild to severe elevations.",
+    "Recognize when to refer pediatric patients to lipid specialists for advanced care.",
+    "Identify secondary drivers and complications of severe hypertriglyceridemia, including pancreatitis."
+  ],
+  "key_facts": [
+    "Mild-to-moderate hypertriglyceridemia: Ages 10\u201319 triglycerides 130\u2013199 mg/dL; ages 0\u20139 triglycerides 100\u2013199 mg/dL.",
+    "Triglycerides 200\u2013499 mg/dL: Target both triglycerides and non-HDL-C (<145 mg/dL).",
+    "Triglycerides \u2265500 mg/dL: Prioritize pancreatitis risk management and specialist involvement.",
+    "Triglycerides \u22651,000 mg/dL or abdominal pain with vomiting: Urgent evaluation for pancreatitis and hospital care required.",
+    "Omega-3 supplementation (fish oil) may be considered if non-HDL-C remains \u2265145 mg/dL after lifestyle interventions."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Hypertriglyceridemia",
+    "Non-HDL Cholesterol",
+    "Pediatric Dyslipidemia",
+    "Cardiovascular Risk",
+    "Pancreatitis",
+    "Omega-3 Fatty Acids",
+    "Lifestyle Modification",
+    "Diet Therapy"
+  ],
+  "tags_custom": [
+    "pediatric lipid management",
+    "triglyceride thresholds",
+    "specialist referral",
+    "pancreatitis prevention",
+    "dietary intervention"
+  ],
+  "reference_quote": "The NHLBI algorithm recommends stepping from CHILD-1 to the triglyceride-focused CHILD-2-TG pattern and pairing this with weight management.",
+  "document_key_topics": [
+    "Pediatric hypertriglyceridemia thresholds and management",
+    "Lifestyle interventions for dyslipidemia in children",
+    "Specialist referral for severe triglyceride elevations",
+    "Pancreatitis risk and urgent care in extreme cases"
+  ],
+  "chunk_heading": "METABOLIC RISK IN CHILDREN;PEDIATRIC DYSLIPIDEMIA MANAGEMENT FOR METABOLIC RISK;STEPWISE MANAGEMENT FOR HYPERTRIGLYCERIDEMIA AND NON HDL TARGETS;",
+  "topic": "METABOLIC RISK IN CHILDREN",
+  "subtopic": "PEDIATRIC DYSLIPIDEMIA MANAGEMENT FOR METABOLIC RISK",
+  "sub_subtopic": "STEPWISE MANAGEMENT FOR HYPERTRIGLYCERIDEMIA AND NON HDL TARGETS",
+  "heading_path": "METABOLIC RISK IN CHILDREN;PEDIATRIC DYSLIPIDEMIA MANAGEMENT FOR METABOLIC RISK;STEPWISE MANAGEMENT FOR HYPERTRIGLYCERIDEMIA AND NON HDL TARGETS;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1\u008d3"
+}

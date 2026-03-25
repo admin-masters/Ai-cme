@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "This section discusses the implementation of food diaries and weighed food records (WFR) for dietary assessment, highlighting their use in managing specific conditions and providing caregiver instructions for accurate data collection.",
+  "learning_objectives": [
+    "Understand the purpose and methodology of food diaries and weighed food records (WFR) in dietary assessment.",
+    "Identify clinical indications for using food diaries and WFR, such as growth faltering, obesity, and feeding disorders.",
+    "Learn practical caregiver instructions for accurate food diary and WFR implementation.",
+    "Recognize the limitations and caregiver burden associated with these methods."
+  ],
+  "key_facts": [
+    "Weighed food records (WFR) are the reference standard for dietary assessment, requiring foods, beverages, and leftovers to be weighed over 1\u20133 days.",
+    "Food diaries reduce memory bias and capture weekday\u2013weekend variation but may alter usual behavior due to caregiver burden.",
+    "Indications for use include growth faltering, suspected under-reporting in obesity, ketogenic diet management, and carbohydrate counting in type 1 diabetes.",
+    "Caregiver instructions include recording intake immediately, noting time and context, listing mixed dish ingredients, and quantifying with consistent measures or scales.",
+    "Photo-assisted diaries with before-and-after meal photos and voice notes are recommended for caregivers with limited literacy.",
+    "Institutional intake charting in hospitals supports escalation decisions in nutrition rehabilitation settings."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Dietary Records",
+    "Food Habits",
+    "Nutritional Assessment",
+    "Caregivers",
+    "Pediatric Nutrition",
+    "Diet Therapy",
+    "Feeding Behavior",
+    "Food Preferences"
+  ],
+  "tags_custom": [
+    "food diary implementation",
+    "weighed food records",
+    "caregiver education",
+    "dietary assessment tools",
+    "feeding disorders"
+  ],
+  "reference_quote": "Weighed food records (WFR) are the reference standard: foods offered, leftovers, and beverages are weighed at the time of consumption over 1\u20133 days. (Source: National Cancer Institute Dietary Assessment Primer)",
+  "document_key_topics": [
+    "Food diary and weighed food record methodology",
+    "Clinical indications for dietary assessment tools",
+    "Caregiver instructions for accurate data collection",
+    "Limitations and adaptations for literacy barriers"
+  ],
+  "chunk_heading": "DIETARY ASSESSMENT & FEEDING SKILLS EVALUATION;FOOD DIARY AND WEIGHED INTAKE RECORD IMPLEMENTATION;",
+  "topic": "DIETARY ASSESSMENT & FEEDING SKILLS EVALUATION",
+  "subtopic": "FOOD DIARY AND WEIGHED INTAKE RECORD IMPLEMENTATION",
+  "sub_subtopic": null,
+  "heading_path": "DIETARY ASSESSMENT & FEEDING SKILLS EVALUATION;FOOD DIARY AND WEIGHED INTAKE RECORD IMPLEMENTATION;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1j"
+}

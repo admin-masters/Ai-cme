@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Guidelines for hydration management in children 6\u201359 months with moderate acute malnutrition (MAM) emphasize using standard low-osmolarity ORS, with specific protocols for dehydration severity and observation thresholds.",
+  "learning_objectives": [
+    "Understand the hydration management protocols for children with moderate acute malnutrition (MAM).",
+    "Differentiate between hydration plans for MAM and severe wasting or oedema.",
+    "Recognize clinical signs of dehydration severity and appropriate treatment steps.",
+    "Apply WHO 2023 guidelines for oral rehydration therapy in MAM cases."
+  ],
+  "key_facts": [
+    "Children with MAM and dehydration but not shock should receive low-osmolarity ORS per standard diarrhoea guidelines.",
+    "ReSoMal is reserved for severe wasting or nutritional oedema, not for MAM cases.",
+    "Signs of some dehydration include restlessness, sunken eyes, and slow skin pinch; manage with oral rehydration therapy under observation.",
+    "Severe dehydration (e.g., lethargy, very slow skin pinch) or shock requires emergency treatment and referral.",
+    "Children with MAM should have a lower threshold for observation or admission if intake is poor or home care is unreliable.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Malnutrition",
+    "Dehydration",
+    "Oral Rehydration Therapy",
+    "Child Nutrition Disorders",
+    "Fluid Therapy",
+    "Acute Disease",
+    "Pediatrics",
+    "World Health Organization"
+  ],
+  "tags_custom": [
+    "MAM management",
+    "hydration protocols",
+    "pediatric malnutrition",
+    "clinical triage"
+  ],
+  "reference_quote": "For children 6\u201359 months with moderate wasting (MAM) and dehydration but not shock, the 2023 WHO wasting guideline recommends low-osmolarity ORS in accordance with standard diarrhoea recommendations for all children.",
+  "document_key_topics": [
+    "Hydration management in MAM",
+    "Oral rehydration therapy protocols",
+    "Dehydration severity assessment in children",
+    "WHO 2023 guidelines for wasting"
+  ],
+  "chunk_heading": "MODERATE ACUTE MALNUTRITION (MAM) AND SUPPLEMENTARY FEEDING;TRIAGE AND DISPOSITION FOR ACUTE WASTING;HYDRATION ASSESSMENT AND ORAL REHYDRATION PLANS;",
+  "topic": "MODERATE ACUTE MALNUTRITION (MAM) AND SUPPLEMENTARY FEEDING",
+  "subtopic": "TRIAGE AND DISPOSITION FOR ACUTE WASTING",
+  "sub_subtopic": "HYDRATION ASSESSMENT AND ORAL REHYDRATION PLANS",
+  "heading_path": "MODERATE ACUTE MALNUTRITION (MAM) AND SUPPLEMENTARY FEEDING;TRIAGE AND DISPOSITION FOR ACUTE WASTING;HYDRATION ASSESSMENT AND ORAL REHYDRATION PLANS;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "2g2"
+}

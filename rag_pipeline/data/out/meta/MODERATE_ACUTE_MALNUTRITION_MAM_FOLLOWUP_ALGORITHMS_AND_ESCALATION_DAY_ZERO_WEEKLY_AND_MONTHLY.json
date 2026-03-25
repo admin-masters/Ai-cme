@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section outlines decision nodes for outpatient follow-up of children with moderate acute malnutrition (MAM), focusing on Day 0, weekly, and monthly assessments to monitor progress, identify deterioration, and escalate care if needed.",
+  "learning_objectives": [
+    "Understand the decision-making process for outpatient follow-up of MAM cases, including Day 0, weekly, and monthly nodes.",
+    "Identify high-risk children based on WHO prioritization factors and schedule appropriate follow-ups.",
+    "Learn to assess adherence, anthropometry, and clinical signs to determine escalation or continuation of care.",
+    "Recognize failure thresholds and initiate investigations or referrals for non-responding cases."
+  ],
+  "key_facts": [
+    "Day 0: Confirm MUAC (115\u2013119 mm for high-risk), WHZ/WLZ, oedema, appetite, and danger signs; classify high-risk cases and schedule review in 7 days.",
+    "Day 7/14: Repeat anthropometry, verify adherence, and escalate care if weight loss, falling MUAC, or clinical deterioration is observed.",
+    "Week 4: If no response despite adherence, initiate illness screening (e.g., persistent diarrhoea, UTI, TB, anemia) and consider referral.",
+    "Week 8: Failure threshold; investigate and refer if comorbidities or safeguarding concerns persist.",
+    "High-risk factors include MUAC 115\u2013119 mm, WAZ < -3, age < 24 months, relapse, prior SAM, comorbidities, or severe social adversity."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Malnutrition",
+    "Nutritional Support",
+    "Anthropometry",
+    "Child Nutrition Disorders",
+    "Outpatient Clinics, Hospital",
+    "Risk Assessment",
+    "Follow-Up Studies",
+    "Referral and Consultation"
+  ],
+  "tags_custom": [
+    "MAM follow-up",
+    "escalation pathways",
+    "nutritional assessment",
+    "high-risk classification",
+    "supplementary feeding"
+  ],
+  "reference_quote": "Classify as high-risk when any WHO prioritization factor is present (MUAC 115\u2013119 mm, WAZ < -3, age under 24 months, relapse, prior SAM, comorbidity or disability, or severe social adversity) and schedule review in 7 days.",
+  "document_key_topics": [
+    "Moderate Acute Malnutrition (MAM) management",
+    "Outpatient follow-up decision nodes",
+    "High-risk classification and escalation pathways",
+    "Supplementary feeding and adherence monitoring"
+  ],
+  "chunk_heading": "MODERATE ACUTE MALNUTRITION (MAM) AND SUPPLEMENTARY FEEDING;FOLLOW-UP ALGORITHMS AND ESCALATION PATHWAYS;DAY ZERO WEEKLY AND MONTHLY DECISION NODES FOR OUTPATIENT FOLLOW-UP;",
+  "topic": "MODERATE ACUTE MALNUTRITION (MAM) AND SUPPLEMENTARY FEEDING",
+  "subtopic": "FOLLOW-UP ALGORITHMS AND ESCALATION PATHWAYS",
+  "sub_subtopic": "DAY ZERO WEEKLY AND MONTHLY DECISION NODES FOR OUTPATIENT FOLLOW-UP",
+  "heading_path": "MODERATE ACUTE MALNUTRITION (MAM) AND SUPPLEMENTARY FEEDING;FOLLOW-UP ALGORITHMS AND ESCALATION PATHWAYS;DAY ZERO WEEKLY AND MONTHLY DECISION NODES FOR OUTPATIENT FOLLOW-UP;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "3l2"
+}

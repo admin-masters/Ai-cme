@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "This section outlines child data protection and app privacy requirements for tele-nutrition in India, emphasizing parental consent, safeguards against harmful practices, and compliance with data retention and erasure laws.",
+  "learning_objectives": [
+    "Understand the regulatory requirements for processing child digital data in tele-nutrition platforms in India.",
+    "Identify prohibited practices such as targeted advertising and behavioral tracking in pediatric tele-nutrition apps.",
+    "Learn how to implement parental consent mechanisms and data retention schedules for child-specific safeguards."
+  ],
+  "key_facts": [
+    "Under India's Digital Personal Data Protection framework, a child is defined as under 18 years, requiring verifiable parental consent for data processing.",
+    "Prohibited practices include tracking, behavioral monitoring, and targeted advertising directed at children.",
+    "Retention and erasure of child data must align with purpose justification and legal obligations, ensuring data minimization.",
+    "Tele-nutrition tools must avoid harmful nudges like rapid weight-loss prompts or stigmatizing notifications.",
+    "Free apps monetized via advertising SDKs or device-level tracking pose legal and ethical risks in pediatric care."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Telemedicine",
+    "Nutrition Therapy",
+    "Child Welfare",
+    "Data Privacy",
+    "Parental Consent",
+    "Behavioral Monitoring",
+    "Health Records",
+    "India"
+  ],
+  "tags_custom": [
+    "Tele-nutrition",
+    "Child data protection",
+    "App privacy",
+    "Pediatric safeguards",
+    "Digital health tools"
+  ],
+  "reference_quote": "Under India\u2019s Digital Personal Data Protection framework, a child is under 18 years and verifiable parental consent is required before processing a child\u2019s personal data. (Source: https://www.meity.gov.in/static/uploads/2024/06/2bf1f0e9f04e6fb4f8fef35e82c42aa5.pdf)",
+  "document_key_topics": [
+    "Child data protection in tele-nutrition",
+    "Parental consent requirements",
+    "Prohibited practices in pediatric digital tools",
+    "Data retention and erasure guidelines"
+  ],
+  "chunk_heading": "DIGITAL TOOLS & TELE-NUTRITION;GUIDELINE FOUNDATIONS AND REGULATORY SCOPE FOR TELE-NUTRITION IN INDIA;CHILD DIGITAL DATA PROTECTION AND APP PRIVACY REQUIREMENTS;",
+  "topic": "DIGITAL TOOLS & TELE-NUTRITION",
+  "subtopic": "GUIDELINE FOUNDATIONS AND REGULATORY SCOPE FOR TELE-NUTRITION IN INDIA",
+  "sub_subtopic": "CHILD DIGITAL DATA PROTECTION AND APP PRIVACY REQUIREMENTS",
+  "heading_path": "DIGITAL TOOLS & TELE-NUTRITION;GUIDELINE FOUNDATIONS AND REGULATORY SCOPE FOR TELE-NUTRITION IN INDIA;CHILD DIGITAL DATA PROTECTION AND APP PRIVACY REQUIREMENTS;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1e4"
+}

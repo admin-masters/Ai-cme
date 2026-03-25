@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "This section discusses glucose infusion rate (GIR) calculation in parenteral nutrition, emphasizing safety, carbohydrate titration targets, and monitoring to prevent complications like hyperglycemia and ventilator dependence.",
+  "learning_objectives": [
+    "Understand the formula for calculating glucose infusion rate (GIR) in parenteral nutrition.",
+    "Identify safe GIR ranges for different pediatric age groups and clinical conditions.",
+    "Recognize the risks of excessive dextrose delivery and strategies to mitigate them.",
+    "Learn the importance of frequent glucose monitoring during GIR adjustments."
+  ],
+  "key_facts": [
+    "GIR formula: GIR (mg/kg/min) = [dextrose concentration (mg/mL) \u00d7 infusion rate (mL/hour)] \u00f7 [weight (kg) \u00d7 60].",
+    "1% dextrose = 10 mg/mL; 10% dextrose = 100 mg/mL; 12.5% dextrose = 125 mg/mL.",
+    "Example: 10% dextrose at 20 mL/hour in a 10 kg child gives GIR = 3.3 mg/kg/min.",
+    "Neonates often start at GIR ~4\u20136 mg/kg/min; older children in critical illness start at ~2\u20134 mg/kg/min.",
+    "Excess dextrose can cause hyperglycemia, lipogenesis, and increased CO2 production, worsening ventilator dependence.",
+    "Persistent hyperglycemia should be managed by reducing dextrose before considering insulin."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Parenteral Nutrition",
+    "Glucose Infusion Rate",
+    "Hyperglycemia",
+    "Carbohydrate Metabolism",
+    "Critical Illness",
+    "Neonatal Nutrition",
+    "Dextrose",
+    "Insulin Therapy"
+  ],
+  "tags_custom": [
+    "GIR calculation",
+    "pediatric nutrition",
+    "dextrose titration",
+    "critical care nutrition",
+    "glucose monitoring"
+  ],
+  "reference_quote": "Glucose delivery in PN is safest when prescribed and monitored as glucose infusion rate (GIR), because the same dextrose percentage can be safe or dangerous depending on weight and rate.",
+  "document_key_topics": [
+    "Glucose infusion rate (GIR) calculation",
+    "Carbohydrate titration in parenteral nutrition",
+    "Pediatric glucose requirements and safety",
+    "Hyperglycemia management in critical care"
+  ],
+  "chunk_heading": "ENTERAL & PARENTERAL NUTRITION;PARENTERAL NUTRITION ORDERING AND CALCULATION SAFETY;GIR CALCULATION AND CARBOHYDRATE TITRATION TARGETS;",
+  "topic": "ENTERAL & PARENTERAL NUTRITION",
+  "subtopic": "PARENTERAL NUTRITION ORDERING AND CALCULATION SAFETY",
+  "sub_subtopic": "GIR CALCULATION AND CARBOHYDRATE TITRATION TARGETS",
+  "heading_path": "ENTERAL & PARENTERAL NUTRITION;PARENTERAL NUTRITION ORDERING AND CALCULATION SAFETY;GIR CALCULATION AND CARBOHYDRATE TITRATION TARGETS;",
+  "reference_count": 2,
+  "has_guidelines": false,
+  "sequence": "2\u00842.1"
+}

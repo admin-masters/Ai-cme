@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section discusses interpreting national nutrition survey data to address the triple burden of undernutrition, micronutrient deficiencies, and emerging obesity in pediatric populations, emphasizing clinical applications and programmatic implications in India.",
+  "learning_objectives": [
+    "Understand the interpretation of national nutrition survey indicators like stunting, wasting, and underweight in pediatric populations.",
+    "Differentiate between acute and chronic malnutrition and their clinical implications for pediatric care.",
+    "Recognize the triple burden of malnutrition and its relevance to public health and clinical interventions.",
+    "Learn the distinction between survey-based burden estimates and programmatic monitoring data."
+  ],
+  "key_facts": [
+    "NFHS-5 (2019\u201321) reports high under-5 burdens of stunting, wasting, and underweight in India, with anaemia affecting a majority of children aged 6\u201359 months.",
+    "Wasting indicates acute risk and requires immediate triage and referral for danger signs.",
+    "Stunting reflects chronic adversity and necessitates long-term interventions like improved IYCF practices, diet diversity, and WASH measures.",
+    "Underweight is a mixed indicator that requires full anthropometric assessment, including MUAC and height/length.",
+    "The triple burden of malnutrition includes undernutrition, micronutrient deficiencies (e.g., anaemia), and emerging overweight/obesity, as documented in CNNS (2016\u201318).",
+    "Survey data estimate baseline burden, while program dashboards measure service delivery and trends, with potential discrepancies due to methodology and reporting."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Pediatric Nutrition",
+    "Malnutrition",
+    "Stunting",
+    "Wasting Syndrome",
+    "Anemia",
+    "Overweight",
+    "Public Health",
+    "Nutrition Surveys"
+  ],
+  "tags_custom": [
+    "Triple burden of malnutrition",
+    "Community pediatric health",
+    "National nutrition indicators",
+    "Clinical nutrition framing"
+  ],
+  "reference_quote": "NFHS-5 (2019\u201321) report high under-5 burdens of stunting, wasting, and underweight, with anaemia affecting a majority of children 6\u201359 months in many states.",
+  "document_key_topics": [
+    "National nutrition survey indicators",
+    "Triple burden of malnutrition",
+    "Clinical interpretation of malnutrition indicators",
+    "Programmatic vs. survey-based data"
+  ],
+  "chunk_heading": "PUBLIC HEALTH & COMMUNITY PEDIATRIC NUTRITION;NATIONAL NUTRITION INDICATORS AND BEDSIDE CLINICAL FRAMING;INTERPRETING SURVEY ESTIMATES AND TRIPLE BURDEN;",
+  "topic": "PUBLIC HEALTH & COMMUNITY PEDIATRIC NUTRITION",
+  "subtopic": "NATIONAL NUTRITION INDICATORS AND BEDSIDE CLINICAL FRAMING",
+  "sub_subtopic": "INTERPRETING SURVEY ESTIMATES AND TRIPLE BURDEN",
+  "heading_path": "PUBLIC HEALTH & COMMUNITY PEDIATRIC NUTRITION;NATIONAL NUTRITION INDICATORS AND BEDSIDE CLINICAL FRAMING;INTERPRETING SURVEY ESTIMATES AND TRIPLE BURDEN;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1b1"
+}

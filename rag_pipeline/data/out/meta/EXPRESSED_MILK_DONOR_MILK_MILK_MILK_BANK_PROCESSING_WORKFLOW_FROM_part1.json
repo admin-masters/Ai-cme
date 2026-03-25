@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "This section outlines the workflow for processing donor milk in milk banks, from intake to release, emphasizing quality assurance, safety protocols, and adherence to national guidelines for lactation management centers.",
+  "learning_objectives": [
+    "Understand the step-by-step workflow for processing donor milk in milk banks.",
+    "Learn the quality assurance standards and safety protocols for human milk banking.",
+    "Explore national guidelines and best practices for lactation management centers.",
+    "Identify key considerations for donor milk intake and release processes."
+  ],
+  "key_facts": [
+    "Donor milk undergoes rigorous screening, pasteurization, and microbiological testing before release.",
+    "National guidelines recommend adherence to the CLMC module for quality assurance in milk banking.",
+    "Human milk banks aim to provide safe donor milk to vulnerable infants, especially preterm or low-birth-weight babies.",
+    "The eCLMC implementation guide highlights the importance of tracking donor milk from intake to release.",
+    "Microbiological testing ensures donor milk meets safety standards before distribution.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Milk Banks",
+    "Human Milk",
+    "Lactation Management",
+    "Pasteurization",
+    "Quality Assurance",
+    "Infant Nutrition",
+    "Microbiological Testing",
+    "Donor Milk"
+  ],
+  "tags_custom": [
+    "Milk bank workflow",
+    "Donor milk safety",
+    "Lactation guidelines",
+    "Infant health",
+    "Quality protocols"
+  ],
+  "reference_quote": "National guidelines emphasize the importance of microbiological testing and pasteurization to ensure the safety of donor milk before release. (Source: https://nhm.gov.in/images/pdf/programmes/IYCF/National_Guidelines_Lactation_Management_Centres.pdf)",
+  "document_key_topics": [
+    "Milk bank processing workflow",
+    "Donor milk safety protocols",
+    "National lactation management guidelines",
+    "Quality assurance in human milk banking"
+  ],
+  "chunk_heading": "EXPRESSED MILK, DONOR MILK & MILK BANKING;MILK BANK PROCESSING WORKFLOW FROM INTAKE TO RELEASE;",
+  "topic": "EXPRESSED MILK, DONOR MILK & MILK BANKING",
+  "subtopic": "MILK BANK PROCESSING WORKFLOW FROM INTAKE TO RELEASE",
+  "sub_subtopic": null,
+  "heading_path": "EXPRESSED MILK, DONOR MILK & MILK BANKING;MILK BANK PROCESSING WORKFLOW FROM INTAKE TO RELEASE;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2o.2"
+}

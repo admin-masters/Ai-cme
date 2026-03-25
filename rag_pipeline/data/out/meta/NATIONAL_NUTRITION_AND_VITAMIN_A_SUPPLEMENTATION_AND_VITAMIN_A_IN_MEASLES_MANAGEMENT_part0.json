@@ -1,0 +1,47 @@
+{
+  "chunk_summary": "Vitamin A is critical in measles management, requiring specific therapeutic doses and adherence to prophylaxis schedules to avoid adverse effects and ensure efficacy.",
+  "learning_objectives": [
+    "Understand the role of vitamin A in managing measles and severe infections in children.",
+    "Learn the recommended therapeutic doses of vitamin A based on age and clinical conditions.",
+    "Identify the risks of improper prophylaxis spacing and its operational challenges.",
+    "Recognize the importance of clear counseling to reconcile therapeutic and prophylactic vitamin A administration."
+  ],
+  "key_facts": [
+    "Therapeutic vitamin A doses for measles: 50,000 IU (<6 months), 100,000 IU (6\u201312 months), 200,000 IU (>12 months).",
+    "Children with eye signs of deficiency or severe acute malnutrition require an additional dose after two weeks.",
+    "Prophylactic doses must be spaced 6 months apart after the 16\u201318-month dose to avoid adverse effects like nausea, vomiting, and irritability.",
+    "Operational errors include giving multiple prophylactic doses during biannual rounds, which can lead to false documentation of coverage.",
+    "Therapeutic indications take precedence over prophylaxis when managing vitamin A administration."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Vitamin A",
+    "Measles",
+    "Child Nutrition Disorders",
+    "Prophylaxis",
+    "Therapeutics",
+    "Malnutrition",
+    "Public Health Programs",
+    "India"
+  ],
+  "tags_custom": [
+    "Vitamin A therapy",
+    "Measles management",
+    "Prophylaxis spacing",
+    "Child health guidelines"
+  ],
+  "reference_quote": "Standard measles case management includes high-dose oral vitamin A on two consecutive days (age-specific: 50,000 IU if <6 months, 100,000 IU if 6\u201312 months, 200,000 IU if >12 months).",
+  "document_key_topics": [
+    "Vitamin A supplementation in measles management",
+    "Therapeutic and prophylactic vitamin A dosing guidelines",
+    "Operational challenges in vitamin A administration"
+  ],
+  "chunk_heading": "NATIONAL NUTRITION AND FORTIFICATION PROGRAMS IN INDIA;VITAMIN A SUPPLEMENTATION AND THERAPEUTIC USE IN CHILDREN;VITAMIN A IN MEASLES MANAGEMENT AND SAFE PROPHYLAXIS SPACING;",
+  "topic": "NATIONAL NUTRITION AND FORTIFICATION PROGRAMS IN INDIA",
+  "subtopic": "VITAMIN A SUPPLEMENTATION AND THERAPEUTIC USE IN CHILDREN",
+  "sub_subtopic": "VITAMIN A IN MEASLES MANAGEMENT AND SAFE PROPHYLAXIS SPACING",
+  "heading_path": "NATIONAL NUTRITION AND FORTIFICATION PROGRAMS IN INDIA;VITAMIN A SUPPLEMENTATION AND THERAPEUTIC USE IN CHILDREN;VITAMIN A IN MEASLES MANAGEMENT AND SAFE PROPHYLAXIS SPACING;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "2q3.1"
+}

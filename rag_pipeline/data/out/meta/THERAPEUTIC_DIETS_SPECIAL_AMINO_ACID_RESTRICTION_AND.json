@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Phenylketonuria (PKU) management involves lifelong dietary phenylalanine restriction, medical protein substitutes, and regular monitoring to prevent neurocognitive decline and ensure adequate nutrition.",
+  "learning_objectives": [
+    "Understand the role of phenylalanine restriction and medical protein substitutes in PKU management.",
+    "Learn target blood phenylalanine levels for different age groups and their importance in treatment consistency.",
+    "Recognize the risks of micronutrient deficiencies and the need for monitoring growth and nutritional status in PKU patients.",
+    "Explore adjunct therapies like sapropterin and their role in reducing dietary restrictions."
+  ],
+  "key_facts": [
+    "Target blood phenylalanine levels: 120\u2013360 \u00b5mol/L in children under 12 years, with higher limits for older adolescents and adults.",
+    "Monitoring frequency: Frequent in infancy and early childhood, spaced once stable.",
+    "Micronutrient risks: Low protein diets may lead to deficiencies in iron, zinc, selenium, and vitamin B12.",
+    "Stopping medical formula can lead to cognitive and behavioral decline over time.",
+    "Sapropterin responsiveness testing may increase phenylalanine tolerance in certain genotypes but does not replace dietary monitoring."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Phenylketonuria",
+    "Phenylalanine",
+    "Diet Therapy",
+    "Micronutrients",
+    "Neuroprotection",
+    "Sapropterin",
+    "Maternal PKU",
+    "Blood Monitoring"
+  ],
+  "tags_custom": [
+    "PKU management",
+    "dietary intervention",
+    "lifelong therapy",
+    "nutritional monitoring",
+    "adjunct therapies"
+  ],
+  "reference_quote": "Diet therapy for PKU is lifelong neuroprotection, not a short-term restriction. The prescription combines natural protein limitation with mandatory phenylalanine-free medical protein substitute to meet total protein needs and supply tyrosine, vitamins, and minerals. (Source: European guidelines on PKU)",
+  "document_key_topics": [
+    "Phenylalanine restriction in PKU",
+    "Monitoring blood phenylalanine and tyrosine levels",
+    "Micronutrient deficiencies in low-protein diets",
+    "Adjunct therapies like sapropterin"
+  ],
+  "chunk_heading": "THERAPEUTIC DIETS & SPECIAL INTERVENTIONS;AMINO ACID RESTRICTION AND MONITORING IN PHENYLKETONURIA;",
+  "topic": "THERAPEUTIC DIETS & SPECIAL INTERVENTIONS",
+  "subtopic": "AMINO ACID RESTRICTION AND MONITORING IN PHENYLKETONURIA",
+  "sub_subtopic": null,
+  "heading_path": "THERAPEUTIC DIETS & SPECIAL INTERVENTIONS;AMINO ACID RESTRICTION AND MONITORING IN PHENYLKETONURIA;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "3\u0085"
+}
