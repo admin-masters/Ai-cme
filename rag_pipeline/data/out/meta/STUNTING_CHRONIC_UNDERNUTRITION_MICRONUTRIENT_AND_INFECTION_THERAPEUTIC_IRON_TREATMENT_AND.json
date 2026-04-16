@@ -1,16 +1,17 @@
 {
-  "chunk_summary": "Therapeutic iron treatment for iron deficiency anemia involves specific dosing, monitoring for response, and addressing non-response through adherence, ferritin interpretation, and screening for underlying conditions.",
+  "chunk_summary": "Therapeutic iron treatment for iron deficiency anemia involves specific dosing, monitoring for response, and addressing non-response causes like adherence, blood loss, or underlying conditions.",
   "learning_objectives": [
     "Understand therapeutic iron dosing guidelines for mild, moderate, and severe anemia.",
     "Learn strategies to monitor and evaluate non-response to iron therapy.",
-    "Identify potential causes of inadequate response to iron treatment and appropriate follow-up actions."
+    "Identify potential causes of inadequate response, including adherence, blood loss, and chronic conditions."
   ],
   "key_facts": [
-    "Therapeutic dosing for mild to moderate anemia: ~3 mg/kg/day elemental iron; severe anemia: up to ~6 mg/kg/day under supervision.",
-    "Continue therapy for at least 3 months, and 2\u20133 months after hemoglobin normalization to replete iron stores.",
-    "Recheck hemoglobin after 2\u20134 weeks to monitor response; expected improvement supports adherence and diagnosis.",
-    "Avoid co-administration of iron with milk or tea; pair with vitamin C to enhance absorption.",
-    "Evaluate non-response by reassessing adherence, dosing, blood loss, ferritin with CRP/ESR, and hemoglobinopathies."
+    "Therapeutic dosing for mild to moderate anemia is ~3 mg/kg/day elemental iron; severe anemia may require up to 6 mg/kg/day under supervision.",
+    "Continue therapy for 2\u20133 months after hemoglobin normalization to replete iron stores.",
+    "Recheck hemoglobin after 2\u20134 weeks to monitor response; lack of improvement is common but often fixable.",
+    "Avoid co-administration of iron with milk or tea to enhance absorption; pair with vitamin C sources.",
+    "Evaluate ferritin with CRP or ESR to rule out false-normal levels due to inflammation.",
+    "Screen for hemoglobinopathies or chronic infections if response remains poor despite adherence."
   ],
   "complexity": "intermediate",
   "tags_mesh": [
@@ -26,21 +27,21 @@
   "tags_custom": [
     "therapeutic iron dosing",
     "non-response evaluation",
-    "linear growth support",
-    "micronutrient interventions"
+    "pediatric anemia",
+    "linear growth support"
   ],
-  "reference_quote": "Daily iron supplementation in infants and children is recommended to prevent and treat iron deficiency anemia. (Source: Nutritional anemia recommendations, IAP joint committee)",
+  "reference_quote": "Prophylactic IFA schedules prevent deficiency, but confirmed iron deficiency anemia needs therapeutic dosing and follow-up. (Source: Nutritional anemia recommendations, IAP joint committee)",
   "document_key_topics": [
-    "Therapeutic iron dosing for anemia",
+    "Therapeutic iron treatment for anemia",
     "Monitoring and managing non-response to iron therapy",
-    "Addressing underlying causes of persistent anemia"
+    "Nutritional and infection-related determinants of stunting"
   ],
-  "chunk_heading": "STUNTING, CHRONIC UNDERNUTRITION & DETERMINANTS;MICRONUTRIENT AND INFECTION CONTROL INTERVENTIONS SUPPORTING LINEAR GROWTH;THERAPEUTIC IRON TREATMENT AND NON-RESPONSE EVALUATION;",
-  "topic": "STUNTING, CHRONIC UNDERNUTRITION & DETERMINANTS",
+  "chunk_heading": "STUNTING, CHRONIC UNDERNUTRITION AND DETERMINANTS;MICRONUTRIENT AND INFECTION CONTROL INTERVENTIONS SUPPORTING LINEAR GROWTH;THERAPEUTIC IRON TREATMENT AND NON-RESPONSE EVALUATION;",
+  "topic": "STUNTING, CHRONIC UNDERNUTRITION AND DETERMINANTS",
   "subtopic": "MICRONUTRIENT AND INFECTION CONTROL INTERVENTIONS SUPPORTING LINEAR GROWTH",
   "sub_subtopic": "THERAPEUTIC IRON TREATMENT AND NON-RESPONSE EVALUATION",
-  "heading_path": "STUNTING, CHRONIC UNDERNUTRITION & DETERMINANTS;MICRONUTRIENT AND INFECTION CONTROL INTERVENTIONS SUPPORTING LINEAR GROWTH;THERAPEUTIC IRON TREATMENT AND NON-RESPONSE EVALUATION;",
+  "heading_path": "STUNTING, CHRONIC UNDERNUTRITION AND DETERMINANTS;MICRONUTRIENT AND INFECTION CONTROL INTERVENTIONS SUPPORTING LINEAR GROWTH;THERAPEUTIC IRON TREATMENT AND NON-RESPONSE EVALUATION;",
   "reference_count": 4,
   "has_guidelines": false,
-  "sequence": "7\u00842"
+  "sequence": "1\u00842"
 }

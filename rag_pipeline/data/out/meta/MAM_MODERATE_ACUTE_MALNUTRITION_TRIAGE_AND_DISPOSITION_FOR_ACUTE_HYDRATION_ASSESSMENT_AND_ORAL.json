@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Guidelines for hydration assessment and oral rehydration in children with moderate acute malnutrition (MAM), emphasizing standard ORS use, observation thresholds, and emergency stabilization protocols.",
+  "learning_objectives": [
+    "Understand the hydration assessment criteria for children with MAM.",
+    "Differentiate between the use of low-osmolarity ORS and ReSoMal based on malnutrition severity.",
+    "Apply appropriate oral rehydration plans for children with MAM and dehydration.",
+    "Recognize when to escalate care for children with severe dehydration or shock."
+  ],
+  "key_facts": [
+    "Children with MAM and dehydration but not shock should receive low-osmolarity ORS per standard diarrhea guidelines.",
+    "ReSoMal is reserved for severe wasting and/or nutritional oedema cases.",
+    "Signs of some dehydration include restlessness, sunken eyes, eager drinking, and slow skin pinch.",
+    "Severe dehydration is indicated by diarrhea plus lethargy, very slow skin pinch, or shock signs.",
+    "Observation or admission is recommended if intake is poor or home care is unreliable.",
+    "Emergency stabilization should not be delayed by the malnutrition label.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Malnutrition",
+    "Dehydration",
+    "Oral Rehydration Therapy",
+    "Pediatrics",
+    "Nutritional Support",
+    "Acute Disease",
+    "Fluid Therapy",
+    "Child Nutrition Disorders"
+  ],
+  "tags_custom": [
+    "MAM management",
+    "hydration protocols",
+    "pediatric malnutrition",
+    "emergency care"
+  ],
+  "reference_quote": "For children 6\u201359 months with moderate wasting (MAM) and dehydration but not shock, the 2023 WHO wasting guideline recommends low-osmolarity ORS in accordance with standard diarrhea recommendations for all children.",
+  "document_key_topics": [
+    "Hydration assessment in MAM",
+    "Oral rehydration therapy guidelines",
+    "Emergency stabilization in malnutrition"
+  ],
+  "chunk_heading": "(MAM) MODERATE ACUTE MALNUTRITION AND SUPPLEMENTARY FEEDING;TRIAGE AND DISPOSITION FOR ACUTE WASTING;HYDRATION ASSESSMENT AND ORAL REHYDRATION PLANS;",
+  "topic": "(MAM) MODERATE ACUTE MALNUTRITION AND SUPPLEMENTARY FEEDING",
+  "subtopic": "TRIAGE AND DISPOSITION FOR ACUTE WASTING",
+  "sub_subtopic": "HYDRATION ASSESSMENT AND ORAL REHYDRATION PLANS",
+  "heading_path": "(MAM) MODERATE ACUTE MALNUTRITION AND SUPPLEMENTARY FEEDING;TRIAGE AND DISPOSITION FOR ACUTE WASTING;HYDRATION ASSESSMENT AND ORAL REHYDRATION PLANS;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1i2"
+}

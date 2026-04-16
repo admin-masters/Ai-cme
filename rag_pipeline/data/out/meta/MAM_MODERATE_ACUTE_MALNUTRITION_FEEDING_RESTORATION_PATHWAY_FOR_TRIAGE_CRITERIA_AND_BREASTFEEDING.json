@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "Guidelines for managing moderate acute malnutrition in infants under six months, focusing on triage criteria, breastfeeding restoration, and mother\u2013infant dyad assessment.",
+  "learning_objectives": [
+    "Understand the triage criteria for admitting or managing infants under six months with moderate acute malnutrition.",
+    "Learn the importance of breastfeeding restoration and lactation support in malnutrition management.",
+    "Identify anthropometric indicators and danger signs requiring inpatient or outpatient care.",
+    "Recognize the role of maternal health in infant feeding and nutritional recovery."
+  ],
+  "key_facts": [
+    "Infants under six months with WAZ < -2, WLZ < -2, or MUAC < 110 mm are at significant risk and may require inpatient care.",
+    "WHO 2023 guidelines emphasize assessing the mother\u2013infant dyad for comprehensive care.",
+    "Admission criteria include IMCI danger signs, acute medical problems, nutritional oedema, or recent weight loss.",
+    "Outpatient care is suitable only if no danger signs are present and caregivers can reliably return.",
+    "Breastfeeding restoration is prioritized before introducing supplementary milk, with focus on positioning, attachment, and transfer cues.",
+    "Infants discharged from inpatient care require at least 48 hours without danger signs before transitioning to outpatient follow-up."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Malnutrition",
+    "Breastfeeding",
+    "Infant Nutrition Disorders",
+    "Lactation Support",
+    "Anthropometry",
+    "Nutritional Assessment",
+    "Maternal Health",
+    "Infant Care"
+  ],
+  "tags_custom": [
+    "Moderate Acute Malnutrition",
+    "Feeding Restoration",
+    "Mother\u2013Infant Dyad",
+    "Triage Criteria",
+    "Supplementary Feeding"
+  ],
+  "reference_quote": "The 2023 WHO wasting guideline treats infants under 6 months 'at risk of poor growth and development' as a high-risk group with explicit admission and outpatient criteria, and emphasizes assessment of the mother\u2013infant dyad.",
+  "document_key_topics": [
+    "Triage criteria for malnourished infants under six months",
+    "Breastfeeding restoration and lactation support",
+    "Mother\u2013infant dyad assessment in malnutrition management",
+    "Guidelines for inpatient and outpatient care transitions"
+  ],
+  "chunk_heading": "(MAM) MODERATE ACUTE MALNUTRITION AND SUPPLEMENTARY FEEDING;FEEDING RESTORATION PATHWAY FOR INFANTS UNDER SIX MONTHS;TRIAGE CRITERIA AND BREASTFEEDING RESTORATION UNDER SIX MONTHS;",
+  "topic": "(MAM) MODERATE ACUTE MALNUTRITION AND SUPPLEMENTARY FEEDING",
+  "subtopic": "FEEDING RESTORATION PATHWAY FOR INFANTS UNDER SIX MONTHS",
+  "sub_subtopic": "TRIAGE CRITERIA AND BREASTFEEDING RESTORATION UNDER SIX MONTHS",
+  "heading_path": "(MAM) MODERATE ACUTE MALNUTRITION AND SUPPLEMENTARY FEEDING;FEEDING RESTORATION PATHWAY FOR INFANTS UNDER SIX MONTHS;TRIAGE CRITERIA AND BREASTFEEDING RESTORATION UNDER SIX MONTHS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u008e1"
+}

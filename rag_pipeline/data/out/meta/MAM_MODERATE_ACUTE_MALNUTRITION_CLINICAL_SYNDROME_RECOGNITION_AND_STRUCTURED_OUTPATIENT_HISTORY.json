@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "Structured outpatient history and feeding observation in moderate wasting involves assessing clinical syndromes, identifying complications, and observing feeding behaviors to guide management and follow-up intensity.",
+  "learning_objectives": [
+    "Understand the clinical syndrome approach to moderate wasting beyond anthropometric labels.",
+    "Identify key history and examination components for moderate wasting, including feeding function and illness drivers.",
+    "Recognize early complications and micronutrient deficiency patterns that influence follow-up intensity.",
+    "Learn the importance of observing real or simulated feeding sessions to detect unsafe swallowing or poor feeding techniques."
+  ],
+  "key_facts": [
+    "Moderate wasting should be assessed as a clinical syndrome, not just an anthropometric label.",
+    "Initial outpatient assessment includes appetite, recent weight loss or MUAC decline, and danger signs (ETAT/IMNCI).",
+    "Key examination findings include hydration status, respiratory rate, pallor, bilateral pitting oedema, and micronutrient deficiency signs (e.g., Bitot spots, angular cheilitis).",
+    "Feeding observation helps detect unsafe swallowing, prolonged meals, or poor feeding techniques.",
+    "Contextual factors like food insecurity, caregiver workload, and maternal illness should be screened as potential contributors.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Malnutrition",
+    "Wasting Syndrome",
+    "Nutritional Assessment",
+    "Feeding Behavior",
+    "Micronutrient Deficiencies",
+    "Pediatric Nutrition",
+    "Anthropometry",
+    "Outpatient Clinics, Hospital"
+  ],
+  "tags_custom": [
+    "Moderate Acute Malnutrition",
+    "Feeding Observation",
+    "Clinical Syndrome Approach",
+    "Pediatric Assessment",
+    "Nutritional Screening"
+  ],
+  "reference_quote": "In the first minutes of an OPD visit, confirm three disposition drivers: current appetite, caregiver report of recent weight loss or falling MUAC, and any emergency or general danger signs (ETAT/IMNCI).",
+  "document_key_topics": [
+    "Clinical syndrome recognition in moderate wasting",
+    "Structured outpatient history and feeding observation",
+    "Micronutrient deficiency and illness drivers",
+    "Feeding function and contextual constraints"
+  ],
+  "chunk_heading": "(MAM) MODERATE ACUTE MALNUTRITION AND SUPPLEMENTARY FEEDING;CLINICAL SYNDROME RECOGNITION AND BEDSIDE ASSESSMENT IN MODERATE WASTING;STRUCTURED OUTPATIENT HISTORY EXAMINATION AND FEEDING OBSERVATION;",
+  "topic": "(MAM) MODERATE ACUTE MALNUTRITION AND SUPPLEMENTARY FEEDING",
+  "subtopic": "CLINICAL SYNDROME RECOGNITION AND BEDSIDE ASSESSMENT IN MODERATE WASTING",
+  "sub_subtopic": "STRUCTURED OUTPATIENT HISTORY EXAMINATION AND FEEDING OBSERVATION",
+  "heading_path": "(MAM) MODERATE ACUTE MALNUTRITION AND SUPPLEMENTARY FEEDING;CLINICAL SYNDROME RECOGNITION AND BEDSIDE ASSESSMENT IN MODERATE WASTING;STRUCTURED OUTPATIENT HISTORY EXAMINATION AND FEEDING OBSERVATION;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1n1"
+}

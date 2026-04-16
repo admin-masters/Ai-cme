@@ -1,0 +1,46 @@
+{
+  "chunk_summary": "Guidelines for preparing F-75 and F-100 therapeutic feeds with electrolyte fortification to manage severe acute malnutrition, emphasizing safety, hygiene, and proper supplementation.",
+  "learning_objectives": [
+    "Understand the preparation process for F-75 and F-100 therapeutic feeds, including ingredient ratios and hygiene protocols.",
+    "Learn the importance of electrolyte fortification in managing severe acute malnutrition and preventing complications like arrhythmia.",
+    "Identify practical ward checks to ensure feed quality and prevent errors in therapeutic feeding."
+  ],
+  "key_facts": [
+    "F-75 is a starter diet made from milk, sugar, oil, and water; F-100 is a catch-up diet with higher milk content and added sugar and oil.",
+    "Electrolyte fortification requires added potassium and magnesium while restricting sodium to prevent arrhythmia and feeding failure.",
+    "Feeds must be prepared with clean utensils, boiled or safe water, and discarded if kept beyond the protocol window to avoid bacterial contamination.",
+    "Night feeds and warmed feeds are essential for effective therapeutic feeding and catch-up growth.",
+    "Common errors like under-measuring oil and sugar can lead to poor weight gain in malnourished children."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Severe Acute Malnutrition",
+    "Therapeutic Feeding",
+    "Electrolyte Balance",
+    "F-75 Formula",
+    "F-100 Formula",
+    "Micronutrient Supplementation",
+    "Diarrhea Management",
+    "Pediatric Nutrition"
+  ],
+  "tags_custom": [
+    "SAM management",
+    "therapeutic milk preparation",
+    "electrolyte fortification",
+    "malnutrition protocols"
+  ],
+  "reference_quote": "Facility-style recipes commonly used in India include a starter diet (F-75 equivalent) prepared from milk, sugar, oil, and water, and a catch-up diet (F-100 equivalent) prepared from higher milk content with added sugar and oil. \u2014 Ministry of Health and Family Welfare, Operational guidelines on facility-based management of children with severe acute malnutrition, 2011",
+  "document_key_topics": [
+    "Therapeutic feeding for severe acute malnutrition",
+    "Preparation and fortification of F-75 and F-100 formulas",
+    "Electrolyte supplementation and safety protocols"
+  ],
+  "chunk_heading": "SEVERE ACUTE MALNUTRITION - (SAM) MANAGEMENT;THERAPEUTIC FEEDING AND CATCH-UP GROWTH;F-75 AND F-100 PREPARATION WITH ELECTROLYTE FORTIFICATION;",
+  "topic": "SEVERE ACUTE MALNUTRITION - (SAM) MANAGEMENT",
+  "subtopic": "THERAPEUTIC FEEDING AND CATCH-UP GROWTH",
+  "sub_subtopic": "F-75 AND F-100 PREPARATION WITH ELECTROLYTE FORTIFICATION",
+  "heading_path": "SEVERE ACUTE MALNUTRITION - (SAM) MANAGEMENT;THERAPEUTIC FEEDING AND CATCH-UP GROWTH;F-75 AND F-100 PREPARATION WITH ELECTROLYTE FORTIFICATION;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u00862"
+}

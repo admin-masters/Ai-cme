@@ -10,7 +10,11 @@ from openai import AzureOpenAI
 from azure.storage.queue import QueueClient
 from azure.core.credentials import AzureKeyCredential
 from azure.search.documents import SearchClient
+from pathlib import Path
+from dotenv import load_dotenv
 
+ENV_PATH = Path(__file__).resolve().parents[1] / ".env"
+load_dotenv(dotenv_path=ENV_PATH)
 # ───────────────────────── Azure/OpenAI config ─────────────────────────
 AZURE_OAI_ENDPOINT = "https://azure-140709.openai.azure.com/"
 AZURE_OAI_KEY = os.getenv("AZURE_OPENAI_KEY")

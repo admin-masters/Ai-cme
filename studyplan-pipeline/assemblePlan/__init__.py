@@ -4,7 +4,12 @@ import os, json, logging, datetime as dt, re
 import azure.functions as func
 import pyodbc
 from azure.storage.queue import QueueClient
+from pathlib import Path
+from dotenv import load_dotenv
 
+# Load environment variables from rag_pipeline/.env when running scripts directly.
+ENV_PATH = Path(__file__).resolve().parents[1] / ".env"
+load_dotenv(dotenv_path=ENV_PATH)
 # ─────────────────────────────── config ────────────────────────────────────
 DB_CONN = "DRIVER={ODBC Driver 18 for SQL Server};SERVER=20.171.24.17;DATABASE=CME2;UID=new_root;PWD=japl@bJBYV77;Encrypt=no;TrustServerCertificate=yes;"
 QUEUE_CONN_STR = os.getenv("AzureWebJobsStorage")

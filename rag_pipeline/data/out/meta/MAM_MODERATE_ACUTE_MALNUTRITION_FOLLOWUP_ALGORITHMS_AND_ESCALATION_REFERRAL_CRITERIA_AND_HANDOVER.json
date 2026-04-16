@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Guidelines for escalating care from outpatient management of moderate acute malnutrition to facility-based care, including referral criteria, pre-referral actions, and handover documentation to ensure continuity of care.",
+  "learning_objectives": [
+    "Understand the criteria for escalating moderate acute malnutrition cases to facility-based care.",
+    "Learn pre-referral actions to stabilize children before transport to a facility.",
+    "Recognize the importance of handover documentation in ensuring continuity of care.",
+    "Identify community pathways for post-stabilization monitoring and supplementary feeding."
+  ],
+  "key_facts": [
+    "Escalation is required if MUAC < 115 mm, WHZ/WLZ < -3, or bilateral pitting oedema appears.",
+    "Refer cases with complications like severe dehydration, respiratory distress, or hypothermia to the nearest NRC or paediatric ward implementing FBMC guidelines.",
+    "Pre-referral actions include preventing hypoglycaemia, keeping the child warm, cautious dehydration treatment, and administering first-dose antibiotics for severe infections.",
+    "Handover documentation should include anthropometry (weight, height/length, MUAC, oedema), appetite status, feeding dysfunction observations, and treatments given.",
+    "Post-stabilization care involves supplementary feeding through ICDS entitlements at AWCs and CMAM workflows where available."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Malnutrition",
+    "Child Nutrition Disorders",
+    "Referral and Consultation",
+    "Community Health Services",
+    "Nutritional Support",
+    "Pediatric Emergency Care",
+    "Anthropometry",
+    "India"
+  ],
+  "tags_custom": [
+    "Moderate Acute Malnutrition",
+    "Facility-Based Care",
+    "Referral Pathways",
+    "Pre-Referral Stabilization",
+    "Handover Documentation"
+  ],
+  "reference_quote": "Refer to the nearest NRC or paediatric ward implementing FBMC operational guidance for stabilization and nutrition rehabilitation. \u2014 Operational guidelines on facility-based management of children with severe acute malnutrition (FBMC)",
+  "document_key_topics": [
+    "Referral criteria for moderate acute malnutrition escalation",
+    "Pre-referral stabilization actions",
+    "Handover documentation for facility-based care",
+    "Community pathways for post-stabilization care"
+  ],
+  "chunk_heading": "(MAM) MODERATE ACUTE MALNUTRITION AND SUPPLEMENTARY FEEDING;FOLLOW-UP ALGORITHMS AND ESCALATION PATHWAYS;REFERRAL CRITERIA AND HANDOVER DOCUMENTATION FOR ESCALATION TO FACILITY CARE;",
+  "topic": "(MAM) MODERATE ACUTE MALNUTRITION AND SUPPLEMENTARY FEEDING",
+  "subtopic": "FOLLOW-UP ALGORITHMS AND ESCALATION PATHWAYS",
+  "sub_subtopic": "REFERRAL CRITERIA AND HANDOVER DOCUMENTATION FOR ESCALATION TO FACILITY CARE",
+  "heading_path": "(MAM) MODERATE ACUTE MALNUTRITION AND SUPPLEMENTARY FEEDING;FOLLOW-UP ALGORITHMS AND ESCALATION PATHWAYS;REFERRAL CRITERIA AND HANDOVER DOCUMENTATION FOR ESCALATION TO FACILITY CARE;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u007f4"
+}

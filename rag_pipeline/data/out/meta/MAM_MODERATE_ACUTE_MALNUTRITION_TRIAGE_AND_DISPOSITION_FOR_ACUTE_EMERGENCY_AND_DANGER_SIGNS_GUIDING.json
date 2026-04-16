@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "Guidelines for triaging and managing moderate acute malnutrition (MAM) focus on identifying emergency and danger signs to guide admission or referral, emphasizing immediate stabilization and facility-based care for complicated cases.",
+  "learning_objectives": [
+    "Understand the triage process for children with suspected MAM, including the use of MUAC and WHZ/WLZ metrics.",
+    "Identify emergency signs requiring immediate stabilization, admission, or referral in acute wasting cases.",
+    "Recognize general danger signs and complications that classify wasting as 'complicated.'",
+    "Apply IMNCI/IMCI and ETAT guidelines in the management of acute malnutrition."
+  ],
+  "key_facts": [
+    "Triage begins with identifying acute wasting criteria, not anthropometry.",
+    "Emergency signs include shock (CRT >3 seconds, weak/fast pulse), severe dehydration, and respiratory distress (e.g., grunting, stridor, apnoeic spells).",
+    "General danger signs include inability to drink, vomiting everything, convulsions, and lethargy or unconsciousness.",
+    "Temperature instability (fever \u226539\u00b0C or hypothermia <35\u00b0C) and severe palmar pallor are complications requiring admission.",
+    "Caregiver inability to provide safe home care is a criterion for referral as 'complicated wasting.'"
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Malnutrition",
+    "Acute Disease",
+    "Triage",
+    "Respiratory Distress Syndrome",
+    "Shock",
+    "Dehydration",
+    "Pediatric Emergency Medicine",
+    "Anthropometry"
+  ],
+  "tags_custom": [
+    "MAM management",
+    "emergency triage",
+    "complicated wasting",
+    "IMNCI guidelines"
+  ],
+  "reference_quote": "Emergency signs requiring immediate emergency treatment and usually admission or urgent referral include: not breathing or gasping; obstructed breathing; central cyanosis; severe respiratory distress; shock; coma on AVPU or ongoing convulsions; and severe dehydration in diarrhoea.",
+  "document_key_topics": [
+    "Triage process for MAM",
+    "Emergency and danger signs in acute wasting",
+    "Complications requiring admission or referral",
+    "IMNCI and ETAT guidelines for pediatric care"
+  ],
+  "chunk_heading": "(MAM) MODERATE ACUTE MALNUTRITION AND SUPPLEMENTARY FEEDING;TRIAGE AND DISPOSITION FOR ACUTE WASTING;EMERGENCY AND DANGER SIGNS GUIDING ADMISSION OR REFERRAL;",
+  "topic": "(MAM) MODERATE ACUTE MALNUTRITION AND SUPPLEMENTARY FEEDING",
+  "subtopic": "TRIAGE AND DISPOSITION FOR ACUTE WASTING",
+  "sub_subtopic": "EMERGENCY AND DANGER SIGNS GUIDING ADMISSION OR REFERRAL",
+  "heading_path": "(MAM) MODERATE ACUTE MALNUTRITION AND SUPPLEMENTARY FEEDING;TRIAGE AND DISPOSITION FOR ACUTE WASTING;EMERGENCY AND DANGER SIGNS GUIDING ADMISSION OR REFERRAL;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1h1"
+}

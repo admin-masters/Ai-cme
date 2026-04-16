@@ -1,11 +1,15 @@
 from pathlib import Path
 import os
 from streamlit import secrets
+from dotenv import load_dotenv
+
+# Load environment variables from rag_pipeline/.env when running scripts directly.
+load_dotenv(Path(__file__).with_name(".env"))
 
 # ---------- Azure OpenAI ----------
 
 AZURE_OAI_ENDPOINT   = "https://azure-140709.openai.azure.com/"
-AZURE_OAI_KEY        = os.getenv("AZURE_OPENAI_KEY")
+AZURE_OAI_KEY        = os.getenv("AZURE_OPENAI_KEY") or os.getenv("AZURE_OAI_KEY")
 AZURE_OAI_DEPLOYMENT = "gpt-4o"   # deployment name
 AZURE_OAI_API_VER    =  "2024-04-01-preview"
 

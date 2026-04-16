@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Guidelines for accurate MUAC, weight, height, and oedema assessment in outpatient care for MAM, emphasizing standardization, repeat measurements, and safety in borderline cases.",
+  "learning_objectives": [
+    "Understand the correct technique for measuring MUAC, weight, and height in children with MAM.",
+    "Learn to assess bilateral pitting oedema systematically and differentiate it from local pathology.",
+    "Recognize the importance of repeating borderline measurements and documenting confirmed values.",
+    "Appreciate the role of standardized tools and techniques in reducing misclassification."
+  ],
+  "key_facts": [
+    "MUAC should be measured on the left arm using a non-stretch tape, identifying the midpoint between the acromion and olecranon.",
+    "Measurements must be repeated at least twice and documented to the nearest millimeter.",
+    "Bilateral pitting oedema is confirmed by pressing both feet for several seconds and observing persistent pitting.",
+    "Small errors in measurement can shift a child across MAM thresholds, necessitating repeat measurements for borderline values.",
+    "In India, program entry criteria may include both MUAC and WHZ/WLZ, with local variations in definitions.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Malnutrition",
+    "Anthropometry",
+    "Mid-Upper Arm Circumference",
+    "Oedema",
+    "Child Nutrition Disorders",
+    "Measurement Techniques",
+    "Nutritional Assessment",
+    "Community Health Services"
+  ],
+  "tags_custom": [
+    "MAM outpatient care",
+    "MUAC measurement",
+    "Borderline malnutrition",
+    "Pitting oedema assessment"
+  ],
+  "reference_quote": "World Health Organization. 2023. Guideline on the prevention and management of wasting and nutritional oedema in infants and children under 5 years.",
+  "document_key_topics": [
+    "MUAC measurement technique",
+    "Oedema assessment in malnutrition",
+    "Standardization of anthropometric tools",
+    "Borderline value management in MAM"
+  ],
+  "chunk_heading": "(MAM) MODERATE ACUTE MALNUTRITION AND SUPPLEMENTARY FEEDING;ANTHROPOMETRY AND BORDERLINE INTERPRETATION IN OUTPATIENT CARE;MEASUREMENT TECHNIQUE FOR MUAC LENGTH AND OEDEMA;",
+  "topic": "(MAM) MODERATE ACUTE MALNUTRITION AND SUPPLEMENTARY FEEDING",
+  "subtopic": "ANTHROPOMETRY AND BORDERLINE INTERPRETATION IN OUTPATIENT CARE",
+  "sub_subtopic": "MEASUREMENT TECHNIQUE FOR MUAC LENGTH AND OEDEMA",
+  "heading_path": "(MAM) MODERATE ACUTE MALNUTRITION AND SUPPLEMENTARY FEEDING;ANTHROPOMETRY AND BORDERLINE INTERPRETATION IN OUTPATIENT CARE;MEASUREMENT TECHNIQUE FOR MUAC LENGTH AND OEDEMA;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1k1"
+}

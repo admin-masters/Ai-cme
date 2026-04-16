@@ -1,41 +1,41 @@
 {
-  "chunk_summary": "This section discusses the population burden of wasting in India, with 19.3% of under-5 children wasted and 7.7% severely wasted, and highlights clinically actionable determinants like diet and infections for managing moderate acute malnutrition (MAM).",
+  "chunk_summary": "India faces a high burden of wasting in children under 5, with 19.3% wasted and 7.7% severely wasted. Clinically actionable determinants include diet quality, feeding practices, infections, and WASH, requiring integrated prevention and treatment strategies.",
   "learning_objectives": [
-    "Understand the prevalence and classification of wasting in Indian children under 5 years.",
-    "Identify key dietary and health-related drivers of moderate acute malnutrition (MAM).",
-    "Learn clinical strategies for addressing MAM, including nutrition rehabilitation and illness management.",
-    "Recognize the bidirectional relationship between infections and malnutrition."
+    "Understand the prevalence and clinical significance of moderate acute malnutrition (MAM) in India.",
+    "Identify key dietary and health-related drivers of wasting in children under 5.",
+    "Learn to develop integrated treatment plans addressing both nutrition and illness in MAM cases.",
+    "Recognize the bidirectional relationship between infection and undernutrition."
   ],
   "key_facts": [
-    "19.3% of under-5 children in India are wasted, with 7.7% severely wasted (NFHS-5, 2019\u20132021).",
+    "19.3% of children under 5 in India are wasted, with 7.7% severely wasted (NFHS-5, 2019\u20132021).",
     "Moderate wasting is estimated at 11.6% by subtracting severe wasting from total wasting.",
-    "Key drivers of MAM include inadequate diet quality/quantity, inappropriate feeding practices, and recurrent infections.",
-    "Infections like diarrhoea and respiratory illnesses exacerbate malnutrition through reduced appetite and increased catabolism.",
-    "Effective outpatient care for moderate wasting can prevent progression to severe wasting and reduce avoidable deaths."
+    "Key drivers include inadequate diet, inappropriate feeding practices, recurrent infections, and suboptimal WASH.",
+    "Wasting is sensitive to short-term shocks like food insecurity and seasonal infection peaks.",
+    "Effective outpatient care for MAM can prevent progression to severe wasting and reduce avoidable deaths."
   ],
   "complexity": "intermediate",
   "tags_mesh": [
     "Malnutrition",
     "Wasting Syndrome",
     "Child Nutrition Disorders",
-    "Dietary Practices",
     "Infections",
-    "Diarrhea",
-    "Respiratory Tract Infections",
-    "Water, Sanitation, and Hygiene (WASH)"
+    "Dietary Practices",
+    "Water, Sanitation, and Hygiene (WASH)",
+    "Community Health Services",
+    "India"
   ],
   "tags_custom": [
     "Moderate Acute Malnutrition",
     "Child Health in India",
-    "Clinical Nutrition",
-    "Public Health Interventions"
+    "Integrated Nutrition Programs",
+    "Clinical Determinants of Wasting"
   ],
   "reference_quote": "The NFHS-5 (2019\u20132021) fact sheet reports 19.3% of under-5 children are wasted and 7.7% are severely wasted.",
   "document_key_topics": [
     "Prevalence of wasting in India",
-    "Determinants of moderate acute malnutrition",
-    "Clinical management of MAM",
-    "Impact of infections on malnutrition"
+    "Clinically actionable determinants of MAM",
+    "Integrated prevention and treatment strategies for wasting",
+    "Impact of infections and WASH on child nutrition"
   ],
   "chunk_heading": "(MAM) MODERATE ACUTE MALNUTRITION AND SUPPLEMENTARY FEEDING;BURDEN AND DRIVERS OF ACUTE WASTING IN INDIA;POPULATION BURDEN AND CLINICALLY ACTIONABLE DETERMINANTS;",
   "topic": "(MAM) MODERATE ACUTE MALNUTRITION AND SUPPLEMENTARY FEEDING",

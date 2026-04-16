@@ -11,7 +11,11 @@ AZURE_OAI_ENDPOINT = "https://azure-140709.openai.azure.com/"
 AZURE_OAI_KEY = os.getenv("AZURE_OPENAI_KEY")
 DEPLOYMENT = "gpt-4o"
 AZURE_OAI_API_VERSION = "2024-02-15-preview"
+from pathlib import Path
+from dotenv import load_dotenv
 
+ENV_PATH = Path(__file__).resolve().parents[1] / ".env"
+load_dotenv(dotenv_path=ENV_PATH)
 # ─────────────────── Azure-OpenAI client ────────────────────
 oai = AzureOpenAI(
     api_key=AZURE_OAI_KEY,

@@ -1,17 +1,18 @@
 {
-  "chunk_summary": "This section outlines a structured clinical approach to assess stunted children, focusing on anthropometry, nutritional phenotypes, proportionality, syndromic cues, and functional screening to identify underlying causes and guide management strategies.",
+  "chunk_summary": "This section outlines a structured clinical approach to assess and triage stunted children, focusing on anthropometry, nutritional phenotypes, proportionality, syndromic cues, and functional screening to guide management and referrals.",
   "learning_objectives": [
     "Understand the process of validating anthropometric measurements in stunted children.",
-    "Learn to classify nutritional phenotypes and identify urgent cases requiring stabilization.",
-    "Recognize proportionality and syndromic cues to differentiate between skeletal dysplasia, genetic syndromes, and chronic diseases.",
-    "Perform endocrine, developmental, and functional screenings to guide clinical decisions."
+    "Identify and classify nutritional phenotypes, including stunting, wasting, and concurrent conditions.",
+    "Recognize proportionality and syndromic cues to differentiate genetic syndromes or skeletal dysplasia.",
+    "Perform targeted endocrine, functional, and chronic disease screening in stunted children."
   ],
   "key_facts": [
     "Stunting is defined as height-for-age Z-score (HAZ) < -2.",
-    "MUAC (mid-upper arm circumference) should be measured in children aged 6\u201359 months.",
-    "Concurrent wasting and stunting (WaSt) or nutritional edema requires immediate stabilization.",
-    "Proportional short stature may indicate chronic disease or micronutrient deficiencies, while disproportion suggests skeletal dysplasia or genetic syndromes.",
-    "Endocrine screening includes thyroid enlargement, pubertal staging, and blood pressure assessment for renal disease."
+    "MUAC (mid-upper arm circumference) is critical for children aged 6\u201359 months.",
+    "Concurrent wasting and stunting (WaSt) increases urgency for stabilization pathways.",
+    "Proportionality assessment includes upper-to-lower segment ratio and limb length.",
+    "Endocrine screening includes thyroid enlargement, pubertal staging, and blood pressure checks.",
+    "Danger signs like nutritional edema or very low MUAC require immediate stabilization."
   ],
   "complexity": "advanced",
   "tags_mesh": [
@@ -20,30 +21,30 @@
     "Anthropometry",
     "Malnutrition",
     "Growth Disorders",
-    "Micronutrient Deficiencies",
+    "Phenotype",
     "Endocrine System Diseases",
-    "Phenotype"
+    "Nutritional Assessment"
   ],
   "tags_custom": [
-    "Pediatric Nutrition",
-    "Clinical Examination",
-    "Growth Assessment",
-    "Stunted Growth",
-    "Phenotype Classification"
+    "stunted children",
+    "clinical triage",
+    "nutritional phenotypes",
+    "proportionality assessment",
+    "functional screening"
   ],
-  "reference_quote": "Short stature in childhood: challenges and choices \u2014 'A structured clinical examination is essential to differentiate between proportionate and disproportionate short stature and identify underlying causes.'",
+  "reference_quote": "Child growth standards \u2014 https://www.who.int/tools/child-growthstandards",
   "document_key_topics": [
-    "Anthropometric validation and measurements",
-    "Nutritional phenotype classification",
-    "Proportionality and syndromic assessment",
-    "Endocrine and functional screening in stunted children"
+    "Anthropometric validation and measurement techniques",
+    "Classification of nutritional phenotypes in stunted children",
+    "Proportionality and syndromic assessment for genetic or skeletal conditions",
+    "Endocrine and functional screening in chronic undernutrition"
   ],
-  "chunk_heading": "STUNTING, CHRONIC UNDERNUTRITION & DETERMINANTS;STRUCTURED CLINICAL EXAMINATION AND PHENOTYPE TRIAGE IN STUNTED CHILDREN;",
-  "topic": "STUNTING, CHRONIC UNDERNUTRITION & DETERMINANTS",
+  "chunk_heading": "STUNTING, CHRONIC UNDERNUTRITION AND DETERMINANTS;STRUCTURED CLINICAL EXAMINATION AND PHENOTYPE TRIAGE IN STUNTED CHILDREN;",
+  "topic": "STUNTING, CHRONIC UNDERNUTRITION AND DETERMINANTS",
   "subtopic": "STRUCTURED CLINICAL EXAMINATION AND PHENOTYPE TRIAGE IN STUNTED CHILDREN",
   "sub_subtopic": null,
-  "heading_path": "STUNTING, CHRONIC UNDERNUTRITION & DETERMINANTS;STRUCTURED CLINICAL EXAMINATION AND PHENOTYPE TRIAGE IN STUNTED CHILDREN;",
+  "heading_path": "STUNTING, CHRONIC UNDERNUTRITION AND DETERMINANTS;STRUCTURED CLINICAL EXAMINATION AND PHENOTYPE TRIAGE IN STUNTED CHILDREN;",
   "reference_count": 5,
   "has_guidelines": false,
-  "sequence": "3d"
+  "sequence": "1c"
 }

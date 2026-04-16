@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Antibiotic use in moderate acute malnutrition (MAM) should be guided by clinical infection syndromes, avoiding routine use to prevent antimicrobial resistance and adverse effects. WHO 2023 guidelines emphasize targeted treatment and antibiotic stewardship in India\u2019s community management models.",
+  "learning_objectives": [
+    "Understand the WHO 2023 guidelines on antibiotic use in moderate wasting.",
+    "Learn principles of antibiotic stewardship in MAM management.",
+    "Identify clinical conditions warranting antibiotic use in children with moderate wasting.",
+    "Recognize the risks of routine antibiotic use in MAM, including antimicrobial resistance."
+  ],
+  "key_facts": [
+    "WHO 2023 guidelines do not recommend routine antibiotics for all children with MAM.",
+    "Antibiotics should be prescribed only for clinical diagnoses like pneumonia, dysentery, or sepsis.",
+    "Routine 'nutrition-only antibiotics' can increase antimicrobial resistance without clear benefits.",
+    "Screening at follow-up visits should include symptoms like cough, fever, and diarrhoea with blood.",
+    "Underlying drivers of recurrent infections include TB, HIV, poor WASH, and crowded housing."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Malnutrition",
+    "Antibiotic Stewardship",
+    "Child Nutrition Disorders",
+    "Community Health Services",
+    "Antimicrobial Resistance",
+    "Infectious Disease Management",
+    "Pneumonia",
+    "Diarrhea"
+  ],
+  "tags_custom": [
+    "moderate wasting",
+    "clinical guidelines",
+    "India-specific practices",
+    "infection screening",
+    "community-based management"
+  ],
+  "reference_quote": "The 2023 WHO wasting guideline emphasizes comprehensive assessment and treatment of medical problems contributing to moderate wasting, and does not recommend routine antibiotics for all children with MAM.",
+  "document_key_topics": [
+    "Antibiotic stewardship in moderate wasting",
+    "WHO 2023 guidelines on MAM management",
+    "Community-based management models in India",
+    "Screening and treatment of infections in MAM"
+  ],
+  "chunk_heading": "(MAM) MODERATE ACUTE MALNUTRITION AND SUPPLEMENTARY FEEDING;PRACTICE VARIATIONS AND EMERGING EVIDENCE IN INDIA;ANTIBIOTIC USE DECISIONS IN MODERATE WASTING;",
+  "topic": "(MAM) MODERATE ACUTE MALNUTRITION AND SUPPLEMENTARY FEEDING",
+  "subtopic": "PRACTICE VARIATIONS AND EMERGING EVIDENCE IN INDIA",
+  "sub_subtopic": "ANTIBIOTIC USE DECISIONS IN MODERATE WASTING",
+  "heading_path": "(MAM) MODERATE ACUTE MALNUTRITION AND SUPPLEMENTARY FEEDING;PRACTICE VARIATIONS AND EMERGING EVIDENCE IN INDIA;ANTIBIOTIC USE DECISIONS IN MODERATE WASTING;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1\u00972"
+}

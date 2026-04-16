@@ -1,0 +1,46 @@
+{
+  "chunk_summary": "This section discusses discharge decisions in outpatient CMAM programs in India when MUAC and WHZ criteria for severe acute malnutrition (SAM) management disagree, referencing WHO, IAP, and NITI Aayog guidelines.",
+  "learning_objectives": [
+    "Understand the criteria for discharge in CMAM programs when MUAC and WHZ measurements conflict.",
+    "Learn the role of WHO and national guidelines in managing SAM in outpatient settings.",
+    "Identify best practices for community-based management of SAM in India."
+  ],
+  "key_facts": [
+    "MUAC (Mid-Upper Arm Circumference) <115 mm and WHZ (Weight-for-Height Z-score) <-3 are key diagnostic criteria for SAM.",
+    "Discharge decisions should prioritize clinical improvement and adherence to WHO and IAP guidelines.",
+    "The NITI Aayog report emphasizes community-based approaches for SAM management in India.",
+    "WHO guidelines (2023) recommend harmonizing MUAC and WHZ criteria to avoid premature discharge.",
+    "The 2007 UNICEF-WHO joint statement supports community-based management as a scalable solution for SAM."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Severe Acute Malnutrition",
+    "Community Health Services",
+    "Nutritional Assessment",
+    "Mid-Upper Arm Circumference",
+    "Weight-for-Height Z-score",
+    "Outpatient Care",
+    "India",
+    "Guideline Adherence"
+  ],
+  "tags_custom": [
+    "CMAM implementation",
+    "discharge criteria",
+    "MUAC vs WHZ",
+    "SAM management in India"
+  ],
+  "reference_quote": "\"Discharge decisions should be based on clinical improvement and adherence to WHO and IAP guidelines to ensure sustainable recovery.\" (Source: https://iapindia.org/pdf/Ch-136-Severe-Acute-Malnutrition.pdf)",
+  "document_key_topics": [
+    "Discharge criteria for SAM management",
+    "MUAC and WHZ measurement discrepancies",
+    "Community-based management of SAM in India"
+  ],
+  "chunk_heading": "SEVERE ACUTE MALNUTRITION - (SAM) MANAGEMENT;OUTPATIENT CMAM IMPLEMENTATION IN INDIA;DISCHARGE DECISIONS WHEN MUAC AND WHZ DISAGREE;",
+  "topic": "SEVERE ACUTE MALNUTRITION - (SAM) MANAGEMENT",
+  "subtopic": "OUTPATIENT CMAM IMPLEMENTATION IN INDIA",
+  "sub_subtopic": "DISCHARGE DECISIONS WHEN MUAC AND WHZ DISAGREE",
+  "heading_path": "SEVERE ACUTE MALNUTRITION - (SAM) MANAGEMENT;OUTPATIENT CMAM IMPLEMENTATION IN INDIA;DISCHARGE DECISIONS WHEN MUAC AND WHZ DISAGREE;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u00925.2"
+}

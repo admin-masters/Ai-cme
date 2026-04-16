@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Guidelines for managing borderline MUAC and WHZ values in outpatient care, emphasizing technical accuracy, clinical risk stratification, and prioritization for dietary support based on WHO risk factors.",
+  "learning_objectives": [
+    "Understand the significance of MUAC and WHZ discordance in malnutrition risk assessment.",
+    "Learn technical steps to confirm anthropometric measurements and ensure accuracy.",
+    "Identify WHO risk factors for prioritizing children for intensive dietary support and follow-up.",
+    "Apply safe management practices for children with borderline malnutrition metrics."
+  ],
+  "key_facts": [
+    "MUAC borderline values: 124\u2013125 mm; WHZ near -2 indicate overlapping risk phenotypes.",
+    "Mortality risk is highest when both MUAC and WHZ are low.",
+    "WHO risk factors include MUAC 115\u2013119 mm, WAZ < -3, age < 24 months, and comorbidities like HIV or TB.",
+    "Technical confirmation involves repeating measurements, calibrating equipment, and ensuring proper technique.",
+    "Children with borderline metrics should be managed 'as if eligible' for intensified support when uncertainty persists."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Malnutrition",
+    "Anthropometry",
+    "Mid-Upper Arm Circumference",
+    "Weight-for-Height Z-score",
+    "Nutritional Support",
+    "Child Mortality",
+    "Risk Assessment",
+    "Outpatient Clinics"
+  ],
+  "tags_custom": [
+    "borderline metrics",
+    "clinical risk stratification",
+    "supplementary feeding",
+    "WHO guidelines",
+    "discordant measures"
+  ],
+  "reference_quote": "Mortality risk is highest when both MUAC and WHZ are low. (PLOS ONE, MUAC and WHZ as predictors of mortality and programme outcomes in children under 5 years)",
+  "document_key_topics": [
+    "Management of borderline MUAC and WHZ values",
+    "Technical accuracy in anthropometric measurements",
+    "WHO risk factors for malnutrition prioritization",
+    "Clinical strategies for discordant metrics in outpatient care"
+  ],
+  "chunk_heading": "(MAM) MODERATE ACUTE MALNUTRITION AND SUPPLEMENTARY FEEDING;ANTHROPOMETRY AND BORDERLINE INTERPRETATION IN OUTPATIENT CARE;MANAGEMENT OF BORDERLINE VALUES AND DISCORDANT METRICS;",
+  "topic": "(MAM) MODERATE ACUTE MALNUTRITION AND SUPPLEMENTARY FEEDING",
+  "subtopic": "ANTHROPOMETRY AND BORDERLINE INTERPRETATION IN OUTPATIENT CARE",
+  "sub_subtopic": "MANAGEMENT OF BORDERLINE VALUES AND DISCORDANT METRICS",
+  "heading_path": "(MAM) MODERATE ACUTE MALNUTRITION AND SUPPLEMENTARY FEEDING;ANTHROPOMETRY AND BORDERLINE INTERPRETATION IN OUTPATIENT CARE;MANAGEMENT OF BORDERLINE VALUES AND DISCORDANT METRICS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1l2"
+}

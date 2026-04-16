@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "This section discusses CMAM program performance indicators and Sphere benchmarks for managing severe acute malnutrition, focusing on inpatient and outpatient quality metrics, recovery thresholds, and operational indicators to improve program outcomes.",
+  "learning_objectives": [
+    "Understand Sphere benchmarks for outpatient therapeutic feeding programs, including recovery, death, and default rates.",
+    "Identify key inpatient and outpatient quality metrics for SAM management, such as early death rates and appetite recovery timelines.",
+    "Learn to monitor operational indicators like median length of stay and weight gain to predict treatment failure.",
+    "Recognize the importance of protocol audits when performance thresholds are not met."
+  ],
+  "key_facts": [
+    "Sphere standards for outpatient programs: recovery >75%, death <10%, default <15%.",
+    "Inpatient deaths within the first 48\u201372 hours often indicate shock, hypoglycemia, or fluid errors.",
+    "Monitor weight gain: <5 g/kg/day after catch-up initiation signals potential system issues.",
+    "Track oedema reduction: should improve by day 4 and resolve by day 10.",
+    "High-yield inpatient quality signals include adherence to phased feeding and electrolyte protocols."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Severe Acute Malnutrition",
+    "Community-Based Management of Acute Malnutrition",
+    "Nutritional Rehabilitation",
+    "Therapeutic Feeding",
+    "Program Evaluation",
+    "Quality Indicators, Health Care",
+    "Sphere Standards",
+    "Patient Safety"
+  ],
+  "tags_custom": [
+    "SAM management",
+    "CMAM performance",
+    "Sphere benchmarks",
+    "Inpatient and outpatient metrics",
+    "Protocol audits"
+  ],
+  "reference_quote": "Sphere standards for outpatient therapeutic feeding programs: recovered >75%, died <10%, and defaulted <15% among discharges. (Source: https://www.ndsu.edu/sites/default/files/fileadmin/emgt/The_Sphere_Project_Handbook_2011.p...)",
+  "document_key_topics": [
+    "Sphere benchmarks for SAM management",
+    "Inpatient and outpatient quality metrics",
+    "Operational indicators for treatment failure"
+  ],
+  "chunk_heading": "SEVERE ACUTE MALNUTRITION - (SAM) MANAGEMENT;DISCHARGE FOLLOW- UP AND PROGRAM QUALITY;CMAM PROGRAM PERFORMANCE INDICATORS AND SPHERE BENCHMARKS;",
+  "topic": "SEVERE ACUTE MALNUTRITION - (SAM) MANAGEMENT",
+  "subtopic": "DISCHARGE FOLLOW- UP AND PROGRAM QUALITY",
+  "sub_subtopic": "CMAM PROGRAM PERFORMANCE INDICATORS AND SPHERE BENCHMARKS",
+  "heading_path": "SEVERE ACUTE MALNUTRITION - (SAM) MANAGEMENT;DISCHARGE FOLLOW- UP AND PROGRAM QUALITY;CMAM PROGRAM PERFORMANCE INDICATORS AND SPHERE BENCHMARKS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u00983.1"
+}

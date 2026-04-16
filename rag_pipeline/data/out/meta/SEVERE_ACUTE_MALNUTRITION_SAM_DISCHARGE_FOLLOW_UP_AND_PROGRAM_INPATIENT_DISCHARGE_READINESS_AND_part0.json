@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "Guidelines for inpatient discharge readiness in SAM management, emphasizing clinical stability, feeding criteria, danger signs, and follow-up protocols for transitioning to outpatient care.",
+  "learning_objectives": [
+    "Understand the criteria for inpatient discharge readiness in SAM management.",
+    "Learn the importance of separating discharge readiness from outpatient cure criteria.",
+    "Identify key danger signs and follow-up protocols for post-discharge care.",
+    "Recognize the role of therapeutic feeding and weight gain metrics in discharge decisions."
+  ],
+  "key_facts": [
+    "Discharge readiness requires sustained intake of 120\u2013130 kcal/kg/day with weight gain \u22655 g/kg/day for 3 consecutive days.",
+    "Clinical stability includes no hypoglycemia, hypothermia, or dehydration for at least 24 hours.",
+    "Nutritional oedema must be reducing or resolved before discharge.",
+    "Parenteral antibiotics should be completed unless a supervised step-down plan is in place.",
+    "First follow-up should be scheduled within 7 days post-discharge.",
+    "Families should be linked to outpatient nutrition services and provided with danger signs like poor intake, fever, or lethargy."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Malnutrition",
+    "Severe Acute Malnutrition",
+    "Discharge Planning",
+    "Nutritional Therapy",
+    "Pediatric Nutrition",
+    "Clinical Protocols",
+    "Follow-Up Studies",
+    "Outpatient Care"
+  ],
+  "tags_custom": [
+    "SAM discharge criteria",
+    "pediatric malnutrition care",
+    "clinical stability thresholds",
+    "step-down handover",
+    "nutrition rehabilitation"
+  ],
+  "reference_quote": "Discharge readiness is a clinical stability threshold, not an endpoint, and must be separated from outpatient program 'cure' criteria requiring anthropometric recovery and oedema-free duration.",
+  "document_key_topics": [
+    "Inpatient discharge readiness criteria for SAM",
+    "Therapeutic feeding and weight gain metrics",
+    "Danger signs and follow-up protocols",
+    "Referral pathways for outpatient nutrition services"
+  ],
+  "chunk_heading": "SEVERE ACUTE MALNUTRITION - (SAM) MANAGEMENT;DISCHARGE FOLLOW- UP AND PROGRAM QUALITY;INPATIENT DISCHARGE READINESS AND STEP-DOWN  HANDOVER CRITERIA;",
+  "topic": "SEVERE ACUTE MALNUTRITION - (SAM) MANAGEMENT",
+  "subtopic": "DISCHARGE FOLLOW- UP AND PROGRAM QUALITY",
+  "sub_subtopic": "INPATIENT DISCHARGE READINESS AND STEP-DOWN  HANDOVER CRITERIA",
+  "heading_path": "SEVERE ACUTE MALNUTRITION - (SAM) MANAGEMENT;DISCHARGE FOLLOW- UP AND PROGRAM QUALITY;INPATIENT DISCHARGE READINESS AND STEP-DOWN  HANDOVER CRITERIA;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1\u00951.1"
+}

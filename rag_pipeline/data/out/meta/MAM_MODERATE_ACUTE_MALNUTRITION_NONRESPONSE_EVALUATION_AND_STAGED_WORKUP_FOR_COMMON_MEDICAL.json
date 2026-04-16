@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "A staged work-up for non-response in moderate acute malnutrition includes high-yield tests at 2\u20134 weeks and targeted tests at 4\u20138 weeks, guided by clinical findings and specific guidelines for celiac disease, TB, and other conditions.",
+  "learning_objectives": [
+    "Understand the staged investigation strategy for non-response in moderate acute malnutrition.",
+    "Identify appropriate high-yield tests for initial evaluation at 2\u20134 weeks of non-response.",
+    "Apply targeted diagnostic guidelines for celiac disease, TB, and other conditions at 4\u20138 weeks.",
+    "Recognize when to escalate care or refer for comprehensive evaluation."
+  ],
+  "key_facts": [
+    "Stage A tests (2\u20134 weeks): haemoglobin, stool examination, and urinalysis with culture.",
+    "Stage B tests (4\u20138 weeks): IgA anti-tTG for celiac disease (children >2 years), IgG-based tests for IgA deficiency, and TB diagnostics per NTEP guidelines.",
+    "Persistent non-response beyond 8 weeks warrants referral to a higher facility.",
+    "Chest radiographs are recommended only when respiratory symptoms suggest TB or lower respiratory disease.",
+    "HIV testing should be considered with recurrent infections or persistent poor response."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Malnutrition",
+    "Celiac Disease",
+    "Tuberculosis",
+    "HIV Infections",
+    "Urinary Tract Infections",
+    "Diagnostic Techniques and Procedures",
+    "Child Nutrition Disorders",
+    "Nutritional Assessment"
+  ],
+  "tags_custom": [
+    "non-response evaluation",
+    "staged diagnostics",
+    "moderate acute malnutrition",
+    "pediatric malnutrition",
+    "targeted investigations"
+  ],
+  "reference_quote": "For suspected celiac disease, follow ICMR guidance that IgA anti-tTG is the preferred serologic test in children above 2 years.",
+  "document_key_topics": [
+    "Staged diagnostic approach for non-response in MAM",
+    "High-yield and targeted tests for common medical causes",
+    "Guidelines for celiac disease and TB diagnostics",
+    "Referral criteria for persistent non-response"
+  ],
+  "chunk_heading": "(MAM) MODERATE ACUTE MALNUTRITION AND SUPPLEMENTARY FEEDING;NON-RESPONSE EVALUATION AND TARGETED INVESTIGATION;STAGED WORK-UP FOR COMMON MEDICAL CAUSES;",
+  "topic": "(MAM) MODERATE ACUTE MALNUTRITION AND SUPPLEMENTARY FEEDING",
+  "subtopic": "NON-RESPONSE EVALUATION AND TARGETED INVESTIGATION",
+  "sub_subtopic": "STAGED WORK-UP FOR COMMON MEDICAL CAUSES",
+  "heading_path": "(MAM) MODERATE ACUTE MALNUTRITION AND SUPPLEMENTARY FEEDING;NON-RESPONSE EVALUATION AND TARGETED INVESTIGATION;STAGED WORK-UP FOR COMMON MEDICAL CAUSES;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u00883"
+}

@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section focuses on the criteria and dosing guidelines for initiating iron supplementation during the rehabilitation phase of severe acute malnutrition (SAM) management, emphasizing infection control and metabolic corrections.",
+  "learning_objectives": [
+    "Understand the criteria for initiating iron supplementation in children with SAM during rehabilitation.",
+    "Learn the recommended dosing guidelines for iron supplementation in SAM management.",
+    "Recognize the importance of infection management and metabolic corrections in SAM rehabilitation.",
+    "Identify key references and guidelines for evidence-based SAM care."
+  ],
+  "key_facts": [
+    "Iron supplementation should only be initiated during the rehabilitation phase of SAM, not during the stabilization phase.",
+    "The recommended daily dose of elemental iron is 3 mg/kg body weight per day, as per WHO guidelines.",
+    "Iron supplementation is contraindicated in the presence of ongoing infections or severe anemia until stabilized.",
+    "Infection management and metabolic corrections must precede iron initiation to avoid complications.",
+    "The Indian Academy of Pediatrics and WHO provide standardized protocols for SAM management, including iron dosing."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Severe Acute Malnutrition",
+    "Iron Supplementation",
+    "Rehabilitation",
+    "Infection Control",
+    "Metabolic Diseases",
+    "Pediatric Nutrition Disorders",
+    "Micronutrient Deficiency",
+    "Clinical Guidelines"
+  ],
+  "tags_custom": [
+    "SAM management",
+    "iron dosing",
+    "rehabilitation phase",
+    "infection management",
+    "pediatric care"
+  ],
+  "reference_quote": "Iron supplementation should be initiated during the rehabilitation phase at a dose of 3 mg/kg/day of elemental iron, as per WHO guidelines. (Source: https://www.ncbi.nlm.nih.gov/books/NBK154454/)",
+  "document_key_topics": [
+    "Iron initiation criteria in SAM",
+    "Dosing guidelines for iron supplementation",
+    "Infection management in SAM",
+    "Metabolic corrections during rehabilitation"
+  ],
+  "chunk_heading": "SEVERE ACUTE MALNUTRITION - (SAM) MANAGEMENT;INFECTION MANAGEMENT AND METABOLIC CORRECTIONS;IRON INITIATION CRITERIA AND DOSING DURING REHABILITATION;",
+  "topic": "SEVERE ACUTE MALNUTRITION - (SAM) MANAGEMENT",
+  "subtopic": "INFECTION MANAGEMENT AND METABOLIC CORRECTIONS",
+  "sub_subtopic": "IRON INITIATION CRITERIA AND DOSING DURING REHABILITATION",
+  "heading_path": "SEVERE ACUTE MALNUTRITION - (SAM) MANAGEMENT;INFECTION MANAGEMENT AND METABOLIC CORRECTIONS;IRON INITIATION CRITERIA AND DOSING DURING REHABILITATION;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u008113.2"
+}

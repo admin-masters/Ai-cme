@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section focuses on outpatient referral and escalation criteria in CMAM programs for managing severe acute malnutrition (SAM) in India, emphasizing guidelines, numeric thresholds, and referral protocols for effective community-based care.",
+  "learning_objectives": [
+    "Understand the outpatient referral criteria for severe acute malnutrition (SAM) in CMAM programs.",
+    "Identify escalation protocols for cases requiring inpatient care in India.",
+    "Learn key numeric thresholds and clinical signs for referral decisions.",
+    "Explore the role of community-based management in reducing SAM-related mortality."
+  ],
+  "key_facts": [
+    "Children with SAM and medical complications (e.g., severe edema, hypoglycemia) must be referred to inpatient care immediately.",
+    "Mid-upper arm circumference (MUAC) <11.5 cm or weight-for-height Z-score <-3 are key criteria for identifying SAM cases.",
+    "Outpatient CMAM programs in India emphasize community-based care to reduce hospital burden and improve accessibility.",
+    "The NITI Aayog report highlights the importance of integrating CMAM into India's public health framework.",
+    "WHO guidelines recommend regular follow-up and monitoring of SAM cases in outpatient settings to ensure recovery."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Malnutrition",
+    "Severe Acute Malnutrition",
+    "Community Health Services",
+    "Referral and Consultation",
+    "India",
+    "Child Nutrition Disorders",
+    "Guidelines as Topic",
+    "Nutritional Therapy"
+  ],
+  "tags_custom": [
+    "CMAM implementation",
+    "Outpatient care",
+    "Referral protocols",
+    "SAM management in India",
+    "Public health integration"
+  ],
+  "reference_quote": "WHO guidelines emphasize that children with severe acute malnutrition and medical complications should be referred to inpatient care immediately for stabilization and treatment.",
+  "document_key_topics": [
+    "Outpatient referral criteria for SAM",
+    "Escalation protocols in CMAM",
+    "Community-based management of malnutrition",
+    "Integration of CMAM into India's healthcare system"
+  ],
+  "chunk_heading": "SEVERE ACUTE MALNUTRITION - (SAM) MANAGEMENT;OUTPATIENT CMAM IMPLEMENTATION IN INDIA;OUTPATIENT REFERRAL AND ESCALATION CRITERIA IN CMAM;",
+  "topic": "SEVERE ACUTE MALNUTRITION - (SAM) MANAGEMENT",
+  "subtopic": "OUTPATIENT CMAM IMPLEMENTATION IN INDIA",
+  "sub_subtopic": "OUTPATIENT REFERRAL AND ESCALATION CRITERIA IN CMAM",
+  "heading_path": "SEVERE ACUTE MALNUTRITION - (SAM) MANAGEMENT;OUTPATIENT CMAM IMPLEMENTATION IN INDIA;OUTPATIENT REFERRAL AND ESCALATION CRITERIA IN CMAM;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u00903.2"
+}

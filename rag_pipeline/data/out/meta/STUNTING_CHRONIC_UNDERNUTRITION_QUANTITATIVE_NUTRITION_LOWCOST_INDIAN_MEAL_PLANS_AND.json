@@ -1,17 +1,16 @@
 {
-  "chunk_summary": "This section provides low-cost Indian meal plans for toddlers, school-age children, and adolescents, emphasizing measurable follow-up goals to address chronic undernutrition and stunting through practical dietary interventions and adherence tracking.",
+  "chunk_summary": "Low-cost Indian meal plans for chronic undernutrition focus on age-appropriate, energy-dense meals with measurable follow-up goals to improve adherence and growth outcomes.",
   "learning_objectives": [
-    "Understand age-specific meal plans for addressing chronic undernutrition in Indian children.",
-    "Learn how to set measurable dietary goals for follow-up and adherence tracking.",
-    "Recognize the importance of energy-dense, protein-rich, and iron-containing foods in combating stunting and wasting."
+    "Design low-cost, age-appropriate meal plans for children with chronic undernutrition.",
+    "Identify measurable follow-up goals to monitor adherence and growth velocity.",
+    "Incorporate PM POSHAN school meal norms into daily nutrition plans."
   ],
   "key_facts": [
-    "Toddlers (12\u201323 months): Breakfast includes thick porridge/upma with oil/ghee and fruit; lunch includes khichdi/rice with dal, vegetables, and egg/dairy/soy alternative.",
-    "School-age children: Breakfast options include poha/upma with peanuts and milk or roti with egg/curd; afterschool snacks should prioritize roasted chana, peanuts, or chikki over packaged snacks.",
-    "Adolescents: Pair iron-rich foods with vitamin C sources and prioritize a protein-rich breakfast to improve school function.",
-    "Measurable goals include adding one daily protein serving, replacing tea plus biscuits with milk and a home snack, and tracking school meal uptake under PM POSHAN.",
-    "Follow-up for stunting without wasting: Schedule every 2\u20134 weeks initially, then every 6\u20138 weeks to assess growth velocity.",
-    "For wasting with or without stunting: Use higher-frequency follow-up aligned to risk."
+    "For toddlers (12\u201323 months), meals should include thick porridge, khichdi, and continued breastfeeding where applicable.",
+    "School-age children should consume a protein-rich breakfast and daily school meals under PM POSHAN norms.",
+    "Adolescents benefit from pairing iron-rich foods with vitamin C and prioritizing a protein-rich breakfast.",
+    "Follow-up for stunting without wasting should occur every 2\u20134 weeks initially, then every 6\u20138 weeks.",
+    "For wasting with or without stunting, follow-up should be more frequent, aligned to risk."
   ],
   "complexity": "intermediate",
   "tags_mesh": [
@@ -20,29 +19,27 @@
     "Dietary Guidelines",
     "Child Nutrition",
     "Adolescent Nutrition",
-    "Energy Density",
-    "Protein Intake",
-    "Growth Velocity"
+    "Energy Intake",
+    "Protein-Energy Malnutrition"
   ],
   "tags_custom": [
     "Low-cost meal plans",
-    "PM POSHAN guidelines",
-    "Follow-up goals",
-    "Indian dietary practices",
-    "Child growth monitoring"
+    "PM POSHAN",
+    "Growth monitoring",
+    "Follow-up goals"
   ],
-  "reference_quote": "\u2018Write 3\u20135 measurable goals such as adding one daily protein serving, replacing tea plus biscuits with milk plus a home snack on school days, and documenting the number of days per week the child receives the school meal under PM POSHAN.\u2019",
+  "reference_quote": "Ensure daily school meal uptake where available, and prescribe an after-school snack such as roasted chana, peanuts, or a home-prepared chikki instead of packaged snacks.",
   "document_key_topics": [
-    "Low-cost Indian meal plans for chronic undernutrition",
-    "Measurable dietary follow-up goals for stunting and wasting",
-    "Age-specific nutrition strategies for toddlers, school-age children, and adolescents"
+    "Stunting and chronic undernutrition",
+    "Low-cost Indian meal plans",
+    "Measurable follow-up goals for nutrition"
   ],
-  "chunk_heading": "STUNTING, CHRONIC UNDERNUTRITION & DETERMINANTS;QUANTITATIVE NUTRITION PRESCRIPTION FOR CHRONIC UNDERNUTRITION;LOW-COST INDIAN MEAL PLANS AND MEASURABLE FOLLOW-UP GOALS;",
-  "topic": "STUNTING, CHRONIC UNDERNUTRITION & DETERMINANTS",
+  "chunk_heading": "STUNTING, CHRONIC UNDERNUTRITION AND DETERMINANTS;QUANTITATIVE NUTRITION PRESCRIPTION FOR CHRONIC UNDERNUTRITION;LOW-COST INDIAN MEAL PLANS AND MEASURABLE FOLLOW-UP GOALS;",
+  "topic": "STUNTING, CHRONIC UNDERNUTRITION AND DETERMINANTS",
   "subtopic": "QUANTITATIVE NUTRITION PRESCRIPTION FOR CHRONIC UNDERNUTRITION",
   "sub_subtopic": "LOW-COST INDIAN MEAL PLANS AND MEASURABLE FOLLOW-UP GOALS",
-  "heading_path": "STUNTING, CHRONIC UNDERNUTRITION & DETERMINANTS;QUANTITATIVE NUTRITION PRESCRIPTION FOR CHRONIC UNDERNUTRITION;LOW-COST INDIAN MEAL PLANS AND MEASURABLE FOLLOW-UP GOALS;",
+  "heading_path": "STUNTING, CHRONIC UNDERNUTRITION AND DETERMINANTS;QUANTITATIVE NUTRITION PRESCRIPTION FOR CHRONIC UNDERNUTRITION;LOW-COST INDIAN MEAL PLANS AND MEASURABLE FOLLOW-UP GOALS;",
   "reference_count": 4,
   "has_guidelines": false,
-  "sequence": "7\u007f5"
+  "sequence": "1\u007f5"
 }

@@ -1,49 +1,49 @@
 {
-  "chunk_summary": "This section discusses the management of vitamin B12 and folate deficiencies in stunted children, emphasizing neurologic safety, appropriate dosing, and monitoring during treatment to support linear growth and prevent complications.",
+  "chunk_summary": "This section discusses vitamin B12 and folate replacement strategies for stunted children with chronic undernutrition, emphasizing neurologic safety and specific dosing protocols for oral and parenteral therapy.",
   "learning_objectives": [
-    "Understand the clinical signs and symptoms of vitamin B12 and folate deficiencies in stunted children.",
-    "Learn appropriate dosing regimens for folic acid and vitamin B12 replacement therapy in pediatric populations.",
-    "Recognize the importance of neurologic safety when treating deficiencies and the need for concurrent replacement of both vitamins if diagnosis is uncertain.",
-    "Identify conditions like malabsorption or chronic infections that may contribute to deficiencies."
+    "Understand the clinical signs of vitamin B12 and folate deficiency in stunted children.",
+    "Learn appropriate dosing protocols for folic acid and vitamin B12 replacement therapy.",
+    "Recognize the importance of neurologic safety in managing deficiencies.",
+    "Identify conditions like coeliac disease or chronic infection as potential underlying causes."
   ],
   "key_facts": [
-    "Folate deficiency is treated with oral folic acid: 1 mg/day for 2\u20133 weeks, followed by 0.1\u20130.5 mg/day for maintenance.",
-    "Vitamin B12 replacement for dietary deficiency: 500 mcg/day for infants and 1000 mcg/day for older children for at least 3 months.",
-    "Severe deficiency with neurologic signs requires parenteral vitamin B12: 1000 mcg intramuscular daily for 7 days, then weekly for 4 weeks, then monthly.",
+    "Folic acid replacement: 1 mg/day for 2\u20133 weeks, followed by 0.1\u20130.5 mg/day maintenance for several weeks.",
+    "Oral vitamin B12 dosing: 500 micrograms/day for infants and 1000 micrograms/day for older children for at least 3 months.",
+    "Parenteral vitamin B12 therapy: 1000 micrograms intramuscular daily for 7 days, then weekly for 4 weeks, then monthly for several months.",
     "Monitor for hypokalemia during early marrow response in severe vitamin B12 deficiency.",
-    "Folate can correct anemia but may mask ongoing neurologic damage from vitamin B12 deficiency."
+    "Folate can correct anemia but may allow vitamin B12-related neurologic injury to progress if not addressed simultaneously."
   ],
   "complexity": "intermediate",
   "tags_mesh": [
     "Stunting",
-    "Chronic Malnutrition",
+    "Chronic Undernutrition",
     "Vitamin B12 Deficiency",
     "Folate Deficiency",
     "Micronutrient Replacement Therapy",
-    "Neurologic Manifestations",
+    "Neurologic Safety",
     "Pediatric Nutrition",
     "Malabsorption Syndromes"
   ],
   "tags_custom": [
     "Vitamin B12 therapy",
     "Folic acid dosing",
-    "Neurologic safety",
     "Pediatric anemia",
-    "Chronic undernutrition"
+    "Neurologic monitoring",
+    "Chronic inflammation"
   ],
-  "reference_quote": "Folate can correct anemia while allowing B12-related neurologic injury to progress. If the diagnosis is uncertain and both are plausible, replace both initially while arranging evaluation for causes such as coeliac disease or chronic infection.",
+  "reference_quote": "Folate can correct anemia while allowing B12-related neurologic injury to progress. If the diagnosis is uncertain and both are plausible, replace both initially while arranging evaluation for causes such as coeliac disease or chronic infection. (Source: IAP megaloblastic anemia)",
   "document_key_topics": [
-    "Vitamin B12 and folate deficiencies in stunted children",
-    "Dosing regimens for micronutrient replacement",
+    "Vitamin B12 and folate deficiency in stunted children",
+    "Dosing protocols for micronutrient replacement",
     "Neurologic safety in deficiency management",
-    "Underlying causes of malabsorption and chronic inflammation"
+    "Underlying causes like coeliac disease or chronic infection"
   ],
-  "chunk_heading": "STUNTING, CHRONIC UNDERNUTRITION & DETERMINANTS;MICRONUTRIENT AND INFECTION CONTROL INTERVENTIONS SUPPORTING LINEAR GROWTH;VITAMIN B12 AND FOLATE REPLACEMENT WITH NEUROLOGIC SAFETY;",
-  "topic": "STUNTING, CHRONIC UNDERNUTRITION & DETERMINANTS",
+  "chunk_heading": "STUNTING, CHRONIC UNDERNUTRITION AND DETERMINANTS;MICRONUTRIENT AND INFECTION CONTROL INTERVENTIONS SUPPORTING LINEAR GROWTH;VITAMIN B12 AND FOLATE REPLACEMENT WITH NEUROLOGIC SAFETY;",
+  "topic": "STUNTING, CHRONIC UNDERNUTRITION AND DETERMINANTS",
   "subtopic": "MICRONUTRIENT AND INFECTION CONTROL INTERVENTIONS SUPPORTING LINEAR GROWTH",
   "sub_subtopic": "VITAMIN B12 AND FOLATE REPLACEMENT WITH NEUROLOGIC SAFETY",
-  "heading_path": "STUNTING, CHRONIC UNDERNUTRITION & DETERMINANTS;MICRONUTRIENT AND INFECTION CONTROL INTERVENTIONS SUPPORTING LINEAR GROWTH;VITAMIN B12 AND FOLATE REPLACEMENT WITH NEUROLOGIC SAFETY;",
+  "heading_path": "STUNTING, CHRONIC UNDERNUTRITION AND DETERMINANTS;MICRONUTRIENT AND INFECTION CONTROL INTERVENTIONS SUPPORTING LINEAR GROWTH;VITAMIN B12 AND FOLATE REPLACEMENT WITH NEUROLOGIC SAFETY;",
   "reference_count": 4,
   "has_guidelines": false,
-  "sequence": "7\u00853"
+  "sequence": "1\u00853"
 }

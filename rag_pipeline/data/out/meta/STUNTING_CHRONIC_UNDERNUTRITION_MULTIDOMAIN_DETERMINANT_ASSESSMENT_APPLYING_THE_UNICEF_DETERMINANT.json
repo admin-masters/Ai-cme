@@ -1,49 +1,46 @@
 {
-  "chunk_summary": "The UNICEF framework applies a multidomain approach to stunting, linking clinical history to immediate, underlying, and basic causes, improving intervention strategies for chronic undernutrition.",
+  "chunk_summary": "The UNICEF framework structures stunting assessment into immediate, underlying, and basic causes, guiding clinical history to connect phenotypes with targeted interventions.",
   "learning_objectives": [
-    "Understand the UNICEF conceptual framework for assessing stunting and chronic undernutrition.",
-    "Identify immediate, underlying, and basic causes of stunting in clinical history.",
-    "Learn to map clinical markers to domains such as dietary intake, disease burden, caregiving, and environment.",
-    "Apply the framework to tailor interventions based on specific determinants of stunting."
+    "Understand the UNICEF conceptual framework for stunting and its multidomain determinants.",
+    "Learn to map clinical history to immediate, underlying, and basic causes of stunting.",
+    "Identify actionable interventions based on dietary, disease, caregiving, and environmental assessments."
   ],
   "key_facts": [
-    "Stunting is caused by immediate factors like inadequate dietary intake and disease, underlying factors like food insecurity and poor sanitation, and basic socioeconomic constraints.",
-    "Dietary intake assessment includes frequency, diversity, protein access, and displaced meals (e.g., tea, biscuits).",
+    "Stunting is caused by immediate factors like inadequate dietary intake and disease, underlying factors like food insecurity and poor sanitation, and basic factors like socioeconomic constraints.",
+    "Dietary intake is assessed by frequency, diversity, protein access, and displaced meals (e.g., tea, biscuits, snacks).",
     "Disease burden is evaluated through diarrhea frequency, respiratory infections, skin infections, and deworming history.",
-    "Environmental factors include water source, sanitation access, handwashing, and crowding, which increases respiratory transmission.",
-    "The framework connects phenotype to intervention, e.g., diarrhea and unsafe water require WASH-focused plans.",
+    "Environmental risks include unsafe water, poor sanitation, and crowding, which increase respiratory transmission.",
+    "A stunted child with frequent diarrhea and unsafe water requires WASH-focused interventions and diarrhea management.",
     "Evidence-based supportive care measures are essential"
   ],
   "complexity": "intermediate",
   "tags_mesh": [
     "Stunting",
-    "Chronic Undernutrition",
-    "Dietary Intake",
-    "Food Insecurity",
+    "Malnutrition",
+    "Child Nutrition Disorders",
     "Water, Sanitation, and Hygiene (WASH)",
     "Socioeconomic Factors",
-    "Maternal and Child Health",
-    "Clinical History Taking"
+    "Dietary Diversity",
+    "Infectious Disease Transmission"
   ],
   "tags_custom": [
     "UNICEF framework",
-    "stunting determinants",
-    "nutrition assessment",
-    "clinical intervention"
+    "clinical history mapping",
+    "stunting interventions",
+    "multidomain assessment"
   ],
-  "reference_quote": "Immediate causes include inadequate dietary intake and disease; underlying causes include household food insecurity, inadequate caregiving resources, and unhealthy environments with poor water and sanitation. (UNICEF, 2023)",
+  "reference_quote": "The UNICEF conceptual framework translates stunting from a 'nutrition diagnosis' into a structured clinical history. Immediate causes include inadequate dietary intake and disease; underlying causes include household food insecurity, inadequate caregiving resources, and unhealthy environments with poor water and sanitation.",
   "document_key_topics": [
-    "Stunting and chronic undernutrition",
-    "UNICEF determinant framework",
-    "Clinical history application for stunting",
-    "Multidomain assessment of nutrition"
+    "UNICEF conceptual framework for stunting",
+    "Multidomain determinant assessment",
+    "Clinical history mapping for stunting interventions"
   ],
-  "chunk_heading": "STUNTING, CHRONIC UNDERNUTRITION & DETERMINANTS;MULTIDOMAIN DETERMINANT ASSESSMENT USING THE UNICEF FRAMEWORK;APPLYING THE UNICEF DETERMINANT FRAMEWORK TO CLINICAL HISTORY;",
-  "topic": "STUNTING, CHRONIC UNDERNUTRITION & DETERMINANTS",
+  "chunk_heading": "STUNTING, CHRONIC UNDERNUTRITION AND DETERMINANTS;MULTIDOMAIN DETERMINANT ASSESSMENT USING THE UNICEF FRAMEWORK;APPLYING THE UNICEF DETERMINANT FRAMEWORK TO CLINICAL HISTORY;",
+  "topic": "STUNTING, CHRONIC UNDERNUTRITION AND DETERMINANTS",
   "subtopic": "MULTIDOMAIN DETERMINANT ASSESSMENT USING THE UNICEF FRAMEWORK",
   "sub_subtopic": "APPLYING THE UNICEF DETERMINANT FRAMEWORK TO CLINICAL HISTORY",
-  "heading_path": "STUNTING, CHRONIC UNDERNUTRITION & DETERMINANTS;MULTIDOMAIN DETERMINANT ASSESSMENT USING THE UNICEF FRAMEWORK;APPLYING THE UNICEF DETERMINANT FRAMEWORK TO CLINICAL HISTORY;",
-  "reference_count": 4,
+  "heading_path": "STUNTING, CHRONIC UNDERNUTRITION AND DETERMINANTS;MULTIDOMAIN DETERMINANT ASSESSMENT USING THE UNICEF FRAMEWORK;APPLYING THE UNICEF DETERMINANT FRAMEWORK TO CLINICAL HISTORY;",
+  "reference_count": 6,
   "has_guidelines": false,
-  "sequence": "3f1"
+  "sequence": "1e1"
 }

@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "Physiologic adaptations in severe acute malnutrition (SAM) necessitate cautious fluid and feeding strategies to prevent complications like heart failure, sepsis, and electrolyte imbalances.",
+  "learning_objectives": [
+    "Understand the physiologic adaptations in SAM that impact fluid and feeding decisions.",
+    "Learn the importance of staged feeding protocols, including F-75 stabilization before rehabilitation.",
+    "Recognize warning signs like hypothermia and recurrent hypoglycemia as sepsis-equivalent indicators."
+  ],
+  "key_facts": [
+    "Children with SAM have reduced cardiac, renal, hepatic, and immune reserve, making them high-risk even with mild signs.",
+    "Standard pediatric bolus fluids and high-sodium feeds can precipitate heart failure in SAM patients.",
+    "Nutritional edema involves potassium depletion and sodium retention; diuretics should not be used, and sodium restriction is essential.",
+    "Total-body potassium and magnesium deficits are universal in SAM and require routine repletion over weeks.",
+    "Early management includes slow rehydration, frequent reassessment, and staged feeding with F-75 stabilization."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Severe Acute Malnutrition",
+    "Fluid Therapy",
+    "Electrolyte Imbalance",
+    "Nutritional Edema",
+    "Potassium Deficiency",
+    "Magnesium Deficiency",
+    "Sepsis",
+    "Pediatric Nutrition"
+  ],
+  "tags_custom": [
+    "SAM management",
+    "physiologic adaptations",
+    "feeding protocols",
+    "electrolyte correction",
+    "infection risk"
+  ],
+  "reference_quote": "Severe malnutrition produces a state of physiologic downregulation ('reductive adaptation') with reduced cardiac, renal, hepatic, and immune reserve. \u2014 WHO Pocket book of hospital care for children: Severe acute malnutrition chapter",
+  "document_key_topics": [
+    "Physiologic adaptations in SAM",
+    "Fluid and feeding strategies in SAM",
+    "Electrolyte management in SAM",
+    "Infection risk and monitoring in SAM"
+  ],
+  "chunk_heading": "SEVERE ACUTE MALNUTRITION - (SAM) MANAGEMENT;PHYSIOLOGIC ADAPTATIONS THAT ALTER FLUID AND FEEDING DECISIONS;",
+  "topic": "SEVERE ACUTE MALNUTRITION - (SAM) MANAGEMENT",
+  "subtopic": "PHYSIOLOGIC ADAPTATIONS THAT ALTER FLUID AND FEEDING DECISIONS",
+  "sub_subtopic": null,
+  "heading_path": "SEVERE ACUTE MALNUTRITION - (SAM) MANAGEMENT;PHYSIOLOGIC ADAPTATIONS THAT ALTER FLUID AND FEEDING DECISIONS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1d"
+}

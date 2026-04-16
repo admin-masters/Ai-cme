@@ -1,48 +1,47 @@
 {
-  "chunk_summary": "Stunting, a marker of chronic undernutrition, is defined as height-for-age below -2 SD from WHO standards. India faces a high burden of stunting, wasting, and anemia in children under 5 years, as reported by NFHS-5 and CNNS benchmarks.",
+  "chunk_summary": "Stunting, a marker of chronic undernutrition, is defined by height-for-age below -2 SD from WHO standards. India faces a high burden, with NFHS-5 reporting significant prevalence among children under 5 years and CNNS adding biomarker insights.",
   "learning_objectives": [
     "Understand the epidemiologic definition of stunting and its classification criteria.",
-    "Analyze the national burden of stunting and related conditions in India using NFHS-5 and CNNS data.",
-    "Learn the importance of accurate measurement techniques and corrected age for preterm infants.",
-    "Identify determinants and red flags for growth faltering in pediatric practice."
+    "Analyze the national burden of stunting and chronic undernutrition in India using NFHS-5 and CNNS data.",
+    "Identify determinants of growth faltering and differentiate stunting from other phenotypes like wasting or edema."
   ],
   "key_facts": [
     "Stunting is defined as height-for-age below -2 SD from WHO child growth standards; severe stunting is < -3 SD.",
     "NFHS-5 (2019\u201321) reports high prevalence of stunting, wasting, and anemia among children under 5 years in India.",
     "CNNS (2016\u201318) provides biomarker data on micronutrient deficits and inflammation pathways.",
-    "Corrected age is essential for preterm infants to avoid false labeling of stunting during infancy.",
-    "WHO growth reference charts for ages 5\u201319 years or IAP charts are recommended for school-age children."
+    "Correct measurement techniques include recumbent length for children under 2 years and standing height thereafter.",
+    "For children older than 5 years, height-for-age and BMI-for-age should be interpreted using WHO 5\u201319 year growth reference or IAP charts."
   ],
   "complexity": "intermediate",
   "tags_mesh": [
     "Stunting",
-    "Malnutrition",
-    "Child Growth",
-    "Epidemiology",
+    "Chronic Undernutrition",
+    "Child Growth Standards",
     "India",
+    "Epidemiology",
     "Micronutrient Deficiency",
     "Anthropometry",
-    "Pediatrics"
+    "Pediatric Nutrition"
   ],
   "tags_custom": [
-    "Chronic undernutrition",
-    "Growth standards",
+    "Growth faltering",
     "NFHS-5 data",
-    "CNNS benchmarks",
-    "Pediatric growth faltering"
+    "CNNS biomarkers",
+    "Pediatric growth charts",
+    "Measurement techniques"
   ],
   "reference_quote": "NFHS-5 (2019\u201321) reports a high national burden among children under 5 years, with stunting and wasting remaining common and anemia extremely prevalent in 6\u201359 month children.",
   "document_key_topics": [
     "Definition and classification of stunting",
-    "National burden of stunting and wasting in India",
-    "Measurement techniques and corrected age for preterm infants",
-    "Role of biomarkers in assessing micronutrient deficits"
+    "National burden of stunting in India",
+    "Measurement techniques for growth assessment",
+    "Biomarker insights from CNNS"
   ],
-  "chunk_heading": "STUNTING, CHRONIC UNDERNUTRITION & DETERMINANTS;EPIDEMIOLOGIC DEFINITIONS AND BURDEN IN INDIA;",
-  "topic": "STUNTING, CHRONIC UNDERNUTRITION & DETERMINANTS",
+  "chunk_heading": "STUNTING, CHRONIC UNDERNUTRITION AND DETERMINANTS;EPIDEMIOLOGIC DEFINITIONS AND BURDEN IN INDIA;",
+  "topic": "STUNTING, CHRONIC UNDERNUTRITION AND DETERMINANTS",
   "subtopic": "EPIDEMIOLOGIC DEFINITIONS AND BURDEN IN INDIA",
   "sub_subtopic": null,
-  "heading_path": "STUNTING, CHRONIC UNDERNUTRITION & DETERMINANTS;EPIDEMIOLOGIC DEFINITIONS AND BURDEN IN INDIA;",
+  "heading_path": "STUNTING, CHRONIC UNDERNUTRITION AND DETERMINANTS;EPIDEMIOLOGIC DEFINITIONS AND BURDEN IN INDIA;",
   "reference_count": 5,
   "has_guidelines": false,
   "sequence": "1a"

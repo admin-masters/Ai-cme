@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section addresses strategies for managing defaulting and adherence failures in outpatient CMAM programs in India, emphasizing proactive tracing, counseling, and stock management to ensure therapeutic food adherence and timely care for SAM patients.",
+  "learning_objectives": [
+    "Understand the clinical risks associated with defaulting in CMAM programs.",
+    "Learn practical tracing algorithms for missed visits in Indian CMAM settings.",
+    "Identify strategies to manage stock-outs and ensure continuity of therapeutic food supply.",
+    "Explore methods to improve caregiver adherence and reduce silent defaults."
+  ],
+  "key_facts": [
+    "Defaulting in CMAM predicts missed therapeutic food doses and delayed infection or edema recognition.",
+    "After one missed visit, outreach by ASHA/AWW should occur within the same week, with rebooking in 48\u201372 hours.",
+    "Two missed visits require escalation to supervisor/ANM review and assessment for illness or social barriers.",
+    "Danger signs like weight loss or edema necessitate immediate facility referral.",
+    "Stock-outs should be managed using routine stock reconciliation, redistribution, and protocol-approved temporary bridging."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Malnutrition",
+    "Community Health Services",
+    "Therapeutic Food",
+    "Patient Adherence",
+    "India",
+    "Outpatient Care",
+    "Edema",
+    "Health Promotion"
+  ],
+  "tags_custom": [
+    "CMAM implementation",
+    "defaulting management",
+    "adherence strategies",
+    "therapeutic food supply",
+    "community outreach"
+  ],
+  "reference_quote": "Missed visits predict missed doses of therapeutic food and delayed recognition of infection or edema relapse, so tracing and adherence support should be built into the care plan. (Source: NITI Aayog CMAM Report)",
+  "document_key_topics": [
+    "Defaulting risks in CMAM programs",
+    "Tracing algorithms for missed visits",
+    "Stock-out management strategies",
+    "Adherence counseling and caregiver support"
+  ],
+  "chunk_heading": "SEVERE ACUTE MALNUTRITION - (SAM) MANAGEMENT;OUTPATIENT CMAM IMPLEMENTATION IN INDIA;MANAGING DEFAULTING AND ADHERENCE FAILURES IN CMAM;",
+  "topic": "SEVERE ACUTE MALNUTRITION - (SAM) MANAGEMENT",
+  "subtopic": "OUTPATIENT CMAM IMPLEMENTATION IN INDIA",
+  "sub_subtopic": "MANAGING DEFAULTING AND ADHERENCE FAILURES IN CMAM",
+  "heading_path": "SEVERE ACUTE MALNUTRITION - (SAM) MANAGEMENT;OUTPATIENT CMAM IMPLEMENTATION IN INDIA;MANAGING DEFAULTING AND ADHERENCE FAILURES IN CMAM;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u00914.1"
+}

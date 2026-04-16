@@ -1,45 +1,49 @@
 {
-  "chunk_summary": "This section focuses on phenotype-based outpatient triage for stunting, chronic undernutrition, and acute risk identification, emphasizing management strategies for stunting alone and concurrent wasting and stunting.",
+  "chunk_summary": "This section discusses phenotype-based outpatient management for stunting, concurrent wasting, and stunting with overweight, emphasizing mortality risk prediction, tailored interventions, and determinant correction strategies.",
   "learning_objectives": [
-    "Understand the phenotype-based approach to outpatient triage for stunting and acute risk identification.",
-    "Identify management strategies for stunting alone versus concurrent wasting and stunting.",
-    "Explore determinants of chronic undernutrition and their impact on stunting outcomes."
+    "Understand phenotype-based classification for stunting and its role in predicting mortality risk.",
+    "Learn outpatient management protocols for stunting alone, concurrent wasting, and stunting with overweight.",
+    "Identify key determinants such as diet quality, anemia, and diarrhea prevention in stunting management.",
+    "Recognize the urgency of managing concurrent wasting and stunting (WaSt) using wasting protocols."
   ],
   "key_facts": [
-    "Stunting affects approximately 22% of children under 5 globally, with higher prevalence in low-income regions.",
-    "Concurrent wasting and stunting significantly increase mortality risk compared to stunting alone.",
-    "Phenotype-based outpatient triage can help identify acute risks and tailor interventions effectively.",
-    "Management strategies should address both immediate nutritional needs and long-term determinants of undernutrition."
+    "Stunting is defined as HAZ < -2, while moderate acute malnutrition (MAM) is weight-for-height between -2 and -3 SD or MUAC 115\u2013125 mm (6\u201359 months) without edema.",
+    "Severe acute malnutrition (SAM) is weight-for-height < -3 SD and/or MUAC <115 mm and/or nutritional edema.",
+    "Concurrent wasting plus stunting (WaSt) is a high-mortality phenotype requiring wasting protocols for urgency and referral thresholds.",
+    "Stunting with overweight is classified as weight-for-height > +2 SD under 5 years or BMI-for-age in ages 5\u201319 years.",
+    "Outpatient care for stunting without wasting focuses on determinant correction, including diet quality, anemia treatment, and diarrhea prevention."
   ],
-  "complexity": "intermediate",
+  "complexity": "advanced",
   "tags_mesh": [
     "Stunting",
     "Malnutrition",
     "Wasting Syndrome",
-    "Nutritional Status",
-    "Outpatient Care",
-    "Risk Assessment",
-    "Child Nutrition Disorders"
+    "Overweight",
+    "Phenotype",
+    "Mortality Risk",
+    "Nutrition Assessment",
+    "Child Health"
   ],
   "tags_custom": [
-    "phenotype-based triage",
-    "chronic undernutrition",
-    "acute risk identification",
-    "stunting management",
-    "nutrition interventions"
+    "phenotype-based management",
+    "nutrition protocols",
+    "double burden malnutrition",
+    "outpatient care strategies",
+    "growth monitoring"
   ],
-  "reference_quote": "Concurrent wasting and stunting pose a compounded risk to child survival, necessitating integrated management approaches.",
+  "reference_quote": "Managing 'undernutrition' as a single entity leads to missed risk. Use phenotype-based classification because it predicts mortality risk and required intensity.",
   "document_key_topics": [
-    "Stunting and chronic undernutrition",
-    "Outpatient triage for acute risk identification",
-    "Phenotype-based management strategies"
+    "Phenotype-based classification for stunting and malnutrition",
+    "Outpatient management protocols for stunting and wasting",
+    "Determinant correction strategies for stunting",
+    "Double burden malnutrition: stunting with overweight"
   ],
-  "chunk_heading": "STUNTING, CHRONIC UNDERNUTRITION & DETERMINANTS;OUTPATIENT TRIAGE OF STUNTING WITH ACUTE RISK IDENTIFICATION;PHENOTYPE-BASED OUTPATIENT",
-  "topic": "STUNTING, CHRONIC UNDERNUTRITION & DETERMINANTS",
+  "chunk_heading": "STUNTING, CHRONIC UNDERNUTRITION AND DETERMINANTS;OUTPATIENT TRIAGE OF STUNTING WITH ACUTE RISK IDENTIFICATION;PHENOTYPE-BASED OUTPATIENT MANAGEMENT FOR STUNTING ALONE, CONCURRENT WASTING, AND STUNTING WITH OVERWEIGHT;",
+  "topic": "STUNTING, CHRONIC UNDERNUTRITION AND DETERMINANTS",
   "subtopic": "OUTPATIENT TRIAGE OF STUNTING WITH ACUTE RISK IDENTIFICATION",
-  "sub_subtopic": "PHENOTYPE-BASED OUTPATIENT",
-  "heading_path": "STUNTING, CHRONIC UNDERNUTRITION & DETERMINANTS;OUTPATIENT TRIAGE OF STUNTING WITH ACUTE RISK IDENTIFICATION;PHENOTYPE-BASED OUTPATIENT",
-  "reference_count": 0,
+  "sub_subtopic": "PHENOTYPE-BASED OUTPATIENT MANAGEMENT FOR STUNTING ALONE, CONCURRENT WASTING, AND STUNTING WITH OVERWEIGHT",
+  "heading_path": "STUNTING, CHRONIC UNDERNUTRITION AND DETERMINANTS;OUTPATIENT TRIAGE OF STUNTING WITH ACUTE RISK IDENTIFICATION;PHENOTYPE-BASED OUTPATIENT MANAGEMENT FOR STUNTING ALONE, CONCURRENT WASTING, AND STUNTING WITH OVERWEIGHT;",
+  "reference_count": 6,
   "has_guidelines": false,
-  "sequence": "5t2"
+  "sequence": "1s2"
 }

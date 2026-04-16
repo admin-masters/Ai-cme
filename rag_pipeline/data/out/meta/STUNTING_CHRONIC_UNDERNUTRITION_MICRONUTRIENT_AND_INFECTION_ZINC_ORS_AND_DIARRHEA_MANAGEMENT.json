@@ -1,16 +1,17 @@
 {
-  "chunk_summary": "Zinc supplementation and ORS are critical for managing diarrhea, reducing recurrent morbidity, and supporting linear growth in children, especially in the context of stunting and chronic undernutrition.",
+  "chunk_summary": "Zinc and ORS are critical for managing diarrhea, reducing recurrent morbidity, and supporting linear growth in children, with WHO-recommended dosages and integrated WASH practices to prevent stunting.",
   "learning_objectives": [
-    "Understand the role of zinc and ORS in managing acute diarrhea and preventing recurrent episodes.",
-    "Learn WHO-recommended zinc dosages for children under and over 6 months of age.",
-    "Identify key practices for diarrhea prevention, including WASH interventions and feeding strategies.",
+    "Understand the role of zinc and ORS in managing acute diarrhea and preventing stunting.",
+    "Learn WHO-recommended zinc dosages for children with acute diarrhea.",
+    "Identify key WASH practices to prevent recurrent diarrhea and undernutrition.",
     "Recognize when to escalate care for severe or persistent diarrhea."
   ],
   "key_facts": [
     "Recurrent diarrhea contributes to stunting through nutrient loss, appetite reduction, and inflammation.",
-    "WHO recommends 20 mg/day of zinc for children 6 months and older, and 10 mg/day for infants under 6 months, for 10\u201314 days during acute diarrhea.",
-    "Zinc reduces the duration and severity of diarrhea and prevents subsequent episodes over the following months.",
-    "Diarrhea management should include ORS, continued feeding, breastfeeding, and WASH practices.",
+    "WHO recommends 20 mg/day of zinc for children \u22656 months and 10 mg/day for infants <6 months for 10\u201314 days during acute diarrhea.",
+    "Zinc reduces the duration and severity of diarrhea and lowers the risk of subsequent episodes.",
+    "ORS, continued feeding, and breastfeeding are essential during diarrhea to prevent undernutrition.",
+    "WASH practices, including safe water storage, handwashing, and proper feces disposal, are critical for prevention.",
     "Escalate care for blood in stool, severe dehydration, persistent fever, or prolonged diarrhea with weight faltering."
   ],
   "complexity": "intermediate",
@@ -21,8 +22,8 @@
     "Child Nutrition Disorders",
     "Growth Disorders",
     "Water, Sanitation, and Hygiene",
-    "Malnutrition",
-    "Infection Control"
+    "Malabsorption Syndromes",
+    "Infectious Disease Management"
   ],
   "tags_custom": [
     "stunting prevention",
@@ -31,19 +32,19 @@
     "WASH practices",
     "child growth"
   ],
-  "reference_quote": "The WHO recommends therapeutic zinc for 10\u201314 days with acute diarrhea: 20 mg/day for children 6 months and older and 10 mg/day for infants under 6 months.",
+  "reference_quote": "The WHO recommends therapeutic zinc for 10\u201314 days with acute diarrhea: 20 mg/day for children 6 months and older and 10 mg/day for infants under 6 months. (Source: WHO, Reference 1)",
   "document_key_topics": [
     "Zinc supplementation for diarrhea management",
-    "Impact of diarrhea on stunting and growth",
-    "WASH practices for diarrhea prevention",
-    "Guidelines for escalating care in severe diarrhea cases"
+    "ORS and feeding practices during diarrhea",
+    "WASH interventions to prevent recurrent diarrhea",
+    "Escalation of care for severe or persistent diarrhea"
   ],
-  "chunk_heading": "STUNTING, CHRONIC UNDERNUTRITION & DETERMINANTS;MICRONUTRIENT AND INFECTION CONTROL INTERVENTIONS SUPPORTING LINEAR GROWTH;ZINC ORS AND DIARRHEA MANAGEMENT TO REDUCE RECURRENT MORBIDITY;",
-  "topic": "STUNTING, CHRONIC UNDERNUTRITION & DETERMINANTS",
+  "chunk_heading": "STUNTING, CHRONIC UNDERNUTRITION AND DETERMINANTS;MICRONUTRIENT AND INFECTION CONTROL INTERVENTIONS SUPPORTING LINEAR GROWTH;ZINC, ORS, AND DIARRHEA MANAGEMENT TO REDUCE RECURRENT MORBIDITY;",
+  "topic": "STUNTING, CHRONIC UNDERNUTRITION AND DETERMINANTS",
   "subtopic": "MICRONUTRIENT AND INFECTION CONTROL INTERVENTIONS SUPPORTING LINEAR GROWTH",
-  "sub_subtopic": "ZINC ORS AND DIARRHEA MANAGEMENT TO REDUCE RECURRENT MORBIDITY",
-  "heading_path": "STUNTING, CHRONIC UNDERNUTRITION & DETERMINANTS;MICRONUTRIENT AND INFECTION CONTROL INTERVENTIONS SUPPORTING LINEAR GROWTH;ZINC ORS AND DIARRHEA MANAGEMENT TO REDUCE RECURRENT MORBIDITY;",
+  "sub_subtopic": "ZINC, ORS, AND DIARRHEA MANAGEMENT TO REDUCE RECURRENT MORBIDITY",
+  "heading_path": "STUNTING, CHRONIC UNDERNUTRITION AND DETERMINANTS;MICRONUTRIENT AND INFECTION CONTROL INTERVENTIONS SUPPORTING LINEAR GROWTH;ZINC, ORS, AND DIARRHEA MANAGEMENT TO REDUCE RECURRENT MORBIDITY;",
   "reference_count": 4,
   "has_guidelines": false,
-  "sequence": "7\u00875"
+  "sequence": "1\u00875"
 }

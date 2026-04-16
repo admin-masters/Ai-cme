@@ -1,0 +1,47 @@
+{
+  "chunk_summary": "This section focuses on the indications for Vitamin A supplementation in the management of severe acute malnutrition (SAM), emphasizing infection control and metabolic corrections based on established guidelines from WHO, Indian Academy of Pediatrics, and national health programs.",
+  "learning_objectives": [
+    "Understand the role of Vitamin A supplementation in managing severe acute malnutrition (SAM).",
+    "Identify specific indications and dosage guidelines for Vitamin A in SAM cases.",
+    "Learn the connection between Vitamin A supplementation and infection management in SAM.",
+    "Explore evidence-based practices for metabolic corrections in SAM patients."
+  ],
+  "key_facts": [
+    "Vitamin A supplementation is critical for children with SAM to prevent blindness and reduce mortality.",
+    "WHO recommends a high-dose Vitamin A regimen: 50,000 IU for infants <6 months, 100,000 IU for 6\u201312 months, and 200,000 IU for children >12 months.",
+    "Vitamin A is administered on Day 1, Day 2, and Day 14 during SAM management.",
+    "Deficiency of Vitamin A increases susceptibility to infections and worsens malnutrition outcomes.",
+    "Guidelines emphasize monitoring for signs of Vitamin A toxicity, especially in repeated doses."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Severe Acute Malnutrition",
+    "Vitamin A Deficiency",
+    "Nutritional Therapy",
+    "Infection Control",
+    "Metabolic Diseases",
+    "Child Nutrition Disorders",
+    "Micronutrient Supplementation"
+  ],
+  "tags_custom": [
+    "SAM management",
+    "Vitamin A guidelines",
+    "Pediatric malnutrition",
+    "Metabolic corrections",
+    "Infection prevention"
+  ],
+  "reference_quote": "WHO guidelines recommend Vitamin A supplementation as a critical intervention for children with severe acute malnutrition to reduce mortality and prevent complications such as blindness and infections. (Source: https://www.ncbi.nlm.nih.gov/books/NBK154454/)",
+  "document_key_topics": [
+    "Vitamin A supplementation in SAM",
+    "Infection management in malnutrition",
+    "Metabolic corrections in SAM"
+  ],
+  "chunk_heading": "SEVERE ACUTE MALNUTRITION - (SAM) MANAGEMENT;INFECTION MANAGEMENT AND METABOLIC CORRECTIONS;VITAMIN A SUPPLEMENTATION INDICATIONS IN SAM;",
+  "topic": "SEVERE ACUTE MALNUTRITION - (SAM) MANAGEMENT",
+  "subtopic": "INFECTION MANAGEMENT AND METABOLIC CORRECTIONS",
+  "sub_subtopic": "VITAMIN A SUPPLEMENTATION INDICATIONS IN SAM",
+  "heading_path": "SEVERE ACUTE MALNUTRITION - (SAM) MANAGEMENT;INFECTION MANAGEMENT AND METABOLIC CORRECTIONS;VITAMIN A SUPPLEMENTATION INDICATIONS IN SAM;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u008214.2"
+}

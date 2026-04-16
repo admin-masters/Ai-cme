@@ -1,0 +1,47 @@
+{
+  "chunk_summary": "Admission criteria for infants under 6 months with SAM focus on feeding effectiveness, physiologic stability, and specific danger signs. Anthropometric measures like weight-for-length <-3 SD are used when feasible, with inpatient care prioritized for severe cases.",
+  "learning_objectives": [
+    "Understand the admission criteria for infants under 6 months with severe acute malnutrition (SAM).",
+    "Identify danger signs and clinical triggers for inpatient care in malnourished infants.",
+    "Differentiate between inpatient and outpatient care pathways for infants with SAM.",
+    "Learn the role of feeding effectiveness and caregiver capacity in disposition decisions."
+  ],
+  "key_facts": [
+    "Infants under 6 months with SAM should not be assessed using standard MUAC thresholds or RUTF appetite tests.",
+    "Admission is required if danger signs like lethargy, convulsions, hypothermia, or respiratory distress are present.",
+    "Anthropometric criteria include weight-for-length <-3 SD when length >45 cm is reliably measured.",
+    "Outpatient care is only appropriate if feeding is effective, there is no edema, and weekly follow-up is possible.",
+    "Initial inpatient priorities include preventing fasting, maintaining warmth, correcting hypoglycemia, and treating infections."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Severe Acute Malnutrition",
+    "Infant Nutrition Disorders",
+    "Anthropometry",
+    "Breastfeeding",
+    "Feeding Behavior",
+    "Pitting Edema",
+    "Hypoglycemia",
+    "Respiratory Distress Syndrome"
+  ],
+  "tags_custom": [
+    "SAM management",
+    "infant feeding",
+    "inpatient care",
+    "malnutrition triage"
+  ],
+  "reference_quote": "Admit an infant <6 months with acute malnutrition if any danger sign is present (lethargy, convulsions, hypothermia, hypoglycemia, respiratory distress, persistent vomiting).",
+  "document_key_topics": [
+    "Admission criteria for infants under 6 months with SAM",
+    "Inpatient vs. outpatient care pathways",
+    "Feeding effectiveness and caregiver capacity"
+  ],
+  "chunk_heading": "SEVERE ACUTE MALNUTRITION - (SAM) MANAGEMENT;TRIAGE AND DISPOSITION BETWEEN INPATIENT AND CMAM PATHWAYS;ADMISSION CRITERIA FOR INFANTS UNDER 6 MONTHS WITH ACUTE MALNUTRITION;",
+  "topic": "SEVERE ACUTE MALNUTRITION - (SAM) MANAGEMENT",
+  "subtopic": "TRIAGE AND DISPOSITION BETWEEN INPATIENT AND CMAM PATHWAYS",
+  "sub_subtopic": "ADMISSION CRITERIA FOR INFANTS UNDER 6 MONTHS WITH ACUTE MALNUTRITION",
+  "heading_path": "SEVERE ACUTE MALNUTRITION - (SAM) MANAGEMENT;TRIAGE AND DISPOSITION BETWEEN INPATIENT AND CMAM PATHWAYS;ADMISSION CRITERIA FOR INFANTS UNDER 6 MONTHS WITH ACUTE MALNUTRITION;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1h3.1"
+}

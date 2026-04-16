@@ -7,7 +7,11 @@ from openai import AzureOpenAI
 from azure.storage.queue import QueueClient
 from azure.core.credentials import AzureKeyCredential
 from azure.search.documents import SearchClient
+from pathlib import Path
+from dotenv import load_dotenv
 
+ENV_PATH = Path(__file__).resolve().parents[1] / ".env"
+load_dotenv(dotenv_path=ENV_PATH)
 SEARCH_ENDPOINT = "https://basic-rag-sandbox.search.windows.net"
 SEARCH_ADMIN_KEY = "tuqRZ8A374Aw3wXKSTzOY6SEu6Ra8rOyhPgFEtcLpSAzSeBOByQL"
 INDEX_NAME = "pubert-demo-new"

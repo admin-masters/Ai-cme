@@ -1,18 +1,17 @@
 {
-  "chunk_summary": "Vitamin D and calcium replacement are critical for treating nutritional rickets in stunted children, with specific dosing regimens and monitoring protocols to ensure recovery and prevent long-term complications.",
+  "chunk_summary": "Vitamin D and calcium replacement are essential for treating nutritional rickets, which can coexist with stunting and cause orthopedic complications. Screening, treatment, and follow-up are critical for effective management.",
   "learning_objectives": [
-    "Understand the role of vitamin D and calcium in addressing nutritional rickets and stunting.",
-    "Learn the clinical and biochemical screening methods for diagnosing nutritional rickets.",
-    "Familiarize with treatment regimens, including daily and stoss dosing protocols for vitamin D and calcium.",
-    "Recognize non-nutritional causes of rickets and the need for early referral in complex cases."
+    "Understand the role of vitamin D and calcium in managing nutritional rickets and supporting linear growth.",
+    "Learn the clinical and biochemical screening methods for stunted children with bone symptoms.",
+    "Familiarize with pediatric dosing regimens for vitamin D and calcium supplementation.",
+    "Recognize non-nutritional causes of rickets and appropriate referral protocols."
   ],
   "key_facts": [
-    "Vitamin D deficiency and low calcium intake contribute to stunting and symptoms like bone pain, delayed motor milestones, and recurrent fractures.",
-    "Daily cholecalciferol dosing: 2000 IU/day for infants under 12 months, 3000 IU/day for older children, with age-appropriate calcium supplementation.",
-    "Supervised 'stoss' dosing is an alternative for settings with adherence challenges but requires monitoring for toxicity.",
-    "Reassess clinically and biochemically after 4\u20136 weeks to confirm improvement and falling alkaline phosphatase levels.",
-    "Maintenance vitamin D and sustained dietary calcium intake are essential after healing to prevent recurrence.",
-    "Non-nutritional causes like renal tubular acidosis or chronic kidney disease should be evaluated if rickets coexists with polyuria or nephrocalcinosis."
+    "Vitamin D deficiency and low calcium intake can contribute to stunting and bone symptoms like wrist widening and waddling gait.",
+    "Pediatric treatment includes daily cholecalciferol: 2000 IU/day for infants under 12 months and 3000 IU/day for older children, alongside age-appropriate calcium supplementation.",
+    "Supervised 'stoss' dosing may be used in settings with adherence challenges, but requires monitoring for toxicity.",
+    "Reassess clinically and biochemically after 4\u20136 weeks to confirm symptom improvement and falling alkaline phosphatase levels.",
+    "Maintenance therapy includes sustained dietary calcium through milk/curd and continued vitamin D supplementation."
   ],
   "complexity": "intermediate",
   "tags_mesh": [
@@ -21,30 +20,30 @@
     "Rickets",
     "Stunting",
     "Bone Mineralization",
-    "Child Nutrition Disorders",
-    "Nutritional Status",
-    "Orthopedic Complications"
+    "Pediatric Nutrition",
+    "Orthopedic Complications",
+    "Renal Tubular Acidosis"
   ],
   "tags_custom": [
-    "Nutritional Rickets",
-    "Pediatric Nutrition",
-    "Vitamin D Therapy",
-    "Calcium Supplementation",
-    "Growth Disorders"
+    "nutritional rickets",
+    "linear growth interventions",
+    "pediatric bone health",
+    "vitamin D therapy",
+    "calcium supplementation"
   ],
-  "reference_quote": "Global consensus recommendations on nutritional rickets emphasize the importance of vitamin D and calcium supplementation in treating and preventing rickets in children. (Source: IAP rickets \u2014 https://iapindia.org/pdf/Ch-013)",
+  "reference_quote": "Global consensus recommendations suggest daily cholecalciferol dosing of 2000 IU for infants and 3000 IU for older children, alongside calcium supplementation for nutritional rickets management. (Source: https://pubmed.ncbi.nlm.nih.gov/26593520/)",
   "document_key_topics": [
     "Vitamin D and calcium replacement for nutritional rickets",
-    "Screening and diagnosis of rickets in stunted children",
-    "Treatment regimens and monitoring protocols",
-    "Non-nutritional causes of rickets and referral guidelines"
+    "Screening and biochemical markers for stunted children",
+    "Pediatric dosing regimens for rickets treatment",
+    "Non-nutritional causes and referral protocols"
   ],
-  "chunk_heading": "STUNTING, CHRONIC UNDERNUTRITION & DETERMINANTS;MICRONUTRIENT AND INFECTION CONTROL INTERVENTIONS SUPPORTING LINEAR GROWTH;VITAMIN D AND CALCIUM REPLACEMENT FOR NUTRITIONAL RICKETS;",
-  "topic": "STUNTING, CHRONIC UNDERNUTRITION & DETERMINANTS",
+  "chunk_heading": "STUNTING, CHRONIC UNDERNUTRITION AND DETERMINANTS;MICRONUTRIENT AND INFECTION CONTROL INTERVENTIONS SUPPORTING LINEAR GROWTH;VITAMIN D AND CALCIUM REPLACEMENT FOR NUTRITIONAL RICKETS;",
+  "topic": "STUNTING, CHRONIC UNDERNUTRITION AND DETERMINANTS",
   "subtopic": "MICRONUTRIENT AND INFECTION CONTROL INTERVENTIONS SUPPORTING LINEAR GROWTH",
   "sub_subtopic": "VITAMIN D AND CALCIUM REPLACEMENT FOR NUTRITIONAL RICKETS",
-  "heading_path": "STUNTING, CHRONIC UNDERNUTRITION & DETERMINANTS;MICRONUTRIENT AND INFECTION CONTROL INTERVENTIONS SUPPORTING LINEAR GROWTH;VITAMIN D AND CALCIUM REPLACEMENT FOR NUTRITIONAL RICKETS;",
+  "heading_path": "STUNTING, CHRONIC UNDERNUTRITION AND DETERMINANTS;MICRONUTRIENT AND INFECTION CONTROL INTERVENTIONS SUPPORTING LINEAR GROWTH;VITAMIN D AND CALCIUM REPLACEMENT FOR NUTRITIONAL RICKETS;",
   "reference_count": 3,
   "has_guidelines": false,
-  "sequence": "7\u00864"
+  "sequence": "1\u00864"
 }

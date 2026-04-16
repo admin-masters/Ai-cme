@@ -1,17 +1,18 @@
 {
-  "chunk_summary": "Defines moderate acute malnutrition (MAM) in Indian clinics using WHO criteria, emphasizing diagnostic accuracy, misclassification pitfalls, and outpatient management for uncomplicated cases.",
+  "chunk_summary": "Defines moderate acute malnutrition (MAM) in Indian clinics, emphasizing WHO criteria, operational definitions, and diagnostic pitfalls, including misclassification risks and measurement accuracy.",
   "learning_objectives": [
-    "Understand WHO criteria for diagnosing moderate acute malnutrition (MAM) in children aged 6\u201359 months.",
-    "Identify key diagnostic metrics like MUAC and weight-for-height z-scores for MAM in Indian clinics.",
-    "Learn to differentiate MAM from underweight and wasting with complications.",
-    "Apply practical bedside screening methods for MAM during sick-child visits."
+    "Understand WHO diagnostic criteria for moderate acute malnutrition (MAM) in children aged 6\u201359 months.",
+    "Identify operational definitions and safety-first approaches for MAM in Indian clinics.",
+    "Recognize common misclassification pitfalls, such as confusing underweight with MAM.",
+    "Learn practical bedside screening methods for wasting in outpatient settings."
   ],
   "key_facts": [
-    "WHO defines MAM as weight-for-height/length z-scores between -2 and -3 and/or MUAC 115\u2013124 mm, with no bilateral pitting oedema.",
-    "Indian clinics use a safety-first definition: moderate wasting by either metric, clinically stable, with appetite, and no acute danger signs.",
+    "WHO defines MAM as weight-for-height/length (WHZ/WLZ) between -2 and -3 z-scores and/or MUAC 115\u2013124 mm, with no bilateral pitting oedema.",
+    "Indian clinics use a safety-first definition: moderate wasting by WHO metrics, clinically stable, with appetite, and no acute danger signs.",
     "Underweight (low weight-for-age) should not be equated with MAM, as it may indicate chronic stunting.",
-    "Persistent pitting oedema is checked by pressing both feet for several seconds.",
-    "Indian manuals often describe MAM as 70\u201380% of median weight-for-height or MUAC 115\u2013125 mm, managed as outpatient cases."
+    "Check oedema by pressing both feet for several seconds and observing for persistent pitting.",
+    "MUAC values should be interpreted in millimeters to align with WHO thresholds; errors in manuals may include unit typos.",
+    "A one-minute wasting screen includes visible wasting, oedema check, MUAC measurement, and clinical history review."
   ],
   "complexity": "intermediate",
   "tags_mesh": [
@@ -22,20 +23,21 @@
     "Mid-Upper Arm Circumference",
     "Nutritional Assessment",
     "India",
-    "Outpatient Care"
+    "Outpatient Clinics"
   ],
   "tags_custom": [
-    "moderate acute malnutrition",
-    "diagnostic criteria",
-    "Indian clinics",
-    "misclassification pitfalls",
-    "supplementary feeding"
+    "MAM diagnosis",
+    "Indian malnutrition guidelines",
+    "pitting oedema check",
+    "MUAC thresholds",
+    "wasting screening"
   ],
-  "reference_quote": "WHO defines moderate wasting as weight-for-height/length z-scores between -2 and -3 and/or MUAC 115\u2013124 mm, with no bilateral pitting oedema. (Reference 1)",
+  "reference_quote": "WHO defines moderate wasting as weight-for-height/length (WHZ/WLZ) between -2 and -3 z-scores and/or MUAC 115\u2013124 mm, with no bilateral pitting oedema. (Source: WHO, 2023)",
   "document_key_topics": [
-    "Moderate acute malnutrition diagnostic criteria",
-    "Misclassification pitfalls in malnutrition diagnosis",
-    "Outpatient management of uncomplicated MAM cases"
+    "WHO criteria for moderate acute malnutrition",
+    "Indian clinic-specific MAM definitions and safety protocols",
+    "Misclassification risks in malnutrition diagnosis",
+    "Practical bedside screening for wasting"
   ],
   "chunk_heading": "(MAM) MODERATE ACUTE MALNUTRITION AND SUPPLEMENTARY FEEDING;DEFINING MODERATE ACUTE MALNUTRITION IN INDIAN CLINICS;CLINIC-READY DIAGNOSTIC CRITERIA AND MISCLASSIFICATION PITFALLS;",
   "topic": "(MAM) MODERATE ACUTE MALNUTRITION AND SUPPLEMENTARY FEEDING",

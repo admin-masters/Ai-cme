@@ -1,0 +1,47 @@
+{
+  "chunk_summary": "This section outlines triggers and first-line tests for investigating under-five stunting in India, emphasizing determinant correction and targeted testing based on clinical patterns and red flags.",
+  "learning_objectives": [
+    "Understand the clinical patterns that differentiate 'stunted but otherwise well' from 'stunted with medical red flags.'",
+    "Identify key investigation triggers for under-five stunting, including height deceleration and severe short stature.",
+    "Learn the components of a pragmatic first-line test bundle for stunted children in outpatient settings."
+  ],
+  "key_facts": [
+    "Stunting investigations should be triggered by clinical patterns, not solely by HAZ values.",
+    "Investigation triggers include severe short stature (< -3 SD), height deceleration, and medical red flags like chronic cough, hepatosplenomegaly, or developmental regression.",
+    "A first-line test bundle includes CBC, ferritin with CRP/ESR, TSH with free T4, coeliac screening (tTG-IgA and total IgA), and stool microscopy for chronic diarrhea.",
+    "Proportionate short stature starting in the first 1000 days with stable centile tracking often indicates determinant-mediated stunting.",
+    "Extensive endocrine testing is reserved for children with preserved or high weight-for-height."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Stunting",
+    "Chronic Malnutrition",
+    "Pediatric Growth Disorders",
+    "Coeliac Disease",
+    "Thyroid Function Tests",
+    "Parasitic Infections",
+    "Hematologic Tests",
+    "India"
+  ],
+  "tags_custom": [
+    "under-five stunting",
+    "investigation triggers",
+    "first-line test bundle",
+    "determinant correction"
+  ],
+  "reference_quote": "Most under-five stunting in India is determinant-mediated, so investigations should be triggered by pattern recognition rather than by a single HAZ value.",
+  "document_key_topics": [
+    "Determinant-mediated stunting patterns",
+    "Investigation triggers for stunting",
+    "First-line test bundle for stunted children",
+    "Clinical management of stunting in India"
+  ],
+  "chunk_heading": "STUNTING, CHRONIC UNDERNUTRITION AND DETERMINANTS;UNDER-FIVE STUNTING INVESTIGATION TRIGGERS AND FIRST-LINE TEST BUNDLE;",
+  "topic": "STUNTING, CHRONIC UNDERNUTRITION AND DETERMINANTS",
+  "subtopic": "UNDER-FIVE STUNTING INVESTIGATION TRIGGERS AND FIRST-LINE TEST BUNDLE",
+  "sub_subtopic": null,
+  "heading_path": "STUNTING, CHRONIC UNDERNUTRITION AND DETERMINANTS;UNDER-FIVE STUNTING INVESTIGATION TRIGGERS AND FIRST-LINE TEST BUNDLE;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "1t"
+}

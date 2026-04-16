@@ -1,18 +1,17 @@
 {
-  "chunk_summary": "Deworming is a critical intervention for addressing stunting and chronic undernutrition, particularly in endemic areas, by mitigating helminth-related anemia, poor appetite, and inflammation. Guidelines emphasize single-dose albendazole administration, safety precautions, and integration with iron deficiency management for improved outcomes.",
+  "chunk_summary": "Deworming is a critical intervention for addressing stunting and chronic undernutrition, particularly in endemic areas, by mitigating helminth-related anemia, poor appetite, and inflammation. Guidelines emphasize proper dosing, safety considerations, and integration with iron deficiency management for improved outcomes.",
   "learning_objectives": [
     "Understand the role of deworming in mitigating stunting and chronic undernutrition.",
-    "Learn the dosage guidelines for albendazole as per India's National Deworming Day program.",
-    "Identify clinical safety considerations and contraindications for deworming.",
+    "Learn the dosing guidelines for albendazole as per India's National Deworming Day program.",
+    "Identify clinical safety considerations and follow-up actions for deworming in children.",
     "Explore the combined impact of deworming and iron supplementation on growth and functional outcomes."
   ],
   "key_facts": [
     "Helminth infections contribute to anemia, poor appetite, and chronic inflammation, exacerbating stunting.",
     "India\u2019s National Deworming Day recommends single-dose albendazole: 200 mg for ages 1\u20132 years and 400 mg for ages 2\u201319 years.",
-    "Albendazole tablets can be crushed for younger children when necessary.",
     "Deworming should be delayed during acute severe illness or persistent vomiting due to aspiration risk.",
     "Pairing deworming with iron supplementation improves energy levels, school attendance, and growth outcomes.",
-    "Functional endpoints include improvement in pallor, appetite, illness days, and growth velocity."
+    "Documenting deworming details (last dose date, delivery channel, household coverage) is essential for program monitoring."
   ],
   "complexity": "intermediate",
   "tags_mesh": [
@@ -23,28 +22,26 @@
     "Iron-Deficiency Anemia",
     "Child Nutrition Disorders",
     "Deworming",
-    "Growth Disorders"
+    "Public Health Programs"
   ],
   "tags_custom": [
-    "Deworming programs",
-    "Albendazole dosage",
+    "Deworming guidelines",
     "Stunting interventions",
-    "Iron supplementation",
-    "Child health guidelines"
+    "Child health monitoring",
+    "Micronutrient supplementation"
   ],
   "reference_quote": "India\u2019s National Deworming Day operational guidance uses single-dose albendazole for children 1\u201319 years: 200 mg for ages 1\u20132 years and 400 mg for ages 2\u201319 years, with tablets crushed for younger children when needed.",
   "document_key_topics": [
     "Deworming as a stunting intervention",
-    "Albendazole dosage and safety guidelines",
-    "Integration of deworming with iron supplementation",
-    "Clinical considerations in deworming implementation"
+    "Albendazole dosing and safety guidelines",
+    "Integration of deworming with iron supplementation"
   ],
-  "chunk_heading": "STUNTING, CHRONIC UNDERNUTRITION & DETERMINANTS;MICRONUTRIENT AND INFECTION CONTROL INTERVENTIONS SUPPORTING LINEAR GROWTH;DEWORMING IMPLEMENTATION IN CHRONIC UNDERNUTRITION AND STUNTING;",
-  "topic": "STUNTING, CHRONIC UNDERNUTRITION & DETERMINANTS",
+  "chunk_heading": "STUNTING, CHRONIC UNDERNUTRITION AND DETERMINANTS;MICRONUTRIENT AND INFECTION CONTROL INTERVENTIONS SUPPORTING LINEAR GROWTH;DEWORMING IMPLEMENTATION IN CHRONIC UNDERNUTRITION AND STUNTING;",
+  "topic": "STUNTING, CHRONIC UNDERNUTRITION AND DETERMINANTS",
   "subtopic": "MICRONUTRIENT AND INFECTION CONTROL INTERVENTIONS SUPPORTING LINEAR GROWTH",
   "sub_subtopic": "DEWORMING IMPLEMENTATION IN CHRONIC UNDERNUTRITION AND STUNTING",
-  "heading_path": "STUNTING, CHRONIC UNDERNUTRITION & DETERMINANTS;MICRONUTRIENT AND INFECTION CONTROL INTERVENTIONS SUPPORTING LINEAR GROWTH;DEWORMING IMPLEMENTATION IN CHRONIC UNDERNUTRITION AND STUNTING;",
+  "heading_path": "STUNTING, CHRONIC UNDERNUTRITION AND DETERMINANTS;MICRONUTRIENT AND INFECTION CONTROL INTERVENTIONS SUPPORTING LINEAR GROWTH;DEWORMING IMPLEMENTATION IN CHRONIC UNDERNUTRITION AND STUNTING;",
   "reference_count": 4,
   "has_guidelines": false,
-  "sequence": "7\u00886"
+  "sequence": "1\u00886"
 }

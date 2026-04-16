@@ -1,17 +1,18 @@
 {
-  "chunk_summary": "Maternal nutrition and health significantly influence intergenerational stunting risk, emphasizing dyad-based interventions, adolescent nutrition, and anemia prevention to break the cycle of chronic undernutrition.",
+  "chunk_summary": "Maternal nutrition and health significantly influence intergenerational stunting risk, emphasizing the importance of antenatal care, supplementation, and adolescent nutrition for long-term prevention.",
   "learning_objectives": [
-    "Understand the intergenerational pathways linking maternal undernutrition to stunting in children.",
-    "Identify actionable interventions for maternal nutrition during antenatal and postnatal care.",
-    "Recognize the importance of adolescent nutrition and anemia prevention in stunting risk reduction.",
-    "Learn how maternal mental health impacts responsive feeding and child nutrition outcomes."
+    "Understand the role of maternal nutrition and health in intergenerational stunting risk.",
+    "Identify key maternal and perinatal factors contributing to stunting, such as low birth weight and anemia.",
+    "Learn actionable interventions, including antenatal supplementation and adolescent nutrition counseling, to prevent stunting.",
+    "Recognize the importance of dyad-based approaches in addressing stunting."
   ],
   "key_facts": [
-    "Maternal anemia is clinically relevant and linked to poor pregnancy outcomes and reduced caregiving capacity postpartum.",
-    "Low birth weight (LBW), preterm birth, and poor early weight gain are key indicators of stunting risk.",
-    "The first 1000 days are critical for intensified nutrition and infection-prevention support.",
-    "Adolescent girls who are stunted are at higher risk of entering pregnancy with poor reserves, perpetuating stunting risk.",
-    "Iron\u2013folic acid and calcium supplementation policies are actionable components of stunting prevention in Indian clinical workflows."
+    "Stunting often reflects an intergenerational pathway, with maternal undernutrition and anemia increasing risk.",
+    "Low birth weight (LBW) and preterm birth are key indicators of stunting risk.",
+    "Maternal anemia is linked to poor pregnancy outcomes and reduced caregiving capacity postpartum.",
+    "Antenatal supplementation with iron\u2013folic acid and calcium is critical in Indian clinical workflows.",
+    "Adolescent stunting increases the risk of poor reserves during pregnancy, perpetuating the cycle of undernutrition.",
+    "Evidence-based supportive care measures are essential"
   ],
   "complexity": "intermediate",
   "tags_mesh": [
@@ -19,31 +20,31 @@
     "Maternal Nutrition",
     "Anemia",
     "Low Birth Weight",
+    "Pregnancy Complications",
     "Adolescent Health",
-    "Micronutrients",
-    "Pregnancy Outcomes",
-    "Postpartum Depression"
+    "Micronutrient Deficiency",
+    "Fetal Growth Retardation"
   ],
   "tags_custom": [
     "Intergenerational stunting",
-    "Maternal health interventions",
+    "Antenatal care",
     "Adolescent nutrition",
-    "Dyad-based care",
-    "First 1000 days"
+    "Maternal health",
+    "Nutrition counseling"
   ],
-  "reference_quote": "Maternal anemia is common and clinically relevant because it is linked to poor pregnancy outcomes and can reduce maternal caregiving capacity postpartum through fatigue and reduced health-seeking. (Source: NFHS-5, Ministry of Health and Family Welfare, Government of India)",
+  "reference_quote": "Maternal anemia is common and clinically relevant because it is linked to poor pregnancy outcomes and can reduce maternal caregiving capacity postpartum through fatigue and reduced health-seeking.",
   "document_key_topics": [
-    "Intergenerational pathways of stunting",
-    "Maternal nutrition and anemia prevention",
-    "Adolescent health and stunting risk",
-    "Dyad-based interventions for stunting prevention"
+    "Intergenerational stunting pathways",
+    "Maternal nutrition and anemia",
+    "Antenatal and adolescent nutrition interventions",
+    "Dyad-based approaches to stunting prevention"
   ],
-  "chunk_heading": "STUNTING, CHRONIC UNDERNUTRITION & DETERMINANTS;MATERNAL NUTRITION AND INTERGENERATIONAL RISK FACTORS FOR STUNTING;",
-  "topic": "STUNTING, CHRONIC UNDERNUTRITION & DETERMINANTS",
+  "chunk_heading": "STUNTING, CHRONIC UNDERNUTRITION AND DETERMINANTS;MATERNAL NUTRITION AND INTERGENERATIONAL RISK FACTORS FOR STUNTING;",
+  "topic": "STUNTING, CHRONIC UNDERNUTRITION AND DETERMINANTS",
   "subtopic": "MATERNAL NUTRITION AND INTERGENERATIONAL RISK FACTORS FOR STUNTING",
   "sub_subtopic": null,
-  "heading_path": "STUNTING, CHRONIC UNDERNUTRITION & DETERMINANTS;MATERNAL NUTRITION AND INTERGENERATIONAL RISK FACTORS FOR STUNTING;",
-  "reference_count": 4,
+  "heading_path": "STUNTING, CHRONIC UNDERNUTRITION AND DETERMINANTS;MATERNAL NUTRITION AND INTERGENERATIONAL RISK FACTORS FOR STUNTING;",
+  "reference_count": 5,
   "has_guidelines": false,
-  "sequence": "3i"
+  "sequence": "1h"
 }

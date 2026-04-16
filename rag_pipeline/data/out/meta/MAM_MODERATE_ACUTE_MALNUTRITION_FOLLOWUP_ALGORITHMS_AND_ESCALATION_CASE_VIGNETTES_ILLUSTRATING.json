@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Case vignettes illustrate follow-up and referral decisions for moderate acute malnutrition (MAM), focusing on high-risk markers, adherence challenges, TB suspicion, and relapse management within supplementary feeding programs.",
+  "learning_objectives": [
+    "Understand the use of MUAC and WHZ discordance in MAM risk assessment.",
+    "Learn strategies to address non-response due to sharing and dilution of therapeutic food.",
+    "Recognize signs of TB suspicion in malnourished children and initiate appropriate referrals.",
+    "Develop follow-up plans for relapse cases in MAM management."
+  ],
+  "key_facts": [
+    "MUAC <125 mm and WHZ <-2 are critical markers for MAM risk classification.",
+    "High-risk criteria include age under 24 months and MUAC <121 mm.",
+    "Non-response may result from household sharing or improper food preparation.",
+    "TB suspicion in malnourished children requires early referral via NTEP diagnostic pathways.",
+    "Relapse within 2 months of discharge indicates unresolved drivers and necessitates intensified follow-up."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Malnutrition",
+    "Nutritional Support",
+    "Child Health",
+    "Diarrhea",
+    "Tuberculosis",
+    "Anthropometry",
+    "Community Health Services",
+    "Risk Assessment"
+  ],
+  "tags_custom": [
+    "MAM management",
+    "Supplementary feeding",
+    "Relapse prevention",
+    "TB suspicion in malnutrition",
+    "Adherence challenges"
+  ],
+  "reference_quote": "Guideline on the prevention and management of wasting and nutritional oedema in infants and children under 5 years emphasizes prioritizing high-risk markers like MUAC and WHZ for early intervention.",
+  "document_key_topics": [
+    "Moderate acute malnutrition (MAM) risk assessment",
+    "Follow-up algorithms for supplementary feeding",
+    "Referral pathways for TB suspicion in malnourished children",
+    "Relapse management in MAM cases"
+  ],
+  "chunk_heading": "(MAM) MODERATE ACUTE MALNUTRITION AND SUPPLEMENTARY FEEDING;FOLLOW-UP ALGORITHMS AND ESCALATION PATHWAYS;CASE VIGNETTES ILLUSTRATING FOLLOW-UP AND REFERRAL DECISIONS;",
+  "topic": "(MAM) MODERATE ACUTE MALNUTRITION AND SUPPLEMENTARY FEEDING",
+  "subtopic": "FOLLOW-UP ALGORITHMS AND ESCALATION PATHWAYS",
+  "sub_subtopic": "CASE VIGNETTES ILLUSTRATING FOLLOW-UP AND REFERRAL DECISIONS",
+  "heading_path": "(MAM) MODERATE ACUTE MALNUTRITION AND SUPPLEMENTARY FEEDING;FOLLOW-UP ALGORITHMS AND ESCALATION PATHWAYS;CASE VIGNETTES ILLUSTRATING FOLLOW-UP AND REFERRAL DECISIONS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u00805"
+}

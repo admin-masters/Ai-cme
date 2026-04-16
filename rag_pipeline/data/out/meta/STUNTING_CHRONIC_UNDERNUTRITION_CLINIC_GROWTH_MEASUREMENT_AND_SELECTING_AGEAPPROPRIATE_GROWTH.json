@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "Guidelines for selecting age-appropriate growth references and indices to improve diagnostic accuracy in stunting, wasting, and underweight, with specific recommendations for ages 0\u201359 months and 5\u201319 years, including considerations for preterm and school-age children.",
+  "learning_objectives": [
+    "Understand the importance of selecting age-appropriate growth references and indices for accurate growth assessment.",
+    "Learn the specific indices (e.g., LAZ/HAZ, weight-for-height) and their applications for children aged 0\u201359 months.",
+    "Recognize the role of growth velocity, pubertal tempo, and mid-parental height in evaluating children aged 5\u201319 years.",
+    "Identify key considerations for preterm infants and children with a history of being small for gestational age (SGA)."
+  ],
+  "key_facts": [
+    "For ages 0\u201359 months, use WHO child growth standards and indices like LAZ/HAZ for stunting, weight-for-height for wasting, and weight-for-age for underweight.",
+    "For children born preterm, use corrected age during infancy to avoid misinterpreting expected catch-up growth.",
+    "For ages 5\u201319 years, interpret height-for-age and BMI-for-age using WHO growth references or national alternatives like IAP charts in India.",
+    "Single-point height describes 'where the child is,' while growth velocity and pubertal tempo describe 'what is happening now.'",
+    "Calculate mid-parental height to assess genetic potential; a child far below this is more concerning even if above -2 SD.",
+    "Document growth patterns (e.g., tracking vs. crossing centiles) and check for disproportion suggesting skeletal dysplasia."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Stunting",
+    "Chronic Undernutrition",
+    "Growth Charts",
+    "Body Height",
+    "Body Mass Index",
+    "Child Development",
+    "Preterm Infants",
+    "Small for Gestational Age"
+  ],
+  "tags_custom": [
+    "Growth assessment",
+    "Pediatric auxology",
+    "WHO growth standards",
+    "IAP growth charts",
+    "Short stature evaluation"
+  ],
+  "reference_quote": "For ages 5\u201319 years, interpret height-for-age and BMI-for-age using the WHO growth reference for 5\u201319 years, or nationally recommended alternatives such as the IAP charts commonly used in India.",
+  "document_key_topics": [
+    "Stunting and chronic undernutrition",
+    "Age-appropriate growth references and indices",
+    "Preterm and SGA growth considerations",
+    "School-age growth assessment and auxology"
+  ],
+  "chunk_heading": "STUNTING, CHRONIC UNDERNUTRITION AND DETERMINANTS;CLINIC GROWTH MEASUREMENT AND CHART INTERPRETATION SAFEGUARDS;SELECTING AGE-APPROPRIATE GROWTH REFERENCES AND INDICES;",
+  "topic": "STUNTING, CHRONIC UNDERNUTRITION AND DETERMINANTS",
+  "subtopic": "CLINIC GROWTH MEASUREMENT AND CHART INTERPRETATION SAFEGUARDS",
+  "sub_subtopic": "SELECTING AGE-APPROPRIATE GROWTH REFERENCES AND INDICES",
+  "heading_path": "STUNTING, CHRONIC UNDERNUTRITION AND DETERMINANTS;CLINIC GROWTH MEASUREMENT AND CHART INTERPRETATION SAFEGUARDS;SELECTING AGE-APPROPRIATE GROWTH REFERENCES AND INDICES;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1p2"
+}

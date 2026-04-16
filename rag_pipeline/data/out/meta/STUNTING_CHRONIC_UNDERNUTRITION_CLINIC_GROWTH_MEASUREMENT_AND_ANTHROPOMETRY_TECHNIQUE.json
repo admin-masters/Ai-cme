@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Standardized anthropometry techniques are essential to prevent measurement errors in stunting diagnosis, ensuring accurate growth monitoring and safeguarding against false referrals in clinical settings.",
+  "learning_objectives": [
+    "Understand the importance of standardizing anthropometry techniques to prevent measurement errors in growth monitoring.",
+    "Learn proper methods for measuring length, height, weight, and MUAC in children under clinical settings.",
+    "Recognize the need for immediate re-measurement when unexpected centile shifts or high-risk thresholds occur.",
+    "Identify safeguards for documenting and verifying growth data across multiple sources in Indian outpatient care."
+  ],
+  "key_facts": [
+    "For children under 2 years, use a calibrated length board, two-person technique, and correct head and foot positioning.",
+    "Height measurement requires heels together, Frankfurt plane alignment, and a stable stadiometer.",
+    "Weight must be measured with a calibrated scale, minimal clothing, and consistent timing to avoid classification errors.",
+    "MUAC should be measured at the midpoint between acromion and olecranon on the left arm, ensuring the tape is snug but not compressing tissue.",
+    "Clinic workflow should include immediate re-measurement if a child crosses centiles unexpectedly or meets high-risk thresholds.",
+    "In Indian outpatient care, confirm abnormal values in clinic and document the method to improve trust and prevent unnecessary evaluations."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Anthropometry",
+    "Child Nutrition Disorders",
+    "Growth Charts",
+    "Stunting",
+    "Malnutrition",
+    "Body Weight",
+    "Mid-Upper Arm Circumference",
+    "India"
+  ],
+  "tags_custom": [
+    "growth monitoring",
+    "measurement error prevention",
+    "clinical safeguards",
+    "pediatric nutrition",
+    "Indian healthcare"
+  ],
+  "reference_quote": "Standardize technique to prevent false diagnoses and inappropriate referrals. For length in children under 2 years, use a calibrated length board, two-person technique, and correct head and foot positioning.",
+  "document_key_topics": [
+    "Anthropometry technique standardization",
+    "Error prevention in growth measurement",
+    "Safeguards for chart interpretation in clinical settings"
+  ],
+  "chunk_heading": "STUNTING, CHRONIC UNDERNUTRITION AND DETERMINANTS;CLINIC GROWTH MEASUREMENT AND CHART INTERPRETATION SAFEGUARDS;ANTHROPOMETRY TECHNIQUE STANDARDIZATION AND ERROR PREVENTION;",
+  "topic": "STUNTING, CHRONIC UNDERNUTRITION AND DETERMINANTS",
+  "subtopic": "CLINIC GROWTH MEASUREMENT AND CHART INTERPRETATION SAFEGUARDS",
+  "sub_subtopic": "ANTHROPOMETRY TECHNIQUE STANDARDIZATION AND ERROR PREVENTION",
+  "heading_path": "STUNTING, CHRONIC UNDERNUTRITION AND DETERMINANTS;CLINIC GROWTH MEASUREMENT AND CHART INTERPRETATION SAFEGUARDS;ANTHROPOMETRY TECHNIQUE STANDARDIZATION AND ERROR PREVENTION;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1o1"
+}

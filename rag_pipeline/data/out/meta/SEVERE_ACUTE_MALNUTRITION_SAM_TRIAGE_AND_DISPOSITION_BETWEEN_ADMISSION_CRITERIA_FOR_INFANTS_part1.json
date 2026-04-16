@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "This section outlines admission criteria for infants under 6 months with severe acute malnutrition (SAM), focusing on triage between inpatient care and community-based management (CMAM) pathways, as per WHO and national guidelines.",
+  "learning_objectives": [
+    "Understand the admission criteria for infants under 6 months with SAM.",
+    "Differentiate between inpatient and CMAM pathways for managing SAM in infants.",
+    "Learn key guidelines from WHO and national protocols for SAM management.",
+    "Recognize the importance of early identification and treatment of SAM in infants."
+  ],
+  "key_facts": [
+    "Infants under 6 months with SAM require specialized care due to their vulnerability and immature immune systems.",
+    "Admission criteria include visible signs of wasting, nutritional oedema, and failure to thrive.",
+    "WHO guidelines emphasize inpatient care for infants with medical complications or severe wasting.",
+    "Community-based management (CMAM) is recommended for stable cases without complications.",
+    "National protocols, such as those from India, align with WHO standards for facility-based care.",
+    "Early intervention improves survival rates and reduces long-term developmental impacts."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Malnutrition",
+    "Infant Nutrition Disorders",
+    "Severe Acute Malnutrition",
+    "Nutritional Oedema",
+    "Community Health Services",
+    "Inpatient Care",
+    "Growth Disorders",
+    "Guideline Adherence"
+  ],
+  "tags_custom": [
+    "SAM management",
+    "Infant care",
+    "Triage pathways",
+    "WHO guidelines",
+    "Nutritional intervention"
+  ],
+  "reference_quote": "WHO guidelines recommend inpatient care for infants under 6 months with severe wasting or medical complications, while stable cases may be managed through CMAM pathways. (Source: https://www.who.int/tools/elena/interventions/sam-infants)",
+  "document_key_topics": [
+    "Admission criteria for infants under 6 months with SAM",
+    "Triage between inpatient and CMAM pathways",
+    "WHO and national guidelines for SAM management",
+    "Early intervention in malnutrition cases"
+  ],
+  "chunk_heading": "SEVERE ACUTE MALNUTRITION - (SAM) MANAGEMENT;TRIAGE AND DISPOSITION BETWEEN INPATIENT AND CMAM PATHWAYS;ADMISSION CRITERIA FOR INFANTS UNDER 6 MONTHS WITH ACUTE MALNUTRITION;",
+  "topic": "SEVERE ACUTE MALNUTRITION - (SAM) MANAGEMENT",
+  "subtopic": "TRIAGE AND DISPOSITION BETWEEN INPATIENT AND CMAM PATHWAYS",
+  "sub_subtopic": "ADMISSION CRITERIA FOR INFANTS UNDER 6 MONTHS WITH ACUTE MALNUTRITION",
+  "heading_path": "SEVERE ACUTE MALNUTRITION - (SAM) MANAGEMENT;TRIAGE AND DISPOSITION BETWEEN INPATIENT AND CMAM PATHWAYS;ADMISSION CRITERIA FOR INFANTS UNDER 6 MONTHS WITH ACUTE MALNUTRITION;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1h3.2"
+}

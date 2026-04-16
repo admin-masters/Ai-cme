@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "This section discusses clinical clusters in children with moderate acute malnutrition (MAM) to identify underlying conditions like tuberculosis, celiac disease, or cardiac issues, emphasizing early targeted evaluation and adherence to diagnostic guidelines.",
+  "learning_objectives": [
+    "Understand the importance of identifying clinical clusters in non-responsive MAM cases.",
+    "Learn to recognize symptoms suggestive of tuberculosis, celiac disease, or cardiac conditions in malnourished children.",
+    "Familiarize with diagnostic pathways like NTEP for TB and serology for celiac disease.",
+    "Appreciate the role of early targeted investigations in improving outcomes for high-risk children."
+  ],
+  "key_facts": [
+    "Non-response in MAM should prompt investigation for underlying conditions, not just changes in supplements.",
+    "TB suspicion cluster includes symptoms like cough \u22652 weeks, fever \u22652 weeks, weight loss, and household contact.",
+    "Celiac disease cluster includes chronic diarrhea, anemia unresponsive to iron, and family history; serology-based evaluation is recommended.",
+    "Cardiac disease cluster includes tachypnea, feeding fatigue, and poor linear growth; echocardiography may be indicated.",
+    "NTEP diagnostic pathway for TB includes chest imaging and microbiology with NAAT where feasible."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Malnutrition",
+    "Tuberculosis",
+    "Celiac Disease",
+    "Cardiac Diseases",
+    "Pediatric Nutrition",
+    "Diagnostic Techniques and Procedures",
+    "Wasting Syndrome",
+    "Nutritional Rehabilitation"
+  ],
+  "tags_custom": [
+    "MAM non-response",
+    "clinical clusters",
+    "targeted evaluation",
+    "pediatric diagnostics",
+    "high-risk malnutrition"
+  ],
+  "reference_quote": "\u2018A TB suspicion cluster includes cough for 2 weeks or more, fever for 2 weeks or more, reduced playfulness, weight loss or failure to thrive, known household contact, lymphadenopathy, or persistent pneumonia or pleural effusion.\u2019",
+  "document_key_topics": [
+    "Moderate acute malnutrition (MAM) non-response evaluation",
+    "Clinical clusters for tuberculosis, celiac, and cardiac disease",
+    "Targeted diagnostic pathways for high-risk children"
+  ],
+  "chunk_heading": "(MAM) MODERATE ACUTE MALNUTRITION AND SUPPLEMENTARY FEEDING;NON-RESPONSE EVALUATION AND TARGETED INVESTIGATION;CLINICAL CLUSTERS SUGGESTING TUBERCULOSIS CELIAC OR CARDIAC DISEASE;",
+  "topic": "(MAM) MODERATE ACUTE MALNUTRITION AND SUPPLEMENTARY FEEDING",
+  "subtopic": "NON-RESPONSE EVALUATION AND TARGETED INVESTIGATION",
+  "sub_subtopic": "CLINICAL CLUSTERS SUGGESTING TUBERCULOSIS CELIAC OR CARDIAC DISEASE",
+  "heading_path": "(MAM) MODERATE ACUTE MALNUTRITION AND SUPPLEMENTARY FEEDING;NON-RESPONSE EVALUATION AND TARGETED INVESTIGATION;CLINICAL CLUSTERS SUGGESTING TUBERCULOSIS CELIAC OR CARDIAC DISEASE;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u00872"
+}

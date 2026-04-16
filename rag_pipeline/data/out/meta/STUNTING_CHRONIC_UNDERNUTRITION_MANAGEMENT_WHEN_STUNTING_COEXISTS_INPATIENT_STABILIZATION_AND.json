@@ -1,0 +1,47 @@
+{
+  "chunk_summary": "Inpatient stabilization for complicated SAM includes triage for complications, cautious rehydration, electrolyte correction, therapeutic feeding, and antibiotic regimens tailored to severity and local protocols.",
+  "learning_objectives": [
+    "Understand the role of antibiotics in managing complicated SAM during inpatient stabilization.",
+    "Learn the triage priorities for complications in children with SAM, including hypoglycemia and dehydration.",
+    "Identify appropriate antibiotic regimens for complicated SAM and criteria for transitioning to oral therapy.",
+    "Recognize the importance of documenting key decision points in SAM management pathways."
+  ],
+  "key_facts": [
+    "Children with SAM often have impaired immune responses and may present with serious bacterial infections without classic signs.",
+    "Empiric parenteral antibiotic regimen: ampicillin 50 mg/kg every 6 hours plus gentamicin 7.5 mg/kg once daily.",
+    "Step down to oral amoxicillin 25\u201340 mg/kg every 8 hours for approximately 5 days once the child stabilizes.",
+    "Persistent fever requires evaluation for pneumonia, urinary infection, malaria, or TB risk rather than repeated empiric antibiotics.",
+    "Uncomplicated SAM managed outpatient often includes a short course of oral amoxicillin to reduce mortality and clinical deterioration."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Malnutrition",
+    "Severe Acute Malnutrition",
+    "Stunting",
+    "Antibiotics",
+    "Inpatient Care",
+    "Electrolyte Imbalance",
+    "Therapeutic Feeding"
+  ],
+  "tags_custom": [
+    "SAM management",
+    "antibiotic regimens",
+    "pediatric nutrition",
+    "complicated malnutrition",
+    "clinical stabilization"
+  ],
+  "reference_quote": "Antibiotics are part of stabilization for complicated SAM, with empiric parenteral regimens typically including ampicillin and gentamicin, followed by oral amoxicillin as the child stabilizes. (WHO eLENA)",
+  "document_key_topics": [
+    "Management of complicated SAM with antibiotics",
+    "Triage and stabilization priorities in inpatient care",
+    "Guidelines for transitioning from parenteral to oral antibiotics"
+  ],
+  "chunk_heading": "STUNTING, CHRONIC UNDERNUTRITION AND DETERMINANTS;MANAGEMENT WHEN STUNTING COEXISTS WITH SEVERE ACUTE MALNUTRITION;INPATIENT STABILIZATION AND ANTIBIOTIC REGIMENS FOR COMPLICATED SAM;",
+  "topic": "STUNTING, CHRONIC UNDERNUTRITION AND DETERMINANTS",
+  "subtopic": "MANAGEMENT WHEN STUNTING COEXISTS WITH SEVERE ACUTE MALNUTRITION",
+  "sub_subtopic": "INPATIENT STABILIZATION AND ANTIBIOTIC REGIMENS FOR COMPLICATED SAM",
+  "heading_path": "STUNTING, CHRONIC UNDERNUTRITION AND DETERMINANTS;MANAGEMENT WHEN STUNTING COEXISTS WITH SEVERE ACUTE MALNUTRITION;INPATIENT STABILIZATION AND ANTIBIOTIC REGIMENS FOR COMPLICATED SAM;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u008b1"
+}

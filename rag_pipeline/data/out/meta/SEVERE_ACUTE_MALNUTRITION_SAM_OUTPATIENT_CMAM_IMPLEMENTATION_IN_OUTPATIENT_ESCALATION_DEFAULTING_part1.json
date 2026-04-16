@@ -1,50 +1,48 @@
 {
-  "chunk_summary": "This section discusses challenges in outpatient CMAM implementation in India, focusing on escalation defaulting and discordant anthropometry decisions in managing SAM cases.",
+  "chunk_summary": "This section focuses on outpatient management of severe acute malnutrition (SAM) in India, addressing challenges like escalation defaulting and discordant anthropometry decisions within the CMAM framework.",
   "learning_objectives": [
-    "Understand the concept of escalation defaulting in outpatient CMAM programs.",
-    "Analyze the impact of discordant anthropometry on SAM management decisions.",
-    "Evaluate strategies to improve adherence to outpatient treatment protocols in India.",
-    "Identify key guidelines from WHO and UNICEF for managing SAM in community settings."
+    "Understand the outpatient management protocols for SAM in India under the CMAM framework.",
+    "Identify factors contributing to escalation defaulting and discordant anthropometry decisions in SAM cases.",
+    "Analyze the role of community-based interventions in reducing SAM prevalence.",
+    "Review guidelines and recommendations from WHO, UNICEF, and NITI Aayog for SAM management."
   ],
   "key_facts": [
-    "Escalation defaulting refers to cases where patients fail to follow up after being referred to higher levels of care.",
-    "Discordant anthropometry occurs when weight-for-height and mid-upper arm circumference (MUAC) measurements provide conflicting classifications of malnutrition severity.",
-    "WHO guidelines emphasize the use of MUAC <115 mm or weight-for-height Z-score <-3 SD for SAM diagnosis.",
-    "India's CMAM programs face challenges with dropout rates exceeding 20% in some regions.",
-    "The NITI Aayog report highlights the need for better community engagement to reduce defaulting rates.",
-    "Joint WHO-UNICEF guidelines recommend community-based approaches to improve SAM treatment outcomes."
+    "Severe acute malnutrition affects millions of children globally, with India being a high-burden country.",
+    "Community-based management of acute malnutrition (CMAM) is endorsed by WHO, UNICEF, and NITI Aayog as a scalable solution.",
+    "Escalation defaulting refers to cases where children fail to transition to higher care levels despite worsening conditions.",
+    "Discordant anthropometry decisions occur when clinical measurements conflict, complicating treatment pathways.",
+    "The 2023 WHO guideline emphasizes early detection and outpatient care to prevent complications."
   ],
   "complexity": "advanced",
   "tags_mesh": [
+    "Malnutrition",
     "Severe Acute Malnutrition",
     "Community Health Services",
     "Anthropometry",
-    "Nutritional Status",
     "Child Nutrition Disorders",
     "India",
-    "Patient Compliance",
-    "Health Policy"
+    "Outpatient Care",
+    "Guidelines"
   ],
   "tags_custom": [
     "CMAM implementation",
-    "escalation defaulting",
-    "discordant anthropometry",
-    "SAM management",
-    "India healthcare"
+    "Escalation defaulting",
+    "Anthropometry challenges",
+    "SAM management in India",
+    "Community-based interventions"
   ],
-  "reference_quote": "\"WHO guidelines emphasize the use of MUAC <115 mm or weight-for-height Z-score <-3 SD for diagnosing severe acute malnutrition.\" (Source: https://www.ncbi.nlm.nih.gov/books/NBK601654/)",
+  "reference_quote": "Community-based management of acute malnutrition (CMAM) is a proven approach to address severe acute malnutrition, endorsed by WHO, WFP, UNSCN, and UNICEF since 2007. (Source: https://www.unicef.org/media/96981/file/Statement-WHO-WFP-SCNandUNICEFonCommunity-Based-Management-of-SAM.pdf)",
   "document_key_topics": [
-    "Outpatient management of SAM in India",
-    "Challenges in escalation defaulting",
-    "Discordant anthropometry in SAM diagnosis",
-    "Community-based approaches to SAM treatment"
+    "Severe acute malnutrition (SAM) management",
+    "Outpatient CMAM implementation in India",
+    "Challenges in escalation defaulting and anthropometry decisions"
   ],
-  "chunk_heading": "SEVERE ACUTE MALNUTRITION (SAM) MANAGEMENT;OUTPATIENT CMAM IMPLEMENTATION IN INDIA;OUTPATIENT ESCALATION DEFAULTING AND DISCORDANT ANTHROPOMETRY DECISIONS;",
-  "topic": "SEVERE ACUTE MALNUTRITION (SAM) MANAGEMENT",
+  "chunk_heading": "SEVERE ACUTE MALNUTRITION - (SAM) MANAGEMENT;OUTPATIENT CMAM IMPLEMENTATION IN INDIA;OUTPATIENT ESCALATION DEFAULTING AND DISCORDANT ANTHROPOMETRY DECISIONS;",
+  "topic": "SEVERE ACUTE MALNUTRITION - (SAM) MANAGEMENT",
   "subtopic": "OUTPATIENT CMAM IMPLEMENTATION IN INDIA",
   "sub_subtopic": "OUTPATIENT ESCALATION DEFAULTING AND DISCORDANT ANTHROPOMETRY DECISIONS",
-  "heading_path": "SEVERE ACUTE MALNUTRITION (SAM) MANAGEMENT;OUTPATIENT CMAM IMPLEMENTATION IN INDIA;OUTPATIENT ESCALATION DEFAULTING AND DISCORDANT ANTHROPOMETRY DECISIONS;",
+  "heading_path": "SEVERE ACUTE MALNUTRITION - (SAM) MANAGEMENT;OUTPATIENT CMAM IMPLEMENTATION IN INDIA;OUTPATIENT ESCALATION DEFAULTING AND DISCORDANT ANTHROPOMETRY DECISIONS;",
   "reference_count": 3,
   "has_guidelines": false,
-  "sequence": "1{2.2"
+  "sequence": "1\u008f2.2"
 }

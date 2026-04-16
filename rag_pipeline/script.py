@@ -76,21 +76,7 @@ def main():
         print(f"  DOCUMENT {i}/{len(pdf_files)}: {pdf.name}  (topic: {doc_name})")
         print(f"{'█' * 70}")
 
-        # ── Stage 1 ──────────────────────────────────────────────────────────
-        ok = run_stage(
-            [sys.executable, "stage1_chunk_pdf.py", "--in", str(indir)],
-            "Stage 1 — Chunking",
-            pdf.name
-        )
-        if not ok:
-            failed.append((pdf.name, "Stage 1"))
-            if not args.skip_on_failure:
-                log.error("Stopping. Use --skip-on-failure to continue past errors.")
-                break
-            continue
-
-        stage_break()
-
+       
         # ── Stage 2 ──────────────────────────────────────────────────────────
         ok = run_stage(
             [sys.executable, "stage2_meta_tag.py", "--topic", doc_name],

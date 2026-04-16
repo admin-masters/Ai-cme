@@ -2,49 +2,49 @@
   "chunk_summary": "Deworming in SAM management is a rehabilitation-phase intervention initiated after clinical stabilization, focusing on age-appropriate anthelmintic dosing and hygiene counseling to prevent reinfection.",
   "learning_objectives": [
     "Understand the timing and rationale for deworming in severe acute malnutrition (SAM) management.",
-    "Learn age-specific anthelmintic dosing protocols for albendazole and mebendazole in SAM rehabilitation.",
-    "Recognize contraindications and adverse effects of deworming in unstable children with SAM.",
-    "Integrate deworming with hygiene counseling and outpatient follow-up workflows."
+    "Learn age-specific anthelmintic dosing protocols for albendazole and mebendazole.",
+    "Recognize contraindications and adverse effects of deworming in SAM patients.",
+    "Integrate deworming with hygiene education to reduce reinfection risks."
   ],
   "key_facts": [
-    "Deworming is not a day-0 priority in SAM; it is initiated after 48\u201372 hours or at discharge once the child is stable.",
-    "Albendazole dosing: 200 mg single dose for 12\u201323 months; 400 mg single dose for \u226524 months.",
+    "Deworming is not a day-0 priority in SAM management; it is initiated after 48\u201372 hours or at discharge.",
+    "Albendazole dosing: 200 mg single dose for 12\u201323 months, 400 mg single dose for \u226524 months.",
     "Mebendazole alternative: 100 mg twice daily for 3 days in children \u226524 months.",
     "Avoid deworming in children <12 months unless directed by specific program policies.",
-    "Persistent diarrhea requires stool examination for pathogens like giardiasis, not empiric deworming.",
-    "Link deworming to hygiene counseling (handwashing, feces disposal, footwear) to reduce reinfection."
+    "Persistent diarrhea requires stool examination for pathogens rather than empiric deworming.",
+    "Link deworming to outpatient follow-up with hygiene counseling to reduce reinfection."
   ],
   "complexity": "intermediate",
   "tags_mesh": [
     "Severe Acute Malnutrition",
     "Deworming",
+    "Anthelmintics",
     "Albendazole",
     "Mebendazole",
     "Helminthiasis",
     "Rehabilitation",
-    "Anthelmintics",
-    "Diarrhea"
+    "Child Nutrition Disorders"
   ],
   "tags_custom": [
-    "SAM rehabilitation",
+    "SAM management",
+    "rehabilitation-phase care",
     "anthelmintic dosing",
     "hygiene counseling",
-    "clinical stabilization",
-    "infection management"
+    "infection prevention"
   ],
   "reference_quote": "Deworming should be planned once the child is clinically stable, has transitioned to catch-up feeding, and can tolerate oral medicines reliably (commonly after the first 48\u201372 hours of stabilization or at discharge).",
   "document_key_topics": [
     "Deworming timing in SAM rehabilitation",
     "Age-specific anthelmintic dosing protocols",
-    "Hygiene counseling to prevent reinfection",
+    "Integration of hygiene counseling with deworming",
     "Contraindications and adverse effects of deworming"
   ],
-  "chunk_heading": "SEVERE ACUTE MALNUTRITION (SAM) MANAGEMENT;INFECTION MANAGEMENT AND METABOLIC CORRECTIONS;DEWORMING TIMING AND ANTIHELMINTHIC DOSES DURING REHABILITATION;",
-  "topic": "SEVERE ACUTE MALNUTRITION (SAM) MANAGEMENT",
+  "chunk_heading": "SEVERE ACUTE MALNUTRITION - (SAM) MANAGEMENT;INFECTION MANAGEMENT AND METABOLIC CORRECTIONS;DEWORMING TIMING AND ANTIHELMINTHIC DOSES DURING REHABILITATION;",
+  "topic": "SEVERE ACUTE MALNUTRITION - (SAM) MANAGEMENT",
   "subtopic": "INFECTION MANAGEMENT AND METABOLIC CORRECTIONS",
   "sub_subtopic": "DEWORMING TIMING AND ANTIHELMINTHIC DOSES DURING REHABILITATION",
-  "heading_path": "SEVERE ACUTE MALNUTRITION (SAM) MANAGEMENT;INFECTION MANAGEMENT AND METABOLIC CORRECTIONS;DEWORMING TIMING AND ANTIHELMINTHIC DOSES DURING REHABILITATION;",
+  "heading_path": "SEVERE ACUTE MALNUTRITION - (SAM) MANAGEMENT;INFECTION MANAGEMENT AND METABOLIC CORRECTIONS;DEWORMING TIMING AND ANTIHELMINTHIC DOSES DURING REHABILITATION;",
   "reference_count": 4,
   "has_guidelines": false,
-  "sequence": "1t4"
+  "sequence": "1\u008315"
 }

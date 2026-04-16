@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "Guidelines for malaria testing and artesunate-based treatment in SAM children, emphasizing early diagnosis, appropriate therapy, and tailored supportive care in malaria-endemic settings.",
+  "learning_objectives": [
+    "Understand the importance of early malaria testing in SAM children with fever or related symptoms.",
+    "Learn the dosing and administration protocols for artemisinin-based therapies in uncomplicated and severe malaria.",
+    "Recognize severe malaria symptoms and implement inpatient management strategies, including parenteral artesunate and supportive care.",
+    "Adapt fluid and anemia management strategies to the physiological needs of malnourished children."
+  ],
+  "key_facts": [
+    "In malaria-endemic areas, test SAM children with fever, hypothermia, or anemia using smear or rapid diagnostic tests.",
+    "Uncomplicated falciparum malaria: Oral artesunate for 3 days or artemether\u2013lumefantrine in a 6-dose regimen over 3 days.",
+    "Severe malaria: Parenteral artesunate 2.4 mg/kg IV at 0, 12, and 24 hours, then daily until oral intake is possible.",
+    "Avoid aggressive fluid resuscitation in SAM children to prevent heart failure; reassess at 48\u201372 hours for response.",
+    "Severe anemia in SAM should be managed with transfusion criteria rather than early iron supplementation."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Severe Acute Malnutrition",
+    "Malaria",
+    "Artemisinin-based Combination Therapy",
+    "Parenteral Artesunate",
+    "Anemia",
+    "Fluid Therapy",
+    "Hypoglycemia",
+    "Infection Management"
+  ],
+  "tags_custom": [
+    "SAM management",
+    "malaria treatment",
+    "artesunate therapy",
+    "pediatric guidelines"
+  ],
+  "reference_quote": "Severe malaria is an inpatient emergency in SAM. Use parenteral artesunate 2.4 mg/kg IV at 0, 12, and 24 hours and then once daily until the child can swallow, then complete therapy with a full oral regimen as per protocol. (Source: Indian Academy of Pediatrics, Standard Treatment Guidelines: Malaria)",
+  "document_key_topics": [
+    "Malaria testing in SAM children",
+    "Artemisinin-based therapy for malaria",
+    "Severe malaria inpatient management",
+    "Supportive care in SAM with malaria"
+  ],
+  "chunk_heading": "SEVERE ACUTE MALNUTRITION - (SAM) MANAGEMENT;INFECTION MANAGEMENT AND METABOLIC CORRECTIONS;MALARIA TESTING AND ARTESUNATE-BASED TREATMENT IN SAM;",
+  "topic": "SEVERE ACUTE MALNUTRITION - (SAM) MANAGEMENT",
+  "subtopic": "INFECTION MANAGEMENT AND METABOLIC CORRECTIONS",
+  "sub_subtopic": "MALARIA TESTING AND ARTESUNATE-BASED TREATMENT IN SAM",
+  "heading_path": "SEVERE ACUTE MALNUTRITION - (SAM) MANAGEMENT;INFECTION MANAGEMENT AND METABOLIC CORRECTIONS;MALARIA TESTING AND ARTESUNATE-BASED TREATMENT IN SAM;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1|8"
+}

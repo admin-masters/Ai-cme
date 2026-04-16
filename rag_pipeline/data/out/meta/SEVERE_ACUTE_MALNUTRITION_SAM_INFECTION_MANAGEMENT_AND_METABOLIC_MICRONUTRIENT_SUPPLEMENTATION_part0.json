@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Guidelines for micronutrient supplementation in inpatient SAM care, focusing on dosages, timing, and integration with feeding and local protocols during stabilization and early rehabilitation phases.",
+  "learning_objectives": [
+    "Understand the role of therapeutic foods in reducing the need for additional micronutrient supplementation in SAM care.",
+    "Learn the standard inpatient supplementation schedule, including specific dosages for folic acid, zinc, and copper.",
+    "Identify strategies to ensure adherence to supplementation protocols, including documentation and timing with feeds.",
+    "Differentiate between routine supplementation and condition-triggered therapy in SAM management."
+  ],
+  "key_facts": [
+    "Folic acid: 5 mg on day 1, followed by 1 mg daily.",
+    "Zinc: 2 mg/kg/day and copper: 0.3 mg/kg/day for at least 2 weeks.",
+    "Micronutrients should be given with feeds to reduce gastric intolerance.",
+    "Iron and high-dose vitamin A require specific timing and indications in SAM care.",
+    "Use a nursing intake chart with a medication checklist to avoid omissions during night shifts.",
+    "Stabilization feeding and infection management take priority if vomiting or severe diarrhea limits oral delivery."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Severe Acute Malnutrition",
+    "Micronutrients",
+    "Folic Acid",
+    "Zinc",
+    "Copper",
+    "Therapeutic Foods",
+    "Rehabilitation",
+    "Infection Management"
+  ],
+  "tags_custom": [
+    "SAM inpatient care",
+    "micronutrient therapy",
+    "stabilization feeding",
+    "nutrition protocols"
+  ],
+  "reference_quote": "If therapeutic foods are correctly prepared and meet specifications (F-75, F-100, or RUTF), additional multivitamins and trace elements may be unnecessary and can cause duplication.",
+  "document_key_topics": [
+    "Micronutrient supplementation in SAM care",
+    "Dosage and timing of folic acid, zinc, and copper",
+    "Integration of supplementation with feeding protocols",
+    "Condition-triggered therapy versus routine schedules"
+  ],
+  "chunk_heading": "SEVERE ACUTE MALNUTRITION - (SAM) MANAGEMENT;INFECTION MANAGEMENT AND METABOLIC CORRECTIONS;MICRONUTRIENT SUPPLEMENTATION SCHEDULE IN INPATIENT SAM CARE;",
+  "topic": "SEVERE ACUTE MALNUTRITION - (SAM) MANAGEMENT",
+  "subtopic": "INFECTION MANAGEMENT AND METABOLIC CORRECTIONS",
+  "sub_subtopic": "MICRONUTRIENT SUPPLEMENTATION SCHEDULE IN INPATIENT SAM CARE",
+  "heading_path": "SEVERE ACUTE MALNUTRITION - (SAM) MANAGEMENT;INFECTION MANAGEMENT AND METABOLIC CORRECTIONS;MICRONUTRIENT SUPPLEMENTATION SCHEDULE IN INPATIENT SAM CARE;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u008012.1"
+}

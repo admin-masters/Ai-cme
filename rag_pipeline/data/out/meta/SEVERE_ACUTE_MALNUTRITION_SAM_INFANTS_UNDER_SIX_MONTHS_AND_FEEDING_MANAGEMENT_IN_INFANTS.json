@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Management of severe acute malnutrition (SAM) in infants under 6 months focuses on breastfeeding restoration, safe feeding alternatives, and stabilization of acute issues like hypoglycemia and infection, with close monitoring and follow-up for sustained recovery.",
+  "learning_objectives": [
+    "Understand the therapeutic goals for SAM management in infants under 6 months, including breastfeeding restoration and prevention of complications.",
+    "Learn techniques such as supplementary suckling and relactation to support feeding in malnourished infants.",
+    "Recognize safety protocols for SAM management, including frequent small feeds, warmth maintenance, and infection treatment.",
+    "Identify discharge criteria and follow-up requirements for infants recovering from SAM."
+  ],
+  "key_facts": [
+    "Direct breastfeeding with skilled observation is prioritized; expressed breast milk or supplementary suckling technique (SST) may be used if the infant is weak.",
+    "Starter therapeutic feeds are temporary and should avoid overly concentrated formulas to prevent increased solute load.",
+    "Non-breastfed infants require program-approved replacement feeding with strict hygiene counseling and close follow-up.",
+    "Daily reassessment includes feeding effectiveness, urine output, temperature, weight trend, and maternal barriers.",
+    "Discharge criteria include effective feeding, clinical stability, and clear weight gain on the home-feeding plan.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Malnutrition",
+    "Infant Nutrition Disorders",
+    "Breastfeeding",
+    "Hypoglycemia",
+    "Infection Control",
+    "Therapeutic Feeding",
+    "Relactation",
+    "Nutritional Support"
+  ],
+  "tags_custom": [
+    "SAM management",
+    "infant feeding techniques",
+    "malnutrition stabilization",
+    "maternal-infant dyad care"
+  ],
+  "reference_quote": "Management of acute malnutrition in infants under 6 months is feeding-first and dyad-focused. The therapeutic goal is restoration of effective breastfeeding (or safe alternative feeding) while preventing hypoglycemia, hypothermia, and infection. (Source: WHO Pocket Book of Hospital Care for Children)",
+  "document_key_topics": [
+    "Breastfeeding restoration and support techniques",
+    "Safe feeding alternatives for non-breastfed infants",
+    "Stabilization of acute complications in SAM",
+    "Discharge and follow-up criteria for malnourished infants"
+  ],
+  "chunk_heading": "SEVERE ACUTE MALNUTRITION - (SAM) MANAGEMENT;INFANTS UNDER SIX MONTHS AND COMORBIDITY MODIFICATIONS;FEEDING MANAGEMENT IN INFANTS UNDER 6 MONTHS;",
+  "topic": "SEVERE ACUTE MALNUTRITION - (SAM) MANAGEMENT",
+  "subtopic": "INFANTS UNDER SIX MONTHS AND COMORBIDITY MODIFICATIONS",
+  "sub_subtopic": "FEEDING MANAGEMENT IN INFANTS UNDER 6 MONTHS",
+  "heading_path": "SEVERE ACUTE MALNUTRITION - (SAM) MANAGEMENT;INFANTS UNDER SIX MONTHS AND COMORBIDITY MODIFICATIONS;FEEDING MANAGEMENT IN INFANTS UNDER 6 MONTHS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u009a1"
+}

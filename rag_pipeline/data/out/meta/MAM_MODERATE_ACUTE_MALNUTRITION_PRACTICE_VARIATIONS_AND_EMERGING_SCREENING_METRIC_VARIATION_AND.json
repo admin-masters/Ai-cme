@@ -1,0 +1,45 @@
+{
+  "chunk_summary": "This section discusses screening metric variations for moderate acute malnutrition (MAM) in India, emphasizing the use of MUAC and WHZ/WLZ, documentation strategies, and risk-based care to address discrepancies in clinical and programmatic criteria.",
+  "learning_objectives": [
+    "Understand the differences between MUAC and WHZ/WLZ as screening tools for MAM in India.",
+    "Learn the documentation strategy for managing discrepancies in MAM screening metrics.",
+    "Recognize the importance of risk-based care and clinical stability in MAM treatment decisions."
+  ],
+  "key_facts": [
+    "MUAC and WHZ/WLZ are both recommended by WHO for identifying moderate wasting.",
+    "The Ministry of Women and Child Development (MoWCD) in India reserves MUAC for emergencies like pandemics or natural disasters.",
+    "Discrepancies between MUAC and WHZ/WLZ can result in children being excluded from local entitlement pathways.",
+    "Clinical strategy recommends recording both MUAC and WHZ/WLZ, using the more severe measure for risk stratification.",
+    "Caregivers should receive written documentation of both measures to ensure continuity of care."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Malnutrition",
+    "Mid-Upper Arm Circumference",
+    "Weight-for-Height Z-Score",
+    "Child Nutrition Disorders",
+    "Community Health Services",
+    "Risk Assessment",
+    "India"
+  ],
+  "tags_custom": [
+    "MAM screening",
+    "Documentation strategy",
+    "Programmatic criteria",
+    "Risk-based care"
+  ],
+  "reference_quote": "Medical definitions and the WHO guideline include both MUAC and WHZ/WLZ for identifying moderate wasting.",
+  "document_key_topics": [
+    "Screening metric variations for MAM in India",
+    "Documentation strategies for MAM management",
+    "Risk-based care and clinical decision-making in MAM"
+  ],
+  "chunk_heading": "(MAM) MODERATE ACUTE MALNUTRITION AND SUPPLEMENTARY FEEDING;PRACTICE VARIATIONS AND EMERGING EVIDENCE IN INDIA;SCREENING METRIC VARIATION AND DOCUMENTATION STRATEGY;",
+  "topic": "(MAM) MODERATE ACUTE MALNUTRITION AND SUPPLEMENTARY FEEDING",
+  "subtopic": "PRACTICE VARIATIONS AND EMERGING EVIDENCE IN INDIA",
+  "sub_subtopic": "SCREENING METRIC VARIATION AND DOCUMENTATION STRATEGY",
+  "heading_path": "(MAM) MODERATE ACUTE MALNUTRITION AND SUPPLEMENTARY FEEDING;PRACTICE VARIATIONS AND EMERGING EVIDENCE IN INDIA;SCREENING METRIC VARIATION AND DOCUMENTATION STRATEGY;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1\u00961"
+}

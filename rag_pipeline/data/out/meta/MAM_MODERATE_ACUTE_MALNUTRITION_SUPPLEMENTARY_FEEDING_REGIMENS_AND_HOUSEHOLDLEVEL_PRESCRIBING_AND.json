@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "Guidance on household-level prescribing and adherence audits for THR and hot cooked meals to manage moderate acute malnutrition, emphasizing operational prescription, storage, preparation, and follow-up adherence checks.",
+  "learning_objectives": [
+    "Understand the operational prescription of THR and hot cooked meals for MAM management.",
+    "Learn methods to ensure adherence to prescribed nutritional regimens at the household level.",
+    "Identify strategies to prevent sharing, over-dilution, and displacement of THR and HCM.",
+    "Develop skills to perform adherence audits and escalate programmatic issues effectively."
+  ],
+  "key_facts": [
+    "THR and HCM should be prescribed operationally, like medication, rather than assuming receipt equals intake.",
+    "Caregivers should be instructed to treat the ration as the child\u2019s medicine, with explicit storage and serving plans.",
+    "Preparation should aim for thick consistency with added fat to increase energy density, avoiding over-dilution.",
+    "Adherence audits should include checks on days received, days consumed by the child, sharing, storage, and preparation errors.",
+    "Escalation ladders should document issues like stockouts or poor-quality packets and involve AWC supervisors or CDPOs.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Malnutrition",
+    "Supplementary Feeding",
+    "Child Nutrition Disorders",
+    "Dietary Supplements",
+    "Food Safety",
+    "Community Health Services",
+    "Nutrition Policy",
+    "Caregivers"
+  ],
+  "tags_custom": [
+    "THR adherence",
+    "Hot cooked meals",
+    "MAM management",
+    "Nutrition audits",
+    "Caregiver education"
+  ],
+  "reference_quote": "\u2018This ration is the child\u2019s medicine.\u2019 (Source: Supplementary Nutrition (ICDS) Rules, 2017)",
+  "document_key_topics": [
+    "Prescribing THR and HCM for MAM",
+    "Adherence audits for nutritional regimens",
+    "Caregiver education and storage practices",
+    "Escalation of programmatic issues"
+  ],
+  "chunk_heading": "(MAM) MODERATE ACUTE MALNUTRITION AND SUPPLEMENTARY FEEDING;SUPPLEMENTARY FEEDING REGIMENS AND SAFE PRODUCT USE;HOUSEHOLD-LEVEL PRESCRIBING AND ADHERENCE AUDIT FOR THR AND HOT COOKED MEALS;",
+  "topic": "(MAM) MODERATE ACUTE MALNUTRITION AND SUPPLEMENTARY FEEDING",
+  "subtopic": "SUPPLEMENTARY FEEDING REGIMENS AND SAFE PRODUCT USE",
+  "sub_subtopic": "HOUSEHOLD-LEVEL PRESCRIBING AND ADHERENCE AUDIT FOR THR AND HOT COOKED MEALS",
+  "heading_path": "(MAM) MODERATE ACUTE MALNUTRITION AND SUPPLEMENTARY FEEDING;SUPPLEMENTARY FEEDING REGIMENS AND SAFE PRODUCT USE;HOUSEHOLD-LEVEL PRESCRIBING AND ADHERENCE AUDIT FOR THR AND HOT COOKED MEALS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1x2"
+}

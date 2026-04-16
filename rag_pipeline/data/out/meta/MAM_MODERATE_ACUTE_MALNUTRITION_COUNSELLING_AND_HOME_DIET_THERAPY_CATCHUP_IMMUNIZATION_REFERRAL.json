@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Guidance on integrating catch-up immunization into follow-up care for children with uncomplicated moderate wasting, emphasizing workflow, documentation, and proactive linkage to immunization drives.",
+  "learning_objectives": [
+    "Understand the workflow for catch-up immunization during MAM follow-up visits.",
+    "Learn how to document and verify immunization status in children with moderate wasting.",
+    "Recognize the importance of linking underimmunized children to special immunization drives like Mission Indradhanush.",
+    "Identify contraindications and considerations for vaccination in children with moderate wasting."
+  ],
+  "key_facts": [
+    "Immunization status should be documented at day 0 and week 4 follow-up.",
+    "Vaccination is recommended for clinically stable children with uncomplicated moderate wasting.",
+    "Missed vaccine doses are given as catch-up without restarting the series.",
+    "Mild intercurrent illness is not a contraindication for vaccination.",
+    "Proactive linkage to Mission Indradhanush and VHSND is advised for migrant families or those missing sessions."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Malnutrition",
+    "Immunization Schedule",
+    "Vaccination",
+    "Child Nutrition Disorders",
+    "Health Promotion",
+    "Community Health Services",
+    "Pneumonia Prevention",
+    "Diarrhea Prevention"
+  ],
+  "tags_custom": [
+    "moderate wasting",
+    "catch-up immunization",
+    "Mission Indradhanush",
+    "child health follow-up",
+    "community linkage"
+  ],
+  "reference_quote": "Missed doses are given as catch-up, following schedule guidance at the immunization site. (Source: National Immunization Schedule, India)",
+  "document_key_topics": [
+    "Catch-up immunization workflow for MAM follow-up",
+    "Documentation and verification of immunization status",
+    "Proactive linkage to immunization drives",
+    "Vaccination guidelines for children with moderate wasting"
+  ],
+  "chunk_heading": "(MAM) MODERATE ACUTE MALNUTRITION AND SUPPLEMENTARY FEEDING;COUNSELLING AND HOME DIET THERAPY IN UNCOMPLICATED MODERATE WASTING;CATCH-UP IMMUNIZATION REFERRAL WORKFLOW DURING WASTING FOLLOW-UP;",
+  "topic": "(MAM) MODERATE ACUTE MALNUTRITION AND SUPPLEMENTARY FEEDING",
+  "subtopic": "COUNSELLING AND HOME DIET THERAPY IN UNCOMPLICATED MODERATE WASTING",
+  "sub_subtopic": "CATCH-UP IMMUNIZATION REFERRAL WORKFLOW DURING WASTING FOLLOW-UP",
+  "heading_path": "(MAM) MODERATE ACUTE MALNUTRITION AND SUPPLEMENTARY FEEDING;COUNSELLING AND HOME DIET THERAPY IN UNCOMPLICATED MODERATE WASTING;CATCH-UP IMMUNIZATION REFERRAL WORKFLOW DURING WASTING FOLLOW-UP;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1u6"
+}

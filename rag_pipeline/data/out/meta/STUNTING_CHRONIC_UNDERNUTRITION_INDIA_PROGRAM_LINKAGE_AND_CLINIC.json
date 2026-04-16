@@ -1,48 +1,50 @@
 {
-  "chunk_summary": "This section emphasizes linking clinical stunting care to public nutrition programs in India, ensuring continuity of care through documentation, program referrals, and monitoring tools like Poshan Tracker.",
+  "chunk_summary": "This section discusses integrating clinic care with public nutrition programs in India to address stunting and chronic undernutrition, emphasizing program linkages, growth monitoring, and structured documentation for continuity of care.",
   "learning_objectives": [
-    "Understand the importance of linking stunting care to public nutrition programs like Mission POSHAN 2.0 and PM POSHAN.",
-    "Learn how to use Poshan Tracker for growth monitoring and validate clinic measurements.",
-    "Identify barriers to program access for children and adolescents, including stigma, attendance, and meal quality."
+    "Understand the role of public nutrition programs like Mission POSHAN 2.0 and PM POSHAN in addressing stunting and undernutrition.",
+    "Learn how to integrate clinic-based care with public platforms for continuity of care.",
+    "Develop skills to document stunting phenotypes, determinant barriers, and program actions for follow-up.",
+    "Recognize the importance of growth monitoring, anemia management, and deworming in pediatric and adolescent care."
   ],
   "key_facts": [
-    "Stunting care should integrate public platforms like anganwadi centers and PM POSHAN for food and nutrition delivery.",
-    "Poshan Tracker is a governance tool for growth monitoring; clinicians should validate abnormal measurements in clinics.",
-    "National Deworming Day schedules and vitamin A rounds are critical for adolescent health and anemia prevention.",
-    "Documentation templates should include phenotype, determinant barriers, and program actions for auditable follow-up.",
+    "Mission POSHAN 2.0 supports supplementary nutrition and growth monitoring for children under 6 years.",
+    "The Poshan Tracker is a governance tool for monitoring growth and ensuring accurate measurements.",
+    "PM POSHAN provides school meals to address nutrition for school-age children, with barriers like stigma and attendance needing attention.",
     "Anemia platforms target both school-going and out-of-school adolescents, including married adolescent girls.",
-    "Evidence-based supportive care measures are essential"
+    "National Deworming Day schedules and vitamin A rounds are critical for comprehensive care.",
+    "Structured documentation includes stunting phenotype, determinant barriers, and program actions to ensure auditable follow-up."
   ],
   "complexity": "intermediate",
   "tags_mesh": [
     "Stunting",
-    "Malnutrition",
+    "Chronic Undernutrition",
     "Growth Monitoring",
     "Anemia",
     "Deworming",
-    "Vitamin A Deficiency",
-    "Public Health Programs",
-    "India"
+    "Nutrition Programs",
+    "Pediatric Care",
+    "Adolescent Health"
   ],
   "tags_custom": [
-    "clinic documentation",
-    "nutrition program linkage",
-    "anganwadi enrollment",
-    "adolescent health",
-    "continuity of care"
+    "India public health",
+    "clinic-to-program linkage",
+    "nutrition governance",
+    "stunting documentation",
+    "anganwadi enrollment"
   ],
   "reference_quote": "The Poshan Tracker is used for growth monitoring governance; clinicians can add value by validating abnormal measurements in clinic and reinforcing correct technique.",
   "document_key_topics": [
-    "Stunting and chronic undernutrition care",
-    "Linkage to public nutrition programs in India",
-    "Documentation for continuity of care"
+    "Stunting and chronic undernutrition in children and adolescents",
+    "Integration of clinic care with public nutrition programs",
+    "Growth monitoring and anemia management",
+    "Structured documentation for continuity of care"
   ],
-  "chunk_heading": "STUNTING, CHRONIC UNDERNUTRITION & DETERMINANTS;INDIA PROGRAM LINKAGE AND CLINIC DOCUMENTATION FOR CONTINUITY OF CARE;",
-  "topic": "STUNTING, CHRONIC UNDERNUTRITION & DETERMINANTS",
+  "chunk_heading": "STUNTING, CHRONIC UNDERNUTRITION AND DETERMINANTS;INDIA PROGRAM LINKAGE AND CLINIC DOCUMENTATION FOR CONTINUITY OF CARE;",
+  "topic": "STUNTING, CHRONIC UNDERNUTRITION AND DETERMINANTS",
   "subtopic": "INDIA PROGRAM LINKAGE AND CLINIC DOCUMENTATION FOR CONTINUITY OF CARE",
   "sub_subtopic": null,
-  "heading_path": "STUNTING, CHRONIC UNDERNUTRITION & DETERMINANTS;INDIA PROGRAM LINKAGE AND CLINIC DOCUMENTATION FOR CONTINUITY OF CARE;",
+  "heading_path": "STUNTING, CHRONIC UNDERNUTRITION AND DETERMINANTS;INDIA PROGRAM LINKAGE AND CLINIC DOCUMENTATION FOR CONTINUITY OF CARE;",
   "reference_count": 5,
   "has_guidelines": false,
-  "sequence": "7\u008e"
+  "sequence": "1\u008e"
 }

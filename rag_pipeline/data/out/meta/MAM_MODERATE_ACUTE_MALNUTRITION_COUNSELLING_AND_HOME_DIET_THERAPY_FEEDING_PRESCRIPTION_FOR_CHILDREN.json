@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "Guidelines for feeding children aged 12\u201359 months with moderate acute malnutrition (MAM), focusing on meal frequency, energy density, protein sources, and caregiver counseling for home diet therapy.",
+  "learning_objectives": [
+    "Understand feeding prescriptions for children aged 12\u201359 months with MAM.",
+    "Learn strategies to enhance energy density and protein intake in home diets.",
+    "Identify key counseling points for caregivers managing uncomplicated moderate wasting.",
+    "Document and monitor dietary interventions effectively."
+  ],
+  "key_facts": [
+    "For ages 12\u201323 months: prescribe 3\u20134 meals and 1\u20132 snacks daily, with portions of three-quarters to one 250 mL cup per meal.",
+    "For ages 24\u201359 months: prescribe 3 main meals and 2 snacks daily, emphasizing energy-dense family foods.",
+    "Add energy-dense 'add-ons' like oil or ghee to meals to enhance calorie intake.",
+    "Avoid diluting milk; use full-strength milk without replacing solids.",
+    "Replace low-nutrient snacks with planned options like banana, roasted chana, or egg.",
+    "Document a minimum counseling dataset, including a problem statement, agreed dietary change, and monitoring question."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Malnutrition",
+    "Diet Therapy",
+    "Child Nutrition Disorders",
+    "Energy Intake",
+    "Feeding Behavior",
+    "Caregivers",
+    "Breastfeeding",
+    "Protein-Energy Malnutrition"
+  ],
+  "tags_custom": [
+    "Moderate Acute Malnutrition",
+    "Home Diet Counseling",
+    "Child Feeding Guidelines",
+    "Energy-Dense Foods",
+    "Caregiver Education"
+  ],
+  "reference_quote": "World Health Organization. 2023. Guideline on the prevention and management of wasting and nutritional oedema in infants and children under 5 years.",
+  "document_key_topics": [
+    "Feeding guidelines for children with MAM",
+    "Energy density and protein sources in diets",
+    "Caregiver counseling and monitoring",
+    "Integration of supplementary rations with home foods"
+  ],
+  "chunk_heading": "(MAM) MODERATE ACUTE MALNUTRITION AND SUPPLEMENTARY FEEDING;COUNSELLING AND HOME DIET THERAPY IN UNCOMPLICATED MODERATE WASTING;FEEDING PRESCRIPTION FOR CHILDREN 12 TO 59 MONTHS;",
+  "topic": "(MAM) MODERATE ACUTE MALNUTRITION AND SUPPLEMENTARY FEEDING",
+  "subtopic": "COUNSELLING AND HOME DIET THERAPY IN UNCOMPLICATED MODERATE WASTING",
+  "sub_subtopic": "FEEDING PRESCRIPTION FOR CHILDREN 12 TO 59 MONTHS",
+  "heading_path": "(MAM) MODERATE ACUTE MALNUTRITION AND SUPPLEMENTARY FEEDING;COUNSELLING AND HOME DIET THERAPY IN UNCOMPLICATED MODERATE WASTING;FEEDING PRESCRIPTION FOR CHILDREN 12 TO 59 MONTHS;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1s4"
+}

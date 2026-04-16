@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Case-based management of severe acute malnutrition (SAM) focuses on discharge criteria, outpatient care, and addressing complications like infections, feeding issues, and caregiver reliability for effective recovery and follow-up.",
+  "learning_objectives": [
+    "Understand the importance of using admission criteria and edema-free stability for discharge decisions in SAM management.",
+    "Learn to assess and address feeding effectiveness in infants with low weight-for-length and weak suck.",
+    "Develop strategies for tracing and managing defaulters in outpatient CMAM programs.",
+    "Recognize and manage complicated SAM cases with infections, hypoxia, or suspected HIV."
+  ],
+  "key_facts": [
+    "Discharge should require repeated edema-free stability; discordance between WHZ and MUAC is common.",
+    "MUAC <125 mm indicates continued therapy despite WHZ improvement.",
+    "Infants with weak suck require urgent lactation support, expressed breast milk plans, and feeding effectiveness assessment.",
+    "Defaulters in outpatient CMAM must be traced immediately; weight loss, edema, or danger signs warrant urgent referral.",
+    "Severe pneumonia with hypoxia in SAM requires broad empiric antibiotics, high-dose cotrimoxazole for PCP, and HIV testing with ART initiation after stabilization."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Malnutrition",
+    "Severe Acute Malnutrition",
+    "Anthropometry",
+    "Edema",
+    "Infant Nutrition Disorders",
+    "HIV Infections",
+    "Pneumonia",
+    "Community Health Services"
+  ],
+  "tags_custom": [
+    "SAM discharge criteria",
+    "outpatient CMAM follow-up",
+    "feeding effectiveness",
+    "complicated SAM management",
+    "caregiver reliability"
+  ],
+  "reference_quote": "Correct approach is to anchor recovery to the admission criterion and require repeated edema-free stability; discordance is common and continued therapy with close follow-up is safer than single-metric discharge. (Source: NITI Aayog, Community-based management of acute malnutrition in India report, 2023)",
+  "document_key_topics": [
+    "Discharge criteria in SAM management",
+    "Outpatient care and follow-up in CMAM",
+    "Feeding effectiveness in infants with SAM",
+    "Management of complicated SAM cases with infections or HIV"
+  ],
+  "chunk_heading": "SEVERE ACUTE MALNUTRITION - (SAM) MANAGEMENT;CASE-BASED MANAGEMENT DECISIONS IN DISCHARGE AND OUTPATIENT CARE;",
+  "topic": "SEVERE ACUTE MALNUTRITION - (SAM) MANAGEMENT",
+  "subtopic": "CASE-BASED MANAGEMENT DECISIONS IN DISCHARGE AND OUTPATIENT CARE",
+  "sub_subtopic": null,
+  "heading_path": "SEVERE ACUTE MALNUTRITION - (SAM) MANAGEMENT;CASE-BASED MANAGEMENT DECISIONS IN DISCHARGE AND OUTPATIENT CARE;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u009c"
+}

@@ -1,50 +1,50 @@
 {
-  "chunk_summary": "Guidance on meal frequency, nutrient density, and feeding practices for children aged 6 months to adolescence, emphasizing age-appropriate meals, energy-dense foods, protein inclusion, and structured routines to address chronic undernutrition and stunting.",
+  "chunk_summary": "Guidance on meal frequency, nutrient density, and age-specific dietary counseling for children 6\u201323 months, school-age children, and adolescents to address chronic undernutrition and stunting.",
   "learning_objectives": [
-    "Understand age-specific meal frequency and nutrient density recommendations for children aged 6\u201323 months.",
-    "Learn strategies to enhance energy density and protein intake in children with low appetite.",
-    "Recognize the importance of structured meal routines and physical activity for school-age children and adolescents.",
-    "Identify foods and practices to avoid, such as nutrient-displacing beverages and choking hazards."
+    "Understand age-specific meal frequency and nutrient density recommendations for children and adolescents.",
+    "Learn strategies to enhance energy and protein intake in low-appetite children.",
+    "Identify dietary practices to support oral-motor development and school performance.",
+    "Recognize the role of structured meals and snacks in appetite regulation and nutrient adequacy."
   ],
   "key_facts": [
     "Breastfed infants aged 6\u20138 months need 2\u20133 meals/day; 9\u201323 months need 3\u20134 meals/day with snacks as needed.",
     "Non-breastfed children require more meals plus milk feeds to meet nutritional needs.",
-    "Protein should be included in all main meals and at least one snack for school-age children and adolescents.",
+    "Protein should be included in every main meal and at least one snack for school-age children and adolescents.",
     "Energy density can be increased by adding oil/ghee to khichdi or dal, nut paste to porridge, or curd/egg to meals.",
-    "Tea can displace nutrients, and biscuits provide empty calories; replace with milk and home-prepared snacks.",
-    "Choking-risk precautions are essential for young children when offering nuts or hard foods."
+    "Tea and biscuits should be replaced with milk and nutrient-dense snacks to avoid empty calories and nutrient displacement.",
+    "Choking-risk precautions are essential for young children when introducing nuts or hard foods."
   ],
   "complexity": "intermediate",
   "tags_mesh": [
     "Stunting",
-    "Chronic Malnutrition",
+    "Chronic Undernutrition",
+    "Infant Nutrition",
     "Child Nutrition",
-    "Complementary Feeding",
-    "Dietary Proteins",
+    "Adolescent Nutrition",
+    "Dietary Counseling",
     "Energy Intake",
-    "Feeding Behavior",
-    "Adolescent Nutrition"
+    "Protein Intake"
   ],
   "tags_custom": [
-    "Meal frequency",
-    "Nutrient density",
-    "Child feeding practices",
-    "Energy-dense foods",
-    "Protein-rich diets"
+    "Meal Frequency",
+    "Nutrient Density",
+    "Complementary Feeding",
+    "Low-Appetite Strategies",
+    "School Nutrition"
   ],
-  "reference_quote": "Breastfed infants typically need 2\u20133 meals per day at 6\u20138 months and 3\u20134 meals per day at 9\u201323 months, with additional nutritious snacks as needed; non-breastfed children require more meals plus milk feeds. (WHO guideline for complementary feeding of infants and young children 6\u201323 months of age, 2023)",
+  "reference_quote": "Breastfed infants typically need 2\u20133 meals per day at 6\u20138 months and 3\u20134 meals per day at 9\u201323 months, with additional nutritious snacks as needed. (Source: WHO complementary feeding guideline, 2023)",
   "document_key_topics": [
     "Meal frequency and nutrient density for children 6\u201323 months",
-    "Structured meal planning for school-age children and adolescents",
-    "Strategies to enhance energy and protein intake",
-    "Choking-risk precautions and dietary counseling"
+    "Dietary strategies for school-age children and adolescents",
+    "Energy and protein adequacy in low-appetite children",
+    "Choking-risk precautions and structured meal planning"
   ],
-  "chunk_heading": "STUNTING, CHRONIC UNDERNUTRITION & DETERMINANTS;QUANTITATIVE NUTRITION PRESCRIPTION FOR CHRONIC UNDERNUTRITION;MEAL FREQUENCY AND NUTRIENT DENSITY COUNSELING BY AGE;",
-  "topic": "STUNTING, CHRONIC UNDERNUTRITION & DETERMINANTS",
+  "chunk_heading": "STUNTING, CHRONIC UNDERNUTRITION AND DETERMINANTS;QUANTITATIVE NUTRITION PRESCRIPTION FOR CHRONIC UNDERNUTRITION;MEAL FREQUENCY AND NUTRIENT DENSITY COUNSELING BY AGE;",
+  "topic": "STUNTING, CHRONIC UNDERNUTRITION AND DETERMINANTS",
   "subtopic": "QUANTITATIVE NUTRITION PRESCRIPTION FOR CHRONIC UNDERNUTRITION",
   "sub_subtopic": "MEAL FREQUENCY AND NUTRIENT DENSITY COUNSELING BY AGE",
-  "heading_path": "STUNTING, CHRONIC UNDERNUTRITION & DETERMINANTS;QUANTITATIVE NUTRITION PRESCRIPTION FOR CHRONIC UNDERNUTRITION;MEAL FREQUENCY AND NUTRIENT DENSITY COUNSELING BY AGE;",
-  "reference_count": 4,
+  "heading_path": "STUNTING, CHRONIC UNDERNUTRITION AND DETERMINANTS;QUANTITATIVE NUTRITION PRESCRIPTION FOR CHRONIC UNDERNUTRITION;MEAL FREQUENCY AND NUTRIENT DENSITY COUNSELING BY AGE;",
+  "reference_count": 5,
   "has_guidelines": false,
-  "sequence": "7|2"
+  "sequence": "1|2"
 }

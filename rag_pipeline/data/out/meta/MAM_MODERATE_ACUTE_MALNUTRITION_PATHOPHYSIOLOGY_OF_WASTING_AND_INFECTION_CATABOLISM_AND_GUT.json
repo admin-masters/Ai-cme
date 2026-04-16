@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Moderate acute malnutrition (MAM) involves infection-driven catabolism and gut dysfunction, including environmental enteric dysfunction (EED), which impairs recovery. Management requires energy supplementation (100\u2013130 kcal/kg/day) and addressing infection, food insecurity, and caregiving constraints.",
+  "learning_objectives": [
+    "Understand the pathophysiology of wasting, including infection-driven catabolism and gut dysfunction.",
+    "Recognize environmental enteric dysfunction (EED) and its impact on nutrient absorption and recovery.",
+    "Learn WHO guidelines for energy supplementation in children with moderate wasting (100\u2013130 kcal/kg/day).",
+    "Identify strategies to prevent relapse, including addressing infection burden and food insecurity."
+  ],
+  "key_facts": [
+    "Acute wasting results from a mismatch between intake/absorption and physiological needs, exacerbated by infections.",
+    "Environmental enteric dysfunction (EED) causes intestinal inflammation, impaired absorption, and barrier disruption.",
+    "WHO recommends 100\u2013130 kcal/kg/day for children aged 6\u201359 months during recovery from moderate wasting.",
+    "Persistent poor appetite is a clinical marker of unresolved illness or inflammation, not behavioral issues.",
+    "Relapse after discharge often reflects unresolved infection burden, food insecurity, or caregiving constraints."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Malnutrition",
+    "Wasting Syndrome",
+    "Environmental Enteric Dysfunction",
+    "Infection",
+    "Energy Metabolism",
+    "Micronutrients",
+    "Diarrhea",
+    "Child Nutrition Disorders"
+  ],
+  "tags_custom": [
+    "Moderate acute malnutrition",
+    "Gut dysfunction",
+    "Energy supplementation",
+    "Relapse prevention",
+    "Low-resource settings"
+  ],
+  "reference_quote": "Environmental enteric dysfunction: an overview \u2014 'EED is a subclinical enteropathy linked to repeated enteric pathogen exposure, causing intestinal inflammation and impaired absorption.'",
+  "document_key_topics": [
+    "Pathophysiology of wasting in malnutrition",
+    "Infection-driven catabolism and immune dysfunction",
+    "Environmental enteric dysfunction (EED) and gut health",
+    "Energy supplementation and relapse prevention in MAM"
+  ],
+  "chunk_heading": "(MAM) MODERATE ACUTE MALNUTRITION AND SUPPLEMENTARY FEEDING;PATHOPHYSIOLOGY OF WASTING AND CLINICAL CORRELATES;INFECTION CATABOLISM AND GUT DYSFUNCTION IN WASTING;",
+  "topic": "(MAM) MODERATE ACUTE MALNUTRITION AND SUPPLEMENTARY FEEDING",
+  "subtopic": "PATHOPHYSIOLOGY OF WASTING AND CLINICAL CORRELATES",
+  "sub_subtopic": "INFECTION CATABOLISM AND GUT DYSFUNCTION IN WASTING",
+  "heading_path": "(MAM) MODERATE ACUTE MALNUTRITION AND SUPPLEMENTARY FEEDING;PATHOPHYSIOLOGY OF WASTING AND CLINICAL CORRELATES;INFECTION CATABOLISM AND GUT DYSFUNCTION IN WASTING;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1f1"
+}

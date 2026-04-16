@@ -1,0 +1,47 @@
+{
+  "chunk_summary": "Guidelines for weight-based F-75 prescription in SAM focus on metabolic stabilization, precise feed volumes, and progression rules to prevent complications like hypoglycemia and vomiting.",
+  "learning_objectives": [
+    "Understand the role of F-75 in the stabilization phase of SAM management.",
+    "Learn how to calculate and prescribe weight-based F-75 feed volumes.",
+    "Recognize triggers for NG feeding and reassessment in cases of poor intake.",
+    "Apply feeding progression rules to ensure safe therapeutic feeding."
+  ],
+  "key_facts": [
+    "F-75 is a low-sodium, low-protein therapeutic feed used for metabolic stabilization in SAM.",
+    "Initial feeding targets are approximately 130 mL/kg/day, reduced to 100 mL/kg/day in severe edema (+++).",
+    "Feeds are given every 2 hours initially, transitioning to 3-4 hours as the child stabilizes.",
+    "Minimum acceptable intake is 80% of the daily target; NG top-up is initiated if intake falls below this threshold.",
+    "Vomiting management includes reducing feed volume and increasing frequency rather than skipping feeds.",
+    "Breastfeeding should continue on demand alongside therapeutic feeds."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Severe Acute Malnutrition",
+    "Therapeutic Feeding",
+    "F-75 Diet",
+    "Hypoglycemia Prevention",
+    "Enteral Nutrition",
+    "Edema Management",
+    "Pediatric Nutrition Disorders"
+  ],
+  "tags_custom": [
+    "SAM stabilization",
+    "weight-based feeding",
+    "NG feeding protocols",
+    "feeding progression"
+  ],
+  "reference_quote": "Use low-sodium, low-protein F-75 (or equivalent starter diet) given day and night in small, frequent feeds. Write orders in executable bedside terms: 'F-75 ___ mL per feed every ___ hours; daily target ___ mL; minimum acceptable intake (80% of target) ___ mL/day.'",
+  "document_key_topics": [
+    "F-75 prescription and feeding targets",
+    "Management of hypoglycemia and vomiting in SAM",
+    "Feeding progression and NG feeding protocols"
+  ],
+  "chunk_heading": "SEVERE ACUTE MALNUTRITION - (SAM) MANAGEMENT;THERAPEUTIC FEEDING AND CATCH-UP GROWTH;WEIGHT-BASED F-75 PRESCRIPTION AND FEED VOLUME TARGETS;",
+  "topic": "SEVERE ACUTE MALNUTRITION - (SAM) MANAGEMENT",
+  "subtopic": "THERAPEUTIC FEEDING AND CATCH-UP GROWTH",
+  "sub_subtopic": "WEIGHT-BASED F-75 PRESCRIPTION AND FEED VOLUME TARGETS",
+  "heading_path": "SEVERE ACUTE MALNUTRITION - (SAM) MANAGEMENT;THERAPEUTIC FEEDING AND CATCH-UP GROWTH;WEIGHT-BASED F-75 PRESCRIPTION AND FEED VOLUME TARGETS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u00851"
+}

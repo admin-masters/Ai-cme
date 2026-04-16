@@ -1,0 +1,47 @@
+{
+  "chunk_summary": "Guidelines for prescribing and safely using RUSF and LNS for moderate acute malnutrition, including dosing, monitoring, and safe-use practices.",
+  "learning_objectives": [
+    "Understand the energy requirements for children with moderate acute malnutrition (MAM) and the role of RUSF and LNS.",
+    "Learn how to prescribe RUSF and LNS, including dosing, duration, and monitoring adherence.",
+    "Identify safe-use practices to prevent operational failures, such as food sharing and contamination risks."
+  ],
+  "key_facts": [
+    "WHO recommends a recovery target of 100\u2013130 kcal/kg/day, with supplements contributing 40\u201378 kcal/kg/day for MAM.",
+    "A 6 kg child requires 240\u2013468 kcal/day from supplements; an 8 kg child needs 320\u2013624 kcal/day; a 10 kg child needs 400\u2013780 kcal/day.",
+    "RUSF is typically prescribed as one 100 g sachet per day, providing about 535 kcal.",
+    "RUSF should not be mixed with water to avoid contamination risks and is not a breast-milk substitute.",
+    "Prescribed courses of RUSF often last 8\u201312 weeks, with early reassessment for adherence and displacement."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Malnutrition",
+    "Dietary Supplements",
+    "Child Nutrition Disorders",
+    "Energy Intake",
+    "Lipid-Based Nutrient Supplements",
+    "Ready-to-Use Therapeutic Foods",
+    "Feeding Behavior",
+    "Food Safety"
+  ],
+  "tags_custom": [
+    "RUSF dosing",
+    "MAM management",
+    "child nutrition",
+    "safe feeding practices",
+    "supplementary feeding"
+  ],
+  "reference_quote": "UNICEF specifications describe RUSF as eaten directly from the sachet without cooking or dilution, typically as one 100 g sachet per day providing about 535 kcal, and not as a breast-milk substitute.",
+  "document_key_topics": [
+    "Prescribing RUSF and LNS for MAM",
+    "Energy requirements and dosing guidelines",
+    "Safe-use practices for supplementary feeding"
+  ],
+  "chunk_heading": "(MAM) MODERATE ACUTE MALNUTRITION AND SUPPLEMENTARY FEEDING;SUPPLEMENTARY FEEDING REGIMENS AND SAFE PRODUCT USE;PRESCRIBABLE DOSING AND SAFE USE OF RUSF AND LNS;",
+  "topic": "(MAM) MODERATE ACUTE MALNUTRITION AND SUPPLEMENTARY FEEDING",
+  "subtopic": "SUPPLEMENTARY FEEDING REGIMENS AND SAFE PRODUCT USE",
+  "sub_subtopic": "PRESCRIBABLE DOSING AND SAFE USE OF RUSF AND LNS",
+  "heading_path": "(MAM) MODERATE ACUTE MALNUTRITION AND SUPPLEMENTARY FEEDING;SUPPLEMENTARY FEEDING REGIMENS AND SAFE PRODUCT USE;PRESCRIBABLE DOSING AND SAFE USE OF RUSF AND LNS;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1y3"
+}

@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "This section discusses therapeutic food availability challenges in India's outpatient CMAM programs, emphasizing protocol reliability, structured adaptations during stock-outs, and standardized visit workflows for managing SAM cases.",
+  "learning_objectives": [
+    "Understand the variability in therapeutic food availability across Indian states and its impact on SAM management.",
+    "Learn the importance of predefined adaptation rules during therapeutic food stock-outs.",
+    "Familiarize with the standardized outpatient CMAM visit workflow for SAM management.",
+    "Recognize the role of WHO 2023 guidelines in dose-reduction protocols for SAM recovery."
+  ],
+  "key_facts": [
+    "India lacks a universally adopted therapeutic food product for SAM; states use RUTF, locally produced equivalents, or state-designed supplements.",
+    "Inpatient care often relies on locally prepared F-75 and F-100 recipes as per MoHFW guidance.",
+    "WHO 2023 framework allows structured dose-reduction only after a child transitions out of SAM criteria and has no nutritional oedema.",
+    "Outpatient CMAM visits should include screening for danger signs, appetite verification, weight measurement, and household risk assessment.",
+    "Correct triage, cautious medical management, and strict follow-up are critical for SAM treatment success."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Severe Acute Malnutrition",
+    "Community-Based Management of Acute Malnutrition",
+    "Therapeutic Foods",
+    "Outpatient Care",
+    "Child Nutrition Disorders",
+    "Dietary Supplements",
+    "India",
+    "Guideline Adherence"
+  ],
+  "tags_custom": [
+    "SAM management",
+    "therapeutic food stock-outs",
+    "CMAM workflow",
+    "India-specific adaptations"
+  ],
+  "reference_quote": "Community-based management depends on access to a therapeutic food, yet India has not had a single universally adopted product for SAM across states. (Source: https://www.niti.gov.in/sites/default/files/2023-12/CMAM-report-NITI-Aayog.pdf)",
+  "document_key_topics": [
+    "Therapeutic food availability in India",
+    "Adaptation strategies during stock-outs",
+    "Standardized outpatient CMAM visit workflow",
+    "WHO 2023 dose-reduction guidelines"
+  ],
+  "chunk_heading": "SEVERE ACUTE MALNUTRITION - (SAM) MANAGEMENT;OUTPATIENT CMAM IMPLEMENTATION IN INDIA;THERAPEUTIC FOOD AVAILABILITY STOCK-OUT ADAPTATIONS AND VISIT WORKFLOW;",
+  "topic": "SEVERE ACUTE MALNUTRITION - (SAM) MANAGEMENT",
+  "subtopic": "OUTPATIENT CMAM IMPLEMENTATION IN INDIA",
+  "sub_subtopic": "THERAPEUTIC FOOD AVAILABILITY STOCK-OUT ADAPTATIONS AND VISIT WORKFLOW",
+  "heading_path": "SEVERE ACUTE MALNUTRITION - (SAM) MANAGEMENT;OUTPATIENT CMAM IMPLEMENTATION IN INDIA;THERAPEUTIC FOOD AVAILABILITY STOCK-OUT ADAPTATIONS AND VISIT WORKFLOW;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1\u008e1.1"
+}

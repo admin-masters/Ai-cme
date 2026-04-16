@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Guidelines for the first 24\u201372 hours of inpatient SAM care, focusing on arrival assessment, danger sign identification, and early stabilization actions like glucose, warmth, and empiric antibiotics.",
+  "learning_objectives": [
+    "Understand the critical steps in the first 24\u201372 hours of inpatient SAM care.",
+    "Learn to perform ABCD emergency screening and manage hypoglycemia, hypothermia, and hypoxia.",
+    "Identify key history and examination elements for syndrome-specific pathways and escalation planning.",
+    "Monitor vital parameters and intake/output during early stabilization."
+  ],
+  "key_facts": [
+    "The first 24\u201372 hours are the highest-risk period for inpatient SAM care.",
+    "Immediate ABCD emergency screening includes glucose and temperature checks.",
+    "Hypoglycemia, hypothermia, and hypoxia require immediate treatment upon arrival.",
+    "Empiric antibiotics should be started early in complicated SAM cases, even without fever.",
+    "Anthropometry (MUAC, WHZ/WLZ) and edema grade are critical for assessment.",
+    "First-day monitoring includes temperature, respiratory rate, pulse, mental state, intake/output, and stool/urine frequency."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Severe Acute Malnutrition",
+    "Hypoglycemia",
+    "Hypothermia",
+    "Empiric Antibiotic Therapy",
+    "Anthropometry",
+    "Edema",
+    "Pediatric Emergency Care",
+    "Inpatient Monitoring"
+  ],
+  "tags_custom": [
+    "SAM stabilization",
+    "early triage",
+    "critical care pediatrics",
+    "malnutrition management"
+  ],
+  "reference_quote": "The first 24\u201372 hours are the highest-risk period in inpatient SAM care. Avoidable deaths commonly follow missed danger signs, delayed glucose/warmth/feeding actions, or iatrogenic 'standard pediatrics' fluids and feeds that do not respect the altered physiology of severe malnutrition. (Source: WHO Pocket Book of Hospital Care for Children)",
+  "document_key_topics": [
+    "Early triage and stabilization in SAM",
+    "Danger sign identification and management",
+    "Empiric antibiotic use in complicated SAM",
+    "First-day monitoring and syndrome-specific pathways"
+  ],
+  "chunk_heading": "SEVERE ACUTE MALNUTRITION - (SAM) MANAGEMENT;INPATIENT STABILIZATION AND EARLY  MONITORING;CLINICALLY  EXECUTABLE  ARRIVAL  ASSESSMENT  AND  TRIAGE ORDER SET;",
+  "topic": "SEVERE ACUTE MALNUTRITION - (SAM) MANAGEMENT",
+  "subtopic": "INPATIENT STABILIZATION AND EARLY  MONITORING",
+  "sub_subtopic": "CLINICALLY  EXECUTABLE  ARRIVAL  ASSESSMENT  AND  TRIAGE ORDER SET",
+  "heading_path": "SEVERE ACUTE MALNUTRITION - (SAM) MANAGEMENT;INPATIENT STABILIZATION AND EARLY  MONITORING;CLINICALLY  EXECUTABLE  ARRIVAL  ASSESSMENT  AND  TRIAGE ORDER SET;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1k1"
+}

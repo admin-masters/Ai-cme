@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Refeeding syndrome in SAM management requires recognition of electrolyte shifts, proactive supplementation, and careful feed advancement to prevent clinical deterioration.",
+  "learning_objectives": [
+    "Understand the pathophysiology of refeeding syndrome in severe acute malnutrition (SAM).",
+    "Identify clinical signs and laboratory markers of refeeding syndrome during therapeutic feeding.",
+    "Learn appropriate thiamine and phosphate replacement strategies for managing refeeding syndrome.",
+    "Develop skills to adjust feeding protocols and manage concurrent infections in SAM patients."
+  ],
+  "key_facts": [
+    "Refeeding syndrome risk arises from depleted potassium, magnesium, and phosphate stores, with electrolyte shifts driven by insulin release during feeding.",
+    "Clinical signs include tachypnea, hypoxia, arrhythmia, neuromuscular weakness, seizures, or worsening edema within 2\u20135 days of feed advancement.",
+    "Routine supplementation: potassium (3\u20134 mmol/kg/day) and magnesium (0.4\u20130.6 mmol/kg/day) even without lab confirmation.",
+    "Thiamine supplementation is recommended before escalating feeds in refeeding syndrome cases.",
+    "Moderate-to-severe hypophosphatemia requires enteral phosphate or IV phosphate with cardiac and calcium monitoring."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Severe Acute Malnutrition",
+    "Refeeding Syndrome",
+    "Thiamine",
+    "Phosphate",
+    "Electrolyte Imbalance",
+    "Hypophosphatemia",
+    "Therapeutic Feeding",
+    "Catch-Up Growth"
+  ],
+  "tags_custom": [
+    "SAM management",
+    "electrolyte replacement",
+    "feeding protocols",
+    "clinical deterioration",
+    "nutritional rehabilitation"
+  ],
+  "reference_quote": "Suspect refeeding syndrome when new tachypnea or hypoxia develops without another explanation, arrhythmia or sudden tachycardia occurs, neuromuscular weakness or lethargy worsens, seizures appear, or edema increases during feed advancement. (Source: WHO Pocket Book of Hospital Care for Children, Severe Acute Malnutrition Chapter)",
+  "document_key_topics": [
+    "Refeeding syndrome recognition in SAM",
+    "Thiamine and phosphate replacement strategies",
+    "Electrolyte management during therapeutic feeding",
+    "Clinical signs and prevention of refeeding complications"
+  ],
+  "chunk_heading": "SEVERE ACUTE MALNUTRITION - (SAM) MANAGEMENT;THERAPEUTIC FEEDING AND CATCH-UP GROWTH;REFEEDING SYNDROME RECOGNITION THIAMINE AND PHOSPHATE REPLACEMENT;",
+  "topic": "SEVERE ACUTE MALNUTRITION - (SAM) MANAGEMENT",
+  "subtopic": "THERAPEUTIC FEEDING AND CATCH-UP GROWTH",
+  "sub_subtopic": "REFEEDING SYNDROME RECOGNITION THIAMINE AND PHOSPHATE REPLACEMENT",
+  "heading_path": "SEVERE ACUTE MALNUTRITION - (SAM) MANAGEMENT;THERAPEUTIC FEEDING AND CATCH-UP GROWTH;REFEEDING SYNDROME RECOGNITION THIAMINE AND PHOSPHATE REPLACEMENT;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "1\u008a6"
+}

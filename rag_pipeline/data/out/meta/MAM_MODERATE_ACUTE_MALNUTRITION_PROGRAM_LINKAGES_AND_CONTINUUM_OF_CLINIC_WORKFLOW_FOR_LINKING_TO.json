@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "This section outlines clinic workflows for linking children with Moderate Acute Malnutrition (MAM) to Anganwadi and community services in India, emphasizing registration, supplementation, and coordinated follow-ups per Mission Poshan guidelines.",
+  "learning_objectives": [
+    "Understand the clinic workflow for linking MAM cases to Anganwadi and community services.",
+    "Learn the role of pediatricians, AWWs, and health staff in managing MAM cases.",
+    "Identify key entitlements such as THR and HCM and their delivery mechanisms.",
+    "Recognize the importance of aligning clinic reviews with community touchpoints to reduce caregiver burden."
+  ],
+  "key_facts": [
+    "Mission Poshan guidelines require MAM beneficiaries to be registered at the nearest Anganwadi center.",
+    "Supplementation is delivered through entitlements like Take-Home Rations (THR) and Hot Cooked Meals (HCM) for a minimum of 300 days per year.",
+    "The Poshan Tracker includes a migration facility to maintain access for families who temporarily relocate.",
+    "Clinic workflow includes issuing a written linkage note with child identifiers, anthropometry, and a clear outpatient plan.",
+    "Monthly Village Health, Sanitation, and Nutrition Days (VHSND) are key touchpoints for growth monitoring and referrals."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Malnutrition",
+    "Community Health Services",
+    "Child Nutrition Disorders",
+    "Pediatric Nutrition",
+    "Health Services Accessibility",
+    "India",
+    "Growth Monitoring",
+    "Referral and Consultation"
+  ],
+  "tags_custom": [
+    "MAM management",
+    "Anganwadi linkage",
+    "Supplementary feeding",
+    "Community-based care",
+    "Poshan guidelines"
+  ],
+  "reference_quote": "Mission Poshan scheme guidance specifies that beneficiaries must be registered at the nearest Anganwadi centre and that supplementation is delivered through entitlements such as THR and HCM, typically for a minimum of about 300 days per year. (Reference 1)",
+  "document_key_topics": [
+    "Moderate Acute Malnutrition (MAM) management",
+    "Clinic-to-community linkage workflows",
+    "Supplementary feeding entitlements and delivery"
+  ],
+  "chunk_heading": "(MAM) MODERATE ACUTE MALNUTRITION AND SUPPLEMENTARY FEEDING;PROGRAM LINKAGES AND CONTINUUM OF CARE IN INDIA;CLINIC WORKFLOW FOR LINKING TO ANGANWADI AND COMMUNITY SERVICES;",
+  "topic": "(MAM) MODERATE ACUTE MALNUTRITION AND SUPPLEMENTARY FEEDING",
+  "subtopic": "PROGRAM LINKAGES AND CONTINUUM OF CARE IN INDIA",
+  "sub_subtopic": "CLINIC WORKFLOW FOR LINKING TO ANGANWADI AND COMMUNITY SERVICES",
+  "heading_path": "(MAM) MODERATE ACUTE MALNUTRITION AND SUPPLEMENTARY FEEDING;PROGRAM LINKAGES AND CONTINUUM OF CARE IN INDIA;CLINIC WORKFLOW FOR LINKING TO ANGANWADI AND COMMUNITY SERVICES;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u008b1"
+}

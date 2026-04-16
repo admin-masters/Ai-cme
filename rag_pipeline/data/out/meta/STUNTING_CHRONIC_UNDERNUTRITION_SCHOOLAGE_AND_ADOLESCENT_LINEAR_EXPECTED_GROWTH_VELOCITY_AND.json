@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "Evaluation of growth velocity and pubertal tempo in school-age children and adolescents involves assessing height velocity, pubertal staging, and clinical context to identify potential growth disorders or delays.",
+  "learning_objectives": [
+    "Understand the expected growth velocity in mid-childhood and its clinical significance.",
+    "Interpret pubertal staging and its impact on growth patterns and timing.",
+    "Identify clinical signs that warrant referral for growth failure evaluation.",
+    "Counsel on lifestyle factors that may influence growth and pubertal tempo."
+  ],
+  "key_facts": [
+    "Typical height velocity in mid-childhood (3 years to puberty) is 5\u20136 cm/year.",
+    "Persistent growth velocity below 5 cm/year with downward centile crossing suggests pathology.",
+    "Pubertal staging is critical: early puberty may shorten growth potential, while delayed puberty can mimic growth failure.",
+    "Accurate re-measurement at least 6 months apart is essential to reduce measurement noise.",
+    "Improving diet, sleep, anemia status, and chronic illness control may enhance growth velocity."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Growth Disorders",
+    "Puberty",
+    "Stunting",
+    "Linear Growth",
+    "Child Development",
+    "Adolescent Development",
+    "Nutritional Status",
+    "Anthropometry"
+  ],
+  "tags_custom": [
+    "growth velocity",
+    "pubertal staging",
+    "chronic undernutrition",
+    "growth failure",
+    "clinical evaluation"
+  ],
+  "reference_quote": "In mid-childhood (about 3 years to puberty), typical height velocity is roughly 5\u20136 cm/year; persistent velocity clearly below this, especially with downward centile crossing, suggests pathology or sustained constraint that warrants evaluation. (Source: Reference 1)",
+  "document_key_topics": [
+    "Growth velocity in mid-childhood and adolescence",
+    "Impact of pubertal timing on growth patterns",
+    "Clinical evaluation of growth failure"
+  ],
+  "chunk_heading": "STUNTING, CHRONIC UNDERNUTRITION AND DETERMINANTS;SCHOOL-AGE AND ADOLESCENT LINEAR GROWTH FAILURE EVALUATION;EXPECTED GROWTH VELOCITY AND PUBERTAL TEMPO INTERPRETATION;",
+  "topic": "STUNTING, CHRONIC UNDERNUTRITION AND DETERMINANTS",
+  "subtopic": "SCHOOL-AGE AND ADOLESCENT LINEAR GROWTH FAILURE EVALUATION",
+  "sub_subtopic": "EXPECTED GROWTH VELOCITY AND PUBERTAL TEMPO INTERPRETATION",
+  "heading_path": "STUNTING, CHRONIC UNDERNUTRITION AND DETERMINANTS;SCHOOL-AGE AND ADOLESCENT LINEAR GROWTH FAILURE EVALUATION;EXPECTED GROWTH VELOCITY AND PUBERTAL TEMPO INTERPRETATION;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "1v1"
+}

@@ -1,17 +1,17 @@
 {
-  "chunk_summary": "Stunting in chronic diseases is driven by inflammation, nutrient losses, and energy imbalances. Management requires disease-specific interventions, multidisciplinary care, and realistic functional goals.",
+  "chunk_summary": "Stunting in chronic organ disease and immunocompromised states involves multifactorial growth failure driven by inflammation, nutrient losses, and disease-specific factors. Management requires tailored nutrition plans, specialty care coordination, and adherence to national guidelines.",
   "learning_objectives": [
     "Understand the mechanisms of stunting in chronic organ diseases and immunocompromised states.",
-    "Identify disease-specific nutritional interventions for conditions like CKD, liver disease, and congenital heart disease.",
-    "Recognize the importance of multidisciplinary care in managing stunting in chronic diseases.",
-    "Learn to document functional outcomes alongside growth metrics in chronic disease management."
+    "Identify disease-specific nutritional interventions for conditions like CKD, congenital heart disease, and chronic liver disease.",
+    "Recognize the importance of multidisciplinary care and adherence to national guidelines in managing stunting."
   ],
   "key_facts": [
-    "In congenital heart disease, feeding fatigue and tachypnea increase energy needs; smaller, frequent feeds with higher energy density are recommended.",
-    "Chronic kidney disease (CKD) stunting is multifactorial; KDIGO 2024 guidelines recommend correcting acidosis, treating anemia, and tailoring protein/phosphate intake.",
-    "Chronic liver disease causes fat malabsorption and fat-soluble vitamin deficiencies; targeted supplementation is essential.",
-    "In HIV and TB, poor growth should not be solely attributed to diet; aggressive infection treatment and adherence support are critical.",
-    "Functional outcomes like school attendance and reduced infection days should be documented alongside growth velocity."
+    "Congenital heart disease can cause feeding fatigue, tachypnea, and higher resting energy expenditure; smaller, frequent feeds with higher energy density are recommended.",
+    "Chronic kidney disease growth failure is multifactorial, including metabolic acidosis, anemia, and mineral bone disorder; early nephrology referral is advised for persistent abnormalities.",
+    "Chronic liver disease and cholestasis lead to fat malabsorption and fat-soluble vitamin deficiency; targeted supplementation and higher energy density are essential.",
+    "In HIV and TB, aggressive infection treatment and adherence support are critical; avoid attributing poor growth solely to diet.",
+    "Functional outcomes like activity tolerance, school attendance, and reduced infection days should be documented alongside growth velocity.",
+    "Evidence-based supportive care measures are essential"
   ],
   "complexity": "advanced",
   "tags_mesh": [
@@ -20,30 +20,30 @@
     "Malnutrition",
     "Congenital Heart Disease",
     "Chronic Kidney Disease",
-    "Liver Diseases",
+    "Chronic Liver Disease",
     "HIV Infections",
     "Tuberculosis"
   ],
   "tags_custom": [
-    "Pediatric Nutrition",
-    "Growth Failure",
-    "Multidisciplinary Care",
-    "Energy Metabolism",
-    "Functional Outcomes"
+    "growth failure",
+    "nutrition interventions",
+    "multidisciplinary care",
+    "immunocompromised states",
+    "organ-specific stunting"
   ],
-  "reference_quote": "KDIGO 2024 CKD Guideline key takeaways for pediatricians recommend early nephrology referral when hypertension, polyuria, or persistent biochemical abnormalities coexist with poor growth.",
+  "reference_quote": "Correct acidosis, treat anemia, and ensure adequate energy while tailoring protein and phosphate to disease stage; early nephrology referral is appropriate when hypertension, polyuria, or persistent biochemical abnormalities coexist with poor growth. (KDIGO 2024 CKD Guideline)",
   "document_key_topics": [
-    "Stunting in chronic organ diseases",
-    "Nutritional management in immunocompromised states",
-    "Disease-specific growth failure mechanisms",
-    "Functional outcomes in chronic disease care"
+    "Mechanisms of stunting in chronic diseases",
+    "Disease-specific nutritional management",
+    "Role of multidisciplinary care in growth failure",
+    "Adherence to national guidelines for immunocompromised states"
   ],
-  "chunk_heading": "STUNTING, CHRONIC UNDERNUTRITION & DETERMINANTS;STUNTING IN CHRONIC ORGAN DISEASE AND IMMUNOCOMPROMISED STATES;",
-  "topic": "STUNTING, CHRONIC UNDERNUTRITION & DETERMINANTS",
+  "chunk_heading": "STUNTING, CHRONIC UNDERNUTRITION AND DETERMINANTS;STUNTING IN CHRONIC ORGAN DISEASE AND IMMUNOCOMPROMISED STATES;",
+  "topic": "STUNTING, CHRONIC UNDERNUTRITION AND DETERMINANTS",
   "subtopic": "STUNTING IN CHRONIC ORGAN DISEASE AND IMMUNOCOMPROMISED STATES",
   "sub_subtopic": null,
-  "heading_path": "STUNTING, CHRONIC UNDERNUTRITION & DETERMINANTS;STUNTING IN CHRONIC ORGAN DISEASE AND IMMUNOCOMPROMISED STATES;",
+  "heading_path": "STUNTING, CHRONIC UNDERNUTRITION AND DETERMINANTS;STUNTING IN CHRONIC ORGAN DISEASE AND IMMUNOCOMPROMISED STATES;",
   "reference_count": 5,
   "has_guidelines": false,
-  "sequence": "6z"
+  "sequence": "1y"
 }

@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "Guidelines for managing suspected meningitis in SAM children, including emergency stabilization, empiric antibiotic therapy, and monitoring priorities, with a focus on minimizing mortality through timely intervention.",
+  "learning_objectives": [
+    "Recognize clinical signs of meningitis in children with severe acute malnutrition (SAM).",
+    "Understand the initial emergency management steps for suspected meningitis in SAM.",
+    "Learn the recommended antibiotic regimen and duration for treating meningitis in SAM.",
+    "Identify key monitoring priorities and supportive care measures for SAM children with meningitis."
+  ],
+  "key_facts": [
+    "Suspect meningitis in SAM children with coma, convulsions, bulging fontanelle, neck stiffness, or altered sensorium.",
+    "Empiric antibiotic therapy includes a third-generation cephalosporin (cefotaxime or ceftriaxone) with an aminoglycoside (e.g., amikacin) for 14\u201321 days.",
+    "Avoid routine fluid boluses unless shock criteria are met to prevent overhydration complications.",
+    "Perform lumbar puncture and cultures before antibiotics if the child is stable; defer if unstable.",
+    "Monitor mental status, seizure recurrence, temperature, glucose, and respiratory trends closely."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Severe Acute Malnutrition",
+    "Meningitis",
+    "Empiric Antibiotic Therapy",
+    "Cephalosporins",
+    "Aminoglycosides",
+    "Hypoglycemia",
+    "Hypothermia",
+    "Pediatric Emergency Care"
+  ],
+  "tags_custom": [
+    "SAM infection management",
+    "pediatric meningitis",
+    "emergency stabilization",
+    "antibiotic guidelines",
+    "critical care in malnutrition"
+  ],
+  "reference_quote": "Treat this as an emergency because delayed therapy has high mortality and clinical signs may be atypical. (Source: WHO, Pocket book of hospital care for children: Severe acute malnutrition chapter)",
+  "document_key_topics": [
+    "Emergency management of suspected meningitis in SAM",
+    "Empiric antibiotic therapy and duration",
+    "Monitoring and supportive care in SAM with meningitis"
+  ],
+  "chunk_heading": "SEVERE ACUTE MALNUTRITION - (SAM) MANAGEMENT;INFECTION MANAGEMENT AND METABOLIC CORRECTIONS;SUSPECTED MENINGITIS INITIAL MANAGEMENT AND ANTIBIOTIC DURATION;",
+  "topic": "SEVERE ACUTE MALNUTRITION - (SAM) MANAGEMENT",
+  "subtopic": "INFECTION MANAGEMENT AND METABOLIC CORRECTIONS",
+  "sub_subtopic": "SUSPECTED MENINGITIS INITIAL MANAGEMENT AND ANTIBIOTIC DURATION",
+  "heading_path": "SEVERE ACUTE MALNUTRITION - (SAM) MANAGEMENT;INFECTION MANAGEMENT AND METABOLIC CORRECTIONS;SUSPECTED MENINGITIS INITIAL MANAGEMENT AND ANTIBIOTIC DURATION;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1x4"
+}

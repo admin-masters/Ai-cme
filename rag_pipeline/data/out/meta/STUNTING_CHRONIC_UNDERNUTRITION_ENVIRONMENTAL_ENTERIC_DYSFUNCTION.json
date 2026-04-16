@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "Environmental enteric dysfunction (EED) is a chronic subclinical intestinal condition linked to stunting and undernutrition, driven by repeated fecal-oral pathogen exposure. Clinical focus includes improving diet, WASH behaviors, and early diarrhea treatment while avoiding non-standardized tests in routine practice.",
+  "learning_objectives": [
+    "Understand the mechanisms of environmental enteric dysfunction (EED) and its impact on stunting and chronic undernutrition.",
+    "Identify actionable interventions, including dietary improvements, WASH behaviors, and early diarrhea management, to mitigate EED effects.",
+    "Recognize when to pursue targeted evaluations for alternative diagnoses instead of attributing all symptoms to EED."
+  ],
+  "key_facts": [
+    "EED involves gut inflammation, increased intestinal permeability, and systemic inflammation, impairing growth pathways like IGF-1 activity.",
+    "Non-standardized tests like stool inflammatory markers and lactulose:mannitol permeability tests are not recommended for routine clinical use.",
+    "Interventions include improving diet quality, ensuring protein adequacy, prioritizing WASH behaviors, and treating diarrhea early with ORS and zinc.",
+    "Persistent diarrhea or systemic symptoms should prompt evaluation for conditions like coeliac disease, giardiasis, TB, or inflammatory bowel disease.",
+    "Growth monitoring should focus on illness frequency and growth velocity over 8\u201312 months."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Stunting",
+    "Chronic Undernutrition",
+    "Environmental Enteric Dysfunction",
+    "Intestinal Permeability",
+    "Systemic Inflammation",
+    "Water, Sanitation, and Hygiene (WASH)",
+    "Diarrhea",
+    "Growth Disorders"
+  ],
+  "tags_custom": [
+    "EED mechanisms",
+    "clinical implications",
+    "diagnostic limitations",
+    "WASH interventions",
+    "growth monitoring"
+  ],
+  "reference_quote": "The WASH Benefits and SHINE trials: interpretation and implications for policy and practice (https://pubmed.ncbi.nlm.nih.gov/27567645/).",
+  "document_key_topics": [
+    "Environmental enteric dysfunction mechanisms",
+    "Clinical implications of EED",
+    "Tests to avoid in routine practice",
+    "Interventions for stunting and chronic undernutrition"
+  ],
+  "chunk_heading": "STUNTING, CHRONIC UNDERNUTRITION AND DETERMINANTS;ENVIRONMENTAL ENTERIC DYSFUNCTION MECHANISMS, CLINICAL IMPLICATIONS, AND TESTS TO AVOID IN ROUTINE PRACTICE;",
+  "topic": "STUNTING, CHRONIC UNDERNUTRITION AND DETERMINANTS",
+  "subtopic": "ENVIRONMENTAL ENTERIC DYSFUNCTION MECHANISMS, CLINICAL IMPLICATIONS, AND TESTS TO AVOID IN ROUTINE PRACTICE",
+  "sub_subtopic": null,
+  "heading_path": "STUNTING, CHRONIC UNDERNUTRITION AND DETERMINANTS;ENVIRONMENTAL ENTERIC DYSFUNCTION MECHANISMS, CLINICAL IMPLICATIONS, AND TESTS TO AVOID IN ROUTINE PRACTICE;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "1m"
+}

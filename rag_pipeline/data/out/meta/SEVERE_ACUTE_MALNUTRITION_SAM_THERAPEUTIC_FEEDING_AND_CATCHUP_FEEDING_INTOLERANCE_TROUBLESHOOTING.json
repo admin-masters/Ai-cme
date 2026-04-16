@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "This section addresses feeding intolerance in SAM, emphasizing protocol adjustments, diagnostic reassessment, and detailed nursing documentation to ensure safe therapeutic feeding and catch-up growth.",
+  "learning_objectives": [
+    "Understand the management of feeding intolerance in children with SAM, including protocol adjustments and diagnostic reassessment.",
+    "Learn to identify and address causes of poor feeding tolerance, such as sepsis, electrolyte imbalance, or heart failure.",
+    "Recognize the importance of nursing documentation in monitoring feeding, hydration, and clinical signs.",
+    "Apply guidelines for managing vomiting, diarrhea, and fluid overload during therapeutic feeding."
+  ],
+  "key_facts": [
+    "Vomiting in the first 48 hours should be managed by reducing feed volume, returning to 2-hourly feeds, and ensuring feeds are warm.",
+    "Persistent watery diarrhea requires continued breastfeeding, F-75 feeds, and malnutrition-appropriate oral/NG rehydration with frequent reassessment.",
+    "Signs of overhydration include rising respiratory rate, pulse, periorbital puffiness, and worsening edema.",
+    "Nursing documentation must include temperature, pulse, respiratory rate, feed intake, vomits, stools, urine output proxy, and edema grade.",
+    "Escalation triggers include intake <80% of prescription over 24 hours, recurrent hypoglycemia, or new respiratory distress."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Severe Acute Malnutrition",
+    "Therapeutic Feeding",
+    "Feeding Intolerance",
+    "Nursing Documentation",
+    "Rehydration Solutions",
+    "Heart Failure",
+    "Electrolyte Imbalance",
+    "Diarrhea"
+  ],
+  "tags_custom": [
+    "SAM management",
+    "feeding protocols",
+    "nursing care",
+    "fluid overload",
+    "escalation criteria"
+  ],
+  "reference_quote": "\u2018Vomiting in the first 48 hours: reduce volume per feed, return to 2-hourly feeds, and ensure feeds are warm.\u2019 (Source: National Health Mission, Participant manual for facility-based care of severe acute malnutrition)",
+  "document_key_topics": [
+    "Feeding intolerance management in SAM",
+    "Nursing documentation for therapeutic feeding",
+    "Guidelines for managing vomiting and diarrhea",
+    "Recognition and management of fluid overload"
+  ],
+  "chunk_heading": "SEVERE ACUTE MALNUTRITION - (SAM) MANAGEMENT;THERAPEUTIC FEEDING AND CATCH-UP GROWTH;FEEDING INTOLERANCE TROUBLESHOOTING AND NURSING DOCUMENTATION;",
+  "topic": "SEVERE ACUTE MALNUTRITION - (SAM) MANAGEMENT",
+  "subtopic": "THERAPEUTIC FEEDING AND CATCH-UP GROWTH",
+  "sub_subtopic": "FEEDING INTOLERANCE TROUBLESHOOTING AND NURSING DOCUMENTATION",
+  "heading_path": "SEVERE ACUTE MALNUTRITION - (SAM) MANAGEMENT;THERAPEUTIC FEEDING AND CATCH-UP GROWTH;FEEDING INTOLERANCE TROUBLESHOOTING AND NURSING DOCUMENTATION;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u00873"
+}

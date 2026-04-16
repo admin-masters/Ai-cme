@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Guidance on addressing migration, quality issues, and operational failures in supplementary feeding for MAM children in India, emphasizing documentation, compliance, and system-level troubleshooting.",
+  "learning_objectives": [
+    "Understand the role of documentation and compliance in ensuring access to supplementary nutrition for MAM children.",
+    "Learn strategies to address migration-related entitlement issues and quality failures in food distribution.",
+    "Identify operational causes of non-response to supplementary feeding and implement corrective actions.",
+    "Familiarize with key program linkages, including Poshan Tracker, anganwadi supervisors, and Nutrition Rehabilitation Centres (NRCs)."
+  ],
+  "key_facts": [
+    "Migration-based registration can be facilitated through the Poshan Tracker as per Mission Poshan guidance.",
+    "Quality complaints about rations are mandatory and must comply with food safety requirements.",
+    "Non-response to supplementary feeding may result from ration sharing, incorrect preparation (e.g., dilution), or diversion of the child\u2019s portion.",
+    "Supplementary nutrition is a standard care component for MAM children, not a discretionary welfare measure.",
+    "Accurate anthropometry and classification as MAM are critical for reducing exclusion from entitlements.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Malnutrition",
+    "Supplementary Feeding",
+    "Child Nutrition Disorders",
+    "Food Safety",
+    "Community Health Services",
+    "Health Policy",
+    "Nutrition Assessment",
+    "India"
+  ],
+  "tags_custom": [
+    "MAM troubleshooting",
+    "Entitlement migration",
+    "Quality assurance",
+    "Poshan Tracker",
+    "Anganwadi services"
+  ],
+  "reference_quote": "Supplementary nutrition is part of standard care for eligible children rather than a discretionary welfare add-on.",
+  "document_key_topics": [
+    "Migration-related entitlement issues in supplementary feeding",
+    "Quality assurance and food safety in nutrition programs",
+    "Operational troubleshooting for non-response to MAM interventions"
+  ],
+  "chunk_heading": "(MAM) MODERATE ACUTE MALNUTRITION AND SUPPLEMENTARY FEEDING;PROGRAM LINKAGES AND CONTINUUM OF CARE IN INDIA;TROUBLESHOOTING ENTITLEMENTS MIGRATION AND QUALITY FAILURES;",
+  "topic": "(MAM) MODERATE ACUTE MALNUTRITION AND SUPPLEMENTARY FEEDING",
+  "subtopic": "PROGRAM LINKAGES AND CONTINUUM OF CARE IN INDIA",
+  "sub_subtopic": "TROUBLESHOOTING ENTITLEMENTS MIGRATION AND QUALITY FAILURES",
+  "heading_path": "(MAM) MODERATE ACUTE MALNUTRITION AND SUPPLEMENTARY FEEDING;PROGRAM LINKAGES AND CONTINUUM OF CARE IN INDIA;TROUBLESHOOTING ENTITLEMENTS MIGRATION AND QUALITY FAILURES;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u008c2"
+}

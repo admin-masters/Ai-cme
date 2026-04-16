@@ -1,0 +1,49 @@
+{
+  "chunk_summary": "Guidelines for managing urinary tract infections (UTIs) in children with severe acute malnutrition (SAM), emphasizing culture-first diagnostics, appropriate antibiotic use, and follow-up care.",
+  "learning_objectives": [
+    "Understand the importance of a culture-first approach in diagnosing UTIs in SAM.",
+    "Learn appropriate specimen collection methods for urinalysis and culture in children.",
+    "Identify empiric antibiotic regimens based on illness severity and local antibiograms.",
+    "Recognize the need for follow-up and reassessment in cases of treatment failure or recurrent UTIs."
+  ],
+  "key_facts": [
+    "In SAM, UTI should be considered in cases of fever without focus, persistent hypothermia, vomiting, or poor weight gain.",
+    "Urine culture should be obtained before starting antibiotics; use suprapubic aspiration, catheterization, or midstream clean-catch methods.",
+    "Empiric antibiotics: oral cephalosporin (e.g., cefixime) or amoxicillin/clavulanate for stable children; parenteral cefotaxime or ceftriaxone for toxic or vomiting children.",
+    "Treatment duration is 7\u201310 days unless culture results suggest otherwise.",
+    "Aminoglycosides require renal safety monitoring, with doses withheld in cases of oliguria or anuria.",
+    "Reassess within 48\u201372 hours if no improvement, and investigate for urinary obstruction, renal anomalies, or alternative diagnoses."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Severe Acute Malnutrition",
+    "Urinary Tract Infections",
+    "Antibiotic Therapy",
+    "Pediatric Infectious Diseases",
+    "Urinalysis",
+    "Renal Safety",
+    "Empiric Therapy",
+    "Malnutrition Complications"
+  ],
+  "tags_custom": [
+    "SAM management",
+    "UTI culture-first",
+    "pediatric antibiotics",
+    "infection in malnutrition"
+  ],
+  "reference_quote": "Obtain urine for urinalysis and culture before antibiotics whenever feasible. Use a properly collected specimen: suprapubic aspiration or catheterization in non-toilet-trained children, and midstream clean-catch in toilet-trained children. Do not use bag urine for culture interpretation in infants and young children. (Source: Indian Academy of Pediatrics, Standard Treatment Guidelines: Urinary tract infection in children)",
+  "document_key_topics": [
+    "Culture-first approach in UTI management for SAM",
+    "Empiric antibiotic regimens for pediatric UTIs",
+    "Specimen collection methods for urinalysis and culture",
+    "Follow-up and reassessment in UTI treatment failure"
+  ],
+  "chunk_heading": "SEVERE ACUTE MALNUTRITION - (SAM) MANAGEMENT;INFECTION MANAGEMENT AND METABOLIC CORRECTIONS;URINARY TRACT INFECTION CULTURE-FIRST MANAGEMENT IN SAM;",
+  "topic": "SEVERE ACUTE MALNUTRITION - (SAM) MANAGEMENT",
+  "subtopic": "INFECTION MANAGEMENT AND METABOLIC CORRECTIONS",
+  "sub_subtopic": "URINARY TRACT INFECTION CULTURE-FIRST MANAGEMENT IN SAM",
+  "heading_path": "SEVERE ACUTE MALNUTRITION - (SAM) MANAGEMENT;INFECTION MANAGEMENT AND METABOLIC CORRECTIONS;URINARY TRACT INFECTION CULTURE-FIRST MANAGEMENT IN SAM;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1z6"
+}

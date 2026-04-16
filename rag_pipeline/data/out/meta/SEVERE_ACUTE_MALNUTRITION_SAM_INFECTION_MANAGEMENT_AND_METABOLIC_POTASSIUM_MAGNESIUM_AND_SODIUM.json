@@ -1,48 +1,47 @@
 {
   "chunk_summary": "Early SAM care requires potassium, magnesium repletion, and sodium restriction to address electrolyte deficits, prevent complications like oedema, and manage refeeding risks.",
   "learning_objectives": [
-    "Understand the importance of early electrolyte correction in SAM management.",
-    "Learn the recommended dosages for potassium and magnesium repletion in SAM care.",
-    "Recognize the need for sodium restriction and its role in managing nutritional oedema.",
-    "Identify signs of overhydration and refeeding syndrome during SAM treatment."
+    "Understand the role of potassium and magnesium repletion in early SAM care.",
+    "Learn sodium restriction protocols and their importance in managing nutritional oedema.",
+    "Identify signs of overhydration and refeeding syndrome during SAM treatment.",
+    "Apply practical dosing guidelines for electrolyte correction in SAM management."
   ],
   "key_facts": [
     "Potassium repletion: 3\u20134 mEq/kg/day for at least 2 weeks, given in divided doses with feeds.",
     "Magnesium repletion: Start with 50% magnesium sulfate 0.3 mL/kg IM on day 1, followed by oral magnesium 0.4\u20130.6 mmol/kg/day for 2 weeks.",
-    "Sodium restriction: Use 'no added salt' feeds and avoid high-sodium IV fluids unless for cautious shock management.",
-    "Initial weight loss in oedematous SAM may indicate oedema resolution, not malnutrition worsening.",
-    "Monitor for overhydration signs: rising respiratory rate, increasing pulse, hepatomegaly, or periorbital puffiness.",
-    "Hypophosphatemia during transition feeding may signal refeeding syndrome and requires urgent correction."
+    "Sodium restriction: Use 'no added salt' feeds and avoid high-sodium IV fluids unless in shock protocols.",
+    "Initial weight loss in oedematous SAM may reflect oedema resolution, not malnutrition worsening.",
+    "Monitor for overhydration signs: rising respiratory rate, increasing pulse, hepatomegaly, or periorbital puffiness."
   ],
-  "complexity": "advanced",
+  "complexity": "intermediate",
   "tags_mesh": [
     "Severe Acute Malnutrition",
     "Electrolyte Imbalance",
-    "Potassium",
-    "Magnesium",
-    "Sodium",
+    "Potassium Deficiency",
+    "Magnesium Deficiency",
+    "Sodium-Restricted Diet",
     "Nutritional Oedema",
     "Refeeding Syndrome",
-    "Pediatric Nutrition"
+    "Pediatric Nutrition Disorders"
   ],
   "tags_custom": [
     "SAM electrolyte management",
     "nutritional oedema care",
-    "pediatric malnutrition"
+    "early SAM protocols",
+    "pediatric malnutrition treatment"
   ],
   "reference_quote": "Electrolyte correction in SAM is an early lifesaving intervention, not an optional add-on, because total-body potassium and magnesium deficits contribute to weakness, arrhythmia risk, and the physiology of nutritional oedema even when serum values appear 'normal.'",
   "document_key_topics": [
     "Electrolyte correction in SAM",
-    "Potassium and magnesium repletion protocols",
-    "Sodium restriction in nutritional oedema",
-    "Monitoring for refeeding syndrome and overhydration"
+    "Sodium restriction protocols",
+    "Management of nutritional oedema"
   ],
-  "chunk_heading": "SEVERE ACUTE MALNUTRITION (SAM) MANAGEMENT;INFECTION MANAGEMENT AND METABOLIC CORRECTIONS;POTASSIUM MAGNESIUM AND SODIUM RESTRICTION IN EARLY SAM CARE;",
-  "topic": "SEVERE ACUTE MALNUTRITION (SAM) MANAGEMENT",
+  "chunk_heading": "SEVERE ACUTE MALNUTRITION - (SAM) MANAGEMENT;INFECTION MANAGEMENT AND METABOLIC CORRECTIONS;POTASSIUM MAGNESIUM AND SODIUM RESTRICTION IN EARLY SAM CARE;",
+  "topic": "SEVERE ACUTE MALNUTRITION - (SAM) MANAGEMENT",
   "subtopic": "INFECTION MANAGEMENT AND METABOLIC CORRECTIONS",
   "sub_subtopic": "POTASSIUM MAGNESIUM AND SODIUM RESTRICTION IN EARLY SAM CARE",
-  "heading_path": "SEVERE ACUTE MALNUTRITION (SAM) MANAGEMENT;INFECTION MANAGEMENT AND METABOLIC CORRECTIONS;POTASSIUM MAGNESIUM AND SODIUM RESTRICTION IN EARLY SAM CARE;",
+  "heading_path": "SEVERE ACUTE MALNUTRITION - (SAM) MANAGEMENT;INFECTION MANAGEMENT AND METABOLIC CORRECTIONS;POTASSIUM MAGNESIUM AND SODIUM RESTRICTION IN EARLY SAM CARE;",
   "reference_count": 4,
   "has_guidelines": false,
-  "sequence": "1r2"
+  "sequence": "1\u007f11"
 }

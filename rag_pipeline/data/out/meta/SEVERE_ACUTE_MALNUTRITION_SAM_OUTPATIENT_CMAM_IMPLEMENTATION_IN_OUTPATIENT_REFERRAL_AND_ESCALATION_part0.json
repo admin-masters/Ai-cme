@@ -1,0 +1,47 @@
+{
+  "chunk_summary": "Outpatient CMAM in India requires strict referral and escalation criteria to ensure patient safety, addressing danger signs, non-response, and social barriers to care.",
+  "learning_objectives": [
+    "Understand the criteria for outpatient-to-inpatient referral in CMAM programs.",
+    "Identify danger signs and non-response indicators in SAM management.",
+    "Recognize the role of social and environmental factors in outpatient care decisions."
+  ],
+  "key_facts": [
+    "Immediate inpatient referral is required for danger signs like lethargy, convulsions, hypothermia, hypoglycemia, respiratory distress, or failed appetite tests.",
+    "Weight loss, new edema, or failure to gain weight over two successive visits are high-risk non-response indicators.",
+    "Severe dehydration or shock should not be managed as an outpatient ORS trial due to high overhydration risk.",
+    "Social factors like caregiver inability to ensure safe feeding or follow-up visits necessitate inpatient care initiation.",
+    "Outpatient CMAM safety depends on rapid escalation when recovery momentum is absent.",
+    "Evidence-based supportive care measures are essential"
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Severe Acute Malnutrition",
+    "Community-Based Management of Acute Malnutrition",
+    "Outpatient Care",
+    "Referral and Consultation",
+    "Edema",
+    "Dehydration",
+    "Patient Safety",
+    "Caregivers"
+  ],
+  "tags_custom": [
+    "SAM escalation criteria",
+    "India CMAM implementation",
+    "Outpatient referral guidelines",
+    "Social determinants in malnutrition care"
+  ],
+  "reference_quote": "Refer immediately for inpatient stabilization if any danger sign develops (lethargy, convulsions, hypothermia, hypoglycemia, respiratory distress), if the appetite test fails, if bilateral pitting edema appears or worsens, or if repeated vomiting prevents intake. (Source: https://www.ncbi.nlm.nih.gov/books/NBK601654/)",
+  "document_key_topics": [
+    "Outpatient CMAM safety and escalation criteria",
+    "Danger signs and non-response in SAM management",
+    "Social and environmental factors in outpatient care"
+  ],
+  "chunk_heading": "SEVERE ACUTE MALNUTRITION - (SAM) MANAGEMENT;OUTPATIENT CMAM IMPLEMENTATION IN INDIA;OUTPATIENT REFERRAL AND ESCALATION CRITERIA IN CMAM;",
+  "topic": "SEVERE ACUTE MALNUTRITION - (SAM) MANAGEMENT",
+  "subtopic": "OUTPATIENT CMAM IMPLEMENTATION IN INDIA",
+  "sub_subtopic": "OUTPATIENT REFERRAL AND ESCALATION CRITERIA IN CMAM",
+  "heading_path": "SEVERE ACUTE MALNUTRITION - (SAM) MANAGEMENT;OUTPATIENT CMAM IMPLEMENTATION IN INDIA;OUTPATIENT REFERRAL AND ESCALATION CRITERIA IN CMAM;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u00903.1"
+}

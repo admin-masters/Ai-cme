@@ -1,0 +1,50 @@
+{
+  "chunk_summary": "Guidelines for nasogastric feeding in severe acute malnutrition (SAM) focus on indications, placement confirmation, and aspiration prevention to ensure safe and effective therapeutic feeding in children with poor oral intake or unsafe swallowing.",
+  "learning_objectives": [
+    "Understand the indications for nasogastric feeding in children with severe acute malnutrition (SAM).",
+    "Learn the proper method for nasogastric tube placement and confirmation of position.",
+    "Identify strategies to prevent aspiration during nasogastric feeding.",
+    "Recognize contraindications and situations requiring senior decision-making for NG feeding."
+  ],
+  "key_facts": [
+    "Nasogastric feeding is indicated when oral intake is <80% of the target or when there is weak suck or unsafe swallowing.",
+    "Insertion length is measured using the nose-to-earlobe-to-mid-umbilicus method, and external length should be marked.",
+    "Gastric aspirate pH testing is recommended; feeding is safe if pH \u22645.5.",
+    "Re-check tube position after vomiting, retching, or suspected displacement.",
+    "Aspiration prevention includes head elevation, avoiding supine feeding, and pausing feeds during respiratory distress.",
+    "Weaning from NG feeding is advised when oral intake is \u226580% of the target over 24 hours without vomiting."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Severe Acute Malnutrition",
+    "Nasogastric Intubation",
+    "Therapeutic Feeding",
+    "Aspiration Pneumonia",
+    "Pediatric Nutrition",
+    "Enteral Nutrition",
+    "Feeding Methods",
+    "Respiratory Distress"
+  ],
+  "tags_custom": [
+    "SAM management",
+    "NG tube placement",
+    "feeding safety",
+    "pediatric care",
+    "malnutrition treatment"
+  ],
+  "reference_quote": "Use gastric aspirate pH testing when available; feeding is generally considered safe when aspirate pH is \u22645.5. If aspirate cannot be obtained or pH is higher, do not use the tube and obtain radiographic confirmation or re-site the tube per pediatric safety guidance.",
+  "document_key_topics": [
+    "Indications for nasogastric feeding in SAM",
+    "Proper placement and confirmation of NG tubes",
+    "Aspiration prevention strategies during feeding",
+    "Criteria for weaning from nasogastric feeding"
+  ],
+  "chunk_heading": "SEVERE ACUTE MALNUTRITION - (SAM) MANAGEMENT;THERAPEUTIC FEEDING AND CATCH-UP GROWTH;NASOGASTRIC FEEDING INDICATIONS PLACEMENT CONFIRMATION AND ASPIRATION PREVENTION;",
+  "topic": "SEVERE ACUTE MALNUTRITION - (SAM) MANAGEMENT",
+  "subtopic": "THERAPEUTIC FEEDING AND CATCH-UP GROWTH",
+  "sub_subtopic": "NASOGASTRIC FEEDING INDICATIONS PLACEMENT CONFIRMATION AND ASPIRATION PREVENTION",
+  "heading_path": "SEVERE ACUTE MALNUTRITION - (SAM) MANAGEMENT;THERAPEUTIC FEEDING AND CATCH-UP GROWTH;NASOGASTRIC FEEDING INDICATIONS PLACEMENT CONFIRMATION AND ASPIRATION PREVENTION;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1\u00884"
+}

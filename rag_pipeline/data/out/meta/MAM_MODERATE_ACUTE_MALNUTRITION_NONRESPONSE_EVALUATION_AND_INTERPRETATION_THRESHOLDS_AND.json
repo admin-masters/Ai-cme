@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "Guidelines for interpreting test results and referral triggers in moderate acute malnutrition (MAM) non-response cases, covering anemia, UTI, celiac disease, and TB, with emphasis on diagnostic thresholds and appropriate follow-up actions.",
+  "learning_objectives": [
+    "Understand referral triggers for anemia, UTI, celiac disease, and TB in MAM non-response cases.",
+    "Learn diagnostic thresholds for common investigations, including hemoglobin levels and urine culture results.",
+    "Recognize the importance of proper sampling techniques and follow-up in managing recurrent infections.",
+    "Identify when to escalate care for suspected TB or celiac disease based on clinical and diagnostic findings."
+  ],
+  "key_facts": [
+    "Severe anemia is defined as hemoglobin <7 g/dL for ages 6\u201359 months (WHO).",
+    "For UTI, culture thresholds vary: suprapubic aspiration (any growth), catheter (>10^4 CFU/mL), clean-catch midstream (>10^5 CFU/mL).",
+    "Celiac disease diagnosis requires compatible serology and histology; mild intraepithelial lymphocytosis alone is not specific.",
+    "TB suspicion in MAM: wasting plus cough/fever \u22652 weeks or known contact requires immediate linkage to NTEP diagnostic pathways.",
+    "Proper urine sampling in non-toilet-trained children should use catheterization or suprapubic aspiration to avoid contamination."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Malnutrition",
+    "Anemia",
+    "Urinary Tract Infections",
+    "Celiac Disease",
+    "Tuberculosis",
+    "Diagnostic Techniques and Procedures",
+    "Pediatric Nutrition Disorders",
+    "Referral and Consultation"
+  ],
+  "tags_custom": [
+    "MAM non-response",
+    "Diagnostic thresholds",
+    "Pediatric investigations",
+    "Referral guidelines"
+  ],
+  "reference_quote": "Severe anemia by WHO classification (hemoglobin under 7 g/dL for ages 6\u201359 months) or any anemia with cardiorespiratory symptoms should prompt facility evaluation for cause and need for transfusion rather than outpatient iron alone.",
+  "document_key_topics": [
+    "Anemia thresholds and referral criteria",
+    "Urinary tract infection diagnosis and management",
+    "Celiac disease diagnostic standards",
+    "Tuberculosis suspicion and referral in malnourished children"
+  ],
+  "chunk_heading": "(MAM) MODERATE ACUTE MALNUTRITION AND SUPPLEMENTARY FEEDING;NON-RESPONSE EVALUATION AND TARGETED INVESTIGATION;INTERPRETATION THRESHOLDS AND REFERRAL TRIGGERS FOR COMMON INVESTIGATIONS;",
+  "topic": "(MAM) MODERATE ACUTE MALNUTRITION AND SUPPLEMENTARY FEEDING",
+  "subtopic": "NON-RESPONSE EVALUATION AND TARGETED INVESTIGATION",
+  "sub_subtopic": "INTERPRETATION THRESHOLDS AND REFERRAL TRIGGERS FOR COMMON INVESTIGATIONS",
+  "heading_path": "(MAM) MODERATE ACUTE MALNUTRITION AND SUPPLEMENTARY FEEDING;NON-RESPONSE EVALUATION AND TARGETED INVESTIGATION;INTERPRETATION THRESHOLDS AND REFERRAL TRIGGERS FOR COMMON INVESTIGATIONS;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "1\u00894"
+}

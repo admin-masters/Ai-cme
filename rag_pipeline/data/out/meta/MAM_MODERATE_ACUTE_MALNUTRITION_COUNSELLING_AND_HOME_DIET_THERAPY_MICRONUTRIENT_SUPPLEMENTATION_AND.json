@@ -1,0 +1,47 @@
+{
+  "chunk_summary": "This section discusses micronutrient supplementation and infection prevention in managing moderate acute malnutrition (MAM), emphasizing integration with public health programs like Anaemia Mukt Bharat, National Deworming Day, and Vitamin A prophylaxis schedules.",
+  "learning_objectives": [
+    "Understand the role of public health programs in addressing micronutrient deficiencies in MAM.",
+    "Learn the prophylactic iron-folic acid (IFA) supplementation schedule for different age groups under Anaemia Mukt Bharat.",
+    "Recognize the importance of deworming and Vitamin A supplementation in infection prevention for children with MAM.",
+    "Identify key infection-prevention measures to reinforce during MAM outpatient visits."
+  ],
+  "key_facts": [
+    "Anaemia Mukt Bharat provides IFA syrup (20 mg iron, 100 mcg folic acid) twice weekly for ages 6\u201359 months.",
+    "Albendazole is administered as a single 200 mg dose for ages 1\u20132 years and 400 mg for ages 2\u201319 years under National Deworming Day.",
+    "Vitamin A prophylaxis includes 100,000 IU at 9 months and 200,000 IU every 6 months up to 5 years.",
+    "Zinc supplementation for acute diarrhoea is 20 mg daily for 10\u201314 days (10 mg daily if under 6 months).",
+    "MAM visits should verify immunization status and promote handwashing and safe water practices."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Malnutrition",
+    "Micronutrients",
+    "Iron-Deficiency Anemia",
+    "Deworming",
+    "Vitamin A",
+    "Zinc",
+    "Diarrhea",
+    "Infection Control"
+  ],
+  "tags_custom": [
+    "MAM management",
+    "Public health programs",
+    "Child nutrition",
+    "Infection prevention"
+  ],
+  "reference_quote": "Anaemia Mukt Bharat: prophylactic IFA supplementation schedule \u2014 https://nhm.gov.in/index1.php?lang=1&level=3&lid=797&sublink...",
+  "document_key_topics": [
+    "Micronutrient supplementation in MAM",
+    "Infection prevention strategies",
+    "Public health program integration"
+  ],
+  "chunk_heading": "(MAM) MODERATE ACUTE MALNUTRITION AND SUPPLEMENTARY FEEDING;COUNSELLING AND HOME DIET THERAPY IN UNCOMPLICATED MODERATE WASTING;MICRONUTRIENT SUPPLEMENTATION AND INFECTION PREVENTION LINKAGES;",
+  "topic": "(MAM) MODERATE ACUTE MALNUTRITION AND SUPPLEMENTARY FEEDING",
+  "subtopic": "COUNSELLING AND HOME DIET THERAPY IN UNCOMPLICATED MODERATE WASTING",
+  "sub_subtopic": "MICRONUTRIENT SUPPLEMENTATION AND INFECTION PREVENTION LINKAGES",
+  "heading_path": "(MAM) MODERATE ACUTE MALNUTRITION AND SUPPLEMENTARY FEEDING;COUNSELLING AND HOME DIET THERAPY IN UNCOMPLICATED MODERATE WASTING;MICRONUTRIENT SUPPLEMENTATION AND INFECTION PREVENTION LINKAGES;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "1t5"
+}

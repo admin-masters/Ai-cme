@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "Guidance on distinguishing true non-response from adherence failure in children with MAM, emphasizing anthropometry, intake audits, and targeted evaluations for comorbidities and red flags.",
+  "learning_objectives": [
+    "Understand the distinction between non-response and adherence failure in MAM management.",
+    "Learn to perform detailed intake audits and identify common operational failures.",
+    "Recognize red flags and comorbidities that necessitate targeted evaluation.",
+    "Apply WHO guidelines to manage non-response in children with MAM."
+  ],
+  "key_facts": [
+    "Non-response should be confirmed at the second follow-up (2\u20134 weeks) using correct anthropometric techniques.",
+    "Common adherence failures include ration dilution, sharing, unsafe storage, and caregiver misconceptions about solids causing diarrhoea.",
+    "Red flags for immediate evaluation include chronic diarrhoea, persistent vomiting, abdominal distension, oedema, and recurrent fever.",
+    "WHO guidelines emphasize intensive support for comorbidities like congenital heart disease and feeding dysfunction.",
+    "Operational failures should be addressed before ordering broad diagnostic panels."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Malnutrition",
+    "Nutritional Support",
+    "Anthropometry",
+    "Feeding Behavior",
+    "Comorbidity",
+    "Diarrhea",
+    "Tuberculosis",
+    "Congenital Heart Defects"
+  ],
+  "tags_custom": [
+    "MAM management",
+    "adherence failure",
+    "non-response evaluation",
+    "child nutrition"
+  ],
+  "reference_quote": "These conditions are explicitly recognized as comorbidities that increase risk and justify more intensive support in WHO guidance.",
+  "document_key_topics": [
+    "Moderate Acute Malnutrition (MAM)",
+    "Non-response evaluation",
+    "Adherence failure in supplementary feeding",
+    "Comorbidities in malnutrition management"
+  ],
+  "chunk_heading": "(MAM) MODERATE ACUTE MALNUTRITION AND SUPPLEMENTARY FEEDING;NON-RESPONSE EVALUATION AND TARGETED INVESTIGATION;DISTINGUISHING NON-RESPONSE FROM ADHERENCE FAILURE;",
+  "topic": "(MAM) MODERATE ACUTE MALNUTRITION AND SUPPLEMENTARY FEEDING",
+  "subtopic": "NON-RESPONSE EVALUATION AND TARGETED INVESTIGATION",
+  "sub_subtopic": "DISTINGUISHING NON-RESPONSE FROM ADHERENCE FAILURE",
+  "heading_path": "(MAM) MODERATE ACUTE MALNUTRITION AND SUPPLEMENTARY FEEDING;NON-RESPONSE EVALUATION AND TARGETED INVESTIGATION;DISTINGUISHING NON-RESPONSE FROM ADHERENCE FAILURE;",
+  "reference_count": 3,
+  "has_guidelines": false,
+  "sequence": "1\u00861"
+}

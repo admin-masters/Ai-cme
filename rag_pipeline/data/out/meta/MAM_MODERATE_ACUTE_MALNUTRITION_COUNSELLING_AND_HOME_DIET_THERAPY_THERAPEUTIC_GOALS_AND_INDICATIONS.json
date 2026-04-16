@@ -1,0 +1,48 @@
+{
+  "chunk_summary": "Therapeutic goals for uncomplicated moderate wasting focus on recovery, prevention of progression to severe wasting, and risk-stratified supplementation, prioritizing nutrient-dense home diets and counselling per WHO guidelines.",
+  "learning_objectives": [
+    "Understand therapeutic goals for moderate acute malnutrition (MAM) in children under 5 years.",
+    "Learn WHO recommendations for nutrient-dense home diets and risk-stratified supplementation.",
+    "Identify indications for specially formulated supplements in routine and humanitarian settings.",
+    "Explore energy requirements and supplementation strategies for recovery in MAM."
+  ],
+  "key_facts": [
+    "WHO prioritizes counselling and nutrient-dense home diets for uncomplicated MAM.",
+    "Supplementation is recommended for high-risk children (e.g., MUAC 115\u2013119 mm, WAZ < -3, age <24 months, relapse, comorbidity).",
+    "In humanitarian contexts, supplementation may be considered for all children 6\u201359 months with moderate wasting.",
+    "Lipid-based nutrient supplements (LNS) are conditionally preferred by WHO; fortified blended foods are secondary options.",
+    "Supplements should contribute 40\u201360% of daily energy needs, with total energy needs estimated at 100\u2013130 kcal/kg/day."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Malnutrition",
+    "Nutritional Support",
+    "Child Nutrition Disorders",
+    "Diet Therapy",
+    "Energy Intake",
+    "Micronutrients",
+    "Food Assistance"
+  ],
+  "tags_custom": [
+    "moderate wasting",
+    "nutrient-dense diets",
+    "child malnutrition management",
+    "supplementation strategies",
+    "WHO guidelines"
+  ],
+  "reference_quote": "WHO anchors moderate wasting care in a nutrient-dense diet plus identification and treatment of medical and psychosocial drivers.",
+  "document_key_topics": [
+    "Moderate acute malnutrition (MAM) management",
+    "Counselling and home diet therapy",
+    "Risk-stratified supplementation",
+    "WHO guidelines for nutritional recovery"
+  ],
+  "chunk_heading": "(MAM) MODERATE ACUTE MALNUTRITION AND SUPPLEMENTARY FEEDING;COUNSELLING AND HOME DIET THERAPY IN UNCOMPLICATED MODERATE WASTING;THERAPEUTIC GOALS AND INDICATIONS FOR SUPPLEMENTATION;",
+  "topic": "(MAM) MODERATE ACUTE MALNUTRITION AND SUPPLEMENTARY FEEDING",
+  "subtopic": "COUNSELLING AND HOME DIET THERAPY IN UNCOMPLICATED MODERATE WASTING",
+  "sub_subtopic": "THERAPEUTIC GOALS AND INDICATIONS FOR SUPPLEMENTATION",
+  "heading_path": "(MAM) MODERATE ACUTE MALNUTRITION AND SUPPLEMENTARY FEEDING;COUNSELLING AND HOME DIET THERAPY IN UNCOMPLICATED MODERATE WASTING;THERAPEUTIC GOALS AND INDICATIONS FOR SUPPLEMENTATION;",
+  "reference_count": 4,
+  "has_guidelines": false,
+  "sequence": "1p1"
+}

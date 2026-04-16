@@ -1,0 +1,46 @@
+{
+  "chunk_summary": "This section focuses on managing pneumonia with hypoxia in children with severe acute malnutrition (SAM), including antibiotic step-down protocols and metabolic corrections.",
+  "learning_objectives": [
+    "Understand the management of pneumonia with hypoxia in children with SAM.",
+    "Learn the appropriate antibiotic step-down protocols for severe pneumonia in malnourished children.",
+    "Recognize the role of metabolic corrections in improving outcomes for SAM patients with pneumonia."
+  ],
+  "key_facts": [
+    "Children with SAM and pneumonia are at higher risk of hypoxia and require close monitoring.",
+    "Initial antibiotic therapy should cover common pathogens, with step-down therapy guided by clinical improvement.",
+    "Hypoxia management includes oxygen supplementation to maintain SpO2 \u2265 90%.",
+    "Metabolic corrections, such as addressing hypoglycemia and electrolyte imbalances, are critical in SAM management.",
+    "WHO guidelines emphasize the use of amoxicillin as a first-line antibiotic for severe pneumonia in children."
+  ],
+  "complexity": "intermediate",
+  "tags_mesh": [
+    "Severe Acute Malnutrition",
+    "Pneumonia",
+    "Hypoxia",
+    "Antibiotic Therapy",
+    "Metabolic Correction",
+    "Child Nutrition Disorders",
+    "Oxygen Therapy",
+    "Infectious Disease Management"
+  ],
+  "tags_custom": [
+    "SAM pneumonia management",
+    "antibiotic step-down",
+    "hypoxia treatment"
+  ],
+  "reference_quote": "WHO guidelines recommend amoxicillin as the first-line antibiotic for severe pneumonia in children with SAM. (Source: https://www.ncbi.nlm.nih.gov/books/NBK154454/)",
+  "document_key_topics": [
+    "Pneumonia management in SAM",
+    "Hypoxia treatment protocols",
+    "Antibiotic step-down therapy",
+    "Metabolic corrections in malnourished children"
+  ],
+  "chunk_heading": "SEVERE ACUTE MALNUTRITION - (SAM) MANAGEMENT;INFECTION MANAGEMENT AND METABOLIC CORRECTIONS;PNEUMONIA WITH HYPOXIA MANAGEMENT AND ANTIBIOTIC STEP-DOWN;",
+  "topic": "SEVERE ACUTE MALNUTRITION - (SAM) MANAGEMENT",
+  "subtopic": "INFECTION MANAGEMENT AND METABOLIC CORRECTIONS",
+  "sub_subtopic": "PNEUMONIA WITH HYPOXIA MANAGEMENT AND ANTIBIOTIC STEP-DOWN",
+  "heading_path": "SEVERE ACUTE MALNUTRITION - (SAM) MANAGEMENT;INFECTION MANAGEMENT AND METABOLIC CORRECTIONS;PNEUMONIA WITH HYPOXIA MANAGEMENT AND ANTIBIOTIC STEP-DOWN;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "1w3.2"
+}

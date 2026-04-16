@@ -5,7 +5,12 @@ import azure.functions as func  # ⬅ Azure-Functions runtime
 import pyodbc  # ⬅ ODBC to Azure SQL
 
 DB_CONN = "DRIVER={ODBC Driver 18 for SQL Server};SERVER=20.171.24.17;DATABASE=CME2;UID=new_root;PWD=japl@bJBYV77;Encrypt=no;TrustServerCertificate=yes;"
+from pathlib import Path
+from dotenv import load_dotenv
 
+# Load environment variables from rag_pipeline/.env when running scripts directly.
+ENV_PATH = Path(__file__).resolve().parents[1] / ".env"
+load_dotenv(dotenv_path=ENV_PATH)
 AZURE_OAI_KEY = os.getenv("AZURE_OPENAI_KEY")
 # ─────────────────────────────── Taxonomy seeds ────────────────────────────
 TAXONOMY = {

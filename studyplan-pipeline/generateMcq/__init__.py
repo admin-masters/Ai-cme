@@ -6,7 +6,11 @@ import azure.functions as func
 import pyodbc
 from openai import AzureOpenAI
 from azure.storage.queue import QueueClient
+from pathlib import Path
+from dotenv import load_dotenv
 
+ENV_PATH = Path(__file__).resolve().parents[1] / ".env"
+load_dotenv(dotenv_path=ENV_PATH)
 # ───────────────────── Azure/OpenAI config ─────────────────────
 AZURE_OAI_ENDPOINT = "https://azure-140709.openai.azure.com/"
 AZURE_OAI_KEY = os.getenv("AZURE_OPENAI_KEY")

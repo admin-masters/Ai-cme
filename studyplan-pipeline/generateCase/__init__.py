@@ -7,7 +7,12 @@ from openai import AzureOpenAI
 from azure.storage.queue import QueueClient
 from azure.core.credentials import AzureKeyCredential
 from azure.search.documents import SearchClient
+from pathlib import Path
+from dotenv import load_dotenv
 
+# Load environment variables from studyplan-pipeline/.env.
+ENV_PATH = Path(__file__).resolve().parents[1] / ".env"
+load_dotenv(dotenv_path=ENV_PATH)
 DB = "DRIVER={ODBC Driver 18 for SQL Server};SERVER=20.171.24.17;DATABASE=CME2;UID=new_root;PWD=japl@bJBYV77;Encrypt=no;TrustServerCertificate=yes;"
 
 AZURE_OAI_ENDPOINT = "https://azure-140709.openai.azure.com/"

@@ -6,3 +6,5 @@ reportlab
 azure-storage-blob
 openai
 future
+python-dotenv
+streamlit

@@ -1,0 +1,46 @@
+{
+  "chunk_summary": "Guidelines for managing infections in severe acute malnutrition (SAM) focus on early antibiotic use, reassessment timelines, and syndrome-specific treatment durations to prevent undertreatment or overuse.",
+  "learning_objectives": [
+    "Understand the importance of early antibiotic initiation in complicated SAM, even without typical infection signs.",
+    "Learn to use physiologic danger signs as infection triggers and reassess therapy at defined intervals.",
+    "Apply syndrome-specific antibiotic durations and escalate care for non-responding cases."
+  ],
+  "key_facts": [
+    "In complicated SAM, assume bacterial infection even without typical signs like fever.",
+    "Reassess therapy at 48\u201372 hours and again at day 5 to adjust treatment based on clinical progress.",
+    "Minimum antibiotic durations: sepsis (\u22657 days), UTI (7\u201310 days), meningitis (14\u201321 days), osteomyelitis (~4 weeks).",
+    "Culture samples should be collected before antibiotics if feasible, but treatment must not be delayed in unstable children.",
+    "Non-improvement by day 5 mandates reassessment for resistant organisms, misdiagnosis, or comorbidities like TB or HIV."
+  ],
+  "complexity": "advanced",
+  "tags_mesh": [
+    "Severe Acute Malnutrition",
+    "Antibiotic Stewardship",
+    "Bacterial Infections",
+    "Sepsis",
+    "Urinary Tract Infections",
+    "Meningitis",
+    "Osteomyelitis",
+    "Pediatric Malnutrition"
+  ],
+  "tags_custom": [
+    "SAM infection management",
+    "antibiotic protocols",
+    "syndrome reassessment",
+    "pediatric critical care"
+  ],
+  "reference_quote": "In complicated SAM, assume bacterial infection even when typical signs are absent. Antibiotic prescribing should be standardized and time-linked to reassessment. (Source: Ministry of Health and Family Welfare, Operational guidelines on facility-based management of children with severe acute malnutrition, 2011)",
+  "document_key_topics": [
+    "Antibiotic stewardship in SAM",
+    "Syndrome-specific treatment durations",
+    "Reassessment protocols for infection management"
+  ],
+  "chunk_heading": "SEVERE ACUTE MALNUTRITION - (SAM) MANAGEMENT;INFECTION MANAGEMENT AND METABOLIC CORRECTIONS;ANTIBIOTIC STEWARDSHIP AND SYNDROME REASSESSMENT IN SAM;",
+  "topic": "SEVERE ACUTE MALNUTRITION - (SAM) MANAGEMENT",
+  "subtopic": "INFECTION MANAGEMENT AND METABOLIC CORRECTIONS",
+  "sub_subtopic": "ANTIBIOTIC STEWARDSHIP AND SYNDROME REASSESSMENT IN SAM",
+  "heading_path": "SEVERE ACUTE MALNUTRITION - (SAM) MANAGEMENT;INFECTION MANAGEMENT AND METABOLIC CORRECTIONS;ANTIBIOTIC STEWARDSHIP AND SYNDROME REASSESSMENT IN SAM;",
+  "reference_count": 5,
+  "has_guidelines": false,
+  "sequence": "1v2"
+}
