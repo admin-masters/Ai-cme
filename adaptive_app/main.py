@@ -233,11 +233,176 @@ def api_resume(user_id: UUID, topic_id: UUID):
     data = store.load_idle(user_id, topic_id)
     return data or {}
 
-# --- terminate an unfinished session: delete the JSON ---
+def _find_session_for_snapshot(db: Session, user_id: UUID, topic_id: UUID, snapshot: Dict[str, Any] | None) -> Session | None:
+    session_id = None
+    if snapshot:
+        try:
+            session_id = UUID(str(snapshot.get("session_id")))
+        except Exception:
+            session_id = None
+
+    if session_id:
+        sess: Session | None = db.query(Session).get(session_id)
+        if sess:
+            return sess
+
+    return (
+        db.query(Session)
+        .filter(Session.user_id == user_id, Session.topic_id == topic_id)
+        .order_by(Session.started_utc.desc())
+        .first()
+    )
+
+
+def _post_session_result_to_platform(
+    db: Session,
+    sess: Session,
+    *,
+    require_summary: bool = True,
+    status_override: str | None = None,
+    ended_at: datetime | None = None,
+) -> tuple[FinalResultResponse, int]:
+    user: User | None = sess.user
+    if not user or user.platform_user_id is None:
+        raise HTTPException(
+            status_code=400,
+            detail="Session user is not linked to an Education Platform user (platform_user_id missing)",
+        )
+
+    topic: Topic | None = db.query(Topic).get(sess.topic_id)
+    if not topic:
+        raise HTTPException(status_code=404, detail="Topic not found")
+
+    summary: SessionSummary | None = db.query(SessionSummary).get(sess.session_id)
+    if require_summary and not summary:
+        raise HTTPException(
+            status_code=409,
+            detail="Session summary not found. Generate report before sending final result.",
+        )
+
+    score = float(summary.score_pct) if summary else 0.0
+    effective_ended_at = ended_at or sess.ended_utc
+    if sess.started_utc and effective_ended_at:
+        delta = effective_ended_at - sess.started_utc
+    else:
+        delta = datetime.utcnow() - (sess.started_utc or datetime.utcnow())
+    time_spent_seconds = max(0, int(delta.total_seconds()))
+
+    topic_credits = topic.credits if topic.credits is not None else 1
+    credits_earned = -int(topic_credits)
+    current_balance = int(user.credit_balance or 0)
+    next_credit_balance = current_balance + credits_earned
+    final_status = status_override or sess.status or "completed"
+    completed_at = (effective_ended_at or (summary.finished_utc if summary else None) or datetime.utcnow()).isoformat()
+
+    callback_url = user.return_url_post
+    if not callback_url:
+        raise HTTPException(
+            status_code=400,
+            detail="No return_url_post stored for user. Ensure /api/launch-from-platform has been called.",
+        )
+
+    payload = {
+        "uid": user.platform_user_id,
+        "email": user.email,
+        "module_id": str(topic.topic_id),
+        "session_id": str(sess.session_id),
+        "score": score,
+        "time_spent": time_spent_seconds,
+        "credits_earned": credits_earned,
+        "credits": next_credit_balance,
+        "status": final_status,
+        "completed_at": completed_at,
+    }
+
+    try:
+        import jwt
+
+        secret = settings.launch_signing_secret
+        if not secret:
+            raise HTTPException(status_code=500, detail="LAUNCH_SIGNING_SECRET is not configured")
+        jwt_payload = {
+            "uid": user.platform_user_id,
+            "credits": next_credit_balance,
+            "session_id": str(sess.session_id),
+            "status": final_status,
+            "exp": int(time.time()) + 300,
+        }
+        token = jwt.encode(jwt_payload, secret, algorithm="HS256")
+        separator = "&" if "?" in callback_url else "?"
+        callback = f"{callback_url}{separator}token={token}"
+        resp = requests.post(callback, json=payload, timeout=10)
+    except requests.RequestException as exc:
+        raise HTTPException(
+            status_code=502,
+            detail=f"Error calling Education Platform callback URL: {exc}",
+        )
+
+    if resp.status_code >= 400:
+        raise HTTPException(
+            status_code=502,
+            detail=f"Education Platform returned HTTP {resp.status_code}",
+        )
+
+    try:
+        ack = resp.json()
+    except ValueError:
+        raise HTTPException(
+            status_code=502,
+            detail="Education Platform response is not valid JSON",
+        )
+
+    if not (ack.get("status") == "received" or ack.get("ok") is True):
+        raise HTTPException(
+            status_code=502,
+            detail="Education Platform did not acknowledge the callback",
+        )
+
+    user.credit_balance = next_credit_balance
+    db.commit()
+
+    return (
+        FinalResultResponse(
+            status="success",
+            platform_status=ack.get("status", ""),
+            redirect_url=user.return_url_get,
+        ),
+        next_credit_balance,
+    )
+
+
+# --- terminate an unfinished session: mark DB status, post final result, then delete the JSON ---
 @app.delete("/api/resume/{user_id}/{topic_id}")
-def api_resume_delete(user_id: UUID, topic_id: UUID):
+def api_resume_delete(user_id: UUID, topic_id: UUID, db: Session = Depends(get_db)):
+    snapshot = store.load_idle(user_id, topic_id)
+    sess = _find_session_for_snapshot(db, user_id, topic_id, snapshot)
+    if not sess:
+        ok = store.delete_idle(user_id, topic_id)
+        return {"deleted": ok, "status": "not-found"}
+
+    ended_at = datetime.utcnow()
+    platform_result, next_credit_balance = _post_session_result_to_platform(
+        db,
+        sess,
+        require_summary=False,
+        status_override="terminated",
+        ended_at=ended_at,
+    )
+
+    sess.status = "terminated"
+    sess.ended_utc = ended_at
+    sess.last_activity_utc = ended_at
+    db.commit()
+
+    store.pop(sess.session_id)
     ok = store.delete_idle(user_id, topic_id)
-    return {"deleted": ok}
+    return {
+        "deleted": ok,
+        "status": "terminated",
+        "session_id": str(sess.session_id),
+        "credit_balance": next_credit_balance,
+        "platform_status": platform_result.platform_status,
+    }
 
 # --- Dashboard: list all attempted topics with status ---
 @app.get("/api/dashboard/{user_id}")
@@ -380,8 +545,7 @@ def api_report(session_id: UUID, db: Session = Depends(get_db)):
         pass
 
     store.delete_idle(s.user_id, s.topic_id)  # NEW: remove any snapshot for this session
-    from main import api_session_final_result
-    api_session_final_result(session_id, db)
+    _post_session_result_to_platform(db, s, require_summary=True)
     return ReportOut(markdown=md)
 # main.py
 from services import load_plan
@@ -544,111 +708,5 @@ def api_session_final_result(
     if not sess:
         raise HTTPException(status_code=404, detail="Session not found")
 
-    user: User | None = sess.user
-    if not user or user.platform_user_id is None:
-        raise HTTPException(
-            status_code=400,
-            detail="Session user is not linked to an Education Platform user (platform_user_id missing)",
-        )
-
-    topic: Topic | None = db.query(Topic).get(sess.topic_id)
-    if not topic:
-        raise HTTPException(status_code=404, detail="Topic not found")
-
-    summary: SessionSummary | None = db.query(SessionSummary).get(session_id)
-    if not summary:
-        # Usually generated by /api/report; insist on it so score is correct
-        raise HTTPException(
-            status_code=409,
-            detail="Session summary not found. Generate report before sending final result.",
-        )
-
-    # Score as a plain float
-    score = float(summary.score_pct)
-
-    # Time spent in seconds (ended - started)
-    if sess.started_utc and sess.ended_utc:
-        delta = sess.ended_utc - sess.started_utc
-    else:
-        delta = datetime.utcnow() - (sess.started_utc or datetime.utcnow())
-    time_spent_seconds = int(delta.total_seconds())
-
-    # Credits rewarded: negative of topic credits (e.g. 1 -> -1)
-    topic_credits = topic.credits if topic.credits is not None else 1
-    credits_earned = -int(topic_credits)
-
-    completed_at = (sess.ended_utc or summary.finished_utc or datetime.utcnow()).isoformat()
-
-    callback_url = user.return_url_post
-    if not callback_url:
-        raise HTTPException(
-            status_code=400,
-            detail="No return_url_post stored for user. Ensure /api/launch-from-platform has been called.",
-        )
-
-    payload = {
-        "uid": user.platform_user_id,
-        "email": user.email,
-        "module_id": str(topic.topic_id),          # module_id = topic_id (per requirement)
-        "session_id": str(session_id),             # real session_id from /api/session
-        "score": score,
-        "time_spent": time_spent_seconds,
-        "credits_earned": credits_earned,          # ALWAYS negative of topic.credits
-        "status": sess.status or "completed",
-        "completed_at": completed_at,
-    }
-
-    # POST to Education Platform
-    try:
-        import jwt, time
-
-        secret = settings.launch_signing_secret  # same shared secret
-
-        jwt_payload = {
-            "uid": user.platform_user_id,
-            "credits": user.credit_balance + credits_earned,
-            "session_id": str(session_id),
-            "exp": int(time.time()) + 300
-        }
-
-        token = jwt.encode(jwt_payload, secret, algorithm="HS256")
-
-        callback = f"{user.return_url_post}?token={token}"
-
-        resp = requests.post(callback, timeout=10)  # no json body
-
-        print(resp)
-    except requests.RequestException as exc:
-        print(exc)
-        raise HTTPException(
-            status_code=502,
-            detail=f"Error calling Education Platform callback URL: {exc}",
-        )
-
-    if resp.status_code >= 400:
-        raise HTTPException(
-            status_code=502,
-            detail=f"Education Platform returned HTTP {resp.status_code}",
-        )
-
-    try:
-        ack = resp.json()
-    except ValueError:
-        raise HTTPException(
-            status_code=502,
-            detail="Education Platform response is not valid JSON",
-        )
-
-    if not (ack.get("status") == "received" or ack.get("ok") is True):
-        raise HTTPException(
-            status_code=502,
-            detail="Education Platform did not acknowledge the callback",
-        )
-
-
-    # Successful – return redirect_url for the UI to send the user back
-    return FinalResultResponse(
-        status="success",
-        platform_status=ack.get("status", ""),
-        redirect_url=user.return_url_get,
-    )
+    platform_result, _ = _post_session_result_to_platform(db, sess, require_summary=True)
+    return platform_result

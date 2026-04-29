@@ -160,6 +160,8 @@ export default function AdaptiveApp() {
   const [showResumePrompt, setShowResumePrompt] = useState(false);
   const [activeSessionPromptOpen, setActiveSessionPromptOpen] = useState(false);
   const [pendingLockedView, setPendingLockedView] = useState("home");
+  const [terminatePrompt, setTerminatePrompt] = useState({ open: false, session: null });
+  const [terminatingSession, setTerminatingSession] = useState(false);
 
   /* ---------- dashboard state ---------- */
   const [dashboardRows, setDashboardRows] = useState([]);
@@ -296,7 +298,7 @@ export default function AdaptiveApp() {
     const reset = () => {
       clearTimeout(timer);
       timer = setTimeout(async () => {
-        alert("Session is being terminated because of inactivity.");
+        alert("Session progress is being saved because of inactivity.");
 
         try {
           await axios.post("/api/api/session/idle-save", {
@@ -493,17 +495,40 @@ export default function AdaptiveApp() {
     }
   };
 
-  const terminateSession = async (t) => {
+  const openTerminatePrompt = (session) => {
+    setTerminatePrompt({ open: true, session });
+  };
+
+  const closeTerminatePrompt = () => {
+    if (!terminatingSession) {
+      setTerminatePrompt({ open: false, session: null });
+    }
+  };
+
+  const terminateSession = async () => {
+    const t = terminatePrompt.session;
+    if (!t) return;
+
+    setTerminatingSession(true);
     try {
-      await axios.delete(`/api/api/resume/${USER_ID}/${t.topic_id}`);
+      const { data } = await axios.delete(`/api/api/resume/${USER_ID}/${t.topic_id}`);
       const updated = resumeData.filter(x => x.topic_id !== t.topic_id);
       setResumeData(updated);
+      if (Number.isFinite(Number(data?.credit_balance))) {
+        setCreditBalance(Number(data.credit_balance));
+      } else {
+        refreshCreditBalance();
+      }
       if (updated.length === 0) {
         setShowResumePrompt(false);
         setView("home");
       }
     } catch (error) {
       console.error("Error terminating session:", error);
+      alert("Unable to terminate this session. Please try again so your credit balance can be updated correctly.");
+    } finally {
+      setTerminatingSession(false);
+      setTerminatePrompt({ open: false, session: null });
     }
   };
 
@@ -847,6 +872,26 @@ export default function AdaptiveApp() {
     </Stack>
   );
 
+  const dashboardStatus = (status) => {
+    const normalized = String(status || "").toLowerCase();
+    if (normalized === "completed") {
+      return {
+        label: "Completed",
+        background: 'linear-gradient(135deg, #2ed573 0%, #1dd1a1 100%)',
+      };
+    }
+    if (normalized === "terminated") {
+      return {
+        label: "Terminated",
+        background: 'linear-gradient(135deg, #e74c3c 0%, #c0392b 100%)',
+      };
+    }
+    return {
+      label: "In Progress",
+      background: 'linear-gradient(135deg, #ff6b35 0%, #f7931e 100%)',
+    };
+  };
+
   const renderLessonFooter = (backLabel, onBack) => (
     <Paper
       elevation={8}
@@ -984,6 +1029,56 @@ export default function AdaptiveApp() {
     </Dialog>
   );
 
+  const terminateSessionDialog = (
+    <Dialog
+      open={terminatePrompt.open}
+      onClose={closeTerminatePrompt}
+      fullWidth
+      maxWidth="sm"
+    >
+      <DialogTitle sx={{ fontWeight: 'bold', color: '#2c3e50' }}>
+        Terminate Session?
+      </DialogTitle>
+      <DialogContent>
+        <Stack spacing={2}>
+          <Typography sx={{ color: '#34495e', lineHeight: 1.7 }}>
+            Are you sure you want to terminate this session? The attempt credits for this session will be lost.
+          </Typography>
+          <Alert severity="warning">
+            Save your progress if you want to preserve your credits and continue this session later.
+          </Alert>
+        </Stack>
+      </DialogContent>
+      <DialogActions sx={{ px: 3, pb: 3 }}>
+        <Button
+          onClick={closeTerminatePrompt}
+          variant="outlined"
+          disabled={terminatingSession}
+          sx={{
+            borderRadius: 2,
+            textTransform: 'none',
+            fontWeight: 'bold'
+          }}
+        >
+          Save Progress
+        </Button>
+        <Button
+          onClick={terminateSession}
+          variant="contained"
+          color="error"
+          disabled={terminatingSession}
+          sx={{
+            borderRadius: 2,
+            textTransform: 'none',
+            fontWeight: 'bold'
+          }}
+        >
+          {terminatingSession ? "Terminating..." : "Terminate Session"}
+        </Button>
+      </DialogActions>
+    </Dialog>
+  );
+
   /* ---------- LOADING SCREEN ---------- */
   if (loading) {
     return (
@@ -1073,7 +1168,7 @@ export default function AdaptiveApp() {
                       <Button
                         variant="outlined"
                         color="error"
-                        onClick={() => terminateSession(t)}
+                        onClick={() => openTerminatePrompt(t)}
                         sx={{
                           fontWeight: 'bold',
                           textTransform: 'none'
@@ -1099,6 +1194,7 @@ export default function AdaptiveApp() {
               </Button>
             </Paper>
           </Fade>
+          {terminateSessionDialog}
         </Container>
       </Box>
     );
@@ -2335,10 +2431,10 @@ export default function AdaptiveApp() {
                                   Session ID: {row.session_id}
                                 </Typography>
                                 <Chip
-                                  label={row.status === 'completed' ? 'Completed' : 'In Progress'}
+                                  label={dashboardStatus(row.status).label}
                                   sx={{
                                     width: 'fit-content',
-                                    background: row.status === 'completed' ? 'linear-gradient(135deg, #2ed573 0%, #1dd1a1 100%)' : 'linear-gradient(135deg, #ff6b35 0%, #f7931e 100%)',
+                                    background: dashboardStatus(row.status).background,
                                     color: 'white',
                                     fontWeight: 'bold'
                                   }}
