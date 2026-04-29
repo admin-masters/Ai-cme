@@ -101,6 +101,10 @@ class LaunchResponse(BaseModel):
     message: str
 
 
+class UserReturnUrlResponse(BaseModel):
+    return_url_get: str | None = None
+
+
 class FinalResultResponse(BaseModel):
     """
     Response to our *own* endpoint that sends the final result back

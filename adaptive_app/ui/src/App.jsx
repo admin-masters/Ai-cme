@@ -21,7 +21,8 @@ import {
   Psychology as PsychologyIcon,
   EmojiEvents as TrophyIcon,
   Timeline as TimelineIcon,
-  Dashboard as DashboardIcon
+  Dashboard as DashboardIcon,
+  ExitToApp as ExitToAppIcon
 } from "@mui/icons-material";
 
 import { marked } from "marked";
@@ -160,6 +161,8 @@ export default function AdaptiveApp() {
 
   /* ---------- dashboard state ---------- */
   const [dashboardRows, setDashboardRows] = useState([]);
+  const [returnUrlGet, setReturnUrlGet] = useState("");
+  const [returningToPlatform, setReturningToPlatform] = useState(false);
 
   /* ---------- NEW: lock state ---------- */
   const [locked, setLocked] = useState(false);
@@ -174,6 +177,26 @@ export default function AdaptiveApp() {
       "Make sure the Education Platform redirects with ?user_id=<adaptive-user-uuid>."
     );
   }
+
+  useEffect(() => {
+    if (!USER_ID) {
+      setReturnUrlGet("");
+      return;
+    }
+
+    let cancelled = false;
+    axios.get(`/api/users/${USER_ID}/return-url`)
+      .then(r => {
+        if (!cancelled) setReturnUrlGet(r.data?.return_url_get || "");
+      })
+      .catch(() => {
+        if (!cancelled) setReturnUrlGet("");
+      });
+
+    return () => {
+      cancelled = true;
+    };
+  }, [USER_ID]);
 
 
   /* ---------- bootstrap: load supertopics ---------- */
@@ -537,6 +560,29 @@ export default function AdaptiveApp() {
     setShowResumePrompt(false);
   }
 };
+
+  const returnToEducationPlatform = async () => {
+    if (!USER_ID) return;
+
+    setReturningToPlatform(true);
+    try {
+      const { data } = await axios.get(`/api/users/${USER_ID}/return-url`);
+      const redirectUrl = data?.return_url_get || returnUrlGet;
+
+      if (!redirectUrl) {
+        alert("Return URL is not available for this user.");
+        return;
+      }
+
+      setReturnUrlGet(redirectUrl);
+      window.location.assign(redirectUrl);
+    } catch (error) {
+      console.error("Error loading return URL:", error);
+      alert("Unable to return to the Education Platform. Please try again.");
+    } finally {
+      setReturningToPlatform(false);
+    }
+  };
 
   const loadDashboard = async () => {
   if (enforceLock("dashboard")) return;
@@ -999,30 +1045,67 @@ export default function AdaptiveApp() {
         <Container maxWidth="lg">
           <Fade in timeout={800}>
             <Box>
-              <Stack direction="row" alignItems="center" justifyContent="space-between" sx={{ mb: 4 }}>
+              <Stack
+                direction={{ xs: "column", md: "row" }}
+                alignItems={{ xs: "stretch", md: "center" }}
+                justifyContent="space-between"
+                spacing={2}
+                sx={{ mb: 4 }}
+              >
                 <Stack direction="row" alignItems="center" spacing={2}>
                   <PsychologyIcon sx={{ fontSize: 48, color: '#ff6b35' }} />
                   <Typography variant="h3" sx={{ color: '#2c3e50', fontWeight: 'bold' }}>
                     Your Pediatrics Tutor
                   </Typography>
                 </Stack>
-                <Button
-                  variant="outlined"
-                  startIcon={<DashboardIcon />}
-                  onClick={loadDashboard}
-                  sx={{
-                    borderRadius: 25,
-                    px: 2.5,
-                    py: 0.5,
-                    borderColor: '#3498db',
-                    color: '#3498db',
-                    fontWeight: 'bold',
-                    textTransform: 'none',
-                    fontSize: '1rem'
-                  }}
+                <Stack
+                  direction={{ xs: "column", sm: "row" }}
+                  spacing={1.5}
+                  sx={{ width: { xs: "100%", md: "auto" } }}
                 >
-                  Dashboard
-                </Button>
+                  <Button
+                    variant="outlined"
+                    startIcon={<ExitToAppIcon />}
+                    onClick={returnToEducationPlatform}
+                    disabled={!USER_ID || returningToPlatform}
+                    sx={{
+                      borderRadius: 25,
+                      px: 2.5,
+                      py: 0.5,
+                      borderColor: '#2c3e50',
+                      color: '#2c3e50',
+                      fontWeight: 'bold',
+                      textTransform: 'none',
+                      fontSize: '1rem',
+                      width: { xs: "100%", sm: "auto" },
+                      '&:hover': {
+                        borderColor: '#ff6b35',
+                        color: '#ff6b35',
+                        background: 'rgba(255, 107, 53, 0.08)'
+                      }
+                    }}
+                  >
+                    {returningToPlatform ? "Returning..." : "Return to Platform"}
+                  </Button>
+                  <Button
+                    variant="outlined"
+                    startIcon={<DashboardIcon />}
+                    onClick={loadDashboard}
+                    sx={{
+                      borderRadius: 25,
+                      px: 2.5,
+                      py: 0.5,
+                      borderColor: '#3498db',
+                      color: '#3498db',
+                      fontWeight: 'bold',
+                      textTransform: 'none',
+                      fontSize: '1rem',
+                      width: { xs: "100%", sm: "auto" }
+                    }}
+                  >
+                    Dashboard
+                  </Button>
+                </Stack>
               </Stack>
 
               <Typography variant="h5" sx={{ mb: 4, color: '#34495e', textAlign: 'center', fontWeight: '500' }}>

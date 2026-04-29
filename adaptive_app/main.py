@@ -5,7 +5,7 @@ from database import SessionLocal, Base, engine
 from schemas import (
     StudyPlanOut, AnswerIn, AnswerOut,
     StartSessionIn, SessionReport, ReportOut,
-    LaunchRequest, LaunchResponse, FinalResultResponse,
+    LaunchRequest, LaunchResponse, UserReturnUrlResponse, FinalResultResponse,
 )
 from datetime import datetime
 from typing import Optional, Dict, Any
@@ -89,6 +89,15 @@ def _compute_launch_signature(data: Dict[str, Any]) -> str:
 @app.get("/api/supertopics")
 def api_supertopics():
     return list_supertopics()
+
+
+@app.get("/api/users/{user_id}/return-url", response_model=UserReturnUrlResponse)
+def api_user_return_url(user_id: UUID, db: Session = Depends(get_db)):
+    user: User | None = db.query(User).get(user_id)
+    if not user:
+        raise HTTPException(status_code=404, detail="User not found")
+
+    return UserReturnUrlResponse(return_url_get=user.return_url_get)
 
 # main.py
 
