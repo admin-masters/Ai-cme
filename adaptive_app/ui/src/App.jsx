@@ -185,7 +185,7 @@ export default function AdaptiveApp() {
     }
 
     let cancelled = false;
-    axios.get(`/api/users/${USER_ID}/return-url`)
+    axios.get(`/api/api/users/${USER_ID}/return-url`)
       .then(r => {
         if (!cancelled) setReturnUrlGet(r.data?.return_url_get || "");
       })
@@ -566,7 +566,7 @@ export default function AdaptiveApp() {
 
     setReturningToPlatform(true);
     try {
-      const { data } = await axios.get(`/api/users/${USER_ID}/return-url`);
+      const { data } = await axios.get(`/api/api/users/${USER_ID}/return-url`);
       const redirectUrl = data?.return_url_get || returnUrlGet;
 
       if (!redirectUrl) {
