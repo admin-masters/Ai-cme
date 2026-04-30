@@ -1,5 +1,6 @@
 from uuid import UUID, uuid4
 from fastapi import FastAPI, Depends, HTTPException, status, Body, Request, Header
+from sqlalchemy import text as sql_text
 from sqlalchemy.orm import Session
 from database import SessionLocal, Base, engine
 from schemas import (
@@ -27,6 +28,54 @@ import requests
 from settings import settings
 # Create tables if they do not exist (no‑op when already migrated)
 Base.metadata.create_all(bind=engine)
+
+
+def _ensure_session_status_constraint() -> None:
+    """
+    Keep the lightweight in-app schema bootstrap aligned with statuses the app writes.
+    Older databases only allowed active/completed/abandoned, which makes termination
+    fail after the credit callback has already succeeded.
+    """
+    ddl = """
+IF OBJECT_ID(N'cme.sessions', N'U') IS NOT NULL
+BEGIN
+    IF EXISTS (
+        SELECT 1
+        FROM sys.check_constraints cc
+        JOIN sys.tables t ON t.object_id = cc.parent_object_id
+        JOIN sys.schemas s ON s.schema_id = t.schema_id
+        WHERE s.name = N'cme'
+          AND t.name = N'sessions'
+          AND cc.name = N'CK_sessions_status'
+          AND cc.definition NOT LIKE N'%terminated%'
+    )
+    BEGIN
+        ALTER TABLE [cme].[sessions] DROP CONSTRAINT [CK_sessions_status];
+    END;
+
+    IF NOT EXISTS (
+        SELECT 1
+        FROM sys.check_constraints cc
+        JOIN sys.tables t ON t.object_id = cc.parent_object_id
+        JOIN sys.schemas s ON s.schema_id = t.schema_id
+        WHERE s.name = N'cme'
+          AND t.name = N'sessions'
+          AND cc.name = N'CK_sessions_status'
+    )
+    BEGIN
+        ALTER TABLE [cme].[sessions] WITH CHECK ADD CONSTRAINT [CK_sessions_status]
+        CHECK ([status] IN (N'active', N'completed', N'abandoned', N'terminated'));
+    END;
+END;
+"""
+    with engine.begin() as conn:
+        conn.execute(sql_text(ddl))
+
+
+try:
+    _ensure_session_status_constraint()
+except Exception as exc:
+    print(f"Warning: could not ensure sessions status constraint: {exc}")
 
 app = FastAPI(
     title="Adaptive Learning API",
@@ -371,6 +420,53 @@ def _post_session_result_to_platform(
     )
 
 
+def _already_terminated_response(sess: Session, delete_idle: bool = True) -> dict:
+    store.pop(sess.session_id)
+    ok = store.delete_idle(sess.user_id, sess.topic_id) if delete_idle else False
+    return {
+        "deleted": ok,
+        "status": "terminated",
+        "session_id": str(sess.session_id),
+        "credit_balance": sess.user.credit_balance if sess.user else None,
+        "platform_status": "already-terminated",
+    }
+
+
+def _terminate_session(db: Session, sess: Session, *, delete_idle: bool = True) -> dict:
+    if sess.status == "terminated":
+        return _already_terminated_response(sess, delete_idle=delete_idle)
+    if sess.status == "completed":
+        raise HTTPException(status_code=409, detail="Completed sessions cannot be terminated.")
+
+    ended_at = datetime.utcnow()
+    sess.status = "terminated"
+    sess.ended_utc = ended_at
+    sess.last_activity_utc = ended_at
+    try:
+        db.commit()
+    except Exception:
+        db.rollback()
+        raise
+
+    platform_result, next_credit_balance = _post_session_result_to_platform(
+        db,
+        sess,
+        require_summary=False,
+        status_override="terminated",
+        ended_at=ended_at,
+    )
+
+    store.pop(sess.session_id)
+    ok = store.delete_idle(sess.user_id, sess.topic_id) if delete_idle else False
+    return {
+        "deleted": ok,
+        "status": "terminated",
+        "session_id": str(sess.session_id),
+        "credit_balance": next_credit_balance,
+        "platform_status": platform_result.platform_status,
+    }
+
+
 # --- terminate an unfinished session: mark DB status, post final result, then delete the JSON ---
 @app.delete("/api/resume/{user_id}/{topic_id}")
 def api_resume_delete(user_id: UUID, topic_id: UUID, db: Session = Depends(get_db)):
@@ -380,29 +476,16 @@ def api_resume_delete(user_id: UUID, topic_id: UUID, db: Session = Depends(get_d
         ok = store.delete_idle(user_id, topic_id)
         return {"deleted": ok, "status": "not-found"}
 
-    ended_at = datetime.utcnow()
-    platform_result, next_credit_balance = _post_session_result_to_platform(
-        db,
-        sess,
-        require_summary=False,
-        status_override="terminated",
-        ended_at=ended_at,
-    )
+    return _terminate_session(db, sess, delete_idle=True)
 
-    sess.status = "terminated"
-    sess.ended_utc = ended_at
-    sess.last_activity_utc = ended_at
-    db.commit()
 
-    store.pop(sess.session_id)
-    ok = store.delete_idle(user_id, topic_id)
-    return {
-        "deleted": ok,
-        "status": "terminated",
-        "session_id": str(sess.session_id),
-        "credit_balance": next_credit_balance,
-        "platform_status": platform_result.platform_status,
-    }
+@app.delete("/api/session/{session_id}/terminate")
+def api_session_terminate(session_id: UUID, db: Session = Depends(get_db)):
+    sess: Session | None = db.query(Session).get(session_id)
+    if not sess:
+        raise HTTPException(status_code=404, detail="Session not found")
+
+    return _terminate_session(db, sess, delete_idle=True)
 
 # --- Dashboard: list all attempted topics with status ---
 @app.get("/api/dashboard/{user_id}")
@@ -416,17 +499,27 @@ def api_dashboard(user_id: UUID, db: Session = Depends(get_db)):
     summaries = { str(r.session_id): r
                   for r in db.query(SessionSummary).filter(SessionSummary.user_id == user_id).all() }
 
-    unfinished = { d["topic_id"] for d in store.has_idle(user_id) }
+    unfinished_items = store.has_idle(user_id)
+    unfinished_session_ids = {
+        str(d["session_id"]).lower()
+        for d in unfinished_items
+        if d.get("session_id")
+    }
+    unfinished_topic_ids = {str(d["topic_id"]).lower() for d in unfinished_items}
 
     out = []
     for s in q:
         sid = str(s.session_id)
         plan = load_plan(s.topic_id)
+        is_unfinished = (
+            sid.lower() in unfinished_session_ids
+            or (not unfinished_session_ids and str(s.topic_id).lower() in unfinished_topic_ids)
+        )
         row = {
             "session_id": sid,
             "topic_id": str(s.topic_id),
             "topic_name": plan["topic_name"] if plan else "Unknown topic",   # NEW
-            "status": "not-completed" if str(s.topic_id).lower() in unfinished else s.status,
+            "status": "not-completed" if is_unfinished else s.status,
             "started_utc": s.started_utc,
             "ended_utc": s.ended_utc
         }

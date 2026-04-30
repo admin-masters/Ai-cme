@@ -511,15 +511,28 @@ export default function AdaptiveApp() {
 
     setTerminatingSession(true);
     try {
-      const { data } = await axios.delete(`/api/api/resume/${USER_ID}/${t.topic_id}`);
-      const updated = resumeData.filter(x => x.topic_id !== t.topic_id);
+      const terminateUrl = t.session_id
+        ? `/api/api/session/${t.session_id}/terminate`
+        : `/api/api/resume/${USER_ID}/${t.topic_id}`;
+      const { data } = await axios.delete(terminateUrl);
+      const wasResumeItem = resumeData.some(x =>
+        x.topic_id === t.topic_id && (!t.session_id || x.session_id === t.session_id)
+      );
+      const updated = resumeData.filter(x =>
+        t.session_id ? x.session_id !== t.session_id : x.topic_id !== t.topic_id
+      );
       setResumeData(updated);
+      setDashboardRows(rows => rows.map(row => (
+        row.session_id === data?.session_id
+          ? { ...row, status: "terminated", ended_utc: new Date().toISOString() }
+          : row
+      )));
       if (Number.isFinite(Number(data?.credit_balance))) {
         setCreditBalance(Number(data.credit_balance));
       } else {
         refreshCreditBalance();
       }
-      if (updated.length === 0) {
+      if (wasResumeItem && updated.length === 0) {
         setShowResumePrompt(false);
         setView("home");
       }
@@ -2523,6 +2536,22 @@ export default function AdaptiveApp() {
                                     Performance
                                   </Button>
                                 )}
+                                {!["completed", "terminated"].includes(String(row.status || "").toLowerCase()) && (
+                                  <Button
+                                    variant="outlined"
+                                    color="error"
+                                    onClick={() => openTerminatePrompt(row)}
+                                    sx={{
+                                      borderRadius: 2,
+                                      px: 2,
+                                      py: 1,
+                                      fontWeight: 'bold',
+                                      textTransform: 'none'
+                                    }}
+                                  >
+                                    Terminate
+                                  </Button>
+                                )}
                               </Stack>
                             </Grid>
                           </Grid>
@@ -2535,6 +2564,7 @@ export default function AdaptiveApp() {
             </Box>
           </Fade>
         </Container>
+        {terminateSessionDialog}
       </Box>
     );
   }
