@@ -350,14 +350,33 @@ export default function AdaptiveApp() {
   /* ---------- report generation on finish ---------- */
   useEffect(() => {
     if (!finished || !sessionId) return;
-    setLoadingReport(true);
-    axios.get(`/api/api/report/${sessionId}`)
-      .then(r => setReportMd(r.data.markdown))
-      .catch(() => setReportMd("**Error:** unable to generate report."))
-      .finally(() => {
-        setLoadingReport(false);
-        refreshCreditBalance();
-      });
+    let cancelled = false;
+
+    const loadReport = async () => {
+      setLoadingReport(true);
+      try {
+        const { data } = await axios.get(`/api/api/report/${sessionId}`);
+        if (cancelled) return;
+
+        setReportMd(data.markdown);
+        const reportedBalance = data?.credit_balance;
+        const nextBalance = Number(reportedBalance);
+        if (reportedBalance !== null && reportedBalance !== undefined && Number.isFinite(nextBalance)) {
+          setCreditBalance(nextBalance);
+        } else {
+          await refreshCreditBalance();
+        }
+      } catch {
+        if (!cancelled) setReportMd("**Error:** unable to generate report.");
+      } finally {
+        if (!cancelled) setLoadingReport(false);
+      }
+    };
+
+    loadReport();
+    return () => {
+      cancelled = true;
+    };
   }, [finished, sessionId]);
 
   useEffect(() => {
@@ -589,48 +608,52 @@ export default function AdaptiveApp() {
   };
 
   const goHome = async () => {
-  if (enforceLock("home")) return;
+    if (enforceLock("home")) return;
 
-  // First reset the view state
-  setView("home");
-  setSelectedSuper("");
-  setSelectedCategory("");
-  setTopicsList([]);
-  setPlan(null);
-  setTopicId("");
-  setSessionId("");
+    // First reset the view state
+    setView("home");
+    setSelectedSuper("");
+    setSelectedCategory("");
+    setTopicsList([]);
+    setPlan(null);
+    setTopicId("");
+    setSessionId("");
+    setFinished(false);
+    setReportMd("");
+    setLoadingReport(false);
 
-  // Refetch unfinished sessions from backend when going home
-  try {
-    const { data } = await axios.get(`/api/api/resume-status/${USER_ID}`);
-    const u = data?.unfinished || [];
+    // Refetch unfinished sessions from backend when going home
+    try {
+      const { data } = await axios.get(`/api/api/resume-status/${USER_ID}`);
+      const u = data?.unfinished || [];
 
-    if (u.length > 0) {
-      // Check if any session has missing topic_id or topic_name
-      const hasInvalidData = u.some(session => !session.topic_id || !session.topic_name);
-      if (hasInvalidData) {
-        // Reload the site if there's invalid data
-        window.location.reload();
-        return;
+      if (u.length > 0) {
+        // Check if any session has missing topic_id or topic_name
+        const hasInvalidData = u.some(session => !session.topic_id || !session.topic_name);
+        if (hasInvalidData) {
+          // Reload the site if there's invalid data
+          window.location.reload();
+          return;
+        }
+        setResumeData(u);
+        setShowResumePrompt(true);
+      } else {
+        setResumeData([]);
+        setShowResumePrompt(false);
       }
-      setResumeData(u);
-      setShowResumePrompt(true);
-    } else {
+    } catch (error) {
+      console.error("Error fetching resume status:", error);
       setResumeData([]);
       setShowResumePrompt(false);
     }
-  } catch (error) {
-    console.error("Error fetching resume status:", error);
-    setResumeData([]);
-    setShowResumePrompt(false);
-  }
-};
+  };
 
   const returnToEducationPlatform = async () => {
     if (!USER_ID) return;
 
     setReturningToPlatform(true);
     try {
+      await refreshCreditBalance();
       const { data } = await axios.get(`/api/api/users/${USER_ID}/return-url`);
       const redirectUrl = data?.return_url_get || returnUrlGet;
 
@@ -647,6 +670,11 @@ export default function AdaptiveApp() {
     } finally {
       setReturningToPlatform(false);
     }
+  };
+
+  const goToAdaptiveHomeAfterCompletion = async () => {
+    await refreshCreditBalance();
+    await goHome();
   };
 
   const loadDashboard = async () => {
@@ -2281,13 +2309,81 @@ export default function AdaptiveApp() {
                     </Stack>
                   )}
 
-                  {!loadingReport && reportMd && (
-                    <Fade in timeout={600}>
-                      <Box>
-                        <Paper sx={{
-                          p: 3,
-                          mb: 3,
-                          borderRadius: 3,
+	                  {!loadingReport && reportMd && (
+	                    <Fade in timeout={600}>
+	                      <Box>
+	                        {!String(reportMd).startsWith("**Error:**") && (
+	                          <Box sx={{
+	                            p: 3,
+	                            mb: 3,
+	                            borderRadius: 3,
+	                            background: 'rgba(46, 213, 115, 0.08)',
+	                            border: '1px solid rgba(46, 213, 115, 0.28)'
+	                          }}>
+	                            <Stack
+	                              direction={{ xs: "column", md: "row" }}
+	                              spacing={2}
+	                              alignItems={{ xs: "stretch", md: "center" }}
+	                              justifyContent="space-between"
+	                            >
+	                              <Box>
+	                                <Typography variant="h6" sx={{ fontWeight: 'bold', color: '#2c3e50', mb: 0.5 }}>
+	                                  Where would you like to go next?
+	                                </Typography>
+	                                <Typography sx={{ color: '#34495e', lineHeight: 1.6 }}>
+	                                  Your credits have been updated for this completed session.
+	                                </Typography>
+	                              </Box>
+	                              <Stack direction={{ xs: "column", sm: "row" }} spacing={1.5}>
+	                                <Button
+	                                  variant="contained"
+	                                  onClick={returnToEducationPlatform}
+	                                  disabled={!USER_ID || returningToPlatform}
+	                                  startIcon={<ExitToAppIcon />}
+	                                  sx={{
+	                                    borderRadius: 3,
+	                                    px: 3,
+	                                    py: 1.25,
+	                                    background: 'linear-gradient(135deg, #3498db 0%, #2980b9 100%)',
+	                                    boxShadow: '0 8px 18px rgba(52, 152, 219, 0.25)',
+	                                    fontWeight: 'bold',
+	                                    whiteSpace: 'nowrap',
+	                                    '&:hover': {
+	                                      background: 'linear-gradient(135deg, #2980b9 0%, #3498db 100%)'
+	                                    }
+	                                  }}
+	                                >
+	                                  {returningToPlatform ? "Returning..." : "Education Platform"}
+	                                </Button>
+	                                <Button
+	                                  variant="outlined"
+	                                  onClick={goToAdaptiveHomeAfterCompletion}
+	                                  startIcon={<HomeIcon />}
+	                                  sx={{
+	                                    borderRadius: 3,
+	                                    px: 3,
+	                                    py: 1.25,
+	                                    borderColor: '#2ed573',
+	                                    color: '#1e9e5a',
+	                                    fontWeight: 'bold',
+	                                    whiteSpace: 'nowrap',
+	                                    '&:hover': {
+	                                      borderColor: '#1e9e5a',
+	                                      background: 'rgba(46, 213, 115, 0.12)'
+	                                    }
+	                                  }}
+	                                >
+	                                  Adaptive App Home
+	                                </Button>
+	                              </Stack>
+	                            </Stack>
+	                          </Box>
+	                        )}
+
+	                        <Paper sx={{
+	                          p: 3,
+	                          mb: 3,
+	                          borderRadius: 3,
                           background: 'linear-gradient(135deg, rgba(255, 107, 53, 0.05) 0%, rgba(247, 147, 30, 0.05) 100%)',
                           border: '1px solid rgba(255, 107, 53, 0.2)'
                         }}>
@@ -2355,12 +2451,12 @@ export default function AdaptiveApp() {
                             Review Categories
                           </Button>
 
-                          <Button
-                            variant="contained"
-                            onClick={goHome}
-                            startIcon={<HomeIcon />}
-                            sx={{
-                              borderRadius: 3,
+	                          <Button
+	                            variant="contained"
+	                            onClick={goToAdaptiveHomeAfterCompletion}
+	                            startIcon={<HomeIcon />}
+	                            sx={{
+	                              borderRadius: 3,
                               px: 4,
                               py: 1.5,
                               background: 'linear-gradient(135deg, #ff6b35 0%, #f7931e 100%)',
@@ -2370,10 +2466,10 @@ export default function AdaptiveApp() {
                                 boxShadow: '0 12px 30px rgba(255, 107, 53, 0.4)',
                                 background: 'linear-gradient(135deg, #f7931e 0%, #ff6b35 100%)'
                               }
-                            }}
-                          >
-                            New Learning Journey
-                          </Button>
+	                            }}
+	                          >
+	                            Adaptive App Home
+	                          </Button>
                         </Stack>
                       </Box>
                     </Fade>

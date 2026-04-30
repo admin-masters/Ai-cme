@@ -73,6 +73,8 @@ class SessionReport(BaseModel):
 
 class ReportOut(BaseModel):
     markdown: str
+    credit_balance: int | None = None
+
 # ---------- Education Platform integration ----------
 
 class LaunchRequest(BaseModel):
@@ -83,7 +85,7 @@ class LaunchRequest(BaseModel):
     email: EmailStr               # user email
     credits: int                  # current credit balance
     return_url_post: AnyHttpUrl   # callback URL for POSTing final result
-    return_url_get: AnyHttpUrl    # URL to redirect user after completion
+    return_url_get: AnyHttpUrl    # URL offered if the user chooses to return after completion
     iat: int                      # issued at (Unix seconds)
     exp: int                      # expiry (Unix seconds)
 
@@ -108,7 +110,8 @@ class UserReturnUrlResponse(BaseModel):
 class FinalResultResponse(BaseModel):
     """
     Response to our *own* endpoint that sends the final result back
-    to the Education Platform.
+    to the Education Platform. Navigation is handled by the Adaptive App UI,
+    so this response must not drive an automatic redirect.
     """
     status: Literal["success"]
     platform_status: str
