@@ -2,6 +2,7 @@
   "plan_json": {
     "topic_id": "824E1CE0-B4F5-4BAA-AC90-5080FDB2610A",
     "topic_name": "IMMUNIZATIONS",
+    "supertopic": "General Pediatrics",
     "assembled_utc": "2026-04-28T20:36:47",
     "subtopics": [
       {
