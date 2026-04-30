@@ -81,7 +81,7 @@ class SessionStore:
             with f.open("r", encoding="utf-8") as fh:
                 try:
                     j = json.load(fh)
-                    out.append({"topic_id": j["topic_id"], "file": str(f)})
+                    out.append({"topic_id": j["topic_id"], "session_id": j.get("session_id"), "file": str(f)})
                 except Exception:
                     continue
         return out
