@@ -1,6 +1,6 @@
 azure-functions==1.18.0
 pyodbc==4.0.39
-openai>=1.56.0,<2            # JSON mode + Responses API stable
+openai>=1.56.0,<2             # JSON mode + Responses API stable
 azure-search-documents>=11.6.0b2
 azure-functions
 azure-storage-queue
