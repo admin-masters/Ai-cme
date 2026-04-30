@@ -414,7 +414,7 @@ def _post_session_result_to_platform(
         FinalResultResponse(
             status="success",
             platform_status=ack.get("status", ""),
-            redirect_url=user.return_url_get,
+            redirect_url=None,
         ),
         next_credit_balance,
     )
@@ -581,7 +581,10 @@ def api_report(session_id: UUID, db: Session = Depends(get_db)):
     existing = db.query(SessionSummary).get(session_id)
     if existing and existing.report_markdown:
         print(ReportOut(markdown=existing.report_markdown))
-        return ReportOut(markdown=existing.report_markdown)
+        return ReportOut(
+            markdown=existing.report_markdown,
+            credit_balance=s.user.credit_balance if s.user else None,
+        )
 
     # 2) Try to build from the live in‑memory store (most recent session completions)
     try:
@@ -639,8 +642,8 @@ def api_report(session_id: UUID, db: Session = Depends(get_db)):
         pass
 
     store.delete_idle(s.user_id, s.topic_id)  # NEW: remove any snapshot for this session
-    _post_session_result_to_platform(db, s, require_summary=True)
-    return ReportOut(markdown=md)
+    _, next_credit_balance = _post_session_result_to_platform(db, s, require_summary=True)
+    return ReportOut(markdown=md, credit_balance=next_credit_balance)
 # main.py
 from services import load_plan
 
@@ -681,7 +684,7 @@ async def api_launch_from_platform(
       "email": "<user@example.com>",
       "credits": <int>,            // credit balance
       "return_url_post": "https://...",
-      "return_url_get": "https://...",
+      "return_url_get": "https://...",  // shown only when user chooses to return
       "iat": <unix seconds>,
       "exp": <unix seconds>
     }
